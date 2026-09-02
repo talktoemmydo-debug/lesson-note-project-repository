@@ -1,0 +1,389 @@
+{
+ "subject": "Basic Digital Literacy",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "The first screen we see is the ___",
+   "answer": "desktop",
+   "distractors": [
+    "keyboard",
+    "mouse",
+    "printer"
+   ]
+  },
+  {
+   "stem": "A small picture that stands for a program is an ___",
+   "answer": "icon",
+   "distractors": [
+    "key",
+    "wire",
+    "screen"
+   ]
+  },
+  {
+   "stem": "The small arrow we move is the ___",
+   "answer": "pointer",
+   "distractors": [
+    "icon",
+    "taskbar",
+    "button"
+   ]
+  },
+  {
+   "stem": "We click an icon to ___ it",
+   "answer": "open",
+   "distractors": [
+    "close",
+    "hide",
+    "break"
+   ]
+  },
+  {
+   "stem": "The mouse moves the ___ on the screen",
+   "answer": "pointer",
+   "distractors": [
+    "icon",
+    "key",
+    "wire"
+   ]
+  },
+  {
+   "stem": "Pressing the left button once is a ___",
+   "answer": "click",
+   "distractors": [
+    "drag",
+    "type",
+    "save"
+   ]
+  },
+  {
+   "stem": "To move a picture we ___ it",
+   "answer": "drag",
+   "distractors": [
+    "sing",
+    "hide",
+    "cut"
+   ]
+  },
+  {
+   "stem": "The keys A to Z are the ___ keys",
+   "answer": "letter",
+   "distractors": [
+    "number",
+    "function",
+    "arrow"
+   ]
+  },
+  {
+   "stem": "The key that makes a space is the ___",
+   "answer": "space bar",
+   "distractors": [
+    "enter key",
+    "shift key",
+    "backspace"
+   ]
+  },
+  {
+   "stem": "The key that rubs out a letter is the ___",
+   "answer": "backspace",
+   "distractors": [
+    "space bar",
+    "enter",
+    "shift"
+   ]
+  },
+  {
+   "stem": "The number keys are ___",
+   "answer": "0 to 9",
+   "distractors": [
+    "A to Z",
+    "F1 to F12",
+    "red to blue"
+   ]
+  },
+  {
+   "stem": "We type by pressing the ___ keys",
+   "answer": "letter",
+   "distractors": [
+    "number",
+    "arrow",
+    "function"
+   ]
+  },
+  {
+   "stem": "To start a new line we press ___",
+   "answer": "enter",
+   "distractors": [
+    "space bar",
+    "shift",
+    "escape"
+   ]
+  },
+  {
+   "stem": "We type a capital letter with the ___ key",
+   "answer": "shift",
+   "distractors": [
+    "enter",
+    "space",
+    "backspace"
+   ]
+  },
+  {
+   "stem": "We open a program by clicking its ___",
+   "answer": "icon",
+   "distractors": [
+    "wire",
+    "key",
+    "plug"
+   ]
+  },
+  {
+   "stem": "A program opens in a ___",
+   "answer": "window",
+   "distractors": [
+    "box",
+    "bag",
+    "door"
+   ]
+  },
+  {
+   "stem": "We ___ our work so we do not lose it",
+   "answer": "save",
+   "distractors": [
+    "hide",
+    "cut",
+    "lose"
+   ]
+  },
+  {
+   "stem": "The small ___ at the corner closes a window",
+   "answer": "x",
+   "distractors": [
+    "o",
+    "+",
+    "−"
+   ]
+  },
+  {
+   "stem": "The ___ tool draws a thin line",
+   "answer": "pencil",
+   "distractors": [
+    "brush",
+    "fill",
+    "eraser"
+   ]
+  },
+  {
+   "stem": "The ___ tool rubs out",
+   "answer": "eraser",
+   "distractors": [
+    "pencil",
+    "brush",
+    "fill"
+   ]
+  },
+  {
+   "stem": "The ___ tool colours a shape",
+   "answer": "fill",
+   "distractors": [
+    "pencil",
+    "line",
+    "brush"
+   ]
+  },
+  {
+   "stem": "We choose a colour from the ___ box",
+   "answer": "colour",
+   "distractors": [
+    "tool",
+    "file",
+    "key"
+   ]
+  },
+  {
+   "stem": "The computer helps us to ___",
+   "answer": "learn",
+   "distractors": [
+    "sleep",
+    "fight",
+    "hide"
+   ]
+  },
+  {
+   "stem": "A ___ teaches us new things",
+   "answer": "learning program",
+   "distractors": [
+    "broken wire",
+    "empty box",
+    "dark screen"
+   ]
+  },
+  {
+   "stem": "We use the computer to practise counting and ___",
+   "answer": "spelling",
+   "distractors": [
+    "sleeping",
+    "crying",
+    "running"
+   ]
+  },
+  {
+   "stem": "We use the computer with a ___ near",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "pet",
+    "baby"
+   ]
+  },
+  {
+   "stem": "We keep our hands clean and ___",
+   "answer": "dry",
+   "distractors": [
+    "wet",
+    "dirty",
+    "oily"
+   ]
+  },
+  {
+   "stem": "We press keys ___",
+   "answer": "gently",
+   "distractors": [
+    "hard",
+    "fast",
+    "rough"
+   ]
+  },
+  {
+   "stem": "We do not talk to ___ online",
+   "answer": "strangers",
+   "distractors": [
+    "teachers",
+    "parents",
+    "friends"
+   ]
+  },
+  {
+   "stem": "We sit well and not too close to the ___",
+   "answer": "screen",
+   "distractors": [
+    "door",
+    "wall",
+    "floor"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things on the desktop ",
+   "points": [
+    "icons",
+    "taskbar",
+    "pointer",
+    "background"
+   ]
+  },
+  {
+   "stem": "Name two things we do with a mouse ",
+   "points": [
+    "click",
+    "drag",
+    "double-click"
+   ]
+  },
+  {
+   "stem": "Name two special keys on the keyboard ",
+   "points": [
+    "space bar",
+    "enter",
+    "shift",
+    "backspace"
+   ]
+  },
+  {
+   "stem": "Name two keys we use when typing ",
+   "points": [
+    "letter keys",
+    "space bar",
+    "enter"
+   ]
+  },
+  {
+   "stem": "Name two things we do with a program ",
+   "points": [
+    "open",
+    "save",
+    "close"
+   ]
+  },
+  {
+   "stem": "Name two drawing tools ",
+   "points": [
+    "pencil",
+    "brush",
+    "eraser",
+    "fill"
+   ]
+  },
+  {
+   "stem": "Name two ways the computer helps us learn ",
+   "points": [
+    "stories",
+    "learning games",
+    "lessons"
+   ]
+  },
+  {
+   "stem": "Name two safe habits with the computer ",
+   "points": [
+    "grown-up near",
+    "clean dry hands",
+    "press gently"
+   ]
+  },
+  {
+   "stem": "Name two shapes we can draw ",
+   "points": [
+    "circle",
+    "square",
+    "triangle"
+   ]
+  },
+  {
+   "stem": "Name two things we must not do ",
+   "points": [
+    "eat near it",
+    "pull wires",
+    "talk to strangers"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is an icon?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two things we do with a mouse.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What does the space bar do?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two drawing tools and what each does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say two safe habits with the computer.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
