@@ -12,7 +12,7 @@ follow the scheme topics below. 98 teaching weeks in total.
 | --- | --- | --- | --- |
 | 1 | basic-science | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · sheet_lint 0 · gates ok |
 | 2 | basic-digital-literacy | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · sheet_lint 0 · gates ok |
-| 3 | christian-religious-studies | 1-6, 8, 9 | — |
+| 3 | christian-religious-studies | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · sheet_lint 0 · exempt from plates · gates ok |
 | 4 | cultural-and-creative-arts | 1-6, 8, 9 | — |
 | 5 | general-knowledge | 1-6, 8, 9 | — |
 | 6 | nigerian-history | 1-6, 8, 9 | — |

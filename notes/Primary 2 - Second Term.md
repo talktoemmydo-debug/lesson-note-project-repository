@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 98 lessons · 2 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 98 lessons · 3 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*2 subjects · 16 lessons · 2 term practice papers. Each part begins on a fresh page.*
+*3 subjects · 24 lessons · 3 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 2
   - [WEEK 1 — AIR IN MOTION](#week-1-air-in-motion) · 2
@@ -23,17 +23,27 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — ANIMALS](#week-6-animals) · 5
   - [WEEK 8 — FORMS OF TECHNOLOGY](#week-8-forms-of-technology) · 6
   - [WEEK 9 — FORMS OF TECHNOLOGY: LIGHT](#week-9-forms-of-technology-light) · 6
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 8
-  - [WEEK 1 — INTERFACE CUSTOMIZATION](#week-1-interface-customization) · 8
-  - [WEEK 2 — FILE MANAGEMENT I](#week-2-file-management-i) · 8
-  - [WEEK 3 — FILE MANAGEMENT II](#week-3-file-management-ii) · 9
-  - [WEEK 4 — DIGITAL CONTENT CREATION I](#week-4-digital-content-creation-i) · 10
-  - [WEEK 5 — DIGITAL CONTENT CREATION II](#week-5-digital-content-creation-ii) · 10
-  - [WEEK 6 — SAFETY AND PROTECTION](#week-6-safety-and-protection) · 11
-  - [WEEK 8 — SAFE INTERNET USE I](#week-8-safe-internet-use-i) · 12
-  - [WEEK 9 — SAFE INTERNET USE II](#week-9-safe-internet-use-ii) · 12
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 14
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 16
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 8
+  - [WEEK 1 — GOD SPEAKS TO US](#week-1-god-speaks-to-us) · 8
+  - [WEEK 2 — WE ARE CHILDREN OF ONE FATHER](#week-2-we-are-children-of-one-father) · 8
+  - [WEEK 3 — GOD CALLS US FOR A PURPOSE](#week-3-god-calls-us-for-a-purpose) · 9
+  - [WEEK 4 — GOD GIVES HIS LAW TO US](#week-4-god-gives-his-law-to-us) · 10
+  - [WEEK 5 — GOD REVEALS HIMSELF TO US (PART 1)](#week-5-god-reveals-himself-to-us-part-1) · 10
+  - [WEEK 6 — GOD REVEALS HIMSELF TO US (PART 2)](#week-6-god-reveals-himself-to-us-part-2) · 11
+  - [WEEK 8 — JESUS' POWER TO FORGIVE SINS](#week-8-jesus-power-to-forgive-sins) · 12
+  - [WEEK 9 — JESUS LOVES ALL PEOPLE](#week-9-jesus-loves-all-people) · 12
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 14
+  - [WEEK 1 — INTERFACE CUSTOMIZATION](#week-1-interface-customization) · 14
+  - [WEEK 2 — FILE MANAGEMENT I](#week-2-file-management-i) · 14
+  - [WEEK 3 — FILE MANAGEMENT II](#week-3-file-management-ii) · 15
+  - [WEEK 4 — DIGITAL CONTENT CREATION I](#week-4-digital-content-creation-i) · 16
+  - [WEEK 5 — DIGITAL CONTENT CREATION II](#week-5-digital-content-creation-ii) · 16
+  - [WEEK 6 — SAFETY AND PROTECTION](#week-6-safety-and-protection) · 17
+  - [WEEK 8 — SAFE INTERNET USE I](#week-8-safe-internet-use-i) · 18
+  - [WEEK 9 — SAFE INTERNET USE II](#week-9-safe-internet-use-ii) · 18
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 20
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 22
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 24
 
 
 
@@ -639,6 +649,610 @@ written for them.
 **My own work**
 
 • Draw the sun and a lamp.
+
+
+---
+
+# Christian Religious Studies (CRS)
+
+These are the notes for the second term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Christian Religious Studies · Second Term W1-6, 8-9 (God speaks to us; we are children of one Father; God calls us for a purpose; God gives His law; God reveals Himself, parts 1-3; Jesus' power to forgive sins; Jesus loves all people).*
+
+
+### WEEK 1 — GOD SPEAKS TO US
+
+**You will learn to**
+
+• say how God speaks to us
+
+• listen to God
+
+• obey God's word
+
+**Things to know**
+
+• **God** speaks to us in many ways.
+
+• God speaks to us through the **Bible**.
+
+• God speaks to us through **parents** and **teachers**.
+
+• God speaks to us through **preachers**.
+
+• God speaks to us in our **hearts**.
+
+• God spoke to people in the Bible, like **Moses** and **Samuel**.
+
+• We **listen** when God speaks.
+
+• We **obey** what God says.
+
+• God's word guides us.
+
+• We are happy when we hear God's word.
+
+**Let us talk**
+
+1. Name one way God speaks to us.
+
+2. Who did God speak to in the Bible?
+
+3. What do we do when God speaks?
+
+**Words for my notebook**
+
+• speak — to say words
+
+• Bible — the holy book of Christians
+
+• obey — to do what we are told
+
+**Worksheet**
+
+1. God speaks to us through the ___.
+   A) Bible B) stone C) tree D) cloud
+
+2. God spoke to ___ in the Bible.
+   A) Moses B) a stone C) a tree D) a cloud
+
+3. We ___ when God speaks.
+   A) listen B) sleep C) run D) shout
+
+4. We ___ what God says.
+   A) obey B) ignore C) break D) forget
+
+5. Fill in: To do what we are told is to _____.
+
+6. Mention two ways God speaks to us.
+
+7. Write what we do when God speaks.
+
+**My own work**
+
+• Draw an open Bible.
+
+---
+
+### WEEK 2 — WE ARE CHILDREN OF ONE FATHER
+
+**You will learn to**
+
+• say that God is our Father
+
+• love one another
+
+• live as brothers and sisters
+
+**Things to know**
+
+• **God** is the Father of us all.
+
+• We are all **children** of God.
+
+• Because God is our Father, we are **brothers** and **sisters**.
+
+• We love one another as **family**.
+
+• We do not fight or quarrel.
+
+• We **share** and **help** one another.
+
+• We are kind to everyone.
+
+• God loves all His children.
+
+• We show God's love by loving others.
+
+• Living as one family makes God happy.
+
+**Let us talk**
+
+1. Who is the Father of us all?
+
+2. Because God is our Father, what are we?
+
+3. How do we live as one family?
+
+**Words for my notebook**
+
+• Father — God, who made us all
+
+• children — the sons and daughters of God
+
+• brother — a boy of the same family
+
+**Worksheet**
+
+1. The Father of us all is ___.
+   A) God B) a king C) a teacher D) a stone
+
+2. We are all ___ of God.
+   A) children B) stones C) trees D) clouds
+
+3. Because God is our Father, we are brothers and ___.
+   A) sisters B) stones C) trees D) clouds
+
+4. We ___ and help one another.
+   A) share B) fight C) hide D) break
+
+5. Fill in: A girl of the same family is a _____.
+
+6. Mention two ways we show love as one family.
+
+7. Write who the Father of us all is.
+
+**My own work**
+
+• Draw children holding hands as one family.
+
+---
+
+### WEEK 3 — GOD CALLS US FOR A PURPOSE
+
+**You will learn to**
+
+• say that God calls us
+
+• name people God called
+
+• answer God's call
+
+**Things to know**
+
+• God **calls** us to do His work.
+
+• God has a **purpose** for each of us.
+
+• God called **Abraham** to leave his home.
+
+• God called **Moses** to lead His people.
+
+• God called **Samuel** when he was young.
+
+• God calls us to be **good** and **kind**.
+
+• God calls us to **love** others.
+
+• We answer God's call by doing good.
+
+• God uses us to help others.
+
+• We are happy to answer God's call.
+
+**Let us talk**
+
+1. What does it mean that God calls us?
+
+2. Name one person God called.
+
+3. How do we answer God's call?
+
+**Words for my notebook**
+
+• call — to ask someone to come or do
+
+• purpose — the reason for something
+
+• answer — to say yes to a call
+
+**Worksheet**
+
+1. God ___ us to do His work.
+   A) calls B) forgets C) scolds D) hides
+
+2. God called ___ to leave his home.
+   A) Abraham B) a stone C) a tree D) a cloud
+
+3. God called ___ when he was young.
+   A) Samuel B) a stone C) a tree D) a cloud
+
+4. God has a ___ for each of us.
+   A) purpose B) stone C) tree D) cloud
+
+5. Fill in: The reason for something is its _____.
+
+6. Mention two people God called.
+
+7. Write how we answer God's call.
+
+**My own work**
+
+• Draw someone answering God's call.
+
+---
+
+### WEEK 4 — GOD GIVES HIS LAW TO US
+
+**You will learn to**
+
+• say what God's law is
+
+• name God's commandments
+
+• obey God's law
+
+**Things to know**
+
+• God gave His **law** to His people.
+
+• God gave the **Ten Commandments** to **Moses**.
+
+• The commandments teach us how to live.
+
+• We worship **God alone**.
+
+• We do not **steal**.
+
+• We do not **lie**.
+
+• We **honour** our father and mother.
+
+• We do not fight or hurt others.
+
+• God's law helps us live well.
+
+• We obey God's law with joy.
+
+**Let us talk**
+
+1. What is God's law?
+
+2. Who did God give the commandments to?
+
+3. Name one commandment.
+
+**Words for my notebook**
+
+• law — rules God gives us
+
+• commandment — a rule from God
+
+• honour — to respect and obey
+
+**Worksheet**
+
+1. God gave His ___ to His people.
+   A) law B) stone C) tree D) cloud
+
+2. God gave the Ten Commandments to ___.
+   A) Moses B) a stone C) a tree D) a cloud
+
+3. We worship ___ alone.
+   A) God B) stones C) trees D) clouds
+
+4. We do not ___ or lie.
+   A) steal B) sing C) run D) jump
+
+5. Fill in: A rule from God is a _____.
+
+6. Mention two of God's commandments.
+
+7. Write what God's law is.
+
+**My own work**
+
+• Draw two tablets of the commandments.
+
+---
+
+### WEEK 5 — GOD REVEALS HIMSELF TO US (PART 1)
+
+**You will learn to**
+
+• say what it means for God to reveal Himself
+
+• name how God reveals Himself
+
+• know God's names
+
+**Things to know**
+
+• God **reveals** Himself — He shows us who He is.
+
+• God shows Himself through **creation**.
+
+• God shows Himself through the **Bible**.
+
+• God shows Himself through **Jesus**.
+
+• God has many **names**.
+
+• God is **almighty** — He can do all things.
+
+• God is **love**.
+
+• God is **holy**.
+
+• God reveals Himself so we can know Him.
+
+• We learn about God every day.
+
+**Let us talk**
+
+1. What does it mean for God to reveal Himself?
+
+2. Name one way God reveals Himself.
+
+3. Name one name of God.
+
+**Words for my notebook**
+
+• reveal — to show what was hidden
+
+• almighty — able to do all things
+
+• holy — pure and belonging to God
+
+**Worksheet**
+
+1. God ___ Himself — He shows us who He is.
+   A) reveals B) hides C) forgets D) loses
+
+2. God shows Himself through ___ .
+   A) creation B) stones only C) trees only D) clouds only
+
+3. God is ___ — He can do all things.
+   A) almighty B) weak C) small D) tired
+
+4. God is ___.
+   A) love B) anger C) hate D) fear
+
+5. Fill in: To show what was hidden is to _____.
+
+6. Mention two ways God reveals Himself.
+
+7. Write one name of God.
+
+**My own work**
+
+• Draw something God created.
+
+---
+
+### WEEK 6 — GOD REVEALS HIMSELF TO US (PART 2)
+
+**You will learn to**
+
+• know more names of God
+
+• say what God does
+
+• trust God
+
+**Things to know**
+
+• God reveals Himself through His **works**.
+
+• God is our **Creator** — He made all things.
+
+• God is our **Protector** — He keeps us safe.
+
+• God is our **Provider** — He gives us what we need.
+
+• God is our **Father** — He loves us.
+
+• God is **everywhere**.
+
+• God **knows** all things.
+
+• God is **faithful** — He keeps His promises.
+
+• We trust God because of who He is.
+
+• We thank God for revealing Himself.
+
+**Let us talk**
+
+1. Name one more name of God.
+
+2. What does God do for us?
+
+3. Why do we trust God?
+
+**Words for my notebook**
+
+• Creator — the one who made all things
+
+• Protector — the one who keeps us safe
+
+• faithful — keeping promises
+
+**Worksheet**
+
+1. God is our ___ — He made all things.
+   A) Creator B) enemy C) stranger D) thief
+
+2. God is our ___ — He keeps us safe.
+   A) Protector B) enemy C) stranger D) thief
+
+3. God is our ___ — He gives us what we need.
+   A) Provider B) enemy C) stranger D) thief
+
+4. God is ___ — He keeps His promises.
+   A) faithful B) unfaithful C) angry D) lazy
+
+5. Fill in: The one who keeps us safe is our _____.
+
+6. Mention two names of God.
+
+7. Write why we trust God.
+
+**My own work**
+
+• Draw a picture of God's care.
+
+---
+
+### WEEK 8 — JESUS' POWER TO FORGIVE SINS
+
+**You will learn to**
+
+• say that Jesus forgives sins
+
+• tell how Jesus forgave
+
+• ask for forgiveness
+
+**Things to know**
+
+• **Sin** is doing what is wrong.
+
+• **Jesus** has power to forgive sins.
+
+• Jesus forgave a man who could not walk.
+
+• Jesus forgave the people who hurt Him.
+
+• Jesus forgives us when we **repent**.
+
+• To **repent** is to be sorry for our sins.
+
+• We ask Jesus to **forgive** us.
+
+• We also forgive **others**.
+
+• Jesus' forgiveness makes us clean.
+
+• We are happy when Jesus forgives us.
+
+**Let us talk**
+
+1. What is sin?
+
+2. Who has power to forgive sins?
+
+3. What do we do to be forgiven?
+
+**Words for my notebook**
+
+• sin — doing what is wrong
+
+• forgive — to stop being angry and pardon
+
+• repent — to be sorry for our sins
+
+**Worksheet**
+
+1. Doing what is wrong is ___.
+   A) sin B) good C) kind D) true
+
+2. ___ has power to forgive sins.
+   A) Jesus B) a stone C) a tree D) a cloud
+
+3. To ___ is to be sorry for our sins.
+   A) repent B) sing C) run D) sleep
+
+4. We ask Jesus to ___ us.
+   A) forgive B) scold C) forget D) hurt
+
+5. Fill in: To stop being angry and pardon is to _____.
+
+6. Mention two ways Jesus showed forgiveness.
+
+7. Write what we do to be forgiven.
+
+**My own work**
+
+• Draw a picture of forgiveness.
+
+---
+
+### WEEK 9 — JESUS LOVES ALL PEOPLE
+
+**You will learn to**
+
+• say that Jesus loves all
+
+• tell how Jesus loved
+
+• love all people
+
+**Things to know**
+
+• **Jesus** loves **all** people.
+
+• Jesus loves the **rich** and the **poor**.
+
+• Jesus loves **children** and **adults**.
+
+• Jesus loved the **sick** and healed them.
+
+• Jesus loved **sinners** and forgave them.
+
+• Jesus fed the **hungry**.
+
+• Jesus loves people of every **tribe** and **country**.
+
+• Jesus showed love by caring for all.
+
+• We love all people like Jesus.
+
+• Jesus' love is for everyone.
+
+**Let us talk**
+
+1. Who does Jesus love?
+
+2. Name one way Jesus showed love.
+
+3. How do we love like Jesus?
+
+**Words for my notebook**
+
+• love — to care deeply for someone
+
+• all — every one
+
+• care — to look after someone
+
+**Worksheet**
+
+1. Jesus loves ___ people.
+   A) all B) no C) few D) none
+
+2. Jesus loved the sick and ___ them.
+   A) healed B) hurt C) forgot D) scolded
+
+3. Jesus fed the ___.
+   A) hungry B) stones C) trees D) clouds
+
+4. Jesus loves people of every ___ and country.
+   A) tribe B) stone C) tree D) cloud
+
+5. Fill in: To look after someone is to _____.
+
+6. Mention two ways Jesus showed love.
+
+7. Write how we love like Jesus.
+
+**My own work**
+
+• Draw Jesus loving all people.
 
 
 ---
@@ -1429,6 +2043,192 @@ Answer in full sentences.
 43. Name the parts of a plant. (2 marks)
 44. Name two animals that live at home and two that live in water. (2 marks)
 45. What is technology? Name two simple technologies. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. God speaks to us through the ___
+   A) stone
+   B) tree
+   C) Bible
+   D) cloud
+2. God spoke to ___ in the Bible
+   A) a stone
+   B) a cloud
+   C) a tree
+   D) Moses
+3. We ___ when God speaks
+   A) listen
+   B) run
+   C) shout
+   D) sleep
+4. We ___ what God says
+   A) forget
+   B) obey
+   C) ignore
+   D) break
+5. The Father of us all is ___
+   A) a teacher
+   B) a king
+   C) a stone
+   D) God
+6. We are all ___ of God
+   A) trees
+   B) stones
+   C) children
+   D) clouds
+7. Because God is our Father, we are brothers and ___
+   A) trees
+   B) sisters
+   C) clouds
+   D) stones
+8. We ___ and help one another
+   A) share
+   B) fight
+   C) hide
+   D) break
+9. God ___ us to do His work
+   A) scolds
+   B) hides
+   C) calls
+   D) forgets
+10. God called ___ to leave his home
+   A) a stone
+   B) a cloud
+   C) a tree
+   D) Abraham
+11. God called ___ when he was young
+   A) Samuel
+   B) a cloud
+   C) a tree
+   D) a stone
+12. God has a ___ for each of us
+   A) cloud
+   B) purpose
+   C) tree
+   D) stone
+13. God gave His ___ to His people
+   A) cloud
+   B) tree
+   C) stone
+   D) law
+14. God gave the Ten Commandments to ___
+   A) a stone
+   B) a cloud
+   C) Moses
+   D) a tree
+15. We worship ___ alone
+   A) God
+   B) clouds
+   C) stones
+   D) trees
+16. We do not ___ or lie
+   A) run
+   B) steal
+   C) sing
+   D) jump
+17. God ___ Himself — He shows us who He is
+   A) loses
+   B) forgets
+   C) reveals
+   D) hides
+18. God is ___ — He can do all things
+   A) weak
+   B) tired
+   C) small
+   D) almighty
+19. God is ___
+   A) fear
+   B) love
+   C) hate
+   D) anger
+20. God is our ___ — He made all things
+   A) Creator
+   B) enemy
+   C) thief
+   D) stranger
+21. God is our ___ — He keeps us safe
+   A) thief
+   B) stranger
+   C) enemy
+   D) Protector
+22. God is our ___ — He gives us what we need
+   A) stranger
+   B) enemy
+   C) Provider
+   D) thief
+23. God is ___ — He keeps His promises
+   A) faithful
+   B) angry
+   C) unfaithful
+   D) lazy
+24. Doing what is wrong is ___
+   A) good
+   B) true
+   C) kind
+   D) sin
+25. ___ has power to forgive sins
+   A) a stone
+   B) Jesus
+   C) a cloud
+   D) a tree
+26. To ___ is to be sorry for our sins
+   A) sleep
+   B) run
+   C) repent
+   D) sing
+27. We ask Jesus to ___ us
+   A) scold
+   B) hurt
+   C) forget
+   D) forgive
+28. Jesus loves ___ people
+   A) no
+   B) all
+   C) none
+   D) few
+29. Jesus loved the sick and ___ them
+   A) healed
+   B) scolded
+   C) forgot
+   D) hurt
+30. Jesus fed the ___
+   A) stones
+   B) clouds
+   C) hungry
+   D) trees
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two ways God speaks to us
+32. Name two ways we show love as one family
+33. Name two people God called
+34. Name two of God's commandments
+35. Name two ways God reveals Himself
+36. Name two names of God
+37. Name two ways Jesus showed forgiveness
+38. Name two ways Jesus showed love
+39. Name two things God gives us
+40. Name two ways we answer God's call
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. Name two ways God speaks to us. (2 marks)
+42. Who is the Father of us all? How do we live as one family? (2 marks)
+43. Name two people God called. (2 marks)
+44. What is God's law? Name two commandments. (2 marks)
+45. Who has power to forgive sins? What do we do to be forgiven? (2 marks)
 
 
 ---
