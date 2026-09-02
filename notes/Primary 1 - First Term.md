@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 5 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 6 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,58 +12,68 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*5 subjects · 40 lessons · 5 term practice papers. Each part begins on a fresh page.*
+*6 subjects · 48 lessons · 6 term practice papers. Each part begins on a fresh page.*
 
-- **[Basic Science](#basic-science)** · 2
-  - [WEEK 1 — THE ROAD AND ROAD SAFETY](#week-1-the-road-and-road-safety) · 2
-  - [WEEK 2 — MY ENVIRONMENT AND COLOURS](#week-2-my-environment-and-colours) · 2
-  - [WEEK 3 — SHAPES I](#week-3-shapes-i) · 3
-  - [WEEK 4 — SHAPES II](#week-4-shapes-ii) · 4
-  - [WEEK 5 — LIVING THINGS](#week-5-living-things) · 4
-  - [WEEK 6 — NON-LIVING THINGS](#week-6-non-living-things) · 5
-  - [WEEK 8 — AIR AND WIND](#week-8-air-and-wind) · 6
-  - [WEEK 9 — SOIL](#week-9-soil) · 6
-- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
-  - [WEEK 1 — LINES IN ART](#week-1-lines-in-art) · 8
-  - [WEEK 2 — SHAPES AND SIZES](#week-2-shapes-and-sizes) · 8
-  - [WEEK 3 — TEXTURE](#week-3-texture) · 9
-  - [WEEK 4 — ART MATERIALS AND TOOLS](#week-4-art-materials-and-tools) · 10
-  - [WEEK 5 — OUR NIGERIAN CULTURE](#week-5-our-nigerian-culture) · 10
-  - [WEEK 6 — NAMING CEREMONIES](#week-6-naming-ceremonies) · 11
-  - [WEEK 8 — BODY BEAUTIFICATION](#week-8-body-beautification) · 11
-  - [WEEK 9 — PERFORMING ARTS](#week-9-performing-arts) · 12
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
-  - [WEEK 1 — JESUS CALMS THE STORM](#week-1-jesus-calms-the-storm) · 14
-  - [WEEK 2 — JESUS WALKS ON WATER](#week-2-jesus-walks-on-water) · 14
-  - [WEEK 3 — JESUS FEEDS FIVE THOUSAND](#week-3-jesus-feeds-five-thousand) · 15
-  - [WEEK 4 — JESUS HEALS THE SICK](#week-4-jesus-heals-the-sick) · 16
-  - [WEEK 5 — THE PARALYZED MAN AND HIS FRIENDS](#week-5-the-paralyzed-man-and-his-friends) · 16
-  - [WEEK 6 — JESUS RAISES JAIRUS' DAUGHTER](#week-6-jesus-raises-jairus-daughter) · 17
-  - [WEEK 8 — JESUS RAISES LAZARUS](#week-8-jesus-raises-lazarus) · 17
-  - [WEEK 9 — JESUS CLEANSES THE TEMPLE](#week-9-jesus-cleanses-the-temple) · 18
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
-  - [WEEK 1 — DIGITAL DEVICES AROUND US](#week-1-digital-devices-around-us) · 20
-  - [WEEK 2 — THE FOUR BASIC PARTS](#week-2-the-four-basic-parts) · 20
-  - [WEEK 3 — CARING FOR DEVICES AND LAB RULES](#week-3-caring-for-devices-and-lab-rules) · 21
-  - [WEEK 4 — FROM THE ABACUS TO TODAY](#week-4-from-the-abacus-to-today) · 22
-  - [WEEK 5 — THE TWO GREAT INVENTORS](#week-5-the-two-great-inventors) · 22
-  - [WEEK 6 — HARDWARE AND SOFTWARE](#week-6-hardware-and-software) · 23
-  - [WEEK 8 — INPUT DEVICES: KEYBOARD AND MOUSE](#week-8-input-devices-keyboard-and-mouse) · 24
-  - [WEEK 9 — OUTPUT DEVICES AND THE MICROPHONE](#week-9-output-devices-and-the-microphone) · 24
-- **[General Knowledge](#general-knowledge)** · 26
-  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 26
-  - [WEEK 2 — MY FAMILY AND THEIR ROLES](#week-2-my-family-and-their-roles) · 26
-  - [WEEK 3 — MY SCHOOL: PLACES AND PEOPLE](#week-3-my-school-places-and-people) · 27
-  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 28
-  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 28
-  - [WEEK 6 — COMMUNITY HELPERS](#week-6-community-helpers) · 29
-  - [WEEK 8 — MY COUNTRY, NIGERIA](#week-8-my-country-nigeria) · 29
-  - [WEEK 9 — BEING A GOOD CITIZEN](#week-9-being-a-good-citizen) · 30
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 32
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-1-1st-term)** · 34
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 36
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 38
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 1st Term)](#examination-practice-general-knowledge-primary-1-1st-term)** · 40
+- **[Basic Science](#basic-science)** · 3
+  - [WEEK 1 — THE ROAD AND ROAD SAFETY](#week-1-the-road-and-road-safety) · 3
+  - [WEEK 2 — MY ENVIRONMENT AND COLOURS](#week-2-my-environment-and-colours) · 3
+  - [WEEK 3 — SHAPES I](#week-3-shapes-i) · 4
+  - [WEEK 4 — SHAPES II](#week-4-shapes-ii) · 5
+  - [WEEK 5 — LIVING THINGS](#week-5-living-things) · 5
+  - [WEEK 6 — NON-LIVING THINGS](#week-6-non-living-things) · 6
+  - [WEEK 8 — AIR AND WIND](#week-8-air-and-wind) · 7
+  - [WEEK 9 — SOIL](#week-9-soil) · 7
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 9
+  - [WEEK 1 — LINES IN ART](#week-1-lines-in-art) · 9
+  - [WEEK 2 — SHAPES AND SIZES](#week-2-shapes-and-sizes) · 9
+  - [WEEK 3 — TEXTURE](#week-3-texture) · 10
+  - [WEEK 4 — ART MATERIALS AND TOOLS](#week-4-art-materials-and-tools) · 11
+  - [WEEK 5 — OUR NIGERIAN CULTURE](#week-5-our-nigerian-culture) · 11
+  - [WEEK 6 — NAMING CEREMONIES](#week-6-naming-ceremonies) · 12
+  - [WEEK 8 — BODY BEAUTIFICATION](#week-8-body-beautification) · 12
+  - [WEEK 9 — PERFORMING ARTS](#week-9-performing-arts) · 13
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 15
+  - [WEEK 1 — JESUS CALMS THE STORM](#week-1-jesus-calms-the-storm) · 15
+  - [WEEK 2 — JESUS WALKS ON WATER](#week-2-jesus-walks-on-water) · 15
+  - [WEEK 3 — JESUS FEEDS FIVE THOUSAND](#week-3-jesus-feeds-five-thousand) · 16
+  - [WEEK 4 — JESUS HEALS THE SICK](#week-4-jesus-heals-the-sick) · 17
+  - [WEEK 5 — THE PARALYZED MAN AND HIS FRIENDS](#week-5-the-paralyzed-man-and-his-friends) · 17
+  - [WEEK 6 — JESUS RAISES JAIRUS' DAUGHTER](#week-6-jesus-raises-jairus-daughter) · 18
+  - [WEEK 8 — JESUS RAISES LAZARUS](#week-8-jesus-raises-lazarus) · 18
+  - [WEEK 9 — JESUS CLEANSES THE TEMPLE](#week-9-jesus-cleanses-the-temple) · 19
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 21
+  - [WEEK 1 — DIGITAL DEVICES AROUND US](#week-1-digital-devices-around-us) · 21
+  - [WEEK 2 — THE FOUR BASIC PARTS](#week-2-the-four-basic-parts) · 21
+  - [WEEK 3 — CARING FOR DEVICES AND LAB RULES](#week-3-caring-for-devices-and-lab-rules) · 22
+  - [WEEK 4 — FROM THE ABACUS TO TODAY](#week-4-from-the-abacus-to-today) · 23
+  - [WEEK 5 — THE TWO GREAT INVENTORS](#week-5-the-two-great-inventors) · 23
+  - [WEEK 6 — HARDWARE AND SOFTWARE](#week-6-hardware-and-software) · 24
+  - [WEEK 8 — INPUT DEVICES: KEYBOARD AND MOUSE](#week-8-input-devices-keyboard-and-mouse) · 25
+  - [WEEK 9 — OUTPUT DEVICES AND THE MICROPHONE](#week-9-output-devices-and-the-microphone) · 25
+- **[Nigerian History](#nigerian-history)** · 27
+  - [WEEK 1 — WHAT IS HISTORY?](#week-1-what-is-history) · 27
+  - [WEEK 2 — SOURCES OF HISTORY](#week-2-sources-of-history) · 27
+  - [WEEK 3 — MY OWN HISTORY](#week-3-my-own-history) · 28
+  - [WEEK 4 — EARLY PEOPLE IN NIGERIA](#week-4-early-people-in-nigeria) · 29
+  - [WEEK 5 — HOW PEOPLE CAME TO NIGERIA](#week-5-how-people-came-to-nigeria) · 29
+  - [WEEK 6 — THE MAJOR ETHNIC GROUPS](#week-6-the-major-ethnic-groups) · 30
+  - [WEEK 8 — EARLY KINGDOMS AND EMPIRES](#week-8-early-kingdoms-and-empires) · 30
+  - [WEEK 9 — TRADITIONAL OCCUPATIONS](#week-9-traditional-occupations) · 31
+- **[General Knowledge](#general-knowledge)** · 33
+  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 33
+  - [WEEK 2 — MY FAMILY AND THEIR ROLES](#week-2-my-family-and-their-roles) · 33
+  - [WEEK 3 — MY SCHOOL: PLACES AND PEOPLE](#week-3-my-school-places-and-people) · 34
+  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 35
+  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 35
+  - [WEEK 6 — COMMUNITY HELPERS](#week-6-community-helpers) · 36
+  - [WEEK 8 — MY COUNTRY, NIGERIA](#week-8-my-country-nigeria) · 36
+  - [WEEK 9 — BEING A GOOD CITIZEN](#week-9-being-a-good-citizen) · 37
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 39
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-1-1st-term)** · 41
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 43
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 45
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 1st Term)](#examination-practice-nigerian-history-primary-1-1st-term)** · 47
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 1st Term)](#examination-practice-general-knowledge-primary-1-1st-term)** · 49
 
 
 
@@ -111,9 +121,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. A road that is smooth and black is called a ____ road. A) tarred B) muddy C) bush D) water
-2. Which of these is a small road for walking? A) pathway B) highway C) bridge D) flyover
-3. The traffic light that means stop is A) red B) green C) yellow D) blue
+1. A road that is smooth and black is called a ____ road. A) tarred B) muddy C) water D) bush
+2. Which of these is a small road for walking? A) bridge B) flyover C) pathway D) highway
+3. The traffic light that means stop is A) green B) red C) yellow D) blue
 4. Fill in: We cross the road at the ____ crossing.
 5. Mention two things that move on the road.
 6. Write one sentence on how you cross the road safely.
@@ -159,9 +169,9 @@ Draw the road near my house and put one car and one person walking on it.
 
 **Worksheet**
 
-1. Everything around us at home and at school is the A) environment B) calendar C) notebook D) market
-2. Which of these is a primary colour? A) blue B) green C) orange D) purple
-3. Red and yellow mixed together give A) orange B) green C) black D) grey
+1. Everything around us at home and at school is the A) calendar B) notebook C) environment D) market
+2. Which of these is a primary colour? A) purple B) green C) orange D) blue
+3. Red and yellow mixed together give A) grey B) green C) black D) orange
 4. Fill in: The grass looks ____.
 5. Mention two things you see in the sky.
 6. Write the three primary colours.
@@ -207,9 +217,9 @@ Look around my room at home and draw two things I see, then colour them.
 
 **Worksheet**
 
-1. A shape that is round with no corners is a A) triangle B) rectangle C) circle D) square
-2. How many sides does a triangle have? A) three B) four C) five D) six
-3. A shape with four equal sides is a A) square B) circle C) oval D) star
+1. A shape that is round with no corners is a A) rectangle B) circle C) square D) triangle
+2. How many sides does a triangle have? A) three B) six C) five D) four
+3. A shape with four equal sides is a A) square B) oval C) star D) circle
 4. Fill in: A wheel is the shape of a ____.
 5. Mention two things at home that are a rectangle.
 6. Write the number of corners on a triangle.
@@ -255,9 +265,9 @@ Find three shapes in my house and draw each one in my notebook.
 
 **Worksheet**
 
-1. The shape of an egg is an A) oval B) square C) triangle D) rectangle
-2. A tin of milk is the solid shape called a A) cylinder B) cube C) sphere D) cone
-3. Which shape has five points? A) circle B) oval C) star D) heart
+1. The shape of an egg is an A) triangle B) square C) rectangle D) oval
+2. A tin of milk is the solid shape called a A) sphere B) cube C) cylinder D) cone
+3. Which shape has five points? A) heart B) circle C) oval D) star
 4. Fill in: A box is the solid shape called a ____.
 5. Mention two things that are a sphere.
 6. Write one thing you can make using a triangle and a square.
@@ -303,9 +313,9 @@ Use shapes to draw a house: a square for the walls and a triangle for the roof.
 
 **Worksheet**
 
-1. Which of these is a living thing? A) goat B) stone C) chair D) book
-2. Living things do all of these except A) melt B) grow C) eat D) breathe
-3. A plant needs water, air and ____ to grow well. A) sunlight B) shoes C) money D) paper
+1. Which of these is a living thing? A) stone B) book C) chair D) goat
+2. Living things do all of these except A) breathe B) melt C) eat D) grow
+3. A plant needs water, air and ____ to grow well. A) paper B) sunlight C) money D) shoes
 4. Fill in: A dog and a cat are ____ things.
 5. Mention two living things you see on a farm.
 6. Write one way you care for a plant.
@@ -351,9 +361,9 @@ Water one plant at home and watch it for a week, then draw it.
 
 **Worksheet**
 
-1. Which of these is non-living? A) stone B) dog C) hen D) tree
-2. A chair is a ____ non-living thing. A) natural B) man-made C) growing D) living
-3. Which one is a natural non-living thing? A) toy B) book C) water D) car
+1. Which of these is non-living? A) dog B) hen C) stone D) tree
+2. A chair is a ____ non-living thing. A) growing B) living C) man-made D) natural
+3. Which one is a natural non-living thing? A) car B) toy C) book D) water
 4. Fill in: A stone does not eat, grow or ____.
 5. Mention two man-made non-living things.
 6. Write one way water helps living things.
@@ -399,9 +409,9 @@ Look around my home and draw two non-living things I use every day.
 
 **Worksheet**
 
-1. Moving air is called A) wind B) rain C) sun D) cloud
-2. We cannot see air but we can A) feel it B) eat it C) wear it D) buy it
-3. Which of these uses air? A) sitting on a chair B) writing a letter C) reading a book D) flying a kite
+1. Moving air is called A) sun B) wind C) rain D) cloud
+2. We cannot see air but we can A) wear it B) eat it C) buy it D) feel it
+3. Which of these uses air? A) writing a letter B) flying a kite C) sitting on a chair D) reading a book
 4. Fill in: We use air for ____.
 5. Mention two ways you can feel air.
 6. Write one thing that dirty air can carry.
@@ -448,9 +458,9 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 
 **Worksheet**
 
-1. The top part of the ground where plants grow is A) water B) soil C) cloud D) air
-2. The soil that is best for plants is A) dry B) hard C) loamy D) rocky
-3. A pot for cooking can be made from A) clay B) air C) water D) glass
+1. The top part of the ground where plants grow is A) air B) cloud C) water D) soil
+2. The soil that is best for plants is A) hard B) loamy C) rocky D) dry
+3. A pot for cooking can be made from A) water B) air C) glass D) clay
 4. Fill in: Soil can be black, brown, red or ____.
 5. Mention two places we find soil.
 6. Write one way we care for the soil.
@@ -504,9 +514,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. A line that lies flat like the ground is ____ . A) horizontal B) vertical C) round D) spiral
-2. The edge of a circle is a ____ line. A) curved B) straight C) zigzag D) sharp
-3. A line that moves sharply up and down like teeth is ____ . A) zigzag B) flat C) thin D) short
+1. A line that lies flat like the ground is ____ . A) horizontal B) vertical C) spiral D) round
+2. The edge of a circle is a ____ line. A) zigzag B) straight C) sharp D) curved
+3. A line that moves sharply up and down like teeth is ____ . A) thin B) zigzag C) flat D) short
 4. Fill in: A line that stands up like a pole is ____.
 5. Mention two kinds of lines.
 6. Write one thing you can draw with lines only.
@@ -552,9 +562,9 @@ Fill my page with three different lines and colour between them.
 
 **Worksheet**
 
-1. The shape of an egg is an ____ . A) oval B) triangle C) square D) star
-2. A square and a triangle joined together can make a ____ . A) house B) wheel C) ball D) road
-3. The biggest of these is a ____ . A) basket B) bead C) coin D) seed
+1. The shape of an egg is an ____ . A) oval B) square C) triangle D) star
+2. A square and a triangle joined together can make a ____ . A) wheel B) ball C) house D) road
+3. The biggest of these is a ____ . A) coin B) bead C) seed D) basket
 4. Fill in: A door is the shape of a ____.
 5. Mention two basic shapes.
 6. Write one thing that is a circle at home.
@@ -600,9 +610,9 @@ Cut or draw three shapes and paste them to make a picture.
 
 **Worksheet**
 
-1. How a thing feels when we touch it is its ____ . A) colour B) texture C) smell D) sound
-2. Sandpaper feels ____ . A) smooth B) rough C) soft D) wet
-3. A feather feels ____ . A) soft B) hard C) rough D) hot
+1. How a thing feels when we touch it is its ____ . A) texture B) colour C) smell D) sound
+2. Sandpaper feels ____ . A) rough B) smooth C) soft D) wet
+3. A feather feels ____ . A) soft B) rough C) hot D) hard
 4. Fill in: We make a rubbing with paper and a ____.
 5. Mention two things that feel smooth.
 6. Write how a stone feels.
@@ -648,9 +658,9 @@ Touch three things at home and draw one face for each: happy for soft, surprised
 
 **Worksheet**
 
-1. We cut paper with ____ . A) scissors B) tape C) paint D) glue
-2. We stick paper together with ____ . A) a pen B) scissors C) a ruler D) glue
-3. A soft earth we use for modelling is ____ . A) water B) sand C) clay D) stone
+1. We cut paper with ____ . A) scissors B) glue C) paint D) tape
+2. We stick paper together with ____ . A) glue B) scissors C) a ruler D) a pen
+3. A soft earth we use for modelling is ____ . A) clay B) sand C) water D) stone
 4. Fill in: We colour with ____.
 5. Mention two drawing tools.
 6. Write one way we keep art tools safe.
@@ -696,9 +706,9 @@ Draw my art box and put three tools inside it.
 
 **Worksheet**
 
-1. The way of life of a people is their ____ . A) culture B) school C) market D) road
-2. The three big ethnic groups are Hausa, Igbo and ____ . A) Zulu B) Yoruba C) French D) English
-3. Language, food, dressing and festivals are parts of ____ . A) weather B) sport C) culture D) money
+1. The way of life of a people is their ____ . A) market B) school C) road D) culture
+2. The three big ethnic groups are Hausa, Igbo and ____ . A) Yoruba B) French C) English D) Zulu
+3. Language, food, dressing and festivals are parts of ____ . A) culture B) weather C) money D) sport
 4. Fill in: A special celebration is a ____.
 5. Mention two foods eaten in Nigeria.
 6. Write one thing that is part of culture.
@@ -744,9 +754,9 @@ Draw the food my people eat at a festival.
 
 **Worksheet**
 
-1. A special celebration a people keep is a ____ . A) ceremony B) market C) lesson D) game
-2. The ceremony that welcomes a new baby is the ____ ceremony. A) naming B) harvest C) school D) farm
-3. A special nut used at some naming ceremonies is the ____ nut. A) ground B) palm C) coco D) kola
+1. A special celebration a people keep is a ____ . A) lesson B) market C) game D) ceremony
+2. The ceremony that welcomes a new baby is the ____ ceremony. A) school B) harvest C) farm D) naming
+3. A special nut used at some naming ceremonies is the ____ nut. A) kola B) ground C) palm D) coco
 4. Fill in: Family and friends gather to ____ the baby.
 5. Mention two things used at a naming ceremony.
 6. Write who is welcomed at a naming ceremony.
@@ -792,9 +802,9 @@ Draw a naming ceremony with the family gathered round the baby.
 
 **Worksheet**
 
-1. Making the body look fine in our own way is body ____ . A) washing B) feeding C) resting D) beautification
-2. Small coloured things strung to wear are ____ . A) coins B) seeds C) stones D) beads
-3. A ring worn on the wrist is a ____ . A) belt B) cap C) shoe D) bangle
+1. Making the body look fine in our own way is body ____ . A) beautification B) washing C) feeding D) resting
+2. Small coloured things strung to wear are ____ . A) beads B) stones C) seeds D) coins
+3. A ring worn on the wrist is a ____ . A) bangle B) cap C) shoe D) belt
 4. Fill in: Designs put on the hands for a celebration are called ____.
 5. Mention two hairstyles.
 6. Write one thing people wear as decoration.
@@ -840,9 +850,9 @@ Draw a girl with beads and bangles on, ready for a festival.
 
 **Worksheet**
 
-1. Arts we show with our body and voice are ____ arts. A) performing B) drawing C) painting D) carving
-2. Stories the elders tell are ____ . A) letters B) newspapers C) folktales D) receipts
-3. A short song with rhythm is a ____ . A) road B) chair C) drum D) rhyme
+1. Arts we show with our body and voice are ____ arts. A) drawing B) painting C) performing D) carving
+2. Stories the elders tell are ____ . A) folktales B) newspapers C) letters D) receipts
+3. A short song with rhythm is a ____ . A) rhyme B) drum C) chair D) road
 4. Fill in: Moving the body to music is ____.
 5. Mention two performing arts.
 6. Write one way performing arts help us.
@@ -896,9 +906,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. Jesus and his disciples were in a ____ when the storm came. A) boat B) car C) house D) tree
-2. When the storm came, Jesus was ____ in the boat. A) sleeping B) singing C) walking D) eating
-3. Jesus said to the wind and the sea, "Peace, be ____." A) still B) loud C) fast D) strong
+1. Jesus and his disciples were in a ____ when the storm came. A) boat B) car C) tree D) house
+2. When the storm came, Jesus was ____ in the boat. A) eating B) walking C) sleeping D) singing
+3. Jesus said to the wind and the sea, "Peace, be ____." A) fast B) strong C) loud D) still
 4. Fill in: The disciples were ____ when the storm came.
 5. Mention two things Jesus calmed.
 6. Write what the disciples did when they were afraid.
@@ -944,9 +954,9 @@ Draw the boat and the big waves, then draw the sea when it became calm.
 
 **Worksheet**
 
-1. The disciples were in the boat at ____ . A) night B) noon C) morning D) dawn
-2. The disciple who walked on the water after Jesus was A) Peter B) John C) James D) Judas
-3. Peter began to sink when he felt the strong ____ . A) wind B) rain C) sun D) sand
+1. The disciples were in the boat at ____ . A) dawn B) morning C) noon D) night
+2. The disciple who walked on the water after Jesus was A) Peter B) Judas C) James D) John
+3. Peter began to sink when he felt the strong ____ . A) sand B) wind C) rain D) sun
 4. Fill in: Jesus said, "It is I. Do not be ____."
 5. Mention two people who walked on the water.
 6. Write why the disciples were frightened at first.
@@ -992,9 +1002,9 @@ Draw the boat at night and Jesus walking on the water.
 
 **Worksheet**
 
-1. The boy had five loaves and two ____ . A) fish B) eggs C) yams D) oranges
-2. Before sharing, Jesus ____ to God. A) gave thanks B) ran away C) slept D) sang
-3. The leftover food filled ____ baskets. A) twelve B) two C) five D) three
+1. The boy had five loaves and two ____ . A) oranges B) yams C) fish D) eggs
+2. Before sharing, Jesus ____ to God. A) ran away B) slept C) sang D) gave thanks
+3. The leftover food filled ____ baskets. A) two B) three C) twelve D) five
 4. Fill in: The people followed Jesus and became ____.
 5. Mention the two foods the boy had.
 6. Write what Jesus did with the food.
@@ -1040,9 +1050,9 @@ Draw the five loaves and the two fish the boy shared.
 
 **Worksheet**
 
-1. The man who came to Jesus had ____ . A) leprosy B) a hat C) a drum D) a chair
-2. Jesus ____ the man and said, "Be clean." A) touched B) pushed C) mocked D) left
-3. After Jesus spoke, the man was ____ . A) healed B) sicker C) asleep D) angry
+1. The man who came to Jesus had ____ . A) a drum B) a chair C) leprosy D) a hat
+2. Jesus ____ the man and said, "Be clean." A) pushed B) touched C) left D) mocked
+3. After Jesus spoke, the man was ____ . A) asleep B) healed C) angry D) sicker
 4. Fill in: The man said, "Lord, if you are willing, you can make me ____."
 5. Mention two things Jesus has power over, from our lessons.
 6. Write what the man said to Jesus.
@@ -1088,9 +1098,9 @@ Draw the man kneeling before Jesus and then standing up well.
 
 **Worksheet**
 
-1. The man who could not walk was ____ . A) paralyzed B) running C) dancing D) singing
-2. The friends lowered the man through the ____ . A) roof B) door C) window D) floor
-3. Jesus told the man to get up, take his mat and ____ . A) walk B) sleep C) swim D) hide
+1. The man who could not walk was ____ . A) singing B) dancing C) paralyzed D) running
+2. The friends lowered the man through the ____ . A) window B) roof C) floor D) door
+3. Jesus told the man to get up, take his mat and ____ . A) swim B) sleep C) walk D) hide
 4. Fill in: The house was too ____, so they opened the roof.
 5. Mention two things the friends did for the man.
 6. Write what Jesus said to the man.
@@ -1136,9 +1146,9 @@ Draw the man picking up his mat and walking home.
 
 **Worksheet**
 
-1. Jairus' daughter was very ____ . A) tall B) sick C) happy D) fast
-2. Jesus told Jairus, "Do not be afraid; only ____." A) believe B) run C) shout D) sleep
-3. When Jesus took the girl's hand, she ____ . A) rose B) fell C) cried D) left
+1. Jairus' daughter was very ____ . A) happy B) tall C) sick D) fast
+2. Jesus told Jairus, "Do not be afraid; only ____." A) shout B) believe C) sleep D) run
+3. When Jesus took the girl's hand, she ____ . A) rose B) cried C) fell D) left
 4. Fill in: Jairus was a ____ leader.
 5. Mention two things Jesus told Jairus.
 6. Write what Jesus said to the little girl.
@@ -1184,9 +1194,9 @@ Draw Jairus and his daughter standing together, glad and well.
 
 **Worksheet**
 
-1. Lazarus was a ____ of Jesus. A) friend B) stranger C) soldier D) king
-2. Lazarus was in the tomb for ____ days. A) four B) two C) seven D) ten
-3. Jesus called, "Lazarus, come ____!" A) out B) in C) down D) here
+1. Lazarus was a ____ of Jesus. A) stranger B) soldier C) king D) friend
+2. Lazarus was in the tomb for ____ days. A) four B) seven C) two D) ten
+3. Jesus called, "Lazarus, come ____!" A) in B) down C) here D) out
 4. Fill in: Jesus said, "I am the resurrection and the ____."
 5. Mention two sisters of Lazarus.
 6. Write what Jesus said about himself.
@@ -1232,9 +1242,9 @@ Draw Lazarus walking out of the tomb, alive.
 
 **Worksheet**
 
-1. In the temple people were buying and ____ . A) selling B) sleeping C) dancing D) fishing
-2. Jesus said, "My house shall be called a house of ____." A) prayer B) market C) games D) noise
-3. Jesus drove out the people who were ____ . A) cheating B) praying C) singing D) resting
+1. In the temple people were buying and ____ . A) selling B) dancing C) sleeping D) fishing
+2. Jesus said, "My house shall be called a house of ____." A) noise B) games C) prayer D) market
+3. Jesus drove out the people who were ____ . A) cheating B) praying C) resting D) singing
 4. Fill in: The temple is God's ____.
 5. Mention two things people should do in the temple.
 6. Write what Jesus said about his house.
@@ -1288,9 +1298,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) paper D) plastic
-2. Which of these is NOT a digital device? A) broom B) smartphone C) tablet D) camera
-3. The computer that stays on a table is a A) tablet B) camera C) desktop D) watch
+1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) plastic D) paper
+2. Which of these is NOT a digital device? A) broom B) tablet C) camera D) smartphone
+3. The computer that stays on a table is a A) camera B) watch C) tablet D) desktop
 4. Fill in: A ____ opens like a book.
 5. Mention two digital devices you can carry about.
 6. Write one thing a camera does.
@@ -1336,9 +1346,9 @@ Draw one digital device I have seen and colour its screen grey.
 
 **Worksheet**
 
-1. The part that shows pictures and letters is the A) CPU B) mouse C) monitor D) keyboard
-2. We move the arrow on the screen with the A) speaker B) printer C) mouse D) monitor
-3. The brain of the computer is the A) cable B) CPU C) keyboard D) mouse
+1. The part that shows pictures and letters is the A) keyboard B) monitor C) CPU D) mouse
+2. We move the arrow on the screen with the A) monitor B) mouse C) speaker D) printer
+3. The brain of the computer is the A) CPU B) mouse C) keyboard D) cable
 4. Fill in: We press keys on the ____.
 5. Mention two parts we touch to give the computer information.
 6. Write what the monitor does.
@@ -1384,9 +1394,9 @@ Draw the four basic parts of a computer in my notebook.
 
 **Worksheet**
 
-1. We clean a screen with a A) soft, dry cloth B) rough stone C) wet mop D) sandy rag
-2. A tablet should be carried A) with two hands B) by its wire C) under a foot D) open in one finger
-3. Water on a device A) makes it faster B) charges it C) cleans it D) spoils it
+1. We clean a screen with a A) soft, dry cloth B) wet mop C) rough stone D) sandy rag
+2. A tablet should be carried A) with two hands B) by its wire C) open in one finger D) under a foot
+3. Water on a device A) charges it B) cleans it C) spoils it D) makes it faster
 4. Fill in: In the lab we do not eat or ____.
 5. Mention two ways we care for a device.
 6. Write one rule of the computer lab.
@@ -1431,9 +1441,9 @@ Draw myself cleaning a screen with a soft, dry cloth.
 
 **Worksheet**
 
-1. The first tool people used to count is the A) telephone B) fan C) abacus D) radio
-2. Over time computers became smaller, cheaper and A) faster B) heavier C) louder D) slower
-3. The beads that slide on wires are on an A) egg B) orange C) abacus D) umbrella
+1. The first tool people used to count is the A) fan B) radio C) telephone D) abacus
+2. Over time computers became smaller, cheaper and A) faster B) heavier C) slower D) louder
+3. The beads that slide on wires are on an A) umbrella B) abacus C) egg D) orange
 4. Fill in: A machine that can learn is called artificial ____.
 5. Mention two things computers became over time.
 6. Write what the abacus was used for.
@@ -1478,9 +1488,9 @@ Draw an abacus and a modern phone side by side.
 
 **Worksheet**
 
-1. The father of the computer is A) Ada Lovelace B) Thomas Edison C) Charles Babbage D) Isaac Newton
-2. The first programmer in the world was A) Queen Amina B) Ada Lovelace C) Flora Shaw D) Mary Kingsley
-3. Babbage's machine plan was called the A) Steam Boat B) Printing Press C) Flying Loom D) Analytical Engine
+1. The father of the computer is A) Thomas Edison B) Isaac Newton C) Ada Lovelace D) Charles Babbage
+2. The first programmer in the world was A) Flora Shaw B) Queen Amina C) Mary Kingsley D) Ada Lovelace
+3. Babbage's machine plan was called the A) Printing Press B) Flying Loom C) Analytical Engine D) Steam Boat
 4. Fill in: Ada wrote the first ____ for the machine.
 5. Mention the two great inventors of the computer.
 6. Write one sentence on why an idea is valuable.
@@ -1525,9 +1535,9 @@ Draw Charles Babbage's thinking machine with wheels and gears.
 
 **Worksheet**
 
-1. The parts of a computer we can touch are the A) songs B) hardware C) ideas D) software
-2. A drawing app is A) hardware B) a cable C) a chair D) software
-3. Which of these is hardware? A) story B) mouse C) game D) song
+1. The parts of a computer we can touch are the A) hardware B) software C) ideas D) songs
+2. A drawing app is A) a cable B) a chair C) software D) hardware
+3. Which of these is hardware? A) song B) story C) mouse D) game
 4. Fill in: We cannot ____ software.
 5. Mention two hardware parts.
 6. Write one example of software.
@@ -1573,9 +1583,9 @@ Draw two things I can touch (hardware) and write the name of one app.
 
 **Worksheet**
 
-1. A device that puts information into the computer is an ____ device. A) print B) sound C) input D) output
-2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) MONDAY D) FRIDAY
-3. Moving an icon and letting go is A) print B) scan C) save D) drag and drop
+1. A device that puts information into the computer is an ____ device. A) input B) output C) print D) sound
+2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) FRIDAY D) MONDAY
+3. Moving an icon and letting go is A) drag and drop B) scan C) print D) save
 4. Fill in: The key that moves us to the next line is ____.
 5. Mention two input devices.
 6. Write one way we care for the keyboard.
@@ -1621,9 +1631,9 @@ Draw a keyboard and circle the Enter key.
 
 **Worksheet**
 
-1. The device that puts our work on paper is the A) keyboard B) mouse C) printer D) microphone
-2. We hear sound from the computer through A) cable B) speakers C) printer D) mouse
-3. A microphone takes our ____ into the computer. A) hair B) voice C) food D) shoes
+1. The device that puts our work on paper is the A) microphone B) printer C) keyboard D) mouse
+2. We hear sound from the computer through A) mouse B) cable C) speakers D) printer
+3. A microphone takes our ____ into the computer. A) voice B) hair C) shoes D) food
 4. Fill in: The monitor is an ____ device.
 5. Mention two output devices.
 6. Write what a microphone does.
@@ -1632,6 +1642,398 @@ Draw a keyboard and circle the Enter key.
 **My own work**
 
 Draw a speaker and a microphone and colour the microphone.
+
+
+---
+
+# Nigerian History
+
+Weeks 1 to 6, 8 and 9. Week 7 is Mid-Term Break, and weeks 10, 11 and 12 are Revision, Examination and
+Closing: no lesson is written for a week the school keeps for those.
+*Depth: NERDC 2025 · Nigerian History · Primary 1 · First Term.*
+
+
+### WEEK 1 — WHAT IS HISTORY?
+
+*Depth: NERDC Primary 1 · Nigerian History · First Term W1.*
+
+**You will learn to**
+
+• say what history means
+• know that history tells us about the past
+• say why we study history
+• tell one old story I have heard
+
+**Things to know**
+
+• **History** is the story of things that happened long ago.
+• History tells us about the **people who lived before us** and what they did.
+• We study history to **understand today** and to learn from the past.
+• Our grandparents and elders keep history by telling us old stories.
+• A **story** about how our town began is part of history.
+
+**Let us talk**
+
+1. What is history?
+2. Who tells us old stories at home?
+3. Why do we study history?
+
+**Words for my notebook**
+
+• history — the story of the past
+• past — the time long ago
+• elder — an older person who tells stories
+• story — what we hear about the past
+
+**Worksheet**
+
+1. History is the story of things that happened ____ . A) long ago B) never C) tomorrow D) today only
+2. We learn old stories mostly from our ____ . A) toys B) elders C) shoes D) plates
+3. We study history to understand ____ . A) rain B) nothing C) games D) today
+4. Fill in: The time long ago is called the ____.
+5. Mention two things history tells us about.
+6. Write one old story you have heard.
+7. Draw an elder telling children a story under a tree.
+
+**My own work**
+
+Draw myself sitting and listening to an old story.
+
+---
+
+### WEEK 2 — SOURCES OF HISTORY
+
+*Depth: NERDC Primary 1 · Nigerian History · First Term W2.*
+
+**You will learn to**
+
+• say what a source of history is
+• name the three sources of history
+• tell where we get old stories from
+• know that old things teach us about the past
+
+**Things to know**
+
+• A **source** is a place where we get history from.
+• **Oral sources** are stories, songs and poems told by elders by mouth.
+• **Written sources** are books, letters and newspapers that keep the past.
+• **Physical sources** are old things we can see: old buildings, monuments and tools.
+• We use all three sources to know what happened long ago.
+
+**Let us talk**
+
+1. Name the three sources of history.
+2. Which source is a story told by mouth?
+3. Name one old thing that teaches us about the past.
+
+**Words for my notebook**
+
+• source — where we get history
+• oral — told by mouth
+• written — kept in books and papers
+• physical — old things we can see
+
+**Worksheet**
+
+1. Stories, songs and poems told by elders are ____ sources. A) written B) new C) oral D) physical
+2. Books, letters and newspapers are ____ sources. A) oral B) written C) physical D) food
+3. An old building that we can see is a ____ source. A) written B) physical C) song D) oral
+4. Fill in: A source is where we get ____.
+5. Mention two written sources.
+6. Write one physical source you have seen.
+7. Draw a book and an old pot as sources of history.
+
+**My own work**
+
+Draw one old thing at home that tells a story of the past.
+
+---
+
+### WEEK 3 — MY OWN HISTORY
+
+*Depth: NERDC Primary 1 · Nigerian History · First Term W3.*
+
+**You will learn to**
+
+• say that everyone has a history
+• tell the day I was born and my name
+• say how I have grown from a baby
+• know my family's home town
+
+**Things to know**
+
+• **Everyone has a history**, from the day they were born.
+• My history begins with my **birth** and the **name** I was given.
+• I have **grown** from a small baby to a big child who can walk and talk.
+• My **family's history** includes where my parents and grandparents come from.
+• Special days like my birthdays are part of my history.
+
+**Let us talk**
+
+1. When does your history begin?
+2. What is your name and who gave it to you?
+3. Name one thing you can do now that a baby cannot do.
+
+**Words for my notebook**
+
+• birth — the day I was born
+• grow — to get bigger
+• family — my parents and grandparents
+• home town — where my family comes from
+
+**Worksheet**
+
+1. My history begins with my ____ . A) birth B) exam C) school D) holiday
+2. A baby cannot ____ but I can. A) sleep B) cry C) drink D) walk and talk
+3. Where my parents come from is my family's ____ . A) market B) class C) home town D) road
+4. Fill in: The day I was born is my ____ day.
+5. Mention two things that are part of my history.
+6. Write your name and your home town.
+7. Draw myself as a baby and myself now.
+
+**My own work**
+
+Draw a picture of myself on one of my birthdays.
+
+---
+
+### WEEK 4 — EARLY PEOPLE IN NIGERIA
+
+*Depth: NERDC Primary 1 · Nigerian History · First Term W4.*
+
+**You will learn to**
+
+• say that people lived in Nigeria long ago
+• tell how early people got their food
+• say what early people used fire for
+• know that early people made simple tools
+
+**Things to know**
+
+• Long ago, **people lived in Nigeria** before there were towns like today.
+• Early people **hunted animals** and **gathered fruits and vegetables** for food.
+• They made **fire** for cooking and for warmth at night.
+• They made **simple tools** from stone, wood and bone.
+• Some early people lived in **caves** and under big trees.
+
+**Let us talk**
+
+1. How did early people get their food?
+2. What did early people use fire for?
+3. What did early people make their tools from?
+
+**Words for my notebook**
+
+• early people — the first people in our land
+• hunt — to chase animals for food
+• gather — to pick fruits and leaves
+• tool — what helps us do work
+
+**Worksheet**
+
+1. Early people got food by hunting and ____ . A) posting B) gathering C) typing D) buying
+2. Early people made fire for cooking and ____ . A) sleeping B) school C) rain D) warmth
+3. Early people made simple tools from stone, wood and ____ . A) glass B) bone C) paper D) plastic
+4. Fill in: Some early people lived in ____.
+5. Mention two things early people did for food.
+6. Write one use of fire by early people.
+7. Draw an early person holding a simple stone tool.
+
+**My own work**
+
+Draw a cave and a fire like early people used.
+
+---
+
+### WEEK 5 — HOW PEOPLE CAME TO NIGERIA
+
+*Depth: NERDC Primary 1 · Nigerian History · First Term W5.*
+
+**You will learn to**
+
+• say what migration means
+• tell why people moved from place to place
+• know the name of a very old Nigerian people
+• say where people settled in Nigeria
+
+**Things to know**
+
+• **Migration** is when people move from one place to live in another.
+• People moved to find **food**, **water** and **safety**.
+• The **Nok** people are a very old civilisation in Nigeria, known for their clay art.
+• Migrants **settled** in different parts of Nigeria and made new homes.
+• Many Nigerians today are children of people who moved long ago.
+
+**Let us talk**
+
+1. What is migration?
+2. Name one reason people moved long ago.
+3. Which old people are known for clay art?
+
+**Words for my notebook**
+
+• migration — moving to a new home
+• settle — to stay and make a home
+• Nok — an old Nigerian people
+• safety — being safe from harm
+
+**Worksheet**
+
+1. Moving from one place to live in another is ____ . A) cooking B) sleeping C) singing D) migration
+2. People moved long ago to find food, water and ____ . A) trouble B) safety C) noise D) dust
+3. The old Nigerian people known for clay art are the ____ . A) Tiv B) Nok C) Edo D) Ijaw
+4. Fill in: People who move and stay to make a home are said to ____.
+5. Mention two reasons people migrated.
+6. Write what the Nok people are known for.
+7. Draw people walking with their things to a new home.
+
+**My own work**
+
+Draw a family arriving at a new place to settle.
+
+---
+
+### WEEK 6 — THE MAJOR ETHNIC GROUPS
+
+*Depth: NERDC Primary 1 · Nigerian History · First Term W6.*
+
+**You will learn to**
+
+• say that Nigeria has many ethnic groups
+• name the three major ethnic groups
+• tell where each major group mostly lives
+• respect all the peoples of Nigeria
+
+**Things to know**
+
+• Nigeria has many **ethnic groups** with different languages and ways.
+• The three major groups are the **Hausa-Fulani**, the **Igbo** and the **Yoruba**.
+• The Hausa-Fulani mostly live in the **North**, the Igbo in the **East** and the Yoruba in the **West**.
+• Other groups include the **Edo**, **Ijaw**, **Tiv** and **Ibibio**.
+• We respect every ethnic group because we are one Nigeria.
+
+**Let us talk**
+
+1. Name the three major ethnic groups.
+2. Where do the Yoruba mostly live?
+3. Name one other ethnic group in Nigeria.
+
+**Words for my notebook**
+
+• ethnic group — a people with one language and way
+• Hausa-Fulani — major group of the North
+• Igbo — major group of the East
+• Yoruba — major group of the West
+
+**Worksheet**
+
+1. The three major ethnic groups are Hausa-Fulani, Igbo and ____ . A) Maasai B) Yoruba C) Zulu D) Ashanti
+2. The Igbo mostly live in the ____ . A) East B) West C) North D) South only
+3. The Yoruba mostly live in the ____ . A) West B) East C) North D) middle
+4. Fill in: The Hausa-Fulani mostly live in the ____.
+5. Mention two other ethnic groups in Nigeria.
+6. Write why we respect all ethnic groups.
+7. Draw three children in different traditional dressings holding hands.
+
+**My own work**
+
+Draw the map idea of Nigeria with three friends from the North, East and West.
+
+---
+
+### WEEK 8 — EARLY KINGDOMS AND EMPIRES
+
+*Depth: NERDC Primary 1 · Nigerian History · First Term W8.*
+
+**You will learn to**
+
+• say what a kingdom is
+• name old kingdoms and empires in Nigeria
+• tell who rules a kingdom
+• know that our land had great kingdoms long ago
+
+**Things to know**
+
+• A **kingdom** is a place ruled by a **king** or a **queen**.
+• The **Kanem-Bornu Empire** was in the North; the **Oyo Empire** was in Yoruba land.
+• The **Benin Kingdom** was in Edo land, famous for its **bronze** work.
+• The **Sokoto Caliphate** was a great Hausa-Fulani state.
+• These kingdoms show that our land was great long ago.
+
+**Let us talk**
+
+1. What is a kingdom?
+2. Who rules a kingdom?
+3. Which kingdom is famous for bronze work?
+
+**Words for my notebook**
+
+• kingdom — a place ruled by a king or queen
+• king — the ruler of a kingdom
+• empire — a big kingdom over many places
+• bronze — the metal Benin is famous for
+
+**Worksheet**
+
+1. A place ruled by a king or a queen is a ____ . A) kingdom B) farm C) market D) school
+2. The kingdom famous for bronze work is ____ . A) Nok B) Sokoto C) Benin D) Oyo
+3. The Oyo Empire was in ____ land. A) Hausa B) Igbo C) Ijaw D) Yoruba
+4. Fill in: A big kingdom over many places is an ____.
+5. Mention two old kingdoms or empires in Nigeria.
+6. Write who rules a kingdom.
+7. Draw a king with a crown and a staff.
+
+**My own work**
+
+Draw a crown and a staff like a king's.
+
+---
+
+### WEEK 9 — TRADITIONAL OCCUPATIONS
+
+*Depth: NERDC Primary 1 · Nigerian History · First Term W9.*
+
+**You will learn to**
+
+• say what an occupation is
+• name the work people did long ago
+• match each work to its tool
+• know that farming was the main work
+
+**Things to know**
+
+• An **occupation** is the work a person does to live.
+• Long ago people did **farming**, **fishing**, **hunting**, **trading** and **crafts**.
+• The **farmer** grew yam, cassava, millet and corn with a **hoe** and a **cutlass**.
+• The **fisher** caught fish in rivers and seas with **nets** and **canoes**.
+• The **potter** made pots from clay and the **weaver** wove cloth.
+
+**Let us talk**
+
+1. What is an occupation?
+2. Name two works people did long ago.
+3. Which tool does a farmer use?
+
+**Words for my notebook**
+
+• occupation — the work a person does
+• farming — growing crops
+• fishing — catching fish
+• potter — one who makes pots
+
+**Worksheet**
+
+1. The work a person does to live is an ____ . A) holiday B) exam C) occupation D) game
+2. The main work of early people was ____ . A) driving B) farming C) banking D) typing
+3. A fisher catches fish with nets and a ____ . A) plane B) canoe C) bicycle D) car
+4. Fill in: A potter makes pots from ____.
+5. Mention two tools a farmer uses.
+6. Write one occupation and its tool.
+7. Draw a farmer with a hoe and a cutlass.
+
+**My own work**
+
+Draw one traditional worker and the tool they use.
 
 
 ---
@@ -1677,9 +2079,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. I see with my ____ . A) eyes B) ears C) nose D) hands
-2. The part of the body I walk with is my ____ . A) ears B) legs C) hair D) teeth
-3. How many arms does a person have? A) one B) four C) three D) two
+1. I see with my ____ . A) eyes B) nose C) ears D) hands
+2. The part of the body I walk with is my ____ . A) hair B) teeth C) legs D) ears
+3. How many arms does a person have? A) two B) four C) one D) three
 4. Fill in: I hear with my ____.
 5. Mention two parts of the head.
 6. Write your full name and your age.
@@ -1725,9 +2127,9 @@ Draw my face and put in my eyes, ears, nose and mouth.
 
 **Worksheet**
 
-1. The group of people I live with is my ____ . A) school B) market C) class D) family
-2. My father is also called my ____ . A) chief B) uncle C) king D) dad
-3. My brother and my sister are my ____ . A) siblings B) strangers C) teachers D) friends
+1. The group of people I live with is my ____ . A) family B) market C) school D) class
+2. My father is also called my ____ . A) dad B) uncle C) chief D) king
+3. My brother and my sister are my ____ . A) siblings B) friends C) teachers D) strangers
 4. Fill in: My mother is also called my ____.
 5. Mention two ways a family shows love.
 6. Write one way you help at home.
@@ -1773,9 +2175,9 @@ Draw my father, my mother and me standing together.
 
 **Worksheet**
 
-1. The person who leads the school is the ____ . A) headteacher B) driver C) farmer D) trader
-2. We learn our lessons in the ____ . A) road B) river C) classroom D) market
-3. We put rubbish in the ____ . A) bag B) bin C) chair D) desk
+1. The person who leads the school is the ____ . A) headteacher B) farmer C) driver D) trader
+2. We learn our lessons in the ____ . A) river B) classroom C) market D) road
+3. We put rubbish in the ____ . A) chair B) desk C) bin D) bag
 4. Fill in: The ____ teaches us in the class.
 5. Mention two people who work in the school.
 6. Write one way you keep the school clean.
@@ -1821,9 +2223,9 @@ Draw my teacher at the board in my classroom.
 
 **Worksheet**
 
-1. Before I speak in class I ____ my hand. A) raise B) hide C) shake D) drop
-2. We write our lessons in our ____ . A) books B) shoes C) bags D) caps
-3. In the classroom we ____ , we do not run. A) walk B) fight C) jump D) shout
+1. Before I speak in class I ____ my hand. A) raise B) drop C) hide D) shake
+2. We write our lessons in our ____ . A) shoes B) books C) caps D) bags
+3. In the classroom we ____ , we do not run. A) walk B) jump C) shout D) fight
 4. Fill in: The teacher writes on the ____.
 5. Mention two rules of the classroom.
 6. Write one way you care for your books.
@@ -1869,9 +2271,9 @@ Draw my classroom and put a bin in the corner.
 
 **Worksheet**
 
-1. The people who live near my home are my ____ . A) neighbours B) teachers C) drivers D) nurses
-2. The road near my house is my ____ . A) hill B) river C) street D) bridge
-3. We keep the compound clean by ____ it. A) sweeping B) dirtying C) flooding D) breaking
+1. The people who live near my home are my ____ . A) neighbours B) drivers C) teachers D) nurses
+2. The road near my house is my ____ . A) street B) river C) bridge D) hill
+3. We keep the compound clean by ____ it. A) sweeping B) breaking C) flooding D) dirtying
 4. Fill in: My home is where I ____.
 5. Mention two ways we keep the neighbourhood clean.
 6. Write one way we stay safe near home.
@@ -1917,9 +2319,9 @@ Draw my compound and put in one thing that keeps it clean.
 
 **Worksheet**
 
-1. The person who cares for the sick is the ____ . A) nurse B) driver C) farmer D) tailor
-2. The person who grows our food is the ____ . A) farmer B) trader C) clerk D) pilot
-3. The person who keeps us safe on the road is the ____ . A) chef B) barber C) baker D) police officer
+1. The person who cares for the sick is the ____ . A) nurse B) driver C) tailor D) farmer
+2. The person who grows our food is the ____ . A) pilot B) trader C) clerk D) farmer
+3. The person who keeps us safe on the road is the ____ . A) baker B) chef C) police officer D) barber
 4. Fill in: The ____ teaches us in the school.
 5. Mention two helpers and what they do.
 6. Write one helper you want to thank and why.
@@ -1965,9 +2367,9 @@ Draw one helper in my community and the tool they use.
 
 **Worksheet**
 
-1. My country is ____ . A) Nigeria B) Ghana C) Kenya D) Egypt
-2. The Nigerian flag is green, white and ____ . A) blue B) red C) black D) green
-3. The white on the flag stands for ____ . A) peace B) war C) rain D) sand
+1. My country is ____ . A) Kenya B) Egypt C) Nigeria D) Ghana
+2. The Nigerian flag is green, white and ____ . A) green B) red C) blue D) black
+3. The white on the flag stands for ____ . A) peace B) war C) sand D) rain
 4. Fill in: The capital city of Nigeria is ____.
 5. Mention the three bands of the flag in order.
 6. Write what the green on the flag stands for.
@@ -2013,9 +2415,9 @@ Draw the Nigerian flag and colour the bands the right way.
 
 **Worksheet**
 
-1. A person who belongs to a country is a ____ . A) stranger B) baby C) citizen D) visitor
-2. A good citizen tells the ____ . A) truth B) lies C) secrets D) stories
-3. When someone gives me something I say ____ . A) thank you B) no C) go away D) mine
+1. A person who belongs to a country is a ____ . A) baby B) citizen C) visitor D) stranger
+2. A good citizen tells the ____ . A) stories B) lies C) secrets D) truth
+3. When someone gives me something I say ____ . A) thank you B) go away C) no D) mine
 4. Fill in: We keep our country ____ by not littering.
 5. Mention two things a good citizen does.
 6. Write how you greet an elder in the morning.
@@ -2768,6 +3170,192 @@ Answer in full sentences.
 43. Say two ways we care for a device. (2 marks)
 44. Who is the father of the computer and what did he design? (2 marks)
 45. Tell one input device and one output device. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. History is the story of things that happened ___
+   A) today only
+   B) never
+   C) tomorrow
+   D) long ago
+2. We learn old stories mostly from our ___
+   A) elders
+   B) toys
+   C) plates
+   D) shoes
+3. We study history to understand ___
+   A) nothing
+   B) today
+   C) games
+   D) rain
+4. A place where we get history from is a ___
+   A) river
+   B) market
+   C) road
+   D) source
+5. Stories, songs and poems told by mouth are ___ sources
+   A) new
+   B) written
+   C) oral
+   D) physical
+6. Books, letters and newspapers are ___ sources
+   A) written
+   B) physical
+   C) food
+   D) oral
+7. An old building we can see is a ___ source
+   A) oral
+   B) song
+   C) written
+   D) physical
+8. My history begins with my ___
+   A) holiday
+   B) school
+   C) birth
+   D) exam
+9. A baby cannot walk and talk but I ___
+   A) can
+   B) did not
+   C) cannot
+   D) will not
+10. Where my parents come from is my family's ___
+   A) road
+   B) home town
+   C) market
+   D) class
+11. Early people got food by hunting and ___
+   A) buying
+   B) typing
+   C) posting
+   D) gathering
+12. Early people made fire for cooking and ___
+   A) warmth
+   B) sleeping
+   C) school
+   D) rain
+13. Early people made simple tools from stone, wood and ___
+   A) glass
+   B) bone
+   C) plastic
+   D) paper
+14. Some early people lived in ___ and under big trees
+   A) hotels
+   B) banks
+   C) caves
+   D) shops
+15. Moving from one place to live in another is ___
+   A) migration
+   B) singing
+   C) sleeping
+   D) cooking
+16. People moved long ago to find food, water and ___
+   A) noise
+   B) safety
+   C) trouble
+   D) dust
+17. The old Nigerian people known for clay art are the ___
+   A) Ijaw
+   B) Tiv
+   C) Nok
+   D) Edo
+18. Nigeria's three major ethnic groups are Hausa-Fulani, Igbo and ___
+   A) Zulu
+   B) Ashanti
+   C) Maasai
+   D) Yoruba
+19. The Igbo mostly live in the ___
+   A) North
+   B) East
+   C) middle
+   D) West
+20. The Yoruba mostly live in the ___
+   A) North
+   B) South only
+   C) West
+   D) East
+21. The Hausa-Fulani mostly live in the ___
+   A) North
+   B) middle
+   C) West
+   D) East
+22. A place ruled by a king or a queen is a ___
+   A) farm
+   B) market
+   C) school
+   D) kingdom
+23. The kingdom famous for bronze work is ___
+   A) Nok
+   B) Benin
+   C) Oyo
+   D) Sokoto
+24. The Oyo Empire was in ___ land
+   A) Igbo
+   B) Hausa
+   C) Yoruba
+   D) Ijaw
+25. A big kingdom over many places is an ___
+   A) empire
+   B) island
+   C) orchard
+   D) office
+26. The work a person does to live is an ___
+   A) game
+   B) holiday
+   C) exam
+   D) occupation
+27. The main work of early people was ___
+   A) banking
+   B) farming
+   C) driving
+   D) typing
+28. A fisher catches fish with nets and a ___
+   A) canoe
+   B) plane
+   C) bicycle
+   D) car
+29. A potter makes pots from ___
+   A) air
+   B) water
+   C) clay
+   D) glass
+30. A farmer works with a hoe and a ___
+   A) spoon
+   B) comb
+   C) pencil
+   D) cutlass
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name the three sources of history
+32. Name two things history tells us about
+33. Name two things early people did for food
+34. Name two reasons people migrated
+35. Name the three major ethnic groups
+36. Name two other ethnic groups
+37. Name two old kingdoms or empires
+38. Name two traditional occupations
+39. Name two tools a farmer uses
+40. Name two things a king has
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is history in one line? (2 marks)
+42. Name the three sources of history. (2 marks)
+43. Why did people migrate long ago? (2 marks)
+44. Name the three major ethnic groups and where each mostly lives. (2 marks)
+45. Say one traditional occupation and its tool. (2 marks)
 
 
 ---

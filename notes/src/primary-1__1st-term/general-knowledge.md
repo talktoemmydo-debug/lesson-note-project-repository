@@ -40,9 +40,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. I see with my ____ . A) eyes B) ears C) nose D) hands
-2. The part of the body I walk with is my ____ . A) ears B) legs C) hair D) teeth
-3. How many arms does a person have? A) one B) four C) three D) two
+1. I see with my ____ . A) eyes B) nose C) ears D) hands
+2. The part of the body I walk with is my ____ . A) hair B) teeth C) legs D) ears
+3. How many arms does a person have? A) two B) four C) one D) three
 4. Fill in: I hear with my ____.
 5. Mention two parts of the head.
 6. Write your full name and your age.
@@ -88,9 +88,9 @@ Draw my face and put in my eyes, ears, nose and mouth.
 
 **Worksheet**
 
-1. The group of people I live with is my ____ . A) school B) market C) class D) family
-2. My father is also called my ____ . A) chief B) uncle C) king D) dad
-3. My brother and my sister are my ____ . A) siblings B) strangers C) teachers D) friends
+1. The group of people I live with is my ____ . A) family B) market C) school D) class
+2. My father is also called my ____ . A) dad B) uncle C) chief D) king
+3. My brother and my sister are my ____ . A) siblings B) friends C) teachers D) strangers
 4. Fill in: My mother is also called my ____.
 5. Mention two ways a family shows love.
 6. Write one way you help at home.
@@ -136,9 +136,9 @@ Draw my father, my mother and me standing together.
 
 **Worksheet**
 
-1. The person who leads the school is the ____ . A) headteacher B) driver C) farmer D) trader
-2. We learn our lessons in the ____ . A) road B) river C) classroom D) market
-3. We put rubbish in the ____ . A) bag B) bin C) chair D) desk
+1. The person who leads the school is the ____ . A) headteacher B) farmer C) driver D) trader
+2. We learn our lessons in the ____ . A) river B) classroom C) market D) road
+3. We put rubbish in the ____ . A) chair B) desk C) bin D) bag
 4. Fill in: The ____ teaches us in the class.
 5. Mention two people who work in the school.
 6. Write one way you keep the school clean.
@@ -184,9 +184,9 @@ Draw my teacher at the board in my classroom.
 
 **Worksheet**
 
-1. Before I speak in class I ____ my hand. A) raise B) hide C) shake D) drop
-2. We write our lessons in our ____ . A) books B) shoes C) bags D) caps
-3. In the classroom we ____ , we do not run. A) walk B) fight C) jump D) shout
+1. Before I speak in class I ____ my hand. A) raise B) drop C) hide D) shake
+2. We write our lessons in our ____ . A) shoes B) books C) caps D) bags
+3. In the classroom we ____ , we do not run. A) walk B) jump C) shout D) fight
 4. Fill in: The teacher writes on the ____.
 5. Mention two rules of the classroom.
 6. Write one way you care for your books.
@@ -232,9 +232,9 @@ Draw my classroom and put a bin in the corner.
 
 **Worksheet**
 
-1. The people who live near my home are my ____ . A) neighbours B) teachers C) drivers D) nurses
-2. The road near my house is my ____ . A) hill B) river C) street D) bridge
-3. We keep the compound clean by ____ it. A) sweeping B) dirtying C) flooding D) breaking
+1. The people who live near my home are my ____ . A) neighbours B) drivers C) teachers D) nurses
+2. The road near my house is my ____ . A) street B) river C) bridge D) hill
+3. We keep the compound clean by ____ it. A) sweeping B) breaking C) flooding D) dirtying
 4. Fill in: My home is where I ____.
 5. Mention two ways we keep the neighbourhood clean.
 6. Write one way we stay safe near home.
@@ -280,9 +280,9 @@ Draw my compound and put in one thing that keeps it clean.
 
 **Worksheet**
 
-1. The person who cares for the sick is the ____ . A) nurse B) driver C) farmer D) tailor
-2. The person who grows our food is the ____ . A) farmer B) trader C) clerk D) pilot
-3. The person who keeps us safe on the road is the ____ . A) chef B) barber C) baker D) police officer
+1. The person who cares for the sick is the ____ . A) nurse B) driver C) tailor D) farmer
+2. The person who grows our food is the ____ . A) pilot B) trader C) clerk D) farmer
+3. The person who keeps us safe on the road is the ____ . A) baker B) chef C) police officer D) barber
 4. Fill in: The ____ teaches us in the school.
 5. Mention two helpers and what they do.
 6. Write one helper you want to thank and why.
@@ -328,9 +328,9 @@ Draw one helper in my community and the tool they use.
 
 **Worksheet**
 
-1. My country is ____ . A) Nigeria B) Ghana C) Kenya D) Egypt
-2. The Nigerian flag is green, white and ____ . A) blue B) red C) black D) green
-3. The white on the flag stands for ____ . A) peace B) war C) rain D) sand
+1. My country is ____ . A) Kenya B) Egypt C) Nigeria D) Ghana
+2. The Nigerian flag is green, white and ____ . A) green B) red C) blue D) black
+3. The white on the flag stands for ____ . A) peace B) war C) sand D) rain
 4. Fill in: The capital city of Nigeria is ____.
 5. Mention the three bands of the flag in order.
 6. Write what the green on the flag stands for.
@@ -376,9 +376,9 @@ Draw the Nigerian flag and colour the bands the right way.
 
 **Worksheet**
 
-1. A person who belongs to a country is a ____ . A) stranger B) baby C) citizen D) visitor
-2. A good citizen tells the ____ . A) truth B) lies C) secrets D) stories
-3. When someone gives me something I say ____ . A) thank you B) no C) go away D) mine
+1. A person who belongs to a country is a ____ . A) baby B) citizen C) visitor D) stranger
+2. A good citizen tells the ____ . A) stories B) lies C) secrets D) truth
+3. When someone gives me something I say ____ . A) thank you B) go away C) no D) mine
 4. Fill in: We keep our country ____ by not littering.
 5. Mention two things a good citizen does.
 6. Write how you greet an elder in the morning.

@@ -1,0 +1,382 @@
+{
+ "subject": "Nigerian History",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "History is the story of things that happened ___",
+   "answer": "long ago",
+   "distractors": [
+    "tomorrow",
+    "never",
+    "today only"
+   ]
+  },
+  {
+   "stem": "We learn old stories mostly from our ___",
+   "answer": "elders",
+   "distractors": [
+    "toys",
+    "shoes",
+    "plates"
+   ]
+  },
+  {
+   "stem": "We study history to understand ___",
+   "answer": "today",
+   "distractors": [
+    "nothing",
+    "games",
+    "rain"
+   ]
+  },
+  {
+   "stem": "A place where we get history from is a ___",
+   "answer": "source",
+   "distractors": [
+    "market",
+    "river",
+    "road"
+   ]
+  },
+  {
+   "stem": "Stories, songs and poems told by mouth are ___ sources",
+   "answer": "oral",
+   "distractors": [
+    "written",
+    "physical",
+    "new"
+   ]
+  },
+  {
+   "stem": "Books, letters and newspapers are ___ sources",
+   "answer": "written",
+   "distractors": [
+    "oral",
+    "physical",
+    "food"
+   ]
+  },
+  {
+   "stem": "An old building we can see is a ___ source",
+   "answer": "physical",
+   "distractors": [
+    "oral",
+    "written",
+    "song"
+   ]
+  },
+  {
+   "stem": "My history begins with my ___",
+   "answer": "birth",
+   "distractors": [
+    "school",
+    "exam",
+    "holiday"
+   ]
+  },
+  {
+   "stem": "A baby cannot walk and talk but I ___",
+   "answer": "can",
+   "distractors": [
+    "cannot",
+    "will not",
+    "did not"
+   ]
+  },
+  {
+   "stem": "Where my parents come from is my family's ___",
+   "answer": "home town",
+   "distractors": [
+    "market",
+    "class",
+    "road"
+   ]
+  },
+  {
+   "stem": "Early people got food by hunting and ___",
+   "answer": "gathering",
+   "distractors": [
+    "buying",
+    "posting",
+    "typing"
+   ]
+  },
+  {
+   "stem": "Early people made fire for cooking and ___",
+   "answer": "warmth",
+   "distractors": [
+    "sleeping",
+    "rain",
+    "school"
+   ]
+  },
+  {
+   "stem": "Early people made simple tools from stone, wood and ___",
+   "answer": "bone",
+   "distractors": [
+    "plastic",
+    "glass",
+    "paper"
+   ]
+  },
+  {
+   "stem": "Some early people lived in ___ and under big trees",
+   "answer": "caves",
+   "distractors": [
+    "banks",
+    "hotels",
+    "shops"
+   ]
+  },
+  {
+   "stem": "Moving from one place to live in another is ___",
+   "answer": "migration",
+   "distractors": [
+    "sleeping",
+    "cooking",
+    "singing"
+   ]
+  },
+  {
+   "stem": "People moved long ago to find food, water and ___",
+   "answer": "safety",
+   "distractors": [
+    "noise",
+    "trouble",
+    "dust"
+   ]
+  },
+  {
+   "stem": "The old Nigerian people known for clay art are the ___",
+   "answer": "Nok",
+   "distractors": [
+    "Edo",
+    "Ijaw",
+    "Tiv"
+   ]
+  },
+  {
+   "stem": "Nigeria's three major ethnic groups are Hausa-Fulani, Igbo and ___",
+   "answer": "Yoruba",
+   "distractors": [
+    "Zulu",
+    "Ashanti",
+    "Maasai"
+   ]
+  },
+  {
+   "stem": "The Igbo mostly live in the ___",
+   "answer": "East",
+   "distractors": [
+    "North",
+    "West",
+    "middle"
+   ]
+  },
+  {
+   "stem": "The Yoruba mostly live in the ___",
+   "answer": "West",
+   "distractors": [
+    "North",
+    "East",
+    "South only"
+   ]
+  },
+  {
+   "stem": "The Hausa-Fulani mostly live in the ___",
+   "answer": "North",
+   "distractors": [
+    "East",
+    "West",
+    "middle"
+   ]
+  },
+  {
+   "stem": "A place ruled by a king or a queen is a ___",
+   "answer": "kingdom",
+   "distractors": [
+    "market",
+    "school",
+    "farm"
+   ]
+  },
+  {
+   "stem": "The kingdom famous for bronze work is ___",
+   "answer": "Benin",
+   "distractors": [
+    "Oyo",
+    "Nok",
+    "Sokoto"
+   ]
+  },
+  {
+   "stem": "The Oyo Empire was in ___ land",
+   "answer": "Yoruba",
+   "distractors": [
+    "Hausa",
+    "Igbo",
+    "Ijaw"
+   ]
+  },
+  {
+   "stem": "A big kingdom over many places is an ___",
+   "answer": "empire",
+   "distractors": [
+    "office",
+    "island",
+    "orchard"
+   ]
+  },
+  {
+   "stem": "The work a person does to live is an ___",
+   "answer": "occupation",
+   "distractors": [
+    "holiday",
+    "exam",
+    "game"
+   ]
+  },
+  {
+   "stem": "The main work of early people was ___",
+   "answer": "farming",
+   "distractors": [
+    "typing",
+    "driving",
+    "banking"
+   ]
+  },
+  {
+   "stem": "A fisher catches fish with nets and a ___",
+   "answer": "canoe",
+   "distractors": [
+    "car",
+    "bicycle",
+    "plane"
+   ]
+  },
+  {
+   "stem": "A potter makes pots from ___",
+   "answer": "clay",
+   "distractors": [
+    "air",
+    "water",
+    "glass"
+   ]
+  },
+  {
+   "stem": "A farmer works with a hoe and a ___",
+   "answer": "cutlass",
+   "distractors": [
+    "pencil",
+    "spoon",
+    "comb"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the three sources of history ",
+   "points": [
+    "oral",
+    "written",
+    "physical"
+   ]
+  },
+  {
+   "stem": "Name two things history tells us about ",
+   "points": [
+    "people",
+    "the past"
+   ]
+  },
+  {
+   "stem": "Name two things early people did for food ",
+   "points": [
+    "hunting",
+    "gathering"
+   ]
+  },
+  {
+   "stem": "Name two reasons people migrated ",
+   "points": [
+    "food",
+    "water",
+    "safety"
+   ]
+  },
+  {
+   "stem": "Name the three major ethnic groups ",
+   "points": [
+    "Hausa-Fulani",
+    "Igbo",
+    "Yoruba"
+   ]
+  },
+  {
+   "stem": "Name two other ethnic groups ",
+   "points": [
+    "Edo",
+    "Ijaw",
+    "Tiv"
+   ]
+  },
+  {
+   "stem": "Name two old kingdoms or empires ",
+   "points": [
+    "Kanem-Bornu",
+    "Oyo",
+    "Benin"
+   ]
+  },
+  {
+   "stem": "Name two traditional occupations ",
+   "points": [
+    "farming",
+    "fishing",
+    "trading"
+   ]
+  },
+  {
+   "stem": "Name two tools a farmer uses ",
+   "points": [
+    "hoe",
+    "cutlass"
+   ]
+  },
+  {
+   "stem": "Name two things a king has ",
+   "points": [
+    "crown",
+    "staff"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is history in one line?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the three sources of history.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why did people migrate long ago?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the three major ethnic groups and where each mostly lives.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say one traditional occupation and its tool.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
