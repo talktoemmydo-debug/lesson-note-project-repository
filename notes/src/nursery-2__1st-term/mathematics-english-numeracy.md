@@ -47,6 +47,8 @@ bottle caps rather than with written work only.*
 4. Which is bigger, 189 or 198?
 5. Count by fives from 5 to 50.
 
+
+![A blank number line with tick marks and a card above it.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week1-blank-number-line.png)
 **Worksheet**
 
 1. Two hundred is the same as A) twenty tens B) two units C) two hundred units only D) two tens
@@ -99,6 +101,8 @@ Ten ones make one ten. In 47, the 4 is tens (40) and the 7 is ones. Same digits,
 3. In 63, which digit is in the ones place?
 4. Which is bigger, 52 or 25, and why?
 
+
+![A full ten frame and three loose counters making thirteen.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week2-ten-and-three.png)
 **Worksheet**
 
 1. Seven tens and five ones make A) 57 B) 12 C) 705 D) 75
@@ -149,6 +153,8 @@ twenty-one · thirty-four · forty · fifty · one hundred and forty-seven. Spel
 3. What figure is "sixty-five"?
 4. Say the difference between "thirteen" and "thirty".
 
+
+![Two blank cards, one for the figure and one for the word.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week3-figure-and-word-cards.png)
 **Worksheet**
 
 1. The correct spelling of 13 in words is A) thirden B) thirteen C) three-teen D) threeteen
@@ -198,6 +204,8 @@ sixty-three → 63. Two hundred and five → 205. Read your answer back to check
 3. Write "one hundred and eight" in figures.
 4. How do you check your answer after writing it?
 
+
+![A blank card beside two empty writing lines.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week4-card-and-writing-lines.png)
 **Worksheet**
 
 1. "Eighty-four" in figures is A) 14 B) 84 C) 48 D) 80
@@ -250,6 +258,8 @@ Addition is putting together. The sign is +, and the answer after = is the total
 3. What is the sum of 4 and 1?
 4. Tell a story that ends in 5 + 2.
 
+
+![Two apples and three apples put together make five.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week5-two-apples-and-three-apples.png)
 **Worksheet**
 
 1. Addition means A) comparing B) sharing C) putting together D) taking away
@@ -303,6 +313,8 @@ Know the facts to 10. For 23 + 14: ones first (3+4=7), then tens (20+10=30) → 
 4. How do you check that 25 + 12 = 37?
 5. Give me two pairs that make 10.
 
+
+![Four balls and two balls put together make six.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week6-four-balls-and-two-balls.png)
 **Worksheet**
 
 1. 6 + 4 = A) 12 B) 11 C) 10 D) 9
@@ -356,6 +368,8 @@ Subtraction is taking away. The sign is −, and the answer is the difference. 5
 3. What is 3 − 3? What is 3 − 0?
 4. Tell a story that ends in 5 − 2.
 
+
+![Five strawberries with two taken away into a basket, leaving three.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week8-five-strawberries-take-two.png)
 **Worksheet**
 
 1. Subtraction means A) sharing fairly B) taking away C) putting together D) multiplying
@@ -410,6 +424,8 @@ For 48 − 25: ones first, then tens → 23. Check by adding back. If the ones a
 4. Your mother has ₦50 and buys ₦30 of bread — what is left?
 5. How would you check 41 − 16?
 
+
+![Ten counters with three taken away: seven left in the frame and three outside.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week9-seven-left-three-away.png)
 **Worksheet**
 
 1. 10 − 3 = A) 8 B) 7 C) 6 D) 13

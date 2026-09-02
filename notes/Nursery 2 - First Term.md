@@ -117,32 +117,32 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 2 — PLACE VALUE](#week-2-place-value) · 96
   - [WEEK 3 — WRITING NUMBERS IN WORDS](#week-3-writing-numbers-in-words) · 97
   - [WEEK 4 — WRITING WORDS IN FIGURES](#week-4-writing-words-in-figures) · 98
-  - [WEEK 5 — ADDITION (INTRODUCTION)](#week-5-addition-introduction) · 98
-  - [WEEK 6 — ADDITION](#week-6-addition) · 99
-  - [WEEK 8 — SUBTRACTION (INTRODUCTION)](#week-8-subtraction-introduction) · 100
-  - [WEEK 9 — SUBTRACTION](#week-9-subtraction) · 101
-- **[General Knowledge](#general-knowledge)** · 103
-  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 103
-  - [WEEK 2 — MY FAMILY: MEMBERS AND THEIR ROLES](#week-2-my-family-members-and-their-roles) · 103
-  - [WEEK 3 — MY SCHOOL: PLACES, PEOPLE AND THINGS](#week-3-my-school-places-people-and-things) · 104
-  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 105
-  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 106
-  - [WEEK 6 — COLOURS, SHAPES AND SIZES AROUND ME](#week-6-colours-shapes-and-sizes-around-me) · 106
-  - [WEEK 8 — ANIMALS AND BIRDS AROUND ME](#week-8-animals-and-birds-around-me) · 107
-  - [WEEK 9 — GOOD HABITS: GREETINGS, POLITENESS AND CLEANLINESS](#week-9-good-habits-greetings-politeness-and-cleanliness) · 108
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · First Term)](#examination-practice-basic-science-nursery-2-first-term)** · 110
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-nursery-2-1st-term)** · 112
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 1st Term)](#examination-practice-christian-religious-studies-nursery-2-1st-term)** · 114
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 1st Term)](#examination-practice-basic-digital-literacy-nursery-2-1st-term)** · 116
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY ( · )](#examination-practice-nigerian-history)** · 118
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 1st Term)](#examination-practice-physical-and-health-education-nursery-2-1st-term)** · 121
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 1st Term)](#examination-practice-prevocational-studies-nursery-2-1st-term)** · 124
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-nursery-2-1st-term)** · 126
-- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 1st Term)](#examination-practice-yoruba-nursery-2-1st-term)** · 129
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-1st-term)** · 131
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-1st-term)** · 133
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-numeracy-nursery-2-1st-term)** · 135
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE ( · )](#examination-practice-general-knowledge)** · 137
+  - [WEEK 5 — ADDITION (INTRODUCTION)](#week-5-addition-introduction) · 100
+  - [WEEK 6 — ADDITION](#week-6-addition) · 101
+  - [WEEK 8 — SUBTRACTION (INTRODUCTION)](#week-8-subtraction-introduction) · 102
+  - [WEEK 9 — SUBTRACTION](#week-9-subtraction) · 103
+- **[General Knowledge](#general-knowledge)** · 105
+  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 105
+  - [WEEK 2 — MY FAMILY: MEMBERS AND THEIR ROLES](#week-2-my-family-members-and-their-roles) · 105
+  - [WEEK 3 — MY SCHOOL: PLACES, PEOPLE AND THINGS](#week-3-my-school-places-people-and-things) · 106
+  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 107
+  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 108
+  - [WEEK 6 — COLOURS, SHAPES AND SIZES AROUND ME](#week-6-colours-shapes-and-sizes-around-me) · 108
+  - [WEEK 8 — ANIMALS AND BIRDS AROUND ME](#week-8-animals-and-birds-around-me) · 109
+  - [WEEK 9 — GOOD HABITS: GREETINGS, POLITENESS AND CLEANLINESS](#week-9-good-habits-greetings-politeness-and-cleanliness) · 110
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · First Term)](#examination-practice-basic-science-nursery-2-first-term)** · 112
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-nursery-2-1st-term)** · 114
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 1st Term)](#examination-practice-christian-religious-studies-nursery-2-1st-term)** · 116
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 1st Term)](#examination-practice-basic-digital-literacy-nursery-2-1st-term)** · 118
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY ( · )](#examination-practice-nigerian-history)** · 120
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 1st Term)](#examination-practice-physical-and-health-education-nursery-2-1st-term)** · 123
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 1st Term)](#examination-practice-prevocational-studies-nursery-2-1st-term)** · 126
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-nursery-2-1st-term)** · 128
+- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 1st Term)](#examination-practice-yoruba-nursery-2-1st-term)** · 131
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-1st-term)** · 133
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-1st-term)** · 135
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-numeracy-nursery-2-1st-term)** · 137
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE ( · )](#examination-practice-general-knowledge)** · 139
 
 
 
@@ -4998,6 +4998,8 @@ Tell a story of your own to your classmate and ask them two questions about it.
 4. Which is bigger, 189 or 198?
 5. Count by fives from 5 to 50.
 
+
+![A blank number line with tick marks and a card above it.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week1-blank-number-line.png)
 **Worksheet**
 
 1. Two hundred is the same as A) twenty tens B) two units C) two hundred units only D) two tens
@@ -5050,6 +5052,8 @@ Ten ones make one ten. In 47, the 4 is tens (40) and the 7 is ones. Same digits,
 3. In 63, which digit is in the ones place?
 4. Which is bigger, 52 or 25, and why?
 
+
+![A full ten frame and three loose counters making thirteen.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week2-ten-and-three.png)
 **Worksheet**
 
 1. Seven tens and five ones make A) 57 B) 12 C) 705 D) 75
@@ -5100,6 +5104,8 @@ twenty-one · thirty-four · forty · fifty · one hundred and forty-seven. Spel
 3. What figure is "sixty-five"?
 4. Say the difference between "thirteen" and "thirty".
 
+
+![Two blank cards, one for the figure and one for the word.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week3-figure-and-word-cards.png)
 **Worksheet**
 
 1. The correct spelling of 13 in words is A) thirden B) thirteen C) three-teen D) threeteen
@@ -5149,6 +5155,8 @@ sixty-three → 63. Two hundred and five → 205. Read your answer back to check
 3. Write "one hundred and eight" in figures.
 4. How do you check your answer after writing it?
 
+
+![A blank card beside two empty writing lines.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week4-card-and-writing-lines.png)
 **Worksheet**
 
 1. "Eighty-four" in figures is A) 14 B) 84 C) 48 D) 80
@@ -5201,6 +5209,8 @@ Addition is putting together. The sign is +, and the answer after = is the total
 3. What is the sum of 4 and 1?
 4. Tell a story that ends in 5 + 2.
 
+
+![Two apples and three apples put together make five.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week5-two-apples-and-three-apples.png)
 **Worksheet**
 
 1. Addition means A) comparing B) sharing C) putting together D) taking away
@@ -5254,6 +5264,8 @@ Know the facts to 10. For 23 + 14: ones first (3+4=7), then tens (20+10=30) → 
 4. How do you check that 25 + 12 = 37?
 5. Give me two pairs that make 10.
 
+
+![Four balls and two balls put together make six.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week6-four-balls-and-two-balls.png)
 **Worksheet**
 
 1. 6 + 4 = A) 12 B) 11 C) 10 D) 9
@@ -5307,6 +5319,8 @@ Subtraction is taking away. The sign is −, and the answer is the difference. 5
 3. What is 3 − 3? What is 3 − 0?
 4. Tell a story that ends in 5 − 2.
 
+
+![Five strawberries with two taken away into a basket, leaving three.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week8-five-strawberries-take-two.png)
 **Worksheet**
 
 1. Subtraction means A) sharing fairly B) taking away C) putting together D) multiplying
@@ -5361,6 +5375,8 @@ For 48 − 25: ones first, then tens → 23. Check by adding back. If the ones a
 4. Your mother has ₦50 and buys ₦30 of bread — what is left?
 5. How would you check 41 − 16?
 
+
+![Ten counters with three taken away: seven left in the frame and three outside.](assets/img/nursery-2/1st-term/mathematics-english-numeracy/week9-seven-left-three-away.png)
 **Worksheet**
 
 1. 10 − 3 = A) 8 B) 7 C) 6 D) 13

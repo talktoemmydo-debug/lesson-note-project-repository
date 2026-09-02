@@ -711,3 +711,13 @@ open blank story book with three empty boxes for the storytelling week. All eigh
 **mathematics-english-literacy is 8 of 8 and leaves the ledger**, the First Term book rebuilt at
 **40 plates · 138 pages · 129/129 Contents numbers · book and file gates ok**, the ledger now **24 owed over
 3 files** (numeracy, physical-and-health-education, prevocational-studies), scratch emptied.
+
+## 2 Sep 2026 — First Term numeracy swept whole, every quantity counted at full size
+
+The counting stream was drawn with exact-by-construction devices and each plate's quantities were counted at full
+size before import: a blank number line; a full ten-frame plus three loose (13); two blank cards; a card with two
+empty lines; 2+3 apples; 4+2 balls; five strawberries with two lifted into a basket (5−2); and a ten-frame holding
+seven with three set apart (10−3). Every count read true, all at 0 border-ink; **mathematics-english-numeracy is
+8 of 8 and leaves the ledger**, the First Term book rebuilt at **48 plates · 140 pages · 129/129 Contents numbers ·
+book and file gates ok**, the ledger now **16 owed over 2 files** (physical-and-health-education,
+prevocational-studies), scratch emptied.
