@@ -80,3 +80,21 @@ has already been tried and failed**, is `40-HISTORY.md`; read that before "fixin
 a bug, because several apparent bugs are deliberate. **Questions the owner still owes** are collected in
 `70-OPEN-QUESTIONS.md`, with everything already answered in its top table — so a fresh session must not
 re-ask them, and the answer picker in this workspace has dropped responses once, which is why that file exists.
+
+## If this workspace dies — resume from GitHub, not from a sandbox
+
+The durable copy of this project is the git repository, not any one workspace. Every turn ends by committing
+the verified state and pushing it to the session branch, so a stalled or over-full sandbox can be abandoned
+without losing anything:
+
+```bash
+git clone https://github.com/talktoemmydo-debug/lesson-note-project-repository.git
+cd lesson-note-project-repository
+git checkout arena/01a0620b-lesson-note-project-repository     # the live session branch
+pip install --break-system-packages python-docx Pillow
+python3 tools/gates.py --class "Nursery 2" --term "1st Term"   # re-establish real state, then follow 80-AUTOLOOP
+```
+
+The live tree carries only the project. The uploaded `workspace-…zip` that seeded this repo stays in git
+history as the record of the previous workspace, but it is **never kept unpacked-and-also-zipped** in the
+working tree — its contents are the repo, and the zip itself is 16 MB of dead weight.

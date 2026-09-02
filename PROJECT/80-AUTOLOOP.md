@@ -82,6 +82,11 @@ nothing is imported) — it encodes,
    it is not a failure and is not to be hidden.
 5. `PROJECT/75-THIRD-TERM.md` (the table) and `PROJECT/40-HISTORY.md` (one paragraph) updated, scratch
    emptied, `du -sh .` inside the turn.
+6. **Commit the verified state and push to the session branch before the turn ends.** The GitHub remote is
+   the only durable copy — a sandbox can fill up or stall ("AI is taking too long") and be abandoned, so the
+   branch must always hold the latest green build. On a fresh machine, `git clone` + checkout the branch +
+   `pip install python-docx Pillow` + `gates.py` re-establishes state; nothing lives only in a workspace.
+   Never leave the uploaded workspace zip in the live tree: it is already unpacked and is pure weight.
 
 ## 3. The queue
 
