@@ -1,0 +1,390 @@
+{
+ "subject": "Nigerian History",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A person who does great things for others is a ___",
+   "answer": "hero",
+   "distractors": [
+    "thief",
+    "stranger",
+    "baby"
+   ]
+  },
+  {
+   "stem": "A woman who does great things is a ___",
+   "answer": "heroine",
+   "distractors": [
+    "hero",
+    "king",
+    "chief"
+   ]
+  },
+  {
+   "stem": "A ___ who heals people is a hero",
+   "answer": "doctor",
+   "distractors": [
+    "thief",
+    "stranger",
+    "baby"
+   ]
+  },
+  {
+   "stem": "We ___ the heroes in our community",
+   "answer": "respect",
+   "distractors": [
+    "fight",
+    "ignore",
+    "laugh at"
+   ]
+  },
+  {
+   "stem": "A person who did great things for Nigeria is a ___ hero",
+   "answer": "national",
+   "distractors": [
+    "local",
+    "foreign",
+    "lost"
+   ]
+  },
+  {
+   "stem": "The first President of Nigeria was ___",
+   "answer": "Nnamdi Azikiwe",
+   "distractors": [
+    "Abubakar Tafawa Balewa",
+    "Obafemi Awolowo",
+    "Ahmadu Bello"
+   ]
+  },
+  {
+   "stem": "The first Prime Minister of Nigeria was ___",
+   "answer": "Abubakar Tafawa Balewa",
+   "distractors": [
+    "Nnamdi Azikiwe",
+    "Obafemi Awolowo",
+    "Ahmadu Bello"
+   ]
+  },
+  {
+   "stem": "___ worked for education and the South-West",
+   "answer": "Obafemi Awolowo",
+   "distractors": [
+    "Ahmadu Bello",
+    "Nnamdi Azikiwe",
+    "Abubakar Tafawa Balewa"
+   ]
+  },
+  {
+   "stem": "A woman who did great things is a ___",
+   "answer": "heroine",
+   "distractors": [
+    "hero",
+    "king",
+    "chief"
+   ]
+  },
+  {
+   "stem": "___ was a great writer and a heroine",
+   "answer": "Flora Nwapa",
+   "distractors": [
+    "Ahmadu Bello",
+    "Nnamdi Azikiwe",
+    "Abubakar Tafawa Balewa"
+   ]
+  },
+  {
+   "stem": "___ fought for women's rights",
+   "answer": "Funmilayo Ransome-Kuti",
+   "distractors": [
+    "Flora Nwapa",
+    "Ahmadu Bello",
+    "Obafemi Awolowo"
+   ]
+  },
+  {
+   "stem": "Heroes and heroines are proud ___ for us",
+   "answer": "examples",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "Making a country better is ___",
+   "answer": "development",
+   "distractors": [
+    "sleep",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "Heroes built schools and ___",
+   "answer": "hospitals",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "Heroes worked for ___",
+   "answer": "independence",
+   "distractors": [
+    "sleep",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "Their work helps us ___",
+   "answer": "today",
+   "distractors": [
+    "never",
+    "yesterday only",
+    "tomorrow only"
+   ]
+  },
+  {
+   "stem": "Helping others without seeking reward is ___ service",
+   "answer": "selfless",
+   "distractors": [
+    "selfish",
+    "lazy",
+    "rude"
+   ]
+  },
+  {
+   "stem": "A selfless person thinks of ___ first",
+   "answer": "others",
+   "distractors": [
+    "himself only",
+    "stones",
+    "trees"
+   ]
+  },
+  {
+   "stem": "We can serve our family and ___",
+   "answer": "friends",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We help ___ expecting a reward",
+   "answer": "without",
+   "distractors": [
+    "always",
+    "only for",
+    "never without"
+   ]
+  },
+  {
+   "stem": "The rule of our traditional leaders is ___ authority",
+   "answer": "traditional",
+   "distractors": [
+    "foreign",
+    "new",
+    "lost"
+   ]
+  },
+  {
+   "stem": "Our people had leaders ___",
+   "answer": "long ago",
+   "distractors": [
+    "never",
+    "tomorrow",
+    "yesterday only"
+   ]
+  },
+  {
+   "stem": "Traditional rulers keep our culture and ___",
+   "answer": "peace",
+   "distractors": [
+    "war",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "They settle ___ among people",
+   "answer": "disputes",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "The ___ rules among the Yoruba",
+   "answer": "Oba",
+   "distractors": [
+    "Emir",
+    "Obi",
+    "Sultan"
+   ]
+  },
+  {
+   "stem": "The ___ rules among the Igbo",
+   "answer": "Obi",
+   "distractors": [
+    "Oba",
+    "Emir",
+    "Sultan"
+   ]
+  },
+  {
+   "stem": "The ___ rules in the north",
+   "answer": "Emir",
+   "distractors": [
+    "Oba",
+    "Obi",
+    "king"
+   ]
+  },
+  {
+   "stem": "A person with a special title is a ___ holder",
+   "answer": "title",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "A ___ is a special name given for honour",
+   "answer": "title",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "An example of a title is ___",
+   "answer": "Chief",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two heroes in our community ",
+   "points": [
+    "doctor",
+    "teacher",
+    "farmer",
+    "nurse"
+   ]
+  },
+  {
+   "stem": "Name two national heroes ",
+   "points": [
+    "Nnamdi Azikiwe",
+    "Abubakar Tafawa Balewa",
+    "Obafemi Awolowo",
+    "Ahmadu Bello"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian heroines ",
+   "points": [
+    "Flora Nwapa",
+    "Funmilayo Ransome-Kuti"
+   ]
+  },
+  {
+   "stem": "Name two ways heroes helped Nigeria develop ",
+   "points": [
+    "built schools",
+    "built hospitals",
+    "worked for independence"
+   ]
+  },
+  {
+   "stem": "Name two ways we can serve others ",
+   "points": [
+    "help family",
+    "help friends",
+    "share",
+    "care for those in need"
+   ]
+  },
+  {
+   "stem": "Name two things traditional rulers do ",
+   "points": [
+    "keep culture",
+    "settle disputes",
+    "guide the people"
+   ]
+  },
+  {
+   "stem": "Name two traditional rulers ",
+   "points": [
+    "Emir",
+    "Oba",
+    "Obi",
+    "Sultan"
+   ]
+  },
+  {
+   "stem": "Name two titles ",
+   "points": [
+    "Chief",
+    "Mazi",
+    "Oloye",
+    "Hakimi"
+   ]
+  },
+  {
+   "stem": "Name two things heroes did for Nigeria ",
+   "points": [
+    "fought for freedom",
+    "worked for education",
+    "built schools"
+   ]
+  },
+  {
+   "stem": "Name two ways we honour heroes ",
+   "points": [
+    "remember them",
+    "respect them",
+    "learn from them"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Who is a hero? Name one in our community.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two national heroes and what they did.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two Nigerian heroines and what they did.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is development? Name two ways heroes helped Nigeria develop.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a traditional ruler? Name two.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

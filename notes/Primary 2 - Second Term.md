@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 98 lessons · 5 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 98 lessons · 6 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,58 +12,68 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*5 subjects · 40 lessons · 5 term practice papers. Each part begins on a fresh page.*
+*6 subjects · 48 lessons · 6 term practice papers. Each part begins on a fresh page.*
 
-- **[Basic Science](#basic-science)** · 2
-  - [WEEK 1 — AIR IN MOTION](#week-1-air-in-motion) · 2
-  - [WEEK 2 — QUALITY OF WATER](#week-2-quality-of-water) · 2
-  - [WEEK 3 — USES OF WATER](#week-3-uses-of-water) · 3
-  - [WEEK 4 — PLANTS I](#week-4-plants-i) · 4
-  - [WEEK 5 — PLANTS II](#week-5-plants-ii) · 4
-  - [WEEK 6 — ANIMALS](#week-6-animals) · 5
-  - [WEEK 8 — FORMS OF TECHNOLOGY](#week-8-forms-of-technology) · 6
-  - [WEEK 9 — FORMS OF TECHNOLOGY: LIGHT](#week-9-forms-of-technology-light) · 6
-- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
-  - [WEEK 1 — CREATING DRAMA FROM STORIES](#week-1-creating-drama-from-stories) · 8
-  - [WEEK 2 — STAGING A DRAMA](#week-2-staging-a-drama) · 8
-  - [WEEK 3 — TRADITIONAL FABRICS AND THEIR ORIGINS](#week-3-traditional-fabrics-and-their-origins) · 9
-  - [WEEK 4 — TRADITIONAL DRESSES](#week-4-traditional-dresses) · 10
-  - [WEEK 5 — TRADITIONAL FASHION ACCESSORIES](#week-5-traditional-fashion-accessories) · 10
-  - [WEEK 6 — MAKING SIMPLE ACCESSORIES](#week-6-making-simple-accessories) · 11
-  - [WEEK 8 — MAKING SIMPLE ACCESSORIES (CONTINUED)](#week-8-making-simple-accessories-continued) · 12
-  - [WEEK 9 — CULTURAL DAY PREPARATION](#week-9-cultural-day-preparation) · 12
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
-  - [WEEK 1 — GOD SPEAKS TO US](#week-1-god-speaks-to-us) · 14
-  - [WEEK 2 — WE ARE CHILDREN OF ONE FATHER](#week-2-we-are-children-of-one-father) · 14
-  - [WEEK 3 — GOD CALLS US FOR A PURPOSE](#week-3-god-calls-us-for-a-purpose) · 15
-  - [WEEK 4 — GOD GIVES HIS LAW TO US](#week-4-god-gives-his-law-to-us) · 16
-  - [WEEK 5 — GOD REVEALS HIMSELF TO US (PART 1)](#week-5-god-reveals-himself-to-us-part-1) · 16
-  - [WEEK 6 — GOD REVEALS HIMSELF TO US (PART 2)](#week-6-god-reveals-himself-to-us-part-2) · 17
-  - [WEEK 8 — JESUS' POWER TO FORGIVE SINS](#week-8-jesus-power-to-forgive-sins) · 18
-  - [WEEK 9 — JESUS LOVES ALL PEOPLE](#week-9-jesus-loves-all-people) · 18
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
-  - [WEEK 1 — INTERFACE CUSTOMIZATION](#week-1-interface-customization) · 20
-  - [WEEK 2 — FILE MANAGEMENT I](#week-2-file-management-i) · 20
-  - [WEEK 3 — FILE MANAGEMENT II](#week-3-file-management-ii) · 21
-  - [WEEK 4 — DIGITAL CONTENT CREATION I](#week-4-digital-content-creation-i) · 22
-  - [WEEK 5 — DIGITAL CONTENT CREATION II](#week-5-digital-content-creation-ii) · 22
-  - [WEEK 6 — SAFETY AND PROTECTION](#week-6-safety-and-protection) · 23
-  - [WEEK 8 — SAFE INTERNET USE I](#week-8-safe-internet-use-i) · 24
-  - [WEEK 9 — SAFE INTERNET USE II](#week-9-safe-internet-use-ii) · 24
-- **[General Knowledge](#general-knowledge)** · 26
-  - [WEEK 1 — OUR WORLD: THE SEVEN CONTINENTS](#week-1-our-world-the-seven-continents) · 26
-  - [WEEK 2 — OUR WORLD: THE FIVE OCEANS](#week-2-our-world-the-five-oceans) · 26
-  - [WEEK 3 — COUNTRIES AND CAPITALS: AFRICA](#week-3-countries-and-capitals-africa) · 27
-  - [WEEK 4 — COUNTRIES AND CAPITALS: THE WORLD](#week-4-countries-and-capitals-the-world) · 28
-  - [WEEK 5 — NIGERIAN CULTURE: LANGUAGES, DRESS AND FESTIVALS](#week-5-nigerian-culture-languages-dress-and-festivals) · 28
-  - [WEEK 6 — THE HUMAN BODY AND HEALTHY HABITS](#week-6-the-human-body-and-healthy-habits) · 29
-  - [WEEK 8 — PLANTS, ANIMALS AND THEIR HABITATS](#week-8-plants-animals-and-their-habitats) · 30
-  - [WEEK 9 — TECHNOLOGY AROUND US](#week-9-technology-around-us) · 30
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 32
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 34
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 36
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 38
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 40
+- **[Basic Science](#basic-science)** · 3
+  - [WEEK 1 — AIR IN MOTION](#week-1-air-in-motion) · 3
+  - [WEEK 2 — QUALITY OF WATER](#week-2-quality-of-water) · 3
+  - [WEEK 3 — USES OF WATER](#week-3-uses-of-water) · 4
+  - [WEEK 4 — PLANTS I](#week-4-plants-i) · 5
+  - [WEEK 5 — PLANTS II](#week-5-plants-ii) · 5
+  - [WEEK 6 — ANIMALS](#week-6-animals) · 6
+  - [WEEK 8 — FORMS OF TECHNOLOGY](#week-8-forms-of-technology) · 7
+  - [WEEK 9 — FORMS OF TECHNOLOGY: LIGHT](#week-9-forms-of-technology-light) · 7
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 9
+  - [WEEK 1 — CREATING DRAMA FROM STORIES](#week-1-creating-drama-from-stories) · 9
+  - [WEEK 2 — STAGING A DRAMA](#week-2-staging-a-drama) · 9
+  - [WEEK 3 — TRADITIONAL FABRICS AND THEIR ORIGINS](#week-3-traditional-fabrics-and-their-origins) · 10
+  - [WEEK 4 — TRADITIONAL DRESSES](#week-4-traditional-dresses) · 11
+  - [WEEK 5 — TRADITIONAL FASHION ACCESSORIES](#week-5-traditional-fashion-accessories) · 11
+  - [WEEK 6 — MAKING SIMPLE ACCESSORIES](#week-6-making-simple-accessories) · 12
+  - [WEEK 8 — MAKING SIMPLE ACCESSORIES (CONTINUED)](#week-8-making-simple-accessories-continued) · 13
+  - [WEEK 9 — CULTURAL DAY PREPARATION](#week-9-cultural-day-preparation) · 13
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 15
+  - [WEEK 1 — GOD SPEAKS TO US](#week-1-god-speaks-to-us) · 15
+  - [WEEK 2 — WE ARE CHILDREN OF ONE FATHER](#week-2-we-are-children-of-one-father) · 15
+  - [WEEK 3 — GOD CALLS US FOR A PURPOSE](#week-3-god-calls-us-for-a-purpose) · 16
+  - [WEEK 4 — GOD GIVES HIS LAW TO US](#week-4-god-gives-his-law-to-us) · 17
+  - [WEEK 5 — GOD REVEALS HIMSELF TO US (PART 1)](#week-5-god-reveals-himself-to-us-part-1) · 17
+  - [WEEK 6 — GOD REVEALS HIMSELF TO US (PART 2)](#week-6-god-reveals-himself-to-us-part-2) · 18
+  - [WEEK 8 — JESUS' POWER TO FORGIVE SINS](#week-8-jesus-power-to-forgive-sins) · 19
+  - [WEEK 9 — JESUS LOVES ALL PEOPLE](#week-9-jesus-loves-all-people) · 19
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 21
+  - [WEEK 1 — INTERFACE CUSTOMIZATION](#week-1-interface-customization) · 21
+  - [WEEK 2 — FILE MANAGEMENT I](#week-2-file-management-i) · 21
+  - [WEEK 3 — FILE MANAGEMENT II](#week-3-file-management-ii) · 22
+  - [WEEK 4 — DIGITAL CONTENT CREATION I](#week-4-digital-content-creation-i) · 23
+  - [WEEK 5 — DIGITAL CONTENT CREATION II](#week-5-digital-content-creation-ii) · 23
+  - [WEEK 6 — SAFETY AND PROTECTION](#week-6-safety-and-protection) · 24
+  - [WEEK 8 — SAFE INTERNET USE I](#week-8-safe-internet-use-i) · 25
+  - [WEEK 9 — SAFE INTERNET USE II](#week-9-safe-internet-use-ii) · 25
+- **[Nigerian History](#nigerian-history)** · 27
+  - [WEEK 1 — HEROES AND HEROINES IN THE COMMUNITY](#week-1-heroes-and-heroines-in-the-community) · 27
+  - [WEEK 2 — NATIONAL HEROES AND HEROINES (PART 1)](#week-2-national-heroes-and-heroines-part-1) · 27
+  - [WEEK 3 — NATIONAL HEROES AND HEROINES (PART 2)](#week-3-national-heroes-and-heroines-part-2) · 28
+  - [WEEK 4 — CONTRIBUTIONS OF HEROES TO DEVELOPMENT](#week-4-contributions-of-heroes-to-development) · 29
+  - [WEEK 5 — DEVELOPING AN ATTITUDE OF SELFLESS SERVICE](#week-5-developing-an-attitude-of-selfless-service) · 29
+  - [WEEK 6 — INTRODUCTION TO TRADITIONAL AUTHORITY](#week-6-introduction-to-traditional-authority) · 30
+  - [WEEK 8 — TRADITIONAL RULERS](#week-8-traditional-rulers) · 31
+  - [WEEK 9 — TRADITIONAL TITLE HOLDERS](#week-9-traditional-title-holders) · 31
+- **[General Knowledge](#general-knowledge)** · 33
+  - [WEEK 1 — OUR WORLD: THE SEVEN CONTINENTS](#week-1-our-world-the-seven-continents) · 33
+  - [WEEK 2 — OUR WORLD: THE FIVE OCEANS](#week-2-our-world-the-five-oceans) · 33
+  - [WEEK 3 — COUNTRIES AND CAPITALS: AFRICA](#week-3-countries-and-capitals-africa) · 34
+  - [WEEK 4 — COUNTRIES AND CAPITALS: THE WORLD](#week-4-countries-and-capitals-the-world) · 35
+  - [WEEK 5 — NIGERIAN CULTURE: LANGUAGES, DRESS AND FESTIVALS](#week-5-nigerian-culture-languages-dress-and-festivals) · 35
+  - [WEEK 6 — THE HUMAN BODY AND HEALTHY HABITS](#week-6-the-human-body-and-healthy-habits) · 36
+  - [WEEK 8 — PLANTS, ANIMALS AND THEIR HABITATS](#week-8-plants-animals-and-their-habitats) · 37
+  - [WEEK 9 — TECHNOLOGY AROUND US](#week-9-technology-around-us) · 37
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 39
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 41
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 43
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 45
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)](#examination-practice-nigerian-history-primary-2-2nd-term)** · 47
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 49
 
 
 
@@ -2485,6 +2495,610 @@ written for them.
 
 ---
 
+# Nigerian History
+
+These are the notes for the second term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Nigerian History · Second Term W1-6, 8-9 (heroes and heroines in the community; national heroes and heroines, parts 1-3; contributions of heroes to development; developing an attitude of selfless service; introduction to traditional authority; traditional rulers; traditional title holders).*
+
+
+### WEEK 1 — HEROES AND HEROINES IN THE COMMUNITY
+
+**You will learn to**
+
+• say who a hero is
+
+• name heroes in our community
+
+• learn from them
+
+**Things to know**
+
+• A **hero** is a person who does great things for others.
+
+• A **heroine** is a woman who does great things.
+
+• We have heroes and heroines in our **community**.
+
+• A **doctor** who heals people is a hero.
+
+• A **teacher** who teaches us is a hero.
+
+• A **farmer** who grows food is a hero.
+
+• A **nurse** who cares for the sick is a heroine.
+
+• Heroes help our community **grow**.
+
+• We **respect** the heroes in our community.
+
+• We can be heroes by helping others.
+
+**Let us talk**
+
+1. Who is a hero?
+
+2. Name one hero in our community.
+
+3. How can we be heroes?
+
+**Words for my notebook**
+
+• hero — a person who does great things for others
+
+• heroine — a woman who does great things
+
+• community — the people and place we live with
+
+**Worksheet**
+
+1. A person who does great things for others is a ___.
+   A) hero B) thief C) stranger D) baby
+
+2. A woman who does great things is a ___.
+   A) heroine B) hero C) king D) chief
+
+3. A ___ who heals people is a hero.
+   A) doctor B) thief C) stranger D) baby
+
+4. We ___ the heroes in our community.
+   A) respect B) fight C) ignore D) laugh at
+
+5. Fill in: A woman who does great things is a _____.
+
+6. Mention two heroes in our community.
+
+7. Write who a hero is.
+
+**My own work**
+
+• Draw a hero in your community.
+
+---
+
+### WEEK 2 — NATIONAL HEROES AND HEROINES (PART 1)
+
+**You will learn to**
+
+• name national heroes
+
+• say what they did
+
+• honour them
+
+**Things to know**
+
+• **National heroes** did great things for Nigeria.
+
+• **Nnamdi Azikiwe** was the first President of Nigeria.
+
+• **Abubakar Tafawa Balewa** was the first Prime Minister.
+
+• **Obafemi Awolowo** worked for education and the South-West.
+
+• **Ahmadu Bello** worked for the North.
+
+• These heroes helped Nigeria gain **independence**.
+
+• They worked hard for our country.
+
+• We **honour** our national heroes.
+
+• Their names are remembered.
+
+• National heroes are proud examples.
+
+**Let us talk**
+
+1. Who is a national hero?
+
+2. Name one national hero.
+
+3. What did the national heroes do?
+
+**Words for my notebook**
+
+• national hero — a person who did great things for Nigeria
+
+• independence — ruling ourselves
+
+• honour — to show respect
+
+**Worksheet**
+
+1. A person who did great things for Nigeria is a ___ hero.
+   A) national B) local C) foreign D) lost
+
+2. The first President of Nigeria was ___.
+   A) Nnamdi Azikiwe B) Abubakar Tafawa Balewa C) Obafemi Awolowo D) Ahmadu Bello
+
+3. The first Prime Minister of Nigeria was ___.
+   A) Abubakar Tafawa Balewa B) Nnamdi Azikiwe C) Obafemi Awolowo D) Ahmadu Bello
+
+4. ___ worked for education and the South-West.
+   A) Obafemi Awolowo B) Ahmadu Bello C) Nnamdi Azikiwe D) Abubakar Tafawa Balewa
+
+5. Fill in: To show respect is to _____.
+
+6. Mention two national heroes.
+
+7. Write what the national heroes did.
+
+**My own work**
+
+• Draw a national hero and write the name.
+
+---
+
+### WEEK 3 — NATIONAL HEROES AND HEROINES (PART 2)
+
+**You will learn to**
+
+• name more national heroes
+
+• name heroines
+
+• learn from them
+
+**Things to know**
+
+• Nigeria has many **heroes** and **heroines**.
+
+• **Flora Nwapa** was a great writer and a heroine.
+
+• **Funmilayo Ransome-Kuti** fought for women's rights.
+
+• **Amadioha** and other heroes are remembered in our culture.
+
+• Heroes and heroines worked in different ways.
+
+• Some fought for **freedom**; some for **education**.
+
+• Some helped through **writing** and **teaching**.
+
+• We remember heroes and heroines together.
+
+• They are proud examples for us.
+
+• We honour all who did great things for Nigeria.
+
+**Let us talk**
+
+1. Name one Nigerian heroine.
+
+2. What did Funmilayo Ransome-Kuti do?
+
+3. Why do we remember heroes and heroines?
+
+**Words for my notebook**
+
+• heroine — a woman who did great things
+
+• rights — what people are free to have
+
+• freedom — being free
+
+**Worksheet**
+
+1. A woman who did great things is a ___.
+   A) heroine B) hero C) king D) chief
+
+2. ___ was a great writer and a heroine.
+   A) Flora Nwapa B) Ahmadu Bello C) Nnamdi Azikiwe D) Abubakar Tafawa Balewa
+
+3. ___ fought for women's rights.
+   A) Funmilayo Ransome-Kuti B) Flora Nwapa C) Ahmadu Bello D) Obafemi Awolowo
+
+4. Heroes and heroines are proud ___ for us.
+   A) examples B) stones C) trees D) clouds
+
+5. Fill in: What people are free to have are their _____.
+
+6. Mention two Nigerian heroines.
+
+7. Write what Funmilayo Ransome-Kuti did.
+
+**My own work**
+
+• Draw a Nigerian heroine and write the name.
+
+---
+
+### WEEK 4 — CONTRIBUTIONS OF HEROES TO DEVELOPMENT
+
+**You will learn to**
+
+• say what development is
+
+• name how heroes helped
+
+• value their work
+
+**Things to know**
+
+• **Development** means making a country better.
+
+• Heroes helped Nigeria **develop**.
+
+• They built **schools** and **hospitals**.
+
+• They worked for **independence**.
+
+• They taught people to **read** and **write**.
+
+• They fought for **freedom** and **rights**.
+
+• They helped people live **well**.
+
+• Their work helps us **today**.
+
+• We enjoy the fruits of their work.
+
+• We value the contributions of our heroes.
+
+**Let us talk**
+
+1. What is development?
+
+2. Name one way heroes helped Nigeria develop.
+
+3. Why do we value their work?
+
+**Words for my notebook**
+
+• development — making a country better
+
+• contribution — the part someone does to help
+
+• freedom — being free
+
+**Worksheet**
+
+1. Making a country better is ___.
+   A) development B) sleep C) noise D) anger
+
+2. Heroes built schools and ___.
+   A) hospitals B) stones C) trees D) clouds
+
+3. Heroes worked for ___.
+   A) independence B) sleep C) noise D) anger
+
+4. Their work helps us ___.
+   A) today B) never C) yesterday only D) tomorrow only
+
+5. Fill in: The part someone does to help is their _____.
+
+6. Mention two ways heroes helped Nigeria develop.
+
+7. Write what development is.
+
+**My own work**
+
+• Draw a school or hospital a hero helped build.
+
+---
+
+### WEEK 5 — DEVELOPING AN ATTITUDE OF SELFLESS SERVICE
+
+**You will learn to**
+
+• say what selfless service is
+
+• serve others
+
+• be like our heroes
+
+**Things to know**
+
+• **Selfless service** is helping others without seeking reward.
+
+• A selfless person thinks of **others** first.
+
+• Our heroes showed **selfless service**.
+
+• We can serve our **family** and **friends**.
+
+• We can serve our **community**.
+
+• We help **without** expecting a reward.
+
+• We share what we have.
+
+• We care for those in **need**.
+
+• Selfless service makes the world **better**.
+
+• We can be heroes by serving others.
+
+**Let us talk**
+
+1. What is selfless service?
+
+2. Name one way we can serve others.
+
+3. Why is selfless service good?
+
+**Words for my notebook**
+
+• selfless service — helping others without seeking reward
+
+• serve — to help or work for others
+
+• reward — something we get for what we do
+
+**Worksheet**
+
+1. Helping others without seeking reward is ___ service.
+   A) selfless B) selfish C) lazy D) rude
+
+2. A selfless person thinks of ___ first.
+   A) others B) himself only C) stones D) trees
+
+3. We can serve our family and ___.
+   A) friends B) stones C) trees D) clouds
+
+4. We help ___ expecting a reward.
+   A) without B) always C) only for D) never without
+
+5. Fill in: To help or work for others is to _____.
+
+6. Mention two ways we can serve others.
+
+7. Write what selfless service is.
+
+**My own work**
+
+• Draw yourself serving someone.
+
+---
+
+### WEEK 6 — INTRODUCTION TO TRADITIONAL AUTHORITY
+
+**You will learn to**
+
+• say what traditional authority is
+
+• name traditional leaders
+
+• respect them
+
+**Things to know**
+
+• **Traditional authority** is the rule of our traditional leaders.
+
+• Our people had leaders **long ago**.
+
+• These leaders are called **traditional rulers**.
+
+• They rule over **towns** and **communities**.
+
+• They keep our **culture** and **peace**.
+
+• They settle **disputes** among people.
+
+• They guide the people.
+
+• We **respect** our traditional rulers.
+
+• Traditional authority is part of our culture.
+
+• Traditional rulers are important in our communities.
+
+**Let us talk**
+
+1. What is traditional authority?
+
+2. Who are traditional rulers?
+
+3. What do traditional rulers do?
+
+**Words for my notebook**
+
+• traditional authority — the rule of our traditional leaders
+
+• traditional ruler — a chief of a people
+
+• dispute — an argument between people
+
+**Worksheet**
+
+1. The rule of our traditional leaders is ___ authority.
+   A) traditional B) foreign C) new D) lost
+
+2. Our people had leaders ___.
+   A) long ago B) never C) tomorrow D) yesterday only
+
+3. Traditional rulers keep our culture and ___.
+   A) peace B) war C) noise D) anger
+
+4. They settle ___ among people.
+   A) disputes B) stones C) trees D) clouds
+
+5. Fill in: A chief of a people is a _____.
+
+6. Mention two things traditional rulers do.
+
+7. Write what traditional authority is.
+
+**My own work**
+
+• Draw a traditional ruler.
+
+---
+
+### WEEK 8 — TRADITIONAL RULERS
+
+**You will learn to**
+
+• name traditional rulers
+
+• say what they do
+
+• respect them
+
+**Things to know**
+
+• **Traditional rulers** are the chiefs of our people.
+
+• Examples: the **Emir**, the **Oba**, the **Obi**, the **Sultan**.
+
+• The **Emir** rules in the north.
+
+• The **Oba** rules among the Yoruba.
+
+• The **Obi** rules among the Igbo.
+
+• The **Sultan** is a leading ruler in the north.
+
+• Traditional rulers keep our **culture** and **peace**.
+
+• They settle **disputes** and guide the people.
+
+• They are respected by all.
+
+• We honour our traditional rulers.
+
+**Let us talk**
+
+1. Name one traditional ruler.
+
+2. Who rules among the Yoruba?
+
+3. What do traditional rulers do?
+
+**Words for my notebook**
+
+• Emir — a traditional ruler in the north
+
+• Oba — a traditional ruler among the Yoruba
+
+• Obi — a traditional ruler among the Igbo
+
+**Worksheet**
+
+1. The ___ rules among the Yoruba.
+   A) Oba B) Emir C) Obi D) Sultan
+
+2. The ___ rules among the Igbo.
+   A) Obi B) Oba C) Emir D) Sultan
+
+3. The ___ rules in the north.
+   A) Emir B) Oba C) Obi D) king
+
+4. Traditional rulers keep our culture and ___.
+   A) peace B) war C) noise D) anger
+
+5. Fill in: A traditional ruler in the north is an _____.
+
+6. Mention two traditional rulers.
+
+7. Write what traditional rulers do.
+
+**My own work**
+
+• Draw a traditional ruler and write the title.
+
+---
+
+### WEEK 9 — TRADITIONAL TITLE HOLDERS
+
+**You will learn to**
+
+• say what a title holder is
+
+• name title holders
+
+• respect them
+
+**Things to know**
+
+• A **title holder** is a person with a special **title**.
+
+• A **title** is a special name given for honour.
+
+• Traditional rulers give **titles** to people.
+
+• Title holders have done great things.
+
+• They help the **traditional ruler**.
+
+• They guide the **community**.
+
+• Examples of titles: **Chief**, **Mazi**, **Oloye**, **Hakimi**.
+
+• Title holders are **respected**.
+
+• They are important in the community.
+
+• We honour our title holders.
+
+**Let us talk**
+
+1. What is a title holder?
+
+2. What is a title?
+
+3. Name one title.
+
+**Words for my notebook**
+
+• title holder — a person with a special title
+
+• title — a special name given for honour
+
+• honour — to show respect
+
+**Worksheet**
+
+1. A person with a special title is a ___ holder.
+   A) title B) stone C) tree D) cloud
+
+2. A ___ is a special name given for honour.
+   A) title B) stone C) tree D) cloud
+
+3. Title holders help the ___ ruler.
+   A) traditional B) foreign C) new D) lost
+
+4. An example of a title is ___.
+   A) Chief B) stone C) tree D) cloud
+
+5. Fill in: To show respect is to _____.
+
+6. Mention two titles.
+
+7. Write what a title holder is.
+
+**My own work**
+
+• Draw a title holder and write the title.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the second term of Primary 2. They follow the NERDC
@@ -3829,6 +4443,192 @@ Answer in full sentences.
 43. What is a folder? Why do we use folders? (2 marks)
 44. What is digital content? Name two things we can make. (2 marks)
 45. Name two rules for safe internet use. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. A person who does great things for others is a ___
+   A) stranger
+   B) thief
+   C) hero
+   D) baby
+2. A woman who does great things is a ___
+   A) heroine
+   B) king
+   C) hero
+   D) chief
+3. A ___ who heals people is a hero
+   A) stranger
+   B) baby
+   C) thief
+   D) doctor
+4. We ___ the heroes in our community
+   A) laugh at
+   B) ignore
+   C) respect
+   D) fight
+5. A person who did great things for Nigeria is a ___ hero
+   A) national
+   B) foreign
+   C) lost
+   D) local
+6. The first President of Nigeria was ___
+   A) Ahmadu Bello
+   B) Nnamdi Azikiwe
+   C) Abubakar Tafawa Balewa
+   D) Obafemi Awolowo
+7. The first Prime Minister of Nigeria was ___
+   A) Obafemi Awolowo
+   B) Ahmadu Bello
+   C) Nnamdi Azikiwe
+   D) Abubakar Tafawa Balewa
+8. ___ worked for education and the South-West
+   A) Ahmadu Bello
+   B) Nnamdi Azikiwe
+   C) Obafemi Awolowo
+   D) Abubakar Tafawa Balewa
+9. A woman who did great things is a ___
+   A) heroine
+   B) chief
+   C) hero
+   D) king
+10. ___ was a great writer and a heroine
+   A) Abubakar Tafawa Balewa
+   B) Flora Nwapa
+   C) Nnamdi Azikiwe
+   D) Ahmadu Bello
+11. ___ fought for women's rights
+   A) Flora Nwapa
+   B) Ahmadu Bello
+   C) Obafemi Awolowo
+   D) Funmilayo Ransome-Kuti
+12. Heroes and heroines are proud ___ for us
+   A) stones
+   B) trees
+   C) examples
+   D) clouds
+13. Making a country better is ___
+   A) development
+   B) sleep
+   C) anger
+   D) noise
+14. Heroes built schools and ___
+   A) stones
+   B) hospitals
+   C) clouds
+   D) trees
+15. Heroes worked for ___
+   A) sleep
+   B) anger
+   C) independence
+   D) noise
+16. Their work helps us ___
+   A) today
+   B) never
+   C) yesterday only
+   D) tomorrow only
+17. Helping others without seeking reward is ___ service
+   A) selfish
+   B) rude
+   C) lazy
+   D) selfless
+18. A selfless person thinks of ___ first
+   A) stones
+   B) others
+   C) trees
+   D) himself only
+19. We can serve our family and ___
+   A) friends
+   B) clouds
+   C) trees
+   D) stones
+20. We help ___ expecting a reward
+   A) never without
+   B) always
+   C) without
+   D) only for
+21. The rule of our traditional leaders is ___ authority
+   A) lost
+   B) new
+   C) foreign
+   D) traditional
+22. Our people had leaders ___
+   A) never
+   B) long ago
+   C) yesterday only
+   D) tomorrow
+23. Traditional rulers keep our culture and ___
+   A) war
+   B) noise
+   C) peace
+   D) anger
+24. They settle ___ among people
+   A) disputes
+   B) trees
+   C) stones
+   D) clouds
+25. The ___ rules among the Yoruba
+   A) Obi
+   B) Oba
+   C) Emir
+   D) Sultan
+26. The ___ rules among the Igbo
+   A) Oba
+   B) Sultan
+   C) Emir
+   D) Obi
+27. The ___ rules in the north
+   A) Emir
+   B) king
+   C) Obi
+   D) Oba
+28. A person with a special title is a ___ holder
+   A) cloud
+   B) title
+   C) stone
+   D) tree
+29. A ___ is a special name given for honour
+   A) stone
+   B) cloud
+   C) tree
+   D) title
+30. An example of a title is ___
+   A) tree
+   B) cloud
+   C) Chief
+   D) stone
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two heroes in our community
+32. Name two national heroes
+33. Name two Nigerian heroines
+34. Name two ways heroes helped Nigeria develop
+35. Name two ways we can serve others
+36. Name two things traditional rulers do
+37. Name two traditional rulers
+38. Name two titles
+39. Name two things heroes did for Nigeria
+40. Name two ways we honour heroes
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. Who is a hero? Name one in our community. (2 marks)
+42. Name two national heroes and what they did. (2 marks)
+43. Name two Nigerian heroines and what they did. (2 marks)
+44. What is development? Name two ways heroes helped Nigeria develop. (2 marks)
+45. What is a traditional ruler? Name two. (2 marks)
 
 
 ---
