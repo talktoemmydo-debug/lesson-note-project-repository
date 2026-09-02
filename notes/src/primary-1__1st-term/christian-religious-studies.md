@@ -40,9 +40,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. Jesus and his disciples were in a ____ when the storm came. A) boat B) car C) house D) tree
-2. When the storm came, Jesus was ____ in the boat. A) sleeping B) singing C) walking D) eating
-3. Jesus said to the wind and the sea, "Peace, be ____." A) still B) loud C) fast D) strong
+1. Jesus and his disciples were in a ____ when the storm came. A) boat B) car C) tree D) house
+2. When the storm came, Jesus was ____ in the boat. A) eating B) walking C) sleeping D) singing
+3. Jesus said to the wind and the sea, "Peace, be ____." A) fast B) strong C) loud D) still
 4. Fill in: The disciples were ____ when the storm came.
 5. Mention two things Jesus calmed.
 6. Write what the disciples did when they were afraid.
@@ -88,9 +88,9 @@ Draw the boat and the big waves, then draw the sea when it became calm.
 
 **Worksheet**
 
-1. The disciples were in the boat at ____ . A) night B) noon C) morning D) dawn
-2. The disciple who walked on the water after Jesus was A) Peter B) John C) James D) Judas
-3. Peter began to sink when he felt the strong ____ . A) wind B) rain C) sun D) sand
+1. The disciples were in the boat at ____ . A) dawn B) morning C) noon D) night
+2. The disciple who walked on the water after Jesus was A) Peter B) Judas C) James D) John
+3. Peter began to sink when he felt the strong ____ . A) sand B) wind C) rain D) sun
 4. Fill in: Jesus said, "It is I. Do not be ____."
 5. Mention two people who walked on the water.
 6. Write why the disciples were frightened at first.
@@ -136,9 +136,9 @@ Draw the boat at night and Jesus walking on the water.
 
 **Worksheet**
 
-1. The boy had five loaves and two ____ . A) fish B) eggs C) yams D) oranges
-2. Before sharing, Jesus ____ to God. A) gave thanks B) ran away C) slept D) sang
-3. The leftover food filled ____ baskets. A) twelve B) two C) five D) three
+1. The boy had five loaves and two ____ . A) oranges B) yams C) fish D) eggs
+2. Before sharing, Jesus ____ to God. A) ran away B) slept C) sang D) gave thanks
+3. The leftover food filled ____ baskets. A) two B) three C) twelve D) five
 4. Fill in: The people followed Jesus and became ____.
 5. Mention the two foods the boy had.
 6. Write what Jesus did with the food.
@@ -184,9 +184,9 @@ Draw the five loaves and the two fish the boy shared.
 
 **Worksheet**
 
-1. The man who came to Jesus had ____ . A) leprosy B) a hat C) a drum D) a chair
-2. Jesus ____ the man and said, "Be clean." A) touched B) pushed C) mocked D) left
-3. After Jesus spoke, the man was ____ . A) healed B) sicker C) asleep D) angry
+1. The man who came to Jesus had ____ . A) a drum B) a chair C) leprosy D) a hat
+2. Jesus ____ the man and said, "Be clean." A) pushed B) touched C) left D) mocked
+3. After Jesus spoke, the man was ____ . A) asleep B) healed C) angry D) sicker
 4. Fill in: The man said, "Lord, if you are willing, you can make me ____."
 5. Mention two things Jesus has power over, from our lessons.
 6. Write what the man said to Jesus.
@@ -232,9 +232,9 @@ Draw the man kneeling before Jesus and then standing up well.
 
 **Worksheet**
 
-1. The man who could not walk was ____ . A) paralyzed B) running C) dancing D) singing
-2. The friends lowered the man through the ____ . A) roof B) door C) window D) floor
-3. Jesus told the man to get up, take his mat and ____ . A) walk B) sleep C) swim D) hide
+1. The man who could not walk was ____ . A) singing B) dancing C) paralyzed D) running
+2. The friends lowered the man through the ____ . A) window B) roof C) floor D) door
+3. Jesus told the man to get up, take his mat and ____ . A) swim B) sleep C) walk D) hide
 4. Fill in: The house was too ____, so they opened the roof.
 5. Mention two things the friends did for the man.
 6. Write what Jesus said to the man.
@@ -280,9 +280,9 @@ Draw the man picking up his mat and walking home.
 
 **Worksheet**
 
-1. Jairus' daughter was very ____ . A) happy B) tall C) sick D) fast
-2. Jesus told Jairus, "Do not be afraid; only ____." A) believe B) run C) shout D) sleep
-3. When Jesus took the girl's hand, she ____ . A) rose B) fell C) cried D) left
+1. Jairus' daughter was very ____ . A) sick B) happy C) tall D) fast
+2. Jesus told Jairus, "Do not be afraid; only ____." A) shout B) believe C) sleep D) run
+3. When Jesus took the girl's hand, she ____ . A) rose B) cried C) fell D) left
 4. Fill in: Jairus was a ____ leader.
 5. Mention two things Jesus told Jairus.
 6. Write what Jesus said to the little girl.
@@ -328,9 +328,9 @@ Draw Jairus and his daughter standing together, glad and well.
 
 **Worksheet**
 
-1. Lazarus was a ____ of Jesus. A) friend B) stranger C) soldier D) king
-2. Lazarus was in the tomb for ____ days. A) four B) two C) seven D) ten
-3. Jesus called, "Lazarus, come ____!" A) out B) in C) down D) here
+1. Lazarus was a ____ of Jesus. A) stranger B) soldier C) king D) friend
+2. Lazarus was in the tomb for ____ days. A) four B) seven C) two D) ten
+3. Jesus called, "Lazarus, come ____!" A) in B) down C) here D) out
 4. Fill in: Jesus said, "I am the resurrection and the ____."
 5. Mention two sisters of Lazarus.
 6. Write what Jesus said about himself.
@@ -376,9 +376,9 @@ Draw Lazarus walking out of the tomb, alive.
 
 **Worksheet**
 
-1. In the temple people were buying and ____ . A) selling B) sleeping C) dancing D) fishing
-2. Jesus said, "My house shall be called a house of ____." A) prayer B) market C) games D) noise
-3. Jesus drove out the people who were ____ . A) cheating B) praying C) singing D) resting
+1. In the temple people were buying and ____ . A) selling B) dancing C) sleeping D) fishing
+2. Jesus said, "My house shall be called a house of ____." A) noise B) games C) prayer D) market
+3. Jesus drove out the people who were ____ . A) cheating B) praying C) resting D) singing
 4. Fill in: The temple is God's ____.
 5. Mention two things people should do in the temple.
 6. Write what Jesus said about his house.

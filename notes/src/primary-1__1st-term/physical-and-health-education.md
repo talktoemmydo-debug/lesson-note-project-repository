@@ -40,9 +40,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. In running, both feet leave the ground for a ____ . A) week B) day C) moment D) year
-2. Before we run we ____ up. A) sleep B) warm C) eat D) sit
-3. A short, fast run is called a ____ . A) walk B) jump C) dash D) crawl
+1. In running, both feet leave the ground for a ____ . A) moment B) day C) week D) year
+2. Before we run we ____ up. A) warm B) sleep C) eat D) sit
+3. A short, fast run is called a ____ . A) dash B) walk C) crawl D) jump
 4. Fill in: A good runner looks ____.
 5. Mention two things a good runner does with the body.
 6. Write what we do after the finish line.
@@ -88,9 +88,9 @@ Draw myself running in a straight line with arms swinging.
 
 **Worksheet**
 
-1. Running back and forth between two points is a ____ run. A) rest B) shuttle C) slow D) long
-2. At the far point we ____ and run back. A) eat B) turn C) sit D) sleep
-3. The shuttle run builds speed and ____ . A) dust B) hunger C) noise D) coordination
+1. Running back and forth between two points is a ____ run. A) shuttle B) slow C) long D) rest
+2. At the far point we ____ and run back. A) turn B) sit C) sleep D) eat
+3. The shuttle run builds speed and ____ . A) coordination B) hunger C) noise D) dust
 4. Fill in: We mark ____ points for a shuttle run.
 5. Mention two things we do in a shuttle run.
 6. Write one way we play fair in a race.
@@ -136,9 +136,9 @@ Draw a shuttle run course with two markers and me turning.
 
 **Worksheet**
 
-1. The traditional games our people play are ____ games. A) card B) video C) local D) computer
-2. The hopping game on a drawn pattern is ____ . A) draft B) suwe C) ludo D) chess
-3. The hiding game where one child seeks is ____ . A) football B) boju-boju C) ten-ten D) suwe
+1. The traditional games our people play are ____ games. A) local B) computer C) video D) card
+2. The hopping game on a drawn pattern is ____ . A) suwe B) ludo C) chess D) draft
+3. The hiding game where one child seeks is ____ . A) boju-boju B) ten-ten C) suwe D) football
 4. Fill in: The clapping game with rhythm is ____.
 5. Mention two local games.
 6. Write one rule we keep when we play.
@@ -184,9 +184,9 @@ Draw children playing a local game I like.
 
 **Worksheet**
 
-1. When I run I land on the ____ of my feet. A) sides B) toes only C) heels D) balls
-2. My body leans slightly ____ when I run. A) forward B) left C) backward D) right
-3. My arms bend and ____ by my sides. A) swing B) shake C) rest D) cross
+1. When I run I land on the ____ of my feet. A) balls B) heels C) toes only D) sides
+2. My body leans slightly ____ when I run. A) forward B) backward C) left D) right
+3. My arms bend and ____ by my sides. A) rest B) swing C) shake D) cross
 4. Fill in: I lift my ____ when I run.
 5. Mention two things a good runner does.
 6. Write why a good posture helps me run.
@@ -232,9 +232,9 @@ Draw myself running with a good posture.
 
 **Worksheet**
 
-1. After the toilet we wash our hands with soap and ____ . A) water B) oil C) sand D) ink
-2. Washing hands removes ____ . A) germs B) food C) clothes D) books
-3. A type of toilet is the ____ toilet. A) road B) pit C) roof D) desk
+1. After the toilet we wash our hands with soap and ____ . A) water B) sand C) oil D) ink
+2. Washing hands removes ____ . A) food B) books C) clothes D) germs
+3. A type of toilet is the ____ toilet. A) pit B) road C) desk D) roof
 4. Fill in: We ____ or cover the waste after using the toilet.
 5. Mention two types of toilets.
 6. Write when we should wash our hands.
@@ -280,9 +280,9 @@ Draw the steps of washing my hands: wet, soap, scrub, rinse, dry.
 
 **Worksheet**
 
-1. Keeping my own body clean every day is ____ hygiene. A) personal B) school C) market D) road
-2. I brush my teeth in the morning and at ____ . A) night B) noon C) dawn D) dusk only
-3. I bathe with soap and ____ . A) dust B) sand C) oil D) water
+1. Keeping my own body clean every day is ____ hygiene. A) market B) personal C) school D) road
+2. I brush my teeth in the morning and at ____ . A) noon B) dawn C) night D) dusk only
+3. I bathe with soap and ____ . A) water B) sand C) oil D) dust
 4. Fill in: I wear ____ clothes every day.
 5. Mention two things I do to keep clean.
 6. Write why a clean body is good.
@@ -328,9 +328,9 @@ Draw myself brushing my teeth in the morning.
 
 **Worksheet**
 
-1. I keep my nails clean and ____ . A) trimmed B) long C) dirty D) painted
-2. I blow my nose gently into a ____ . A) stone B) shoe C) leaf D) tissue
-3. I wash my body ____ . A) daily B) yearly C) never D) monthly only
+1. I keep my nails clean and ____ . A) trimmed B) painted C) long D) dirty
+2. I blow my nose gently into a ____ . A) tissue B) leaf C) stone D) shoe
+3. I wash my body ____ . A) yearly B) monthly only C) never D) daily
 4. Fill in: I cut my nails with a clean ____.
 5. Mention two parts of the body I keep clean.
 6. Write one way I care for my body.
@@ -376,9 +376,9 @@ Draw myself with clean hands and short nails.
 
 **Worksheet**
 
-1. We put waste in the ____ . A) dustbin B) river C) road D) desk
-2. Throwing rubbish about is called ____ . A) littering B) sweeping C) mopping D) planting
-3. A dirty environment breeds germs, flies and ____ . A) mosquitoes B) flowers C) songs D) stars
+1. We put waste in the ____ . A) road B) dustbin C) river D) desk
+2. Throwing rubbish about is called ____ . A) sweeping B) mopping C) littering D) planting
+3. A dirty environment breeds germs, flies and ____ . A) songs B) mosquitoes C) flowers D) stars
 4. Fill in: We clean the floor with a broom by ____.
 5. Mention two places we keep clean.
 6. Write one way a clean environment helps us.

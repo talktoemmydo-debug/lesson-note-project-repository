@@ -40,9 +40,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. A line that lies flat like the ground is ____ . A) horizontal B) vertical C) round D) spiral
-2. The edge of a circle is a ____ line. A) zigzag B) straight C) sharp D) curved
-3. A line that moves sharply up and down like teeth is ____ . A) thin B) zigzag C) flat D) short
+1. A line that lies flat like the ground is ____ . A) horizontal B) vertical C) spiral D) round
+2. The edge of a circle is a ____ line. A) sharp B) straight C) curved D) zigzag
+3. A line that moves sharply up and down like teeth is ____ . A) flat B) thin C) zigzag D) short
 4. Fill in: A line that stands up like a pole is ____.
 5. Mention two kinds of lines.
 6. Write one thing you can draw with lines only.
@@ -88,9 +88,9 @@ Fill my page with three different lines and colour between them.
 
 **Worksheet**
 
-1. The shape of an egg is an ____ . A) oval B) triangle C) square D) star
-2. A square and a triangle joined together can make a ____ . A) wheel B) ball C) house D) road
-3. The biggest of these is a ____ . A) coin B) bead C) seed D) basket
+1. The shape of an egg is an ____ . A) oval B) square C) triangle D) star
+2. A square and a triangle joined together can make a ____ . A) ball B) house C) wheel D) road
+3. The biggest of these is a ____ . A) seed B) bead C) basket D) coin
 4. Fill in: A door is the shape of a ____.
 5. Mention two basic shapes.
 6. Write one thing that is a circle at home.
@@ -136,9 +136,9 @@ Cut or draw three shapes and paste them to make a picture.
 
 **Worksheet**
 
-1. How a thing feels when we touch it is its ____ . A) colour B) texture C) smell D) sound
-2. Sandpaper feels ____ . A) smooth B) rough C) soft D) wet
-3. A feather feels ____ . A) soft B) rough C) hot D) hard
+1. How a thing feels when we touch it is its ____ . A) texture B) colour C) smell D) sound
+2. Sandpaper feels ____ . A) rough B) smooth C) soft D) wet
+3. A feather feels ____ . A) soft B) hot C) hard D) rough
 4. Fill in: We make a rubbing with paper and a ____.
 5. Mention two things that feel smooth.
 6. Write how a stone feels.
@@ -184,9 +184,9 @@ Touch three things at home and draw one face for each: happy for soft, surprised
 
 **Worksheet**
 
-1. We cut paper with ____ . A) scissors B) tape C) paint D) glue
-2. We stick paper together with ____ . A) a pen B) scissors C) a ruler D) glue
-3. A soft earth we use for modelling is ____ . A) water B) sand C) clay D) stone
+1. We cut paper with ____ . A) scissors B) glue C) paint D) tape
+2. We stick paper together with ____ . A) glue B) scissors C) a ruler D) a pen
+3. A soft earth we use for modelling is ____ . A) clay B) sand C) water D) stone
 4. Fill in: We colour with ____.
 5. Mention two drawing tools.
 6. Write one way we keep art tools safe.
@@ -232,9 +232,9 @@ Draw my art box and put three tools inside it.
 
 **Worksheet**
 
-1. The way of life of a people is their ____ . A) market B) school C) road D) culture
-2. The three big ethnic groups are Hausa, Igbo and ____ . A) Zulu B) Yoruba C) French D) English
-3. Language, food, dressing and festivals are parts of ____ . A) weather B) sport C) culture D) money
+1. The way of life of a people is their ____ . A) road B) school C) culture D) market
+2. The three big ethnic groups are Hausa, Igbo and ____ . A) Yoruba B) French C) English D) Zulu
+3. Language, food, dressing and festivals are parts of ____ . A) culture B) weather C) money D) sport
 4. Fill in: A special celebration is a ____.
 5. Mention two foods eaten in Nigeria.
 6. Write one thing that is part of culture.
@@ -280,9 +280,9 @@ Draw the food my people eat at a festival.
 
 **Worksheet**
 
-1. A special celebration a people keep is a ____ . A) lesson B) market C) game D) ceremony
-2. The ceremony that welcomes a new baby is the ____ ceremony. A) school B) harvest C) farm D) naming
-3. A special nut used at some naming ceremonies is the ____ nut. A) ground B) palm C) coco D) kola
+1. A special celebration a people keep is a ____ . A) game B) market C) ceremony D) lesson
+2. The ceremony that welcomes a new baby is the ____ ceremony. A) farm B) harvest C) naming D) school
+3. A special nut used at some naming ceremonies is the ____ nut. A) kola B) ground C) palm D) coco
 4. Fill in: Family and friends gather to ____ the baby.
 5. Mention two things used at a naming ceremony.
 6. Write who is welcomed at a naming ceremony.
@@ -328,9 +328,9 @@ Draw a naming ceremony with the family gathered round the baby.
 
 **Worksheet**
 
-1. Making the body look fine in our own way is body ____ . A) washing B) feeding C) resting D) beautification
-2. Small coloured things strung to wear are ____ . A) coins B) seeds C) stones D) beads
-3. A ring worn on the wrist is a ____ . A) belt B) cap C) shoe D) bangle
+1. Making the body look fine in our own way is body ____ . A) beautification B) washing C) feeding D) resting
+2. Small coloured things strung to wear are ____ . A) beads B) stones C) seeds D) coins
+3. A ring worn on the wrist is a ____ . A) bangle B) cap C) shoe D) belt
 4. Fill in: Designs put on the hands for a celebration are called ____.
 5. Mention two hairstyles.
 6. Write one thing people wear as decoration.
@@ -376,9 +376,9 @@ Draw a girl with beads and bangles on, ready for a festival.
 
 **Worksheet**
 
-1. Arts we show with our body and voice are ____ arts. A) drawing B) painting C) performing D) carving
-2. Stories the elders tell are ____ . A) letters B) newspapers C) folktales D) receipts
-3. A short song with rhythm is a ____ . A) road B) chair C) drum D) rhyme
+1. Arts we show with our body and voice are ____ arts. A) painting B) performing C) drawing D) carving
+2. Stories the elders tell are ____ . A) folktales B) newspapers C) letters D) receipts
+3. A short song with rhythm is a ____ . A) rhyme B) drum C) chair D) road
 4. Fill in: Moving the body to music is ____.
 5. Mention two performing arts.
 6. Write one way performing arts help us.
