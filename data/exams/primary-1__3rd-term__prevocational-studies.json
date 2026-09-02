@@ -1,0 +1,393 @@
+{
+ "subject": "Prevocational Studies",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "What we do to help and to live well is ___",
+   "answer": "work",
+   "distractors": [
+    "play",
+    "sleep",
+    "cry"
+   ]
+  },
+  {
+   "stem": "At home we ___ the floor",
+   "answer": "sweep",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "In the community people ___ and trade",
+   "answer": "farm",
+   "distractors": [
+    "sleep",
+    "cry",
+    "fight"
+   ]
+  },
+  {
+   "stem": "Every ___ work is good",
+   "answer": "honest",
+   "distractors": [
+    "lazy",
+    "bad",
+    "rude"
+   ]
+  },
+  {
+   "stem": "To make food ready to eat is to ___ it",
+   "answer": "prepare",
+   "distractors": [
+    "waste",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We wash our ___ before we touch food",
+   "answer": "hands",
+   "distractors": [
+    "shoes",
+    "books",
+    "chairs"
+   ]
+  },
+  {
+   "stem": "We keep food ___ so flies do not touch it",
+   "answer": "covered",
+   "distractors": [
+    "open",
+    "dirty",
+    "wet"
+   ]
+  },
+  {
+   "stem": "We use clean ___ to cook",
+   "answer": "utensils",
+   "distractors": [
+    "stones",
+    "leaves",
+    "paper"
+   ]
+  },
+  {
+   "stem": "We wash our clothes with soap and ___",
+   "answer": "water",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "We dry clothes in the ___",
+   "answer": "sun",
+   "distractors": [
+    "water",
+    "mud",
+    "dark"
+   ]
+  },
+  {
+   "stem": "We ___ clothes to make them neat",
+   "answer": "iron",
+   "distractors": [
+    "burn",
+    "cut",
+    "hide"
+   ]
+  },
+  {
+   "stem": "If a button falls, a grown-up helps to ___ it",
+   "answer": "mend",
+   "distractors": [
+    "break",
+    "eat",
+    "lose"
+   ]
+  },
+  {
+   "stem": "Something we make with our hands is a ___",
+   "answer": "craft",
+   "distractors": [
+    "song",
+    "dance",
+    "dream"
+   ]
+  },
+  {
+   "stem": "We can make a basket from leaves or ___",
+   "answer": "straw",
+   "distractors": [
+    "stone",
+    "water",
+    "sand"
+   ]
+  },
+  {
+   "stem": "We ___ to make baskets and mats",
+   "answer": "weave",
+   "distractors": [
+    "sleep",
+    "run",
+    "cry"
+   ]
+  },
+  {
+   "stem": "The place we live in is our ___",
+   "answer": "environment",
+   "distractors": [
+    "food",
+    "body",
+    "song"
+   ]
+  },
+  {
+   "stem": "We throw rubbish in the ___",
+   "answer": "dustbin",
+   "distractors": [
+    "river",
+    "road",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We ___ flowers and trees",
+   "answer": "plant",
+   "distractors": [
+    "burn",
+    "cut",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Animals we keep at home are called ___ animals",
+   "answer": "domestic",
+   "distractors": [
+    "wild",
+    "fierce",
+    "lost"
+   ]
+  },
+  {
+   "stem": "We give animals food and ___",
+   "answer": "water",
+   "distractors": [
+    "stones",
+    "fire",
+    "sand"
+   ]
+  },
+  {
+   "stem": "We give animals a clean ___",
+   "answer": "shelter",
+   "distractors": [
+    "road",
+    "dustbin",
+    "bag"
+   ]
+  },
+  {
+   "stem": "Chickens give us eggs and ___",
+   "answer": "meat",
+   "distractors": [
+    "milk",
+    "wool",
+    "honey"
+   ]
+  },
+  {
+   "stem": "Keeping money for later is ___",
+   "answer": "saving",
+   "distractors": [
+    "wasting",
+    "losing",
+    "throwing"
+   ]
+  },
+  {
+   "stem": "We save money in a money box or ___",
+   "answer": "bank",
+   "distractors": [
+    "fire",
+    "river",
+    "dustbin"
+   ]
+  },
+  {
+   "stem": "We buy what we ___ first",
+   "answer": "need",
+   "distractors": [
+    "lose",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We do not ___ money on things we do not need",
+   "answer": "waste",
+   "distractors": [
+    "save",
+    "keep",
+    "hide"
+   ]
+  },
+  {
+   "stem": "The work a person does is a ___",
+   "answer": "job",
+   "distractors": [
+    "game",
+    "song",
+    "dream"
+   ]
+  },
+  {
+   "stem": "People work as doctors, teachers and ___",
+   "answer": "farmers",
+   "distractors": [
+    "babies",
+    "stones",
+    "rivers"
+   ]
+  },
+  {
+   "stem": "We learn in school to ___ for our future work",
+   "answer": "prepare",
+   "distractors": [
+    "sleep",
+    "cry",
+    "fight"
+   ]
+  },
+  {
+   "stem": "Every ___ work is good and useful",
+   "answer": "honest",
+   "distractors": [
+    "lazy",
+    "bad",
+    "rude"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two works we do at home ",
+   "points": [
+    "sweeping",
+    "fetching water",
+    "washing",
+    "cooking"
+   ]
+  },
+  {
+   "stem": "Name two things we do to prepare food ",
+   "points": [
+    "wash",
+    "peel",
+    "cut",
+    "stir",
+    "serve"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for our clothes ",
+   "points": [
+    "wash",
+    "dry",
+    "fold",
+    "iron"
+   ]
+  },
+  {
+   "stem": "Name two crafts we can make ",
+   "points": [
+    "a basket",
+    "a mat",
+    "beads",
+    "pots"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for our environment ",
+   "points": [
+    "sweep",
+    "throw rubbish in the dustbin",
+    "plant trees"
+   ]
+  },
+  {
+   "stem": "Name two animals we keep ",
+   "points": [
+    "dogs",
+    "goats",
+    "chickens",
+    "cows"
+   ]
+  },
+  {
+   "stem": "Name two things animals give us ",
+   "points": [
+    "eggs",
+    "meat",
+    "milk"
+   ]
+  },
+  {
+   "stem": "Name two ways to use money well ",
+   "points": [
+    "save",
+    "buy what we need"
+   ]
+  },
+  {
+   "stem": "Name two jobs people do ",
+   "points": [
+    "doctor",
+    "teacher",
+    "farmer",
+    "nurse"
+   ]
+  },
+  {
+   "stem": "Name two materials we use for crafts ",
+   "points": [
+    "paper",
+    "clay",
+    "leaves",
+    "thread"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is work? Name one work we do at home.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why do we keep food clean?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a craft? Name one you can make.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two ways to care for our environment.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two jobs people do.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
