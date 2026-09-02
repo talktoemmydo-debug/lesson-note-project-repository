@@ -1,0 +1,389 @@
+{
+ "subject": "Social and Citizenship Studies",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Our country is ___",
+   "answer": "Nigeria",
+   "distractors": [
+    "a river",
+    "a school",
+    "a market"
+   ]
+  },
+  {
+   "stem": "Nigeria is in ___",
+   "answer": "Africa",
+   "distractors": [
+    "the sky",
+    "the sea",
+    "a box"
+   ]
+  },
+  {
+   "stem": "People who live in Nigeria are ___",
+   "answer": "Nigerians",
+   "distractors": [
+    "birds",
+    "stones",
+    "fishes"
+   ]
+  },
+  {
+   "stem": "A person who belongs to a country is a ___",
+   "answer": "citizen",
+   "distractors": [
+    "stranger",
+    "guest",
+    "baby"
+   ]
+  },
+  {
+   "stem": "Signs of our country are ___ symbols",
+   "answer": "national",
+   "distractors": [
+    "family",
+    "school",
+    "market"
+   ]
+  },
+  {
+   "stem": "The Nigerian flag is green, white, ___",
+   "answer": "green",
+   "distractors": [
+    "red",
+    "black",
+    "blue"
+   ]
+  },
+  {
+   "stem": "The green stands for our farms and ___",
+   "answer": "land",
+   "distractors": [
+    "sky",
+    "sea",
+    "fire"
+   ]
+  },
+  {
+   "stem": "The white stands for ___",
+   "answer": "peace",
+   "distractors": [
+    "war",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "The way of life of a people is ___",
+   "answer": "culture",
+   "distractors": [
+    "noise",
+    "sleep",
+    "rain"
+   ]
+  },
+  {
+   "stem": "Our culture includes language, food, dress and ___",
+   "answer": "dance",
+   "distractors": [
+    "anger",
+    "dust",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We greet our ___ in our own way",
+   "answer": "elders",
+   "distractors": [
+    "babies",
+    "stones",
+    "rivers"
+   ]
+  },
+  {
+   "stem": "Something a people always do is a ___",
+   "answer": "custom",
+   "distractors": [
+    "stone",
+    "noise",
+    "dream"
+   ]
+  },
+  {
+   "stem": "Something we are free to have or do is a ___",
+   "answer": "right",
+   "distractors": [
+    "stone",
+    "noise",
+    "dream"
+   ]
+  },
+  {
+   "stem": "We have the right to ___ and go to school",
+   "answer": "learn",
+   "distractors": [
+    "fight",
+    "steal",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "Something we must do is a ___",
+   "answer": "duty",
+   "distractors": [
+    "game",
+    "song",
+    "lie"
+   ]
+  },
+  {
+   "stem": "It is our duty to ___ rules at school",
+   "answer": "obey",
+   "distractors": [
+    "break",
+    "hide",
+    "burn"
+   ]
+  },
+  {
+   "stem": "Living without fighting is ___",
+   "answer": "peace",
+   "distractors": [
+    "war",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "We ___ our things with others",
+   "answer": "share",
+   "distractors": [
+    "hide",
+    "break",
+    "burn"
+   ]
+  },
+  {
+   "stem": "When we quarrel, we say ___ and make peace",
+   "answer": "sorry",
+   "distractors": [
+    "nothing",
+    "bad words",
+    "lies"
+   ]
+  },
+  {
+   "stem": "People who guide and rule are ___",
+   "answer": "leaders",
+   "distractors": [
+    "babies",
+    "stones",
+    "rivers"
+   ]
+  },
+  {
+   "stem": "Our ___ lead us at school",
+   "answer": "teachers",
+   "distractors": [
+    "pets",
+    "toys",
+    "books"
+   ]
+  },
+  {
+   "stem": "We ___ our leaders and elders",
+   "answer": "respect",
+   "distractors": [
+    "fight",
+    "ignore",
+    "laugh at"
+   ]
+  },
+  {
+   "stem": "The people and place we live with are our ___",
+   "answer": "community",
+   "distractors": [
+    "body",
+    "dream",
+    "song"
+   ]
+  },
+  {
+   "stem": "We throw rubbish in the ___",
+   "answer": "dustbin",
+   "distractors": [
+    "river",
+    "road",
+    "fire"
+   ]
+  },
+  {
+   "stem": "A person who loves and helps their country is a good ___",
+   "answer": "citizen",
+   "distractors": [
+    "stranger",
+    "thief",
+    "baby"
+   ]
+  },
+  {
+   "stem": "A good citizen ___ the rules and laws",
+   "answer": "obeys",
+   "distractors": [
+    "breaks",
+    "hides",
+    "burns"
+   ]
+  },
+  {
+   "stem": "A good citizen keeps the ___ clean",
+   "answer": "environment",
+   "distractors": [
+    "sky",
+    "sea",
+    "fire"
+   ]
+  },
+  {
+   "stem": "A good citizen is ___ and does not steal",
+   "answer": "honest",
+   "distractors": [
+    "lazy",
+    "rude",
+    "angry"
+   ]
+  },
+  {
+   "stem": "We ___ our things with others",
+   "answer": "share",
+   "distractors": [
+    "hide",
+    "break",
+    "burn"
+   ]
+  },
+  {
+   "stem": "We use ___ words, not angry words",
+   "answer": "kind",
+   "distractors": [
+    "rude",
+    "harsh",
+    "loud"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things you know about Nigeria ",
+   "points": [
+    "it is in Africa",
+    "its capital is Abuja",
+    "it has many states"
+   ]
+  },
+  {
+   "stem": "Name two national symbols of Nigeria ",
+   "points": [
+    "the flag",
+    "the coat of arms",
+    "the National Anthem",
+    "the Naira"
+   ]
+  },
+  {
+   "stem": "Name two parts of our culture ",
+   "points": [
+    "language",
+    "food",
+    "dress",
+    "dance"
+   ]
+  },
+  {
+   "stem": "Name two rights we have ",
+   "points": [
+    "right to life",
+    "right to learn",
+    "right to food",
+    "right to care"
+   ]
+  },
+  {
+   "stem": "Name two duties we have ",
+   "points": [
+    "obey rules",
+    "respect elders",
+    "care for our things"
+   ]
+  },
+  {
+   "stem": "Name two ways to live in peace ",
+   "points": [
+    "share",
+    "help one another",
+    "say sorry"
+   ]
+  },
+  {
+   "stem": "Name two leaders you know ",
+   "points": [
+    "parents",
+    "teachers",
+    "head teacher",
+    "president"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for our community ",
+   "points": [
+    "keep it clean",
+    "plant trees",
+    "obey the rules"
+   ]
+  },
+  {
+   "stem": "Name two things a good citizen does ",
+   "points": [
+    "obeys the law",
+    "respects others",
+    "keeps the environment clean"
+   ]
+  },
+  {
+   "stem": "Name two colours on the Nigerian flag ",
+   "points": [
+    "green",
+    "white"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is the name of our country? Name one thing about it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What does the white on the Nigerian flag stand for?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is culture? Name one part of it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two rights we have and two duties we have.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who is a good citizen? Name one thing a good citizen does.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

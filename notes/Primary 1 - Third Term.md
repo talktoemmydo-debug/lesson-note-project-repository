@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 8 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 9 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*8 subjects · 64 lessons · 8 term practice papers. Each part begins on a fresh page.*
+*9 subjects · 72 lessons · 9 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — ENERGY AROUND US](#week-1-energy-around-us) · 3
@@ -77,23 +77,33 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — ANIMALS AND THEIR CARE](#week-6-animals-and-their-care) · 42
   - [WEEK 8 — SAVING AND SPENDING](#week-8-saving-and-spending) · 43
   - [WEEK 9 — WORK WE MAY DO WHEN WE GROW UP](#week-9-work-we-may-do-when-we-grow-up) · 43
-- **[General Knowledge](#general-knowledge)** · 45
-  - [WEEK 1 — TRANSPORTATION](#week-1-transportation) · 45
-  - [WEEK 2 — COMMUNICATION](#week-2-communication) · 45
-  - [WEEK 3 — MONEY AND TRADE](#week-3-money-and-trade) · 46
-  - [WEEK 4 — NATURAL RESOURCES](#week-4-natural-resources) · 47
-  - [WEEK 5 — TECHNOLOGY AROUND US](#week-5-technology-around-us) · 47
-  - [WEEK 6 — RULES AND LAWS](#week-6-rules-and-laws) · 48
-  - [WEEK 8 — BEING A RESPONSIBLE CHILD](#week-8-being-a-responsible-child) · 49
-  - [WEEK 9 — OUR NEIGHBOURS AND THE WORLD](#week-9-our-neighbours-and-the-world) · 49
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 51
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 3rd Term)](#examination-practice-cultural-and-creative-arts-primary-1-3rd-term)** · 53
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)](#examination-practice-christian-religious-studies-primary-1-3rd-term)** · 55
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 57
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 3rd Term)](#examination-practice-nigerian-history-primary-1-3rd-term)** · 59
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 3rd Term)](#examination-practice-physical-and-health-education-primary-1-3rd-term)** · 61
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 3rd Term)](#examination-practice-prevocational-studies-primary-1-3rd-term)** · 63
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 3rd Term)](#examination-practice-general-knowledge-primary-1-3rd-term)** · 65
+- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 45
+  - [WEEK 1 — OUR COUNTRY NIGERIA](#week-1-our-country-nigeria) · 45
+  - [WEEK 2 — OUR NATIONAL SYMBOLS](#week-2-our-national-symbols) · 45
+  - [WEEK 3 — OUR CULTURE AND CUSTOMS](#week-3-our-culture-and-customs) · 46
+  - [WEEK 4 — OUR RIGHTS AND DUTIES](#week-4-our-rights-and-duties) · 47
+  - [WEEK 5 — LIVING TOGETHER IN PEACE](#week-5-living-together-in-peace) · 47
+  - [WEEK 6 — RESPECT FOR LEADERS AND ELDERS](#week-6-respect-for-leaders-and-elders) · 48
+  - [WEEK 8 — CARING FOR OUR COMMUNITY](#week-8-caring-for-our-community) · 49
+  - [WEEK 9 — BEING A GOOD CITIZEN](#week-9-being-a-good-citizen) · 49
+- **[General Knowledge](#general-knowledge)** · 51
+  - [WEEK 1 — TRANSPORTATION](#week-1-transportation) · 51
+  - [WEEK 2 — COMMUNICATION](#week-2-communication) · 51
+  - [WEEK 3 — MONEY AND TRADE](#week-3-money-and-trade) · 52
+  - [WEEK 4 — NATURAL RESOURCES](#week-4-natural-resources) · 53
+  - [WEEK 5 — TECHNOLOGY AROUND US](#week-5-technology-around-us) · 53
+  - [WEEK 6 — RULES AND LAWS](#week-6-rules-and-laws) · 54
+  - [WEEK 8 — BEING A RESPONSIBLE CHILD](#week-8-being-a-responsible-child) · 55
+  - [WEEK 9 — OUR NEIGHBOURS AND THE WORLD](#week-9-our-neighbours-and-the-world) · 55
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 57
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 3rd Term)](#examination-practice-cultural-and-creative-arts-primary-1-3rd-term)** · 59
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)](#examination-practice-christian-religious-studies-primary-1-3rd-term)** · 61
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 63
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 3rd Term)](#examination-practice-nigerian-history-primary-1-3rd-term)** · 65
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 3rd Term)](#examination-practice-physical-and-health-education-primary-1-3rd-term)** · 67
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 3rd Term)](#examination-practice-prevocational-studies-primary-1-3rd-term)** · 69
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 3rd Term)](#examination-practice-social-and-citizenship-studies-primary-1-3rd-term)** · 71
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 3rd Term)](#examination-practice-general-knowledge-primary-1-3rd-term)** · 73
 
 
 
@@ -4327,6 +4337,610 @@ written for them.
 
 ---
 
+# Social and Citizenship Studies (SCS)
+
+These are the notes for the third term of Primary 1. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 1 · Social and Citizenship Studies · Third Term W1-6, 8-9 (our country Nigeria; our national symbols; our culture and customs; our rights and duties; living together in peace; respect for leaders and elders; caring for our community; being a good citizen).*
+
+
+### WEEK 1 — OUR COUNTRY NIGERIA
+
+**You will learn to**
+
+• name our country
+
+• say what a citizen is
+
+• love our country
+
+**Things to know**
+
+• Our country is **Nigeria**.
+
+• Nigeria is in **Africa**.
+
+• People who live in Nigeria are **Nigerians**.
+
+• A **citizen** is a person who belongs to a country.
+
+• We are citizens of Nigeria.
+
+• Nigeria has many **states** and people.
+
+• Nigeria has a **capital** city called Abuja.
+
+• We love and care for our country.
+
+• We speak different languages in Nigeria.
+
+• Nigeria is our homeland.
+
+**Let us talk**
+
+1. What is the name of our country?
+
+2. Who is a citizen?
+
+3. What is the capital of Nigeria?
+
+**Words for my notebook**
+
+• country — a land with its own people and government
+
+• citizen — a person who belongs to a country
+
+• capital — the chief city of a country
+
+**Worksheet**
+
+1. Our country is ___.
+   A) Nigeria B) a river C) a school D) a market
+
+2. Nigeria is in ___.
+   A) Africa B) the sky C) the sea D) a box
+
+3. People who live in Nigeria are ___.
+   A) Nigerians B) birds C) stones D) fishes
+
+4. A person who belongs to a country is a ___.
+   A) citizen B) stranger C) guest D) baby
+
+5. Fill in: The chief city of a country is its _____.
+
+6. Mention two things you know about Nigeria.
+
+7. Write what a citizen is.
+
+**My own work**
+
+• Draw the map of Nigeria and colour it.
+
+---
+
+### WEEK 2 — OUR NATIONAL SYMBOLS
+
+**You will learn to**
+
+• name our national symbols
+
+• respect our symbols
+
+• sing the anthem
+
+**Things to know**
+
+• **National symbols** are signs of our country.
+
+• The Nigerian **flag** is green, white, green.
+
+• The **green** stands for our farms and land.
+
+• The **white** stands for peace.
+
+• The Nigerian **coat of arms** is a national symbol.
+
+• We sing the **National Anthem** to honour our country.
+
+• We say the **National Pledge**.
+
+• The **Naira** is our money.
+
+• We respect our national symbols.
+
+• Our symbols show that we are one country.
+
+**Let us talk**
+
+1. Name one national symbol of Nigeria.
+
+2. What colour is the Nigerian flag?
+
+3. What does the green stand for?
+
+**Words for my notebook**
+
+• national symbol — a sign that stands for our country
+
+• flag — the cloth that stands for a country
+
+• anthem — the song of a country
+
+**Worksheet**
+
+1. Signs of our country are ___ symbols.
+   A) national B) family C) school D) market
+
+2. The Nigerian flag is green, white, ___.
+   A) green B) red C) black D) blue
+
+3. The green stands for our farms and ___.
+   A) land B) sky C) sea D) fire
+
+4. The white stands for ___.
+   A) peace B) war C) noise D) anger
+
+5. Fill in: The song of a country is its _____.
+
+6. Mention two national symbols of Nigeria.
+
+7. Write what the white on the flag stands for.
+
+**My own work**
+
+• Draw and colour the Nigerian flag.
+
+---
+
+### WEEK 3 — OUR CULTURE AND CUSTOMS
+
+**You will learn to**
+
+• say what culture is
+
+• name our customs
+
+• respect our culture
+
+**Things to know**
+
+• **Culture** is the way of life of a people.
+
+• Our culture includes our **language**, **food**, **dress** and **dance**.
+
+• Our **customs** are the things we always do.
+
+• We greet our elders in our own way.
+
+• We wear our **traditional dress** on special days.
+
+• We eat our **local food** like rice, yam and beans.
+
+• We dance our **traditional dances**.
+
+• We speak our **mother tongue** at home.
+
+• Culture makes us who we are.
+
+• We respect and keep our culture.
+
+**Let us talk**
+
+1. What is culture?
+
+2. Name one part of our culture.
+
+3. Why do we respect our culture?
+
+**Words for my notebook**
+
+• culture — the way of life of a people
+
+• custom — something a people always do
+
+• traditional — from the old ways of our people
+
+**Worksheet**
+
+1. The way of life of a people is ___.
+   A) culture B) noise C) sleep D) rain
+
+2. Our culture includes language, food, dress and ___.
+   A) dance B) anger C) dust D) fire
+
+3. We greet our ___ in our own way.
+   A) elders B) babies C) stones D) rivers
+
+4. We eat our ___ food like rice and yam.
+   A) local B) foreign C) bad D) dirty
+
+5. Fill in: Something a people always do is a _____.
+
+6. Mention two parts of our culture.
+
+7. Write what culture is.
+
+**My own work**
+
+• Draw someone in traditional dress.
+
+---
+
+### WEEK 4 — OUR RIGHTS AND DUTIES
+
+**You will learn to**
+
+• name our rights
+
+• name our duties
+
+• do our duties
+
+**Things to know**
+
+• A **right** is something we are free to have or do.
+
+• We have the right to **life** and to be safe.
+
+• We have the right to **learn** and go to school.
+
+• We have the right to **food**, **water** and **care**.
+
+• A **duty** is something we must do.
+
+• It is our duty to **obey** rules at home and school.
+
+• It is our duty to **respect** our elders and others.
+
+• It is our duty to **care** for our things and place.
+
+• Rights and duties go together.
+
+• When we do our duties, we enjoy our rights.
+
+**Let us talk**
+
+1. What is a right?
+
+2. Name one right we have.
+
+3. Name one duty we have.
+
+**Words for my notebook**
+
+• right — something we are free to have or do
+
+• duty — something we must do
+
+• obey — to do what we are told
+
+**Worksheet**
+
+1. Something we are free to have or do is a ___.
+   A) right B) stone C) noise D) dream
+
+2. We have the right to ___ and go to school.
+   A) learn B) fight C) steal D) sleep
+
+3. Something we must do is a ___.
+   A) duty B) game C) song D) lie
+
+4. It is our duty to ___ rules at school.
+   A) obey B) break C) hide D) burn
+
+5. Fill in: To do what we are told is to _____.
+
+6. Mention two rights we have.
+
+7. Write what a duty is.
+
+**My own work**
+
+• Draw a child doing a duty at home.
+
+---
+
+### WEEK 5 — LIVING TOGETHER IN PEACE
+
+**You will learn to**
+
+• live in peace with others
+
+• share and care
+
+• settle quarrels well
+
+**Things to know**
+
+• **Peace** is living without fighting.
+
+• We live in peace with our **family** and **friends**.
+
+• We **share** our things with others.
+
+• We **help** one another.
+
+• We do not fight or quarrel.
+
+• When we quarrel, we say **sorry** and make peace.
+
+• We use kind words, not angry words.
+
+• We listen to one another.
+
+• Peace makes our home and school happy.
+
+• Living in peace is good for all.
+
+**Let us talk**
+
+1. What is peace?
+
+2. How do we live in peace?
+
+3. What do we do when we quarrel?
+
+**Words for my notebook**
+
+• peace — living without fighting
+
+• share — to give part of what we have
+
+• quarrel — to argue or fight with words
+
+**Worksheet**
+
+1. Living without fighting is ___.
+   A) peace B) war C) noise D) anger
+
+2. We ___ our things with others.
+   A) share B) hide C) break D) burn
+
+3. When we quarrel, we say ___ and make peace.
+   A) sorry B) nothing C) bad words D) lies
+
+4. We use ___ words, not angry words.
+   A) kind B) rude C) harsh D) loud
+
+5. Fill in: To argue or fight with words is to _____.
+
+6. Mention two ways to live in peace.
+
+7. Write what peace is.
+
+**My own work**
+
+• Draw two friends sharing and smiling.
+
+---
+
+### WEEK 6 — RESPECT FOR LEADERS AND ELDERS
+
+**You will learn to**
+
+• respect our leaders
+
+• respect our elders
+
+• obey those in authority
+
+**Things to know**
+
+• **Leaders** are people who guide and rule.
+
+• We have leaders at home, school and country.
+
+• Our **parents** and **elders** guide us at home.
+
+• Our **teachers** and **head teacher** lead us at school.
+
+• The **president** and **governors** lead our country.
+
+• We **respect** our leaders and elders.
+
+• We greet them and listen to them.
+
+• We obey the rules they set.
+
+• Respect for leaders keeps order.
+
+• A child who respects is loved.
+
+**Let us talk**
+
+1. Who are leaders?
+
+2. Name one leader at school.
+
+3. How do we show respect?
+
+**Words for my notebook**
+
+• leader — a person who guides and rules
+
+• elder — a person older than us
+
+• respect — to show honour to someone
+
+**Worksheet**
+
+1. People who guide and rule are ___.
+   A) leaders B) babies C) stones D) rivers
+
+2. Our ___ lead us at school.
+   A) teachers B) pets C) toys D) books
+
+3. We ___ our leaders and elders.
+   A) respect B) fight C) ignore D) laugh at
+
+4. We ___ them and listen to them.
+   A) greet B) hit C) hide from D) shout at
+
+5. Fill in: To show honour to someone is to _____.
+
+6. Mention two leaders you know.
+
+7. Write how we show respect to elders.
+
+**My own work**
+
+• Draw yourself greeting an elder.
+
+---
+
+### WEEK 8 — CARING FOR OUR COMMUNITY
+
+**You will learn to**
+
+• care for our community
+
+• keep it clean and safe
+
+• help one another
+
+**Things to know**
+
+• Our **community** is the people and place we live with.
+
+• We keep our community **clean**.
+
+• We throw rubbish in the **dustbin**, not on the ground.
+
+• We do not spoil public things like **taps** and **benches**.
+
+• We help to **plant** trees and flowers.
+
+• We look after one another in the community.
+
+• We obey the **rules** of our community.
+
+• We do not fight or make noise that troubles others.
+
+• A clean and safe community is good for all.
+
+• Caring for our community is our duty.
+
+**Let us talk**
+
+1. What is our community?
+
+2. How do we keep it clean?
+
+3. Why do we care for our community?
+
+**Words for my notebook**
+
+• community — the people and place we live with
+
+• public — belonging to all people
+
+• safe — free from harm
+
+**Worksheet**
+
+1. The people and place we live with are our ___.
+   A) community B) body C) dream D) song
+
+2. We throw rubbish in the ___.
+   A) dustbin B) river C) road D) fire
+
+3. We do not spoil ___ things like taps.
+   A) public B) broken C) old D) lost
+
+4. We help to ___ trees and flowers.
+   A) plant B) burn C) cut D) hide
+
+5. Fill in: Belonging to all people is _____.
+
+6. Mention two ways to care for our community.
+
+7. Write why we care for our community.
+
+**My own work**
+
+• Draw a clean community with people helping.
+
+---
+
+### WEEK 9 — BEING A GOOD CITIZEN
+
+**You will learn to**
+
+• say what a good citizen is
+
+• do things a good citizen does
+
+• love our country
+
+**Things to know**
+
+• A **good citizen** loves and helps their country.
+
+• A good citizen **obeys** the rules and laws.
+
+• A good citizen **respects** others and their rights.
+
+• A good citizen keeps the **environment** clean.
+
+• A good citizen **works** hard and is honest.
+
+• A good citizen **helps** people in need.
+
+• A good citizen **loves** peace and does not fight.
+
+• A good citizen is proud of Nigeria.
+
+• We learn to be good citizens now.
+
+• Good citizens make our country great.
+
+**Let us talk**
+
+1. Who is a good citizen?
+
+2. Name one thing a good citizen does.
+
+3. How can you be a good citizen?
+
+**Words for my notebook**
+
+• good citizen — a person who loves and helps their country
+
+• honest — telling the truth and not stealing
+
+• proud — feeling happy about something good
+
+**Worksheet**
+
+1. A person who loves and helps their country is a good ___.
+   A) citizen B) stranger C) thief D) baby
+
+2. A good citizen ___ the rules and laws.
+   A) obeys B) breaks C) hides D) burns
+
+3. A good citizen keeps the ___ clean.
+   A) environment B) sky C) sea D) fire
+
+4. A good citizen is ___ and does not steal.
+   A) honest B) lazy C) rude D) angry
+
+5. Fill in: Telling the truth and not stealing is being _____.
+
+6. Mention two things a good citizen does.
+
+7. Write how you can be a good citizen.
+
+**My own work**
+
+• Draw yourself doing something good for your country.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the third term of Primary 1. They follow the NERDC
@@ -6229,6 +6843,192 @@ Answer in full sentences.
 43. What is a craft? Name one you can make. (2 marks)
 44. Name two ways to care for our environment. (2 marks)
 45. Name two jobs people do. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 3rd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Our country is ___
+   A) Nigeria
+   B) a school
+   C) a market
+   D) a river
+2. Nigeria is in ___
+   A) the sea
+   B) Africa
+   C) the sky
+   D) a box
+3. People who live in Nigeria are ___
+   A) fishes
+   B) stones
+   C) Nigerians
+   D) birds
+4. A person who belongs to a country is a ___
+   A) stranger
+   B) baby
+   C) guest
+   D) citizen
+5. Signs of our country are ___ symbols
+   A) national
+   B) market
+   C) family
+   D) school
+6. The Nigerian flag is green, white, ___
+   A) black
+   B) green
+   C) blue
+   D) red
+7. The green stands for our farms and ___
+   A) sky
+   B) sea
+   C) land
+   D) fire
+8. The white stands for ___
+   A) peace
+   B) anger
+   C) war
+   D) noise
+9. The way of life of a people is ___
+   A) noise
+   B) culture
+   C) rain
+   D) sleep
+10. Our culture includes language, food, dress and ___
+   A) dust
+   B) fire
+   C) anger
+   D) dance
+11. We greet our ___ in our own way
+   A) babies
+   B) rivers
+   C) elders
+   D) stones
+12. Something a people always do is a ___
+   A) custom
+   B) dream
+   C) stone
+   D) noise
+13. Something we are free to have or do is a ___
+   A) stone
+   B) right
+   C) noise
+   D) dream
+14. We have the right to ___ and go to school
+   A) fight
+   B) sleep
+   C) steal
+   D) learn
+15. Something we must do is a ___
+   A) song
+   B) lie
+   C) duty
+   D) game
+16. It is our duty to ___ rules at school
+   A) obey
+   B) hide
+   C) break
+   D) burn
+17. Living without fighting is ___
+   A) noise
+   B) peace
+   C) anger
+   D) war
+18. We ___ our things with others
+   A) hide
+   B) burn
+   C) break
+   D) share
+19. When we quarrel, we say ___ and make peace
+   A) nothing
+   B) lies
+   C) sorry
+   D) bad words
+20. People who guide and rule are ___
+   A) babies
+   B) leaders
+   C) stones
+   D) rivers
+21. Our ___ lead us at school
+   A) teachers
+   B) pets
+   C) books
+   D) toys
+22. We ___ our leaders and elders
+   A) laugh at
+   B) ignore
+   C) fight
+   D) respect
+23. The people and place we live with are our ___
+   A) dream
+   B) community
+   C) body
+   D) song
+24. We throw rubbish in the ___
+   A) dustbin
+   B) river
+   C) fire
+   D) road
+25. A person who loves and helps their country is a good ___
+   A) thief
+   B) stranger
+   C) baby
+   D) citizen
+26. A good citizen ___ the rules and laws
+   A) burns
+   B) hides
+   C) obeys
+   D) breaks
+27. A good citizen keeps the ___ clean
+   A) sea
+   B) environment
+   C) sky
+   D) fire
+28. A good citizen is ___ and does not steal
+   A) honest
+   B) lazy
+   C) angry
+   D) rude
+29. We ___ our things with others
+   A) break
+   B) hide
+   C) share
+   D) burn
+30. We use ___ words, not angry words
+   A) loud
+   B) rude
+   C) harsh
+   D) kind
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two things you know about Nigeria
+32. Name two national symbols of Nigeria
+33. Name two parts of our culture
+34. Name two rights we have
+35. Name two duties we have
+36. Name two ways to live in peace
+37. Name two leaders you know
+38. Name two ways to care for our community
+39. Name two things a good citizen does
+40. Name two colours on the Nigerian flag
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is the name of our country? Name one thing about it. (2 marks)
+42. What does the white on the Nigerian flag stand for? (2 marks)
+43. What is culture? Name one part of it. (2 marks)
+44. Name two rights we have and two duties we have. (2 marks)
+45. Who is a good citizen? Name one thing a good citizen does. (2 marks)
 
 
 ---
