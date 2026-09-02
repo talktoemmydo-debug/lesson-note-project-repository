@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 2 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 3 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*2 subjects · 16 lessons · 2 term practice papers. Each part begins on a fresh page.*
+*3 subjects · 24 lessons · 3 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 2
   - [WEEK 1 — THE ROAD AND ROAD SAFETY](#week-1-the-road-and-road-safety) · 2
@@ -23,17 +23,27 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — NON-LIVING THINGS](#week-6-non-living-things) · 5
   - [WEEK 8 — AIR AND WIND](#week-8-air-and-wind) · 6
   - [WEEK 9 — SOIL](#week-9-soil) · 6
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 8
-  - [WEEK 1 — DIGITAL DEVICES AROUND US](#week-1-digital-devices-around-us) · 8
-  - [WEEK 2 — THE FOUR BASIC PARTS](#week-2-the-four-basic-parts) · 8
-  - [WEEK 3 — CARING FOR DEVICES AND LAB RULES](#week-3-caring-for-devices-and-lab-rules) · 9
-  - [WEEK 4 — FROM THE ABACUS TO TODAY](#week-4-from-the-abacus-to-today) · 10
-  - [WEEK 5 — THE TWO GREAT INVENTORS](#week-5-the-two-great-inventors) · 10
-  - [WEEK 6 — HARDWARE AND SOFTWARE](#week-6-hardware-and-software) · 11
-  - [WEEK 8 — INPUT DEVICES: KEYBOARD AND MOUSE](#week-8-input-devices-keyboard-and-mouse) · 12
-  - [WEEK 9 — OUTPUT DEVICES AND THE MICROPHONE](#week-9-output-devices-and-the-microphone) · 12
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 14
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 16
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 8
+  - [WEEK 1 — JESUS CALMS THE STORM](#week-1-jesus-calms-the-storm) · 8
+  - [WEEK 2 — JESUS WALKS ON WATER](#week-2-jesus-walks-on-water) · 8
+  - [WEEK 3 — JESUS FEEDS FIVE THOUSAND](#week-3-jesus-feeds-five-thousand) · 9
+  - [WEEK 4 — JESUS HEALS THE SICK](#week-4-jesus-heals-the-sick) · 10
+  - [WEEK 5 — THE PARALYZED MAN AND HIS FRIENDS](#week-5-the-paralyzed-man-and-his-friends) · 10
+  - [WEEK 6 — JESUS RAISES JAIRUS' DAUGHTER](#week-6-jesus-raises-jairus-daughter) · 11
+  - [WEEK 8 — JESUS RAISES LAZARUS](#week-8-jesus-raises-lazarus) · 11
+  - [WEEK 9 — JESUS CLEANSES THE TEMPLE](#week-9-jesus-cleanses-the-temple) · 12
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 14
+  - [WEEK 1 — DIGITAL DEVICES AROUND US](#week-1-digital-devices-around-us) · 14
+  - [WEEK 2 — THE FOUR BASIC PARTS](#week-2-the-four-basic-parts) · 14
+  - [WEEK 3 — CARING FOR DEVICES AND LAB RULES](#week-3-caring-for-devices-and-lab-rules) · 15
+  - [WEEK 4 — FROM THE ABACUS TO TODAY](#week-4-from-the-abacus-to-today) · 16
+  - [WEEK 5 — THE TWO GREAT INVENTORS](#week-5-the-two-great-inventors) · 16
+  - [WEEK 6 — HARDWARE AND SOFTWARE](#week-6-hardware-and-software) · 17
+  - [WEEK 8 — INPUT DEVICES: KEYBOARD AND MOUSE](#week-8-input-devices-keyboard-and-mouse) · 18
+  - [WEEK 9 — OUTPUT DEVICES AND THE MICROPHONE](#week-9-output-devices-and-the-microphone) · 18
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 20
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 22
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 24
 
 
 
@@ -81,9 +91,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. A road that is smooth and black is called a ____ road. A) tarred B) muddy C) bush D) water
-2. Which of these is a small road for walking? A) pathway B) highway C) bridge D) flyover
-3. The traffic light that means stop is A) red B) green C) yellow D) blue
+1. A road that is smooth and black is called a ____ road. A) tarred B) muddy C) water D) bush
+2. Which of these is a small road for walking? A) bridge B) flyover C) pathway D) highway
+3. The traffic light that means stop is A) green B) red C) yellow D) blue
 4. Fill in: We cross the road at the ____ crossing.
 5. Mention two things that move on the road.
 6. Write one sentence on how you cross the road safely.
@@ -129,9 +139,9 @@ Draw the road near my house and put one car and one person walking on it.
 
 **Worksheet**
 
-1. Everything around us at home and at school is the A) notebook B) environment C) calendar D) market
-2. Which of these is a primary colour? A) blue B) green C) orange D) purple
-3. Red and yellow mixed together give A) orange B) green C) black D) grey
+1. Everything around us at home and at school is the A) environment B) calendar C) notebook D) market
+2. Which of these is a primary colour? A) purple B) green C) orange D) blue
+3. Red and yellow mixed together give A) grey B) green C) black D) orange
 4. Fill in: The grass looks ____.
 5. Mention two things you see in the sky.
 6. Write the three primary colours.
@@ -177,9 +187,9 @@ Look around my room at home and draw two things I see, then colour them.
 
 **Worksheet**
 
-1. A shape that is round with no corners is a A) triangle B) rectangle C) circle D) square
-2. How many sides does a triangle have? A) three B) four C) five D) six
-3. A shape with four equal sides is a A) square B) star C) circle D) oval
+1. A shape that is round with no corners is a A) rectangle B) circle C) square D) triangle
+2. How many sides does a triangle have? A) three B) six C) five D) four
+3. A shape with four equal sides is a A) square B) circle C) oval D) star
 4. Fill in: A wheel is the shape of a ____.
 5. Mention two things at home that are a rectangle.
 6. Write the number of corners on a triangle.
@@ -225,9 +235,9 @@ Find three shapes in my house and draw each one in my notebook.
 
 **Worksheet**
 
-1. The shape of an egg is an A) rectangle B) square C) oval D) triangle
-2. A tin of milk is the solid shape called a A) cylinder B) cube C) sphere D) cone
-3. Which shape has five points? A) circle B) oval C) star D) heart
+1. The shape of an egg is an A) oval B) square C) triangle D) rectangle
+2. A tin of milk is the solid shape called a A) sphere B) cube C) cylinder D) cone
+3. Which shape has five points? A) heart B) circle C) oval D) star
 4. Fill in: A box is the solid shape called a ____.
 5. Mention two things that are a sphere.
 6. Write one thing you can make using a triangle and a square.
@@ -273,9 +283,9 @@ Use shapes to draw a house: a square for the walls and a triangle for the roof.
 
 **Worksheet**
 
-1. Which of these is a living thing? A) book B) goat C) chair D) stone
-2. Living things do all of these except A) grow B) breathe C) eat D) melt
-3. A plant needs water, air and ____ to grow well. A) shoes B) paper C) money D) sunlight
+1. Which of these is a living thing? A) goat B) stone C) chair D) book
+2. Living things do all of these except A) melt B) grow C) eat D) breathe
+3. A plant needs water, air and ____ to grow well. A) sunlight B) shoes C) money D) paper
 4. Fill in: A dog and a cat are ____ things.
 5. Mention two living things you see on a farm.
 6. Write one way you care for a plant.
@@ -321,9 +331,9 @@ Water one plant at home and watch it for a week, then draw it.
 
 **Worksheet**
 
-1. Which of these is non-living? A) hen B) stone C) dog D) tree
-2. A chair is a ____ non-living thing. A) natural B) man-made C) growing D) living
-3. Which one is a natural non-living thing? A) toy B) book C) water D) car
+1. Which of these is non-living? A) stone B) dog C) hen D) tree
+2. A chair is a ____ non-living thing. A) growing B) living C) man-made D) natural
+3. Which one is a natural non-living thing? A) car B) toy C) book D) water
 4. Fill in: A stone does not eat, grow or ____.
 5. Mention two man-made non-living things.
 6. Write one way water helps living things.
@@ -369,9 +379,9 @@ Look around my home and draw two non-living things I use every day.
 
 **Worksheet**
 
-1. Moving air is called A) rain B) sun C) wind D) cloud
-2. We cannot see air but we can A) buy it B) eat it C) feel it D) wear it
-3. Which of these uses air? A) sitting on a chair B) writing a letter C) reading a book D) flying a kite
+1. Moving air is called A) wind B) rain C) sun D) cloud
+2. We cannot see air but we can A) feel it B) eat it C) wear it D) buy it
+3. Which of these uses air? A) writing a letter B) flying a kite C) sitting on a chair D) reading a book
 4. Fill in: We use air for ____.
 5. Mention two ways you can feel air.
 6. Write one thing that dirty air can carry.
@@ -418,9 +428,9 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 
 **Worksheet**
 
-1. The top part of the ground where plants grow is A) water B) soil C) cloud D) air
-2. The soil that is best for plants is A) dry B) hard C) loamy D) rocky
-3. A pot for cooking can be made from A) glass B) air C) clay D) water
+1. The top part of the ground where plants grow is A) air B) cloud C) water D) soil
+2. The soil that is best for plants is A) hard B) loamy C) rocky D) dry
+3. A pot for cooking can be made from A) clay B) air C) water D) glass
 4. Fill in: Soil can be black, brown, red or ____.
 5. Mention two places we find soil.
 6. Write one way we care for the soil.
@@ -429,6 +439,398 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 **My own work**
 
 Touch the soil in a pot or garden at home and draw what the plant in it looks like.
+
+
+---
+
+# Christian Religious Studies (CRS)
+
+Weeks 1 to 6, 8 and 9. Week 7 is Mid-Term Break, and weeks 10, 11 and 12 are Revision, Examination and
+Closing: no lesson is written for a week the school keeps for those.
+*Depth: NERDC 2025 · Christian Religious Studies · Primary 1 · First Term.*
+
+
+### WEEK 1 — JESUS CALMS THE STORM
+
+*Depth: NERDC Primary 1 · CRS · First Term W1 (Mark 4:35–41).*
+
+**You will learn to**
+
+• tell the story of Jesus calming the storm
+• say what the disciples did when they were afraid
+• say what Jesus said to the wind and the sea
+• know that Jesus has power over nature
+
+**Things to know**
+
+• Jesus and his disciples were in a **boat** on the sea when a big storm came.
+• The disciples were **afraid** because the boat was filling with water.
+• Jesus was **sleeping** in the boat, and the disciples woke him.
+• Jesus said to the wind and the sea, "**Peace, be still**," and the storm stopped.
+• The disciples were amazed because even the wind and the sea obeyed Jesus.
+
+**Let us talk**
+
+1. What was Jesus doing when the storm came?
+2. What did Jesus say to the wind and the sea?
+3. How did the disciples feel at first?
+
+**Words for my notebook**
+
+• storm — strong wind and big waves
+• afraid — feeling fear
+• peace — calm and quiet
+• obey — to do what one is told
+
+**Worksheet**
+
+1. Jesus and his disciples were in a ____ when the storm came. A) boat B) car C) tree D) house
+2. When the storm came, Jesus was ____ in the boat. A) eating B) walking C) sleeping D) singing
+3. Jesus said to the wind and the sea, "Peace, be ____." A) fast B) strong C) loud D) still
+4. Fill in: The disciples were ____ when the storm came.
+5. Mention two things Jesus calmed.
+6. Write what the disciples did when they were afraid.
+7. Draw a boat on the sea with Jesus and the disciples.
+
+**My own work**
+
+Draw the boat and the big waves, then draw the sea when it became calm.
+
+---
+
+### WEEK 2 — JESUS WALKS ON WATER
+
+*Depth: NERDC Primary 1 · CRS · First Term W2 (Matthew 14:22–33).*
+
+**You will learn to**
+
+• tell the story of Jesus walking on water
+• say why the disciples were frightened
+• say what happened to Peter
+• know that Jesus tells us not to be afraid
+
+**Things to know**
+
+• The disciples were in a boat at **night** and Jesus was on land praying.
+• Jesus **walked on the water** toward the boat, and the disciples thought it was a ghost.
+• Jesus said, "**It is I. Do not be afraid.**"
+• **Peter** walked on the water too, but when he felt the strong wind he was afraid and began to sink.
+• Jesus caught Peter and said, "You of little faith, why did you doubt?"
+
+**Let us talk**
+
+1. When did this story happen?
+2. Who walked on the water after Jesus?
+3. Why did Peter begin to sink?
+
+**Words for my notebook**
+
+• water — the sea they crossed
+• ghost — what the disciples thought they saw
+• doubt — to not believe
+• faith — believing and trusting
+
+**Worksheet**
+
+1. The disciples were in the boat at ____ . A) dawn B) morning C) noon D) night
+2. The disciple who walked on the water after Jesus was A) Peter B) Judas C) James D) John
+3. Peter began to sink when he felt the strong ____ . A) sand B) wind C) rain D) sun
+4. Fill in: Jesus said, "It is I. Do not be ____."
+5. Mention two people who walked on the water.
+6. Write why the disciples were frightened at first.
+7. Draw Jesus walking on the water toward the boat.
+
+**My own work**
+
+Draw the boat at night and Jesus walking on the water.
+
+---
+
+### WEEK 3 — JESUS FEEDS FIVE THOUSAND
+
+*Depth: NERDC Primary 1 · CRS · First Term W3 (John 6:1–14).*
+
+**You will learn to**
+
+• tell the story of Jesus feeding five thousand people
+• say what the boy had
+• say what Jesus did before sharing the food
+• know that Jesus cares for our needs
+
+**Things to know**
+
+• Many people followed Jesus to hear him teach, and they became **hungry**.
+• A **boy** had **five loaves** of bread and **two fish**.
+• Jesus took the food, **gave thanks to God**, and shared it through the disciples.
+• Everyone ate and was full, and there were **twelve baskets** of food left over.
+• Jesus shows that God cares for what we need.
+
+**Let us talk**
+
+1. What did the boy have?
+2. What did Jesus do before sharing the food?
+3. How many baskets were left over?
+
+**Words for my notebook**
+
+• loaves — pieces of bread
+• hungry — needing food
+• thanks — saying gratitude to God
+• baskets — what held the leftover food
+
+**Worksheet**
+
+1. The boy had five loaves and two ____ . A) oranges B) yams C) fish D) eggs
+2. Before sharing, Jesus ____ to God. A) ran away B) slept C) sang D) gave thanks
+3. The leftover food filled ____ baskets. A) two B) three C) twelve D) five
+4. Fill in: The people followed Jesus and became ____.
+5. Mention the two foods the boy had.
+6. Write what Jesus did with the food.
+7. Draw the boy with his five loaves and two fish.
+
+**My own work**
+
+Draw the five loaves and the two fish the boy shared.
+
+---
+
+### WEEK 4 — JESUS HEALS THE SICK
+
+*Depth: NERDC Primary 1 · CRS · First Term W4 (Matthew 8:1–4).*
+
+**You will learn to**
+
+• tell the story of Jesus healing the man with leprosy
+• say what the man said to Jesus
+• say what Jesus did
+• know that Jesus has power over disease
+
+**Things to know**
+
+• A man with **leprosy**, a bad skin disease, came to Jesus.
+• The man said, "Lord, if you are willing, you can make me **clean**."
+• Jesus **touched** him and said, "I am willing. Be clean!"
+• The man was **healed** at once, and his skin became well.
+• Jesus has power over sickness and he cares for the sick.
+
+**Let us talk**
+
+1. What disease did the man have?
+2. What did Jesus say to the man?
+3. How did the man feel after he was healed?
+
+**Words for my notebook**
+
+• leprosy — a bad skin disease
+• clean — made well and pure
+• touched — put a hand on
+• healed — made well
+
+**Worksheet**
+
+1. The man who came to Jesus had ____ . A) a drum B) a chair C) leprosy D) a hat
+2. Jesus ____ the man and said, "Be clean." A) pushed B) touched C) left D) mocked
+3. After Jesus spoke, the man was ____ . A) asleep B) healed C) angry D) sicker
+4. Fill in: The man said, "Lord, if you are willing, you can make me ____."
+5. Mention two things Jesus has power over, from our lessons.
+6. Write what the man said to Jesus.
+7. Draw Jesus touching the man and making him well.
+
+**My own work**
+
+Draw the man kneeling before Jesus and then standing up well.
+
+---
+
+### WEEK 5 — THE PARALYZED MAN AND HIS FRIENDS
+
+*Depth: NERDC Primary 1 · CRS · First Term W5 (Mark 2:1–12).*
+
+**You will learn to**
+
+• tell the story of the paralyzed man and his four friends
+• say how the friends brought the man to Jesus
+• say what Jesus told the man
+• know that good friends help one another
+
+**Things to know**
+
+• A **paralyzed** man could not walk, and four friends carried him to Jesus.
+• The house was too **crowded**, so the friends made a hole in the **roof** and lowered their friend down.
+• Jesus saw their faith and said, "Get up, take your mat and **walk**."
+• The man stood up and walked, and everyone was amazed.
+• Good friends help one another in hard times.
+
+**Let us talk**
+
+1. How many friends carried the man?
+2. How did they bring him into the house?
+3. What did Jesus tell the man to do?
+
+**Words for my notebook**
+
+• paralyzed — not able to walk
+• crowded — full of people
+• roof — the top of the house
+• mat — what the man lay on
+
+**Worksheet**
+
+1. The man who could not walk was ____ . A) singing B) dancing C) paralyzed D) running
+2. The friends lowered the man through the ____ . A) window B) roof C) floor D) door
+3. Jesus told the man to get up, take his mat and ____ . A) swim B) sleep C) walk D) hide
+4. Fill in: The house was too ____, so they opened the roof.
+5. Mention two things the friends did for the man.
+6. Write what Jesus said to the man.
+7. Draw the four friends lowering the man through the roof.
+
+**My own work**
+
+Draw the man picking up his mat and walking home.
+
+---
+
+### WEEK 6 — JESUS RAISES JAIRUS' DAUGHTER
+
+*Depth: NERDC Primary 1 · CRS · First Term W6 (Mark 5:21–43).*
+
+**You will learn to**
+
+• tell the story of Jairus and his daughter
+• say what Jesus told Jairus not to lose
+• say what Jesus did for the girl
+• know that Jesus has power over death
+
+**Things to know**
+
+• **Jairus** was a synagogue leader whose daughter was very **sick**.
+• While Jesus was going to her, news came that the girl had **died**.
+• Jesus told Jairus, "Do not be afraid; only **believe**."
+• Jesus took the girl's hand and said, "Little girl, get up," and she **rose**.
+• Jesus has power even over death.
+
+**Let us talk**
+
+1. Who was Jairus?
+2. What did Jesus tell Jairus to keep?
+3. What happened when Jesus took the girl's hand?
+
+**Words for my notebook**
+
+• Jairus — the girl's father
+• believe — to have faith
+• died — stopped living
+• rose — got up again
+
+**Worksheet**
+
+1. Jairus' daughter was very ____ . A) tall B) sick C) happy D) fast
+2. Jesus told Jairus, "Do not be afraid; only ____." A) shout B) believe C) sleep D) run
+3. When Jesus took the girl's hand, she ____ . A) rose B) cried C) fell D) left
+4. Fill in: Jairus was a ____ leader.
+5. Mention two things Jesus told Jairus.
+6. Write what Jesus said to the little girl.
+7. Draw Jesus holding the little girl's hand.
+
+**My own work**
+
+Draw Jairus and his daughter standing together, glad and well.
+
+---
+
+### WEEK 8 — JESUS RAISES LAZARUS
+
+*Depth: NERDC Primary 1 · CRS · First Term W8 (John 11:1–44).*
+
+**You will learn to**
+
+• tell the story of Lazarus
+• say how long Lazarus had been in the tomb
+• say what Jesus said about himself
+• know that Jesus is the resurrection and the life
+
+**Things to know**
+
+• **Lazarus** was a friend of Jesus, and he became very sick and **died**.
+• He was buried in a **tomb** for **four days**.
+• Jesus said, "I am the **resurrection** and the life."
+• Jesus called, "Lazarus, come out!" and Lazarus **came out alive**.
+• Jesus shows that death is not the end for those who believe.
+
+**Let us talk**
+
+1. Who was Lazarus to Jesus?
+2. How many days was Lazarus in the tomb?
+3. What did Jesus call out?
+
+**Words for my notebook**
+
+• Lazarus — Jesus' friend
+• tomb — the place he was buried
+• resurrection — rising from death
+• alive — living again
+
+**Worksheet**
+
+1. Lazarus was a ____ of Jesus. A) stranger B) soldier C) king D) friend
+2. Lazarus was in the tomb for ____ days. A) four B) seven C) two D) ten
+3. Jesus called, "Lazarus, come ____!" A) in B) down C) here D) out
+4. Fill in: Jesus said, "I am the resurrection and the ____."
+5. Mention two sisters of Lazarus.
+6. Write what Jesus said about himself.
+7. Draw the tomb with Lazarus coming out.
+
+**My own work**
+
+Draw Lazarus walking out of the tomb, alive.
+
+---
+
+### WEEK 9 — JESUS CLEANSES THE TEMPLE
+
+*Depth: NERDC Primary 1 · CRS · First Term W9 (Matthew 21:12–13).*
+
+**You will learn to**
+
+• tell the story of Jesus cleansing the temple
+• say what was wrong in the temple
+• say what Jesus called the temple
+• know that Jesus stands against wrong doing
+
+**Things to know**
+
+• People were **buying and selling** in God's temple and cheating others.
+• Jesus was **angry** at the wrong behaviour in God's house.
+• He drove the sellers out and said, "My house shall be called a house of **prayer**."
+• The temple is a place for praying and worshipping God, not for cheating.
+• Jesus stands against what is wrong.
+
+**Let us talk**
+
+1. What were people doing wrong in the temple?
+2. What did Jesus call his house?
+3. Why was Jesus angry?
+
+**Words for my notebook**
+
+• temple — God's house
+• prayer — talking to God
+• cheating — making gain by wrong
+• house of prayer — a place to worship
+
+**Worksheet**
+
+1. In the temple people were buying and ____ . A) selling B) dancing C) sleeping D) fishing
+2. Jesus said, "My house shall be called a house of ____." A) noise B) games C) prayer D) market
+3. Jesus drove out the people who were ____ . A) cheating B) praying C) resting D) singing
+4. Fill in: The temple is God's ____.
+5. Mention two things people should do in the temple.
+6. Write what Jesus said about his house.
+7. Draw the temple as a quiet house of prayer.
+
+**My own work**
+
+Draw a quiet house of prayer with people praying inside.
 
 
 ---
@@ -474,9 +876,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) paper D) plastic
-2. Which of these is NOT a digital device? A) broom B) camera C) smartphone D) tablet
-3. The computer that stays on a table is a A) tablet B) camera C) desktop D) watch
+1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) plastic D) paper
+2. Which of these is NOT a digital device? A) broom B) smartphone C) tablet D) camera
+3. The computer that stays on a table is a A) camera B) watch C) tablet D) desktop
 4. Fill in: A ____ opens like a book.
 5. Mention two digital devices you can carry about.
 6. Write one thing a camera does.
@@ -522,9 +924,9 @@ Draw one digital device I have seen and colour its screen grey.
 
 **Worksheet**
 
-1. The part that shows pictures and letters is the A) CPU B) mouse C) monitor D) keyboard
-2. We move the arrow on the screen with the A) speaker B) printer C) mouse D) monitor
-3. The brain of the computer is the A) mouse B) cable C) keyboard D) CPU
+1. The part that shows pictures and letters is the A) keyboard B) monitor C) CPU D) mouse
+2. We move the arrow on the screen with the A) monitor B) mouse C) speaker D) printer
+3. The brain of the computer is the A) cable B) CPU C) keyboard D) mouse
 4. Fill in: We press keys on the ____.
 5. Mention two parts we touch to give the computer information.
 6. Write what the monitor does.
@@ -570,9 +972,9 @@ Draw the four basic parts of a computer in my notebook.
 
 **Worksheet**
 
-1. We clean a screen with a A) soft, dry cloth B) rough stone C) wet mop D) sandy rag
-2. A tablet should be carried A) with two hands B) by its wire C) under a foot D) open in one finger
-3. Water on a device A) makes it faster B) charges it C) cleans it D) spoils it
+1. We clean a screen with a A) soft, dry cloth B) wet mop C) rough stone D) sandy rag
+2. A tablet should be carried A) with two hands B) by its wire C) open in one finger D) under a foot
+3. Water on a device A) charges it B) cleans it C) spoils it D) makes it faster
 4. Fill in: In the lab we do not eat or ____.
 5. Mention two ways we care for a device.
 6. Write one rule of the computer lab.
@@ -617,9 +1019,9 @@ Draw myself cleaning a screen with a soft, dry cloth.
 
 **Worksheet**
 
-1. The first tool people used to count is the A) telephone B) fan C) abacus D) radio
-2. Over time computers became smaller, cheaper and A) faster B) heavier C) louder D) slower
-3. The beads that slide on wires are on an A) egg B) orange C) abacus D) umbrella
+1. The first tool people used to count is the A) fan B) radio C) telephone D) abacus
+2. Over time computers became smaller, cheaper and A) faster B) heavier C) slower D) louder
+3. The beads that slide on wires are on an A) umbrella B) abacus C) egg D) orange
 4. Fill in: A machine that can learn is called artificial ____.
 5. Mention two things computers became over time.
 6. Write what the abacus was used for.
@@ -664,9 +1066,9 @@ Draw an abacus and a modern phone side by side.
 
 **Worksheet**
 
-1. The father of the computer is A) Ada Lovelace B) Thomas Edison C) Charles Babbage D) Isaac Newton
-2. The first programmer in the world was A) Queen Amina B) Ada Lovelace C) Flora Shaw D) Mary Kingsley
-3. Babbage's machine plan was called the A) Steam Boat B) Printing Press C) Flying Loom D) Analytical Engine
+1. The father of the computer is A) Thomas Edison B) Isaac Newton C) Ada Lovelace D) Charles Babbage
+2. The first programmer in the world was A) Flora Shaw B) Queen Amina C) Mary Kingsley D) Ada Lovelace
+3. Babbage's machine plan was called the A) Printing Press B) Flying Loom C) Analytical Engine D) Steam Boat
 4. Fill in: Ada wrote the first ____ for the machine.
 5. Mention the two great inventors of the computer.
 6. Write one sentence on why an idea is valuable.
@@ -711,9 +1113,9 @@ Draw Charles Babbage's thinking machine with wheels and gears.
 
 **Worksheet**
 
-1. The parts of a computer we can touch are the A) software B) songs C) ideas D) hardware
-2. A drawing app is A) hardware B) a cable C) a chair D) software
-3. Which of these is hardware? A) story B) mouse C) game D) song
+1. The parts of a computer we can touch are the A) songs B) hardware C) ideas D) software
+2. A drawing app is A) a cable B) a chair C) software D) hardware
+3. Which of these is hardware? A) song B) story C) mouse D) game
 4. Fill in: We cannot ____ software.
 5. Mention two hardware parts.
 6. Write one example of software.
@@ -759,9 +1161,9 @@ Draw two things I can touch (hardware) and write the name of one app.
 
 **Worksheet**
 
-1. A device that puts information into the computer is an ____ device. A) print B) sound C) input D) output
-2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) MONDAY D) FRIDAY
-3. Moving an icon and letting go is A) save B) scan C) drag and drop D) print
+1. A device that puts information into the computer is an ____ device. A) input B) output C) print D) sound
+2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) FRIDAY D) MONDAY
+3. Moving an icon and letting go is A) print B) scan C) save D) drag and drop
 4. Fill in: The key that moves us to the next line is ____.
 5. Mention two input devices.
 6. Write one way we care for the keyboard.
@@ -807,9 +1209,9 @@ Draw a keyboard and circle the Enter key.
 
 **Worksheet**
 
-1. The device that puts our work on paper is the A) keyboard B) mouse C) printer D) microphone
-2. We hear sound from the computer through A) cable B) speakers C) printer D) mouse
-3. A microphone takes our ____ into the computer. A) hair B) voice C) food D) shoes
+1. The device that puts our work on paper is the A) microphone B) printer C) keyboard D) mouse
+2. We hear sound from the computer through A) mouse B) cable C) speakers D) printer
+3. A microphone takes our ____ into the computer. A) voice B) hair C) shoes D) food
 4. Fill in: The monitor is an ____ device.
 5. Mention two output devices.
 6. Write what a microphone does.
@@ -1004,6 +1406,192 @@ Answer in full sentences.
 43. Tell the difference between living and non-living things. (2 marks)
 44. What is wind and one use of air? (2 marks)
 45. Name the three types of soil. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Jesus and his disciples were in a ___ when the storm came
+   A) tree
+   B) car
+   C) boat
+   D) house
+2. When the storm came, Jesus was ___ in the boat
+   A) sleeping
+   B) eating
+   C) singing
+   D) walking
+3. Jesus said to the wind and the sea, "Peace, be ___"
+   A) loud
+   B) still
+   C) strong
+   D) fast
+4. The disciples were ___ when the storm came
+   A) glad
+   B) sleepy
+   C) bored
+   D) afraid
+5. The story of Jesus walking on water happened at ___
+   A) night
+   B) noon
+   C) morning
+   D) dawn
+6. The disciple who walked on the water after Jesus was ___
+   A) John
+   B) James
+   C) Peter
+   D) Judas
+7. Peter began to sink when he felt the strong ___
+   A) rain
+   B) sun
+   C) sand
+   D) wind
+8. Jesus told Peter, "You of little faith, why did you ___?"
+   A) doubt
+   B) shout
+   C) run
+   D) sleep
+9. The boy who shared his food had five loaves and two ___
+   A) oranges
+   B) yams
+   C) fish
+   D) eggs
+10. Before sharing the food, Jesus ___ to God
+   A) sang
+   B) gave thanks
+   C) ran away
+   D) slept
+11. The leftover food filled ___ baskets
+   A) twelve
+   B) five
+   C) two
+   D) three
+12. About ___ people were fed by Jesus
+   A) ten
+   B) fifty
+   C) five thousand
+   D) a hundred
+13. The man who came to Jesus in week 4 had ___
+   A) a hat
+   B) leprosy
+   C) a chair
+   D) a drum
+14. Jesus ___ the man with leprosy and said, "Be clean"
+   A) left
+   B) pushed
+   C) mocked
+   D) touched
+15. The man with leprosy was ___ at once
+   A) healed
+   B) asleep
+   C) sicker
+   D) angry
+16. The man who could not walk was ___
+   A) dancing
+   B) paralyzed
+   C) singing
+   D) running
+17. The friends lowered the man through the ___
+   A) floor
+   B) door
+   C) roof
+   D) window
+18. Jesus told the paralyzed man to get up, take his mat and ___
+   A) hide
+   B) sleep
+   C) swim
+   D) walk
+19. Jairus was a ___ leader whose daughter was sick
+   A) market
+   B) synagogue
+   C) school
+   D) farm
+20. Jesus told Jairus, "Do not be afraid; only ___"
+   A) believe
+   B) run
+   C) shout
+   D) sleep
+21. When Jesus took the girl's hand, she ___
+   A) fell
+   B) cried
+   C) left
+   D) rose
+22. Lazarus was a ___ of Jesus
+   A) soldier
+   B) king
+   C) friend
+   D) stranger
+23. Lazarus was in the tomb for ___ days
+   A) four
+   B) seven
+   C) ten
+   D) two
+24. Jesus called, "Lazarus, come ___!"
+   A) in
+   B) down
+   C) here
+   D) out
+25. Jesus said, "I am the resurrection and the ___"
+   A) light
+   B) life
+   C) door
+   D) way
+26. In the temple people were buying and ___
+   A) fishing
+   B) sleeping
+   C) selling
+   D) dancing
+27. Jesus said, "My house shall be called a house of ___"
+   A) prayer
+   B) market
+   C) games
+   D) noise
+28. Jesus was ___ at the wrong behaviour in the temple
+   A) happy
+   B) angry
+   C) sleepy
+   D) calm
+29. The temple is a place for praying and ___ God
+   A) mocking
+   B) cheating
+   C) worshipping
+   D) selling
+30. Jesus drove out the people who were ___ in the temple
+   A) praying
+   B) resting
+   C) singing
+   D) cheating
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two things Jesus calmed
+32. Name two people who walked on water
+33. Name the two foods the boy shared
+34. Name two things Jesus has power over
+35. Name two people Jesus healed or raised
+36. Name two people Jesus raised from the dead
+37. Name two things Jesus said to calm fear
+38. Name two sisters of Lazarus
+39. Name two things people do in the temple
+40. Name two good things friends do
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. Tell what Jesus said to the wind and the sea. (2 marks)
+42. Say what the boy had and what Jesus did with it. (2 marks)
+43. How did the four friends bring the paralyzed man to Jesus? (2 marks)
+44. What did Jesus say about himself to Martha and Mary? (2 marks)
+45. Why was Jesus angry in the temple? (2 marks)
 
 
 ---

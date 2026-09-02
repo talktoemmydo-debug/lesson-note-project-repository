@@ -771,3 +771,11 @@ hardware and software, keyboard and mouse, output devices and the microphone) pl
 (A=8 B=8 C=7 D=7, exploitable-longest 0). One stem needed a trailing `?` to pass `sheet_check`
 ("Which of these is NOT a digital device?"); worksheets shuffled (48 items moved) to an inferred spread with longest
 run 2. `gates.py --class "Primary 1" --term "1st Term"` ALL CLEAR with `[half]` book (2 of 11 subjects).
+
+## 2 Sep 2026 — Primary 1 · CRS authored and green (3 of 11)
+
+Eight Bible-story notes (calming the storm, walking on water, feeding the five thousand, healing the man with
+leprosy, the paralyzed man and his friends, Jairus' daughter, Lazarus, cleansing the temple) plus a 30/10/5 paper.
+Two sub-objectives first had a single answer (the gate needs two or more) and were re-cast as two-answer items;
+`sheets` then read all well formed, `make_exam --strict` PASS (A=8 B=7 C=8 D=7), worksheets shuffled (72 items) to a
+longest run of 2. `gates.py` ALL CLEAR with `[half]` (3 of 11 subjects).
