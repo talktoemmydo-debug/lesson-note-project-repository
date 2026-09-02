@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 98 lessons · 3 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 98 lessons · 4 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*3 subjects · 24 lessons · 3 term practice papers. Each part begins on a fresh page.*
+*4 subjects · 32 lessons · 4 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 2
   - [WEEK 1 — AIR IN MOTION](#week-1-air-in-motion) · 2
@@ -23,27 +23,37 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — ANIMALS](#week-6-animals) · 5
   - [WEEK 8 — FORMS OF TECHNOLOGY](#week-8-forms-of-technology) · 6
   - [WEEK 9 — FORMS OF TECHNOLOGY: LIGHT](#week-9-forms-of-technology-light) · 6
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 8
-  - [WEEK 1 — GOD SPEAKS TO US](#week-1-god-speaks-to-us) · 8
-  - [WEEK 2 — WE ARE CHILDREN OF ONE FATHER](#week-2-we-are-children-of-one-father) · 8
-  - [WEEK 3 — GOD CALLS US FOR A PURPOSE](#week-3-god-calls-us-for-a-purpose) · 9
-  - [WEEK 4 — GOD GIVES HIS LAW TO US](#week-4-god-gives-his-law-to-us) · 10
-  - [WEEK 5 — GOD REVEALS HIMSELF TO US (PART 1)](#week-5-god-reveals-himself-to-us-part-1) · 10
-  - [WEEK 6 — GOD REVEALS HIMSELF TO US (PART 2)](#week-6-god-reveals-himself-to-us-part-2) · 11
-  - [WEEK 8 — JESUS' POWER TO FORGIVE SINS](#week-8-jesus-power-to-forgive-sins) · 12
-  - [WEEK 9 — JESUS LOVES ALL PEOPLE](#week-9-jesus-loves-all-people) · 12
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 14
-  - [WEEK 1 — INTERFACE CUSTOMIZATION](#week-1-interface-customization) · 14
-  - [WEEK 2 — FILE MANAGEMENT I](#week-2-file-management-i) · 14
-  - [WEEK 3 — FILE MANAGEMENT II](#week-3-file-management-ii) · 15
-  - [WEEK 4 — DIGITAL CONTENT CREATION I](#week-4-digital-content-creation-i) · 16
-  - [WEEK 5 — DIGITAL CONTENT CREATION II](#week-5-digital-content-creation-ii) · 16
-  - [WEEK 6 — SAFETY AND PROTECTION](#week-6-safety-and-protection) · 17
-  - [WEEK 8 — SAFE INTERNET USE I](#week-8-safe-internet-use-i) · 18
-  - [WEEK 9 — SAFE INTERNET USE II](#week-9-safe-internet-use-ii) · 18
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 20
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 22
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 24
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
+  - [WEEK 1 — CREATING DRAMA FROM STORIES](#week-1-creating-drama-from-stories) · 8
+  - [WEEK 2 — STAGING A DRAMA](#week-2-staging-a-drama) · 8
+  - [WEEK 3 — TRADITIONAL FABRICS AND THEIR ORIGINS](#week-3-traditional-fabrics-and-their-origins) · 9
+  - [WEEK 4 — TRADITIONAL DRESSES](#week-4-traditional-dresses) · 10
+  - [WEEK 5 — TRADITIONAL FASHION ACCESSORIES](#week-5-traditional-fashion-accessories) · 10
+  - [WEEK 6 — MAKING SIMPLE ACCESSORIES](#week-6-making-simple-accessories) · 11
+  - [WEEK 8 — MAKING SIMPLE ACCESSORIES (CONTINUED)](#week-8-making-simple-accessories-continued) · 12
+  - [WEEK 9 — CULTURAL DAY PREPARATION](#week-9-cultural-day-preparation) · 12
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
+  - [WEEK 1 — GOD SPEAKS TO US](#week-1-god-speaks-to-us) · 14
+  - [WEEK 2 — WE ARE CHILDREN OF ONE FATHER](#week-2-we-are-children-of-one-father) · 14
+  - [WEEK 3 — GOD CALLS US FOR A PURPOSE](#week-3-god-calls-us-for-a-purpose) · 15
+  - [WEEK 4 — GOD GIVES HIS LAW TO US](#week-4-god-gives-his-law-to-us) · 16
+  - [WEEK 5 — GOD REVEALS HIMSELF TO US (PART 1)](#week-5-god-reveals-himself-to-us-part-1) · 16
+  - [WEEK 6 — GOD REVEALS HIMSELF TO US (PART 2)](#week-6-god-reveals-himself-to-us-part-2) · 17
+  - [WEEK 8 — JESUS' POWER TO FORGIVE SINS](#week-8-jesus-power-to-forgive-sins) · 18
+  - [WEEK 9 — JESUS LOVES ALL PEOPLE](#week-9-jesus-loves-all-people) · 18
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
+  - [WEEK 1 — INTERFACE CUSTOMIZATION](#week-1-interface-customization) · 20
+  - [WEEK 2 — FILE MANAGEMENT I](#week-2-file-management-i) · 20
+  - [WEEK 3 — FILE MANAGEMENT II](#week-3-file-management-ii) · 21
+  - [WEEK 4 — DIGITAL CONTENT CREATION I](#week-4-digital-content-creation-i) · 22
+  - [WEEK 5 — DIGITAL CONTENT CREATION II](#week-5-digital-content-creation-ii) · 22
+  - [WEEK 6 — SAFETY AND PROTECTION](#week-6-safety-and-protection) · 23
+  - [WEEK 8 — SAFE INTERNET USE I](#week-8-safe-internet-use-i) · 24
+  - [WEEK 9 — SAFE INTERNET USE II](#week-9-safe-internet-use-ii) · 24
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 26
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 28
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 30
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 32
 
 
 
@@ -649,6 +659,610 @@ written for them.
 **My own work**
 
 • Draw the sun and a lamp.
+
+
+---
+
+# Cultural and Creative Arts (CCA)
+
+These are the notes for the second term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Cultural and Creative Arts · Second Term W1-6, 8-9 (creating drama from stories; staging a drama; traditional fabrics and their origins; traditional dresses; traditional fashion accessories; making simple accessories; cultural day preparation).*
+
+
+### WEEK 1 — CREATING DRAMA FROM STORIES
+
+**You will learn to**
+
+• make a drama from a story
+
+• choose a story
+
+• plan the drama
+
+**Things to know**
+
+• We can make a **drama** from a story.
+
+• A **drama** is a story we act out.
+
+• We choose a story we **like**.
+
+• The story can be from the **Bible** or our **culture**.
+
+• We find the **characters** in the story.
+
+• Each person plays a **role**.
+
+• We plan what each person will **say** and **do**.
+
+• We practise the drama.
+
+• Drama helps us understand the story.
+
+• Making drama is fun and useful.
+
+**Let us talk**
+
+1. What is a drama?
+
+2. Where can the story come from?
+
+3. What do we find in the story?
+
+**Words for my notebook**
+
+• drama — a story we act out
+
+• character — a person in a story
+
+• role — the part we play
+
+**Worksheet**
+
+1. A story we act out is a ___.
+   A) drama B) song C) stone D) dream
+
+2. We choose a story we ___.
+   A) like B) hate C) lose D) break
+
+3. Each person plays a ___.
+   A) role B) stone C) tree D) cloud
+
+4. We ___ the drama before we act.
+   A) practise B) forget C) break D) hide
+
+5. Fill in: A person in a story is a _____.
+
+6. Mention two things we do to make a drama.
+
+7. Write what a drama is.
+
+**My own work**
+
+• Draw a scene from a story you can act.
+
+---
+
+### WEEK 2 — STAGING A DRAMA
+
+**You will learn to**
+
+• act out a drama
+
+• use voice and body
+
+• enjoy the drama
+
+**Things to know**
+
+• **Staging** a drama means acting it out.
+
+• We use our **voice** to speak our lines.
+
+• We use our **body** to act.
+
+• We can wear **costumes** for the drama.
+
+• We speak **clearly** so others hear.
+
+• We act with **feeling**.
+
+• We work together as a **team**.
+
+• The people who watch are the **audience**.
+
+• We enjoy watching and acting.
+
+• Staging a drama is fun.
+
+**Let us talk**
+
+1. What does staging a drama mean?
+
+2. What do we use to act?
+
+3. Who watches the drama?
+
+**Words for my notebook**
+
+• staging — acting out a drama
+
+• costume — the clothes we wear in a play
+
+• audience — the people who watch
+
+**Worksheet**
+
+1. Acting out a drama is ___ it.
+   A) staging B) breaking C) hiding D) losing
+
+2. We use our ___ to speak our lines.
+   A) voice B) stone C) tree D) cloud
+
+3. We can wear ___ for the drama.
+   A) costumes B) stones C) trees D) clouds
+
+4. The people who watch are the ___.
+   A) audience B) stones C) trees D) clouds
+
+5. Fill in: The clothes we wear in a play are _____.
+
+6. Mention two things we use to act a drama.
+
+7. Write what staging a drama means.
+
+**My own work**
+
+• Draw a drama being staged.
+
+---
+
+### WEEK 3 — TRADITIONAL FABRICS AND THEIR ORIGINS
+
+**You will learn to**
+
+• name traditional fabrics
+
+• say where they come from
+
+• value our fabrics
+
+**Things to know**
+
+• **Fabrics** are cloths we use for dresses.
+
+• Nigeria has many **traditional fabrics**.
+
+• **Aso-oke** is a Yoruba woven cloth.
+
+• **Akwaete** is an Igbo woven cloth.
+
+• **A'ngbanya** is a Tiv woven cloth.
+
+• These fabrics are made by **skilled** weavers.
+
+• The fabrics come from different **tribes**.
+
+• We wear traditional fabrics on **special days**.
+
+• Traditional fabrics are part of our **culture**.
+
+• We value and keep our fabrics.
+
+**Let us talk**
+
+1. What is a fabric?
+
+2. Name one traditional fabric.
+
+3. Where do traditional fabrics come from?
+
+**Words for my notebook**
+
+• fabric — cloth we use for dresses
+
+• woven — made by crossing threads
+
+• traditional — from the old ways of our people
+
+**Worksheet**
+
+1. Cloth we use for dresses is ___.
+   A) fabric B) stone C) water D) fire
+
+2. Aso-oke is a ___ woven cloth.
+   A) Yoruba B) stone C) tree D) cloud
+
+3. Akwaete is an ___ woven cloth.
+   A) Igbo B) stone C) tree D) cloud
+
+4. Traditional fabrics are made by skilled ___.
+   A) weavers B) stones C) trees D) clouds
+
+5. Fill in: Made by crossing threads is _____.
+
+6. Mention two traditional fabrics.
+
+7. Write what a fabric is.
+
+**My own work**
+
+• Draw a traditional fabric pattern.
+
+---
+
+### WEEK 4 — TRADITIONAL DRESSES
+
+**You will learn to**
+
+• name traditional dresses
+
+• say when we wear them
+
+• respect our dress
+
+**Things to know**
+
+• **Traditional dress** is the clothing of our people.
+
+• Different tribes have different **dresses**.
+
+• The Yoruba wear **buba** and **sokoto** with a **gele**.
+
+• The Igbo wear **isiagu** or a wrapped **wrapper**.
+
+• The Hausa wear **babbar riga** and a **cap**.
+
+• We wear traditional dress on **special days**.
+
+• We wear it at **festivals** and **weddings**.
+
+• Traditional dress shows our **culture**.
+
+• We wear our dress with **pride**.
+
+• Traditional dress is beautiful.
+
+**Let us talk**
+
+1. What is traditional dress?
+
+2. Name one traditional dress.
+
+3. When do we wear traditional dress?
+
+**Words for my notebook**
+
+• traditional dress — the clothing of our people
+
+• gele — a head tie worn by Yoruba women
+
+• pride — feeling happy about something good
+
+**Worksheet**
+
+1. The clothing of our people is ___ dress.
+   A) traditional B) foreign C) torn D) dirty
+
+2. The Yoruba wear buba and sokoto with a ___.
+   A) gele B) stone C) tree D) cloud
+
+3. The Hausa wear babbar riga and a ___.
+   A) cap B) stone C) tree D) cloud
+
+4. We wear traditional dress on ___ days.
+   A) special B) ordinary C) sad D) rainy
+
+5. Fill in: A head tie worn by Yoruba women is a _____.
+
+6. Mention two traditional dresses.
+
+7. Write when we wear traditional dress.
+
+**My own work**
+
+• Draw someone in traditional dress.
+
+---
+
+### WEEK 5 — TRADITIONAL FASHION ACCESSORIES
+
+**You will learn to**
+
+• name traditional accessories
+
+• say how we use them
+
+• value our accessories
+
+**Things to know**
+
+• **Accessories** are things we add to our dress.
+
+• Traditional accessories make our dress **complete**.
+
+• **Beads** are worn on the neck and wrist.
+
+• A **cap** is worn on the head.
+
+• A **walking stick** is held by elders.
+
+• **Earrings** are worn on the ears.
+
+• A **wrapper** is tied around the body.
+
+• Accessories are part of our **culture**.
+
+• We wear accessories on special days.
+
+• Traditional accessories are beautiful.
+
+**Let us talk**
+
+1. What is an accessory?
+
+2. Name one traditional accessory.
+
+3. When do we wear accessories?
+
+**Words for my notebook**
+
+• accessory — a thing we add to our dress
+
+• beads — small objects worn on the body
+
+• complete — having all the parts
+
+**Worksheet**
+
+1. A thing we add to our dress is an ___.
+   A) accessory B) enemy C) error D) exit
+
+2. ___ are worn on the neck and wrist.
+   A) Beads B) Stones C) Trees D) Clouds
+
+3. A ___ is worn on the head.
+   A) cap B) stone C) tree D) cloud
+
+4. A walking stick is held by ___.
+   A) elders B) babies C) stones D) trees
+
+5. Fill in: Having all the parts is being _____.
+
+6. Mention two traditional accessories.
+
+7. Write what an accessory is.
+
+**My own work**
+
+• Draw a traditional accessory.
+
+---
+
+### WEEK 6 — MAKING SIMPLE ACCESSORIES
+
+**You will learn to**
+
+• make simple accessories
+
+• use simple materials
+
+• create with care
+
+**Things to know**
+
+• We can make **simple accessories**.
+
+• We can make a **necklace** from beads.
+
+• We can make a **bracelet** from beads or thread.
+
+• We can make a **cap** from cloth.
+
+• We use **beads**, **thread**, **cloth** and **paper**.
+
+• We **thread** the beads to make a necklace.
+
+• We **cut** and **sew** cloth to make a cap.
+
+• Making accessories is fun.
+
+• We can wear what we make.
+
+• We keep our materials well.
+
+**Let us talk**
+
+1. Name one accessory we can make.
+
+2. What materials do we use?
+
+3. How do we make a necklace?
+
+**Words for my notebook**
+
+• necklace — beads worn on the neck
+
+• thread — to pass a string through beads
+
+• create — to make something
+
+**Worksheet**
+
+1. We can make a ___ from beads.
+   A) necklace B) stone C) tree D) cloud
+
+2. We use beads, thread, cloth and ___.
+   A) paper B) stone C) water D) fire
+
+3. We ___ the beads to make a necklace.
+   A) thread B) burn C) break D) hide
+
+4. We ___ and sew cloth to make a cap.
+   A) cut B) burn C) break D) hide
+
+5. Fill in: To make something is to _____.
+
+6. Mention two accessories we can make.
+
+7. Write how we make a necklace.
+
+**My own work**
+
+• Draw a necklace you would make.
+
+---
+
+### WEEK 8 — MAKING SIMPLE ACCESSORIES (CONTINUED)
+
+**You will learn to**
+
+• make more accessories
+
+• decorate our work
+
+• share what we make
+
+**Things to know**
+
+• We can make more **accessories**.
+
+• We can make an **earring** from beads.
+
+• We can make a **head band** from cloth.
+
+• We can make a **bag** from woven strips.
+
+• We **decorate** our work with colours.
+
+• We use **colours** that match.
+
+• We make our work **neat**.
+
+• We can **share** what we make.
+
+• We can give our work as a **gift**.
+
+• Making accessories is a useful skill.
+
+**Let us talk**
+
+1. Name one more accessory we can make.
+
+2. How do we decorate our work?
+
+3. What do we do with what we make?
+
+**Words for my notebook**
+
+• decorate — to make something beautiful
+
+• neat — clean and tidy
+
+• gift — something we give
+
+**Worksheet**
+
+1. We can make an ___ from beads.
+   A) earring B) stone C) tree D) cloud
+
+2. We ___ our work with colours.
+   A) decorate B) break C) burn D) hide
+
+3. We make our work ___.
+   A) neat B) messy C) dirty D) torn
+
+4. We can give our work as a ___.
+   A) gift B) stone C) tree D) cloud
+
+5. Fill in: Clean and tidy is being _____.
+
+6. Mention two more accessories we can make.
+
+7. Write how we decorate our work.
+
+**My own work**
+
+• Draw a decorated accessory.
+
+---
+
+### WEEK 9 — CULTURAL DAY PREPARATION
+
+**You will learn to**
+
+• prepare for cultural day
+
+• plan what to show
+
+• enjoy our culture
+
+**Things to know**
+
+• **Cultural day** is a special day to show our culture.
+
+• We prepare for cultural day at school.
+
+• We plan what to **show**.
+
+• We can show our **dress**, **dance** and **food**.
+
+• We can act a **drama** or sing a **song**.
+
+• We wear our **traditional dress**.
+
+• We bring our **local food**.
+
+• We practise our **dance**.
+
+• Cultural day shows our **culture**.
+
+• We enjoy cultural day together.
+
+**Let us talk**
+
+1. What is cultural day?
+
+2. Name one thing we show on cultural day.
+
+3. How do we prepare for cultural day?
+
+**Words for my notebook**
+
+• cultural day — a special day to show our culture
+
+• prepare — to get ready
+
+• show — to let others see
+
+**Worksheet**
+
+1. A special day to show our culture is ___ day.
+   A) cultural B) rainy C) market D) school
+
+2. We can show our dress, dance and ___.
+   A) food B) stone C) tree D) cloud
+
+3. We wear our ___ dress on cultural day.
+   A) traditional B) torn C) dirty D) foreign
+
+4. We ___ our dance before the day.
+   A) practise B) forget C) break D) hide
+
+5. Fill in: To get ready is to _____.
+
+6. Mention two things we show on cultural day.
+
+7. Write what cultural day is.
+
+**My own work**
+
+• Draw a cultural day scene.
 
 
 ---
@@ -2043,6 +2657,192 @@ Answer in full sentences.
 43. Name the parts of a plant. (2 marks)
 44. Name two animals that live at home and two that live in water. (2 marks)
 45. What is technology? Name two simple technologies. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. A story we act out is a ___
+   A) drama
+   B) dream
+   C) song
+   D) stone
+2. We choose a story we ___
+   A) hate
+   B) break
+   C) like
+   D) lose
+3. Each person plays a ___
+   A) stone
+   B) cloud
+   C) tree
+   D) role
+4. We ___ the drama before we act
+   A) practise
+   B) forget
+   C) hide
+   D) break
+5. Acting out a drama is ___ it
+   A) breaking
+   B) staging
+   C) hiding
+   D) losing
+6. We use our ___ to speak our lines
+   A) tree
+   B) stone
+   C) voice
+   D) cloud
+7. We can wear ___ for the drama
+   A) costumes
+   B) clouds
+   C) trees
+   D) stones
+8. The people who watch are the ___
+   A) clouds
+   B) trees
+   C) stones
+   D) audience
+9. Cloth we use for dresses is ___
+   A) water
+   B) fabric
+   C) fire
+   D) stone
+10. Aso-oke is a ___ woven cloth
+   A) cloud
+   B) tree
+   C) Yoruba
+   D) stone
+11. Akwaete is an ___ woven cloth
+   A) Igbo
+   B) stone
+   C) cloud
+   D) tree
+12. Traditional fabrics are made by skilled ___
+   A) trees
+   B) weavers
+   C) clouds
+   D) stones
+13. The clothing of our people is ___ dress
+   A) torn
+   B) foreign
+   C) dirty
+   D) traditional
+14. The Yoruba wear buba and sokoto with a ___
+   A) cloud
+   B) tree
+   C) gele
+   D) stone
+15. The Hausa wear babbar riga and a ___
+   A) tree
+   B) cap
+   C) cloud
+   D) stone
+16. We wear traditional dress on ___ days
+   A) special
+   B) sad
+   C) rainy
+   D) ordinary
+17. A thing we add to our dress is an ___
+   A) exit
+   B) error
+   C) enemy
+   D) accessory
+18. ___ are worn on the neck and wrist
+   A) Clouds
+   B) Stones
+   C) Beads
+   D) Trees
+19. A ___ is worn on the head
+   A) cloud
+   B) cap
+   C) stone
+   D) tree
+20. A walking stick is held by ___
+   A) elders
+   B) trees
+   C) stones
+   D) babies
+21. We can make a ___ from beads
+   A) stone
+   B) cloud
+   C) tree
+   D) necklace
+22. We use beads, thread, cloth and ___
+   A) water
+   B) fire
+   C) paper
+   D) stone
+23. We ___ the beads to make a necklace
+   A) thread
+   B) break
+   C) burn
+   D) hide
+24. We ___ and sew cloth to make a cap
+   A) hide
+   B) cut
+   C) break
+   D) burn
+25. We can make an ___ from beads
+   A) stone
+   B) cloud
+   C) earring
+   D) tree
+26. We ___ our work with colours
+   A) burn
+   B) break
+   C) hide
+   D) decorate
+27. We make our work ___
+   A) neat
+   B) torn
+   C) messy
+   D) dirty
+28. A special day to show our culture is ___ day
+   A) market
+   B) cultural
+   C) rainy
+   D) school
+29. We can show our dress, dance and ___
+   A) tree
+   B) stone
+   C) cloud
+   D) food
+30. We wear our ___ dress on cultural day
+   A) dirty
+   B) foreign
+   C) traditional
+   D) torn
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two things we do to make a drama
+32. Name two things we use to act a drama
+33. Name two traditional fabrics
+34. Name two traditional dresses
+35. Name two traditional accessories
+36. Name two accessories we can make
+37. Name two materials we use for accessories
+38. Name two things we show on cultural day
+39. Name two ways we decorate our work
+40. Name two things we do to prepare for cultural day
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is a drama? Name two things we do to make one. (2 marks)
+42. What is a fabric? Name two traditional fabrics. (2 marks)
+43. What is traditional dress? Name one. (2 marks)
+44. What is an accessory? Name two. (2 marks)
+45. What is cultural day? Name two things we show. (2 marks)
 
 
 ---
