@@ -1,0 +1,390 @@
+{
+ "subject": "Social and Citizenship Studies",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "A group of people related to one another is a ___",
+   "answer": "family",
+   "distractors": [
+    "stone",
+    "river",
+    "tree"
+   ]
+  },
+  {
+   "stem": "The ___ group we belong to is the family",
+   "answer": "first",
+   "distractors": [
+    "last",
+    "biggest",
+    "smallest"
+   ]
+  },
+  {
+   "stem": "Our brothers and sisters are ___ members",
+   "answer": "family",
+   "distractors": [
+    "school",
+    "market",
+    "farm"
+   ]
+  },
+  {
+   "stem": "The family ___ for us and teaches us",
+   "answer": "cares",
+   "distractors": [
+    "fights",
+    "sleeps",
+    "runs"
+   ]
+  },
+  {
+   "stem": "A group of people living in one place is a ___",
+   "answer": "community",
+   "distractors": [
+    "stone",
+    "river",
+    "tree"
+   ]
+  },
+  {
+   "stem": "People in our community have different ___",
+   "answer": "works",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We have farmers, traders, teachers and ___",
+   "answer": "doctors",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We keep our community clean and ___",
+   "answer": "safe",
+   "distractors": [
+    "dirty",
+    "dark",
+    "loud"
+   ]
+  },
+  {
+   "stem": "What we must do or not do is a ___",
+   "answer": "rule",
+   "distractors": [
+    "stone",
+    "song",
+    "dream"
+   ]
+  },
+  {
+   "stem": "Rules help us live ___ together",
+   "answer": "well",
+   "distractors": [
+    "badly",
+    "rudely",
+    "noisily"
+   ]
+  },
+  {
+   "stem": "At school we ___ our teachers",
+   "answer": "obey",
+   "distractors": [
+    "fight",
+    "ignore",
+    "shout at"
+   ]
+  },
+  {
+   "stem": "Rules keep order and ___",
+   "answer": "peace",
+   "distractors": [
+    "war",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "Something we are free to have or do is a ___",
+   "answer": "right",
+   "distractors": [
+    "stone",
+    "noise",
+    "dream"
+   ]
+  },
+  {
+   "stem": "We have the right to ___ and go to school",
+   "answer": "learn",
+   "distractors": [
+    "fight",
+    "steal",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "Something we must do is a ___",
+   "answer": "duty",
+   "distractors": [
+    "game",
+    "song",
+    "lie"
+   ]
+  },
+  {
+   "stem": "It is our duty to ___ rules at school",
+   "answer": "obey",
+   "distractors": [
+    "break",
+    "hide",
+    "burn"
+   ]
+  },
+  {
+   "stem": "Showing honour to others is ___",
+   "answer": "respect",
+   "distractors": [
+    "anger",
+    "noise",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "Honesty means telling the ___",
+   "answer": "truth",
+   "distractors": [
+    "lie",
+    "story",
+    "joke"
+   ]
+  },
+  {
+   "stem": "An honest person does not steal or ___",
+   "answer": "lie",
+   "distractors": [
+    "sing",
+    "run",
+    "jump"
+   ]
+  },
+  {
+   "stem": "Honest people are ___",
+   "answer": "trusted",
+   "distractors": [
+    "feared",
+    "hated",
+    "ignored"
+   ]
+  },
+  {
+   "stem": "Living without fighting is ___",
+   "answer": "peace",
+   "distractors": [
+    "war",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "We ___ our things with others",
+   "answer": "share",
+   "distractors": [
+    "hide",
+    "break",
+    "burn"
+   ]
+  },
+  {
+   "stem": "When we quarrel, we say ___ and make peace",
+   "answer": "sorry",
+   "distractors": [
+    "nothing",
+    "bad words",
+    "lies"
+   ]
+  },
+  {
+   "stem": "We use ___ words, not angry words",
+   "answer": "kind",
+   "distractors": [
+    "rude",
+    "harsh",
+    "loud"
+   ]
+  },
+  {
+   "stem": "The way of life of a people is ___",
+   "answer": "culture",
+   "distractors": [
+    "noise",
+    "sleep",
+    "rain"
+   ]
+  },
+  {
+   "stem": "Our culture includes language, food, dress and ___",
+   "answer": "dance",
+   "distractors": [
+    "anger",
+    "dust",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We greet our ___ in our own way",
+   "answer": "elders",
+   "distractors": [
+    "babies",
+    "stones",
+    "rivers"
+   ]
+  },
+  {
+   "stem": "We eat our ___ food like rice and yam",
+   "answer": "local",
+   "distractors": [
+    "foreign",
+    "bad",
+    "dirty"
+   ]
+  },
+  {
+   "stem": "The people and place we live with are our ___",
+   "answer": "community",
+   "distractors": [
+    "body",
+    "dream",
+    "song"
+   ]
+  },
+  {
+   "stem": "A person who loves and helps their country is a good ___",
+   "answer": "citizen",
+   "distractors": [
+    "stranger",
+    "thief",
+    "baby"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two members of a family ",
+   "points": [
+    "father",
+    "mother",
+    "brother",
+    "sister",
+    "grandparents"
+   ]
+  },
+  {
+   "stem": "Name two people in our community ",
+   "points": [
+    "farmers",
+    "traders",
+    "teachers",
+    "doctors"
+   ]
+  },
+  {
+   "stem": "Name two rules at school ",
+   "points": [
+    "obey teachers",
+    "do not fight",
+    "keep the place clean"
+   ]
+  },
+  {
+   "stem": "Name two rights we have ",
+   "points": [
+    "right to life",
+    "right to learn",
+    "right to food",
+    "right to care"
+   ]
+  },
+  {
+   "stem": "Name two duties we have ",
+   "points": [
+    "obey rules",
+    "respect elders",
+    "care for our things"
+   ]
+  },
+  {
+   "stem": "Name two ways to show respect ",
+   "points": [
+    "greet elders",
+    "use kind words"
+   ]
+  },
+  {
+   "stem": "Name two ways to live in peace ",
+   "points": [
+    "share",
+    "help one another",
+    "say sorry"
+   ]
+  },
+  {
+   "stem": "Name two parts of our culture ",
+   "points": [
+    "language",
+    "food",
+    "dress",
+    "dance"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for our community ",
+   "points": [
+    "keep it clean",
+    "plant trees",
+    "obey the rules"
+   ]
+  },
+  {
+   "stem": "Name two things a good citizen does ",
+   "points": [
+    "obeys the law",
+    "respects others",
+    "keeps the environment clean"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a family? Name two members.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a community? Name two people in it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What are rules? Name two rules at school.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two rights we have and two duties we have.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who is a good citizen? Name one thing a good citizen does.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
