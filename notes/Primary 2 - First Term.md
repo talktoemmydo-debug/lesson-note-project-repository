@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 3 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 4 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*3 subjects · 24 lessons · 3 term practice papers. Each part begins on a fresh page.*
+*4 subjects · 32 lessons · 4 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 2
   - [WEEK 1 — LIVING AND NON-LIVING THINGS](#week-1-living-and-non-living-things) · 2
@@ -23,27 +23,37 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — HEALTH AND CLEANLINESS](#week-6-health-and-cleanliness) · 5
   - [WEEK 8 — AIR AND WATER](#week-8-air-and-water) · 6
   - [WEEK 9 — WEATHER AND SEASONS](#week-9-weather-and-seasons) · 6
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 8
-  - [WEEK 1 — GOD THE CREATOR](#week-1-god-the-creator) · 8
-  - [WEEK 2 — GOD'S LOVE FOR US](#week-2-gods-love-for-us) · 8
-  - [WEEK 3 — THE BIBLE, GOD'S WORD](#week-3-the-bible-gods-word) · 9
-  - [WEEK 4 — PRAYER](#week-4-prayer) · 10
-  - [WEEK 5 — ADAM AND EVE](#week-5-adam-and-eve) · 10
-  - [WEEK 6 — NOAH'S ARK](#week-6-noahs-ark) · 11
-  - [WEEK 8 — ABRAHAM, THE FATHER OF FAITH](#week-8-abraham-the-father-of-faith) · 12
-  - [WEEK 9 — JOSEPH AND GOD'S CARE](#week-9-joseph-and-gods-care) · 12
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 14
-  - [WEEK 1 — THE COMPUTER](#week-1-the-computer) · 14
-  - [WEEK 2 — COMPUTER HARDWARE](#week-2-computer-hardware) · 14
-  - [WEEK 3 — COMPUTER SOFTWARE](#week-3-computer-software) · 15
-  - [WEEK 4 — USES OF COMPUTERS](#week-4-uses-of-computers) · 16
-  - [WEEK 5 — THE COMPUTER ROOM](#week-5-the-computer-room) · 16
-  - [WEEK 7 — THE KEYBOARD](#week-7-the-keyboard) · 17
-  - [WEEK 8 — THE MOUSE](#week-8-the-mouse) · 18
-  - [WEEK 9 — CARE OF THE COMPUTER](#week-9-care-of-the-computer) · 18
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 20
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 22
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 24
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
+  - [WEEK 1 — ART: DRAWING AND PAINTING](#week-1-art-drawing-and-painting) · 8
+  - [WEEK 2 — COLOURS](#week-2-colours) · 8
+  - [WEEK 3 — CRAFT AND MODELLING](#week-3-craft-and-modelling) · 9
+  - [WEEK 4 — MUSIC AND SINGING](#week-4-music-and-singing) · 10
+  - [WEEK 5 — DANCE](#week-5-dance) · 10
+  - [WEEK 6 — DRAMA AND ROLE PLAY](#week-6-drama-and-role-play) · 11
+  - [WEEK 8 — LOCAL CRAFTS](#week-8-local-crafts) · 12
+  - [WEEK 9 — OUR CULTURE](#week-9-our-culture) · 12
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
+  - [WEEK 1 — GOD THE CREATOR](#week-1-god-the-creator) · 14
+  - [WEEK 2 — GOD'S LOVE FOR US](#week-2-gods-love-for-us) · 14
+  - [WEEK 3 — THE BIBLE, GOD'S WORD](#week-3-the-bible-gods-word) · 15
+  - [WEEK 4 — PRAYER](#week-4-prayer) · 16
+  - [WEEK 5 — ADAM AND EVE](#week-5-adam-and-eve) · 16
+  - [WEEK 6 — NOAH'S ARK](#week-6-noahs-ark) · 17
+  - [WEEK 8 — ABRAHAM, THE FATHER OF FAITH](#week-8-abraham-the-father-of-faith) · 18
+  - [WEEK 9 — JOSEPH AND GOD'S CARE](#week-9-joseph-and-gods-care) · 18
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
+  - [WEEK 1 — THE COMPUTER](#week-1-the-computer) · 20
+  - [WEEK 2 — COMPUTER HARDWARE](#week-2-computer-hardware) · 20
+  - [WEEK 3 — COMPUTER SOFTWARE](#week-3-computer-software) · 21
+  - [WEEK 4 — USES OF COMPUTERS](#week-4-uses-of-computers) · 22
+  - [WEEK 5 — THE COMPUTER ROOM](#week-5-the-computer-room) · 22
+  - [WEEK 7 — THE KEYBOARD](#week-7-the-keyboard) · 23
+  - [WEEK 8 — THE MOUSE](#week-8-the-mouse) · 24
+  - [WEEK 9 — CARE OF THE COMPUTER](#week-9-care-of-the-computer) · 24
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 26
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 28
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 30
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 32
 
 
 
@@ -651,6 +661,610 @@ written for them.
 **My own work**
 
 • Draw a sunny day and a rainy day.
+
+
+---
+
+# Cultural and Creative Arts (CCA)
+
+These are the notes for the first term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Cultural and Creative Arts · First Term W1-6, 8-9 (art: drawing and painting; colours; craft and modelling; music and singing; dance; drama and role play; local crafts; our culture).*
+
+
+### WEEK 1 — ART: DRAWING AND PAINTING
+
+**You will learn to**
+
+• draw simple pictures
+
+• paint with colours
+
+• use art tools
+
+**Things to know**
+
+• **Art** is making pictures and beautiful things.
+
+• We can **draw** with a pencil or crayon.
+
+• We can **paint** with colour and a brush.
+
+• We draw **lines**, **shapes** and **pictures**.
+
+• We use **paper**, **pencil**, **crayon** and **paint**.
+
+• Drawing and painting are fun.
+
+• Art helps us show what we see and feel.
+
+• We keep our art tools well.
+
+• We can draw people, animals and things.
+
+• Art makes our world beautiful.
+
+**Let us talk**
+
+1. What is art?
+
+2. What do we draw with?
+
+3. What do we paint with?
+
+**Words for my notebook**
+
+• art — making pictures and beautiful things
+
+• draw — to make a picture with a pencil or crayon
+
+• paint — to put colour on with a brush
+
+**Worksheet**
+
+1. Making pictures and beautiful things is ___.
+   A) art B) work C) sleep D) noise
+
+2. We draw with a pencil or ___.
+   A) crayon B) spoon C) stone D) water
+
+3. We paint with colour and a ___.
+   A) brush B) knife C) stick D) leaf
+
+4. We draw lines, shapes and ___.
+   A) pictures B) songs C) smells D) sounds
+
+5. Fill in: To put colour on with a brush is to _____.
+
+6. Mention two art tools.
+
+7. Write what art is.
+
+**My own work**
+
+• Draw and colour a picture.
+
+---
+
+### WEEK 2 — COLOURS
+
+**You will learn to**
+
+• name primary colours
+
+• name secondary colours
+
+• mix colours
+
+**Things to know**
+
+• **Colours** make things beautiful.
+
+• The **primary colours** are **red**, **blue** and **yellow**.
+
+• We cannot make primary colours by mixing.
+
+• **Secondary colours** are made by mixing two primary colours.
+
+• Red + yellow = **orange**.
+
+• Blue + yellow = **green**.
+
+• Red + blue = **purple**.
+
+• We see colours all around us.
+
+• The rainbow has many colours.
+
+• Colours help us in art and life.
+
+**Let us talk**
+
+1. Name the primary colours.
+
+2. What do we get when we mix red and yellow?
+
+3. Where do we see colours?
+
+**Words for my notebook**
+
+• colour — what makes things red, blue, green, etc.
+
+• primary colour — a colour we cannot make by mixing
+
+• secondary colour — a colour made by mixing two primary colours
+
+**Worksheet**
+
+1. The primary colours are red, blue and ___.
+   A) yellow B) green C) orange D) purple
+
+2. Red + yellow = ___.
+   A) orange B) green C) purple D) black
+
+3. Blue + yellow = ___.
+   A) green B) orange C) purple D) white
+
+4. Red + blue = ___.
+   A) purple B) green C) orange D) brown
+
+5. Fill in: A colour made by mixing two primary colours is a _____.
+
+6. Mention the three primary colours.
+
+7. Write what we get when we mix blue and yellow.
+
+**My own work**
+
+• Paint the three primary colours.
+
+---
+
+### WEEK 3 — CRAFT AND MODELLING
+
+**You will learn to**
+
+• make simple crafts
+
+• model with clay
+
+• use craft materials
+
+**Things to know**
+
+• A **craft** is something we make with our hands.
+
+• We can **model** with **clay** or **plasticine**.
+
+• We can make **pots**, **cups** and **animals** from clay.
+
+• We can make **baskets** and **mats** from leaves and straw.
+
+• We use **paper**, **clay**, **leaves** and **thread**.
+
+• We **cut**, **paste** and **shape** materials.
+
+• Crafts can be useful or beautiful.
+
+• We keep our craft materials well.
+
+• Making crafts is fun and useful.
+
+• Crafts are part of our culture.
+
+**Let us talk**
+
+1. What is a craft?
+
+2. What do we model with?
+
+3. Name one craft we can make.
+
+**Words for my notebook**
+
+• craft — something we make with our hands
+
+• model — to shape clay or plasticine
+
+• clay — soft earth we can shape
+
+**Worksheet**
+
+1. Something we make with our hands is a ___.
+   A) craft B) song C) dance D) dream
+
+2. We model with ___ or plasticine.
+   A) clay B) stone C) water D) fire
+
+3. We can make pots and cups from ___.
+   A) clay B) air C) smoke D) light
+
+4. We ___ , paste and shape materials.
+   A) cut B) eat C) burn D) hide
+
+5. Fill in: Soft earth we can shape is _____.
+
+6. Mention two crafts we can make.
+
+7. Write what a craft is.
+
+**My own work**
+
+• Model a simple shape with clay.
+
+---
+
+### WEEK 4 — MUSIC AND SINGING
+
+**You will learn to**
+
+• sing songs
+
+• name musical sounds
+
+• enjoy music
+
+**Things to know**
+
+• **Music** is the sound we make with our voice or instruments.
+
+• We **sing** with our voice.
+
+• We can sing **alone** or **together**.
+
+• We sing at **home**, **school** and **church**.
+
+• Musical **instruments** make music too.
+
+• Examples: **drum**, **guitar**, **piano**, **flute**.
+
+• Music can be **fast** or **slow**.
+
+• Music makes us **happy**.
+
+• We sing with a good voice and joy.
+
+• Music is part of our culture.
+
+**Let us talk**
+
+1. What is music?
+
+2. Name one musical instrument.
+
+3. When do we sing?
+
+**Words for my notebook**
+
+• music — sound made with the voice or instruments
+
+• sing — to make music with the voice
+
+• instrument — a thing used to make music
+
+**Worksheet**
+
+1. Sound made with the voice or instruments is ___.
+   A) music B) noise C) sleep D) food
+
+2. We make music with our voice by ___.
+   A) singing B) sleeping C) eating D) running
+
+3. Which of these is a musical instrument?
+   A) drum B) stone C) chair D) book
+
+4. Music makes us ___.
+   A) happy B) sad C) angry D) sick
+
+5. Fill in: A thing used to make music is an _____.
+
+6. Mention two musical instruments.
+
+7. Write what music is.
+
+**My own work**
+
+• Draw a musical instrument.
+
+---
+
+### WEEK 5 — DANCE
+
+**You will learn to**
+
+• dance to music
+
+• name types of dance
+
+• move the body well
+
+**Things to know**
+
+• **Dance** is moving the body to music.
+
+• We dance with our **hands**, **legs** and **body**.
+
+• We dance **alone** or **in groups**.
+
+• There are **traditional** dances and **modern** dances.
+
+• We dance at **festivals**, **parties** and **school**.
+
+• Dance makes us **happy** and **strong**.
+
+• We dance with **joy**.
+
+• Different people have different dances.
+
+• Dance is part of our culture.
+
+• We enjoy dancing together.
+
+**Let us talk**
+
+1. What is dance?
+
+2. Name one type of dance.
+
+3. When do we dance?
+
+**Words for my notebook**
+
+• dance — moving the body to music
+
+• traditional — from the old ways of our people
+
+• festival — a special day of joy
+
+**Worksheet**
+
+1. Moving the body to music is ___.
+   A) dance B) sleep C) work D) eating
+
+2. We dance with our hands, legs and ___.
+   A) body B) stone C) water D) fire
+
+3. We dance at festivals, parties and ___.
+   A) school B) hospital C) market only D) farm
+
+4. Dance makes us happy and ___.
+   A) strong B) weak C) sick D) sad
+
+5. Fill in: A special day of joy is a _____.
+
+6. Mention two places we dance.
+
+7. Write what dance is.
+
+**My own work**
+
+• Draw someone dancing.
+
+---
+
+### WEEK 6 — DRAMA AND ROLE PLAY
+
+**You will learn to**
+
+• act out stories
+
+• play roles
+
+• enjoy drama
+
+**Things to know**
+
+• **Drama** is acting out a story.
+
+• We **pretend** to be people in a story.
+
+• A **role** is the part we play.
+
+• We can act out stories from the Bible or our culture.
+
+• We use our **voice** and **body** to act.
+
+• We can wear **costumes** for drama.
+
+• Drama is done at school and festivals.
+
+• We watch drama and enjoy it.
+
+• Drama teaches us lessons.
+
+• Drama is fun and useful.
+
+**Let us talk**
+
+1. What is drama?
+
+2. What is a role?
+
+3. What do we use to act?
+
+**Words for my notebook**
+
+• drama — acting out a story
+
+• role — the part we play in a story
+
+• costume — the clothes we wear in a play
+
+**Worksheet**
+
+1. Acting out a story is ___.
+   A) drama B) music C) dance D) sleep
+
+2. The part we play in a story is a ___.
+   A) role B) song C) stone D) dream
+
+3. We use our voice and ___ to act.
+   A) body B) water C) fire D) food
+
+4. We can wear ___ for drama.
+   A) costumes B) stones C) books D) chairs
+
+5. Fill in: The clothes we wear in a play are _____.
+
+6. Mention two things we use in drama.
+
+7. Write what drama is.
+
+**My own work**
+
+• Draw a scene from a story you can act.
+
+---
+
+### WEEK 8 — LOCAL CRAFTS
+
+**You will learn to**
+
+• name local crafts
+
+• say how they are made
+
+• value our crafts
+
+**Things to know**
+
+• **Local crafts** are things our people make.
+
+• We make **baskets** from leaves and straw.
+
+• We make **mats** from straw.
+
+• We make **pots** from clay.
+
+• We make **clothes** from woven cloth (aso-oke).
+
+• We make **beads** and **carvings**.
+
+• Local crafts are made by **skilled** people.
+
+• Crafts can be **sold** to make money.
+
+• Local crafts are part of our **culture**.
+
+• We value and keep our local crafts.
+
+**Let us talk**
+
+1. What are local crafts?
+
+2. Name one local craft.
+
+3. Why do we value local crafts?
+
+**Words for my notebook**
+
+• local craft — something our people make
+
+• weave — to cross threads or straw to make things
+
+• carving — a shape cut from wood
+
+**Worksheet**
+
+1. Things our people make are ___ crafts.
+   A) local B) foreign C) broken D) lost
+
+2. We make baskets from leaves and ___.
+   A) straw B) stone C) water D) fire
+
+3. We make pots from ___.
+   A) clay B) air C) smoke D) light
+
+4. We make clothes from woven cloth called ___.
+   A) aso-oke B) paper C) plastic D) glass
+
+5. Fill in: To cross threads or straw to make things is to _____.
+
+6. Mention two local crafts.
+
+7. Write why we value local crafts.
+
+**My own work**
+
+• Draw one local craft.
+
+---
+
+### WEEK 9 — OUR CULTURE
+
+**You will learn to**
+
+• say what culture is
+
+• name parts of our culture
+
+• respect our culture
+
+**Things to know**
+
+• **Culture** is the way of life of a people.
+
+• Our culture includes our **language**, **food**, **dress**, **music** and **dance**.
+
+• Our culture includes our **crafts** and **festivals**.
+
+• We greet our elders in our own way.
+
+• We wear our **traditional dress** on special days.
+
+• We eat our **local food**.
+
+• We dance our **traditional dances**.
+
+• Culture makes us who we are.
+
+• We respect and keep our culture.
+
+• Culture is passed from elders to children.
+
+**Let us talk**
+
+1. What is culture?
+
+2. Name one part of our culture.
+
+3. Why do we respect our culture?
+
+**Words for my notebook**
+
+• culture — the way of life of a people
+
+• tradition — the old ways of our people
+
+• respect — to show honour to something
+
+**Worksheet**
+
+1. The way of life of a people is ___.
+   A) culture B) noise C) sleep D) rain
+
+2. Our culture includes language, food, dress and ___.
+   A) dance B) anger C) dust D) fire
+
+3. We wear our ___ dress on special days.
+   A) traditional B) torn C) dirty D) foreign
+
+4. Culture is passed from elders to ___.
+   A) children B) stones C) rivers D) trees
+
+5. Fill in: The old ways of our people are our _____.
+
+6. Mention two parts of our culture.
+
+7. Write what culture is.
+
+**My own work**
+
+• Draw someone in traditional dress.
 
 
 ---
@@ -2045,6 +2659,192 @@ Answer in full sentences.
 43. Name two animals that live at home and two that live in water. (2 marks)
 44. Name the five senses. (2 marks)
 45. Name the two seasons in Nigeria. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Making pictures and beautiful things is ___
+   A) art
+   B) work
+   C) sleep
+   D) noise
+2. We draw with a pencil or ___
+   A) water
+   B) spoon
+   C) stone
+   D) crayon
+3. We paint with colour and a ___
+   A) knife
+   B) leaf
+   C) brush
+   D) stick
+4. We draw lines, shapes and ___
+   A) pictures
+   B) smells
+   C) sounds
+   D) songs
+5. The primary colours are red, blue and ___
+   A) green
+   B) yellow
+   C) orange
+   D) purple
+6. Red + yellow = ___
+   A) purple
+   B) black
+   C) green
+   D) orange
+7. Blue + yellow = ___
+   A) green
+   B) purple
+   C) white
+   D) orange
+8. Red + blue = ___
+   A) orange
+   B) purple
+   C) brown
+   D) green
+9. Something we make with our hands is a ___
+   A) dance
+   B) song
+   C) dream
+   D) craft
+10. We model with ___ or plasticine
+   A) water
+   B) stone
+   C) clay
+   D) fire
+11. We can make pots and cups from ___
+   A) clay
+   B) smoke
+   C) light
+   D) air
+12. We ___ , paste and shape materials
+   A) burn
+   B) eat
+   C) hide
+   D) cut
+13. Sound made with the voice or instruments is ___
+   A) sleep
+   B) noise
+   C) music
+   D) food
+14. We make music with our voice by ___
+   A) running
+   B) singing
+   C) sleeping
+   D) eating
+15. Which of these is a musical instrument?
+   A) stone
+   B) chair
+   C) book
+   D) drum
+16. Music makes us ___
+   A) sick
+   B) sad
+   C) happy
+   D) angry
+17. Moving the body to music is ___
+   A) dance
+   B) sleep
+   C) work
+   D) eating
+18. We dance with our hands, legs and ___
+   A) stone
+   B) body
+   C) water
+   D) fire
+19. We dance at festivals, parties and ___
+   A) hospital
+   B) farm
+   C) market only
+   D) school
+20. Dance makes us happy and ___
+   A) sick
+   B) weak
+   C) strong
+   D) sad
+21. Acting out a story is ___
+   A) music
+   B) drama
+   C) dance
+   D) sleep
+22. The part we play in a story is a ___
+   A) role
+   B) stone
+   C) dream
+   D) song
+23. We use our voice and ___ to act
+   A) fire
+   B) food
+   C) body
+   D) water
+24. We can wear ___ for drama
+   A) books
+   B) costumes
+   C) stones
+   D) chairs
+25. Things our people make are ___ crafts
+   A) broken
+   B) lost
+   C) foreign
+   D) local
+26. We make baskets from leaves and ___
+   A) straw
+   B) fire
+   C) stone
+   D) water
+27. We make pots from ___
+   A) smoke
+   B) clay
+   C) air
+   D) light
+28. We make clothes from woven cloth called ___
+   A) plastic
+   B) glass
+   C) aso-oke
+   D) paper
+29. The way of life of a people is ___
+   A) sleep
+   B) rain
+   C) noise
+   D) culture
+30. Our culture includes language, food, dress and ___
+   A) dance
+   B) fire
+   C) dust
+   D) anger
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two art tools
+32. Name the three primary colours
+33. Name two crafts we can make
+34. Name two musical instruments
+35. Name two places we dance
+36. Name two things we use in drama
+37. Name two local crafts
+38. Name two parts of our culture
+39. Name two secondary colours
+40. Name two materials we use for crafts
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is art? Name two art tools. (2 marks)
+42. Name the three primary colours. (2 marks)
+43. What is a craft? Name one you can make. (2 marks)
+44. What is music? Name two musical instruments. (2 marks)
+45. What is culture? Name two parts of it. (2 marks)
 
 
 ---
