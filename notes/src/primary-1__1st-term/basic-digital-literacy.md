@@ -41,7 +41,7 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) plastic D) paper
-2. Which of these is NOT a digital device? A) broom B) tablet C) camera D) smartphone
+2. Which of these is NOT a digital device? A) broom B) camera C) smartphone D) tablet
 3. The computer that stays on a table is a A) desktop B) tablet C) watch D) camera
 4. Fill in: A ____ opens like a book.
 5. Mention two digital devices you can carry about.
@@ -90,7 +90,7 @@ Draw one digital device I have seen and colour its screen grey.
 
 1. The part that shows pictures and letters is the A) monitor B) keyboard C) mouse D) CPU
 2. We move the arrow on the screen with the A) mouse B) monitor C) printer D) speaker
-3. The brain of the computer is the A) CPU B) mouse C) keyboard D) cable
+3. The brain of the computer is the A) mouse B) cable C) keyboard D) CPU
 4. Fill in: We press keys on the ____.
 5. Mention two parts we touch to give the computer information.
 6. Write what the monitor does.
@@ -277,7 +277,7 @@ Draw Charles Babbage's thinking machine with wheels and gears.
 
 **Worksheet**
 
-1. The parts of a computer we can touch are the A) hardware B) software C) ideas D) songs
+1. The parts of a computer we can touch are the A) software B) songs C) ideas D) hardware
 2. A drawing app is A) software B) hardware C) a cable D) a chair
 3. Which of these is hardware? A) mouse B) game C) song D) story
 4. Fill in: We cannot ____ software.
@@ -327,7 +327,7 @@ Draw two things I can touch (hardware) and write the name of one app.
 
 1. A device that puts information into the computer is an ____ device. A) input B) output C) print D) sound
 2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) FRIDAY D) MONDAY
-3. Moving an icon and letting go is A) drag and drop B) scan C) print D) save
+3. Moving an icon and letting go is A) save B) scan C) drag and drop D) print
 4. Fill in: The key that moves us to the next line is ____.
 5. Mention two input devices.
 6. Write one way we care for the keyboard.

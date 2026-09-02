@@ -40,7 +40,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. History is the story of things that happened ____ . A) long ago B) never C) tomorrow D) today only
+1. History is the story of things that happened ____ . A) long ago B) today only C) never D) tomorrow
 2. We learn old stories mostly from our ____ . A) toys B) elders C) shoes D) plates
 3. We study history to understand ____ . A) rain B) nothing C) games D) today
 4. Fill in: The time long ago is called the ____.
@@ -138,7 +138,7 @@ Draw one old thing at home that tells a story of the past.
 
 1. My history begins with my ____ . A) birth B) exam C) school D) holiday
 2. A baby cannot ____ but I can. A) drink B) walk and talk C) sleep D) cry
-3. Where my parents come from is my family's ____ . A) market B) class C) home town D) road
+3. Where my parents come from is my family's ____ . A) class B) home town C) market D) road
 4. Fill in: The day I was born is my ____ day.
 5. Mention two things that are part of my history.
 6. Write your name and your home town.
@@ -185,7 +185,7 @@ Draw a picture of myself on one of my birthdays.
 **Worksheet**
 
 1. Early people got food by hunting and ____ . A) buying B) typing C) gathering D) posting
-2. Early people made fire for cooking and ____ . A) sleeping B) school C) rain D) warmth
+2. Early people made fire for cooking and ____ . A) school B) warmth C) rain D) sleeping
 3. Early people made simple tools from stone, wood and ____ . A) plastic B) paper C) bone D) glass
 4. Fill in: Some early people lived in ____.
 5. Mention two things early people did for food.
@@ -232,8 +232,8 @@ Draw a cave and a fire like early people used.
 
 **Worksheet**
 
-1. Moving from one place to live in another is ____ . A) cooking B) sleeping C) singing D) migration
-2. People moved long ago to find food, water and ____ . A) trouble B) safety C) noise D) dust
+1. Moving from one place to live in another is ____ . A) singing B) sleeping C) migration D) cooking
+2. People moved long ago to find food, water and ____ . A) noise B) trouble C) safety D) dust
 3. The old Nigerian people known for clay art are the ____ . A) Edo B) Ijaw C) Tiv D) Nok
 4. Fill in: People who move and stay to make a home are said to ____.
 5. Mention two reasons people migrated.
@@ -328,7 +328,7 @@ Draw the map idea of Nigeria with three friends from the North, East and West.
 
 **Worksheet**
 
-1. A place ruled by a king or a queen is a ____ . A) kingdom B) farm C) market D) school
+1. A place ruled by a king or a queen is a ____ . A) kingdom B) school C) farm D) market
 2. The kingdom famous for bronze work is ____ . A) Nok B) Sokoto C) Benin D) Oyo
 3. The Oyo Empire was in ____ land. A) Ijaw B) Yoruba C) Hausa D) Igbo
 4. Fill in: A big kingdom over many places is an ____.
@@ -376,9 +376,9 @@ Draw a crown and a staff like a king's.
 
 **Worksheet**
 
-1. The work a person does to live is an ____ . A) holiday B) exam C) occupation D) game
+1. The work a person does to live is an ____ . A) exam B) occupation C) holiday D) game
 2. The main work of early people was ____ . A) typing B) banking C) farming D) driving
-3. A fisher catches fish with nets and a ____ . A) plane B) canoe C) bicycle D) car
+3. A fisher catches fish with nets and a ____ . A) car B) plane C) bicycle D) canoe
 4. Fill in: A potter makes pots from ____.
 5. Mention two tools a farmer uses.
 6. Write one occupation and its tool.

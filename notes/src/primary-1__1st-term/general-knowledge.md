@@ -42,7 +42,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 1. I see with my ____ . A) eyes B) nose C) ears D) hands
 2. The part of the body I walk with is my ____ . A) teeth B) hair C) ears D) legs
-3. How many arms does a person have? A) two B) four C) one D) three
+3. How many arms does a person have? A) three B) four C) two D) one
 4. Fill in: I hear with my ____.
 5. Mention two parts of the head.
 6. Write your full name and your age.
@@ -88,8 +88,8 @@ Draw my face and put in my eyes, ears, nose and mouth.
 
 **Worksheet**
 
-1. The group of people I live with is my ____ . A) family B) market C) school D) class
-2. My father is also called my ____ . A) dad B) uncle C) chief D) king
+1. The group of people I live with is my ____ . A) class B) market C) family D) school
+2. My father is also called my ____ . A) king B) uncle C) dad D) chief
 3. My brother and my sister are my ____ . A) siblings B) friends C) teachers D) strangers
 4. Fill in: My mother is also called my ____.
 5. Mention two ways a family shows love.
@@ -177,17 +177,17 @@ Draw my teacher at the board in my classroom.
 
 **Words for my notebook**
 
-• board — where the teacher writes
+• board — the flat surface at the front of the class for writing
 • rule — what we must keep
 • raise — to lift my hand
 • tidy — clean and in order
 
 **Worksheet**
 
-1. Before I speak in class I ____ my hand. A) raise B) drop C) hide D) shake
+1. Before I speak in class I ____ my hand. A) raise B) shake C) drop D) hide
 2. We write our lessons in our ____ . A) shoes B) books C) caps D) bags
-3. In the classroom we ____ , we do not run. A) walk B) jump C) shout D) fight
-4. Fill in: The teacher writes on the ____.
+3. In the classroom we ____ , we do not run. A) walk B) shout C) fight D) jump
+4. Fill in: We write with chalk on the ____.
 5. Mention two rules of the classroom.
 6. Write one way you care for your books.
 7. Draw my desk, my chair and my book.
@@ -233,7 +233,7 @@ Draw my classroom and put a bin in the corner.
 **Worksheet**
 
 1. The people who live near my home are my ____ . A) neighbours B) drivers C) teachers D) nurses
-2. The road near my house is my ____ . A) street B) river C) bridge D) hill
+2. The road near my house is my ____ . A) bridge B) river C) hill D) street
 3. We keep the compound clean by ____ it. A) sweeping B) breaking C) flooding D) dirtying
 4. Fill in: My home is where I ____.
 5. Mention two ways we keep the neighbourhood clean.
@@ -329,7 +329,7 @@ Draw one helper in my community and the tool they use.
 **Worksheet**
 
 1. My country is ____ . A) Kenya B) Egypt C) Nigeria D) Ghana
-2. The Nigerian flag is green, white and ____ . A) green B) red C) blue D) black
+2. The Nigerian flag is green, white and ____ . A) black B) red C) green D) blue
 3. The white on the flag stands for ____ . A) peace B) war C) sand D) rain
 4. Fill in: The capital city of Nigeria is ____.
 5. Mention the three bands of the flag in order.

@@ -280,7 +280,7 @@ Draw the man picking up his mat and walking home.
 
 **Worksheet**
 
-1. Jairus' daughter was very ____ . A) happy B) tall C) sick D) fast
+1. Jairus' daughter was very ____ . A) sick B) happy C) tall D) fast
 2. Jesus told Jairus, "Do not be afraid; only ____." A) run B) sleep C) believe D) shout
 3. When Jesus took the girl's hand, she ____ . A) rose B) cried C) fell D) left
 4. Fill in: Jairus was a ____ leader.

@@ -1,0 +1,56 @@
+# Mathematics & English · MATHEMATICS — Primary 1 · First Term · term paper
+subject: Mathematics & English
+stream: MATHEMATICS
+class: Primary 1
+term: 1st Term
+
+[objective]
+What number comes after 9? || 10 || 8 || 11 || 5
+We count 10, 20, 30, 40, ___ || 50 || 45 || 60 || 15
+A number tells us how ___ of a thing || many || few || long || far
+100 has ___ figures || three || one || two || four
+What number comes after 100? || 101 || 110 || 99 || 200
+We count 100, 200, 300, ___ || 400 || 150 || 500 || 1000
+1,000 is one ___ || thousand || hundred || ten || million
+In 235, the 2 is in the ___ place || hundreds || tens || units || thousands
+A fraction is a part of a ___ || whole || number || letter || sound
+One of two equal parts is a ___ || half || quarter || whole || ten
+We write a half as ___ || 1/2 || 1/4 || 2/1 || 1/10
+A whole shared into 2 equal parts gives ___ halves || 2 || 4 || 1 || 3
+One of four equal parts is a ___ || quarter || half || whole || tenth
+We write a quarter as ___ || 1/4 || 1/2 || 4/1 || 1/10
+A whole shared into 4 equal parts gives ___ quarters || 4 || 2 || 1 || 3
+Which is smaller? || a quarter || a half || a whole || they are equal
+Addition means putting ___ || together || apart || away || down
+The plus sign is ___ || + || − || = || ×
+2 + 3 = ___ || 5 || 4 || 6 || 1
+5 + 4 = ___ || 9 || 8 || 10 || 7
+We add the ___ first || units || tens || hundreds || thousands
+12 + 5 = ___ || 17 || 16 || 18 || 15
+20 + 30 = ___ || 50 || 40 || 60 || 23
+When units make 10 we ___ one ten || carry || drop || hide || lose
+Subtraction means taking ___ || away || together || more || up
+The minus sign is ___ || − || + || = || ×
+5 − 2 = ___ || 3 || 4 || 2 || 7
+8 − 3 = ___ || 5 || 6 || 4 || 11
+19 − 5 = ___ || 14 || 15 || 13 || 24
+When we cannot take we ___ one ten || borrow || carry || hide || lose
+
+[subobjective]
+Name two numbers between 1 and 100 :: 5 | 20 | 50 | 99
+Name two numbers between 101 and 9000 :: 200 | 500 | 1000 | 5000
+Name two ways to write a fraction :: 1/2 | 1/4
+Name two things we can share into halves :: orange | cake | paper
+Name two addition sums :: 2 + 3 = 5 | 12 + 5 = 17
+Name two subtraction sums :: 5 − 2 = 3 | 19 − 5 = 14
+Name two things we use to count :: sticks | stones | bottle caps
+Name the two signs we use in sums :: + (plus) | − (minus)
+Name two parts of a three-figure number :: hundreds | tens | units
+Name two whole numbers bigger than 1000 :: 2000 | 3000 | 5000
+
+[theory]
+Count from 1 to 20. || 2
+What is 6 + 3? Show your work. || 2
+What is 9 − 4? Show your work. || 2
+What is a half? Draw a shape and show one half. || 2
+Write the numbers 100, 200 and 300 in words. || 2

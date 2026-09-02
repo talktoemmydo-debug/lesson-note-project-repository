@@ -21,7 +21,7 @@ at `exploitable-longest: 0` and `sheet_lint` 0, worksheet letters shuffled so th
 | 8 | prevocational-studies | — |
 | 9 | social-and-citizenship-studies | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=8 D=7) · worksheets shuffled · exempt from plates · gates ok |
 | 10 | yoruba | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=8 C=7 D=7) · worksheets shuffled · exempt from plates · gates ok |
-| 11 | mathematics-english | streams as in Nursery 2 (numeracy / letter work / language) |
+| 11 | mathematics-english | ✅ 2 streams (MATHEMATICS / ENGLISH LANGUAGE) on the master topics · 16 notes · 2 papers ✅ (30/10/5 each) · worksheets shuffled · gates ok |
 
 The four word-only exemptions (Yoruba, General Knowledge, Nigerian History, Social & Citizenship Studies) and
 CRS carry no plates in any term, Primary 1 included — they sit in `tools/backfill_ledger.py` EXEMPT.

@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 10 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 12 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*10 subjects · 80 lessons · 10 term practice papers. Each part begins on a fresh page.*
+*11 subjects · 97 lessons · 12 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — THE ROAD AND ROAD SAFETY](#week-1-the-road-and-road-safety) · 3
@@ -95,25 +95,45 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — ỌJỌ́ Ọ̀SẸ̀ (DAYS OF THE WEEK)](#week-6-ọjọ-ọsẹ-days-of-the-week) · 53
   - [WEEK 8 — ILÉ MI (MY HOME)](#week-8-ilé-mi-my-home) · 54
   - [WEEK 9 — ẸRANKO (ANIMALS)](#week-9-ẹranko-animals) · 54
-- **[General Knowledge](#general-knowledge)** · 56
-  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 56
-  - [WEEK 2 — MY FAMILY AND THEIR ROLES](#week-2-my-family-and-their-roles) · 56
-  - [WEEK 3 — MY SCHOOL: PLACES AND PEOPLE](#week-3-my-school-places-and-people) · 57
-  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 58
-  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 58
-  - [WEEK 6 — COMMUNITY HELPERS](#week-6-community-helpers) · 59
-  - [WEEK 8 — MY COUNTRY, NIGERIA](#week-8-my-country-nigeria) · 59
-  - [WEEK 9 — BEING A GOOD CITIZEN](#week-9-being-a-good-citizen) · 60
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 62
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-1-1st-term)** · 64
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 66
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 68
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 1st Term)](#examination-practice-nigerian-history-primary-1-1st-term)** · 70
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 1st Term)](#examination-practice-physical-and-health-education-primary-1-1st-term)** · 72
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 1st Term)](#examination-practice-prevocational-studies-primary-1-1st-term)** · 74
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-1-1st-term)** · 76
-- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 1st Term)](#examination-practice-yoruba-primary-1-1st-term)** · 78
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 1st Term)](#examination-practice-general-knowledge-primary-1-1st-term)** · 80
+  - [WEEK 11 — OÚNJẸ (FOOD)](#week-11-oúnjẹ-food) · 55
+- **[Mathematics & English](#mathematics-english)** · 57
+  - [WEEK 1 — PHONEMIC AWARENESS I: IDENTIFYING AND PRODUCING SOUNDS](#week-1-phonemic-awareness-i-identifying-and-producing-sounds) · 57
+  - [WEEK 2 — USING SOUNDS TO SPELL AND PRONOUNCE WORDS](#week-2-using-sounds-to-spell-and-pronounce-words) · 57
+  - [WEEK 3 — COMPREHENSION I: SHORT STORIES AND RHYMES](#week-3-comprehension-i-short-stories-and-rhymes) · 58
+  - [WEEK 4 — ADJECTIVES: DESCRIBING WORDS](#week-4-adjectives-describing-words) · 59
+  - [WEEK 5 — PHONICS II: CONSONANT BLENDS AND DIGRAPHS](#week-5-phonics-ii-consonant-blends-and-digraphs) · 59
+  - [WEEK 6 — LISTENING AND SPEAKING: ASKING AND ANSWERING QUESTIONS](#week-6-listening-and-speaking-asking-and-answering-questions) · 60
+  - [WEEK 8 — SIMPLE PRESENT AND PAST TENSE OF COMMON VERBS](#week-8-simple-present-and-past-tense-of-common-verbs) · 61
+  - [WEEK 9 — PHONEMIC AWARENESS II: SOUND PATTERNS AND WORD FAMILIES](#week-9-phonemic-awareness-ii-sound-patterns-and-word-families) · 61
+  - [WEEK 1 — WHOLE NUMBERS 1 TO 100](#week-1-whole-numbers-1-to-100) · 62
+  - [WEEK 2 — WHOLE NUMBERS 101 TO 9000](#week-2-whole-numbers-101-to-9000) · 63
+  - [WEEK 3 — FRACTIONS (PART 1)](#week-3-fractions-part-1) · 63
+  - [WEEK 4 — FRACTIONS (PART 2)](#week-4-fractions-part-2) · 64
+  - [WEEK 5 — ADDITION (PART 1)](#week-5-addition-part-1) · 65
+  - [WEEK 6 — ADDITION (PART 2)](#week-6-addition-part-2) · 65
+  - [WEEK 8 — SUBTRACTION (PART 1)](#week-8-subtraction-part-1) · 66
+  - [WEEK 9 — SUBTRACTION (PART 2)](#week-9-subtraction-part-2) · 67
+- **[General Knowledge](#general-knowledge)** · 68
+  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 68
+  - [WEEK 2 — MY FAMILY AND THEIR ROLES](#week-2-my-family-and-their-roles) · 68
+  - [WEEK 3 — MY SCHOOL: PLACES AND PEOPLE](#week-3-my-school-places-and-people) · 69
+  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 70
+  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 70
+  - [WEEK 6 — COMMUNITY HELPERS](#week-6-community-helpers) · 71
+  - [WEEK 8 — MY COUNTRY, NIGERIA](#week-8-my-country-nigeria) · 71
+  - [WEEK 9 — BEING A GOOD CITIZEN](#week-9-being-a-good-citizen) · 72
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 74
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-1-1st-term)** · 76
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 78
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 80
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 1st Term)](#examination-practice-nigerian-history-primary-1-1st-term)** · 82
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 1st Term)](#examination-practice-physical-and-health-education-primary-1-1st-term)** · 84
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 1st Term)](#examination-practice-prevocational-studies-primary-1-1st-term)** · 86
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-1-1st-term)** · 88
+- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 1st Term)](#examination-practice-yoruba-primary-1-1st-term)** · 90
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 1st Term)](#examination-practice-mathematics-english-english-language-primary-1-1st-term)** · 92
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 1st Term)](#examination-practice-mathematics-english-mathematics-primary-1-1st-term)** · 94
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 1st Term)](#examination-practice-general-knowledge-primary-1-1st-term)** · 96
 
 
 
@@ -209,7 +229,7 @@ Draw the road near my house and put one car and one person walking on it.
 
 **Worksheet**
 
-1. Everything around us at home and at school is the A) calendar B) notebook C) environment D) market
+1. Everything around us at home and at school is the A) notebook B) environment C) calendar D) market
 2. Which of these is a primary colour? A) purple B) green C) orange D) blue
 3. Red and yellow mixed together give A) grey B) green C) black D) orange
 4. Fill in: The grass looks ____.
@@ -259,7 +279,7 @@ Look around my room at home and draw two things I see, then colour them.
 
 1. A shape that is round with no corners is a A) square B) triangle C) rectangle D) circle
 2. How many sides does a triangle have? A) three B) six C) five D) four
-3. A shape with four equal sides is a A) square B) oval C) star D) circle
+3. A shape with four equal sides is a A) square B) star C) circle D) oval
 4. Fill in: A wheel is the shape of a ____.
 5. Mention two things at home that are a rectangle.
 6. Write the number of corners on a triangle.
@@ -305,7 +325,7 @@ Find three shapes in my house and draw each one in my notebook.
 
 **Worksheet**
 
-1. The shape of an egg is an A) triangle B) square C) rectangle D) oval
+1. The shape of an egg is an A) rectangle B) square C) oval D) triangle
 2. A tin of milk is the solid shape called a A) sphere B) cube C) cylinder D) cone
 3. Which shape has five points? A) oval B) star C) heart D) circle
 4. Fill in: A box is the solid shape called a ____.
@@ -353,9 +373,9 @@ Use shapes to draw a house: a square for the walls and a triangle for the roof.
 
 **Worksheet**
 
-1. Which of these is a living thing? A) stone B) book C) chair D) goat
-2. Living things do all of these except A) breathe B) melt C) eat D) grow
-3. A plant needs water, air and ____ to grow well. A) paper B) sunlight C) money D) shoes
+1. Which of these is a living thing? A) book B) goat C) chair D) stone
+2. Living things do all of these except A) grow B) breathe C) eat D) melt
+3. A plant needs water, air and ____ to grow well. A) shoes B) paper C) money D) sunlight
 4. Fill in: A dog and a cat are ____ things.
 5. Mention two living things you see on a farm.
 6. Write one way you care for a plant.
@@ -401,7 +421,7 @@ Water one plant at home and watch it for a week, then draw it.
 
 **Worksheet**
 
-1. Which of these is non-living? A) dog B) hen C) stone D) tree
+1. Which of these is non-living? A) hen B) stone C) dog D) tree
 2. A chair is a ____ non-living thing. A) living B) growing C) natural D) man-made
 3. Which one is a natural non-living thing? A) book B) water C) car D) toy
 4. Fill in: A stone does not eat, grow or ____.
@@ -449,8 +469,8 @@ Look around my home and draw two non-living things I use every day.
 
 **Worksheet**
 
-1. Moving air is called A) sun B) wind C) rain D) cloud
-2. We cannot see air but we can A) wear it B) eat it C) buy it D) feel it
+1. Moving air is called A) rain B) sun C) wind D) cloud
+2. We cannot see air but we can A) buy it B) eat it C) feel it D) wear it
 3. Which of these uses air? A) reading a book B) sitting on a chair C) flying a kite D) writing a letter
 4. Fill in: We use air for ____.
 5. Mention two ways you can feel air.
@@ -500,7 +520,7 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 
 1. The top part of the ground where plants grow is A) cloud B) air C) soil D) water
 2. The soil that is best for plants is A) rocky B) dry C) hard D) loamy
-3. A pot for cooking can be made from A) water B) air C) glass D) clay
+3. A pot for cooking can be made from A) glass B) air C) clay D) water
 4. Fill in: Soil can be black, brown, red or ____.
 5. Mention two places we find soil.
 6. Write one way we care for the soil.
@@ -555,8 +575,8 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. A line that lies flat like the ground is ____ . A) horizontal B) vertical C) spiral D) round
-2. The edge of a circle is a ____ line. A) zigzag B) straight C) sharp D) curved
-3. A line that moves sharply up and down like teeth is ____ . A) thin B) zigzag C) flat D) short
+2. The edge of a circle is a ____ line. A) sharp B) straight C) curved D) zigzag
+3. A line that moves sharply up and down like teeth is ____ . A) flat B) thin C) zigzag D) short
 4. Fill in: A line that stands up like a pole is ____.
 5. Mention two kinds of lines.
 6. Write one thing you can draw with lines only.
@@ -603,8 +623,8 @@ Fill my page with three different lines and colour between them.
 **Worksheet**
 
 1. The shape of an egg is an ____ . A) oval B) square C) triangle D) star
-2. A square and a triangle joined together can make a ____ . A) wheel B) ball C) house D) road
-3. The biggest of these is a ____ . A) coin B) bead C) seed D) basket
+2. A square and a triangle joined together can make a ____ . A) ball B) house C) wheel D) road
+3. The biggest of these is a ____ . A) seed B) bead C) basket D) coin
 4. Fill in: A door is the shape of a ____.
 5. Mention two basic shapes.
 6. Write one thing that is a circle at home.
@@ -652,7 +672,7 @@ Cut or draw three shapes and paste them to make a picture.
 
 1. How a thing feels when we touch it is its ____ . A) texture B) colour C) smell D) sound
 2. Sandpaper feels ____ . A) rough B) smooth C) soft D) wet
-3. A feather feels ____ . A) soft B) rough C) hot D) hard
+3. A feather feels ____ . A) soft B) hot C) hard D) rough
 4. Fill in: We make a rubbing with paper and a ____.
 5. Mention two things that feel smooth.
 6. Write how a stone feels.
@@ -746,7 +766,7 @@ Draw my art box and put three tools inside it.
 
 **Worksheet**
 
-1. The way of life of a people is their ____ . A) market B) school C) road D) culture
+1. The way of life of a people is their ____ . A) road B) school C) culture D) market
 2. The three big ethnic groups are Hausa, Igbo and ____ . A) English B) Zulu C) Yoruba D) French
 3. Language, food, dressing and festivals are parts of ____ . A) sport B) money C) weather D) culture
 4. Fill in: A special celebration is a ____.
@@ -794,8 +814,8 @@ Draw the food my people eat at a festival.
 
 **Worksheet**
 
-1. A special celebration a people keep is a ____ . A) lesson B) market C) game D) ceremony
-2. The ceremony that welcomes a new baby is the ____ ceremony. A) school B) harvest C) farm D) naming
+1. A special celebration a people keep is a ____ . A) game B) market C) ceremony D) lesson
+2. The ceremony that welcomes a new baby is the ____ ceremony. A) farm B) harvest C) naming D) school
 3. A special nut used at some naming ceremonies is the ____ nut. A) palm B) coco C) kola D) ground
 4. Fill in: Family and friends gather to ____ the baby.
 5. Mention two things used at a naming ceremony.
@@ -890,7 +910,7 @@ Draw a girl with beads and bangles on, ready for a festival.
 
 **Worksheet**
 
-1. Arts we show with our body and voice are ____ arts. A) drawing B) painting C) performing D) carving
+1. Arts we show with our body and voice are ____ arts. A) painting B) performing C) drawing D) carving
 2. Stories the elders tell are ____ . A) folktales B) newspapers C) letters D) receipts
 3. A short song with rhythm is a ____ . A) rhyme B) drum C) chair D) road
 4. Fill in: Moving the body to music is ____.
@@ -1186,7 +1206,7 @@ Draw the man picking up his mat and walking home.
 
 **Worksheet**
 
-1. Jairus' daughter was very ____ . A) happy B) tall C) sick D) fast
+1. Jairus' daughter was very ____ . A) sick B) happy C) tall D) fast
 2. Jesus told Jairus, "Do not be afraid; only ____." A) run B) sleep C) believe D) shout
 3. When Jesus took the girl's hand, she ____ . A) rose B) cried C) fell D) left
 4. Fill in: Jairus was a ____ leader.
@@ -1339,7 +1359,7 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) plastic D) paper
-2. Which of these is NOT a digital device? A) broom B) tablet C) camera D) smartphone
+2. Which of these is NOT a digital device? A) broom B) camera C) smartphone D) tablet
 3. The computer that stays on a table is a A) desktop B) tablet C) watch D) camera
 4. Fill in: A ____ opens like a book.
 5. Mention two digital devices you can carry about.
@@ -1388,7 +1408,7 @@ Draw one digital device I have seen and colour its screen grey.
 
 1. The part that shows pictures and letters is the A) monitor B) keyboard C) mouse D) CPU
 2. We move the arrow on the screen with the A) mouse B) monitor C) printer D) speaker
-3. The brain of the computer is the A) CPU B) mouse C) keyboard D) cable
+3. The brain of the computer is the A) mouse B) cable C) keyboard D) CPU
 4. Fill in: We press keys on the ____.
 5. Mention two parts we touch to give the computer information.
 6. Write what the monitor does.
@@ -1575,7 +1595,7 @@ Draw Charles Babbage's thinking machine with wheels and gears.
 
 **Worksheet**
 
-1. The parts of a computer we can touch are the A) hardware B) software C) ideas D) songs
+1. The parts of a computer we can touch are the A) software B) songs C) ideas D) hardware
 2. A drawing app is A) software B) hardware C) a cable D) a chair
 3. Which of these is hardware? A) mouse B) game C) song D) story
 4. Fill in: We cannot ____ software.
@@ -1625,7 +1645,7 @@ Draw two things I can touch (hardware) and write the name of one app.
 
 1. A device that puts information into the computer is an ____ device. A) input B) output C) print D) sound
 2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) FRIDAY D) MONDAY
-3. Moving an icon and letting go is A) drag and drop B) scan C) print D) save
+3. Moving an icon and letting go is A) save B) scan C) drag and drop D) print
 4. Fill in: The key that moves us to the next line is ____.
 5. Mention two input devices.
 6. Write one way we care for the keyboard.
@@ -1727,7 +1747,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. History is the story of things that happened ____ . A) long ago B) never C) tomorrow D) today only
+1. History is the story of things that happened ____ . A) long ago B) today only C) never D) tomorrow
 2. We learn old stories mostly from our ____ . A) toys B) elders C) shoes D) plates
 3. We study history to understand ____ . A) rain B) nothing C) games D) today
 4. Fill in: The time long ago is called the ____.
@@ -1825,7 +1845,7 @@ Draw one old thing at home that tells a story of the past.
 
 1. My history begins with my ____ . A) birth B) exam C) school D) holiday
 2. A baby cannot ____ but I can. A) drink B) walk and talk C) sleep D) cry
-3. Where my parents come from is my family's ____ . A) market B) class C) home town D) road
+3. Where my parents come from is my family's ____ . A) class B) home town C) market D) road
 4. Fill in: The day I was born is my ____ day.
 5. Mention two things that are part of my history.
 6. Write your name and your home town.
@@ -1872,7 +1892,7 @@ Draw a picture of myself on one of my birthdays.
 **Worksheet**
 
 1. Early people got food by hunting and ____ . A) buying B) typing C) gathering D) posting
-2. Early people made fire for cooking and ____ . A) sleeping B) school C) rain D) warmth
+2. Early people made fire for cooking and ____ . A) school B) warmth C) rain D) sleeping
 3. Early people made simple tools from stone, wood and ____ . A) plastic B) paper C) bone D) glass
 4. Fill in: Some early people lived in ____.
 5. Mention two things early people did for food.
@@ -1919,8 +1939,8 @@ Draw a cave and a fire like early people used.
 
 **Worksheet**
 
-1. Moving from one place to live in another is ____ . A) cooking B) sleeping C) singing D) migration
-2. People moved long ago to find food, water and ____ . A) trouble B) safety C) noise D) dust
+1. Moving from one place to live in another is ____ . A) singing B) sleeping C) migration D) cooking
+2. People moved long ago to find food, water and ____ . A) noise B) trouble C) safety D) dust
 3. The old Nigerian people known for clay art are the ____ . A) Edo B) Ijaw C) Tiv D) Nok
 4. Fill in: People who move and stay to make a home are said to ____.
 5. Mention two reasons people migrated.
@@ -2015,7 +2035,7 @@ Draw the map idea of Nigeria with three friends from the North, East and West.
 
 **Worksheet**
 
-1. A place ruled by a king or a queen is a ____ . A) kingdom B) farm C) market D) school
+1. A place ruled by a king or a queen is a ____ . A) kingdom B) school C) farm D) market
 2. The kingdom famous for bronze work is ____ . A) Nok B) Sokoto C) Benin D) Oyo
 3. The Oyo Empire was in ____ land. A) Ijaw B) Yoruba C) Hausa D) Igbo
 4. Fill in: A big kingdom over many places is an ____.
@@ -2063,9 +2083,9 @@ Draw a crown and a staff like a king's.
 
 **Worksheet**
 
-1. The work a person does to live is an ____ . A) holiday B) exam C) occupation D) game
+1. The work a person does to live is an ____ . A) exam B) occupation C) holiday D) game
 2. The main work of early people was ____ . A) typing B) banking C) farming D) driving
-3. A fisher catches fish with nets and a ____ . A) plane B) canoe C) bicycle D) car
+3. A fisher catches fish with nets and a ____ . A) car B) plane C) bicycle D) canoe
 4. Fill in: A potter makes pots from ____.
 5. Mention two tools a farmer uses.
 6. Write one occupation and its tool.
@@ -2265,7 +2285,7 @@ Draw children playing a local game I like.
 
 1. When I run I land on the ____ of my feet. A) balls B) heels C) toes only D) sides
 2. My body leans slightly ____ when I run. A) forward B) backward C) left D) right
-3. My arms bend and ____ by my sides. A) swing B) shake C) rest D) cross
+3. My arms bend and ____ by my sides. A) rest B) swing C) shake D) cross
 4. Fill in: I lift my ____ when I run.
 5. Mention two things a good runner does.
 6. Write why a good posture helps me run.
@@ -2312,7 +2332,7 @@ Draw myself running with a good posture.
 **Worksheet**
 
 1. After the toilet we wash our hands with soap and ____ . A) water B) sand C) oil D) ink
-2. Washing hands removes ____ . A) germs B) food C) clothes D) books
+2. Washing hands removes ____ . A) food B) books C) clothes D) germs
 3. A type of toilet is the ____ toilet. A) pit B) road C) desk D) roof
 4. Fill in: We ____ or cover the waste after using the toilet.
 5. Mention two types of toilets.
@@ -2359,8 +2379,8 @@ Draw the steps of washing my hands: wet, soap, scrub, rinse, dry.
 
 **Worksheet**
 
-1. Keeping my own body clean every day is ____ hygiene. A) personal B) school C) market D) road
-2. I brush my teeth in the morning and at ____ . A) night B) noon C) dawn D) dusk only
+1. Keeping my own body clean every day is ____ hygiene. A) market B) personal C) school D) road
+2. I brush my teeth in the morning and at ____ . A) noon B) dawn C) night D) dusk only
 3. I bathe with soap and ____ . A) water B) sand C) oil D) dust
 4. Fill in: I wear ____ clothes every day.
 5. Mention two things I do to keep clean.
@@ -2407,9 +2427,9 @@ Draw myself brushing my teeth in the morning.
 
 **Worksheet**
 
-1. I keep my nails clean and ____ . A) trimmed B) long C) dirty D) painted
+1. I keep my nails clean and ____ . A) trimmed B) painted C) long D) dirty
 2. I blow my nose gently into a ____ . A) leaf B) tissue C) shoe D) stone
-3. I wash my body ____ . A) daily B) yearly C) never D) monthly only
+3. I wash my body ____ . A) yearly B) monthly only C) never D) daily
 4. Fill in: I cut my nails with a clean ____.
 5. Mention two parts of the body I keep clean.
 6. Write one way I care for my body.
@@ -2455,9 +2475,9 @@ Draw myself with clean hands and short nails.
 
 **Worksheet**
 
-1. We put waste in the ____ . A) dustbin B) river C) road D) desk
-2. Throwing rubbish about is called ____ . A) littering B) sweeping C) mopping D) planting
-3. A dirty environment breeds germs, flies and ____ . A) mosquitoes B) flowers C) songs D) stars
+1. We put waste in the ____ . A) road B) dustbin C) river D) desk
+2. Throwing rubbish about is called ____ . A) sweeping B) mopping C) littering D) planting
+3. A dirty environment breeds germs, flies and ____ . A) songs B) mosquitoes C) flowers D) stars
 4. Fill in: We clean the floor with a broom by ____.
 5. Mention two places we keep clean.
 6. Write one way a clean environment helps us.
@@ -4283,6 +4303,1269 @@ revision and the end-of-term paper, so no note is written for them.
 
 • Draw one animal and name it in Yoruba.
 
+---
+
+### WEEK 11 — OÚNJẸ (FOOD)
+
+**You will learn to**
+
+• name foods in Yoruba
+
+• say the Yoruba word for each food
+
+• thank God for our food
+
+**Things to know**
+
+• **Oúnjẹ** means food.
+
+• **Iṣu** means yam.
+
+• **Èsà** or **ìrẹsì** means rice.
+
+• **Ẹ̀wà** means beans.
+
+• **Ẹ̀fọ́** means vegetable or leaves.
+
+• **Ẹja** means fish.
+
+• **Ẹran** means meat.
+
+• **Omi** means water.
+
+• **Wàrà** means milk.
+
+• We thank God for our food.
+
+**Let us talk**
+
+1. What is "oúnjẹ" in English?
+
+2. What is the Yoruba word for yam?
+
+3. Name one food you eat at home.
+
+**Words for my notebook**
+
+• oúnjẹ — food
+
+• iṣu — yam
+
+• omi — water
+
+**Worksheet**
+
+1. "Oúnjẹ" means ___.
+   A) food B) water C) house D) road
+
+2. "Iṣu" means ___.
+   A) yam B) rice C) fish D) meat
+
+3. "Omi" means ___.
+   A) water B) milk C) beans D) yam
+
+4. "Ẹja" means ___.
+   A) fish B) meat C) rice D) water
+
+5. Fill in: Rice in Yoruba is _____.
+
+6. Mention two foods in Yoruba.
+
+7. Write the Yoruba word for water.
+
+**My own work**
+
+• Draw one food you like and name it in Yoruba.
+
+
+---
+
+# Mathematics & English
+
+## ENGLISH LANGUAGE
+
+### WEEK 1 — PHONEMIC AWARENESS I: IDENTIFYING AND PRODUCING SOUNDS
+
+**You will learn to**
+
+• hear the sounds in words
+
+• say the first sound of a word
+
+• produce the sound of a letter
+
+**Things to know**
+
+• Every word is made of **sounds**.
+
+• We can hear the sounds in a word.
+
+• The first sound of **cat** is /k/.
+
+• The first sound of **ball** is /b/.
+
+• The first sound of **sun** is /s/.
+
+• We say the sound, not the letter name.
+
+• **a** says /a/, **b** says /b/, **c** says /k/.
+
+• We clap the sounds in a word: c-a-t.
+
+• Some words begin with the same sound.
+
+• Hearing sounds helps us to read and spell.
+
+**Let us talk**
+
+1. What is the first sound in "cat"?
+
+2. What is the first sound in "ball"?
+
+3. Clap the sounds in "sun".
+
+**Words for my notebook**
+
+• sound — what we hear in a word
+
+• first sound — the sound a word starts with
+
+• letter — a mark that stands for a sound
+
+**Worksheet**
+
+1. The first sound in "cat" is ___.
+   A) /k/ B) /b/ C) /s/ D) /m/
+
+2. The first sound in "ball" is ___.
+   A) /b/ B) /k/ C) /t/ D) /d/
+
+3. The first sound in "sun" is ___.
+   A) /s/ B) /b/ C) /k/ D) /n/
+
+4. A word is made of ___.
+   A) sounds B) numbers C) signs D) lines
+
+5. Fill in: The first sound in "man" is _____.
+
+6. Mention two words that begin with /b/.
+
+7. Write the first sound of "dog".
+
+**My own work**
+
+• Draw three things and write the first sound of each.
+
+---
+
+### WEEK 2 — USING SOUNDS TO SPELL AND PRONOUNCE WORDS
+
+**You will learn to**
+
+• blend sounds to read a word
+
+• spell a word by its sounds
+
+• pronounce words correctly
+
+**Things to know**
+
+• We put sounds together to read a word. This is **blending**.
+
+• c-a-t blends to **cat**.
+
+• d-o-g blends to **dog**.
+
+• We say each sound, then the whole word.
+
+• To spell, we say the sounds in order.
+
+• **pen** is p-e-n.
+
+• We pronounce a word by saying its sounds clearly.
+
+• Short words have two or three sounds.
+
+• Blending helps us to read new words.
+
+• We read words aloud with the right sounds.
+
+**Let us talk**
+
+1. What sounds make "cat"?
+
+2. Spell the word "dog".
+
+3. What is blending?
+
+**Words for my notebook**
+
+• blend — to put sounds together to read
+
+• spell — to say the letters or sounds of a word
+
+• pronounce — to say a word clearly
+
+**Worksheet**
+
+1. c-a-t blends to ___.
+   A) cat B) dog C) pen D) sun
+
+2. d-o-g blends to ___.
+   A) dog B) cat C) man D) hat
+
+3. To spell a word we say its ___.
+   A) sounds B) colour C) size D) shape
+
+4. "pen" is spelled ___.
+   A) p-e-n B) d-o-g C) c-a-t D) s-u-n
+
+5. Fill in: Putting sounds together to read is _____.
+
+6. Mention two three-sound words.
+
+7. Write the sounds of the word "man".
+
+**My own work**
+
+• Trace and write three words, saying their sounds.
+
+---
+
+### WEEK 3 — COMPREHENSION I: SHORT STORIES AND RHYMES
+
+**You will learn to**
+
+• listen to a short story
+
+• answer questions about a story
+
+• say what a rhyme is
+
+**Things to know**
+
+• A **story** tells us about people and events.
+
+• We listen to a story with care.
+
+• A story has a **beginning**, a **middle** and an **end**.
+
+• We answer questions about the story.
+
+• Who, what and where help us to talk about a story.
+
+• A **rhyme** has words that sound the same at the end.
+
+• **Cat** and **hat** rhyme.
+
+• Rhymes are fun to say and sing.
+
+• We can act out a story.
+
+• Listening well helps us to understand.
+
+**Let us talk**
+
+1. What is a story?
+
+2. What two words rhyme: cat, dog, hat?
+
+3. Name the parts of a story.
+
+**Words for my notebook**
+
+• story — a tale about people and events
+
+• rhyme — words that sound the same at the end
+
+• listen — to hear with care
+
+**Worksheet**
+
+1. A story has a beginning, a middle and an ___.
+   A) end B) middle C) start D) middle only
+
+2. Which two words rhyme?
+   A) cat and hat B) cat and dog C) dog and pen D) sun and man
+
+3. We listen to a story with ___.
+   A) care B) noise C) sleep D) anger
+
+4. A rhyme has words that sound the ___ at the end.
+   A) same B) different C) loud D) soft
+
+5. Fill in: A tale about people and events is a _____.
+
+6. Mention two words that rhyme.
+
+7. Write the first thing that happened in a story you know.
+
+**My own work**
+
+• Draw one scene from a story I like.
+
+---
+
+### WEEK 4 — ADJECTIVES: DESCRIBING WORDS
+
+**You will learn to**
+
+• say what a describing word is
+
+• use describing words
+
+• describe people and things
+
+**Things to know**
+
+• A **describing word** tells us more about a noun.
+
+• A describing word is also called an **adjective**.
+
+• **Big**, **small**, **tall**, **short** are describing words.
+
+• **Red**, **blue**, **green** are describing words.
+
+• **Hot**, **cold**, **sweet**, **sour** are describing words.
+
+• The **big** dog barks. The **red** ball rolls.
+
+• Describing words tell size, colour and taste.
+
+• We use describing words to talk about things.
+
+• A describing word comes before the noun.
+
+• Describing words make our talk clear.
+
+**Let us talk**
+
+1. What is a describing word?
+
+2. Name one describing word.
+
+3. Describe a ball.
+
+**Words for my notebook**
+
+• adjective — a describing word
+
+• big — large in size
+
+• red — a colour
+
+**Worksheet**
+
+1. A describing word is also called an ___.
+   A) adjective B) noun C) verb D) adverb
+
+2. Which is a describing word?
+   A) big B) run C) boy D) and
+
+3. Which is a colour word?
+   A) red B) jump C) table D) she
+
+4. The ___ dog barks. Which word fits?
+   A) big B) runs C) dog D) quickly
+
+5. Fill in: A word that tells size or colour is an _____.
+
+6. Mention two describing words.
+
+7. Write one describing word in a sentence.
+
+**My own work**
+
+• Draw a big thing and a small thing, and label each.
+
+---
+
+### WEEK 5 — PHONICS II: CONSONANT BLENDS AND DIGRAPHS
+
+**You will learn to**
+
+• know consonant blends
+
+• know digraphs
+
+• read words with blends and digraphs
+
+**Things to know**
+
+• A **blend** is two or three consonants said together, each keeping its sound.
+
+• **st** as in **stop**, **star**. **tr** as in **tree**, **trip**.
+
+• **bl** as in **black**, **blue**. **sp** as in **spin**, **spot**.
+
+• A **digraph** is two letters that make one new sound.
+
+• **sh** says /sh/ as in **ship**, **fish**.
+
+• **ch** says /ch/ as in **chin**, **chip**.
+
+• **th** says /th/ as in **this**, **that**.
+
+• In a blend we hear each sound; in a digraph we hear one sound.
+
+• st-op makes **stop**. sh-ip makes **ship**.
+
+• Blends and digraphs help us read more words.
+
+**Let us talk**
+
+1. What is a blend?
+
+2. What is a digraph?
+
+3. Name a word with sh.
+
+**Words for my notebook**
+
+• blend — consonants said together, each sound heard
+
+• digraph — two letters making one new sound
+
+• sh — /sh/ as in ship
+
+**Worksheet**
+
+1. A blend is consonants said ___.
+   A) together B) apart C) never D) slowly
+
+2. A digraph makes ___ new sound.
+   A) one B) two C) three D) no
+
+3. st is in ___.
+   A) stop B) ship C) chin D) this
+
+4. sh says /sh/ as in ___.
+   A) ship B) tree C) black D) spin
+
+5. Fill in: ch says /ch/ as in _____.
+
+6. Mention two words with blends.
+
+7. Write two words with digraphs.
+
+**My own work**
+
+• Trace and write two blend words and two digraph words.
+
+---
+
+### WEEK 6 — LISTENING AND SPEAKING: ASKING AND ANSWERING QUESTIONS
+
+**You will learn to**
+
+• ask simple questions
+
+• answer questions
+
+• listen and speak clearly
+
+**Things to know**
+
+• We ask questions to find out things.
+
+• A question often begins with **who**, **what**, **where** or **when**.
+
+• **Who** is your teacher? **What** is this?
+
+• **Where** is the book? **When** do we go home?
+
+• A question ends with a **question mark** ( ? ).
+
+• We answer a question with a full sentence.
+
+• We listen well before we answer.
+
+• We speak clearly so others hear us.
+
+• We take turns to speak.
+
+• Asking and answering helps us to learn.
+
+**Let us talk**
+
+1. Name one question word.
+
+2. What mark ends a question?
+
+3. Ask a question with "what".
+
+**Words for my notebook**
+
+• question — a word or words that ask something
+
+• question mark — the mark ? at the end
+
+• answer — what we say back
+
+**Worksheet**
+
+1. A question ends with a ___.
+   A) question mark B) full stop C) comma D) letter
+
+2. Which is a question word?
+   A) who B) run C) big D) and
+
+3. "___ is this?" Which word fits?
+   A) What B) Run C) Blue D) She
+
+4. We answer a question with a full ___.
+   A) sentence B) word only C) letter D) number
+
+5. Fill in: "_____ is your teacher?" (Who/Blue)
+
+6. Mention two question words.
+
+7. Write one question.
+
+**My own work**
+
+• Draw a friend and write one question I can ask them.
+
+---
+
+### WEEK 8 — SIMPLE PRESENT AND PAST TENSE OF COMMON VERBS
+
+**You will learn to**
+
+• say what tense means
+
+• use the present tense
+
+• use the past tense
+
+**Things to know**
+
+• **Tense** tells us when an action happens.
+
+• The **present tense** tells what happens now.
+
+• The **past tense** tells what has already happened.
+
+• I **walk** now. I **walked** yesterday.
+
+• I **eat** now. I **ate** this morning.
+
+• I **run** now. I **ran** yesterday.
+
+• Many past-tense words end in **-ed**.
+
+• Some past-tense words change: eat → ate, run → ran.
+
+• We choose the right tense for the time.
+
+• Tense helps us to tell when.
+
+**Let us talk**
+
+1. What does tense tell us?
+
+2. What is the past of "walk"?
+
+3. What is the past of "eat"?
+
+**Words for my notebook**
+
+• tense — when an action happens
+
+• present tense — happening now
+
+• past tense — already happened
+
+**Worksheet**
+
+1. Tense tells us ___ an action happens.
+   A) when B) where C) who D) why
+
+2. The past of "walk" is ___.
+   A) walked B) walking C) walks D) walk
+
+3. The past of "eat" is ___.
+   A) ate B) eat C) eating D) eats
+
+4. The past of "run" is ___.
+   A) ran B) run C) running D) runs
+
+5. Fill in: I _____ yesterday. (played/play)
+
+6. Mention two past-tense words.
+
+7. Write the past of "jump".
+
+**My own work**
+
+• Draw something I did yesterday and write it in the past tense.
+
+---
+
+### WEEK 9 — PHONEMIC AWARENESS II: SOUND PATTERNS AND WORD FAMILIES
+
+**You will learn to**
+
+• hear sound patterns in words
+
+• name word families
+
+• read words in a family
+
+**Things to know**
+
+• A **word family** is a group of words that end the same way.
+
+• The **-at** family: cat, bat, hat, mat, sat.
+
+• The **-an** family: man, pan, van, can.
+
+• The **-ig** family: big, dig, pig, wig.
+
+• The **-op** family: hop, mop, top, pop.
+
+• Words in a family share the same ending sound.
+
+• We change the first sound to make a new word in the family.
+
+• Sound patterns help us to read and spell.
+
+• We can sort words into families.
+
+• Knowing word families makes reading easy.
+
+**Let us talk**
+
+1. What is a word family?
+
+2. Name two -at words.
+
+3. How do we make a new word in a family?
+
+**Words for my notebook**
+
+• word family — words that end the same way
+
+• sound pattern — the way sounds repeat in words
+
+• -at family — cat, bat, hat
+
+**Worksheet**
+
+1. A word family is words that end the ___ way.
+   A) same B) different C) loud D) soft
+
+2. Which is in the -at family?
+   A) cat B) dog C) pen D) sun
+
+3. Which is in the -ig family?
+   A) pig B) top C) man D) hop
+
+4. We change the ___ sound to make a new word in a family.
+   A) first B) last C) middle D) no
+
+5. Fill in: Words that end the same way are a word _____.
+
+6. Mention two words in the -an family.
+
+7. Write two words in the -op family.
+
+**My own work**
+
+• Trace and write four words in the -at family.
+
+## MATHEMATICS
+
+### WEEK 1 — WHOLE NUMBERS 1 TO 100
+
+**You will learn to**
+
+• count and write whole numbers from 1 to 100
+
+• read numbers from 1 to 100
+
+• count objects up to 100
+
+**Things to know**
+
+• We count 1, 2, 3, 4, 5 and keep going to 100.
+
+• Each number has a **name** and a **figure**.
+
+• **10** comes after 9. **20** comes after 19.
+
+• We count in tens: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100.
+
+• A number tells us how many of a thing.
+
+• We count with sticks, stones and bottle caps.
+
+• **100** has three figures.
+
+• We write our figures neatly in rows.
+
+• Counting helps us to know how many.
+
+• Numbers get bigger as we count on.
+
+**Let us talk**
+
+1. Count from 1 to 20.
+
+2. What number comes after 99?
+
+3. How do we count objects?
+
+**Words for my notebook**
+
+• count — to say numbers in order
+
+• figure — the way we write a number
+
+• hundred — the number 100
+
+**Worksheet**
+
+1. What number comes after 9?
+   A) 10 B) 8 C) 11 D) 5
+
+2. We count 10, 20, 30, 40, ___.
+   A) 50 B) 45 C) 60 D) 15
+
+3. A number tells us how ___ of a thing.
+   A) many B) few C) long D) far
+
+4. 100 has ___ figures.
+   A) three B) one C) two D) four
+
+5. Fill in: The number after 99 is _____.
+
+6. Mention two numbers between 1 and 100.
+
+7. Write the figures from 1 to 10.
+
+**My own work**
+
+• Count and draw 20 sticks in bundles of ten.
+
+---
+
+### WEEK 2 — WHOLE NUMBERS 101 TO 9000
+
+**You will learn to**
+
+• count and write numbers from 101 to 9000
+
+• read big numbers
+
+• say the place value of a figure
+
+**Things to know**
+
+• After 100 comes **101**.
+
+• We count in hundreds: 100, 200, 300, 400, 500.
+
+• A three-figure number has **hundreds**, **tens** and **units**.
+
+• **1,000** is one thousand.
+
+• We count in thousands: 1000, 2000, 3000, 4000, 5000.
+
+• The figure on the left is the biggest place.
+
+• Big numbers name many things.
+
+• We read big numbers in groups.
+
+• **Place value** tells what each figure is worth.
+
+• We write big figures neatly.
+
+**Let us talk**
+
+1. What number comes after 100?
+
+2. What is 1,000 called?
+
+3. What does place value tell us?
+
+**Words for my notebook**
+
+• thousand — the number 1000
+
+• hundreds — the third place from the right
+
+• place value — what a figure is worth
+
+**Worksheet**
+
+1. What number comes after 100?
+   A) 101 B) 110 C) 99 D) 200
+
+2. We count 100, 200, 300, ___.
+   A) 400 B) 150 C) 500 D) 1000
+
+3. 1,000 is one ___.
+   A) thousand B) hundred C) ten D) million
+
+4. In 235, the 2 is in the ___ place.
+   A) hundreds B) tens C) units D) thousands
+
+5. Fill in: The number after 199 is _____.
+
+6. Mention two numbers between 101 and 9000.
+
+7. Write the figures 100, 200, 300.
+
+**My own work**
+
+• Draw and label the number 1,000.
+
+---
+
+### WEEK 3 — FRACTIONS (PART 1)
+
+**You will learn to**
+
+• say what a fraction is
+
+• name a half
+
+• share a thing into halves
+
+**Things to know**
+
+• A **fraction** is a part of a whole.
+
+• When we share a thing into **2 equal parts**, each part is a **half**.
+
+• We write a half as **1/2**.
+
+• A whole orange shared into 2 gives 2 halves.
+
+• **Half** means one of two equal parts.
+
+• We cut a cake into two halves.
+
+• Each half is the same size.
+
+• Fractions let us share a thing equally.
+
+• We see halves in everyday things.
+
+• A half is smaller than the whole.
+
+**Let us talk**
+
+1. What is a fraction?
+
+2. How do we write a half?
+
+3. What do we call one of two equal parts?
+
+**Words for my notebook**
+
+• fraction — a part of a whole
+
+• half — one of two equal parts
+
+• whole — the complete thing
+
+**Worksheet**
+
+1. A fraction is a part of a ___.
+   A) whole B) number C) letter D) sound
+
+2. One of two equal parts is a ___.
+   A) half B) quarter C) whole D) ten
+
+3. We write a half as ___.
+   A) 1/2 B) 1/4 C) 2/1 D) 1/10
+
+4. A whole shared into 2 equal parts gives ___ halves.
+   A) 2 B) 4 C) 1 D) 3
+
+5. Fill in: A part of a whole is a _____.
+
+6. Mention two things we can share into halves.
+
+7. Write how we write a half.
+
+**My own work**
+
+• Draw a circle and colour one half of it.
+
+---
+
+### WEEK 4 — FRACTIONS (PART 2)
+
+**You will learn to**
+
+• name a quarter
+
+• share a thing into quarters
+
+• compare a half and a quarter
+
+**Things to know**
+
+• When we share a thing into **4 equal parts**, each part is a **quarter**.
+
+• We write a quarter as **1/4**.
+
+• A whole shared into 4 gives 4 quarters.
+
+• A **quarter** is smaller than a half.
+
+• A half is 1 of 2 equal parts.
+
+• A quarter is 1 of 4 equal parts.
+
+• We cut a mango into four quarters.
+
+• Four quarters make a whole.
+
+• Two halves make a whole.
+
+• Fractions help us to share fairly.
+
+**Let us talk**
+
+1. What is a quarter?
+
+2. How do we write a quarter?
+
+3. Which is bigger, a half or a quarter?
+
+**Words for my notebook**
+
+• quarter — one of four equal parts
+
+• equal parts — parts of the same size
+
+• share — to divide among others
+
+**Worksheet**
+
+1. One of four equal parts is a ___.
+   A) quarter B) half C) whole D) tenth
+
+2. We write a quarter as ___.
+   A) 1/4 B) 1/2 C) 4/1 D) 1/10
+
+3. A whole shared into 4 equal parts gives ___ quarters.
+   A) 4 B) 2 C) 1 D) 3
+
+4. Which is smaller?
+   A) a quarter B) a half C) a whole D) they are equal
+
+5. Fill in: Four quarters make a _____.
+
+6. Mention two things we can share into quarters.
+
+7. Write how we write a quarter.
+
+**My own work**
+
+• Draw a square and colour one quarter of it.
+
+---
+
+### WEEK 5 — ADDITION (PART 1)
+
+**You will learn to**
+
+• add small whole numbers
+
+• use the plus sign
+
+• solve addition sums up to 20
+
+**Things to know**
+
+• **Addition** means putting together.
+
+• The plus sign **+** means add.
+
+• The equal sign **=** means the answer.
+
+• 2 + 3 = 5.
+
+• We add with our fingers, sticks or bottle caps.
+
+• When we add, the number gets bigger.
+
+• We add units to units.
+
+• 5 + 4 = 9.
+
+• Addition gives the **total**.
+
+• The answer of addition is called the sum or total.
+
+**Let us talk**
+
+1. What does the plus sign mean?
+
+2. What is 2 + 3?
+
+3. How do we add with sticks?
+
+**Words for my notebook**
+
+• addition — putting together
+
+• plus sign — + , means add
+
+• total — the answer of addition
+
+**Worksheet**
+
+1. Addition means putting ___.
+   A) together B) apart C) away D) down
+
+2. The plus sign is ___.
+   A) + B) − C) = D) ×
+
+3. 2 + 3 = ___.
+   A) 5 B) 4 C) 6 D) 1
+
+4. 5 + 4 = ___.
+   A) 9 B) 8 C) 10 D) 7
+
+5. Fill in: The answer of addition is the _____.
+
+6. Mention two addition sums.
+
+7. Write 6 + 3 and its answer.
+
+**My own work**
+
+• Draw 4 balls and 3 balls, then count them all.
+
+---
+
+### WEEK 6 — ADDITION (PART 2)
+
+**You will learn to**
+
+• add bigger whole numbers
+
+• add two-digit numbers
+
+• solve addition sums up to 100
+
+**Things to know**
+
+• We can add numbers up to 100.
+
+• We add the **units** first, then the **tens**.
+
+• 12 + 5 = 17.
+
+• 20 + 30 = 50.
+
+• We line up the tens under tens and units under units.
+
+• When the units make 10, we **carry** one ten.
+
+• Addition of big numbers follows the same steps.
+
+• We check our answer by counting on.
+
+• Addition helps us to find how many altogether.
+
+• We write our sums neatly in columns.
+
+**Let us talk**
+
+1. What do we add first, tens or units?
+
+2. What is 12 + 5?
+
+3. What does it mean to carry?
+
+**Words for my notebook**
+
+• carry — to move one ten to the tens place
+
+• two-digit number — a number with tens and units
+
+• sum — an addition question
+
+**Worksheet**
+
+1. We add the ___ first.
+   A) units B) tens C) hundreds D) thousands
+
+2. 12 + 5 = ___.
+   A) 17 B) 16 C) 18 D) 15
+
+3. 20 + 30 = ___.
+   A) 50 B) 40 C) 60 D) 23
+
+4. When units make 10 we ___ one ten.
+   A) carry B) drop C) hide D) lose
+
+5. Fill in: 25 + 4 = _____.
+
+6. Mention two addition sums with two-digit numbers.
+
+7. Write 30 + 20 and its answer.
+
+**My own work**
+
+• Draw and solve 15 + 4.
+
+---
+
+### WEEK 8 — SUBTRACTION (PART 1)
+
+**You will learn to**
+
+• subtract small whole numbers
+
+• use the minus sign
+
+• solve subtraction sums up to 20
+
+**Things to know**
+
+• **Subtraction** means taking away.
+
+• The minus sign **−** means take away.
+
+• 5 − 2 = 3.
+
+• We subtract with sticks or bottle caps.
+
+• When we subtract, the number gets smaller.
+
+• We take units from units.
+
+• 8 − 3 = 5.
+
+• Subtraction tells us what is **left**.
+
+• The answer of subtraction is what remains.
+
+• Addition and subtraction are opposite.
+
+**Let us talk**
+
+1. What does the minus sign mean?
+
+2. What is 5 − 2?
+
+3. How do we subtract with sticks?
+
+**Words for my notebook**
+
+• subtraction — taking away
+
+• minus sign — − , means take away
+
+• left — what remains
+
+**Worksheet**
+
+1. Subtraction means taking ___.
+   A) away B) together C) more D) up
+
+2. The minus sign is ___.
+   A) − B) + C) = D) ×
+
+3. 5 − 2 = ___.
+   A) 3 B) 4 C) 2 D) 7
+
+4. 8 − 3 = ___.
+   A) 5 B) 6 C) 4 D) 11
+
+5. Fill in: The answer of subtraction is what is _____.
+
+6. Mention two subtraction sums.
+
+7. Write 7 − 4 and its answer.
+
+**My own work**
+
+• Draw 7 balls, cross out 3, and count what is left.
+
+---
+
+### WEEK 9 — SUBTRACTION (PART 2)
+
+**You will learn to**
+
+• subtract bigger whole numbers
+
+• subtract two-digit numbers
+
+• solve subtraction sums up to 100
+
+**Things to know**
+
+• We can subtract numbers up to 100.
+
+• We subtract the **units** first, then the **tens**.
+
+• 19 − 5 = 14.
+
+• 50 − 20 = 30.
+
+• We set the tens and units in straight columns.
+
+• When we cannot take, we **borrow** one ten.
+
+• Subtraction of big numbers follows the same steps.
+
+• We check by adding the answer back.
+
+• Subtraction helps us to find the difference.
+
+• We keep our work tidy in columns.
+
+**Let us talk**
+
+1. What do we subtract first, tens or units?
+
+2. What is 19 − 5?
+
+3. What does it mean to borrow?
+
+**Words for my notebook**
+
+• borrow — to take one ten to help subtract
+
+• difference — the answer of subtraction
+
+• subtract — to take away
+
+**Worksheet**
+
+1. We subtract the ___ first.
+   A) units B) tens C) hundreds D) thousands
+
+2. 19 − 5 = ___.
+   A) 14 B) 15 C) 13 D) 24
+
+3. 50 − 20 = ___.
+   A) 30 B) 40 C) 70 D) 25
+
+4. When we cannot take we ___ one ten.
+   A) borrow B) carry C) hide D) lose
+
+5. Fill in: 18 − 6 = _____.
+
+6. Mention two subtraction sums with two-digit numbers.
+
+7. Write 40 − 10 and its answer.
+
+**My own work**
+
+• Draw and solve 18 − 6.
+
 
 ---
 
@@ -4329,7 +5612,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 1. I see with my ____ . A) eyes B) nose C) ears D) hands
 2. The part of the body I walk with is my ____ . A) teeth B) hair C) ears D) legs
-3. How many arms does a person have? A) two B) four C) one D) three
+3. How many arms does a person have? A) three B) four C) two D) one
 4. Fill in: I hear with my ____.
 5. Mention two parts of the head.
 6. Write your full name and your age.
@@ -4375,8 +5658,8 @@ Draw my face and put in my eyes, ears, nose and mouth.
 
 **Worksheet**
 
-1. The group of people I live with is my ____ . A) family B) market C) school D) class
-2. My father is also called my ____ . A) dad B) uncle C) chief D) king
+1. The group of people I live with is my ____ . A) class B) market C) family D) school
+2. My father is also called my ____ . A) king B) uncle C) dad D) chief
 3. My brother and my sister are my ____ . A) siblings B) friends C) teachers D) strangers
 4. Fill in: My mother is also called my ____.
 5. Mention two ways a family shows love.
@@ -4464,17 +5747,17 @@ Draw my teacher at the board in my classroom.
 
 **Words for my notebook**
 
-• board — where the teacher writes
+• board — the flat surface at the front of the class for writing
 • rule — what we must keep
 • raise — to lift my hand
 • tidy — clean and in order
 
 **Worksheet**
 
-1. Before I speak in class I ____ my hand. A) raise B) drop C) hide D) shake
+1. Before I speak in class I ____ my hand. A) raise B) shake C) drop D) hide
 2. We write our lessons in our ____ . A) shoes B) books C) caps D) bags
-3. In the classroom we ____ , we do not run. A) walk B) jump C) shout D) fight
-4. Fill in: The teacher writes on the ____.
+3. In the classroom we ____ , we do not run. A) walk B) shout C) fight D) jump
+4. Fill in: We write with chalk on the ____.
 5. Mention two rules of the classroom.
 6. Write one way you care for your books.
 7. Draw my desk, my chair and my book.
@@ -4520,7 +5803,7 @@ Draw my classroom and put a bin in the corner.
 **Worksheet**
 
 1. The people who live near my home are my ____ . A) neighbours B) drivers C) teachers D) nurses
-2. The road near my house is my ____ . A) street B) river C) bridge D) hill
+2. The road near my house is my ____ . A) bridge B) river C) hill D) street
 3. We keep the compound clean by ____ it. A) sweeping B) breaking C) flooding D) dirtying
 4. Fill in: My home is where I ____.
 5. Mention two ways we keep the neighbourhood clean.
@@ -4616,7 +5899,7 @@ Draw one helper in my community and the tool they use.
 **Worksheet**
 
 1. My country is ____ . A) Kenya B) Egypt C) Nigeria D) Ghana
-2. The Nigerian flag is green, white and ____ . A) green B) red C) blue D) black
+2. The Nigerian flag is green, white and ____ . A) black B) red C) green D) blue
 3. The white on the flag stands for ____ . A) peace B) war C) sand D) rain
 4. Fill in: The capital city of Nigeria is ____.
 5. Mention the three bands of the flag in order.
@@ -6348,6 +7631,378 @@ Answer in full sentences.
 43. Count from one to five in Yoruba. (2 marks)
 44. Name two colours in Yoruba. (2 marks)
 45. Name two animals in Yoruba. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. The first sound in "cat" is ___
+   A) /m/
+   B) /s/
+   C) /b/
+   D) /k/
+2. The first sound in "ball" is ___
+   A) /t/
+   B) /b/
+   C) /k/
+   D) /d/
+3. The first sound in "sun" is ___
+   A) /b/
+   B) /n/
+   C) /s/
+   D) /k/
+4. A word is made of ___
+   A) sounds
+   B) numbers
+   C) lines
+   D) signs
+5. c-a-t blends to ___
+   A) dog
+   B) sun
+   C) pen
+   D) cat
+6. d-o-g blends to ___
+   A) cat
+   B) dog
+   C) hat
+   D) man
+7. To spell a word we say its ___
+   A) sounds
+   B) shape
+   C) size
+   D) colour
+8. "pen" is spelled ___
+   A) c-a-t
+   B) s-u-n
+   C) p-e-n
+   D) d-o-g
+9. A story has a beginning, a middle and an ___
+   A) start
+   B) end
+   C) middle
+   D) middle only
+10. Which two words rhyme?
+   A) dog and pen
+   B) sun and man
+   C) cat and dog
+   D) cat and hat
+11. We listen to a story with ___
+   A) sleep
+   B) noise
+   C) care
+   D) anger
+12. A rhyme has words that sound the ___ at the end
+   A) different
+   B) same
+   C) loud
+   D) soft
+13. A describing word is also called an ___
+   A) adjective
+   B) adverb
+   C) noun
+   D) verb
+14. Which is a describing word?
+   A) and
+   B) boy
+   C) run
+   D) big
+15. Which is a colour word?
+   A) she
+   B) table
+   C) red
+   D) jump
+16. The ___ dog barks. Which word fits?
+   A) big
+   B) dog
+   C) quickly
+   D) runs
+17. A blend is consonants said ___
+   A) apart
+   B) never
+   C) slowly
+   D) together
+18. A digraph makes ___ new sound
+   A) two
+   B) one
+   C) no
+   D) three
+19. st is in ___
+   A) stop
+   B) this
+   C) ship
+   D) chin
+20. sh says /sh/ as in ___
+   A) tree
+   B) black
+   C) spin
+   D) ship
+21. A question ends with a ___
+   A) letter
+   B) comma
+   C) question mark
+   D) full stop
+22. Which is a question word?
+   A) and
+   B) who
+   C) big
+   D) run
+23. "___ is this?" Which word fits?
+   A) What
+   B) Run
+   C) Blue
+   D) She
+24. We answer a question with a full ___
+   A) number
+   B) word only
+   C) letter
+   D) sentence
+25. Tense tells us ___ an action happens
+   A) who
+   B) when
+   C) why
+   D) where
+26. The past of "walk" is ___
+   A) walk
+   B) walking
+   C) walked
+   D) walks
+27. The past of "eat" is ___
+   A) eats
+   B) eating
+   C) eat
+   D) ate
+28. The past of "run" is ___
+   A) ran
+   B) runs
+   C) run
+   D) running
+29. A word family is words that end the ___ way
+   A) loud
+   B) same
+   C) different
+   D) soft
+30. Which is in the -at family?
+   A) sun
+   B) pen
+   C) cat
+   D) dog
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two words that begin with /b/
+32. Name two three-sound words
+33. Name two words that rhyme
+34. Name two describing words
+35. Name two words with blends
+36. Name two words with digraphs
+37. Name two question words
+38. Name two past-tense words
+39. Name two words in the -at family
+40. Name two words in the -ig family
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is the first sound in "dog"? (2 marks)
+42. Spell the word "man". (2 marks)
+43. What is an adjective? Give two examples. (2 marks)
+44. What is the past tense of "jump" and "eat"? (2 marks)
+45. Name two words in the -op family. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. What number comes after 9?
+   A) 8
+   B) 5
+   C) 11
+   D) 10
+2. We count 10, 20, 30, 40, ___
+   A) 45
+   B) 15
+   C) 50
+   D) 60
+3. A number tells us how ___ of a thing
+   A) far
+   B) many
+   C) long
+   D) few
+4. 100 has ___ figures
+   A) one
+   B) four
+   C) two
+   D) three
+5. What number comes after 100?
+   A) 200
+   B) 110
+   C) 101
+   D) 99
+6. We count 100, 200, 300, ___
+   A) 400
+   B) 500
+   C) 150
+   D) 1000
+7. 1,000 is one ___
+   A) hundred
+   B) ten
+   C) million
+   D) thousand
+8. In 235, the 2 is in the ___ place
+   A) units
+   B) hundreds
+   C) tens
+   D) thousands
+9. A fraction is a part of a ___
+   A) letter
+   B) number
+   C) whole
+   D) sound
+10. One of two equal parts is a ___
+   A) half
+   B) quarter
+   C) ten
+   D) whole
+11. We write a half as ___
+   A) 2/1
+   B) 1/4
+   C) 1/10
+   D) 1/2
+12. A whole shared into 2 equal parts gives ___ halves
+   A) 4
+   B) 2
+   C) 1
+   D) 3
+13. One of four equal parts is a ___
+   A) quarter
+   B) whole
+   C) half
+   D) tenth
+14. We write a quarter as ___
+   A) 1/2
+   B) 4/1
+   C) 1/4
+   D) 1/10
+15. A whole shared into 4 equal parts gives ___ quarters
+   A) 2
+   B) 1
+   C) 3
+   D) 4
+16. Which is smaller?
+   A) a whole
+   B) a quarter
+   C) they are equal
+   D) a half
+17. Addition means putting ___
+   A) down
+   B) apart
+   C) together
+   D) away
+18. The plus sign is ___
+   A) +
+   B) =
+   C) ×
+   D) −
+19. 2 + 3 = ___
+   A) 6
+   B) 5
+   C) 1
+   D) 4
+20. 5 + 4 = ___
+   A) 10
+   B) 7
+   C) 8
+   D) 9
+21. We add the ___ first
+   A) units
+   B) thousands
+   C) tens
+   D) hundreds
+22. 12 + 5 = ___
+   A) 18
+   B) 15
+   C) 17
+   D) 16
+23. 20 + 30 = ___
+   A) 60
+   B) 50
+   C) 40
+   D) 23
+24. When units make 10 we ___ one ten
+   A) carry
+   B) lose
+   C) hide
+   D) drop
+25. Subtraction means taking ___
+   A) more
+   B) together
+   C) up
+   D) away
+26. The minus sign is ___
+   A) ×
+   B) +
+   C) −
+   D) =
+27. 5 − 2 = ___
+   A) 3
+   B) 4
+   C) 7
+   D) 2
+28. 8 − 3 = ___
+   A) 4
+   B) 6
+   C) 11
+   D) 5
+29. 19 − 5 = ___
+   A) 15
+   B) 14
+   C) 24
+   D) 13
+30. When we cannot take we ___ one ten
+   A) hide
+   B) lose
+   C) borrow
+   D) carry
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two numbers between 1 and 100
+32. Name two numbers between 101 and 9000
+33. Name two ways to write a fraction
+34. Name two things we can share into halves
+35. Name two addition sums
+36. Name two subtraction sums
+37. Name two things we use to count
+38. Name the two signs we use in sums
+39. Name two parts of a three-figure number
+40. Name two whole numbers bigger than 1000
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. Count from 1 to 20. (2 marks)
+42. What is 6 + 3? Show your work. (2 marks)
+43. What is 9 − 4? Show your work. (2 marks)
+44. What is a half? Draw a shape and show one half. (2 marks)
+45. Write the numbers 100, 200 and 300 in words. (2 marks)
 
 
 ---

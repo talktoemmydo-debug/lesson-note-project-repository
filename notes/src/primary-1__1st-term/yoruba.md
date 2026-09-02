@@ -600,3 +600,77 @@ revision and the end-of-term paper, so no note is written for them.
 **My own work**
 
 • Draw one animal and name it in Yoruba.
+
+---
+
+### WEEK 11 — OÚNJẸ (FOOD)
+
+**You will learn to**
+
+• name foods in Yoruba
+
+• say the Yoruba word for each food
+
+• thank God for our food
+
+**Things to know**
+
+• **Oúnjẹ** means food.
+
+• **Iṣu** means yam.
+
+• **Èsà** or **ìrẹsì** means rice.
+
+• **Ẹ̀wà** means beans.
+
+• **Ẹ̀fọ́** means vegetable or leaves.
+
+• **Ẹja** means fish.
+
+• **Ẹran** means meat.
+
+• **Omi** means water.
+
+• **Wàrà** means milk.
+
+• We thank God for our food.
+
+**Let us talk**
+
+1. What is "oúnjẹ" in English?
+
+2. What is the Yoruba word for yam?
+
+3. Name one food you eat at home.
+
+**Words for my notebook**
+
+• oúnjẹ — food
+
+• iṣu — yam
+
+• omi — water
+
+**Worksheet**
+
+1. "Oúnjẹ" means ___.
+   A) food B) water C) house D) road
+
+2. "Iṣu" means ___.
+   A) yam B) rice C) fish D) meat
+
+3. "Omi" means ___.
+   A) water B) milk C) beans D) yam
+
+4. "Ẹja" means ___.
+   A) fish B) meat C) rice D) water
+
+5. Fill in: Rice in Yoruba is _____.
+
+6. Mention two foods in Yoruba.
+
+7. Write the Yoruba word for water.
+
+**My own work**
+
+• Draw one food you like and name it in Yoruba.

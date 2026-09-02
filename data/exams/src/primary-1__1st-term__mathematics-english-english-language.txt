@@ -1,0 +1,56 @@
+# Mathematics & English · ENGLISH LANGUAGE — Primary 1 · First Term · term paper
+subject: Mathematics & English
+stream: ENGLISH LANGUAGE
+class: Primary 1
+term: 1st Term
+
+[objective]
+The first sound in "cat" is ___ || /k/ || /b/ || /s/ || /m/
+The first sound in "ball" is ___ || /b/ || /k/ || /t/ || /d/
+The first sound in "sun" is ___ || /s/ || /b/ || /k/ || /n/
+A word is made of ___ || sounds || numbers || signs || lines
+c-a-t blends to ___ || cat || dog || pen || sun
+d-o-g blends to ___ || dog || cat || man || hat
+To spell a word we say its ___ || sounds || colour || size || shape
+"pen" is spelled ___ || p-e-n || d-o-g || c-a-t || s-u-n
+A story has a beginning, a middle and an ___ || end || middle || start || middle only
+Which two words rhyme? || cat and hat || cat and dog || dog and pen || sun and man
+We listen to a story with ___ || care || noise || sleep || anger
+A rhyme has words that sound the ___ at the end || same || different || loud || soft
+A describing word is also called an ___ || adjective || noun || verb || adverb
+Which is a describing word? || big || run || boy || and
+Which is a colour word? || red || jump || table || she
+The ___ dog barks. Which word fits? || big || runs || dog || quickly
+A blend is consonants said ___ || together || apart || never || slowly
+A digraph makes ___ new sound || one || two || three || no
+st is in ___ || stop || ship || chin || this
+sh says /sh/ as in ___ || ship || tree || black || spin
+A question ends with a ___ || question mark || full stop || comma || letter
+Which is a question word? || who || run || big || and
+"___ is this?" Which word fits? || What || Run || Blue || She
+We answer a question with a full ___ || sentence || word only || letter || number
+Tense tells us ___ an action happens || when || where || who || why
+The past of "walk" is ___ || walked || walking || walks || walk
+The past of "eat" is ___ || ate || eat || eating || eats
+The past of "run" is ___ || ran || run || running || runs
+A word family is words that end the ___ way || same || different || loud || soft
+Which is in the -at family? || cat || dog || pen || sun
+
+[subobjective]
+Name two words that begin with /b/ :: ball | bat | bag | big
+Name two three-sound words :: cat | dog | pen | man
+Name two words that rhyme :: cat and hat | dog and log | sun and run
+Name two describing words :: big | small | red | hot
+Name two words with blends :: stop | tree | black | spin
+Name two words with digraphs :: ship | chin | this | fish
+Name two question words :: who | what | where | when
+Name two past-tense words :: walked | ate | ran | played
+Name two words in the -at family :: cat | bat | hat | mat
+Name two words in the -ig family :: big | dig | pig | wig
+
+[theory]
+What is the first sound in "dog"? || 2
+Spell the word "man". || 2
+What is an adjective? Give two examples. || 2
+What is the past tense of "jump" and "eat"? || 2
+Name two words in the -op family. || 2
