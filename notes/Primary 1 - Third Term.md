@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 10 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 12 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*10 subjects · 81 lessons · 10 term practice papers. Each part begins on a fresh page.*
+*11 subjects · 97 lessons · 12 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — ENERGY AROUND US](#week-1-energy-around-us) · 3
@@ -96,25 +96,44 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 8 — ÒWE (PROVERBS)](#week-8-òwe-proverbs) · 55
   - [WEEK 9 — ORIN (SONGS)](#week-9-orin-songs) · 55
   - [WEEK 11 — ÌTÀN (STORIES)](#week-11-ìtàn-stories) · 56
-- **[General Knowledge](#general-knowledge)** · 58
-  - [WEEK 1 — TRANSPORTATION](#week-1-transportation) · 58
-  - [WEEK 2 — COMMUNICATION](#week-2-communication) · 58
-  - [WEEK 3 — MONEY AND TRADE](#week-3-money-and-trade) · 59
-  - [WEEK 4 — NATURAL RESOURCES](#week-4-natural-resources) · 60
-  - [WEEK 5 — TECHNOLOGY AROUND US](#week-5-technology-around-us) · 60
-  - [WEEK 6 — RULES AND LAWS](#week-6-rules-and-laws) · 61
-  - [WEEK 8 — BEING A RESPONSIBLE CHILD](#week-8-being-a-responsible-child) · 62
-  - [WEEK 9 — OUR NEIGHBOURS AND THE WORLD](#week-9-our-neighbours-and-the-world) · 62
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 64
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 3rd Term)](#examination-practice-cultural-and-creative-arts-primary-1-3rd-term)** · 66
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)](#examination-practice-christian-religious-studies-primary-1-3rd-term)** · 68
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 70
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 3rd Term)](#examination-practice-nigerian-history-primary-1-3rd-term)** · 72
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 3rd Term)](#examination-practice-physical-and-health-education-primary-1-3rd-term)** · 74
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 3rd Term)](#examination-practice-prevocational-studies-primary-1-3rd-term)** · 76
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 3rd Term)](#examination-practice-social-and-citizenship-studies-primary-1-3rd-term)** · 78
-- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 3rd Term)](#examination-practice-yoruba-primary-1-3rd-term)** · 80
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 3rd Term)](#examination-practice-general-knowledge-primary-1-3rd-term)** · 82
+- **[Mathematics & English](#mathematics-english)** · 58
+  - [WEEK 1 — COMPREHENSION: SHORT STORIES AND POEMS](#week-1-comprehension-short-stories-and-poems) · 58
+  - [WEEK 2 — ASKING AND ANSWERING QUESTIONS ON PAST AND FUTURE ACTIONS](#week-2-asking-and-answering-questions-on-past-and-future-actions) · 58
+  - [WEEK 3 — USE OF ADJECTIVES IN SENTENCES](#week-3-use-of-adjectives-in-sentences) · 59
+  - [WEEK 4 — LISTENING COMPREHENSION (SHORT PARAGRAPHS)](#week-4-listening-comprehension-short-paragraphs) · 60
+  - [WEEK 5 — COMPREHENSION: EVERYDAY SITUATIONS](#week-5-comprehension-everyday-situations) · 60
+  - [WEEK 6 — USING THE PRESENT CONTINUOUS TENSE](#week-6-using-the-present-continuous-tense) · 61
+  - [WEEK 8 — VOCABULARY BUILDING AND SPELLING PRACTICE](#week-8-vocabulary-building-and-spelling-practice) · 62
+  - [WEEK 9 — PHONEMIC AWARENESS AND LISTENING](#week-9-phonemic-awareness-and-listening) · 62
+  - [WEEK 1 — WEIGHT](#week-1-weight) · 63
+  - [WEEK 2 — CAPACITY](#week-2-capacity) · 64
+  - [WEEK 3 — AREA (INTRODUCTION)](#week-3-area-introduction) · 64
+  - [WEEK 4 — 2-DIMENSIONAL SHAPES](#week-4-2-dimensional-shapes) · 65
+  - [WEEK 5 — 3-DIMENSIONAL SHAPES](#week-5-3-dimensional-shapes) · 66
+  - [WEEK 6 — DATA COLLECTION (EVERYDAY STATISTICS)](#week-6-data-collection-everyday-statistics) · 66
+  - [WEEK 8 — REVIEW OF GEOMETRY CONCEPTS](#week-8-review-of-geometry-concepts) · 67
+  - [WEEK 9 — APPLIED PROBLEM SOLVING (ALL CONCEPTS)](#week-9-applied-problem-solving-all-concepts) · 68
+- **[General Knowledge](#general-knowledge)** · 69
+  - [WEEK 1 — TRANSPORTATION](#week-1-transportation) · 69
+  - [WEEK 2 — COMMUNICATION](#week-2-communication) · 69
+  - [WEEK 3 — MONEY AND TRADE](#week-3-money-and-trade) · 70
+  - [WEEK 4 — NATURAL RESOURCES](#week-4-natural-resources) · 71
+  - [WEEK 5 — TECHNOLOGY AROUND US](#week-5-technology-around-us) · 71
+  - [WEEK 6 — RULES AND LAWS](#week-6-rules-and-laws) · 72
+  - [WEEK 8 — BEING A RESPONSIBLE CHILD](#week-8-being-a-responsible-child) · 73
+  - [WEEK 9 — OUR NEIGHBOURS AND THE WORLD](#week-9-our-neighbours-and-the-world) · 73
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 75
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 3rd Term)](#examination-practice-cultural-and-creative-arts-primary-1-3rd-term)** · 77
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)](#examination-practice-christian-religious-studies-primary-1-3rd-term)** · 79
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 81
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 3rd Term)](#examination-practice-nigerian-history-primary-1-3rd-term)** · 83
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 3rd Term)](#examination-practice-physical-and-health-education-primary-1-3rd-term)** · 85
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 3rd Term)](#examination-practice-prevocational-studies-primary-1-3rd-term)** · 87
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 3rd Term)](#examination-practice-social-and-citizenship-studies-primary-1-3rd-term)** · 89
+- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 3rd Term)](#examination-practice-yoruba-primary-1-3rd-term)** · 91
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 3rd Term)](#examination-practice-mathematics-english-english-language-primary-1-3rd-term)** · 93
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 3rd Term)](#examination-practice-mathematics-english-mathematics-primary-1-3rd-term)** · 95
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 3rd Term)](#examination-practice-general-knowledge-primary-1-3rd-term)** · 97
 
 
 
@@ -5616,6 +5635,1195 @@ written for them.
 
 ---
 
+# Mathematics & English
+
+## ENGLISH LANGUAGE
+
+### WEEK 1 — COMPREHENSION: SHORT STORIES AND POEMS
+
+**You will learn to**
+
+• read short stories and poems
+
+• answer questions on them
+
+• say what they are about
+
+**Things to know**
+
+• **Comprehension** means understanding what we read.
+
+• A **story** tells us about people and events.
+
+• A **poem** is a piece of writing with rhythm.
+
+• We read the story or poem with care.
+
+• We find out **who**, **what** and **where**.
+
+• We answer questions about the story or poem.
+
+• We say what the story or poem is about.
+
+• We look for new words and their meaning.
+
+• Reading stories and poems is fun.
+
+• Comprehension helps us understand what we read.
+
+**Let us talk**
+
+1. What is comprehension?
+
+2. What is a poem?
+
+3. What do we find in a story?
+
+**Words for my notebook**
+
+• comprehension — understanding what we read
+
+• story — a piece of writing about people and events
+
+• poem — a piece of writing with rhythm
+
+**Worksheet**
+
+1. Understanding what we read is ___.
+   A) comprehension B) anger C) sleep D) noise
+
+2. A piece of writing with rhythm is a ___.
+   A) poem B) stone C) song D) box
+
+3. A story tells us about people and ___.
+   A) events B) stones C) water D) fire
+
+4. We read the story with ___.
+   A) care B) anger C) noise D) sleep
+
+5. Fill in: A piece of writing about people and events is a _____.
+
+6. Mention two things we find in a story.
+
+7. Write what comprehension is.
+
+**My own work**
+
+• Draw a scene from a story you like.
+
+---
+
+### WEEK 2 — ASKING AND ANSWERING QUESTIONS ON PAST AND FUTURE ACTIONS
+
+**You will learn to**
+
+• ask questions on past actions
+
+• ask questions on future actions
+
+• answer the questions
+
+**Things to know**
+
+• We can ask about things that **happened** (past).
+
+• We can ask about things that **will happen** (future).
+
+• For the past we ask: "What **did** you do?"
+
+• For the past we say: "I **played**."
+
+• For the future we ask: "What **will** you do?"
+
+• For the future we say: "I **will read**."
+
+• **Did** is for the past; **will** is for the future.
+
+• We answer questions with full sentences.
+
+• We listen to the question before we answer.
+
+• Asking and answering helps us talk well.
+
+**Let us talk**
+
+1. What word do we use for the past?
+
+2. What word do we use for the future?
+
+3. Ask one question about yesterday.
+
+**Words for my notebook**
+
+• past — the time that has gone
+
+• future — the time to come
+
+• did — a word for the past
+
+**Worksheet**
+
+1. For the past we ask "What ___ you do?"
+   A) did B) will C) is D) are
+
+2. For the future we ask "What ___ you do?"
+   A) will B) did C) was D) are
+
+3. "I played" is in the ___.
+   A) past B) future C) present D) dream
+
+4. "I will read" is in the ___.
+   A) future B) past C) stone D) song
+
+5. Fill in: The time that has gone is the _____.
+
+6. Mention two questions we can ask about the past.
+
+7. Write one sentence about what you will do tomorrow.
+
+**My own work**
+
+• Write and trace one sentence about yesterday and one about tomorrow.
+
+---
+
+### WEEK 3 — USE OF ADJECTIVES IN SENTENCES
+
+**You will learn to**
+
+• say what an adjective is
+
+• use adjectives in sentences
+
+• describe things
+
+**Things to know**
+
+• An **adjective** is a word that describes a noun.
+
+• An adjective tells us **more** about a thing.
+
+• "A **big** ball" — big is the adjective.
+
+• "A **red** flower" — red is the adjective.
+
+• Adjectives tell **size**, **colour** and **shape**.
+
+• "A **tall** tree", "a **small** cup", "a **round** plate".
+
+• We put the adjective before the noun.
+
+• Adjectives make our sentences clear.
+
+• We use adjectives to describe things.
+
+• Adjectives help us say what things are like.
+
+**Let us talk**
+
+1. What is an adjective?
+
+2. Give one adjective.
+
+3. What does an adjective tell us?
+
+**Words for my notebook**
+
+• adjective — a word that describes a noun
+
+• describe — to say what a thing is like
+
+• noun — a word for a person, place or thing
+
+**Worksheet**
+
+1. A word that describes a noun is an ___.
+   A) adjective B) verb C) stone D) song
+
+2. In "a big ball", the adjective is ___.
+   A) big B) ball C) a D) is
+
+3. Adjectives tell size, colour and ___.
+   A) shape B) noise C) sleep D) food
+
+4. We put the adjective ___ the noun.
+   A) before B) after C) under D) over
+
+5. Fill in: To say what a thing is like is to _____.
+
+6. Mention three adjectives.
+
+7. Write one sentence with an adjective.
+
+**My own work**
+
+• Draw a thing and write an adjective for it.
+
+---
+
+### WEEK 4 — LISTENING COMPREHENSION (SHORT PARAGRAPHS)
+
+**You will learn to**
+
+• listen to short paragraphs
+
+• answer questions on them
+
+• remember what we hear
+
+**Things to know**
+
+• **Listening comprehension** is understanding what we hear.
+
+• We listen to a short **paragraph**.
+
+• A paragraph is a group of sentences about one thing.
+
+• We listen with **care** and attention.
+
+• We remember the **main** ideas.
+
+• We answer questions about the paragraph.
+
+• We listen for **who**, **what** and **where**.
+
+• We do not talk while we listen.
+
+• Listening well helps us learn.
+
+• Listening comprehension helps us understand.
+
+**Let us talk**
+
+1. What is listening comprehension?
+
+2. What is a paragraph?
+
+3. How do we listen well?
+
+**Words for my notebook**
+
+• listening comprehension — understanding what we hear
+
+• paragraph — a group of sentences about one thing
+
+• main idea — the most important thing
+
+**Worksheet**
+
+1. Understanding what we hear is ___ comprehension.
+   A) listening B) running C) sleeping D) eating
+
+2. A group of sentences about one thing is a ___.
+   A) paragraph B) stone C) song D) box
+
+3. We listen with ___ and attention.
+   A) care B) anger C) noise D) sleep
+
+4. We remember the ___ ideas.
+   A) main B) bad C) loud D) dark
+
+5. Fill in: The most important thing is the _____.
+
+6. Mention two things we listen for.
+
+7. Write what listening comprehension is.
+
+**My own work**
+
+• Draw what you heard in a paragraph.
+
+---
+
+### WEEK 5 — COMPREHENSION: EVERYDAY SITUATIONS
+
+**You will learn to**
+
+• read about everyday things
+
+• answer questions on them
+
+• talk about our day
+
+**Things to know**
+
+• We read about **everyday** situations.
+
+• Everyday situations are things that happen every day.
+
+• We read about **home**, **school** and **market**.
+
+• We read about what people do every day.
+
+• We answer questions about what we read.
+
+• We say what happens in the story.
+
+• We talk about our own day.
+
+• We learn new words as we read.
+
+• Reading about everyday things is useful.
+
+• Comprehension helps us understand our world.
+
+**Let us talk**
+
+1. What are everyday situations?
+
+2. Name one everyday situation.
+
+3. What do we do after reading?
+
+**Words for my notebook**
+
+• everyday — happening every day
+
+• situation — what is happening at a time
+
+• understand — to know the meaning
+
+**Worksheet**
+
+1. Things that happen every day are ___ situations.
+   A) everyday B) strange C) old D) new
+
+2. We read about home, school and ___.
+   A) market B) sky C) sea D) fire
+
+3. We answer questions about what we ___.
+   A) read B) eat C) burn D) hide
+
+4. We talk about our own ___.
+   A) day B) stone C) song D) dream
+
+5. Fill in: What is happening at a time is a _____.
+
+6. Mention two everyday situations.
+
+7. Write what you do every day at school.
+
+**My own work**
+
+• Draw one thing you do every day.
+
+---
+
+### WEEK 6 — USING THE PRESENT CONTINUOUS TENSE
+
+**You will learn to**
+
+• say what the present continuous is
+
+• use it in sentences
+
+• talk about now
+
+**Things to know**
+
+• The **present continuous** tense tells what is happening **now**.
+
+• We use **am**, **is** or **are** with the verb.
+
+• The verb ends with **-ing**.
+
+• "I **am reading**" — it is happening now.
+
+• "She **is singing**" — it is happening now.
+
+• "They **are playing**" — it is happening now.
+
+• We use it for actions happening at this moment.
+
+• The present continuous shows action now.
+
+• We make sentences with am, is, are and -ing.
+
+• The present continuous helps us talk about now.
+
+**Let us talk**
+
+1. What does the present continuous tell?
+
+2. What words do we use with it?
+
+3. Make one sentence in the present continuous.
+
+**Words for my notebook**
+
+• present continuous — the tense for what is happening now
+
+• tense — the time of a verb
+
+• now — at this moment
+
+**Worksheet**
+
+1. The tense for what is happening now is the present ___.
+   A) continuous B) past C) future D) stone
+
+2. "I ___ reading" — choose the right word.
+   A) am B) is C) are D) was
+
+3. "She ___ singing" — choose the right word.
+   A) is B) am C) are D) were
+
+4. The verb ends with ___.
+   A) -ing B) -ed C) -s D) -ly
+
+5. Fill in: The time of a verb is its _____.
+
+6. Mention two sentences in the present continuous.
+
+7. Write one sentence about what you are doing now.
+
+**My own work**
+
+• Draw yourself doing something and write the sentence.
+
+---
+
+### WEEK 8 — VOCABULARY BUILDING AND SPELLING PRACTICE
+
+**You will learn to**
+
+• learn new words
+
+• spell words well
+
+• use new words
+
+**Things to know**
+
+• **Vocabulary** is the words we know.
+
+• We learn **new words** every day.
+
+• We learn the **meaning** of new words.
+
+• We practise **spelling** the words.
+
+• We spell by saying the letters in order.
+
+• We use new words in our sentences.
+
+• Reading helps us learn new words.
+
+• We keep a list of new words.
+
+• Good vocabulary helps us talk and write well.
+
+• Spelling well helps us write correctly.
+
+**Let us talk**
+
+1. What is vocabulary?
+
+2. How do we learn new words?
+
+3. Why do we practise spelling?
+
+**Words for my notebook**
+
+• vocabulary — the words we know
+
+• spell — to say or write the letters of a word
+
+• meaning — what a word stands for
+
+**Worksheet**
+
+1. The words we know are our ___.
+   A) vocabulary B) noise C) sleep D) food
+
+2. We learn new words every ___.
+   A) day B) stone C) song D) dream
+
+3. We practise ___ the words.
+   A) spelling B) eating C) burning D) hiding
+
+4. We spell by saying the ___ in order.
+   A) letters B) stones C) songs D) boxes
+
+5. Fill in: What a word stands for is its _____.
+
+6. Mention two new words you have learnt.
+
+7. Write what vocabulary is.
+
+**My own work**
+
+• Write and trace five new words and spell them.
+
+---
+
+### WEEK 9 — PHONEMIC AWARENESS AND LISTENING
+
+**You will learn to**
+
+• hear sounds in words
+
+• say the sounds
+
+• listen for sounds
+
+**Things to know**
+
+• **Phonemic awareness** is hearing the sounds in words.
+
+• Words are made of **sounds**.
+
+• The word "cat" has the sounds **c-a-t**.
+
+• We can hear the **first** sound in a word.
+
+• We can hear the **last** sound in a word.
+
+• We listen for sounds that are the **same**.
+
+• We listen for sounds that are **different**.
+
+• Hearing sounds helps us read and spell.
+
+• We practise saying the sounds in words.
+
+• Phonemic awareness helps us with reading.
+
+**Let us talk**
+
+1. What is phonemic awareness?
+
+2. What are the sounds in "cat"?
+
+3. Why do we hear sounds in words?
+
+**Words for my notebook**
+
+• phonemic awareness — hearing the sounds in words
+
+• sound — what we hear
+
+• letter — a sign that stands for a sound
+
+**Worksheet**
+
+1. Hearing the sounds in words is ___ awareness.
+   A) phonemic B) colour C) size D) weight
+
+2. Words are made of ___.
+   A) sounds B) stones C) water D) fire
+
+3. The word "cat" has the sounds ___.
+   A) c-a-t B) d-o-g C) b-e-d D) s-u-n
+
+4. We can hear the ___ sound in a word.
+   A) first B) no C) zero D) dark
+
+5. Fill in: What we hear is a _____.
+
+6. Mention the sounds in the word "dog".
+
+7. Write what phonemic awareness is.
+
+**My own work**
+
+• Write a word and show its sounds.
+
+## MATHEMATICS
+
+### WEEK 1 — WEIGHT
+
+**You will learn to**
+
+• say what weight is
+
+• compare weight
+
+• use simple balance
+
+**Things to know**
+
+• **Weight** tells how heavy or light a thing is.
+
+• A heavy thing has **more** weight.
+
+• A light thing has **less** weight.
+
+• We use a **balance** or **scale** to measure weight.
+
+• We measure weight in **kilograms** (kg) and **grams** (g).
+
+• A stone is heavier than a feather.
+
+• An elephant is heavier than a cat.
+
+• We can **compare** two things by weight.
+
+• We put the heavy thing down and the light thing up.
+
+• Weight helps us in the market and at home.
+
+**Let us talk**
+
+1. What is weight?
+
+2. Which is heavier, a stone or a feather?
+
+3. What do we use to measure weight?
+
+**Words for my notebook**
+
+• weight — how heavy or light a thing is
+
+• heavy — having a lot of weight
+
+• light — having a little weight
+
+**Worksheet**
+
+1. How heavy or light a thing is called its ___.
+   A) weight B) colour C) name D) age
+
+2. A heavy thing has ___ weight.
+   A) more B) less C) no D) zero
+
+3. We use a ___ to measure weight.
+   A) balance B) ruler C) clock D) cup
+
+4. A stone is ___ than a feather.
+   A) heavier B) lighter C) smaller D) softer
+
+5. Fill in: We measure weight in kilograms and _____.
+
+6. Mention two things we measure by weight.
+
+7. Write what weight is.
+
+**My own work**
+
+• Draw a balance with a heavy and a light thing.
+
+---
+
+### WEEK 2 — CAPACITY
+
+**You will learn to**
+
+• say what capacity is
+
+• compare capacity
+
+• measure liquids
+
+**Things to know**
+
+• **Capacity** is how much a container can hold.
+
+• A big bucket holds **more** water than a cup.
+
+• A small cup holds **less** water.
+
+• We measure liquids like **water** and **milk**.
+
+• We measure capacity in **litres** (l) and **millilitres** (ml).
+
+• We use **cups**, **buckets** and **bottles** to hold liquid.
+
+• A container with a big capacity holds more.
+
+• A container with a small capacity holds less.
+
+• We can compare two containers by capacity.
+
+• Capacity helps us measure drinks and water.
+
+**Let us talk**
+
+1. What is capacity?
+
+2. Which holds more, a bucket or a cup?
+
+3. What do we measure in litres?
+
+**Words for my notebook**
+
+• capacity — how much a container can hold
+
+• container — a thing that holds liquid
+
+• litre — a measure of how much liquid
+
+**Worksheet**
+
+1. How much a container can hold is its ___.
+   A) capacity B) weight C) colour D) name
+
+2. A big bucket holds ___ water than a cup.
+   A) more B) less C) no D) zero
+
+3. We measure liquids like water and ___.
+   A) milk B) stone C) sand D) wood
+
+4. We measure capacity in litres and ___.
+   A) millilitres B) kilograms C) metres D) grams
+
+5. Fill in: A thing that holds liquid is a _____.
+
+6. Mention two containers we use.
+
+7. Write what capacity is.
+
+**My own work**
+
+• Draw a big bucket and a small cup.
+
+---
+
+### WEEK 3 — AREA (INTRODUCTION)
+
+**You will learn to**
+
+• say what area is
+
+• compare area
+
+• count unit squares
+
+**Things to know**
+
+• **Area** is the size of a flat surface.
+
+• The area of a table top is the space it covers.
+
+• We can measure area with **unit squares**.
+
+• A unit square is a small square of the same size.
+
+• We **count** the unit squares to find the area.
+
+• A big surface has a **larger** area.
+
+• A small surface has a **smaller** area.
+
+• The floor of a room has an area.
+
+• We compare two surfaces by their area.
+
+• Area helps us know how big a surface is.
+
+**Let us talk**
+
+1. What is area?
+
+2. How do we find the area with unit squares?
+
+3. Which has a larger area, a big table or a small one?
+
+**Words for my notebook**
+
+• area — the size of a flat surface
+
+• surface — the top or outside of a thing
+
+• unit square — a small square used to measure area
+
+**Worksheet**
+
+1. The size of a flat surface is its ___.
+   A) area B) weight C) colour D) name
+
+2. We measure area with ___ squares.
+   A) unit B) round C) big D) red
+
+3. We ___ the unit squares to find the area.
+   A) count B) eat C) burn D) hide
+
+4. A big surface has a ___ area.
+   A) larger B) smaller C) no D) zero
+
+5. Fill in: The top or outside of a thing is its _____.
+
+6. Mention two surfaces that have an area.
+
+7. Write what area is.
+
+**My own work**
+
+• Draw a shape and count its unit squares.
+
+---
+
+### WEEK 4 — 2-DIMENSIONAL SHAPES
+
+**You will learn to**
+
+• name 2-dimensional shapes
+
+• draw the shapes
+
+• find shapes around us
+
+**Things to know**
+
+• **2-dimensional** shapes are flat shapes.
+
+• They have **length** and **width** only.
+
+• A **circle** is round, like a plate.
+
+• A **square** has four equal sides.
+
+• A **rectangle** has two long and two short sides.
+
+• A **triangle** has three sides.
+
+• We see 2-D shapes all around us.
+
+• A door is like a rectangle.
+
+• A clock face is like a circle.
+
+• We can draw 2-D shapes with a pencil.
+
+**Let us talk**
+
+1. What is a 2-dimensional shape?
+
+2. Name one 2-D shape.
+
+3. What shape is a door?
+
+**Words for my notebook**
+
+• 2-dimensional shape — a flat shape
+
+• circle — a round shape
+
+• triangle — a shape with three sides
+
+**Worksheet**
+
+1. Flat shapes are ___ shapes.
+   A) 2-dimensional B) 3-dimensional C) round D) heavy
+
+2. A shape with three sides is a ___.
+   A) triangle B) square C) circle D) cube
+
+3. A round shape is a ___.
+   A) circle B) square C) rectangle D) triangle
+
+4. A door is like a ___.
+   A) rectangle B) circle C) triangle D) cube
+
+5. Fill in: A shape with four equal sides is a _____.
+
+6. Mention three 2-D shapes.
+
+7. Write what a circle looks like.
+
+**My own work**
+
+• Draw a circle, a square and a triangle.
+
+---
+
+### WEEK 5 — 3-DIMENSIONAL SHAPES
+
+**You will learn to**
+
+• name 3-dimensional shapes
+
+• find solid shapes
+
+• compare solid shapes
+
+**Things to know**
+
+• **3-dimensional** shapes are solid shapes.
+
+• They have **length**, **width** and **height**.
+
+• A **cube** is like a dice or a box.
+
+• A **cylinder** is like a tin or a drum.
+
+• A **sphere** is like a ball.
+
+• A **cone** is like an ice-cream cone.
+
+• We see 3-D shapes all around us.
+
+• A ball is a sphere.
+
+• A box is a cube.
+
+• We can hold 3-D shapes because they are solid.
+
+**Let us talk**
+
+1. What is a 3-dimensional shape?
+
+2. Name one 3-D shape.
+
+3. What shape is a ball?
+
+**Words for my notebook**
+
+• 3-dimensional shape — a solid shape
+
+• cube — a solid shape like a box
+
+• sphere — a solid shape like a ball
+
+**Worksheet**
+
+1. Solid shapes are ___ shapes.
+   A) 3-dimensional B) 2-dimensional C) flat D) light
+
+2. A shape like a ball is a ___.
+   A) sphere B) cube C) cone D) square
+
+3. A shape like a box is a ___.
+   A) cube B) sphere C) circle D) triangle
+
+4. A shape like a drum is a ___.
+   A) cylinder B) cone C) cube D) circle
+
+5. Fill in: A shape like an ice-cream cone is a _____.
+
+6. Mention three 3-D shapes.
+
+7. Write what shape a ball is.
+
+**My own work**
+
+• Draw a ball and a box.
+
+---
+
+### WEEK 6 — DATA COLLECTION (EVERYDAY STATISTICS)
+
+**You will learn to**
+
+• collect data
+
+• count and record
+
+• read simple charts
+
+**Things to know**
+
+• **Data** is information we collect.
+
+• We collect data by **counting** things.
+
+• We can count how many boys and girls are in class.
+
+• We **record** data with marks or numbers.
+
+• We can put data in a **table** or **chart**.
+
+• A **chart** shows data with pictures or bars.
+
+• We can **read** a chart to answer questions.
+
+• Data helps us know about things.
+
+• We use data every day at home and school.
+
+• Collecting data is useful.
+
+**Let us talk**
+
+1. What is data?
+
+2. How do we collect data?
+
+3. What does a chart show?
+
+**Words for my notebook**
+
+• data — information we collect
+
+• record — to write down information
+
+• chart — a picture that shows data
+
+**Worksheet**
+
+1. Information we collect is ___.
+   A) data B) noise C) sleep D) food
+
+2. We collect data by ___ things.
+   A) counting B) eating C) burning D) hiding
+
+3. We put data in a table or ___.
+   A) chart B) cup C) box D) bag
+
+4. A chart shows data with pictures or ___.
+   A) bars B) stones C) leaves D) water
+
+5. Fill in: To write down information is to _____.
+
+6. Mention two things we can count as data.
+
+7. Write what data is.
+
+**My own work**
+
+• Draw a simple bar chart of five things.
+
+---
+
+### WEEK 8 — REVIEW OF GEOMETRY CONCEPTS
+
+**You will learn to**
+
+• review shapes
+
+• name shapes again
+
+• tell 2-D from 3-D
+
+**Things to know**
+
+• **Geometry** is the study of shapes.
+
+• We have **2-D** shapes (flat) and **3-D** shapes (solid).
+
+• 2-D shapes: **circle**, **square**, **rectangle**, **triangle**.
+
+• 3-D shapes: **cube**, **cylinder**, **sphere**, **cone**.
+
+• A circle is round; a triangle has three sides.
+
+• A cube is like a box; a sphere is like a ball.
+
+• We see shapes all around us.
+
+• We can draw and name shapes.
+
+• Knowing shapes helps us in maths and life.
+
+• Let us review all the shapes we have learnt.
+
+**Let us talk**
+
+1. What is geometry?
+
+2. Name two 2-D shapes.
+
+3. Name two 3-D shapes.
+
+**Words for my notebook**
+
+• geometry — the study of shapes
+
+• flat — having no thickness
+
+• solid — having thickness
+
+**Worksheet**
+
+1. The study of shapes is ___.
+   A) geometry B) music C) cooking D) running
+
+2. A flat shape is a ___ shape.
+   A) 2-D B) 3-D C) round D) heavy
+
+3. A solid shape is a ___ shape.
+   A) 3-D B) 2-D C) flat D) light
+
+4. A shape with three sides is a ___.
+   A) triangle B) circle C) cube D) sphere
+
+5. Fill in: A shape like a ball is a _____.
+
+6. Mention two 2-D and two 3-D shapes.
+
+7. Write what geometry is.
+
+**My own work**
+
+• Draw one 2-D and one 3-D shape.
+
+---
+
+### WEEK 9 — APPLIED PROBLEM SOLVING (ALL CONCEPTS)
+
+**You will learn to**
+
+• solve word problems
+
+• use all we have learnt
+
+• think and answer
+
+**Things to know**
+
+• We can solve **word problems** in maths.
+
+• We read the problem with care.
+
+• We find what the problem asks.
+
+• We use **addition**, **subtraction** and other skills.
+
+• We can use weight, capacity, area and shapes.
+
+• We work step by step.
+
+• We write our answer clearly.
+
+• We check our answer.
+
+• Problem solving uses all we have learnt.
+
+• Practice makes us good at problem solving.
+
+**Let us talk**
+
+1. What is a word problem?
+
+2. How do we solve a word problem?
+
+3. Why do we check our answer?
+
+**Words for my notebook**
+
+• problem solving — finding the answer to a problem
+
+• word problem — a maths problem in words
+
+• step — one part of the way to an answer
+
+**Worksheet**
+
+1. A maths problem in words is a ___ problem.
+   A) word B) song C) dance D) game
+
+2. We read the problem with ___.
+   A) care B) anger C) noise D) sleep
+
+3. We work step by ___.
+   A) step B) side C) top D) end
+
+4. We write our answer ___.
+   A) clearly B) badly C) slowly D) loudly
+
+5. Fill in: Finding the answer to a problem is _____.
+
+6. Mention two things we use to solve problems.
+
+7. Write how we solve a word problem.
+
+**My own work**
+
+• Draw, write and solve one word problem.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the third term of Primary 1. They follow the NERDC
@@ -7890,6 +9098,378 @@ Answer in full sentences.
 43. Name three foods in Yoruba. (2 marks)
 44. What is a proverb? Say one you know. (2 marks)
 45. Name three animals in Yoruba. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 3rd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Understanding what we read is ___
+   A) sleep
+   B) comprehension
+   C) anger
+   D) noise
+2. A piece of writing with rhythm is a ___
+   A) box
+   B) stone
+   C) poem
+   D) song
+3. A story tells us about people and ___
+   A) events
+   B) fire
+   C) stones
+   D) water
+4. We read the story with ___
+   A) anger
+   B) sleep
+   C) noise
+   D) care
+5. For the past we ask "What ___ you do?"
+   A) will
+   B) did
+   C) is
+   D) are
+6. For the future we ask "What ___ you do?"
+   A) did
+   B) are
+   C) will
+   D) was
+7. "I played" is in the ___
+   A) past
+   B) dream
+   C) present
+   D) future
+8. "I will read" is in the ___
+   A) song
+   B) future
+   C) past
+   D) stone
+9. A word that describes a noun is an ___
+   A) stone
+   B) song
+   C) verb
+   D) adjective
+10. In "a big ball", the adjective is ___
+   A) is
+   B) a
+   C) big
+   D) ball
+11. Adjectives tell size, colour and ___
+   A) shape
+   B) noise
+   C) sleep
+   D) food
+12. We put the adjective ___ the noun
+   A) under
+   B) over
+   C) after
+   D) before
+13. Understanding what we hear is ___ comprehension
+   A) running
+   B) listening
+   C) sleeping
+   D) eating
+14. A group of sentences about one thing is a ___
+   A) stone
+   B) song
+   C) paragraph
+   D) box
+15. We listen with ___ and attention
+   A) anger
+   B) noise
+   C) sleep
+   D) care
+16. We remember the ___ ideas
+   A) main
+   B) bad
+   C) loud
+   D) dark
+17. Things that happen every day are ___ situations
+   A) old
+   B) everyday
+   C) strange
+   D) new
+18. We read about home, school and ___
+   A) fire
+   B) sky
+   C) market
+   D) sea
+19. The tense for what is happening now is the present ___
+   A) future
+   B) stone
+   C) past
+   D) continuous
+20. "I ___ reading" — choose the right word
+   A) is
+   B) am
+   C) are
+   D) was
+21. "She ___ singing" — choose the right word
+   A) is
+   B) were
+   C) am
+   D) are
+22. The verb ends with ___
+   A) -ed
+   B) -ly
+   C) -ing
+   D) -s
+23. The words we know are our ___
+   A) noise
+   B) vocabulary
+   C) sleep
+   D) food
+24. We practise ___ the words
+   A) burning
+   B) hiding
+   C) eating
+   D) spelling
+25. We spell by saying the ___ in order
+   A) letters
+   B) boxes
+   C) songs
+   D) stones
+26. Hearing the sounds in words is ___ awareness
+   A) weight
+   B) size
+   C) phonemic
+   D) colour
+27. Words are made of ___
+   A) fire
+   B) stones
+   C) water
+   D) sounds
+28. The word "cat" has the sounds ___
+   A) s-u-n
+   B) c-a-t
+   C) d-o-g
+   D) b-e-d
+29. We can hear the ___ sound in a word
+   A) dark
+   B) zero
+   C) first
+   D) no
+30. What we hear is a ___
+   A) sound
+   B) song
+   C) box
+   D) stone
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two things we find in a story
+32. Name two questions we can ask about the past
+33. Name three adjectives
+34. Name two things we listen for
+35. Name two everyday situations
+36. Name two sentences in the present continuous
+37. Name two new words you have learnt
+38. Name the sounds in the word "dog"
+39. Name two measures of capacity
+40. Name two 3-D shapes
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is comprehension? (2 marks)
+42. What word do we use for the past and what word for the future? (2 marks)
+43. What is an adjective? Give one example. (2 marks)
+44. Make one sentence in the present continuous tense. (2 marks)
+45. What is phonemic awareness? (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 3rd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. How heavy or light a thing is called its ___
+   A) age
+   B) name
+   C) colour
+   D) weight
+2. A heavy thing has ___ weight
+   A) more
+   B) less
+   C) no
+   D) zero
+3. We use a ___ to measure weight
+   A) ruler
+   B) clock
+   C) balance
+   D) cup
+4. A stone is ___ than a feather
+   A) smaller
+   B) heavier
+   C) lighter
+   D) softer
+5. We measure weight in kilograms and ___
+   A) grams
+   B) seconds
+   C) litres
+   D) metres
+6. How much a container can hold is its ___
+   A) name
+   B) weight
+   C) colour
+   D) capacity
+7. A big bucket holds ___ water than a cup
+   A) zero
+   B) more
+   C) no
+   D) less
+8. We measure liquids like water and ___
+   A) stone
+   B) sand
+   C) milk
+   D) wood
+9. We measure capacity in litres and ___
+   A) kilograms
+   B) metres
+   C) grams
+   D) millilitres
+10. A thing that holds liquid is a ___
+   A) container
+   B) song
+   C) stone
+   D) box
+11. The size of a flat surface is its ___
+   A) colour
+   B) area
+   C) name
+   D) weight
+12. We measure area with ___ squares
+   A) big
+   B) red
+   C) round
+   D) unit
+13. We ___ the unit squares to find the area
+   A) count
+   B) eat
+   C) burn
+   D) hide
+14. A big surface has a ___ area
+   A) smaller
+   B) zero
+   C) larger
+   D) no
+15. The top or outside of a thing is its ___
+   A) name
+   B) surface
+   C) colour
+   D) weight
+16. Flat shapes are ___ shapes
+   A) round
+   B) 3-dimensional
+   C) heavy
+   D) 2-dimensional
+17. A shape with three sides is a ___
+   A) cube
+   B) circle
+   C) triangle
+   D) square
+18. A round shape is a ___
+   A) circle
+   B) triangle
+   C) square
+   D) rectangle
+19. A door is like a ___
+   A) cube
+   B) triangle
+   C) circle
+   D) rectangle
+20. A shape with four equal sides is a ___
+   A) triangle
+   B) cube
+   C) square
+   D) circle
+21. Solid shapes are ___ shapes
+   A) light
+   B) 3-dimensional
+   C) flat
+   D) 2-dimensional
+22. A shape like a ball is a ___
+   A) sphere
+   B) cube
+   C) cone
+   D) square
+23. A shape like a box is a ___
+   A) triangle
+   B) circle
+   C) sphere
+   D) cube
+24. A shape like a drum is a ___
+   A) cube
+   B) cylinder
+   C) circle
+   D) cone
+25. A shape like an ice-cream cone is a ___
+   A) cone
+   B) sphere
+   C) circle
+   D) cube
+26. Information we collect is ___
+   A) food
+   B) noise
+   C) data
+   D) sleep
+27. We collect data by ___ things
+   A) burning
+   B) hiding
+   C) eating
+   D) counting
+28. We put data in a table or ___
+   A) cup
+   B) chart
+   C) box
+   D) bag
+29. The study of shapes is ___
+   A) geometry
+   B) music
+   C) running
+   D) cooking
+30. A maths problem in words is a ___ problem
+   A) song
+   B) game
+   C) word
+   D) dance
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two things we measure by weight
+32. Name two containers we use
+33. Name two surfaces that have an area
+34. Name three 2-D shapes
+35. Name three 3-D shapes
+36. Name two things we can count as data
+37. Name two 2-D and two 3-D shapes
+38. Name two things we use to solve problems
+39. Name two measures of weight
+40. Name two measures of capacity
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is weight? Name one thing we measure by weight. (2 marks)
+42. What is capacity? Name one container. (2 marks)
+43. Name three 2-D shapes and three 3-D shapes. (2 marks)
+44. What is data? How do we collect it? (2 marks)
+45. Write one word problem and solve it. (2 marks)
 
 
 ---

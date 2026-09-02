@@ -31,7 +31,7 @@ building and spelling · wk9 Phonemic awareness and listening.
 | 8 | prevocational-studies | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=8 D=7) · sheet_lint 0 · gates ok |
 | 9 | social-and-citizenship-studies | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=8 C=7 D=7) · sheet_lint 0 · exempt from plates · gates ok |
 | 10 | yoruba | ✅ 9 notes (W1-6,8,9,11) · paper ✅ (30/10/5, A=7 B=8 C=8 D=7) · sheet_lint 0 · exempt from plates · gates ok |
-| 11 | mathematics-english | — (2 streams on the master topics above) |
+| 11 | mathematics-english | ✅ 2 streams (MATHEMATICS 8 wks + ENGLISH LANGUAGE 8 wks) · papers ✅ (MATH A=8 B=7 C=7 D=8; ENG A=7 B=8 C=8 D=7) · sheet_lint 0 · gates ok |
 
 The five plate exemptions (Yoruba, General Knowledge, Nigerian History, Social & Citizenship Studies, CRS)
 carry no plates in any term — they sit in `tools/backfill_ledger.py` EXEMPT.
