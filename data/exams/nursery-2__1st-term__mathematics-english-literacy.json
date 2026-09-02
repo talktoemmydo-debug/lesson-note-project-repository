@@ -1,0 +1,383 @@
+{
+ "subject": "Mathematics & English · LITERACY (Letter Work)",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "The English alphabet has letters",
+   "answer": "26",
+   "distractors": [
+    "24",
+    "25",
+    "28"
+   ]
+  },
+  {
+   "stem": "The small letter of \"B\" is",
+   "answer": "b",
+   "distractors": [
+    "d",
+    "p",
+    "q"
+   ]
+  },
+  {
+   "stem": "The letters A, B, C, D, E, F are called the",
+   "answer": "first six letters of the alphabet",
+   "distractors": [
+    "last six letters of the alphabet",
+    "six vowels",
+    "six numbers"
+   ]
+  },
+  {
+   "stem": "The sound made by the letter C in \"cat\" is",
+   "answer": "/k/",
+   "distractors": [
+    "/s/",
+    "/c/",
+    "/t/"
+   ]
+  },
+  {
+   "stem": "Which word begins with the sound /f/?",
+   "answer": "fan",
+   "distractors": [
+    "van",
+    "man",
+    "san"
+   ]
+  },
+  {
+   "stem": "The letter that begins \"egg\" is",
+   "answer": "E",
+   "distractors": [
+    "A",
+    "F",
+    "I"
+   ]
+  },
+  {
+   "stem": "The pair that matches correctly is",
+   "answer": "Hh",
+   "distractors": [
+    "Ha",
+    "Hb",
+    "Jj"
+   ]
+  },
+  {
+   "stem": "The letter that begins \"lion\" is",
+   "answer": "L",
+   "distractors": [
+    "R",
+    "N",
+    "I"
+   ]
+  },
+  {
+   "stem": "Both G and K can be heard in",
+   "answer": "goat and kite",
+   "distractors": [
+    "hat and jam",
+    "sun and tap",
+    "yam and water"
+   ]
+  },
+  {
+   "stem": "Mm, Nn, Oo, Pp, Qq, Rr are letters we reviewed in",
+   "answer": "Week 3",
+   "distractors": [
+    "Week 1",
+    "Week 6",
+    "Week 9"
+   ]
+  },
+  {
+   "stem": "The letter that always needs a \"u\" after it is",
+   "answer": "q",
+   "distractors": [
+    "p",
+    "m",
+    "l"
+   ]
+  },
+  {
+   "stem": "Which of our letters has a tail that goes below the line?",
+   "answer": "p",
+   "distractors": [
+    "o",
+    "m",
+    "n"
+   ]
+  },
+  {
+   "stem": "The last eight letters of the alphabet are",
+   "answer": "s, t, u, v, w, x, y, z",
+   "distractors": [
+    "a, b, c, d, e, f, g, h",
+    "m, n, o, p, q, r, s, t",
+    "s, r, q, p, o, n, m, l"
+   ]
+  },
+  {
+   "stem": "The letter X in \"fox\" says",
+   "answer": "/ks/",
+   "distractors": [
+    "/z/",
+    "/s/",
+    "/ex/"
+   ]
+  },
+  {
+   "stem": "A CVC word is a word made of",
+   "answer": "consonant, vowel, consonant",
+   "distractors": [
+    "three vowels together",
+    "three consonants together",
+    "only two letters"
+   ]
+  },
+  {
+   "stem": "The word made by c-a-t is",
+   "answer": "cat",
+   "distractors": [
+    "cut",
+    "kit",
+    "cot"
+   ]
+  },
+  {
+   "stem": "Which of these belongs to the -at family?",
+   "answer": "hat",
+   "distractors": [
+    "hen",
+    "hop",
+    "hug"
+   ]
+  },
+  {
+   "stem": "The word that rhymes with \"pen\" is",
+   "answer": "ten",
+   "distractors": [
+    "tin",
+    "ton",
+    "tan"
+   ]
+  },
+  {
+   "stem": "The middle sound in \"pan\" is",
+   "answer": "/a/",
+   "distractors": [
+    "/e/",
+    "/o/",
+    "/i/"
+   ]
+  },
+  {
+   "stem": "p-e-n spells",
+   "answer": "pen",
+   "distractors": [
+    "pin",
+    "pan",
+    "pun"
+   ]
+  },
+  {
+   "stem": "\"dog\" belongs to the word family",
+   "answer": "-og",
+   "distractors": [
+    "-en",
+    "-in",
+    "-un"
+   ]
+  },
+  {
+   "stem": "The sounds b-u-g make the word",
+   "answer": "bug",
+   "distractors": [
+    "big",
+    "bag",
+    "bog"
+   ]
+  },
+  {
+   "stem": "sun, bun, run and fun all belong to the family",
+   "answer": "-un",
+   "distractors": [
+    "-op",
+    "-ug",
+    "-at"
+   ]
+  },
+  {
+   "stem": "The word that means the highest place and rhymes with \"hop\" is",
+   "answer": "top",
+   "distractors": [
+    "mop",
+    "cup",
+    "tap"
+   ]
+  },
+  {
+   "stem": "bug, hug, mug and rug belong to the family",
+   "answer": "-ug",
+   "distractors": [
+    "-un",
+    "-og",
+    "-an"
+   ]
+  },
+  {
+   "stem": "The question that asks about a person is",
+   "answer": "who",
+   "distractors": [
+    "what",
+    "where",
+    "why"
+   ]
+  },
+  {
+   "stem": "A story is told in this order",
+   "answer": "beginning, middle and end",
+   "distractors": [
+    "end, middle and beginning",
+    "middle only",
+    "title and page"
+   ]
+  },
+  {
+   "stem": "The lesson a story teaches is called the",
+   "answer": "moral",
+   "distractors": [
+    "cover",
+    "title",
+    "rhyme"
+   ]
+  },
+  {
+   "stem": "In class we listen to a story with",
+   "answer": "eyes on the teller and the mouth kept quiet",
+   "distractors": [
+    "hands up and the feet running about",
+    "eyes shut and the body walking away",
+    "the mouth singing a different song"
+   ]
+  },
+  {
+   "stem": "Changing the first sound of \"cat\" to \"h\" gives",
+   "answer": "hat",
+   "distractors": [
+    "hit",
+    "hut",
+    "hot"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Write the first six letters of the alphabet in small letters. ",
+   "points": [
+    "a b c d e f"
+   ]
+  },
+  {
+   "stem": "Match four letters with their pictures: A, B, C, D. ",
+   "points": [
+    "apple",
+    "ball or bat",
+    "cat or cup",
+    "dog or doll"
+   ]
+  },
+  {
+   "stem": "Name the six letters reviewed in Week 3 and one word for each. ",
+   "points": [
+    "m mat",
+    "n net",
+    "o orange",
+    "p pen",
+    "q queen",
+    "r rat"
+   ]
+  },
+  {
+   "stem": "Write the -at family — any four words. ",
+   "points": [
+    "cat bat rat mat hat sat fat"
+   ]
+  },
+  {
+   "stem": "Write the -en and the -in families, two words each. ",
+   "points": [
+    "pen hen ten men",
+    "pin tin bin win fin"
+   ]
+  },
+  {
+   "stem": "Name three letters that go below the line when we write them. ",
+   "points": [
+    "g j p q y"
+   ]
+  },
+  {
+   "stem": "Read this sentence and say the CVC words in it: \"The big bug sat on the log.\" ",
+   "points": [
+    "big bug sat log"
+   ]
+  },
+  {
+   "stem": "Answer the four questions on our story: who, what, where, how it ended. ",
+   "points": [
+    "the rat",
+    "the mat and the sun",
+    "outside in the yard",
+    "the rat found shade"
+   ]
+  },
+  {
+   "stem": "Write the last eight letters of the alphabet. ",
+   "points": [
+    "s t u v w x y z"
+   ]
+  },
+  {
+   "stem": "Say the sound of each of these: sh, ch, th, ph, wh, ck. ",
+   "points": [
+    "/ʃ/",
+    "/tʃ/",
+    "/θ/ or /ð/",
+    "/f/",
+    "/w/",
+    "/k/"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write the whole alphabet in small letters",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Make six words from the -at and the -un families and use two of them in sentences",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Retell our class story in three sentences: beginning, middle and end",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Match and write: for each of five letters, one word that begins with it",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Draw one thing from the story and write the letter its name begins with, with two words that begin alike",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

@@ -1,0 +1,397 @@
+{
+ "subject": "General Knowledge",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Our state, where the land meets the sea, is ____",
+   "answer": "Lagos",
+   "distractors": [
+    "Borno",
+    "Kano",
+    "Sokoto"
+   ]
+  },
+  {
+   "stem": "The big city of our state is called ____",
+   "answer": "Ikeja",
+   "distractors": [
+    "Zaria",
+    "Lokoja",
+    "Calabar"
+   ]
+  },
+  {
+   "stem": "On the map of Nigeria, the sea is at the ____",
+   "answer": "bottom",
+   "distractors": [
+    "top",
+    "middle",
+    "right side"
+   ]
+  },
+  {
+   "stem": "The market, the motor park, the school, a church or mosque and the ____ are the five places of a town",
+   "answer": "water point",
+   "distractors": [
+    "football field",
+    "cinema hall",
+    "bus station"
+   ]
+  },
+  {
+   "stem": "The festival when masked people walk in white through the streets of our town is ____",
+   "answer": "Eyo",
+   "distractors": [
+    "Durbar",
+    "New Yam",
+    "Argungu"
+   ]
+  },
+  {
+   "stem": "Water for drinking in the house is first ____",
+   "answer": "boiled",
+   "distractors": [
+    "frozen",
+    "buried",
+    "painted"
+   ]
+  },
+  {
+   "stem": "Wind is really ____ that is moving",
+   "answer": "air",
+   "distractors": [
+    "dust",
+    "sand",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "In the float-and-sink test, the thing that goes down is ____",
+   "answer": "a stone",
+   "distractors": [
+    "a dry leaf",
+    "a feather",
+    "a cork"
+   ]
+  },
+  {
+   "stem": "We waste water when we leave the ____ running",
+   "answer": "tap",
+   "distractors": [
+    "fan",
+    "door",
+    "lamp"
+   ]
+  },
+  {
+   "stem": "The part of the day when the sun is highest and hottest is ____",
+   "answer": "midday",
+   "distractors": [
+    "morning",
+    "evening",
+    "night"
+   ]
+  },
+  {
+   "stem": "At night we see the moon and the ____ in the sky",
+   "answer": "stars",
+   "distractors": [
+    "kites",
+    "planes",
+    "boats"
+   ]
+  },
+  {
+   "stem": "Rain comes down out of the ____",
+   "answer": "sky",
+   "distractors": [
+    "well",
+    "market",
+    "ground"
+   ]
+  },
+  {
+   "stem": "A wheel makes a heavy load easy to move because it ____",
+   "answer": "rolls",
+   "distractors": [
+    "melts",
+    "floats",
+    "rusts"
+   ]
+  },
+  {
+   "stem": "A plank laid from the ground up to a lorry is a ____",
+   "answer": "ramp",
+   "distractors": [
+    "lever",
+    "bucket",
+    "keg"
+   ]
+  },
+  {
+   "stem": "To lift a big stone with a strong stick is to use a ____",
+   "answer": "lever",
+   "distractors": [
+    "ruler",
+    "broom",
+    "rake"
+   ]
+  },
+  {
+   "stem": "A pair of scissors is passed to a friend by the ____",
+   "answer": "handle",
+   "distractors": [
+    "blade",
+    "point",
+    "spring"
+   ]
+  },
+  {
+   "stem": "Nigeria took its name from the ____",
+   "answer": "river Niger",
+   "distractors": [
+    "river Benue",
+    "big lake",
+    "long mountain"
+   ]
+  },
+  {
+   "stem": "The colours of our flag, read in order, are ____",
+   "answer": "green, white, green",
+   "distractors": [
+    "white, green, white",
+    "red, green, red",
+    "green, red, white"
+   ]
+  },
+  {
+   "stem": "The Niger and the Benue, our two big rivers, meet ____",
+   "answer": "in the middle",
+   "distractors": [
+    "at the top of the map",
+    "only in the north",
+    "far at the sea"
+   ]
+  },
+  {
+   "stem": "A child who is different from me is treated ____",
+   "answer": "the same",
+   "distractors": [
+    "first",
+    "last",
+    "never"
+   ]
+  },
+  {
+   "stem": "Twenty bottle tops put in two equal lines make lines of ____",
+   "answer": "ten",
+   "distractors": [
+    "five",
+    "eight",
+    "fifteen"
+   ]
+  },
+  {
+   "stem": "The day that comes right after Friday is ____",
+   "answer": "Saturday",
+   "distractors": [
+    "Sunday",
+    "Monday",
+    "Wednesday"
+   ]
+  },
+  {
+   "stem": "A book is like which of these shapes? ____",
+   "answer": "a square",
+   "distractors": [
+    "a circle",
+    "a cone",
+    "a ball"
+   ]
+  },
+  {
+   "stem": "Which of these is a vegetable and not a fruit? ____",
+   "answer": "ugu",
+   "distractors": [
+    "mango",
+    "banana",
+    "orange"
+   ]
+  },
+  {
+   "stem": "The worker whose labour makes sure the whole town eats is the ____",
+   "answer": "farmer",
+   "distractors": [
+    "barber",
+    "driver",
+    "guard"
+   ]
+  },
+  {
+   "stem": "In the stories of our people, the small one that out-thinks the whole bush is ____",
+   "answer": "the tortoise",
+   "distractors": [
+    "the elephant",
+    "the lion",
+    "the horse"
+   ]
+  },
+  {
+   "stem": "Queen Amina of Zaria is remembered in story as ____",
+   "answer": "a warrior queen",
+   "distractors": [
+    "a market seller",
+    "a boat man",
+    "a drum maker"
+   ]
+  },
+  {
+   "stem": "A hero is a person who ____",
+   "answer": "finishes the work begun",
+   "distractors": [
+    "hides his mistake",
+    "takes the big share",
+    "runs from trouble"
+   ]
+  },
+  {
+   "stem": "In the game \"Where does it live?\", a hen lives ____",
+   "answer": "in the house yard",
+   "distractors": [
+    "in the river",
+    "in the forest",
+    "in the sky"
+   ]
+  },
+  {
+   "stem": "\"I come out in the day and give the world light and warmth. Who am I?\" — ____",
+   "answer": "the sun",
+   "distractors": [
+    "the moon",
+    "the lamp",
+    "the star"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the five places every town has ",
+   "points": [
+    "the market",
+    "the motor park",
+    "the school",
+    "a church or mosque",
+    "the stream or water point"
+   ]
+  },
+  {
+   "stem": "Say four places water comes from ",
+   "points": [
+    "rain",
+    "the tap",
+    "the well",
+    "the river"
+   ]
+  },
+  {
+   "stem": "Name four uses of water in the house ",
+   "points": [
+    "drinking",
+    "bathing",
+    "cooking",
+    "washing"
+   ]
+  },
+  {
+   "stem": "Say the five parts of the day in order ",
+   "points": [
+    "morning",
+    "midday",
+    "afternoon",
+    "evening",
+    "night"
+   ]
+  },
+  {
+   "stem": "Name three things that take work off our hands ",
+   "points": [
+    "a wheel",
+    "a ramp",
+    "a lever"
+   ]
+  },
+  {
+   "stem": "Mention four tools we use at school ",
+   "points": [
+    "pencil",
+    "crayon",
+    "ruler",
+    "scissors"
+   ]
+  },
+  {
+   "stem": "Say three peoples of Nigeria ",
+   "points": [
+    "the Yoruba",
+    "the Igbo",
+    "the Hausa"
+   ]
+  },
+  {
+   "stem": "Name the colours of our flag in order ",
+   "points": [
+    "green",
+    "white",
+    "green"
+   ]
+  },
+  {
+   "stem": "Write the seven days of the week ",
+   "points": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+   ]
+  },
+  {
+   "stem": "Say the three lines of a show and tell ",
+   "points": [
+    "This is …",
+    "It comes from …",
+    "I like it because …"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write two sentences on your town and name the five places in it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say four things water is used for and one way we keep it clean.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Name the parts of the day in order and say what the sun gives us.",
+   "marks": 4,
+   "points": []
+  },
+  {
+   "stem": "Write two sentences on one worker who keeps the town going and what he does.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Say what you want to be when you grow up and give two reasons.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

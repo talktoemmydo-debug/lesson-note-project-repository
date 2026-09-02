@@ -1,0 +1,67 @@
+# Basic Digital Literacy — Nursery 2 · First Term · term paper
+subject: Basic Digital Literacy
+class: Nursery 2
+term: 1st Term
+
+[objective]
+Technology means the smart things people make and use to || do work more easily || spend money more quickly || sleep more soundly || walk more slowly
+A digital device is a machine that works with || electricity and shows things on a screen || fire and shows things on a wall || water and keeps things in a pot || rope and pulls things up a hill
+This one is NOT a digital device || a wooden broom || a tablet || a smart watch || a camera
+A device worn on the wrist is a || smart watch || desk lamp || gas cooker || cutlass
+The device used for taking pictures is a || camera || kettle || fan || broom
+A tablet is different from a desktop because it is || flat, light and touched with the finger || big, heavy and fixed on a table || sold only inside a bank || made of wood and of cloth
+A computer is big and has a screen, keys and a || mouse || spoon || plate || broom
+Which computer stays on a table and does not move about? || A desktop || A tablet || A smart watch || A radio
+A machine that opens and shuts like a book, with a battery, is a || laptop || desktop || typewriter || television
+The smallest and lightest computer to carry is the || tablet || desktop || printer || CPU box
+The part of the computer that does the thinking is the || CPU || mouse || chair || cable
+The part that shows pictures, letters and numbers is the || monitor || keyboard || mouse || speaker
+We press keys to put information into the computer with the || keyboard || monitor || printer || CPU
+The part held in the hand that moves the arrow on the screen is the || mouse || keyboard || CPU box || speaker
+The right order of work on a computer is || keyboard or mouse, then CPU, then monitor || monitor, then keyboard, then CPU || CPU, then mouse, then keyboard || mouse, then monitor, then keyboard
+The machine that puts the picture or letter out on paper is a || printer || scanner || mouse || monitor
+A computer in the bank is used to || count money and print a receipt || cook food for the workers || water the plants outside || sweep the floor of the hall
+In the hospital, a computer keeps || the names of patients and test results || the taste of the food we eat || the colour of the curtain only || the shoes of the drivers
+The price of goods in a shop is read by a || machine that reads the price || pencil and paper only || radio || fan
+Time on a device should be shared between learning and || play, with a limit on play || sleeping, with no limit || fighting, with a limit || cooking, with no limit
+Water inside a device || spoils it for good || makes it faster || cleans the screen || charges the battery
+A screen is wiped with || a soft, dry cloth || a rough washing rag || a wet mop || sand and water
+A laptop should be carried || closed in two hands inside a padded bag || open in only one small hand || by its long wire, dragged along || with the screen facing downward
+The cable is taken out of the socket by holding || the plug itself || the wire, pulled hard || the screen || the chair
+A device that is charging must NOT be || played with in the bath || put in a bag || switched off || wiped with a cloth
+Before we switch off, we save the work and || shut the programme, then kill the power || pull the cable out in a hurry || take the keyboard right away || shake the monitor once or twice
+The room in the school where many computers are kept is the || computer lab || computer kitchen || computer store || computer chapel
+In the lab we move about by || walking carefully || running fast || sliding on the floor || climbing the desks
+Food and drink in the computer lab are || not allowed on the desk || allowed on every desk || given to the CPU || kept under the chair
+If a machine gives smoke or a bad smell, we || leave it and tell the teacher at once || pour cold water on the machine || press every key on the keyboard || hide it under the desk
+Long ago, people counted with stones and with a frame of sliding beads called a(n) || abacus || laptop || monitor || printer
+A very old computer filled || a whole room || a pocket || a shoe || a cup
+The first machines used parts that glowed and grew hot called || vacuum tubes || microchips || tablets || printers
+The tiny part that replaced the hot vacuum tube was the || transistor || abacus bead || candle || keyboard
+Computers became || smaller, faster and cheaper || bigger, slower and dearer || smaller, slower and dearer || bigger, faster and cheaper
+The Englishman who designed the Analytical Engine was || Charles Babbage || Michael Akinkunmi || Chukwuemeka Odumegwu || Ada Babbage
+The machine built by Babbage to work out tables of numbers without mistakes was the || Difference Engine || Printing press || Steam engine || Spinning jenny
+Babbage's plans could not be built fully because the || workshop of his day could not make such parts || the money he had for the metal parts || the plans he drew on his paper only || the numbers he wrote in his log book
+The first computer programme was written by || Ada Lovelace || Ada Okonkwo || Charles Babbage || Mary Tutu
+A set of written instructions for a machine is called a || programme || pillow || parcel || poster
+A computer language was named after || Ada Lovelace || the monitor || Babbage's town || the abacus
+"A device is a servant, not a || master || toy || book || chair"
+
+[subobjective]
+Mention five digital devices you know. :: computer | tablet | smartphone | smart watch | camera
+State three things a smartphone does. :: calls | photographs | plays music
+Name the four basic parts of a computer. :: monitor | keyboard | mouse | CPU
+Say what each of these is used for: monitor and CPU. :: the monitor shows work; the CPU does the thinking
+Mention three places where a computer is used. :: bank | hospital | school | shop | home
+Give four rules for caring for a device. :: keep food and drink away | wipe with a soft dry cloth | carry with two hands | do not drop or hit it
+State three safety rules of the computer lab. :: walk, do not run | no food or drink on the desk | do not touch cables or sockets
+Name the three kinds of computer we learnt. :: desktop | laptop | tablet
+Mention three uses of the abacus or old counting things. :: counting in markets | adding beads up | taking away beads down | school counting
+Say two things about Babbage and Ada Lovelace. :: Babbage designed the Analytical Engine and the Difference Engine | Ada wrote the first programme
+
+[theory]
+Explain what technology means and give four devices at home that are digital || 2
+Describe how you care for a tablet or a laptop, in four points || 2
+Write on the rules of the computer lab || 2
+Tell what happens from the keyboard to the monitor when you type || 2
+Write on what you learnt about the change of computers from the abacus to today || 2

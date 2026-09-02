@@ -1,0 +1,55 @@
+# Basic Digital Literacy — Nursery 2 · Third Term · term paper
+subject: Basic Digital Literacy
+class: Nursery 2
+term: 3rd Term
+
+[objective]
+Headphones put sound into our ___ || ears || nose || hair || shoes
+We listen to a machine with ___ || speakers || a fan || a broom || a key
+A keyboard is used to ___ || type words || cut paper || fetch water || sweep the floor
+The part of the computer that thinks is the ___ || CPU || water tank || shoe box || umbrella
+We move the arrow on the screen with a ___ || mouse || spoon || comb || cap
+A microphone takes ___ into the machine || sound || water || light || dust
+A printer gives us ___ on paper || writing || milk || music || sleep
+The screen of a computer is called a ___ || monitor || mirror || bucket || basket
+A scanner takes a picture on paper and puts it ___ the machine || into || under || behind || above
+A webcam shows our ___ on the screen || face || leg || shoe || bag
+The keeping box of the computer is the ___ || hard drive || school cap || door || spoon
+RAM holds the work we are doing ___ || just now || last year || next week || yesterday
+RAM becomes ___ when the machine is switched off || empty || heavier || warmer || bigger
+The flat board that joins all the parts is the ___ || motherboard || table cloth || wall clock || door mat
+The part that brings power into the machine is the ___ || power supply || water pump || broom cup || shoe horn
+A cooling fan stops the machine from becoming too ___ || hot || cold || quiet || dark
+A plug goes into the ___ in the wall || socket || window || shelf || curtain
+The little door on the board where a wire is put in is a ___ || port || gate || pocket || lid
+We wipe a screen with a ___ cloth || soft dry || wet soapy || rough sand || oily old
+Parts we can see and touch are the ___ || hardware || software || power || air
+The work inside the machine we cannot touch is ___ || software || the box || the cable || the stand
+Anything with a thinking part can be called a machine; which of these has one? || a telephone || a cutlass || a bucket || a broom
+We switch a machine off by pressing the ___ button || power || bell || door || shoe
+A bad place to keep a running machine is on a ___ || soft bed || hard table || stone slab || wooden shelf
+During a storm we take the ___ out of the wall || plug || chair || cloth || book
+Which of these is an input device? || the keyboard || the printer || the speaker || the monitor
+Which of these is an output device? || the printer || the mouse || the microphone || the scanner
+When a machine works for long it becomes ___ || warm || wet || black || light
+We must never push a pencil or a finger into a ___ || socket || cup || plate || shoe
+If a machine becomes too hot it ___ itself off || switches || pulls || paints || loses
+
+[subobjective]
+Name two input devices :: keyboard | mouse
+Name two output devices :: printer | speakers
+Mention two things we keep away from a machine :: food | water
+Name the thinking part and the keeping part :: CPU | hard drive
+Say two things we do to care for headphones :: wear them low | keep the wire free
+Mention two parts found inside the big box :: RAM | motherboard
+Name the part that joins the parts and the part that feeds them :: motherboard | power supply
+Say two things a fan needs to move air in and out :: holes | a clear way
+Name the two words for touchable and untouchable parts :: hardware | software
+Put the story of one letter in order: type, think, ___, keep :: see it on the screen | read it on the screen
+
+[theory]
+Write two sentences on what you use headphones for. || 2
+Mention three parts found inside a computer. || 3
+Say what hardware means and give two examples. || 4
+Mention three things you do to keep a machine clean and safe. || 3
+Write two sentences on how the keyboard, the screen and the printer work together. || 2

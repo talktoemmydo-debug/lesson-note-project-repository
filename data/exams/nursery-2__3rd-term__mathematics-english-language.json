@@ -1,0 +1,387 @@
+{
+ "subject": "Mathematics & English · Literacy (Language Domain)",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Two consonants that keep their own sounds and run together are called a ____",
+   "answer": "blend",
+   "distractors": [
+    "digraph",
+    "trigraph",
+    "sight word"
+   ]
+  },
+  {
+   "stem": "The two letters sh in \"shirt\" make ____",
+   "answer": "one sound",
+   "distractors": [
+    "two sounds apart",
+    "no sound at all",
+    "a long line"
+   ]
+  },
+  {
+   "stem": "The three letters held to one sound in \"catch\" are ____",
+   "answer": "tch",
+   "distractors": [
+    "cat",
+    "atc",
+    "ach"
+   ]
+  },
+  {
+   "stem": "Which of these words carries the air sound?",
+   "answer": "chair",
+   "distractors": [
+    "clock",
+    "dress",
+    "shirt"
+   ]
+  },
+  {
+   "stem": "In \"clock\" the two letters at the end are a ____",
+   "answer": "digraph",
+   "distractors": [
+    "blend",
+    "naming word",
+    "plural mark"
+   ]
+  },
+  {
+   "stem": "A noun is a word that ____",
+   "answer": "names a thing",
+   "distractors": [
+    "ends a line",
+    "shows a size",
+    "tells the time"
+   ]
+  },
+  {
+   "stem": "Which of these is a proper noun?",
+   "answer": "Bola",
+   "distractors": [
+    "river",
+    "chair",
+    "school"
+   ]
+  },
+  {
+   "stem": "\"One child, two ____\"",
+   "answer": "children",
+   "distractors": [
+    "childs",
+    "childes",
+    "childrens"
+   ]
+  },
+  {
+   "stem": "A big letter is put on ____",
+   "answer": "a name like Lagos",
+   "distractors": [
+    "a colour word",
+    "a doing word",
+    "a full stop"
+   ]
+  },
+  {
+   "stem": "Which pair of words are opposites?",
+   "answer": "old and young",
+   "distractors": [
+    "big and tall",
+    "run and jump",
+    "there and cat"
+   ]
+  },
+  {
+   "stem": "A verb tells us what somebody ____",
+   "answer": "does",
+   "distractors": [
+    "owns",
+    "is called",
+    "looks like"
+   ]
+  },
+  {
+   "stem": "We say \"I sing\" but we say \"she ____\"",
+   "answer": "sings",
+   "distractors": [
+    "singing",
+    "sing",
+    "singed"
+   ]
+  },
+  {
+   "stem": "Which asking word opens the line \"____ do you do?\"",
+   "answer": "What",
+   "distractors": [
+    "Where",
+    "When",
+    "Who"
+   ]
+  },
+  {
+   "stem": "Which of these is a doing word?",
+   "answer": "clap",
+   "distractors": [
+    "green",
+    "table",
+    "small"
+   ]
+  },
+  {
+   "stem": "Every sentence must have a naming word and a ____ word",
+   "answer": "doing",
+   "distractors": [
+    "colour",
+    "long",
+    "small"
+   ]
+  },
+  {
+   "stem": "Which of these is NOT yet a sentence?",
+   "answer": "The happy child.",
+   "distractors": [
+    "Dogs run.",
+    "The girl jumps.",
+    "Fish swim."
+   ]
+  },
+  {
+   "stem": "The doing word that belongs to a fish is ____",
+   "answer": "swims",
+   "distractors": [
+    "flies",
+    "teaches",
+    "drives"
+   ]
+  },
+  {
+   "stem": "\"____ sun hat is on the chair\" — the word that shows it is yours is ____",
+   "answer": "Your",
+   "distractors": [
+    "There",
+    "They",
+    "Then"
+   ]
+  },
+  {
+   "stem": "\"The boy kicks the ball\" has a naming word, a doing word and ____",
+   "answer": "another naming word",
+   "distractors": [
+    "no other word",
+    "a big letter only",
+    "a plural mark"
+   ]
+  },
+  {
+   "stem": "The word that brings a reason is ____",
+   "answer": "because",
+   "distractors": [
+    "and",
+    "there",
+    "them"
+   ]
+  },
+  {
+   "stem": "\"I see the boys\" can be said as \"I see ____\"",
+   "answer": "them",
+   "distractors": [
+    "there",
+    "they're",
+    "then"
+   ]
+  },
+  {
+   "stem": "Which line is joined with the word \"and\"?",
+   "answer": "I run and I jump.",
+   "distractors": [
+    "I run fast.",
+    "Why do I run?",
+    "I run now."
+   ]
+  },
+  {
+   "stem": "The person a page is mostly about is its ____ character",
+   "answer": "main",
+   "distractors": [
+    "small",
+    "last",
+    "quiet"
+   ]
+  },
+  {
+   "stem": "Which of these questions asks for the place?",
+   "answer": "Where?",
+   "distractors": [
+    "Why?",
+    "Who?",
+    "When?"
+   ]
+  },
+  {
+   "stem": "Before we turn the page we can ____ what happens next",
+   "answer": "guess",
+   "distractors": [
+    "forget",
+    "erase",
+    "count"
+   ]
+  },
+  {
+   "stem": "Which word opens the old tale line \"____ upon a time\"?",
+   "answer": "Once",
+   "distractors": [
+    "One",
+    "Only",
+    "Over"
+   ]
+  },
+  {
+   "stem": "\"The ball is ____\" — the word that tells a place is ____",
+   "answer": "there",
+   "distractors": [
+    "their",
+    "they",
+    "then"
+   ]
+  },
+  {
+   "stem": "\"They want ____ toys\" — the toys belong to them, so we write ____",
+   "answer": "their",
+   "distractors": [
+    "there",
+    "them",
+    "us"
+   ]
+  },
+  {
+   "stem": "Proofreading your own line means reading it ____",
+   "answer": "slowly with your finger",
+   "distractors": [
+    "very fast aloud",
+    "with your eyes shut",
+    "only to yourself"
+   ]
+  },
+  {
+   "stem": "A name of a person or a place begins with a ____ letter",
+   "answer": "big",
+   "distractors": [
+    "small",
+    "round",
+    "quiet"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Say three blends and a word for each ",
+   "points": [
+    "bl (blue)",
+    "fl (flag)",
+    "st (stamp)"
+   ]
+  },
+  {
+   "stem": "Name three digraphs and a word for each ",
+   "points": [
+    "sh (shop)",
+    "ch (chair)",
+    "ck (clock)"
+   ]
+  },
+  {
+   "stem": "Say the three-letter sound in \"catch\" and the one in \"hair\" ",
+   "points": [
+    "tch",
+    "air"
+   ]
+  },
+  {
+   "stem": "Name the four kinds of noun we learnt ",
+   "points": [
+    "people",
+    "places",
+    "things",
+    "animals"
+   ]
+  },
+  {
+   "stem": "Say two plurals that do not take an s ",
+   "points": [
+    "child to children",
+    "foot to feet"
+   ]
+  },
+  {
+   "stem": "Mention six doing words you can do in class ",
+   "points": [
+    "run",
+    "jump",
+    "clap",
+    "throw",
+    "catch",
+    "sing"
+   ]
+  },
+  {
+   "stem": "Say the two parts that every sentence must have ",
+   "points": [
+    "a naming word",
+    "a doing word"
+   ]
+  },
+  {
+   "stem": "Say the small word that stands for \"the boys\", and the word that brings a reason ",
+   "points": [
+    "them",
+    "because"
+   ]
+  },
+  {
+   "stem": "Tell the difference between there and their ",
+   "points": [
+    "there is about a place",
+    "their means it belongs to them"
+   ]
+  },
+  {
+   "stem": "Name the five questions a reader answers about any page ",
+   "points": [
+    "who",
+    "what",
+    "where",
+    "when",
+    "why"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Read this line and say the digraph you found in it: The child in the red shirt looks at the clock.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write three naming words and two doing words of your own.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Write three lines that begin \"Once upon a time\" — a beginning, a middle and an end.",
+   "marks": 4,
+   "points": []
+  },
+  {
+   "stem": "Put the right marks on this line and copy it out: what does the cat do the cat sleeps",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Say four things you look for when you read your own work back.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

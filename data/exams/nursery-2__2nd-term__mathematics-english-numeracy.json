@@ -1,0 +1,402 @@
+{
+ "subject": "Mathematics & English · NUMERACY",
+ "class": "Nursery 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "Eleven is the same as ___",
+   "answer": "one ten and one one",
+   "distractors": [
+    "two tens and one one",
+    "one one and one ten only",
+    "ten tens and one"
+   ]
+  },
+  {
+   "stem": "In the number 16, the digit 1 stands for ___",
+   "answer": "one ten",
+   "distractors": [
+    "one one",
+    "sixteen ones",
+    "six tens"
+   ]
+  },
+  {
+   "stem": "The number that comes just before 20 is ___",
+   "answer": "19",
+   "distractors": [
+    "21",
+    "18",
+    "11"
+   ]
+  },
+  {
+   "stem": "Two tens and no ones written as a numeral is ___",
+   "answer": "20",
+   "distractors": [
+    "2",
+    "12",
+    "22"
+   ]
+  },
+  {
+   "stem": "Skip counting by tens gives 10, 20, 30, ___ and 50.",
+   "answer": "40",
+   "distractors": [
+    "35",
+    "41",
+    "45"
+   ]
+  },
+  {
+   "stem": "Forty-seven is made of ___",
+   "answer": "four tens and seven ones",
+   "distractors": [
+    "seven tens and four ones",
+    "forty and one",
+    "four and seven"
+   ]
+  },
+  {
+   "stem": "The correct sign for 27 ____ 34 is ___",
+   "answer": "<",
+   "distractors": [
+    ">",
+    "=",
+    "+"
+   ]
+  },
+  {
+   "stem": "Ten more than 36 is ___",
+   "answer": "46",
+   "distractors": [
+    "26",
+    "37",
+    "63"
+   ]
+  },
+  {
+   "stem": "Eighty-six is written as ___",
+   "answer": "86",
+   "distractors": [
+    "68",
+    "18",
+    "60"
+   ]
+  },
+  {
+   "stem": "The number just after 99 is ___",
+   "answer": "100",
+   "distractors": [
+    "98",
+    "90",
+    "109"
+   ]
+  },
+  {
+   "stem": "In 100 there are ___",
+   "answer": "ten tens",
+   "distractors": [
+    "one hundred tens",
+    "ten ones",
+    "one hundred hundreds"
+   ]
+  },
+  {
+   "stem": "Arrange these from the largest: 45, 39, 61, 57.",
+   "answer": "61, 57, 45, 39",
+   "distractors": [
+    "39, 45, 57, 61",
+    "57, 61, 45, 39",
+    "45, 61, 39, 57"
+   ]
+  },
+  {
+   "stem": "Seven tens and five ones make ___",
+   "answer": "75",
+   "distractors": [
+    "57",
+    "12",
+    "70"
+   ]
+  },
+  {
+   "stem": "The number between 69 and 71 is ___",
+   "answer": "70",
+   "distractors": [
+    "68",
+    "72",
+    "71"
+   ]
+  },
+  {
+   "stem": "The correct sign for 39 ____ 41 is ___",
+   "answer": "<",
+   "distractors": [
+    ">",
+    "=",
+    "−"
+   ]
+  },
+  {
+   "stem": "In ascending order, which comes first among 44, 27, 39 and 51?",
+   "answer": "27",
+   "distractors": [
+    "44",
+    "51",
+    "39"
+   ]
+  },
+  {
+   "stem": "6 + 7 = ___",
+   "answer": "13",
+   "distractors": [
+    "12",
+    "14",
+    "11"
+   ]
+  },
+  {
+   "stem": "18 − 5 = ___",
+   "answer": "13",
+   "distractors": [
+    "12",
+    "23",
+    "15"
+   ]
+  },
+  {
+   "stem": "If 9 + 4 = 13, then 13 − 9 = ___",
+   "answer": "4",
+   "distractors": [
+    "9",
+    "13",
+    "5"
+   ]
+  },
+  {
+   "stem": "In 2 + □ = 6, the number in the box is ___",
+   "answer": "4",
+   "distractors": [
+    "3",
+    "6",
+    "8"
+   ]
+  },
+  {
+   "stem": "In □ + 5 = 12, the number in the box is ___",
+   "answer": "7",
+   "distractors": [
+    "6",
+    "17",
+    "5"
+   ]
+  },
+  {
+   "stem": "In 9 − □ = 4, the number in the box is ___",
+   "answer": "5",
+   "distractors": [
+    "4",
+    "13",
+    "9"
+   ]
+  },
+  {
+   "stem": "In □ − 3 = 7, the number in the box is ___",
+   "answer": "10",
+   "distractors": [
+    "4",
+    "7",
+    "21"
+   ]
+  },
+  {
+   "stem": "Our money in Nigeria is the ___",
+   "answer": "Naira",
+   "distractors": [
+    "cedi",
+    "naira note only",
+    "kobo coin only"
+   ]
+  },
+  {
+   "stem": "₦20 + ₦20 + ₦10 makes ___",
+   "answer": "₦50",
+   "distractors": [
+    "₦40",
+    "₦60",
+    "₦30"
+   ]
+  },
+  {
+   "stem": "A biscuit costs ₦10 and you pay with ₦50; your change is ___",
+   "answer": "₦40",
+   "distractors": [
+    "₦10",
+    "₦50",
+    "₦60"
+   ]
+  },
+  {
+   "stem": "Ten five-naira notes together make ___",
+   "answer": "₦50",
+   "distractors": [
+    "₦15",
+    "₦10",
+    "₦100"
+   ]
+  },
+  {
+   "stem": "The ₦1 and ₦2 coins are still ___",
+   "answer": "our money, though seldom seen now",
+   "distractors": [
+    "not money at all today",
+    "worth more than a ₦100 note",
+    "only kept inside a bank"
+   ]
+  },
+  {
+   "stem": "On the number line, 40 + 25 lands you at ___",
+   "answer": "65",
+   "distractors": [
+    "55",
+    "70",
+    "60"
+   ]
+  },
+  {
+   "stem": "Which is bigger, 74 or 69, and what did you look at first?",
+   "answer": "74, the tens digit",
+   "distractors": [
+    "69, the ones digit",
+    "74, the ones digit",
+    "69, the tens digit"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Write the numbers 11 to 20 in figures. ",
+   "points": [
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20"
+   ]
+  },
+  {
+   "stem": "Count in tens from ten to one hundred. ",
+   "points": [
+    "10",
+    "20",
+    "30",
+    "40",
+    "50",
+    "60",
+    "70",
+    "80",
+    "90",
+    "100"
+   ]
+  },
+  {
+   "stem": "Give the tens and the ones in 63 and in 91. ",
+   "points": [
+    "6 tens 3 ones",
+    "9 tens 1 one"
+   ]
+  },
+  {
+   "stem": "Arrange in descending order: 51, 24, 66, 39. ",
+   "points": [
+    "66",
+    "51",
+    "39",
+    "24"
+   ]
+  },
+  {
+   "stem": "Put in the correct sign: 45 ____ 54, 72 ____ 27, 30 + 20 ____ 50. ",
+   "points": [
+    "<",
+    ">",
+    "="
+   ]
+  },
+  {
+   "stem": "Solve: 8 + 6, 15 − 7, 9 + 9 and 20 − 6. ",
+   "points": [
+    "14",
+    "8",
+    "18",
+    "14"
+   ]
+  },
+  {
+   "stem": "There are 11 oranges and 6 bananas. How many fruits, and what operation did you use? ",
+   "points": [
+    "17 fruits",
+    "addition"
+   ]
+  },
+  {
+   "stem": "Fill the boxes: 7 + □ = 13, □ − 8 = 6 and 14 − □ = 6. ",
+   "points": [
+    "6",
+    "14",
+    "8"
+   ]
+  },
+  {
+   "stem": "Count the money: ₦20 + ₦10 + ₦5 + ₦5, and ₦50 − ₦20. ",
+   "points": [
+    "₦40",
+    "₦30"
+   ]
+  },
+  {
+   "stem": "Name four notes of Nigeria from the smallest and two coins we count with. ",
+   "points": [
+    "₦5",
+    "₦10",
+    "₦20",
+    "₦50",
+    "₦1 coin",
+    "₦2 coin"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write the numbers from 31 to 50 and say how many tens and ones are in 47.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain the difference between > and <, and arrange 38, 83, 33 and 88 from the smallest.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Solve these and show your work: 12 + 5, 17 − 6, 9 + 8, 20 − 13.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is an open sentence? Find the box in 6 + □ = 15 and in □ − 7 = 8.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on the naira: the coins and notes you know, and how you pay ₦50 for a thing that costs ₦35.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "subject": "Mathematics & English · NUMERACY",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Two hundred is the same as",
+   "answer": "twenty tens",
+   "distractors": [
+    "two tens",
+    "two hundred ones and two tens",
+    "twenty ones"
+   ]
+  },
+  {
+   "stem": "In the number 163, the digit 6 stands for",
+   "answer": "six tens",
+   "distractors": [
+    "six hundreds",
+    "six units",
+    "sixteen units"
+   ]
+  },
+  {
+   "stem": "The expanded form of 128 is",
+   "answer": "100 + 20 + 8",
+   "distractors": [
+    "1 + 2 + 8",
+    "100 + 28",
+    "12 + 8"
+   ]
+  },
+  {
+   "stem": "Counting in tens from 170, the next number is",
+   "answer": "180",
+   "distractors": [
+    "171",
+    "160",
+    "187"
+   ]
+  },
+  {
+   "stem": "The number that is 100 + 40 + 7 is",
+   "answer": "147",
+   "distractors": [
+    "174",
+    "417",
+    "107"
+   ]
+  },
+  {
+   "stem": "An even number among these is",
+   "answer": "146",
+   "distractors": [
+    "157",
+    "189",
+    "131"
+   ]
+  },
+  {
+   "stem": "In 47, the digit in the ones place is",
+   "answer": "7",
+   "distractors": [
+    "4",
+    "47",
+    "0"
+   ]
+  },
+  {
+   "stem": "Seven tens and five ones make",
+   "answer": "75",
+   "distractors": [
+    "57",
+    "12",
+    "705"
+   ]
+  },
+  {
+   "stem": "Ten ones make",
+   "answer": "one ten",
+   "distractors": [
+    "one hundred",
+    "ten hundreds",
+    "one thousand"
+   ]
+  },
+  {
+   "stem": "The number that has 4 tens and 0 ones is",
+   "answer": "40",
+   "distractors": [
+    "4",
+    "44",
+    "14"
+   ]
+  },
+  {
+   "stem": "In 77, the first 7 stands for",
+   "answer": "seventy",
+   "distractors": [
+    "seven",
+    "seven hundred",
+    "seventy-seven"
+   ]
+  },
+  {
+   "stem": "Sixty-five written in words is",
+   "answer": "\"sixty-five\"",
+   "distractors": [
+    "\"fifty-six\"",
+    "\"sixty and five\"",
+    "\"six ten five\""
+   ]
+  },
+  {
+   "stem": "The correct spelling of the number 13 is",
+   "answer": "thirteen",
+   "distractors": [
+    "threeteen",
+    "thirden",
+    "three-teen"
+   ]
+  },
+  {
+   "stem": "\"One hundred and three\" in figures is",
+   "answer": "103",
+   "distractors": [
+    "130",
+    "113",
+    "300"
+   ]
+  },
+  {
+   "stem": "The figure for forty-nine is",
+   "answer": "49",
+   "distractors": [
+    "94",
+    "40",
+    "4"
+   ]
+  },
+  {
+   "stem": "Forty is written in words as",
+   "answer": "forty",
+   "distractors": [
+    "fourty",
+    "four-tee",
+    "fourty-one"
+   ]
+  },
+  {
+   "stem": "In 25, the digit 2 stands for",
+   "answer": "twenty",
+   "distractors": [
+    "two",
+    "two hundred",
+    "five"
+   ]
+  },
+  {
+   "stem": "One more than 199 is",
+   "answer": "200",
+   "distractors": [
+    "198",
+    "190",
+    "201"
+   ]
+  },
+  {
+   "stem": "Skip counting by twos from 2 gives",
+   "answer": "2, 4, 6, 8",
+   "distractors": [
+    "2, 3, 5, 8",
+    "2, 12, 22, 32",
+    "4, 6, 8, 11"
+   ]
+  },
+  {
+   "stem": "Addition means",
+   "answer": "putting things together",
+   "distractors": [
+    "taking things away",
+    "comparing two numbers",
+    "sharing a cake"
+   ]
+  },
+  {
+   "stem": "In 2 + 3 = 5, the answer 5 is called the",
+   "answer": "sum",
+   "distractors": [
+    "difference",
+    "tens",
+    "place"
+   ]
+  },
+  {
+   "stem": "3 + 0 gives",
+   "answer": "3",
+   "distractors": [
+    "0",
+    "30",
+    "1"
+   ]
+  },
+  {
+   "stem": "The sum of 6 and 4 is",
+   "answer": "10",
+   "distractors": [
+    "9",
+    "12",
+    "2"
+   ]
+  },
+  {
+   "stem": "On a number line, adding means jumping to the",
+   "answer": "right",
+   "distractors": [
+    "left",
+    "up",
+    "down"
+   ]
+  },
+  {
+   "stem": "23 + 14 gives",
+   "answer": "37",
+   "distractors": [
+    "46",
+    "36",
+    "47"
+   ]
+  },
+  {
+   "stem": "\"Five less two\" written as a number sentence is",
+   "answer": "5 − 2 = 3",
+   "distractors": [
+    "5 + 2 = 7",
+    "5 × 2 = 10",
+    "5 ÷ 2 = 3"
+   ]
+  },
+  {
+   "stem": "The answer in subtraction is called the",
+   "answer": "difference",
+   "distractors": [
+    "sum",
+    "total",
+    "place"
+   ]
+  },
+  {
+   "stem": "5 − 5 gives",
+   "answer": "0",
+   "distractors": [
+    "5",
+    "10",
+    "1"
+   ]
+  },
+  {
+   "stem": "10 − 3 is",
+   "answer": "7",
+   "distractors": [
+    "6",
+    "8",
+    "13"
+   ]
+  },
+  {
+   "stem": "Subtraction is checked by using",
+   "answer": "addition",
+   "distractors": [
+    "multiplication",
+    "counting on fingers only",
+    "the ruler"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Write the tens and ones in the number 58. ",
+   "points": [
+    "5 tens and 8 ones"
+   ]
+  },
+  {
+   "stem": "Write 147 in expanded form and say what each digit stands for. ",
+   "points": [
+    "100 + 40 + 7",
+    "1 hundred, 4 tens, 7 ones"
+   ]
+  },
+  {
+   "stem": "Write these in words: 20, 40 and 100. ",
+   "points": [
+    "twenty, forty, one hundred"
+   ]
+  },
+  {
+   "stem": "Add: 20 + 30 and 28 + 7. ",
+   "points": [
+    "50",
+    "35"
+   ]
+  },
+  {
+   "stem": "Subtract: 57 − 23 and 42 − 15. ",
+   "points": [
+    "34",
+    "27"
+   ]
+  },
+  {
+   "stem": "Mention two ways to check an addition sum. ",
+   "points": [
+    "count back with subtraction",
+    "add again the other way round",
+    "use the number line"
+   ]
+  },
+  {
+   "stem": "Say which is greater in each pair: 96 and 102; 189 and 198. ",
+   "points": [
+    "102",
+    "198"
+   ]
+  },
+  {
+   "stem": "Name three things you used for grouping into tens in class. ",
+   "points": [
+    "sticks in bundles",
+    "caps",
+    "beans",
+    "beads"
+   ]
+  },
+  {
+   "stem": "Count from 95 to 105 and say which numbers are odd. ",
+   "points": [
+    "95 to 105",
+    "odd: 95, 97, 99, 101, 103, 105"
+   ]
+  },
+  {
+   "stem": "Say what the answer of an addition is called and what the answer of a subtraction is called. ",
+   "points": [
+    "sum",
+    "difference"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write the numbers 101 to 120 in figures and any five in words",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Show 34 with bundles of tens and ones, then write it in expanded form",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write two addition and two subtraction stories from things at home and solve them",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Work out 38 + 27 and 63 − 28; show the carrying and the borrowing",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain how you check that 48 − 25 = 23, and why 61 is greater than 14",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

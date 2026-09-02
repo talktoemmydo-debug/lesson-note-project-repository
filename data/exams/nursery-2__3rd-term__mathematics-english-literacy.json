@@ -1,0 +1,386 @@
+{
+ "subject": "Mathematics & English · Literacy (Letter Work)",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "A word we know at once, without spelling it out, is a ____ word",
+   "answer": "sight",
+   "distractors": [
+    "long",
+    "new",
+    "hard"
+   ]
+  },
+  {
+   "stem": "A line that tells a thing ends with a ____",
+   "answer": "full stop",
+   "distractors": [
+    "question mark",
+    "exclamation mark",
+    "comma"
+   ]
+  },
+  {
+   "stem": "Which of these words do we meet most in English?",
+   "answer": "the",
+   "distractors": [
+    "and",
+    "is",
+    "a"
+   ]
+  },
+  {
+   "stem": "A sentence must begin with a ____ letter",
+   "answer": "big",
+   "distractors": [
+    "small",
+    "round",
+    "quiet"
+   ]
+  },
+  {
+   "stem": "The word \"stamp\" has ____ letters",
+   "answer": "five",
+   "distractors": [
+    "four",
+    "six",
+    "three"
+   ]
+  },
+  {
+   "stem": "In \"sheep\", the two letters that make one sound together are ____",
+   "answer": "sh",
+   "distractors": [
+    "he",
+    "ee",
+    "ep"
+   ]
+  },
+  {
+   "stem": "Which of these words begins with two consonants run together?",
+   "answer": "brush",
+   "distractors": [
+    "ant",
+    "pen",
+    "cup"
+   ]
+  },
+  {
+   "stem": "To write a long word, we say it, count the ____ , then write one letter for each",
+   "answer": "sounds",
+   "distractors": [
+    "lines",
+    "pages",
+    "books"
+   ]
+  },
+  {
+   "stem": "Two words joined to make one word are called a ____ word",
+   "answer": "compound",
+   "distractors": [
+    "small",
+    "long",
+    "sight"
+   ]
+  },
+  {
+   "stem": "\"Sun + set\" joined makes the word ____",
+   "answer": "sunset",
+   "distractors": [
+    "rainbow",
+    "cupcake",
+    "outside"
+   ]
+  },
+  {
+   "stem": "A \"bedroom\" is the place we ____",
+   "answer": "sleep in",
+   "distractors": [
+    "play in",
+    "cook in",
+    "wash in"
+   ]
+  },
+  {
+   "stem": "Which two words make \"notebook\"?",
+   "answer": "note + book",
+   "distractors": [
+    "book + look",
+    "node + book",
+    "boat + book"
+   ]
+  },
+  {
+   "stem": "The people or animals a story is about are its ____",
+   "answer": "characters",
+   "distractors": [
+    "setting",
+    "middle",
+    "page"
+   ]
+  },
+  {
+   "stem": "\"Where and when a story happens\" is called its ____",
+   "answer": "setting",
+   "distractors": [
+    "ending",
+    "title",
+    "character"
+   ]
+  },
+  {
+   "stem": "In our hen story, what happened first?",
+   "answer": "The hen goes out.",
+   "distractors": [
+    "She eats the corn.",
+    "The rain comes.",
+    "She runs home."
+   ]
+  },
+  {
+   "stem": "A story has a beginning, a middle and a(n) ____",
+   "answer": "end",
+   "distractors": [
+    "age",
+    "map",
+    "line"
+   ]
+  },
+  {
+   "stem": "A describing word tells us what a thing is ____",
+   "answer": "like",
+   "distractors": [
+    "worth",
+    "made",
+    "named"
+   ]
+  },
+  {
+   "stem": "In \"the tall tree\", the describing word is ____",
+   "answer": "tall",
+   "distractors": [
+    "tree",
+    "the",
+    "one"
+   ]
+  },
+  {
+   "stem": "Which of these is the opposite of \"big\"?",
+   "answer": "small",
+   "distractors": [
+    "tall",
+    "long",
+    "thin"
+   ]
+  },
+  {
+   "stem": "For a snail we use the word ____",
+   "answer": "slow",
+   "distractors": [
+    "hot",
+    "happy",
+    "fast"
+   ]
+  },
+  {
+   "stem": "An action word tells us what somebody ____",
+   "answer": "does",
+   "distractors": [
+    "owns",
+    "is called",
+    "has"
+   ]
+  },
+  {
+   "stem": "In \"The girl can swim\", the action word is ____",
+   "answer": "swim",
+   "distractors": [
+    "the",
+    "girl",
+    "can"
+   ]
+  },
+  {
+   "stem": "We say \"I run\" but we say \"she ____\" .",
+   "answer": "runs",
+   "distractors": [
+    "running",
+    "run",
+    "runned"
+   ]
+  },
+  {
+   "stem": "Which pair are both action words?",
+   "answer": "kick and catch",
+   "distractors": [
+    "red and big",
+    "hot and cold",
+    "table and chair"
+   ]
+  },
+  {
+   "stem": "The first line of our small story tells us who and ____",
+   "answer": "where",
+   "distractors": [
+    "how much",
+    "whose",
+    "when"
+   ]
+  },
+  {
+   "stem": "If a word will not come, we ____ it in the box above the line",
+   "answer": "draw",
+   "distractors": [
+    "burn",
+    "hide",
+    "throw"
+   ]
+  },
+  {
+   "stem": "A story you write yourself may be as short as ____ lines",
+   "answer": "three",
+   "distractors": [
+    "fifty",
+    "eleven",
+    "seven"
+   ]
+  },
+  {
+   "stem": "\"Look out ____\" is a strong call, so it needs a(n) ____ mark",
+   "answer": "exclamation",
+   "distractors": [
+    "question",
+    "equal",
+    "empty"
+   ]
+  },
+  {
+   "stem": "The name of a friend begins with a ____ letter",
+   "answer": "big",
+   "distractors": [
+    "small",
+    "quiet",
+    "round"
+   ]
+  },
+  {
+   "stem": "\"Ican seeit\" is hard to read because it has no ____ between words",
+   "answer": "room",
+   "distractors": [
+    "mark",
+    "stop",
+    "dot"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Say three sight words you know at once ",
+   "points": [
+    "the",
+    "and",
+    "can"
+   ]
+  },
+  {
+   "stem": "Name two things that make a sentence neat on the page ",
+   "points": [
+    "a big letter first",
+    "a full stop at the end"
+   ]
+  },
+  {
+   "stem": "Say the two letters that make one sound in \"sheep\" and in \"three\" ",
+   "points": [
+    "sh",
+    "th"
+   ]
+  },
+  {
+   "stem": "Join the two words and write the new one: sun + set, foot + ball ",
+   "points": [
+    "sunset",
+    "football"
+   ]
+  },
+  {
+   "stem": "Name the three parts of a story in order ",
+   "points": [
+    "beginning",
+    "middle",
+    "end"
+   ]
+  },
+  {
+   "stem": "Say the three questions that open nearly any story ",
+   "points": [
+    "Who?",
+    "What?",
+    "Where?"
+   ]
+  },
+  {
+   "stem": "Mention four describing words ",
+   "points": [
+    "big",
+    "small",
+    "tall",
+    "slow"
+   ]
+  },
+  {
+   "stem": "Say six action words you can do in class ",
+   "points": [
+    "run",
+    "jump",
+    "clap",
+    "throw",
+    "catch",
+    "kick"
+   ]
+  },
+  {
+   "stem": "Name the three marks that may end a line ",
+   "points": [
+    "full stop",
+    "question mark",
+    "exclamation mark"
+   ]
+  },
+  {
+   "stem": "Write two names that begin with a big letter ",
+   "points": [
+    "Ada",
+    "Tunde"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write one sentence about what you did this morning, with a big letter and a full stop.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say the two words inside each of these: bedroom, rainbow, notebook.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Write three lines of a story from these boxes: a boy finds a ball; he kicks it over a fence; a girl gives it back.",
+   "marks": 4,
+   "points": []
+  },
+  {
+   "stem": "Put the right mark at the end of each line and copy them out: Where is my bag / Look out / I can jump",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Name four describing words and use one of them in a sentence.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
