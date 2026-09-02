@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 2 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 3 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*2 subjects · 16 lessons · 2 term practice papers. Each part begins on a fresh page.*
+*3 subjects · 24 lessons · 3 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 2
   - [WEEK 1 — ENERGY AROUND US](#week-1-energy-around-us) · 2
@@ -23,17 +23,27 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — MAGNETS](#week-6-magnets) · 5
   - [WEEK 8 — WASTE AND RECYCLING](#week-8-waste-and-recycling) · 6
   - [WEEK 9 — CARING FOR OUR ENVIRONMENT](#week-9-caring-for-our-environment) · 6
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 8
-  - [WEEK 1 — STORING OUR WORK](#week-1-storing-our-work) · 8
-  - [WEEK 2 — THE INTERNET](#week-2-the-internet) · 8
-  - [WEEK 3 — SENDING A MESSAGE](#week-3-sending-a-message) · 9
-  - [WEEK 4 — LEARNING SOFTWARE](#week-4-learning-software) · 10
-  - [WEEK 5 — COMPUTERS IN DAILY LIFE](#week-5-computers-in-daily-life) · 10
-  - [WEEK 6 — PEOPLE WHO WORK WITH COMPUTERS](#week-6-people-who-work-with-computers) · 11
-  - [WEEK 8 — BEING SAFE ONLINE](#week-8-being-safe-online) · 12
-  - [WEEK 9 — CARING FOR OUR DEVICES](#week-9-caring-for-our-devices) · 12
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 14
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 16
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 8
+  - [WEEK 1 — JESUS TEACHES US TO LOVE](#week-1-jesus-teaches-us-to-love) · 8
+  - [WEEK 2 — THE PARABLE OF THE GOOD SAMARITAN](#week-2-the-parable-of-the-good-samaritan) · 8
+  - [WEEK 3 — THE PARABLE OF THE LOST SHEEP](#week-3-the-parable-of-the-lost-sheep) · 9
+  - [WEEK 4 — THE LORD'S PRAYER](#week-4-the-lords-prayer) · 10
+  - [WEEK 5 — JESUS IS ARRESTED](#week-5-jesus-is-arrested) · 10
+  - [WEEK 6 — THE DEATH OF JESUS](#week-6-the-death-of-jesus) · 11
+  - [WEEK 8 — JESUS RISES AGAIN](#week-8-jesus-rises-again) · 12
+  - [WEEK 9 — JESUS SENDS HIS DISCIPLES](#week-9-jesus-sends-his-disciples) · 12
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 14
+  - [WEEK 1 — STORING OUR WORK](#week-1-storing-our-work) · 14
+  - [WEEK 2 — THE INTERNET](#week-2-the-internet) · 14
+  - [WEEK 3 — SENDING A MESSAGE](#week-3-sending-a-message) · 15
+  - [WEEK 4 — LEARNING SOFTWARE](#week-4-learning-software) · 16
+  - [WEEK 5 — COMPUTERS IN DAILY LIFE](#week-5-computers-in-daily-life) · 16
+  - [WEEK 6 — PEOPLE WHO WORK WITH COMPUTERS](#week-6-people-who-work-with-computers) · 17
+  - [WEEK 8 — BEING SAFE ONLINE](#week-8-being-safe-online) · 18
+  - [WEEK 9 — CARING FOR OUR DEVICES](#week-9-caring-for-our-devices) · 18
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 20
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)](#examination-practice-christian-religious-studies-primary-1-3rd-term)** · 22
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 24
 
 
 
@@ -639,6 +649,610 @@ written for them.
 **My own work**
 
 • Draw a clean environment with a tree.
+
+
+---
+
+# Christian Religious Studies (CRS)
+
+These are the notes for the third term of Primary 1. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 1 · Christian Religious Studies · Third Term W1-6, 8-9 (Jesus teaches us to love; the Good Samaritan; the lost sheep; the Lord's Prayer; Jesus is arrested; the death of Jesus; Jesus rises again; Jesus sends his disciples).*
+
+
+### WEEK 1 — JESUS TEACHES US TO LOVE
+
+**You will learn to**
+
+• say what Jesus taught about love
+
+• love God and others
+
+• show love every day
+
+**Things to know**
+
+• Jesus taught us to **love**.
+
+• We love **God** with all our heart.
+
+• We love our **neighbour** as ourselves.
+
+• Our neighbour is anyone near us.
+
+• Love is kind and patient.
+
+• Love does not hurt others.
+
+• We show love by helping and sharing.
+
+• We love our family, friends and even those who are unkind.
+
+• Love is the greatest teaching of Jesus.
+
+• When we love, we are like Jesus.
+
+**Let us talk**
+
+1. What did Jesus teach about love?
+
+2. Who is our neighbour?
+
+3. How do we show love?
+
+**Words for my notebook**
+
+• love — to care for someone deeply
+
+• neighbour — anyone near us
+
+• kind — nice and caring
+
+**Worksheet**
+
+1. Jesus taught us to love God and our ___.
+   A) neighbour B) enemies only C) toys D) shoes
+
+2. Love is kind and ___.
+   A) patient B) rude C) angry D) lazy
+
+3. We show love by helping and ___.
+   A) sharing B) fighting C) hiding D) stealing
+
+4. Our neighbour is anyone ___ us.
+   A) near B) against C) far from only D) afraid of
+
+5. Fill in: The greatest teaching of Jesus is _____.
+
+6. Mention two ways we show love.
+
+7. Write who our neighbour is.
+
+**My own work**
+
+• Draw myself showing love to a friend.
+
+---
+
+### WEEK 2 — THE PARABLE OF THE GOOD SAMARITAN
+
+**You will learn to**
+
+• tell the story of the Good Samaritan
+
+• say who a neighbour is
+
+• help anyone in need
+
+**Things to know**
+
+• A **parable** is a story that teaches a lesson.
+
+• A man was going to Jericho when robbers attacked him.
+
+• They beat him and left him half dead.
+
+• A **priest** passed by and did not help.
+
+• A **Levite** passed by and did not help.
+
+• A **Samaritan** came and helped the man.
+
+• The Samaritan bound his wounds and took him to an inn.
+
+• The Samaritan paid for the man's care.
+
+• Jesus said the Samaritan was the good neighbour.
+
+• We help anyone in need, like the Good Samaritan.
+
+**Let us talk**
+
+1. What is a parable?
+
+2. Who helped the injured man?
+
+3. What did the priest and Levite do?
+
+**Words for my notebook**
+
+• parable — a story that teaches a lesson
+
+• Samaritan — the man who helped the injured traveller
+
+• neighbour — anyone near us, whom we should help
+
+**Worksheet**
+
+1. A story that teaches a lesson is a ___.
+   A) parable B) song C) poem D) song only
+
+2. The robbers beat the man and left him half ___.
+   A) dead B) asleep C) full D) clean
+
+3. The ___ passed by and did not help.
+   A) priest B) Samaritan C) doctor D) friend
+
+4. The ___ helped the injured man.
+   A) Samaritan B) priest C) Levite D) robber
+
+5. Fill in: The Good Samaritan took the man to an _____.
+
+6. Mention two people who passed by the injured man.
+
+7. Write who helped the injured man.
+
+**My own work**
+
+• Draw the Good Samaritan helping the man.
+
+---
+
+### WEEK 3 — THE PARABLE OF THE LOST SHEEP
+
+**You will learn to**
+
+• tell the story of the lost sheep
+
+• say what the story teaches
+
+• know that God loves us
+
+**Things to know**
+
+• A shepherd had **one hundred** sheep.
+
+• One sheep went **missing**.
+
+• The shepherd left the ninety-nine to find the one.
+
+• He searched until he found the lost sheep.
+
+• He was **glad** and carried it home.
+
+• He called his friends to rejoice with him.
+
+• Jesus said God loves every one of us.
+
+• God is glad when a sinner turns back to him.
+
+• No one is too small for God to love.
+
+• God looks for us when we are lost.
+
+**Let us talk**
+
+1. How many sheep did the shepherd have?
+
+2. What did the shepherd do when one was lost?
+
+3. What does the story teach about God?
+
+**Words for my notebook**
+
+• shepherd — one who looks after sheep
+
+• lost — not able to be found
+
+• rejoice — to be very glad
+
+**Worksheet**
+
+1. The shepherd had ___ sheep.
+   A) one hundred B) ten C) fifty D) two
+
+2. One sheep went ___.
+   A) missing B) home C) to sleep D) to market
+
+3. The shepherd left the ___ to find the one.
+   A) ninety-nine B) ten C) fifty D) hundred
+
+4. The shepherd was ___ when he found it.
+   A) glad B) sad C) angry D) afraid
+
+5. Fill in: To be very glad is to _____.
+
+6. Mention two things the shepherd did.
+
+7. Write what the story teaches about God.
+
+**My own work**
+
+• Draw the shepherd carrying the lost sheep.
+
+---
+
+### WEEK 4 — THE LORD'S PRAYER
+
+**You will learn to**
+
+• say the Lord's Prayer
+
+• say what each part means
+
+• pray to God
+
+**Things to know**
+
+• Jesus taught his disciples to **pray**.
+
+• The prayer he taught is the **Lord's Prayer**.
+
+• It begins, "Our Father in heaven."
+
+• "Hallowed be your name" means we honour God's name.
+
+• "Your kingdom come" means we pray for God to rule.
+
+• "Give us this day our daily bread" means we ask God for food.
+
+• "Forgive us our sins" means we ask God to forgive us.
+
+• "Lead us not into temptation" means we ask God to keep us from wrong.
+
+• We pray to God our Father.
+
+• Jesus showed us how to pray.
+
+**Let us talk**
+
+1. Who taught the Lord's Prayer?
+
+2. How does the Lord's Prayer begin?
+
+3. What do we ask God for in the prayer?
+
+**Words for my notebook**
+
+• prayer — talking to God
+
+• Lord's Prayer — the prayer Jesus taught
+
+• forgive — to stop being angry at a wrong
+
+**Worksheet**
+
+1. Jesus taught his disciples to ___.
+   A) pray B) fight C) hide D) steal
+
+2. The Lord's Prayer begins, "Our ___ in heaven."
+   A) Father B) mother C) friend D) teacher
+
+3. "Give us this day our daily ___" means we ask for food.
+   A) bread B) water C) money D) stone
+
+4. "Forgive us our ___" means we ask God to forgive us.
+   A) sins B) songs C) games D) toys
+
+5. Fill in: Talking to God is _____.
+
+6. Mention two things we ask God for in the Lord's Prayer.
+
+7. Write how the Lord's Prayer begins.
+
+**My own work**
+
+• Draw myself praying to God.
+
+---
+
+### WEEK 5 — JESUS IS ARRESTED
+
+**You will learn to**
+
+• tell how Jesus was arrested
+
+• say who betrayed Jesus
+
+• know that Jesus obeyed God
+
+**Things to know**
+
+• Jesus went to a garden called **Gethsemane** to pray.
+
+• He took his disciples with him.
+
+• Jesus prayed to God his Father.
+
+• **Judas** came with soldiers to arrest Jesus.
+
+• Judas showed them Jesus with a **kiss**.
+
+• The soldiers took Jesus away.
+
+• The disciples ran away in fear.
+
+• Jesus did not fight back.
+
+• Jesus obeyed God's plan.
+
+• Jesus was arrested though he did no wrong.
+
+**Let us talk**
+
+1. Where did Jesus go to pray?
+
+2. Who showed the soldiers Jesus?
+
+3. Did Jesus fight back?
+
+**Words for my notebook**
+
+• Gethsemane — the garden where Jesus prayed
+
+• betray — to hand someone over to harm
+
+• arrest — to seize and take away
+
+**Worksheet**
+
+1. Jesus went to the garden of ___ to pray.
+   A) Gethsemane B) Eden C) Cana D) Sinai
+
+2. ___ showed the soldiers Jesus with a kiss.
+   A) Judas B) Peter C) John D) Paul
+
+3. The soldiers took Jesus ___.
+   A) away B) home C) to school D) to market
+
+4. The disciples ran away in ___.
+   A) fear B) joy C) sleep D) hunger
+
+5. Fill in: To hand someone over to harm is to _____.
+
+6. Mention two things that happened when Jesus was arrested.
+
+7. Write who betrayed Jesus.
+
+**My own work**
+
+• Draw Jesus praying in the garden.
+
+---
+
+### WEEK 6 — THE DEATH OF JESUS
+
+**You will learn to**
+
+• tell how Jesus died
+
+• say why Jesus died
+
+• thank Jesus for his love
+
+**Things to know**
+
+• The rulers handed Jesus to be **crucified**.
+
+• Jesus carried his **cross** to a hill called Golgotha.
+
+• The soldiers nailed Jesus to the cross.
+
+• Jesus died on the cross.
+
+• Jesus died for our **sins**.
+
+• Jesus gave his life out of love for us.
+
+• When Jesus died, the sky grew dark.
+
+• Joseph of Arimathea laid Jesus in a **tomb**.
+
+• A big stone closed the tomb.
+
+• Jesus died so that we may live with God.
+
+**Let us talk**
+
+1. How did Jesus die?
+
+2. Why did Jesus die?
+
+3. Where was Jesus laid?
+
+**Words for my notebook**
+
+• cross — the wooden beam Jesus carried
+
+• tomb — a place where a dead body is laid
+
+• sin — doing wrong against God
+
+**Worksheet**
+
+1. Jesus carried his ___ to a hill.
+   A) cross B) stone C) bag D) book
+
+2. Jesus died for our ___.
+   A) sins B) games C) songs D) toys
+
+3. Jesus was laid in a ___.
+   A) tomb B) boat C) tent D) market
+
+4. A big ___ closed the tomb.
+   A) stone B) door C) cloth D) tree
+
+5. Fill in: Doing wrong against God is _____.
+
+6. Mention two things that happened when Jesus died.
+
+7. Write why Jesus died.
+
+**My own work**
+
+• Draw the cross on the hill.
+
+---
+
+### WEEK 8 — JESUS RISES AGAIN
+
+**You will learn to**
+
+• tell how Jesus rose again
+
+• say what the resurrection means
+
+• rejoice that Jesus lives
+
+**Things to know**
+
+• On the **third day**, women went to the tomb.
+
+• They found the stone rolled away.
+
+• The tomb was **empty**.
+
+• An **angel** said, "Jesus is not here; he has risen."
+
+• Jesus rose from the dead.
+
+• Jesus appeared to his disciples.
+
+• The disciples were glad to see Jesus.
+
+• The rising of Jesus is the **resurrection**.
+
+• Because Jesus lives, we too shall live.
+
+• We rejoice that Jesus is alive.
+
+**Let us talk**
+
+1. When did the women go to the tomb?
+
+2. What did they find?
+
+3. What is the resurrection?
+
+**Words for my notebook**
+
+• resurrection — Jesus rising from the dead
+
+• tomb — the place where Jesus was laid
+
+• angel — a messenger of God
+
+**Worksheet**
+
+1. On the ___ day the women went to the tomb.
+   A) third B) first C) second D) seventh
+
+2. They found the stone rolled away and the tomb ___.
+   A) empty B) full C) locked D) dark
+
+3. An ___ said, "Jesus has risen."
+   A) angel B) soldier C) robber D) child
+
+4. The rising of Jesus is the ___.
+   A) resurrection B) baptism C) parable D) prayer
+
+5. Fill in: Because Jesus lives, we too shall _____.
+
+6. Mention two things the women found at the tomb.
+
+7. Write what the resurrection means.
+
+**My own work**
+
+• Draw the empty tomb with the stone rolled away.
+
+---
+
+### WEEK 9 — JESUS SENDS HIS DISCIPLES
+
+**You will learn to**
+
+• tell how Jesus sent his disciples
+
+• say what he told them to do
+
+• share the good news
+
+**Things to know**
+
+• After he rose, Jesus met his disciples.
+
+• Jesus gave them the **great commission**.
+
+• He said, "Go and make disciples of all nations."
+
+• He told them to teach people his commands.
+
+• He told them to baptise in the name of the Father, Son and Holy Spirit.
+
+• Jesus promised to be with them always.
+
+• The disciples went out to tell the good news.
+
+• They told people that Jesus is alive.
+
+• We too can share the good news.
+
+• Jesus is with us always.
+
+**Let us talk**
+
+1. What did Jesus tell his disciples to do?
+
+2. What is the great commission?
+
+3. What did Jesus promise?
+
+**Words for my notebook**
+
+• great commission — Jesus sending his disciples to all nations
+
+• disciple — one who follows and learns from Jesus
+
+• good news — the message that Jesus is alive
+
+**Worksheet**
+
+1. Jesus told his disciples to go and make ___ of all nations.
+   A) disciples B) enemies C) strangers D) kings
+
+2. Jesus promised to be with them ___.
+   A) always B) never C) sometimes D) once
+
+3. The disciples went out to tell the good ___.
+   A) news B) songs C) games D) stories only
+
+4. Jesus told them to baptise in the name of the Father, Son and ___.
+   A) Holy Spirit B) angel C) prophet D) king
+
+5. Fill in: Jesus sending his disciples to all nations is the great _____.
+
+6. Mention two things Jesus told his disciples to do.
+
+7. Write what Jesus promised.
+
+**My own work**
+
+• Draw the disciples going out to tell the good news.
 
 
 ---
@@ -1429,6 +2043,192 @@ Answer in full sentences.
 43. Name two simple machines and what each does. (2 marks)
 44. What does a magnet attract? (2 marks)
 45. Name two ways to care for our environment. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Jesus taught us to love God and our ___
+   A) shoes
+   B) toys
+   C) enemies
+   D) neighbour
+2. Love is kind and ___
+   A) patient
+   B) angry
+   C) lazy
+   D) rude
+3. We show love by helping and ___
+   A) hiding
+   B) sharing
+   C) stealing
+   D) fighting
+4. Our neighbour is anyone ___ us
+   A) against
+   B) far from
+   C) near
+   D) afraid of
+5. A story that teaches a lesson is a ___
+   A) poem
+   B) dance
+   C) song
+   D) parable
+6. The robbers beat the man and left him half ___
+   A) dead
+   B) full
+   C) asleep
+   D) clean
+7. The ___ passed by and did not help
+   A) friend
+   B) Samaritan
+   C) priest
+   D) doctor
+8. The ___ helped the injured man
+   A) Levite
+   B) priest
+   C) robber
+   D) Samaritan
+9. The shepherd had ___ sheep
+   A) fifty
+   B) one hundred
+   C) two
+   D) ten
+10. One sheep went ___
+   A) missing
+   B) home
+   C) to market
+   D) to sleep
+11. The shepherd left the ___ to find the one
+   A) hundred
+   B) fifty
+   C) ninety-nine
+   D) ten
+12. The shepherd was ___ when he found it
+   A) sad
+   B) glad
+   C) afraid
+   D) angry
+13. Jesus taught his disciples to ___
+   A) pray
+   B) steal
+   C) hide
+   D) fight
+14. The Lord's Prayer begins, "Our ___ in heaven"
+   A) teacher
+   B) mother
+   C) friend
+   D) Father
+15. "Give us this day our daily ___" means we ask for food
+   A) money
+   B) bread
+   C) stone
+   D) water
+16. "Forgive us our ___" means we ask God to forgive us
+   A) games
+   B) songs
+   C) sins
+   D) toys
+17. Jesus went to the garden of ___ to pray
+   A) Gethsemane
+   B) Eden
+   C) Cana
+   D) Sinai
+18. ___ showed the soldiers Jesus with a kiss
+   A) John
+   B) Peter
+   C) Paul
+   D) Judas
+19. The soldiers took Jesus ___
+   A) to market
+   B) to school
+   C) away
+   D) home
+20. The disciples ran away in ___
+   A) fear
+   B) hunger
+   C) joy
+   D) sleep
+21. Jesus carried his ___ to a hill
+   A) stone
+   B) cross
+   C) book
+   D) bag
+22. Jesus died for our ___
+   A) songs
+   B) toys
+   C) games
+   D) sins
+23. Jesus was laid in a ___
+   A) boat
+   B) tent
+   C) tomb
+   D) market
+24. A big ___ closed the tomb
+   A) stone
+   B) door
+   C) cloth
+   D) tree
+25. On the ___ day the women went to the tomb
+   A) first
+   B) seventh
+   C) second
+   D) third
+26. They found the stone rolled away and the tomb ___
+   A) dark
+   B) empty
+   C) locked
+   D) full
+27. An ___ said, "Jesus has risen"
+   A) robber
+   B) soldier
+   C) angel
+   D) child
+28. Jesus told his disciples to go and make ___ of all nations
+   A) strangers
+   B) kings
+   C) enemies
+   D) disciples
+29. Jesus promised to be with them ___
+   A) once
+   B) always
+   C) never
+   D) sometimes
+30. The disciples went out to tell the good ___
+   A) news
+   B) stories
+   C) songs
+   D) games
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two ways we show love
+32. Name two people who passed by the injured man
+33. Name two things the shepherd did
+34. Name two things we ask God for in the Lord's Prayer
+35. Name two things that happened when Jesus was arrested
+36. Name two things that happened when Jesus died
+37. Name two things the women found at the tomb
+38. Name two things Jesus told his disciples to do
+39. Name two words from the Lord's Prayer
+40. Name two people in the story of Jesus' death
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What did Jesus teach about love? (2 marks)
+42. Who helped the injured man in the parable? (2 marks)
+43. How does the Lord's Prayer begin? (2 marks)
+44. Why did Jesus die? (2 marks)
+45. What did Jesus tell his disciples to do? (2 marks)
 
 
 ---
