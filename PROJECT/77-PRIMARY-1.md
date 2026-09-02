@@ -12,7 +12,7 @@ at `exploitable-longest: 0` and `sheet_lint` 0, worksheet letters shuffled so th
 | # | subject | state |
 | --- | --- | --- |
 | 1 | basic-science | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=8 D=7) · worksheets shuffled · gates ok |
-| 2 | basic-digital-literacy | — |
+| 2 | basic-digital-literacy | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=8 C=7 D=7) · worksheets shuffled · gates ok |
 | 3 | christian-religious-studies | — (no plates owed, exempt) |
 | 4 | cultural-and-creative-arts | — |
 | 5 | general-knowledge | — (no plates owed, exempt) |

@@ -41,9 +41,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. A road that is smooth and black is called a ____ road. A) tarred B) muddy C) water D) bush
-2. Which of these is a small road for walking? A) bridge B) flyover C) pathway D) highway
-3. The traffic light that means stop is A) green B) red C) yellow D) blue
+1. A road that is smooth and black is called a ____ road. A) tarred B) muddy C) bush D) water
+2. Which of these is a small road for walking? A) pathway B) highway C) bridge D) flyover
+3. The traffic light that means stop is A) red B) green C) yellow D) blue
 4. Fill in: We cross the road at the ____ crossing.
 5. Mention two things that move on the road.
 6. Write one sentence on how you cross the road safely.
@@ -89,9 +89,9 @@ Draw the road near my house and put one car and one person walking on it.
 
 **Worksheet**
 
-1. Everything around us at home and at school is the A) calendar B) notebook C) environment D) market
-2. Which of these is a primary colour? A) purple B) green C) orange D) blue
-3. Red and yellow mixed together give A) grey B) green C) black D) orange
+1. Everything around us at home and at school is the A) notebook B) environment C) calendar D) market
+2. Which of these is a primary colour? A) blue B) green C) orange D) purple
+3. Red and yellow mixed together give A) orange B) green C) black D) grey
 4. Fill in: The grass looks ____.
 5. Mention two things you see in the sky.
 6. Write the three primary colours.
@@ -137,9 +137,9 @@ Look around my room at home and draw two things I see, then colour them.
 
 **Worksheet**
 
-1. A shape that is round with no corners is a A) square B) triangle C) rectangle D) circle
-2. How many sides does a triangle have? A) three B) six C) five D) four
-3. A shape with four equal sides is a A) square B) oval C) star D) circle
+1. A shape that is round with no corners is a A) triangle B) rectangle C) circle D) square
+2. How many sides does a triangle have? A) three B) four C) five D) six
+3. A shape with four equal sides is a A) square B) star C) circle D) oval
 4. Fill in: A wheel is the shape of a ____.
 5. Mention two things at home that are a rectangle.
 6. Write the number of corners on a triangle.
@@ -185,9 +185,9 @@ Find three shapes in my house and draw each one in my notebook.
 
 **Worksheet**
 
-1. The shape of an egg is an A) triangle B) square C) rectangle D) oval
-2. A tin of milk is the solid shape called a A) sphere B) cube C) cylinder D) cone
-3. Which shape has five points? A) oval B) star C) heart D) circle
+1. The shape of an egg is an A) rectangle B) square C) oval D) triangle
+2. A tin of milk is the solid shape called a A) cylinder B) cube C) sphere D) cone
+3. Which shape has five points? A) circle B) oval C) star D) heart
 4. Fill in: A box is the solid shape called a ____.
 5. Mention two things that are a sphere.
 6. Write one thing you can make using a triangle and a square.
@@ -233,9 +233,9 @@ Use shapes to draw a house: a square for the walls and a triangle for the roof.
 
 **Worksheet**
 
-1. Which of these is a living thing? A) stone B) book C) chair D) goat
-2. Living things do all of these except A) breathe B) melt C) eat D) grow
-3. A plant needs water, air and ____ to grow well. A) paper B) sunlight C) money D) shoes
+1. Which of these is a living thing? A) book B) goat C) chair D) stone
+2. Living things do all of these except A) grow B) breathe C) eat D) melt
+3. A plant needs water, air and ____ to grow well. A) shoes B) paper C) money D) sunlight
 4. Fill in: A dog and a cat are ____ things.
 5. Mention two living things you see on a farm.
 6. Write one way you care for a plant.
@@ -281,9 +281,9 @@ Water one plant at home and watch it for a week, then draw it.
 
 **Worksheet**
 
-1. Which of these is non-living? A) dog B) hen C) stone D) tree
-2. A chair is a ____ non-living thing. A) living B) growing C) natural D) man-made
-3. Which one is a natural non-living thing? A) book B) water C) car D) toy
+1. Which of these is non-living? A) hen B) stone C) dog D) tree
+2. A chair is a ____ non-living thing. A) natural B) man-made C) growing D) living
+3. Which one is a natural non-living thing? A) toy B) book C) water D) car
 4. Fill in: A stone does not eat, grow or ____.
 5. Mention two man-made non-living things.
 6. Write one way water helps living things.
@@ -329,9 +329,9 @@ Look around my home and draw two non-living things I use every day.
 
 **Worksheet**
 
-1. Moving air is called A) sun B) wind C) rain D) cloud
-2. We cannot see air but we can A) wear it B) eat it C) buy it D) feel it
-3. Which of these uses air? A) reading a book B) sitting on a chair C) flying a kite D) writing a letter
+1. Moving air is called A) rain B) sun C) wind D) cloud
+2. We cannot see air but we can A) buy it B) eat it C) feel it D) wear it
+3. Which of these uses air? A) sitting on a chair B) writing a letter C) reading a book D) flying a kite
 4. Fill in: We use air for ____.
 5. Mention two ways you can feel air.
 6. Write one thing that dirty air can carry.
@@ -378,9 +378,9 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 
 **Worksheet**
 
-1. The top part of the ground where plants grow is A) cloud B) air C) soil D) water
-2. The soil that is best for plants is A) rocky B) dry C) hard D) loamy
-3. A pot for cooking can be made from A) water B) air C) glass D) clay
+1. The top part of the ground where plants grow is A) water B) soil C) cloud D) air
+2. The soil that is best for plants is A) dry B) hard C) loamy D) rocky
+3. A pot for cooking can be made from A) glass B) air C) clay D) water
 4. Fill in: Soil can be black, brown, red or ____.
 5. Mention two places we find soil.
 6. Write one way we care for the soil.

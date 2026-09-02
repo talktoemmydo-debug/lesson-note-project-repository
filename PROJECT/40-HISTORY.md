@@ -763,3 +763,11 @@ authored to the house shape and validated: `spec_from_lines` 1 of 1, `sheet_chec
 correct-first (all-A), so `shuffle_worksheet_options.py` was run (24 items moved) and the inferred spread became
 A=0 B=1 C=2 D=3, longest run 2. `gates.py --class "Primary 1" --term "1st Term"` is **ALL CLEAR** with the expected
 `[half]` book line (1 of 11 subjects). Tracked in `PROJECT/77-PRIMARY-1.md`.
+
+## 2 Sep 2026 — Primary 1 · basic-digital-literacy authored and green (2 of 11)
+
+Eight notes (devices around us, the four basic parts, care and lab rules, abacus-to-today, Babbage and Lovelace,
+hardware and software, keyboard and mouse, output devices and the microphone) plus a 30/10/5 paper
+(A=8 B=8 C=7 D=7, exploitable-longest 0). One stem needed a trailing `?` to pass `sheet_check`
+("Which of these is NOT a digital device?"); worksheets shuffled (48 items moved) to an inferred spread with longest
+run 2. `gates.py --class "Primary 1" --term "1st Term"` ALL CLEAR with `[half]` book (2 of 11 subjects).
