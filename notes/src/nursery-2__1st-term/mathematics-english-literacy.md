@@ -41,6 +41,8 @@ Aa Bb Cc Dd Ee Ff — apple, ball, cat, dog, egg, fan.
 4. Which small letter goes with E?
 5. Trace b and d: which one has its tall stem up?
 
+
+![Six blank cards in a row for the letters A to F.](assets/img/nursery-2/1st-term/mathematics-english-literacy/week1-six-letter-cards.png)
 **Worksheet**
 
 1. The small letter of "B" is A) p B) b C) d D) q
@@ -90,6 +92,8 @@ Gg Hh Ii Jj Kk Ll — goat, hat, ink, jug, kite, lion.
 3. Name a word that starts with /k/.
 4. Say your letters from A to L.
 
+
+![Six blank cards in two rows for the letters G to L.](assets/img/nursery-2/1st-term/mathematics-english-literacy/week2-six-cards-in-two-rows.png)
 **Worksheet**
 
 1. The letter that begins "lion" is A) i B) n C) r D) l
@@ -139,6 +143,8 @@ Mm Nn Oo Pp Qq Rr — mat, net, orange, pen, queen, rat.
 3. Say the first sound in "orange".
 4. Which of your letters has a tail below the line?
 
+
+![Six blank folded cards for the letters M to R.](assets/img/nursery-2/1st-term/mathematics-english-literacy/week3-six-folded-cards.png)
 **Worksheet**
 
 1. "Queen" begins with the sound A) /k/ B) /n/ C) /q/ D) /kw/
@@ -189,6 +195,8 @@ Ss Tt Uu Vv Ww Xx Yy Zz — sun, tap, umbrella, van, water, box, yam, zebra. The
 3. Where does the letter X usually appear in a small word?
 4. Show me the difference between /v/ and /w/.
 
+
+![Eight blank cards in a row for the letters S to Z.](assets/img/nursery-2/1st-term/mathematics-english-literacy/week4-eight-letter-cards.png)
 **Worksheet**
 
 1. The number of letters in the English alphabet is A) 24 B) 27 C) 26 D) 25
@@ -241,6 +249,8 @@ c-a-t = cat. The -at family: cat, bat, rat, mat, hat, sat. The -an family: can, 
 3. Change one sound in "cat" to make a new word.
 4. Read: "The man ran."
 
+
+![A cat, a hat, a fan and a van for the at and an families.](assets/img/nursery-2/1st-term/mathematics-english-literacy/week5-cat-hat-fan-and-van.png)
 **Worksheet**
 
 1. A CVC word has the pattern A) three consonants B) three vowels C) vowel-consonant-vowel D) consonant-vowel-consonant
@@ -291,6 +301,8 @@ pen, hen, ten · pin, tin, win · dog, log, fog. Short e and short i are differe
 3. What word is d-o-g?
 4. Change the middle sound in "pin" to make "pan".
 
+
+![A hen, a pin and a dog for the en, in and og families.](assets/img/nursery-2/1st-term/mathematics-english-literacy/week6-hen-pin-and-dog.png)
 **Worksheet**
 
 1. The word made by t-e-n is A) ten B) tin C) ton D) tan
@@ -343,6 +355,8 @@ sun, bun, run · top, hop, mop · bug, hug, mug. I can read eight word families 
 3. Change one sound in "sun" to make "fun".
 4. Name the middle sound in "rug".
 
+
+![A sun, a mug and a ladybird for the un, op and ug families.](assets/img/nursery-2/1st-term/mathematics-english-literacy/week8-sun-mug-and-ladybird.png)
 **Worksheet**
 
 1. The word s-u-n is A) sun B) son C) sin D) san
@@ -395,6 +409,8 @@ Who? What? Where? When? Why? — the five questions for any story.
 4. Tell the beginning of the story in one sentence.
 5. Draw one part of the story and write the letter it begins with.
 
+
+![An open blank story book beside three empty story boxes.](assets/img/nursery-2/1st-term/mathematics-english-literacy/week9-blank-story-book-and-boxes.png)
 **Worksheet**
 
 1. The question that asks about a person is A) what B) where C) why D) who

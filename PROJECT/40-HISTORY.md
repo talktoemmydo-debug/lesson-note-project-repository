@@ -701,3 +701,13 @@ cards on a shelf; telephone, fish and chair for ph/sh/ch sounds; a camera with a
 eight passed the margin count at 0 and were imported; **mathematics-english-language is 8 of 8 and leaves the
 ledger**, the First Term book rebuilt at **32 plates · 135 pages · 129/129 Contents numbers · book and file gates
 ok**, the ledger now **32 owed over 4 files**, scratch emptied.
+
+## 2 Sep 2026 — First Term mathematics-english-literacy swept whole, blank cards counted to the alphabet
+
+Letter work keeps every surface blank, so the alphabet weeks are blank-card scenes whose counts were verified
+against the letter runs before import — six cards for A–F, six in two rows for G–L, six folded for M–R, eight in a
+row for S–Z — and the CVC weeks are object scenes (cat, hat, fan, van; hen, pin, dog; sun, mug, ladybird) plus an
+open blank story book with three empty boxes for the storytelling week. All eight at 0 border-ink, all imported;
+**mathematics-english-literacy is 8 of 8 and leaves the ledger**, the First Term book rebuilt at
+**40 plates · 138 pages · 129/129 Contents numbers · book and file gates ok**, the ledger now **24 owed over
+3 files** (numeracy, physical-and-health-education, prevocational-studies), scratch emptied.
