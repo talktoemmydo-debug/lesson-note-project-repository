@@ -1,0 +1,55 @@
+# Basic Digital Literacy — Primary 1 · Third Term · term paper
+subject: Basic Digital Literacy
+class: Primary 1
+term: 3rd Term
+
+[objective]
+We save our work so we do not ___ it || lose || find || read || draw
+Saved work is kept in a ___ || file || song || stone || shoe
+Files are kept in a ___ || folder || river || road || roof
+We give a file a ___ so we can find it || name || colour || smell || sound
+The internet joins ___ all over the world || computers || stones || trees || cars
+We use the internet to find ___ || information || dust || noise || sleep
+We use the internet with a ___ near || grown-up || stranger || pet || baby
+We do not talk to ___ online || strangers || teachers || parents || friends
+A message is information we ___ to someone || send || hide || lose || break
+We can send a message by phone or ___ || email || stone || smoke || water
+An email is a message sent on the ___ || internet || road || river || roof
+We write a message ___ || clearly || in secret || badly || slowly
+The programs a computer runs are ___ || software || hardware || wires || keys
+A ___ teaches us new things || learning program || broken wire || empty box || dark screen
+We can learn numbers and letters with ___ || software || stones || water || smoke
+The ___ uses computers to keep money safe || bank || farm || bush || river
+The ___ uses computers to keep records || hospital || market || park || field
+Computers help us to work ___ || fast || slowly || badly || never
+A ___ writes computer programs || programmer || farmer || driver || tailor
+An ___ repairs computers || engineer || trader || nurse || cook
+A person who types is a ___ || typist || singer || dancer || hunter
+We use the internet with a ___ near || grown-up || stranger || pet || baby
+We do not give our name, age or ___ || address || colour || song || game
+We tell a ___ if something looks wrong online || grown-up || stranger || thief || nobody
+We keep our devices clean and ___ || dry || wet || dirty || oily
+We do not ___ or drink near a device || eat || sing || read || sleep
+We press keys and buttons ___ || gently || hard || fast || rough
+We put a device ___ when we finish || away || in water || on fire || outside
+A machine like a computer or phone is a ___ || device || stone || tree || cloud
+A well-kept device lasts ___ || long || never || one day || no time
+
+[subobjective]
+Name two reasons we save our work :: not to lose it | to use it again | to keep it safe
+Name two things we use the internet for :: finding information | learning | reading | watching lessons
+Name two ways we send messages :: phone | email
+Name two things we learn with software :: numbers | letters | reading | games
+Name two places we see computers :: bank | hospital | school | office
+Name two computer jobs :: programmer | engineer | typist | computer teacher
+Name two ways to be safe online :: grown-up near | not talking to strangers | not sharing our name
+Name two ways to care for a device :: keep it clean and dry | press gently | do not drop it
+Name two things we must not share online :: name | age | address | family information
+Name two good things the internet has :: learning | information | lessons
+
+[theory]
+Why do we save our work? || 2
+What is the internet? Name one use. || 2
+What is an email? || 2
+Name two computer jobs and what each does. || 2
+Say two ways to be safe online. || 2
