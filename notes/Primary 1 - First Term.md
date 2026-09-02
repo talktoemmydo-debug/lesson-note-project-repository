@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 9 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 10 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*9 subjects · 72 lessons · 9 term practice papers. Each part begins on a fresh page.*
+*10 subjects · 80 lessons · 10 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — THE ROAD AND ROAD SAFETY](#week-1-the-road-and-road-safety) · 3
@@ -86,24 +86,34 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — BEING A GOOD CITIZEN](#week-6-being-a-good-citizen) · 47
   - [WEEK 8 — OUR ENVIRONMENT](#week-8-our-environment) · 48
   - [WEEK 9 — LIVING TOGETHER IN PEACE](#week-9-living-together-in-peace) · 48
-- **[General Knowledge](#general-knowledge)** · 50
-  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 50
-  - [WEEK 2 — MY FAMILY AND THEIR ROLES](#week-2-my-family-and-their-roles) · 50
-  - [WEEK 3 — MY SCHOOL: PLACES AND PEOPLE](#week-3-my-school-places-and-people) · 51
-  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 52
-  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 52
-  - [WEEK 6 — COMMUNITY HELPERS](#week-6-community-helpers) · 53
-  - [WEEK 8 — MY COUNTRY, NIGERIA](#week-8-my-country-nigeria) · 53
-  - [WEEK 9 — BEING A GOOD CITIZEN](#week-9-being-a-good-citizen) · 54
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 56
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-1-1st-term)** · 58
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 60
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 62
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 1st Term)](#examination-practice-nigerian-history-primary-1-1st-term)** · 64
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 1st Term)](#examination-practice-physical-and-health-education-primary-1-1st-term)** · 66
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 1st Term)](#examination-practice-prevocational-studies-primary-1-1st-term)** · 68
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-1-1st-term)** · 70
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 1st Term)](#examination-practice-general-knowledge-primary-1-1st-term)** · 72
+- **[Yoruba](#yoruba)** · 50
+  - [WEEK 1 — KÍKI (GREETINGS)](#week-1-kíki-greetings) · 50
+  - [WEEK 2 — ẸBÍ MI (MY FAMILY)](#week-2-ẹbí-mi-my-family) · 50
+  - [WEEK 3 — ARA MI (MY BODY)](#week-3-ara-mi-my-body) · 51
+  - [WEEK 4 — NỌ́MBÀ (NUMBERS 1-10)](#week-4-nọmbà-numbers-1-10) · 52
+  - [WEEK 5 — ÀWỌ̀ (COLOURS)](#week-5-àwọ-colours) · 52
+  - [WEEK 6 — ỌJỌ́ Ọ̀SẸ̀ (DAYS OF THE WEEK)](#week-6-ọjọ-ọsẹ-days-of-the-week) · 53
+  - [WEEK 8 — ILÉ MI (MY HOME)](#week-8-ilé-mi-my-home) · 54
+  - [WEEK 9 — ẸRANKO (ANIMALS)](#week-9-ẹranko-animals) · 54
+- **[General Knowledge](#general-knowledge)** · 56
+  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 56
+  - [WEEK 2 — MY FAMILY AND THEIR ROLES](#week-2-my-family-and-their-roles) · 56
+  - [WEEK 3 — MY SCHOOL: PLACES AND PEOPLE](#week-3-my-school-places-and-people) · 57
+  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 58
+  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 58
+  - [WEEK 6 — COMMUNITY HELPERS](#week-6-community-helpers) · 59
+  - [WEEK 8 — MY COUNTRY, NIGERIA](#week-8-my-country-nigeria) · 59
+  - [WEEK 9 — BEING A GOOD CITIZEN](#week-9-being-a-good-citizen) · 60
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 62
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-1-1st-term)** · 64
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 66
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 68
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 1st Term)](#examination-practice-nigerian-history-primary-1-1st-term)** · 70
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 1st Term)](#examination-practice-physical-and-health-education-primary-1-1st-term)** · 72
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 1st Term)](#examination-practice-prevocational-studies-primary-1-1st-term)** · 74
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-1-1st-term)** · 76
+- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 1st Term)](#examination-practice-yoruba-primary-1-1st-term)** · 78
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 1st Term)](#examination-practice-general-knowledge-primary-1-1st-term)** · 80
 
 
 
@@ -199,7 +209,7 @@ Draw the road near my house and put one car and one person walking on it.
 
 **Worksheet**
 
-1. Everything around us at home and at school is the A) notebook B) environment C) calendar D) market
+1. Everything around us at home and at school is the A) calendar B) notebook C) environment D) market
 2. Which of these is a primary colour? A) purple B) green C) orange D) blue
 3. Red and yellow mixed together give A) grey B) green C) black D) orange
 4. Fill in: The grass looks ____.
@@ -247,9 +257,9 @@ Look around my room at home and draw two things I see, then colour them.
 
 **Worksheet**
 
-1. A shape that is round with no corners is a A) rectangle B) circle C) square D) triangle
+1. A shape that is round with no corners is a A) square B) triangle C) rectangle D) circle
 2. How many sides does a triangle have? A) three B) six C) five D) four
-3. A shape with four equal sides is a A) square B) star C) circle D) oval
+3. A shape with four equal sides is a A) square B) oval C) star D) circle
 4. Fill in: A wheel is the shape of a ____.
 5. Mention two things at home that are a rectangle.
 6. Write the number of corners on a triangle.
@@ -295,9 +305,9 @@ Find three shapes in my house and draw each one in my notebook.
 
 **Worksheet**
 
-1. The shape of an egg is an A) rectangle B) square C) oval D) triangle
+1. The shape of an egg is an A) triangle B) square C) rectangle D) oval
 2. A tin of milk is the solid shape called a A) sphere B) cube C) cylinder D) cone
-3. Which shape has five points? A) heart B) circle C) oval D) star
+3. Which shape has five points? A) oval B) star C) heart D) circle
 4. Fill in: A box is the solid shape called a ____.
 5. Mention two things that are a sphere.
 6. Write one thing you can make using a triangle and a square.
@@ -343,9 +353,9 @@ Use shapes to draw a house: a square for the walls and a triangle for the roof.
 
 **Worksheet**
 
-1. Which of these is a living thing? A) book B) goat C) chair D) stone
-2. Living things do all of these except A) grow B) breathe C) eat D) melt
-3. A plant needs water, air and ____ to grow well. A) shoes B) paper C) money D) sunlight
+1. Which of these is a living thing? A) stone B) book C) chair D) goat
+2. Living things do all of these except A) breathe B) melt C) eat D) grow
+3. A plant needs water, air and ____ to grow well. A) paper B) sunlight C) money D) shoes
 4. Fill in: A dog and a cat are ____ things.
 5. Mention two living things you see on a farm.
 6. Write one way you care for a plant.
@@ -391,9 +401,9 @@ Water one plant at home and watch it for a week, then draw it.
 
 **Worksheet**
 
-1. Which of these is non-living? A) hen B) stone C) dog D) tree
-2. A chair is a ____ non-living thing. A) growing B) living C) man-made D) natural
-3. Which one is a natural non-living thing? A) car B) toy C) book D) water
+1. Which of these is non-living? A) dog B) hen C) stone D) tree
+2. A chair is a ____ non-living thing. A) living B) growing C) natural D) man-made
+3. Which one is a natural non-living thing? A) book B) water C) car D) toy
 4. Fill in: A stone does not eat, grow or ____.
 5. Mention two man-made non-living things.
 6. Write one way water helps living things.
@@ -439,9 +449,9 @@ Look around my home and draw two non-living things I use every day.
 
 **Worksheet**
 
-1. Moving air is called A) rain B) sun C) wind D) cloud
-2. We cannot see air but we can A) buy it B) eat it C) feel it D) wear it
-3. Which of these uses air? A) writing a letter B) flying a kite C) sitting on a chair D) reading a book
+1. Moving air is called A) sun B) wind C) rain D) cloud
+2. We cannot see air but we can A) wear it B) eat it C) buy it D) feel it
+3. Which of these uses air? A) reading a book B) sitting on a chair C) flying a kite D) writing a letter
 4. Fill in: We use air for ____.
 5. Mention two ways you can feel air.
 6. Write one thing that dirty air can carry.
@@ -488,9 +498,9 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 
 **Worksheet**
 
-1. The top part of the ground where plants grow is A) air B) cloud C) water D) soil
-2. The soil that is best for plants is A) hard B) loamy C) rocky D) dry
-3. A pot for cooking can be made from A) glass B) air C) clay D) water
+1. The top part of the ground where plants grow is A) cloud B) air C) soil D) water
+2. The soil that is best for plants is A) rocky B) dry C) hard D) loamy
+3. A pot for cooking can be made from A) water B) air C) glass D) clay
 4. Fill in: Soil can be black, brown, red or ____.
 5. Mention two places we find soil.
 6. Write one way we care for the soil.
@@ -545,8 +555,8 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. A line that lies flat like the ground is ____ . A) horizontal B) vertical C) spiral D) round
-2. The edge of a circle is a ____ line. A) sharp B) straight C) curved D) zigzag
-3. A line that moves sharply up and down like teeth is ____ . A) flat B) thin C) zigzag D) short
+2. The edge of a circle is a ____ line. A) zigzag B) straight C) sharp D) curved
+3. A line that moves sharply up and down like teeth is ____ . A) thin B) zigzag C) flat D) short
 4. Fill in: A line that stands up like a pole is ____.
 5. Mention two kinds of lines.
 6. Write one thing you can draw with lines only.
@@ -593,8 +603,8 @@ Fill my page with three different lines and colour between them.
 **Worksheet**
 
 1. The shape of an egg is an ____ . A) oval B) square C) triangle D) star
-2. A square and a triangle joined together can make a ____ . A) ball B) house C) wheel D) road
-3. The biggest of these is a ____ . A) seed B) bead C) basket D) coin
+2. A square and a triangle joined together can make a ____ . A) wheel B) ball C) house D) road
+3. The biggest of these is a ____ . A) coin B) bead C) seed D) basket
 4. Fill in: A door is the shape of a ____.
 5. Mention two basic shapes.
 6. Write one thing that is a circle at home.
@@ -642,7 +652,7 @@ Cut or draw three shapes and paste them to make a picture.
 
 1. How a thing feels when we touch it is its ____ . A) texture B) colour C) smell D) sound
 2. Sandpaper feels ____ . A) rough B) smooth C) soft D) wet
-3. A feather feels ____ . A) soft B) hot C) hard D) rough
+3. A feather feels ____ . A) soft B) rough C) hot D) hard
 4. Fill in: We make a rubbing with paper and a ____.
 5. Mention two things that feel smooth.
 6. Write how a stone feels.
@@ -736,9 +746,9 @@ Draw my art box and put three tools inside it.
 
 **Worksheet**
 
-1. The way of life of a people is their ____ . A) road B) school C) culture D) market
-2. The three big ethnic groups are Hausa, Igbo and ____ . A) Yoruba B) French C) English D) Zulu
-3. Language, food, dressing and festivals are parts of ____ . A) culture B) weather C) money D) sport
+1. The way of life of a people is their ____ . A) market B) school C) road D) culture
+2. The three big ethnic groups are Hausa, Igbo and ____ . A) English B) Zulu C) Yoruba D) French
+3. Language, food, dressing and festivals are parts of ____ . A) sport B) money C) weather D) culture
 4. Fill in: A special celebration is a ____.
 5. Mention two foods eaten in Nigeria.
 6. Write one thing that is part of culture.
@@ -784,9 +794,9 @@ Draw the food my people eat at a festival.
 
 **Worksheet**
 
-1. A special celebration a people keep is a ____ . A) game B) market C) ceremony D) lesson
-2. The ceremony that welcomes a new baby is the ____ ceremony. A) farm B) harvest C) naming D) school
-3. A special nut used at some naming ceremonies is the ____ nut. A) kola B) ground C) palm D) coco
+1. A special celebration a people keep is a ____ . A) lesson B) market C) game D) ceremony
+2. The ceremony that welcomes a new baby is the ____ ceremony. A) school B) harvest C) farm D) naming
+3. A special nut used at some naming ceremonies is the ____ nut. A) palm B) coco C) kola D) ground
 4. Fill in: Family and friends gather to ____ the baby.
 5. Mention two things used at a naming ceremony.
 6. Write who is welcomed at a naming ceremony.
@@ -832,7 +842,7 @@ Draw a naming ceremony with the family gathered round the baby.
 
 **Worksheet**
 
-1. Making the body look fine in our own way is body ____ . A) beautification B) washing C) feeding D) resting
+1. Making the body look fine in our own way is body ____ . A) feeding B) resting C) beautification D) washing
 2. Small coloured things strung to wear are ____ . A) beads B) stones C) seeds D) coins
 3. A ring worn on the wrist is a ____ . A) bangle B) cap C) shoe D) belt
 4. Fill in: Designs put on the hands for a celebration are called ____.
@@ -880,7 +890,7 @@ Draw a girl with beads and bangles on, ready for a festival.
 
 **Worksheet**
 
-1. Arts we show with our body and voice are ____ arts. A) painting B) performing C) drawing D) carving
+1. Arts we show with our body and voice are ____ arts. A) drawing B) painting C) performing D) carving
 2. Stories the elders tell are ____ . A) folktales B) newspapers C) letters D) receipts
 3. A short song with rhythm is a ____ . A) rhyme B) drum C) chair D) road
 4. Fill in: Moving the body to music is ____.
@@ -937,8 +947,8 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. Jesus and his disciples were in a ____ when the storm came. A) boat B) car C) tree D) house
-2. When the storm came, Jesus was ____ in the boat. A) eating B) walking C) sleeping D) singing
-3. Jesus said to the wind and the sea, "Peace, be ____." A) fast B) strong C) loud D) still
+2. When the storm came, Jesus was ____ in the boat. A) walking B) eating C) singing D) sleeping
+3. Jesus said to the wind and the sea, "Peace, be ____." A) strong B) fast C) still D) loud
 4. Fill in: The disciples were ____ when the storm came.
 5. Mention two things Jesus calmed.
 6. Write what the disciples did when they were afraid.
@@ -986,7 +996,7 @@ Draw the boat and the big waves, then draw the sea when it became calm.
 
 1. The disciples were in the boat at ____ . A) dawn B) morning C) noon D) night
 2. The disciple who walked on the water after Jesus was A) Peter B) Judas C) James D) John
-3. Peter began to sink when he felt the strong ____ . A) sand B) wind C) rain D) sun
+3. Peter began to sink when he felt the strong ____ . A) rain B) sun C) sand D) wind
 4. Fill in: Jesus said, "It is I. Do not be ____."
 5. Mention two people who walked on the water.
 6. Write why the disciples were frightened at first.
@@ -1032,9 +1042,9 @@ Draw the boat at night and Jesus walking on the water.
 
 **Worksheet**
 
-1. The boy had five loaves and two ____ . A) oranges B) yams C) fish D) eggs
-2. Before sharing, Jesus ____ to God. A) ran away B) slept C) sang D) gave thanks
-3. The leftover food filled ____ baskets. A) two B) three C) twelve D) five
+1. The boy had five loaves and two ____ . A) yams B) oranges C) eggs D) fish
+2. Before sharing, Jesus ____ to God. A) sang B) gave thanks C) ran away D) slept
+3. The leftover food filled ____ baskets. A) five B) twelve C) three D) two
 4. Fill in: The people followed Jesus and became ____.
 5. Mention the two foods the boy had.
 6. Write what Jesus did with the food.
@@ -1082,7 +1092,7 @@ Draw the five loaves and the two fish the boy shared.
 
 1. The man who came to Jesus had ____ . A) a drum B) a chair C) leprosy D) a hat
 2. Jesus ____ the man and said, "Be clean." A) pushed B) touched C) left D) mocked
-3. After Jesus spoke, the man was ____ . A) asleep B) healed C) angry D) sicker
+3. After Jesus spoke, the man was ____ . A) sicker B) angry C) healed D) asleep
 4. Fill in: The man said, "Lord, if you are willing, you can make me ____."
 5. Mention two things Jesus has power over, from our lessons.
 6. Write what the man said to Jesus.
@@ -1128,8 +1138,8 @@ Draw the man kneeling before Jesus and then standing up well.
 
 **Worksheet**
 
-1. The man who could not walk was ____ . A) singing B) dancing C) paralyzed D) running
-2. The friends lowered the man through the ____ . A) window B) roof C) floor D) door
+1. The man who could not walk was ____ . A) dancing B) singing C) running D) paralyzed
+2. The friends lowered the man through the ____ . A) door B) floor C) roof D) window
 3. Jesus told the man to get up, take his mat and ____ . A) swim B) sleep C) walk D) hide
 4. Fill in: The house was too ____, so they opened the roof.
 5. Mention two things the friends did for the man.
@@ -1176,8 +1186,8 @@ Draw the man picking up his mat and walking home.
 
 **Worksheet**
 
-1. Jairus' daughter was very ____ . A) sick B) happy C) tall D) fast
-2. Jesus told Jairus, "Do not be afraid; only ____." A) shout B) believe C) sleep D) run
+1. Jairus' daughter was very ____ . A) happy B) tall C) sick D) fast
+2. Jesus told Jairus, "Do not be afraid; only ____." A) run B) sleep C) believe D) shout
 3. When Jesus took the girl's hand, she ____ . A) rose B) cried C) fell D) left
 4. Fill in: Jairus was a ____ leader.
 5. Mention two things Jesus told Jairus.
@@ -1224,9 +1234,9 @@ Draw Jairus and his daughter standing together, glad and well.
 
 **Worksheet**
 
-1. Lazarus was a ____ of Jesus. A) stranger B) soldier C) king D) friend
+1. Lazarus was a ____ of Jesus. A) king B) friend C) stranger D) soldier
 2. Lazarus was in the tomb for ____ days. A) four B) seven C) two D) ten
-3. Jesus called, "Lazarus, come ____!" A) in B) down C) here D) out
+3. Jesus called, "Lazarus, come ____!" A) here B) out C) in D) down
 4. Fill in: Jesus said, "I am the resurrection and the ____."
 5. Mention two sisters of Lazarus.
 6. Write what Jesus said about himself.
@@ -1273,7 +1283,7 @@ Draw Lazarus walking out of the tomb, alive.
 **Worksheet**
 
 1. In the temple people were buying and ____ . A) selling B) dancing C) sleeping D) fishing
-2. Jesus said, "My house shall be called a house of ____." A) noise B) games C) prayer D) market
+2. Jesus said, "My house shall be called a house of ____." A) games B) noise C) market D) prayer
 3. Jesus drove out the people who were ____ . A) cheating B) praying C) resting D) singing
 4. Fill in: The temple is God's ____.
 5. Mention two things people should do in the temple.
@@ -1329,8 +1339,8 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) plastic D) paper
-2. Which of these is NOT a digital device? A) broom B) camera C) smartphone D) tablet
-3. The computer that stays on a table is a A) camera B) watch C) tablet D) desktop
+2. Which of these is NOT a digital device? A) broom B) tablet C) camera D) smartphone
+3. The computer that stays on a table is a A) desktop B) tablet C) watch D) camera
 4. Fill in: A ____ opens like a book.
 5. Mention two digital devices you can carry about.
 6. Write one thing a camera does.
@@ -1376,9 +1386,9 @@ Draw one digital device I have seen and colour its screen grey.
 
 **Worksheet**
 
-1. The part that shows pictures and letters is the A) keyboard B) monitor C) CPU D) mouse
-2. We move the arrow on the screen with the A) monitor B) mouse C) speaker D) printer
-3. The brain of the computer is the A) mouse B) cable C) keyboard D) CPU
+1. The part that shows pictures and letters is the A) monitor B) keyboard C) mouse D) CPU
+2. We move the arrow on the screen with the A) mouse B) monitor C) printer D) speaker
+3. The brain of the computer is the A) CPU B) mouse C) keyboard D) cable
 4. Fill in: We press keys on the ____.
 5. Mention two parts we touch to give the computer information.
 6. Write what the monitor does.
@@ -1426,7 +1436,7 @@ Draw the four basic parts of a computer in my notebook.
 
 1. We clean a screen with a A) soft, dry cloth B) wet mop C) rough stone D) sandy rag
 2. A tablet should be carried A) with two hands B) by its wire C) open in one finger D) under a foot
-3. Water on a device A) charges it B) cleans it C) spoils it D) makes it faster
+3. Water on a device A) spoils it B) makes it faster C) charges it D) cleans it
 4. Fill in: In the lab we do not eat or ____.
 5. Mention two ways we care for a device.
 6. Write one rule of the computer lab.
@@ -1471,9 +1481,9 @@ Draw myself cleaning a screen with a soft, dry cloth.
 
 **Worksheet**
 
-1. The first tool people used to count is the A) fan B) radio C) telephone D) abacus
+1. The first tool people used to count is the A) abacus B) telephone C) radio D) fan
 2. Over time computers became smaller, cheaper and A) faster B) heavier C) slower D) louder
-3. The beads that slide on wires are on an A) umbrella B) abacus C) egg D) orange
+3. The beads that slide on wires are on an A) abacus B) umbrella C) orange D) egg
 4. Fill in: A machine that can learn is called artificial ____.
 5. Mention two things computers became over time.
 6. Write what the abacus was used for.
@@ -1518,9 +1528,9 @@ Draw an abacus and a modern phone side by side.
 
 **Worksheet**
 
-1. The father of the computer is A) Thomas Edison B) Isaac Newton C) Ada Lovelace D) Charles Babbage
-2. The first programmer in the world was A) Flora Shaw B) Queen Amina C) Mary Kingsley D) Ada Lovelace
-3. Babbage's machine plan was called the A) Printing Press B) Flying Loom C) Analytical Engine D) Steam Boat
+1. The father of the computer is A) Charles Babbage B) Ada Lovelace C) Isaac Newton D) Thomas Edison
+2. The first programmer in the world was A) Ada Lovelace B) Mary Kingsley C) Queen Amina D) Flora Shaw
+3. Babbage's machine plan was called the A) Analytical Engine B) Steam Boat C) Printing Press D) Flying Loom
 4. Fill in: Ada wrote the first ____ for the machine.
 5. Mention the two great inventors of the computer.
 6. Write one sentence on why an idea is valuable.
@@ -1565,9 +1575,9 @@ Draw Charles Babbage's thinking machine with wheels and gears.
 
 **Worksheet**
 
-1. The parts of a computer we can touch are the A) software B) songs C) ideas D) hardware
-2. A drawing app is A) a cable B) a chair C) software D) hardware
-3. Which of these is hardware? A) song B) story C) mouse D) game
+1. The parts of a computer we can touch are the A) hardware B) software C) ideas D) songs
+2. A drawing app is A) software B) hardware C) a cable D) a chair
+3. Which of these is hardware? A) mouse B) game C) song D) story
 4. Fill in: We cannot ____ software.
 5. Mention two hardware parts.
 6. Write one example of software.
@@ -1615,7 +1625,7 @@ Draw two things I can touch (hardware) and write the name of one app.
 
 1. A device that puts information into the computer is an ____ device. A) input B) output C) print D) sound
 2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) FRIDAY D) MONDAY
-3. Moving an icon and letting go is A) save B) scan C) drag and drop D) print
+3. Moving an icon and letting go is A) drag and drop B) scan C) print D) save
 4. Fill in: The key that moves us to the next line is ____.
 5. Mention two input devices.
 6. Write one way we care for the keyboard.
@@ -1661,8 +1671,8 @@ Draw a keyboard and circle the Enter key.
 
 **Worksheet**
 
-1. The device that puts our work on paper is the A) microphone B) printer C) keyboard D) mouse
-2. We hear sound from the computer through A) mouse B) cable C) speakers D) printer
+1. The device that puts our work on paper is the A) printer B) microphone C) mouse D) keyboard
+2. We hear sound from the computer through A) speakers B) printer C) mouse D) cable
 3. A microphone takes our ____ into the computer. A) voice B) hair C) shoes D) food
 4. Fill in: The monitor is an ____ device.
 5. Mention two output devices.
@@ -1717,7 +1727,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. History is the story of things that happened ____ . A) long ago B) today only C) never D) tomorrow
+1. History is the story of things that happened ____ . A) long ago B) never C) tomorrow D) today only
 2. We learn old stories mostly from our ____ . A) toys B) elders C) shoes D) plates
 3. We study history to understand ____ . A) rain B) nothing C) games D) today
 4. Fill in: The time long ago is called the ____.
@@ -1765,9 +1775,9 @@ Draw myself sitting and listening to an old story.
 
 **Worksheet**
 
-1. Stories, songs and poems told by elders are ____ sources. A) written B) new C) oral D) physical
+1. Stories, songs and poems told by elders are ____ sources. A) physical B) oral C) new D) written
 2. Books, letters and newspapers are ____ sources. A) oral B) written C) physical D) food
-3. An old building that we can see is a ____ source. A) written B) physical C) song D) oral
+3. An old building that we can see is a ____ source. A) oral B) song C) physical D) written
 4. Fill in: A source is where we get ____.
 5. Mention two written sources.
 6. Write one physical source you have seen.
@@ -1814,8 +1824,8 @@ Draw one old thing at home that tells a story of the past.
 **Worksheet**
 
 1. My history begins with my ____ . A) birth B) exam C) school D) holiday
-2. A baby cannot ____ but I can. A) sleep B) cry C) drink D) walk and talk
-3. Where my parents come from is my family's ____ . A) class B) home town C) market D) road
+2. A baby cannot ____ but I can. A) drink B) walk and talk C) sleep D) cry
+3. Where my parents come from is my family's ____ . A) market B) class C) home town D) road
 4. Fill in: The day I was born is my ____ day.
 5. Mention two things that are part of my history.
 6. Write your name and your home town.
@@ -1861,9 +1871,9 @@ Draw a picture of myself on one of my birthdays.
 
 **Worksheet**
 
-1. Early people got food by hunting and ____ . A) posting B) gathering C) typing D) buying
-2. Early people made fire for cooking and ____ . A) school B) warmth C) rain D) sleeping
-3. Early people made simple tools from stone, wood and ____ . A) glass B) bone C) paper D) plastic
+1. Early people got food by hunting and ____ . A) buying B) typing C) gathering D) posting
+2. Early people made fire for cooking and ____ . A) sleeping B) school C) rain D) warmth
+3. Early people made simple tools from stone, wood and ____ . A) plastic B) paper C) bone D) glass
 4. Fill in: Some early people lived in ____.
 5. Mention two things early people did for food.
 6. Write one use of fire by early people.
@@ -1909,9 +1919,9 @@ Draw a cave and a fire like early people used.
 
 **Worksheet**
 
-1. Moving from one place to live in another is ____ . A) singing B) sleeping C) migration D) cooking
-2. People moved long ago to find food, water and ____ . A) noise B) trouble C) safety D) dust
-3. The old Nigerian people known for clay art are the ____ . A) Tiv B) Nok C) Edo D) Ijaw
+1. Moving from one place to live in another is ____ . A) cooking B) sleeping C) singing D) migration
+2. People moved long ago to find food, water and ____ . A) trouble B) safety C) noise D) dust
+3. The old Nigerian people known for clay art are the ____ . A) Edo B) Ijaw C) Tiv D) Nok
 4. Fill in: People who move and stay to make a home are said to ____.
 5. Mention two reasons people migrated.
 6. Write what the Nok people are known for.
@@ -1957,7 +1967,7 @@ Draw a family arriving at a new place to settle.
 
 **Worksheet**
 
-1. The three major ethnic groups are Hausa-Fulani, Igbo and ____ . A) Maasai B) Yoruba C) Zulu D) Ashanti
+1. The three major ethnic groups are Hausa-Fulani, Igbo and ____ . A) Zulu B) Ashanti C) Maasai D) Yoruba
 2. The Igbo mostly live in the ____ . A) East B) West C) North D) South only
 3. The Yoruba mostly live in the ____ . A) West B) East C) North D) middle
 4. Fill in: The Hausa-Fulani mostly live in the ____.
@@ -2005,9 +2015,9 @@ Draw the map idea of Nigeria with three friends from the North, East and West.
 
 **Worksheet**
 
-1. A place ruled by a king or a queen is a ____ . A) kingdom B) school C) farm D) market
+1. A place ruled by a king or a queen is a ____ . A) kingdom B) farm C) market D) school
 2. The kingdom famous for bronze work is ____ . A) Nok B) Sokoto C) Benin D) Oyo
-3. The Oyo Empire was in ____ land. A) Hausa B) Igbo C) Ijaw D) Yoruba
+3. The Oyo Empire was in ____ land. A) Ijaw B) Yoruba C) Hausa D) Igbo
 4. Fill in: A big kingdom over many places is an ____.
 5. Mention two old kingdoms or empires in Nigeria.
 6. Write who rules a kingdom.
@@ -2053,9 +2063,9 @@ Draw a crown and a staff like a king's.
 
 **Worksheet**
 
-1. The work a person does to live is an ____ . A) exam B) occupation C) holiday D) game
-2. The main work of early people was ____ . A) driving B) farming C) banking D) typing
-3. A fisher catches fish with nets and a ____ . A) car B) plane C) bicycle D) canoe
+1. The work a person does to live is an ____ . A) holiday B) exam C) occupation D) game
+2. The main work of early people was ____ . A) typing B) banking C) farming D) driving
+3. A fisher catches fish with nets and a ____ . A) plane B) canoe C) bicycle D) car
 4. Fill in: A potter makes pots from ____.
 5. Mention two tools a farmer uses.
 6. Write one occupation and its tool.
@@ -2111,7 +2121,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 1. In running, both feet leave the ground for a ____ . A) moment B) day C) week D) year
 2. Before we run we ____ up. A) warm B) sleep C) eat D) sit
-3. A short, fast run is called a ____ . A) dash B) walk C) crawl D) jump
+3. A short, fast run is called a ____ . A) jump B) crawl C) walk D) dash
 4. Fill in: A good runner looks ____.
 5. Mention two things a good runner does with the body.
 6. Write what we do after the finish line.
@@ -2157,8 +2167,8 @@ Draw myself running in a straight line with arms swinging.
 
 **Worksheet**
 
-1. Running back and forth between two points is a ____ run. A) shuttle B) slow C) long D) rest
-2. At the far point we ____ and run back. A) turn B) sit C) sleep D) eat
+1. Running back and forth between two points is a ____ run. A) long B) rest C) shuttle D) slow
+2. At the far point we ____ and run back. A) sleep B) eat C) turn D) sit
 3. The shuttle run builds speed and ____ . A) coordination B) hunger C) noise D) dust
 4. Fill in: We mark ____ points for a shuttle run.
 5. Mention two things we do in a shuttle run.
@@ -2205,9 +2215,9 @@ Draw a shuttle run course with two markers and me turning.
 
 **Worksheet**
 
-1. The traditional games our people play are ____ games. A) local B) computer C) video D) card
-2. The hopping game on a drawn pattern is ____ . A) suwe B) ludo C) chess D) draft
-3. The hiding game where one child seeks is ____ . A) boju-boju B) ten-ten C) suwe D) football
+1. The traditional games our people play are ____ games. A) computer B) local C) card D) video
+2. The hopping game on a drawn pattern is ____ . A) chess B) draft C) suwe D) ludo
+3. The hiding game where one child seeks is ____ . A) suwe B) football C) boju-boju D) ten-ten
 4. Fill in: The clapping game with rhythm is ____.
 5. Mention two local games.
 6. Write one rule we keep when we play.
@@ -2255,7 +2265,7 @@ Draw children playing a local game I like.
 
 1. When I run I land on the ____ of my feet. A) balls B) heels C) toes only D) sides
 2. My body leans slightly ____ when I run. A) forward B) backward C) left D) right
-3. My arms bend and ____ by my sides. A) rest B) swing C) shake D) cross
+3. My arms bend and ____ by my sides. A) swing B) shake C) rest D) cross
 4. Fill in: I lift my ____ when I run.
 5. Mention two things a good runner does.
 6. Write why a good posture helps me run.
@@ -2302,7 +2312,7 @@ Draw myself running with a good posture.
 **Worksheet**
 
 1. After the toilet we wash our hands with soap and ____ . A) water B) sand C) oil D) ink
-2. Washing hands removes ____ . A) food B) books C) clothes D) germs
+2. Washing hands removes ____ . A) germs B) food C) clothes D) books
 3. A type of toilet is the ____ toilet. A) pit B) road C) desk D) roof
 4. Fill in: We ____ or cover the waste after using the toilet.
 5. Mention two types of toilets.
@@ -2349,8 +2359,8 @@ Draw the steps of washing my hands: wet, soap, scrub, rinse, dry.
 
 **Worksheet**
 
-1. Keeping my own body clean every day is ____ hygiene. A) market B) personal C) school D) road
-2. I brush my teeth in the morning and at ____ . A) noon B) dawn C) night D) dusk only
+1. Keeping my own body clean every day is ____ hygiene. A) personal B) school C) market D) road
+2. I brush my teeth in the morning and at ____ . A) night B) noon C) dawn D) dusk only
 3. I bathe with soap and ____ . A) water B) sand C) oil D) dust
 4. Fill in: I wear ____ clothes every day.
 5. Mention two things I do to keep clean.
@@ -2397,9 +2407,9 @@ Draw myself brushing my teeth in the morning.
 
 **Worksheet**
 
-1. I keep my nails clean and ____ . A) trimmed B) painted C) long D) dirty
-2. I blow my nose gently into a ____ . A) tissue B) leaf C) stone D) shoe
-3. I wash my body ____ . A) yearly B) monthly only C) never D) daily
+1. I keep my nails clean and ____ . A) trimmed B) long C) dirty D) painted
+2. I blow my nose gently into a ____ . A) leaf B) tissue C) shoe D) stone
+3. I wash my body ____ . A) daily B) yearly C) never D) monthly only
 4. Fill in: I cut my nails with a clean ____.
 5. Mention two parts of the body I keep clean.
 6. Write one way I care for my body.
@@ -2445,9 +2455,9 @@ Draw myself with clean hands and short nails.
 
 **Worksheet**
 
-1. We put waste in the ____ . A) road B) dustbin C) river D) desk
-2. Throwing rubbish about is called ____ . A) sweeping B) mopping C) littering D) planting
-3. A dirty environment breeds germs, flies and ____ . A) songs B) mosquitoes C) flowers D) stars
+1. We put waste in the ____ . A) dustbin B) river C) road D) desk
+2. Throwing rubbish about is called ____ . A) littering B) sweeping C) mopping D) planting
+3. A dirty environment breeds germs, flies and ____ . A) mosquitoes B) flowers C) songs D) stars
 4. Fill in: We clean the floor with a broom by ____.
 5. Mention two places we keep clean.
 6. Write one way a clean environment helps us.
@@ -3671,6 +3681,611 @@ revision and the end-of-term paper, so no note is written for them.
 
 ---
 
+# Yoruba
+
+These are the notes for the first term of Primary 1. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+Yoruba teaches the child the mother tongue: how to greet, the words for family,
+body, numbers, colours, days, home and animals. The eight weeks below are the
+weeks that carry a written note; the remaining weeks of the term are for
+revision and the end-of-term paper, so no note is written for them.
+
+*Depth: NERDC Primary 1 · Yoruba · First Term W1-6, 8-9 (kíki; ẹbí; ara; nọ́mbà; àwọ̀; ọjọ́ ọ̀sẹ̀; ilé; ẹranko).*
+
+
+### WEEK 1 — KÍKI (GREETINGS)
+
+**You will learn to**
+
+• greet in Yoruba
+
+• say the right greeting for the time of day
+
+• greet with respect
+
+**Things to know**
+
+• **Ẹ kú àárọ̀** means good morning.
+
+• **Ẹ kú ọ̀sán** means good afternoon.
+
+• **Ẹ kú irọ́lẹ́** means good evening.
+
+• **Báwo ni?** means how are you?
+
+• **Àláàfíà** means fine, in good health.
+
+• **Ẹ kú iṣẹ́** means well done for your work.
+
+• A boy kneels (**dòbálè**) to greet.
+
+• A girl kneels on two knees (**ìkunlẹ̀**) to greet.
+
+• We greet our elders with respect.
+
+• Greeting is a good Yoruba way.
+
+**Let us talk**
+
+1. How do you say good morning in Yoruba?
+
+2. How does a boy greet?
+
+3. Why do we greet our elders?
+
+**Words for my notebook**
+
+• Ẹ kú àárọ̀ — good morning
+
+• Báwo ni? — how are you?
+
+• Àláàfíà — fine, in good health
+
+**Worksheet**
+
+1. Good morning in Yoruba is ___.
+   A) Ẹ kú àárọ̀ B) Ẹ kú irọ́lẹ́ C) Ọ̀dábọ̀ D) È kú oríre
+
+2. "Báwo ni?" means ___.
+   A) how are you B) good night C) thank you D) welcome
+
+3. A boy greets by ___ down.
+   A) kneeling B) jumping C) running D) sitting
+
+4. "Àláàfíà" means ___.
+   A) fine B) angry C) tired D) sorry
+
+5. Fill in: Good evening in Yoruba is Ẹ kú _____.
+
+6. Mention two Yoruba greetings.
+
+7. Write how you greet in the morning.
+
+**My own work**
+
+• Draw myself greeting an elder.
+
+---
+
+### WEEK 2 — ẸBÍ MI (MY FAMILY)
+
+**You will learn to**
+
+• name my family in Yoruba
+
+• say the Yoruba word for each member
+
+• love my family
+
+**Things to know**
+
+• **Ẹbí** means family.
+
+• **Bàbá** means father.
+
+• **Ìyá** or **Mámá** means mother.
+
+• **Ẹ̀gbọ́n** means elder brother or sister.
+
+• **Àbúrò** means younger brother or sister.
+
+• **Bàbá ńlá** means grandfather.
+
+• **Ìyá ńlá** means grandmother.
+
+• **Ẹ̀gbọ́n ìyá** or **Àbúrò ìyá** means uncle or aunt.
+
+• My family loves me and I love them.
+
+• The family is the first group I belong to.
+
+**Let us talk**
+
+1. What is "bàbá" in English?
+
+2. What is the Yoruba word for mother?
+
+3. Who is "ẹ̀gbọ́n"?
+
+**Words for my notebook**
+
+• ẹbí — family
+
+• bàbá — father
+
+• ìyá — mother
+
+**Worksheet**
+
+1. "Ẹbí" means ___.
+   A) family B) school C) market D) road
+
+2. "Bàbá" means ___.
+   A) father B) mother C) uncle D) friend
+
+3. "Ìyá" means ___.
+   A) mother B) sister C) aunt D) girl
+
+4. "Ẹ̀gbọ́n" means ___.
+   A) elder sibling B) baby C) dog D) stone
+
+5. Fill in: Grandmother in Yoruba is Ìyá _____.
+
+6. Mention two members of my family in Yoruba.
+
+7. Write the Yoruba word for father.
+
+**My own work**
+
+• Draw my bàbá and my ìyá.
+
+---
+
+### WEEK 3 — ARA MI (MY BODY)
+
+**You will learn to**
+
+• name the parts of my body in Yoruba
+
+• say the Yoruba word for each part
+
+• keep my body clean
+
+**Things to know**
+
+• **Orí** means head.
+
+• **Ojú** means eye.
+
+• **Etí** means ear.
+
+• **Imú** means nose.
+
+• **Ẹnu** means mouth.
+
+• **Ọwọ́** means hand.
+
+• **Ẹsẹ̀** means leg or foot.
+
+• **Irun** means hair.
+
+• **Ehín** means tooth.
+
+• I keep every part of my body clean.
+
+**Let us talk**
+
+1. What is "orí" in English?
+
+2. What is the Yoruba word for eye?
+
+3. Which part do we use to see?
+
+**Words for my notebook**
+
+• orí — head
+
+• ojú — eye
+
+• ọwọ́ — hand
+
+**Worksheet**
+
+1. "Orí" means ___.
+   A) head B) hand C) leg D) ear
+
+2. "Ojú" means ___.
+   A) eye B) nose C) mouth D) hair
+
+3. "Ọwọ́" means ___.
+   A) hand B) foot C) tooth D) ear
+
+4. "Etí" means ___.
+   A) ear B) eye C) leg D) head
+
+5. Fill in: Nose in Yoruba is _____.
+
+6. Mention two parts of the body in Yoruba.
+
+7. Write the Yoruba word for mouth.
+
+**My own work**
+
+• Draw my face and name one part in Yoruba.
+
+---
+
+### WEEK 4 — NỌ́MBÀ (NUMBERS 1-10)
+
+**You will learn to**
+
+• count from 1 to 10 in Yoruba
+
+• say the Yoruba word for each number
+
+• count things around me
+
+**Things to know**
+
+• **Ọ̀kan** means one (1).
+
+• **Èjì** means two (2).
+
+• **Ẹ̀ta** means three (3).
+
+• **Ẹ̀rin** means four (4).
+
+• **Àrún** means five (5).
+
+• **Ẹ̀fà** means six (6).
+
+• **Èje** means seven (7).
+
+• **Ẹ̀jọ** means eight (8).
+
+• **Ẹ̀sán** means nine (9).
+
+• **Ẹ̀wá** means ten (10).
+
+**Let us talk**
+
+1. How do you say one in Yoruba?
+
+2. What is "ẹ̀wá" in English?
+
+3. Count from one to five in Yoruba.
+
+**Words for my notebook**
+
+• ọ̀kan — one
+
+• èjì — two
+
+• ẹ̀wá — ten
+
+**Worksheet**
+
+1. "Ọ̀kan" means ___.
+   A) one B) two C) ten D) five
+
+2. "Èjì" means ___.
+   A) two B) three C) one D) four
+
+3. "Ẹ̀wá" means ___.
+   A) ten B) nine C) six D) seven
+
+4. "Ẹ̀ta" means ___.
+   A) three B) four C) two D) eight
+
+5. Fill in: Five in Yoruba is _____.
+
+6. Mention two numbers in Yoruba.
+
+7. Write the Yoruba word for ten.
+
+**My own work**
+
+• Draw five things and count them in Yoruba.
+
+---
+
+### WEEK 5 — ÀWỌ̀ (COLOURS)
+
+**You will learn to**
+
+• name colours in Yoruba
+
+• say the Yoruba word for each colour
+
+• find colours around me
+
+**Things to know**
+
+• **Pupa** means red.
+
+• **Búlùù** or **àrọ̀** means blue.
+
+• **Àwọ̀ ewé** or **àlùkò** means green.
+
+• **Pupa rúsú** or **òròrò** means yellow.
+
+• **Dúdú** means black.
+
+• **Funfun** means white.
+
+• The sky is blue. Grass is green.
+
+• The sun is yellow. Night is black.
+
+• Colours make the world beautiful.
+
+• I can name the colours I see.
+
+**Let us talk**
+
+1. What is "pupa" in English?
+
+2. What colour is grass?
+
+3. What is the Yoruba word for white?
+
+**Words for my notebook**
+
+• pupa — red
+
+• dúdú — black
+
+• funfun — white
+
+**Worksheet**
+
+1. "Pupa" means ___.
+   A) red B) blue C) green D) white
+
+2. "Dúdú" means ___.
+   A) black B) white C) yellow D) blue
+
+3. "Funfun" means ___.
+   A) white B) red C) green D) black
+
+4. Grass is ___ (àwọ̀ ewé).
+   A) green B) red C) black D) blue
+
+5. Fill in: Yellow in Yoruba is _____.
+
+6. Mention two colours in Yoruba.
+
+7. Write the Yoruba word for black.
+
+**My own work**
+
+• Draw and colour one thing in each of two colours.
+
+---
+
+### WEEK 6 — ỌJỌ́ Ọ̀SẸ̀ (DAYS OF THE WEEK)
+
+**You will learn to**
+
+• name the days of the week in Yoruba
+
+• say today's day in Yoruba
+
+• know the order of the days
+
+**Things to know**
+
+• **Ọjọ́ Àìkú** means Sunday.
+
+• **Ọjọ́ Ajé** means Monday.
+
+• **Ọjọ́ Ìṣégun** means Tuesday.
+
+• **Ọjọ́rú** means Wednesday.
+
+• **Ọjọ́bọ̀** means Thursday.
+
+• **Ọjọ́ Ẹtì** means Friday.
+
+• **Ọjọ́ Àbámẹ́ta** means Saturday.
+
+• There are seven days in a week.
+
+• I go to school on some days.
+
+• I rest and play on the others.
+
+**Let us talk**
+
+1. What is "Ọjọ́ Àìkú" in English?
+
+2. Which day is today?
+
+3. How many days are in a week?
+
+**Words for my notebook**
+
+• Ọjọ́ Àìkú — Sunday
+
+• Ọjọ́ Ajé — Monday
+
+• Ọjọ́ Ẹtì — Friday
+
+**Worksheet**
+
+1. "Ọjọ́ Àìkú" means ___.
+   A) Sunday B) Monday C) Friday D) Saturday
+
+2. "Ọjọ́ Ajé" means ___.
+   A) Monday B) Sunday C) Tuesday D) Friday
+
+3. "Ọjọ́ Ẹtì" means ___.
+   A) Friday B) Monday C) Wednesday D) Sunday
+
+4. There are ___ days in a week.
+   A) seven B) five C) ten D) three
+
+5. Fill in: Saturday in Yoruba is Ọjọ́ _____.
+
+6. Mention two days of the week in Yoruba.
+
+7. Write today's day in Yoruba.
+
+**My own work**
+
+• Draw a week chart and write the seven days in Yoruba.
+
+---
+
+### WEEK 8 — ILÉ MI (MY HOME)
+
+**You will learn to**
+
+• name things in the home in Yoruba
+
+• say the Yoruba word for each thing
+
+• keep my home clean
+
+**Things to know**
+
+• **Ilé** means house or home.
+
+• **Ilẹ̀kùn** means door.
+
+• **Fèrèsé** means window.
+
+• **Àga** means chair.
+
+• **Tábìlì** means table.
+
+• **Ibusùn** means bed.
+
+• **Ìkòkò** means pot.
+
+• **Ọbẹ** means soup or food.
+
+• **Ọmọ** means child.
+
+• I keep my home clean and tidy.
+
+**Let us talk**
+
+1. What is "ilé" in English?
+
+2. What is the Yoruba word for door?
+
+3. Name one thing in your home.
+
+**Words for my notebook**
+
+• ilé — house or home
+
+• ilẹ̀kùn — door
+
+• àga — chair
+
+**Worksheet**
+
+1. "Ilé" means ___.
+   A) house B) road C) tree D) sky
+
+2. "Ilẹ̀kùn" means ___.
+   A) door B) window C) bed D) pot
+
+3. "Àga" means ___.
+   A) chair B) table C) roof D) floor
+
+4. "Ibusùn" means ___.
+   A) bed B) door C) pot D) child
+
+5. Fill in: Window in Yoruba is _____.
+
+6. Mention two things in the home in Yoruba.
+
+7. Write the Yoruba word for child.
+
+**My own work**
+
+• Draw my home and name one thing in it in Yoruba.
+
+---
+
+### WEEK 9 — ẸRANKO (ANIMALS)
+
+**You will learn to**
+
+• name animals in Yoruba
+
+• say the Yoruba word for each animal
+
+• be kind to animals
+
+**Things to know**
+
+• **Ajá** means dog.
+
+• **Ológbò** means cat.
+
+• **Ewúrẹ́** means goat.
+
+• **Àgùntàn** means sheep.
+
+• **Màlúù** means cow.
+
+• **Adìẹ** means chicken or hen.
+
+• **Ẹṣin** means horse.
+
+• **Erin** means elephant.
+
+• **Kìnìún** means lion.
+
+• We are kind to animals.
+
+**Let us talk**
+
+1. What is "ajá" in English?
+
+2. What is the Yoruba word for cat?
+
+3. Name one farm animal in Yoruba.
+
+**Words for my notebook**
+
+• ajá — dog
+
+• ológbò — cat
+
+• adìẹ — chicken
+
+**Worksheet**
+
+1. "Ajá" means ___.
+   A) dog B) cat C) goat D) cow
+
+2. "Ológbò" means ___.
+   A) cat B) dog C) horse D) lion
+
+3. "Màlúù" means ___.
+   A) cow B) goat C) sheep D) hen
+
+4. "Adìẹ" means ___.
+   A) chicken B) dog C) elephant D) cat
+
+5. Fill in: Goat in Yoruba is _____.
+
+6. Mention two animals in Yoruba.
+
+7. Write the Yoruba word for dog.
+
+**My own work**
+
+• Draw one animal and name it in Yoruba.
+
+
+---
+
 # General Knowledge
 
 Weeks 1 to 6, 8 and 9. Week 7 is Mid-Term Break, and weeks 10, 11 and 12 are Revision, Examination and
@@ -3713,8 +4328,8 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. I see with my ____ . A) eyes B) nose C) ears D) hands
-2. The part of the body I walk with is my ____ . A) hair B) teeth C) legs D) ears
-3. How many arms does a person have? A) three B) four C) two D) one
+2. The part of the body I walk with is my ____ . A) teeth B) hair C) ears D) legs
+3. How many arms does a person have? A) two B) four C) one D) three
 4. Fill in: I hear with my ____.
 5. Mention two parts of the head.
 6. Write your full name and your age.
@@ -3760,8 +4375,8 @@ Draw my face and put in my eyes, ears, nose and mouth.
 
 **Worksheet**
 
-1. The group of people I live with is my ____ . A) class B) market C) family D) school
-2. My father is also called my ____ . A) king B) uncle C) dad D) chief
+1. The group of people I live with is my ____ . A) family B) market C) school D) class
+2. My father is also called my ____ . A) dad B) uncle C) chief D) king
 3. My brother and my sister are my ____ . A) siblings B) friends C) teachers D) strangers
 4. Fill in: My mother is also called my ____.
 5. Mention two ways a family shows love.
@@ -3809,8 +4424,8 @@ Draw my father, my mother and me standing together.
 **Worksheet**
 
 1. The person who leads the school is the ____ . A) headteacher B) farmer C) driver D) trader
-2. We learn our lessons in the ____ . A) river B) classroom C) market D) road
-3. We put rubbish in the ____ . A) chair B) desk C) bin D) bag
+2. We learn our lessons in the ____ . A) market B) road C) river D) classroom
+3. We put rubbish in the ____ . A) desk B) chair C) bag D) bin
 4. Fill in: The ____ teaches us in the class.
 5. Mention two people who work in the school.
 6. Write one way you keep the school clean.
@@ -3856,9 +4471,9 @@ Draw my teacher at the board in my classroom.
 
 **Worksheet**
 
-1. Before I speak in class I ____ my hand. A) raise B) shake C) drop D) hide
+1. Before I speak in class I ____ my hand. A) raise B) drop C) hide D) shake
 2. We write our lessons in our ____ . A) shoes B) books C) caps D) bags
-3. In the classroom we ____ , we do not run. A) walk B) shout C) fight D) jump
+3. In the classroom we ____ , we do not run. A) walk B) jump C) shout D) fight
 4. Fill in: The teacher writes on the ____.
 5. Mention two rules of the classroom.
 6. Write one way you care for your books.
@@ -3905,7 +4520,7 @@ Draw my classroom and put a bin in the corner.
 **Worksheet**
 
 1. The people who live near my home are my ____ . A) neighbours B) drivers C) teachers D) nurses
-2. The road near my house is my ____ . A) bridge B) river C) hill D) street
+2. The road near my house is my ____ . A) street B) river C) bridge D) hill
 3. We keep the compound clean by ____ it. A) sweeping B) breaking C) flooding D) dirtying
 4. Fill in: My home is where I ____.
 5. Mention two ways we keep the neighbourhood clean.
@@ -3954,7 +4569,7 @@ Draw my compound and put in one thing that keeps it clean.
 
 1. The person who cares for the sick is the ____ . A) nurse B) driver C) tailor D) farmer
 2. The person who grows our food is the ____ . A) pilot B) trader C) clerk D) farmer
-3. The person who keeps us safe on the road is the ____ . A) baker B) chef C) police officer D) barber
+3. The person who keeps us safe on the road is the ____ . A) barber B) police officer C) chef D) baker
 4. Fill in: The ____ teaches us in the school.
 5. Mention two helpers and what they do.
 6. Write one helper you want to thank and why.
@@ -4001,7 +4616,7 @@ Draw one helper in my community and the tool they use.
 **Worksheet**
 
 1. My country is ____ . A) Kenya B) Egypt C) Nigeria D) Ghana
-2. The Nigerian flag is green, white and ____ . A) black B) red C) green D) blue
+2. The Nigerian flag is green, white and ____ . A) green B) red C) blue D) black
 3. The white on the flag stands for ____ . A) peace B) war C) sand D) rain
 4. Fill in: The capital city of Nigeria is ____.
 5. Mention the three bands of the flag in order.
@@ -4048,7 +4663,7 @@ Draw the Nigerian flag and colour the bands the right way.
 
 **Worksheet**
 
-1. A person who belongs to a country is a ____ . A) baby B) citizen C) visitor D) stranger
+1. A person who belongs to a country is a ____ . A) visitor B) stranger C) baby D) citizen
 2. A good citizen tells the ____ . A) stories B) lies C) secrets D) truth
 3. When someone gives me something I say ____ . A) thank you B) go away C) no D) mine
 4. Fill in: We keep our country ____ by not littering.
@@ -5547,6 +6162,192 @@ Answer in full sentences.
 43. What is culture? Give two parts of it. (2 marks)
 44. Name two duties of a good citizen. (2 marks)
 45. How do we live together in peace? (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — YORUBA (Primary 1 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Good morning in Yoruba is ___
+   A) Ọ̀dábọ̀
+   B) Ẹ kú àárọ̀
+   C) Ẹ kú irọ́lẹ́
+   D) È kú oríre
+2. "Báwo ni?" means
+   A) how are you
+   B) welcome
+   C) thank you
+   D) good night
+3. A boy greets by ___ down
+   A) sitting
+   B) jumping
+   C) running
+   D) kneeling
+4. What does "Àláàfíà" mean?
+   A) angry
+   B) fine
+   C) tired
+   D) sorry
+5. What does "Ẹbí" mean?
+   A) market
+   B) road
+   C) family
+   D) school
+6. What does "Bàbá" mean?
+   A) father
+   B) uncle
+   C) friend
+   D) mother
+7. What does "Ìyá" mean?
+   A) sister
+   B) mother
+   C) girl
+   D) aunt
+8. What does "Ẹ̀gbọ́n" mean?
+   A) stone
+   B) baby
+   C) dog
+   D) elder sibling
+9. What does "Orí" mean?
+   A) hand
+   B) leg
+   C) head
+   D) ear
+10. What does "Ojú" mean?
+   A) eye
+   B) nose
+   C) hair
+   D) mouth
+11. What does "Ọwọ́" mean?
+   A) foot
+   B) hand
+   C) ear
+   D) tooth
+12. What does "Etí" mean?
+   A) leg
+   B) eye
+   C) ear
+   D) head
+13. What does "Ọ̀kan" mean?
+   A) one
+   B) five
+   C) ten
+   D) two
+14. What does "Èjì" mean?
+   A) four
+   B) three
+   C) one
+   D) two
+15. What does "Ẹ̀wá" mean?
+   A) nine
+   B) seven
+   C) ten
+   D) six
+16. What does "Ẹ̀ta" mean?
+   A) four
+   B) three
+   C) eight
+   D) two
+17. What does "Pupa" mean?
+   A) red
+   B) green
+   C) blue
+   D) white
+18. What does "Dúdú" mean?
+   A) yellow
+   B) blue
+   C) white
+   D) black
+19. What does "Funfun" mean?
+   A) red
+   B) black
+   C) white
+   D) green
+20. Grass is ___
+   A) red
+   B) green
+   C) blue
+   D) black
+21. What does "Ọjọ́ Àìkú" mean?
+   A) Sunday
+   B) Saturday
+   C) Monday
+   D) Friday
+22. What does "Ọjọ́ Ajé" mean?
+   A) Sunday
+   B) Friday
+   C) Tuesday
+   D) Monday
+23. What does "Ọjọ́ Ẹtì" mean?
+   A) Sunday
+   B) Wednesday
+   C) Friday
+   D) Monday
+24. There are ___ days in a week
+   A) five
+   B) seven
+   C) three
+   D) ten
+25. What does "Ilé" mean?
+   A) house
+   B) sky
+   C) road
+   D) tree
+26. What does "Ilẹ̀kùn" mean?
+   A) bed
+   B) window
+   C) pot
+   D) door
+27. What does "Àga" mean?
+   A) table
+   B) roof
+   C) chair
+   D) floor
+28. What does "Ajá" mean?
+   A) cat
+   B) dog
+   C) goat
+   D) cow
+29. What does "Ológbò" mean?
+   A) lion
+   B) horse
+   C) dog
+   D) cat
+30. What does "Màlúù" mean?
+   A) cow
+   B) hen
+   C) goat
+   D) sheep
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two Yoruba greetings
+32. Name two members of the family in Yoruba
+33. Name two parts of the body in Yoruba
+34. Name two numbers in Yoruba
+35. Name two colours in Yoruba
+36. Name two days of the week in Yoruba
+37. Name two things in the home in Yoruba
+38. Name two animals in Yoruba
+39. Name two ways to greet with respect
+40. Name two things that keep the body clean
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. Say "good morning" in Yoruba. (2 marks)
+42. Name two members of your family in Yoruba. (2 marks)
+43. Count from one to five in Yoruba. (2 marks)
+44. Name two colours in Yoruba. (2 marks)
+45. Name two animals in Yoruba. (2 marks)
 
 
 ---

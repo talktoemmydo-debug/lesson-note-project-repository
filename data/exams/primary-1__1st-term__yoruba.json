@@ -1,0 +1,386 @@
+{
+ "subject": "Yoruba",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Good morning in Yoruba is ___",
+   "answer": "Ẹ kú àárọ̀",
+   "distractors": [
+    "Ẹ kú irọ́lẹ́",
+    "Ọ̀dábọ̀",
+    "È kú oríre"
+   ]
+  },
+  {
+   "stem": "\"Báwo ni?\" means",
+   "answer": "how are you",
+   "distractors": [
+    "good night",
+    "thank you",
+    "welcome"
+   ]
+  },
+  {
+   "stem": "A boy greets by ___ down",
+   "answer": "kneeling",
+   "distractors": [
+    "jumping",
+    "running",
+    "sitting"
+   ]
+  },
+  {
+   "stem": "What does \"Àláàfíà\" mean?",
+   "answer": "fine",
+   "distractors": [
+    "angry",
+    "tired",
+    "sorry"
+   ]
+  },
+  {
+   "stem": "What does \"Ẹbí\" mean?",
+   "answer": "family",
+   "distractors": [
+    "school",
+    "market",
+    "road"
+   ]
+  },
+  {
+   "stem": "What does \"Bàbá\" mean?",
+   "answer": "father",
+   "distractors": [
+    "mother",
+    "uncle",
+    "friend"
+   ]
+  },
+  {
+   "stem": "What does \"Ìyá\" mean?",
+   "answer": "mother",
+   "distractors": [
+    "sister",
+    "aunt",
+    "girl"
+   ]
+  },
+  {
+   "stem": "What does \"Ẹ̀gbọ́n\" mean?",
+   "answer": "elder sibling",
+   "distractors": [
+    "baby",
+    "dog",
+    "stone"
+   ]
+  },
+  {
+   "stem": "What does \"Orí\" mean?",
+   "answer": "head",
+   "distractors": [
+    "hand",
+    "leg",
+    "ear"
+   ]
+  },
+  {
+   "stem": "What does \"Ojú\" mean?",
+   "answer": "eye",
+   "distractors": [
+    "nose",
+    "mouth",
+    "hair"
+   ]
+  },
+  {
+   "stem": "What does \"Ọwọ́\" mean?",
+   "answer": "hand",
+   "distractors": [
+    "foot",
+    "tooth",
+    "ear"
+   ]
+  },
+  {
+   "stem": "What does \"Etí\" mean?",
+   "answer": "ear",
+   "distractors": [
+    "eye",
+    "leg",
+    "head"
+   ]
+  },
+  {
+   "stem": "What does \"Ọ̀kan\" mean?",
+   "answer": "one",
+   "distractors": [
+    "two",
+    "ten",
+    "five"
+   ]
+  },
+  {
+   "stem": "What does \"Èjì\" mean?",
+   "answer": "two",
+   "distractors": [
+    "three",
+    "one",
+    "four"
+   ]
+  },
+  {
+   "stem": "What does \"Ẹ̀wá\" mean?",
+   "answer": "ten",
+   "distractors": [
+    "nine",
+    "six",
+    "seven"
+   ]
+  },
+  {
+   "stem": "What does \"Ẹ̀ta\" mean?",
+   "answer": "three",
+   "distractors": [
+    "four",
+    "two",
+    "eight"
+   ]
+  },
+  {
+   "stem": "What does \"Pupa\" mean?",
+   "answer": "red",
+   "distractors": [
+    "blue",
+    "green",
+    "white"
+   ]
+  },
+  {
+   "stem": "What does \"Dúdú\" mean?",
+   "answer": "black",
+   "distractors": [
+    "white",
+    "yellow",
+    "blue"
+   ]
+  },
+  {
+   "stem": "What does \"Funfun\" mean?",
+   "answer": "white",
+   "distractors": [
+    "red",
+    "green",
+    "black"
+   ]
+  },
+  {
+   "stem": "Grass is ___",
+   "answer": "green",
+   "distractors": [
+    "red",
+    "black",
+    "blue"
+   ]
+  },
+  {
+   "stem": "What does \"Ọjọ́ Àìkú\" mean?",
+   "answer": "Sunday",
+   "distractors": [
+    "Monday",
+    "Friday",
+    "Saturday"
+   ]
+  },
+  {
+   "stem": "What does \"Ọjọ́ Ajé\" mean?",
+   "answer": "Monday",
+   "distractors": [
+    "Sunday",
+    "Tuesday",
+    "Friday"
+   ]
+  },
+  {
+   "stem": "What does \"Ọjọ́ Ẹtì\" mean?",
+   "answer": "Friday",
+   "distractors": [
+    "Monday",
+    "Wednesday",
+    "Sunday"
+   ]
+  },
+  {
+   "stem": "There are ___ days in a week",
+   "answer": "seven",
+   "distractors": [
+    "five",
+    "ten",
+    "three"
+   ]
+  },
+  {
+   "stem": "What does \"Ilé\" mean?",
+   "answer": "house",
+   "distractors": [
+    "road",
+    "tree",
+    "sky"
+   ]
+  },
+  {
+   "stem": "What does \"Ilẹ̀kùn\" mean?",
+   "answer": "door",
+   "distractors": [
+    "window",
+    "bed",
+    "pot"
+   ]
+  },
+  {
+   "stem": "What does \"Àga\" mean?",
+   "answer": "chair",
+   "distractors": [
+    "table",
+    "roof",
+    "floor"
+   ]
+  },
+  {
+   "stem": "What does \"Ajá\" mean?",
+   "answer": "dog",
+   "distractors": [
+    "cat",
+    "goat",
+    "cow"
+   ]
+  },
+  {
+   "stem": "What does \"Ológbò\" mean?",
+   "answer": "cat",
+   "distractors": [
+    "dog",
+    "horse",
+    "lion"
+   ]
+  },
+  {
+   "stem": "What does \"Màlúù\" mean?",
+   "answer": "cow",
+   "distractors": [
+    "goat",
+    "sheep",
+    "hen"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two Yoruba greetings ",
+   "points": [
+    "Ẹ kú àárọ̀",
+    "Ẹ kú ọ̀sán",
+    "Ẹ kú irọ́lẹ́"
+   ]
+  },
+  {
+   "stem": "Name two members of the family in Yoruba ",
+   "points": [
+    "bàbá",
+    "ìyá",
+    "ẹ̀gbọ́n"
+   ]
+  },
+  {
+   "stem": "Name two parts of the body in Yoruba ",
+   "points": [
+    "orí",
+    "ojú",
+    "ọwọ́"
+   ]
+  },
+  {
+   "stem": "Name two numbers in Yoruba ",
+   "points": [
+    "ọ̀kan",
+    "èjì",
+    "ẹ̀wá"
+   ]
+  },
+  {
+   "stem": "Name two colours in Yoruba ",
+   "points": [
+    "pupa",
+    "dúdú",
+    "funfun"
+   ]
+  },
+  {
+   "stem": "Name two days of the week in Yoruba ",
+   "points": [
+    "Ọjọ́ Àìkú",
+    "Ọjọ́ Ajé",
+    "Ọjọ́ Ẹtì"
+   ]
+  },
+  {
+   "stem": "Name two things in the home in Yoruba ",
+   "points": [
+    "ilé",
+    "ilẹ̀kùn",
+    "àga"
+   ]
+  },
+  {
+   "stem": "Name two animals in Yoruba ",
+   "points": [
+    "ajá",
+    "ológbò",
+    "adìẹ"
+   ]
+  },
+  {
+   "stem": "Name two ways to greet with respect ",
+   "points": [
+    "kneeling",
+    "using Ẹ kú",
+    "smiling"
+   ]
+  },
+  {
+   "stem": "Name two things that keep the body clean ",
+   "points": [
+    "bathing",
+    "washing hands",
+    "brushing teeth"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Say \"good morning\" in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two members of your family in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Count from one to five in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two colours in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two animals in Yoruba.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

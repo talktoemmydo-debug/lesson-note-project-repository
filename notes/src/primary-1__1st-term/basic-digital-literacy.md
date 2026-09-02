@@ -41,8 +41,8 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) plastic D) paper
-2. Which of these is NOT a digital device? A) broom B) camera C) smartphone D) tablet
-3. The computer that stays on a table is a A) camera B) watch C) tablet D) desktop
+2. Which of these is NOT a digital device? A) broom B) tablet C) camera D) smartphone
+3. The computer that stays on a table is a A) desktop B) tablet C) watch D) camera
 4. Fill in: A ____ opens like a book.
 5. Mention two digital devices you can carry about.
 6. Write one thing a camera does.
@@ -88,9 +88,9 @@ Draw one digital device I have seen and colour its screen grey.
 
 **Worksheet**
 
-1. The part that shows pictures and letters is the A) keyboard B) monitor C) CPU D) mouse
-2. We move the arrow on the screen with the A) monitor B) mouse C) speaker D) printer
-3. The brain of the computer is the A) mouse B) cable C) keyboard D) CPU
+1. The part that shows pictures and letters is the A) monitor B) keyboard C) mouse D) CPU
+2. We move the arrow on the screen with the A) mouse B) monitor C) printer D) speaker
+3. The brain of the computer is the A) CPU B) mouse C) keyboard D) cable
 4. Fill in: We press keys on the ____.
 5. Mention two parts we touch to give the computer information.
 6. Write what the monitor does.
@@ -138,7 +138,7 @@ Draw the four basic parts of a computer in my notebook.
 
 1. We clean a screen with a A) soft, dry cloth B) wet mop C) rough stone D) sandy rag
 2. A tablet should be carried A) with two hands B) by its wire C) open in one finger D) under a foot
-3. Water on a device A) charges it B) cleans it C) spoils it D) makes it faster
+3. Water on a device A) spoils it B) makes it faster C) charges it D) cleans it
 4. Fill in: In the lab we do not eat or ____.
 5. Mention two ways we care for a device.
 6. Write one rule of the computer lab.
@@ -183,9 +183,9 @@ Draw myself cleaning a screen with a soft, dry cloth.
 
 **Worksheet**
 
-1. The first tool people used to count is the A) fan B) radio C) telephone D) abacus
+1. The first tool people used to count is the A) abacus B) telephone C) radio D) fan
 2. Over time computers became smaller, cheaper and A) faster B) heavier C) slower D) louder
-3. The beads that slide on wires are on an A) umbrella B) abacus C) egg D) orange
+3. The beads that slide on wires are on an A) abacus B) umbrella C) orange D) egg
 4. Fill in: A machine that can learn is called artificial ____.
 5. Mention two things computers became over time.
 6. Write what the abacus was used for.
@@ -230,9 +230,9 @@ Draw an abacus and a modern phone side by side.
 
 **Worksheet**
 
-1. The father of the computer is A) Thomas Edison B) Isaac Newton C) Ada Lovelace D) Charles Babbage
-2. The first programmer in the world was A) Flora Shaw B) Queen Amina C) Mary Kingsley D) Ada Lovelace
-3. Babbage's machine plan was called the A) Printing Press B) Flying Loom C) Analytical Engine D) Steam Boat
+1. The father of the computer is A) Charles Babbage B) Ada Lovelace C) Isaac Newton D) Thomas Edison
+2. The first programmer in the world was A) Ada Lovelace B) Mary Kingsley C) Queen Amina D) Flora Shaw
+3. Babbage's machine plan was called the A) Analytical Engine B) Steam Boat C) Printing Press D) Flying Loom
 4. Fill in: Ada wrote the first ____ for the machine.
 5. Mention the two great inventors of the computer.
 6. Write one sentence on why an idea is valuable.
@@ -277,9 +277,9 @@ Draw Charles Babbage's thinking machine with wheels and gears.
 
 **Worksheet**
 
-1. The parts of a computer we can touch are the A) software B) songs C) ideas D) hardware
-2. A drawing app is A) a cable B) a chair C) software D) hardware
-3. Which of these is hardware? A) song B) story C) mouse D) game
+1. The parts of a computer we can touch are the A) hardware B) software C) ideas D) songs
+2. A drawing app is A) software B) hardware C) a cable D) a chair
+3. Which of these is hardware? A) mouse B) game C) song D) story
 4. Fill in: We cannot ____ software.
 5. Mention two hardware parts.
 6. Write one example of software.
@@ -327,7 +327,7 @@ Draw two things I can touch (hardware) and write the name of one app.
 
 1. A device that puts information into the computer is an ____ device. A) input B) output C) print D) sound
 2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) FRIDAY D) MONDAY
-3. Moving an icon and letting go is A) save B) scan C) drag and drop D) print
+3. Moving an icon and letting go is A) drag and drop B) scan C) print D) save
 4. Fill in: The key that moves us to the next line is ____.
 5. Mention two input devices.
 6. Write one way we care for the keyboard.
@@ -373,8 +373,8 @@ Draw a keyboard and circle the Enter key.
 
 **Worksheet**
 
-1. The device that puts our work on paper is the A) microphone B) printer C) keyboard D) mouse
-2. We hear sound from the computer through A) mouse B) cable C) speakers D) printer
+1. The device that puts our work on paper is the A) printer B) microphone C) mouse D) keyboard
+2. We hear sound from the computer through A) speakers B) printer C) mouse D) cable
 3. A microphone takes our ____ into the computer. A) voice B) hair C) shoes D) food
 4. Fill in: The monitor is an ____ device.
 5. Mention two output devices.
