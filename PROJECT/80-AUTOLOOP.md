@@ -168,6 +168,9 @@ counting pass left behind:
   citizenship week 5 gap closed without a plate being made**.  The seven SCS plates already drawn for Third Term stay
   in that book — nothing is stripped out of a finished page; the exemption is about what is owed, not about erasing
   what exists.  `tools/backfill_ledger.py` holds the list in `EXEMPT`; add a subject there and re-run, never in prose.
+* **Christian Religious Studies carries no plates either, in any term** — owner, 2 Sep 2026: *"CRS does not need
+  images."* Five of the thirteen subjects are now word-only (Yoruba, General Knowledge, Nigerian History, Social &
+  Citizenship Studies, CRS). Any CRS plates already filed stay where they are; the exemption only stops new debt.
 * `polish_audit` counts **hard-wrapped lines**, not sentences, in a `p` block — and the `---` that closes a
   note is counted too. So a `**My own work**` or `**Words for my notebook**` block of **two** source lines is the
   safe house shape; three can tip it over the 1–3 ceiling on the last block of a note.

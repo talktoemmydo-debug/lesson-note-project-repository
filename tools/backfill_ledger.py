@@ -2,8 +2,8 @@
 """Write PROJECT/76-BACKFILL.md — the plate ledger for the backfill sweep.
 
 The ledger is never typed by hand.  It runs `tools/img_import.py --check`, reads the
-`X of Y notes carry a plate` lines it prints, subtracts the two subjects the owner freed
-from pictures (Yoruba and General Knowledge, in every term), and lays the rest out as a queue
+`X of Y notes carry a plate` lines it prints, subtracts the subjects the owner freed
+from pictures (see `EXEMPT` — five word-only subjects, in every term), and lays the rest out as a queue
 with the term's own line on it.  Run it at the start of a sweep turn and again at the end.
 """
 from __future__ import annotations
@@ -17,7 +17,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 EXEMPT = {"yoruba", "general-knowledge", "nigerian-history",     # owner's word, 2 Sep 2026:
-          "social-and-citizenship-studies"}                     #   four subjects carry no art
+          "social-and-citizenship-studies",                       #   these subjects carry no art
+          "christian-religious-studies"}                          #   "CRS does not need images"
 TERM_ORDER = {"2nd-term": 0, "1st-term": 1, "3rd-term": 2}
 TERM_PRETTY = {"1st-term": "First Term", "2nd-term": "Second Term", "3rd-term": "Third Term"}
 LINE = re.compile(r"plates\s+: (\d+(?:st|nd|rd)-term)/([a-z0-9-]+): (\d+) of (\d+) notes carry a plate")
@@ -64,9 +65,10 @@ def main() -> int:
         "| --- | --- | --- | --- |",
     ] + (rows or ["| — | — | — | nothing owed |"]) + [
         "",
-        f"**Exempt, never owed** ({sum(exempt.values())} notes): Yoruba, General Knowledge, Nigerian History and",
-        "Social & Citizenship Studies — *\"Yoruba doesn't need images\"*, *\"GK does not need images too\"* and",
-        "*\"Nigerian History and Social and Citizenship Studies need no images\"* (owner, 2 Sep 2026), in **every** term.",
+        f"**Exempt, never owed** ({sum(exempt.values())} notes): Yoruba, General Knowledge, Nigerian History,",
+        "Social & Citizenship Studies and Christian Religious Studies — *\"Yoruba doesn't need images\"*,",
+        "*\"GK does not need images too\"*, *\"Nigerian History and Social and Citizenship Studies need no",
+        "images\"* and *\"CRS does not need images\"* (owner, 2 Sep 2026), in **every** term.",
         "`--check` still prints their shortfall lines; they are subtracted here and are never generated.  Plates",
         "already drawn and filed for an exempt subject stay where they are — nothing is stripped out of a book.",
         "",

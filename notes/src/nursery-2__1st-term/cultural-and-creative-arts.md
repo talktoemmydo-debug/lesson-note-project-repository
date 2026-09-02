@@ -37,6 +37,8 @@ A car has a body, wheels, windows, doors and headlights. A car carries people an
 3. Name one other thing that carries people.
 4. What did you draw under the car?
 
+
+![A simple car with big shapes ready to colour.](assets/img/nursery-2/1st-term/cultural-and-creative-arts/week1-colouring-a-car.png)
 **Worksheet**
 
 1. Which part of the car makes it move? A) horn B) door C) wheel D) window
@@ -86,6 +88,8 @@ I dip, I press, I lift. My thumb print is unique — nobody has another one like
 3. Name one thing you made with your hand print.
 4. What must be dry before I use a marker?
 
+
+![A caterpillar, a butterfly, a fish and a flower made from prints.](assets/img/nursery-2/1st-term/cultural-and-creative-arts/week2-print-art-shapes.png)
 **Worksheet**
 
 1. A thumb print is made with A) a ruler B) chalk C) water only D) paint
@@ -134,6 +138,8 @@ Barney is a purple dinosaur with a green belly. I colour inside the lines and fi
 3. Show me one place where you stayed inside the line.
 4. Why should we not leave white patches?
 
+
+![A friendly dinosaur outline ready to colour.](assets/img/nursery-2/1st-term/cultural-and-creative-arts/week3-colouring-the-dinosaur.png)
 **Worksheet**
 
 1. Barney is a A) red bird B) yellow goat C) purple dinosaur D) blue fish
@@ -183,6 +189,8 @@ A pig has a snout, a curly tail, a round body and hooves. I colour inside the cu
 3. Where does a pig live?
 4. Name one other farm animal.
 
+
+![A pig outline with a curly tail ready to colour.](assets/img/nursery-2/1st-term/cultural-and-creative-arts/week4-colouring-a-pig.png)
 **Worksheet**
 
 1. The long nose of a pig is called its A) hoof B) horn C) snout D) wing
@@ -234,6 +242,8 @@ I cut, I thread, I repeat a pattern, I tie a knot. My necklace is wearable art.
 3. What keeps the beads from falling off?
 4. Who helped with the scissors, and why?
 
+
+![A necklace and a bracelet made of straw beads in a repeating pattern.](assets/img/nursery-2/1st-term/cultural-and-creative-arts/week5-straw-bead-jewelry.png)
 **Worksheet**
 
 1. The small pieces for my necklace are cut from A) wood B) paper C) leaves D) straws
@@ -283,6 +293,8 @@ An umbrella has a canopy, spokes and a handle. It keeps rain and sun off us.
 3. What did you draw in the sky?
 4. Name two colours that sit well together in your work.
 
+
+![An open umbrella with blank panels ready to colour.](assets/img/nursery-2/1st-term/cultural-and-creative-arts/week6-colouring-an-umbrella.png)
 **Worksheet**
 
 1. The round top of the umbrella is the A) spoke B) canopy C) roof D) handle
@@ -333,6 +345,8 @@ Okra makes a star, carrot makes a circle. I dip, press and lift — then I clean
 3. What do we do after printing?
 4. Name one thing you can make with vegetable prints.
 
+
+![Cut okra, potato and carrot beside the star, heart and ring prints they make.](assets/img/nursery-2/1st-term/cultural-and-creative-arts/week8-vegetable-stamps.png)
 **Worksheet**
 
 1. Which vegetable prints a star shape? A) onion skin B) rice C) okra D) yam
@@ -383,6 +397,8 @@ I roll, flatten, pinch and coil. Big part first, then small parts. Red and yello
 3. Name the parts of the figure you built.
 4. What did you put in your scene?
 
+
+![A plasticine figure with a coil, a pancake and balls of plasticine.](assets/img/nursery-2/1st-term/cultural-and-creative-arts/week9-plasticine-figure.png)
 **Worksheet**
 
 1. Making a long snake of plasticine is A) folding B) cutting C) rolling D) painting

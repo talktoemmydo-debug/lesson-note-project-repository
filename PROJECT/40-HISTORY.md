@@ -679,3 +679,15 @@ basic-digital-literacy and basic-science are each 8 of 8 and leave the ledger**,
 **16 plates · 130 pages · 129/129 Contents numbers · book and file gates ok**, and the ledger re-derived at
 **56 owed over 7 files** — all still First Term. The standing `sheet_check` flag on the term remains the documented
 objective-pool behaviour. Scratch emptied of every raw and the contact sheet.
+
+## 2 Sep 2026 — CRS freed from pictures; cultural-and-creative-arts swept whole
+
+The owner freed a fifth subject: *"CRS does not need images."* It was added to `EXEMPT` in
+`tools/backfill_ledger.py` (never in prose) and recorded as a closed decision in `80-AUTOLOOP.md`; the ledger
+re-derived at **48 owed** with exempt notes rising to 92. The sweep then took **First Term
+cultural-and-creative-arts**, eight plates, all craft and colouring drawn as objects with no people, and all eight
+passed the margin count at 0 before import: the car, the print-art shapes (caterpillar, butterfly, fish, flower),
+the friendly dinosaur, the pig, the straw-bead necklace and bracelet, the umbrella, the vegetable stamps with their
+star/heart/ring prints, and the plasticine figure. **CCA is 8 of 8 and leaves the ledger**; the First Term book
+rebuilt at **24 plates · 132 pages · 129/129 Contents numbers · book and file gates ok**, the ledger now
+**40 owed over 5 files**, scratch emptied.
