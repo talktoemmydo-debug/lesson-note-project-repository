@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 5 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 6 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,58 +12,68 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*5 subjects · 40 lessons · 5 term practice papers. Each part begins on a fresh page.*
+*6 subjects · 48 lessons · 6 term practice papers. Each part begins on a fresh page.*
 
-- **[Basic Science](#basic-science)** · 2
-  - [WEEK 1 — LIVING AND NON-LIVING THINGS](#week-1-living-and-non-living-things) · 2
-  - [WEEK 2 — PLANTS AROUND US](#week-2-plants-around-us) · 2
-  - [WEEK 3 — ANIMALS AROUND US](#week-3-animals-around-us) · 3
-  - [WEEK 4 — THE HUMAN BODY](#week-4-the-human-body) · 4
-  - [WEEK 5 — OUR SENSES](#week-5-our-senses) · 4
-  - [WEEK 6 — HEALTH AND CLEANLINESS](#week-6-health-and-cleanliness) · 5
-  - [WEEK 8 — AIR AND WATER](#week-8-air-and-water) · 6
-  - [WEEK 9 — WEATHER AND SEASONS](#week-9-weather-and-seasons) · 6
-- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
-  - [WEEK 1 — ART: DRAWING AND PAINTING](#week-1-art-drawing-and-painting) · 8
-  - [WEEK 2 — COLOURS](#week-2-colours) · 8
-  - [WEEK 3 — CRAFT AND MODELLING](#week-3-craft-and-modelling) · 9
-  - [WEEK 4 — MUSIC AND SINGING](#week-4-music-and-singing) · 10
-  - [WEEK 5 — DANCE](#week-5-dance) · 10
-  - [WEEK 6 — DRAMA AND ROLE PLAY](#week-6-drama-and-role-play) · 11
-  - [WEEK 8 — LOCAL CRAFTS](#week-8-local-crafts) · 12
-  - [WEEK 9 — OUR CULTURE](#week-9-our-culture) · 12
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
-  - [WEEK 1 — GOD THE CREATOR](#week-1-god-the-creator) · 14
-  - [WEEK 2 — GOD'S LOVE FOR US](#week-2-gods-love-for-us) · 14
-  - [WEEK 3 — THE BIBLE, GOD'S WORD](#week-3-the-bible-gods-word) · 15
-  - [WEEK 4 — PRAYER](#week-4-prayer) · 16
-  - [WEEK 5 — ADAM AND EVE](#week-5-adam-and-eve) · 16
-  - [WEEK 6 — NOAH'S ARK](#week-6-noahs-ark) · 17
-  - [WEEK 8 — ABRAHAM, THE FATHER OF FAITH](#week-8-abraham-the-father-of-faith) · 18
-  - [WEEK 9 — JOSEPH AND GOD'S CARE](#week-9-joseph-and-gods-care) · 18
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
-  - [WEEK 1 — THE COMPUTER](#week-1-the-computer) · 20
-  - [WEEK 2 — COMPUTER HARDWARE](#week-2-computer-hardware) · 20
-  - [WEEK 3 — COMPUTER SOFTWARE](#week-3-computer-software) · 21
-  - [WEEK 4 — USES OF COMPUTERS](#week-4-uses-of-computers) · 22
-  - [WEEK 5 — THE COMPUTER ROOM](#week-5-the-computer-room) · 22
-  - [WEEK 7 — THE KEYBOARD](#week-7-the-keyboard) · 23
-  - [WEEK 8 — THE MOUSE](#week-8-the-mouse) · 24
-  - [WEEK 9 — CARE OF THE COMPUTER](#week-9-care-of-the-computer) · 24
-- **[General Knowledge](#general-knowledge)** · 26
-  - [WEEK 1 — STATES AND CAPITALS I: NORTH-CENTRAL AND NORTH-WEST](#week-1-states-and-capitals-i-north-central-and-north-west) · 26
-  - [WEEK 2 — STATES AND CAPITALS II: NORTH-EAST AND SOUTH-SOUTH](#week-2-states-and-capitals-ii-north-east-and-south-south) · 26
-  - [WEEK 3 — STATES AND CAPITALS III: SOUTH-EAST, SOUTH-WEST AND FCT](#week-3-states-and-capitals-iii-south-east-south-west-and-fct) · 27
-  - [WEEK 4 — HOW WE ARE GOVERNED: LOCAL, STATE, FEDERAL](#week-4-how-we-are-governed-local-state-federal) · 28
-  - [WEEK 5 — OUR LEADERS TODAY (CURRENT AFFAIRS I)](#week-5-our-leaders-today-current-affairs-i) · 29
-  - [WEEK 6 — NATIONAL SYMBOLS II: MEANINGS AND PROPER USE](#week-6-national-symbols-ii-meanings-and-proper-use) · 29
-  - [WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE](#week-8-nigerian-history-ii-colonial-era-and-independence) · 30
-  - [WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID](#week-9-nigerian-heroes-who-they-were-and-what-they-did) · 31
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 32
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 34
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 36
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 38
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 40
+- **[Basic Science](#basic-science)** · 3
+  - [WEEK 1 — LIVING AND NON-LIVING THINGS](#week-1-living-and-non-living-things) · 3
+  - [WEEK 2 — PLANTS AROUND US](#week-2-plants-around-us) · 3
+  - [WEEK 3 — ANIMALS AROUND US](#week-3-animals-around-us) · 4
+  - [WEEK 4 — THE HUMAN BODY](#week-4-the-human-body) · 5
+  - [WEEK 5 — OUR SENSES](#week-5-our-senses) · 5
+  - [WEEK 6 — HEALTH AND CLEANLINESS](#week-6-health-and-cleanliness) · 6
+  - [WEEK 8 — AIR AND WATER](#week-8-air-and-water) · 7
+  - [WEEK 9 — WEATHER AND SEASONS](#week-9-weather-and-seasons) · 7
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 9
+  - [WEEK 1 — ART: DRAWING AND PAINTING](#week-1-art-drawing-and-painting) · 9
+  - [WEEK 2 — COLOURS](#week-2-colours) · 9
+  - [WEEK 3 — CRAFT AND MODELLING](#week-3-craft-and-modelling) · 10
+  - [WEEK 4 — MUSIC AND SINGING](#week-4-music-and-singing) · 11
+  - [WEEK 5 — DANCE](#week-5-dance) · 11
+  - [WEEK 6 — DRAMA AND ROLE PLAY](#week-6-drama-and-role-play) · 12
+  - [WEEK 8 — LOCAL CRAFTS](#week-8-local-crafts) · 13
+  - [WEEK 9 — OUR CULTURE](#week-9-our-culture) · 13
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 15
+  - [WEEK 1 — GOD THE CREATOR](#week-1-god-the-creator) · 15
+  - [WEEK 2 — GOD'S LOVE FOR US](#week-2-gods-love-for-us) · 15
+  - [WEEK 3 — THE BIBLE, GOD'S WORD](#week-3-the-bible-gods-word) · 16
+  - [WEEK 4 — PRAYER](#week-4-prayer) · 17
+  - [WEEK 5 — ADAM AND EVE](#week-5-adam-and-eve) · 17
+  - [WEEK 6 — NOAH'S ARK](#week-6-noahs-ark) · 18
+  - [WEEK 8 — ABRAHAM, THE FATHER OF FAITH](#week-8-abraham-the-father-of-faith) · 19
+  - [WEEK 9 — JOSEPH AND GOD'S CARE](#week-9-joseph-and-gods-care) · 19
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 21
+  - [WEEK 1 — THE COMPUTER](#week-1-the-computer) · 21
+  - [WEEK 2 — COMPUTER HARDWARE](#week-2-computer-hardware) · 21
+  - [WEEK 3 — COMPUTER SOFTWARE](#week-3-computer-software) · 22
+  - [WEEK 4 — USES OF COMPUTERS](#week-4-uses-of-computers) · 23
+  - [WEEK 5 — THE COMPUTER ROOM](#week-5-the-computer-room) · 23
+  - [WEEK 7 — THE KEYBOARD](#week-7-the-keyboard) · 24
+  - [WEEK 8 — THE MOUSE](#week-8-the-mouse) · 25
+  - [WEEK 9 — CARE OF THE COMPUTER](#week-9-care-of-the-computer) · 25
+- **[Nigerian History](#nigerian-history)** · 27
+  - [WEEK 1 — NIGERIA AS A COUNTRY](#week-1-nigeria-as-a-country) · 27
+  - [WEEK 2 — OUR PEOPLE AND CULTURE](#week-2-our-people-and-culture) · 27
+  - [WEEK 3 — EARLY NIGERIAN COMMUNITIES](#week-3-early-nigerian-communities) · 28
+  - [WEEK 4 — TRADITIONAL RULERS](#week-4-traditional-rulers) · 29
+  - [WEEK 5 — TRADITIONS AND FESTIVALS](#week-5-traditions-and-festivals) · 29
+  - [WEEK 6 — TRADE IN THE PAST](#week-6-trade-in-the-past) · 30
+  - [WEEK 8 — COLONIAL RULE](#week-8-colonial-rule) · 31
+  - [WEEK 9 — NIGERIA'S INDEPENDENCE](#week-9-nigerias-independence) · 31
+- **[General Knowledge](#general-knowledge)** · 33
+  - [WEEK 1 — STATES AND CAPITALS I: NORTH-CENTRAL AND NORTH-WEST](#week-1-states-and-capitals-i-north-central-and-north-west) · 33
+  - [WEEK 2 — STATES AND CAPITALS II: NORTH-EAST AND SOUTH-SOUTH](#week-2-states-and-capitals-ii-north-east-and-south-south) · 33
+  - [WEEK 3 — STATES AND CAPITALS III: SOUTH-EAST, SOUTH-WEST AND FCT](#week-3-states-and-capitals-iii-south-east-south-west-and-fct) · 34
+  - [WEEK 4 — HOW WE ARE GOVERNED: LOCAL, STATE, FEDERAL](#week-4-how-we-are-governed-local-state-federal) · 35
+  - [WEEK 5 — OUR LEADERS TODAY (CURRENT AFFAIRS I)](#week-5-our-leaders-today-current-affairs-i) · 36
+  - [WEEK 6 — NATIONAL SYMBOLS II: MEANINGS AND PROPER USE](#week-6-national-symbols-ii-meanings-and-proper-use) · 36
+  - [WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE](#week-8-nigerian-history-ii-colonial-era-and-independence) · 37
+  - [WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID](#week-9-nigerian-heroes-who-they-were-and-what-they-did) · 38
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 39
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 41
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 43
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 45
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)](#examination-practice-nigerian-history-primary-2-1st-term)** · 47
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 49
 
 
 
@@ -2487,6 +2497,610 @@ written for them.
 
 ---
 
+# Nigerian History
+
+These are the notes for the first term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Nigerian History · First Term W1-6, 8-9 (Nigeria as a country; our people and culture; early Nigerian communities; traditional rulers; traditions and festivals; trade in the past; colonial rule; Nigeria's independence).*
+
+
+### WEEK 1 — NIGERIA AS A COUNTRY
+
+**You will learn to**
+
+• say what Nigeria is
+
+• name things about Nigeria
+
+• love our country
+
+**Things to know**
+
+• **Nigeria** is our country.
+
+• Nigeria is in **Africa**.
+
+• Nigeria is called the **Giant of Africa**.
+
+• Nigeria has **36 states** and the **FCT**.
+
+• The capital of Nigeria is **Abuja**.
+
+• Nigeria has many **people** and **languages**.
+
+• The Nigerian **flag** is green, white, green.
+
+• The money of Nigeria is the **Naira**.
+
+• Nigeria became a country in **1914** when the regions joined.
+
+• We are proud to be Nigerians.
+
+**Let us talk**
+
+1. What is the name of our country?
+
+2. What is the capital of Nigeria?
+
+3. Why is Nigeria called the Giant of Africa?
+
+**Words for my notebook**
+
+• country — a land with its own people and government
+
+• capital — the chief city of a country
+
+• Naira — the money of Nigeria
+
+**Worksheet**
+
+1. Our country is ___.
+   A) Nigeria B) Ghana C) Egypt D) Kenya
+
+2. Nigeria is in ___.
+   A) Africa B) Asia C) Europe D) America
+
+3. The capital of Nigeria is ___.
+   A) Abuja B) Lagos C) Kano D) Ibadan
+
+4. The money of Nigeria is the ___.
+   A) Naira B) Dollar C) Cedi D) Rand
+
+5. Fill in: Nigeria is called the Giant of _____.
+
+6. Mention two things you know about Nigeria.
+
+7. Write the capital of Nigeria.
+
+**My own work**
+
+• Draw the map of Nigeria.
+
+---
+
+### WEEK 2 — OUR PEOPLE AND CULTURE
+
+**You will learn to**
+
+• name our people
+
+• say what culture is
+
+• respect our culture
+
+**Things to know**
+
+• Nigeria has many **people** and **tribes**.
+
+• The three main tribes are the **Hausa**, **Yoruba** and **Igbo**.
+
+• There are also the **Ijaw**, **Tiv**, **Edo**, **Fulani** and many more.
+
+• Each tribe has its own **language** and **culture**.
+
+• **Culture** is the way of life of a people.
+
+• Our culture includes our **food**, **dress**, **music** and **dance**.
+
+• We speak different **languages** in Nigeria.
+
+• English is our **official** language.
+
+• We respect one another's culture.
+
+• Our many cultures make Nigeria rich.
+
+**Let us talk**
+
+1. Name the three main tribes in Nigeria.
+
+2. What is culture?
+
+3. What is our official language?
+
+**Words for my notebook**
+
+• tribe — a group of people with the same culture
+
+• culture — the way of life of a people
+
+• official language — the main language of a country
+
+**Worksheet**
+
+1. The three main tribes in Nigeria are Hausa, Yoruba and ___.
+   A) Igbo B) Zulu C) Kikuyu D) Ashanti
+
+2. A group of people with the same culture is a ___.
+   A) tribe B) stone C) river D) market
+
+3. The way of life of a people is ___.
+   A) culture B) noise C) sleep D) rain
+
+4. The official language of Nigeria is ___.
+   A) English B) French C) Arabic D) Latin
+
+5. Fill in: The main language of a country is its _____.
+
+6. Mention two tribes in Nigeria.
+
+7. Write what culture is.
+
+**My own work**
+
+• Draw someone in traditional dress.
+
+---
+
+### WEEK 3 — EARLY NIGERIAN COMMUNITIES
+
+**You will learn to**
+
+• name early Nigerian communities
+
+• say how they lived
+
+• know our past
+
+**Things to know**
+
+• Long ago, people lived in **communities**.
+
+• A **community** is a group of people living together.
+
+• Early Nigerian communities include the **Nok**, **Ife**, **Benin** and **Kanem-Borno**.
+
+• The **Nok** people were known for their **clay** works.
+
+• The **Ife** people were known for their **bronze** and art.
+
+• The **Benin** people were known for the **Benin Kingdom** and brass works.
+
+• The **Kanem-Borno** was a great empire in the north.
+
+• These communities **farmed**, **traded** and **made things**.
+
+• They had their own **rulers** and **ways**.
+
+• Early communities are part of our history.
+
+**Let us talk**
+
+1. What is a community?
+
+2. Name one early Nigerian community.
+
+3. What were the Nok people known for?
+
+**Words for my notebook**
+
+• community — a group of people living together
+
+• empire — a group of states under one ruler
+
+• clay — soft earth used to make things
+
+**Worksheet**
+
+1. A group of people living together is a ___.
+   A) community B) stone C) river D) tree
+
+2. The ___ people were known for their clay works.
+   A) Nok B) Zulu C) Kikuyu D) Ashanti
+
+3. The ___ people were known for bronze and art.
+   A) Ife B) Nok C) Tiv D) Edo
+
+4. A group of states under one ruler is an ___.
+   A) empire B) ocean C) island D) animal
+
+5. Fill in: Soft earth used to make things is _____.
+
+6. Mention two early Nigerian communities.
+
+7. Write what a community is.
+
+**My own work**
+
+• Draw a clay pot like the Nok made.
+
+---
+
+### WEEK 4 — TRADITIONAL RULERS
+
+**You will learn to**
+
+• name traditional rulers
+
+• say what they do
+
+• respect our rulers
+
+**Things to know**
+
+• **Traditional rulers** are the chiefs of our people.
+
+• They rule over **towns** and **communities**.
+
+• Examples: the **Emir**, the **Oba**, the **Obi**, the **Sultan**.
+
+• The **Emir** rules in the north.
+
+• The **Oba** rules among the Yoruba.
+
+• The **Obi** rules among the Igbo.
+
+• The **Sultan** is a leading ruler in the north.
+
+• Traditional rulers keep our **culture** and **peace**.
+
+• They settle **disputes** and guide the people.
+
+• We respect our traditional rulers.
+
+**Let us talk**
+
+1. Who are traditional rulers?
+
+2. Name one traditional ruler.
+
+3. What do traditional rulers do?
+
+**Words for my notebook**
+
+• traditional ruler — a chief of a people
+
+• Emir — a traditional ruler in the north
+
+• Oba — a traditional ruler among the Yoruba
+
+**Worksheet**
+
+1. The chiefs of our people are ___ rulers.
+   A) traditional B) foreign C) new D) lost
+
+2. The ___ rules among the Yoruba.
+   A) Oba B) Emir C) Obi D) Sultan
+
+3. The ___ rules among the Igbo.
+   A) Obi B) Oba C) Emir D) Sultan
+
+4. Traditional rulers keep our culture and ___.
+   A) peace B) war C) noise D) anger
+
+5. Fill in: A traditional ruler in the north is an _____.
+
+6. Mention two traditional rulers.
+
+7. Write what traditional rulers do.
+
+**My own work**
+
+• Draw a traditional ruler.
+
+---
+
+### WEEK 5 — TRADITIONS AND FESTIVALS
+
+**You will learn to**
+
+• name our traditions
+
+• name our festivals
+
+• enjoy our culture
+
+**Things to know**
+
+• **Traditions** are the things our people always do.
+
+• **Festivals** are special days of joy.
+
+• Different tribes have different festivals.
+
+• The Yoruba have the **Egungun** and **Osun** festivals.
+
+• The Igbo have the **New Yam** festival.
+
+• The Hausa have **durbar** festivals.
+
+• At festivals, people **dance**, **sing** and **feast**.
+
+• Festivals bring people **together**.
+
+• Festivals show our **culture**.
+
+• We enjoy and respect our festivals.
+
+**Let us talk**
+
+1. What is a festival?
+
+2. Name one festival in Nigeria.
+
+3. What do people do at festivals?
+
+**Words for my notebook**
+
+• tradition — something a people always do
+
+• festival — a special day of joy
+
+• feast — a big meal of joy
+
+**Worksheet**
+
+1. A special day of joy is a ___.
+   A) festival B) stone C) river D) tree
+
+2. The Igbo have the ___ festival.
+   A) New Yam B) durbar C) Egungun D) Osun
+
+3. The Hausa have ___ festivals.
+   A) durbar B) New Yam C) Egungun D) Osun
+
+4. At festivals, people dance, sing and ___.
+   A) feast B) fight C) sleep D) cry
+
+5. Fill in: Something a people always do is a _____.
+
+6. Mention two festivals in Nigeria.
+
+7. Write what a festival is.
+
+**My own work**
+
+• Draw a festival scene.
+
+---
+
+### WEEK 6 — TRADE IN THE PAST
+
+**You will learn to**
+
+• say how people traded in the past
+
+• name things traded
+
+• know our past trade
+
+**Things to know**
+
+• Long ago, people **traded** to get what they needed.
+
+• **Trade** is buying and selling.
+
+• People traded by **barter** — exchanging goods for goods.
+
+• They exchanged **salt**, **cloth**, **food** and **tools**.
+
+• Later, people used **cowries** and **manillas** as money.
+
+• Traders travelled to **markets** near and far.
+
+• Some traders crossed the **Sahara** with camels.
+
+• Trade brought people **together**.
+
+• Trade helped communities **grow**.
+
+• Trade is part of our history.
+
+**Let us talk**
+
+1. What is trade?
+
+2. What is barter?
+
+3. Name one thing people traded.
+
+**Words for my notebook**
+
+• trade — buying and selling
+
+• barter — exchanging goods for goods
+
+• cowries — shells once used as money
+
+**Worksheet**
+
+1. Buying and selling is ___.
+   A) trade B) sleep C) eating D) running
+
+2. Exchanging goods for goods is ___.
+   A) barter B) stealing C) giving D) hiding
+
+3. People once used ___ as money.
+   A) cowries B) stones C) leaves D) water
+
+4. Traders travelled to ___ near and far.
+   A) markets B) rivers only C) trees D) mountains
+
+5. Fill in: Shells once used as money are _____.
+
+6. Mention two things people traded in the past.
+
+7. Write what barter is.
+
+**My own work**
+
+• Draw a market scene from the past.
+
+---
+
+### WEEK 8 — COLONIAL RULE
+
+**You will learn to**
+
+• say what colonial rule was
+
+• say how the British came
+
+• know our history
+
+**Things to know**
+
+• Long ago, **Britain** came to Nigeria.
+
+• At first, the British came to **trade**.
+
+• Later, the British began to **rule**.
+
+• This is called **colonial rule**.
+
+• Nigeria became a **colony** of Britain.
+
+• The British joined the regions in **1914**.
+
+• This joining is called **amalgamation**.
+
+• The British built **roads**, **schools** and **railways**.
+
+• Nigerians worked hard for **freedom**.
+
+• Colonial rule is part of our history.
+
+**Let us talk**
+
+1. What is colonial rule?
+
+2. Why did the British first come to Nigeria?
+
+3. What did the British build?
+
+**Words for my notebook**
+
+• colonial rule — the time when Britain ruled Nigeria
+
+• colony — a country ruled by another
+
+• amalgamation — the joining of regions into one
+
+**Worksheet**
+
+1. The time when Britain ruled Nigeria is ___ rule.
+   A) colonial B) local C) state D) federal
+
+2. At first, the British came to Nigeria to ___.
+   A) trade B) fight C) sleep D) eat
+
+3. Nigeria became a ___ of Britain.
+   A) colony B) king C) stone D) river
+
+4. The joining of the regions in 1914 is ___.
+   A) amalgamation B) independence C) festival D) barter
+
+5. Fill in: A country ruled by another is a _____.
+
+6. Mention two things the British built.
+
+7. Write what colonial rule was.
+
+**My own work**
+
+• Draw a railway or road from the past.
+
+---
+
+### WEEK 9 — NIGERIA'S INDEPENDENCE
+
+**You will learn to**
+
+• say when Nigeria became independent
+
+• say what independence means
+
+• celebrate our freedom
+
+**Things to know**
+
+• Nigerians worked hard for **independence**.
+
+• **Independence** means ruling ourselves.
+
+• Nigeria became independent on **1 October 1960**.
+
+• The first Prime Minister was **Abubakar Tafawa Balewa**.
+
+• The first President was **Nnamdi Azikiwe**.
+
+• Nigeria became a **republic** in **1963**.
+
+• We celebrate **Independence Day** every 1 October.
+
+• Heroes like **Azikiwe**, **Awolowo** and **Bello** helped.
+
+• Independence made Nigeria **free**.
+
+• We are proud of our independence.
+
+**Let us talk**
+
+1. When did Nigeria become independent?
+
+2. What does independence mean?
+
+3. Who was the first Prime Minister?
+
+**Words for my notebook**
+
+• independence — ruling ourselves
+
+• republic — a country with its own chosen leaders
+
+• freedom — being free to rule ourselves
+
+**Worksheet**
+
+1. Nigeria became independent on 1 October ___.
+   A) 1960 B) 1914 C) 1970 D) 1950
+
+2. Independence means ___ ourselves.
+   A) ruling B) losing C) buying D) selling
+
+3. The first Prime Minister of Nigeria was ___.
+   A) Abubakar Tafawa Balewa B) Nnamdi Azikiwe C) Obafemi Awolowo D) Ahmadu Bello
+
+4. Nigeria became a republic in ___.
+   A) 1963 B) 1960 C) 1914 D) 1970
+
+5. Fill in: A country with its own chosen leaders is a _____.
+
+6. Mention two things you know about Nigeria's independence.
+
+7. Write what independence means.
+
+**My own work**
+
+• Draw the Nigerian flag and write "1960".
+
+
+---
+
 # General Knowledge
 
 These are the notes for the first term of Primary 2. They follow the NERDC
@@ -3829,6 +4443,192 @@ Answer in full sentences.
 43. What is software? Can we touch it? (2 marks)
 44. Name two uses of computers. (2 marks)
 45. Name two ways to care for the computer. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Our country is ___
+   A) Ghana
+   B) Kenya
+   C) Egypt
+   D) Nigeria
+2. Nigeria is in ___
+   A) Europe
+   B) America
+   C) Africa
+   D) Asia
+3. The capital of Nigeria is ___
+   A) Lagos
+   B) Abuja
+   C) Kano
+   D) Ibadan
+4. The money of Nigeria is the ___
+   A) Dollar
+   B) Rand
+   C) Cedi
+   D) Naira
+5. The three main tribes in Nigeria are Hausa, Yoruba and ___
+   A) Ashanti
+   B) Zulu
+   C) Igbo
+   D) Kikuyu
+6. A group of people with the same culture is a ___
+   A) tribe
+   B) river
+   C) stone
+   D) market
+7. The way of life of a people is ___
+   A) rain
+   B) noise
+   C) sleep
+   D) culture
+8. The official language of Nigeria is ___
+   A) Arabic
+   B) Latin
+   C) English
+   D) French
+9. A group of people living together is a ___
+   A) tree
+   B) community
+   C) stone
+   D) river
+10. The ___ people were known for their clay works
+   A) Nok
+   B) Kikuyu
+   C) Ashanti
+   D) Zulu
+11. The ___ people were known for bronze and art
+   A) Edo
+   B) Tiv
+   C) Ife
+   D) Nok
+12. A group of states under one ruler is an ___
+   A) island
+   B) empire
+   C) ocean
+   D) animal
+13. The chiefs of our people are ___ rulers
+   A) traditional
+   B) new
+   C) lost
+   D) foreign
+14. The ___ rules among the Yoruba
+   A) Sultan
+   B) Emir
+   C) Obi
+   D) Oba
+15. The ___ rules among the Igbo
+   A) Emir
+   B) Obi
+   C) Sultan
+   D) Oba
+16. Traditional rulers keep our culture and ___
+   A) noise
+   B) war
+   C) peace
+   D) anger
+17. A special day of joy is a ___
+   A) stone
+   B) river
+   C) tree
+   D) festival
+18. The Igbo have the ___ festival
+   A) New Yam
+   B) durbar
+   C) Egungun
+   D) Osun
+19. The Hausa have ___ festivals
+   A) Osun
+   B) Egungun
+   C) durbar
+   D) New Yam
+20. At festivals, people dance, sing and ___
+   A) sleep
+   B) feast
+   C) fight
+   D) cry
+21. Buying and selling is ___
+   A) trade
+   B) sleep
+   C) running
+   D) eating
+22. Exchanging goods for goods is ___
+   A) hiding
+   B) giving
+   C) stealing
+   D) barter
+23. People once used ___ as money
+   A) water
+   B) cowries
+   C) stones
+   D) leaves
+24. Traders travelled to ___ near and far
+   A) markets
+   B) trees
+   C) rivers only
+   D) mountains
+25. The time when Britain ruled Nigeria is ___ rule
+   A) federal
+   B) local
+   C) state
+   D) colonial
+26. At first, the British came to Nigeria to ___
+   A) sleep
+   B) eat
+   C) trade
+   D) fight
+27. Nigeria became a ___ of Britain
+   A) colony
+   B) king
+   C) river
+   D) stone
+28. The joining of the regions in 1914 is ___
+   A) barter
+   B) amalgamation
+   C) independence
+   D) festival
+29. Nigeria became independent on 1 October ___
+   A) 1950
+   B) 1914
+   C) 1970
+   D) 1960
+30. The first Prime Minister of Nigeria was ___
+   A) Nnamdi Azikiwe
+   B) Ahmadu Bello
+   C) Abubakar Tafawa Balewa
+   D) Obafemi Awolowo
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two things you know about Nigeria
+32. Name two tribes in Nigeria
+33. Name two early Nigerian communities
+34. Name two traditional rulers
+35. Name two festivals in Nigeria
+36. Name two things people traded in the past
+37. Name two things the British built
+38. Name two things you know about Nigeria's independence
+39. Name two Nigerian heroes
+40. Name two things traditional rulers do
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is the name of our country? Name two things about it. (2 marks)
+42. Name the three main tribes in Nigeria. (2 marks)
+43. Name two early Nigerian communities and what they were known for. (2 marks)
+44. What is a festival? Name one in Nigeria. (2 marks)
+45. When did Nigeria become independent? Who was the first Prime Minister? (2 marks)
 
 
 ---
