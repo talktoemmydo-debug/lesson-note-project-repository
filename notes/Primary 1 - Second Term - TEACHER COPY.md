@@ -1,6 +1,8 @@
 # Primary 1 — Second Term
 
-*Pupil's book · every subject offered to this class, every teaching week of the term.*
+**TEACHER COPY — not for pupils.** This file carries the term-paper keys, the answer texts and the marking points. Keep it out of the pupil's book and out of the classroom pile.
+
+*Teacher's edition · the pupil pages plus the keys and marking guidance.*
 
 **11 subjects · 97 lessons · 12 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
@@ -123,17 +125,17 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 8 — SAFETY AT HOME AND ON THE ROAD](#week-8-safety-at-home-and-on-the-road) · 73
   - [WEEK 9 — OUR FESTIVALS](#week-9-our-festivals) · 73
 - **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 2nd Term)](#examination-practice-basic-science-primary-1-2nd-term)** · 75
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-1-2nd-term)** · 77
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 2nd Term)](#examination-practice-christian-religious-studies-primary-1-2nd-term)** · 79
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-1-2nd-term)** · 81
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 2nd Term)](#examination-practice-nigerian-history-primary-1-2nd-term)** · 83
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 2nd Term)](#examination-practice-physical-and-health-education-primary-1-2nd-term)** · 85
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 2nd Term)](#examination-practice-prevocational-studies-primary-1-2nd-term)** · 87
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 2nd Term)](#examination-practice-social-and-citizenship-studies-primary-1-2nd-term)** · 89
-- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 2nd Term)](#examination-practice-yoruba-primary-1-2nd-term)** · 91
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 2nd Term)](#examination-practice-mathematics-english-english-language-primary-1-2nd-term)** · 93
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 2nd Term)](#examination-practice-mathematics-english-mathematics-primary-1-2nd-term)** · 95
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 2nd Term)](#examination-practice-general-knowledge-primary-1-2nd-term)** · 97
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-1-2nd-term)** · 78
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 2nd Term)](#examination-practice-christian-religious-studies-primary-1-2nd-term)** · 81
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-1-2nd-term)** · 84
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 2nd Term)](#examination-practice-nigerian-history-primary-1-2nd-term)** · 87
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 2nd Term)](#examination-practice-physical-and-health-education-primary-1-2nd-term)** · 90
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 2nd Term)](#examination-practice-prevocational-studies-primary-1-2nd-term)** · 93
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 2nd Term)](#examination-practice-social-and-citizenship-studies-primary-1-2nd-term)** · 96
+- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 2nd Term)](#examination-practice-yoruba-primary-1-2nd-term)** · 99
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 2nd Term)](#examination-practice-mathematics-english-english-language-primary-1-2nd-term)** · 102
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 2nd Term)](#examination-practice-mathematics-english-mathematics-primary-1-2nd-term)** · 105
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 2nd Term)](#examination-practice-general-knowledge-primary-1-2nd-term)** · 108
 
 
 
@@ -7626,6 +7628,61 @@ Answer in full sentences.
 45. Name two sources of water and two uses of water. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — root
+2. B — leaf
+3. D — soil
+4. A — flower
+5. B — domestic
+6. C — wild
+7. A — water
+8. B — milk
+9. D — eyes
+10. C — ears
+11. A — nose
+12. D — tongue
+13. C — germs
+14. B — water
+15. D — night
+16. C — food
+17. B — rain
+18. A — taste
+19. C — wash
+20. B — sick
+21. D — weather
+22. A — umbrella
+23. B — rainy
+24. D — sunny
+25. A — sun
+26. C — torch
+27. D — sound
+28. A — ears
+29. C — day
+30. B — moon
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. root; leaf; stem; flower
+32. water; sunlight; soil; air
+33. dog; cat; goat; hen
+34. lion; elephant; monkey
+35. eye; ear; nose; tongue; skin
+36. bathing; washing hands; brushing teeth
+37. tap; well; river; rain
+38. sunny; rainy; cloudy; windy
+39. sun; lamp; torch; candle
+40. sun; moon; stars; clouds
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -7810,6 +7867,61 @@ Answer in full sentences.
 43. What is modelling? Name two things we can mould. (2 marks)
 44. Name two local musical instruments and how each is played. (2 marks)
 45. What is drama? (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — yellow
+2. D — green
+3. C — orange
+4. A — green
+5. D — lines
+6. B — crayon
+7. C — inside
+8. D — neat
+9. A — soft
+10. B — sand
+11. D — animal
+12. C — model
+13. A — hands
+14. B — weave
+15. C — paste
+16. D — leaves
+17. B — hear
+18. A — song
+19. D — time
+20. C — clap
+21. B — instrument
+22. A — hand
+23. C — flute
+24. B — shekere
+25. A — music
+26. D — stamp
+27. C — beat
+28. A — acting
+29. B — role
+30. D — pretend
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. red; blue; yellow
+32. green; orange; purple
+33. people; animals; trees; houses
+34. pot; cup; animal
+35. mat; fan; bead chain; basket
+36. home; school; church
+37. drum; gong; shekere; flute
+38. clap; jump; turn; stamp
+39. voice; body; simple dress
+40. pencil; crayon; colour pencil
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -7998,6 +8110,61 @@ Answer in full sentences.
 45. What did Jesus say about the children? (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. B — Mary
+2. A — Bethlehem
+3. D — manger
+4. C — Son
+5. A — Bethlehem
+6. B — shepherds
+7. C — star
+8. A — myrrh
+9. B — Nazareth
+10. D — obedient
+11. C — temple
+12. A — John
+13. D — Jordan
+14. B — dove
+15. A — wilderness
+16. C — forty
+17. D — word of God
+18. B — disciple
+19. C — sea
+20. D — twelve
+21. B — Cana
+22. A — wine
+23. D — Mary
+24. B — first
+25. A — children
+26. C — away
+27. B — come
+28. A — blessed
+29. C — miracle
+30. D — children
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. Mary; Joseph; the baby Jesus
+32. gold; frankincense; myrrh
+33. helped at home; went to the temple; obeyed
+34. heavens opened; dove came down; a voice spoke
+35. stones to bread; jump from the temple; all the kingdoms
+36. Peter; Andrew; James; John
+37. Jesus; Mary; the disciples
+38. blessed them; took them in his arms
+39. Bethlehem; Nazareth; Cana
+40. "Let the little children come to me"; "Follow me"
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -8182,6 +8349,61 @@ Answer in full sentences.
 43. What does the space bar do? (2 marks)
 44. Name two drawing tools and what each does. (2 marks)
 45. Say two safe habits with the computer. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — desktop
+2. C — icon
+3. D — pointer
+4. A — open
+5. B — pointer
+6. C — click
+7. A — drag
+8. D — letter
+9. C — space bar
+10. B — backspace
+11. D — 0 to 9
+12. C — letter
+13. A — enter
+14. B — shift
+15. D — icon
+16. C — window
+17. B — save
+18. A — x
+19. C — pencil
+20. D — eraser
+21. A — fill
+22. B — colour
+23. D — learn
+24. A — learning program
+25. B — spelling
+26. C — grown-up
+27. D — dry
+28. B — gently
+29. A — strangers
+30. C — screen
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. icons; taskbar; pointer; background
+32. click; drag; double-click
+33. space bar; enter; shift; backspace
+34. letter keys; space bar; enter
+35. open; save; close
+36. pencil; brush; eraser; fill
+37. stories; learning games; lessons
+38. grown-up near; clean dry hands; press gently
+39. circle; square; triangle
+40. eat near it; pull wires; talk to strangers
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -8370,6 +8592,61 @@ Answer in full sentences.
 45. What do the green and white in the Nigerian flag stand for? (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — hero
+2. C — heroine
+3. B — kind
+4. A — people
+5. D — traditional
+6. C — Oba
+7. B — Obi
+8. A — Emir
+9. D — festival
+10. C — New Yam
+11. B — Eid
+12. D — drum
+13. C — craft
+14. A — baskets
+15. D — pots
+16. C — wood
+17. B — talking
+18. A — shekere
+19. D — Yoruba
+20. B — praises
+21. A — pounded
+22. C — sokoto
+23. D — head-tie
+24. A — gown
+25. C — West
+26. B — Niger
+27. A — Atlantic
+28. D — green
+29. B — land
+30. C — peace
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. fighting for freedom; leading well; teaching; helping people
+32. Oba; Obi; Emir
+33. New Yam; Eid; Christmas; masquerade
+34. woven cloth; mats; pots; carved wood; beads
+35. talking drum; gong; shekere; flute
+36. pounded yam; amala; rice; tuwo
+37. buba and sokoto; wrapper; flowing gown
+38. Niger; Chad; Cameroon; Benin
+39. flag; coat of arms; anthem; naira
+40. dance; sing; drum; wear special clothes
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -8554,6 +8831,61 @@ Answer in full sentences.
 43. What is a ball game? Name one. (2 marks)
 44. Why do we sleep? (2 marks)
 45. What is exercise? Name two good things it does. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — ground
+2. B — knees
+3. C — balls
+4. A — long
+5. B — hand
+6. D — holding
+7. C — both
+8. A — comes
+9. D — ball
+10. B — foot
+11. A — friend
+12. C — goal
+13. D — gymnastics
+14. B — balance
+15. A — mat
+16. C — stretch
+17. D — play
+18. B — strong
+19. C — early
+20. D — weak
+21. A — grow
+22. B — strong
+23. C — balanced
+24. A — water
+25. D — road
+26. B — hit
+27. A — warm
+28. D — body
+29. B — muscles
+30. C — sickness
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. long jump; high jump; one-foot jump
+32. throw; catch; kick
+33. football; handball; basketball
+34. roll; balance; stretch; hop
+35. sitting down; lying down; sleeping
+36. rice; yam; beans; fruits
+37. play in a safe place; do not push; warm up
+38. strong heart; strong muscles; keeps us from sickness
+39. sharp objects; rough play; playing on the road
+40. warm up; stretch
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -8742,6 +9074,61 @@ Answer in full sentences.
 45. Name two jobs in the community and what each does. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — garden
+2. C — seed
+3. B — seedling
+4. D — day
+5. A — weed
+6. C — water
+7. D — water
+8. A — ripe
+9. C — calf
+10. B — kid
+11. D — chick
+12. C — puppy
+13. B — eat
+14. A — slice
+15. D — salad
+16. C — hands
+17. A — sweep
+18. B — dustbin
+19. C — germs
+20. A — waste
+21. D — water
+22. B — clean
+23. A — thread
+24. C — needle
+25. D — button
+26. B — care
+27. A — job
+28. C — farmer
+29. D — tailor
+30. B — nurse
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. dig the soil; put the seed in; cover it; water it
+32. watering; weeding; protecting from pests
+33. cow and calf; goat and kid; hen and chick
+34. banana; orange; mango
+35. sweeping; picking up paper; washing the board
+36. bottle; tin; paper; old box
+37. a button; a small tear; a simple bag
+38. farming; teaching; tailoring; nursing
+39. needle; thread
+40. meat; milk; eggs; wool
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -8926,6 +9313,61 @@ Answer in full sentences.
 43. What is the capital of Nigeria, and what colour is the flag? (2 marks)
 44. Name two rights and two duties of a child. (2 marks)
 45. What is public property? Name one. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — neighbour
+2. D — play
+3. C — help
+4. B — greet
+5. A — extended
+6. D — cousins
+7. B — parents
+8. C — elders
+9. D — leader
+10. A — head teacher
+11. C — ruler
+12. B — order
+13. D — Nigeria
+14. A — West
+15. C — Abuja
+16. B — green
+17. D — right
+18. A — duty
+19. C — learn
+20. D — obey
+21. B — truth
+22. A — lie
+23. D — steal
+24. C — ours
+25. A — obedience
+26. B — respect
+27. D — leaders
+28. C — public
+29. A — damage
+30. B — clean
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. sharing; helping; speaking kindly
+32. uncle; aunt; cousin; grandparent
+33. traditional ruler; head teacher; religious leader
+34. flag; naira; Abuja; West Africa
+35. a name; food; shelter; to learn
+36. obey; learn well; help at home
+37. lie; steal; cheat
+38. greeting elders; saying please and thank you
+39. school; road; bridge; park; street light
+40. parents; teachers; leaders
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -9114,6 +9556,61 @@ Answer in full sentences.
 45. Name two actions in Yoruba. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — eleven
+2. C — twelve
+3. A — twenty
+4. D — thirteen
+5. B — clothes
+6. C — shoes
+7. D — cap
+8. B — trousers
+9. A — school
+10. C — teacher
+11. B — book
+12. A — pupil
+13. D — market
+14. C — money
+15. B — town
+16. A — road
+17. D — hospital
+18. C — work
+19. B — run
+20. A — eat
+21. C — read
+22. D — weather
+23. A — rain
+24. B — sun
+25. D — fruit
+26. C — banana
+27. B — orange
+28. A — plate
+29. D — cup
+30. C — home
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. mọ́kànlá; èjìlá; ogún
+32. aṣọ; bàtà; fìlà; ṣòkòtò
+33. ilé-ẹ̀kọ́; olùkọ́; ìwé
+34. food; clothes; vegetables; meat
+35. ọ̀nà; ilé ìwòsàn; ọjà
+36. sáré; jẹun; kà; sun
+37. òjò; oòrùn; afẹ́fẹ́
+38. ọ̀gẹ̀dẹ̀; ọ̀sàn; mángò
+39. awo; ife; ìkòkò
+40. ìgbà ọ̀gbẹ̀lẹ̀; ìgbà òjò
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -9298,6 +9795,61 @@ Answer in full sentences.
 43. What is the plural of "cat" and "child"? (2 marks)
 44. What is an adverb? Give two examples. (2 marks)
 45. Name two digraphs and a word for each. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. B — end
+2. A — ears
+3. C — words
+4. D — together
+5. A — black
+6. B — stop
+7. D — tree
+8. A — passage
+9. B — cat and hat
+10. C — care
+11. A — more
+12. D — s
+13. B — cats
+14. C — children
+15. A — hear
+16. D — fast
+17. B — full stop
+18. C — song
+19. A — rhyme
+20. D — words
+21. C — how
+22. B — quickly
+23. D — -ly
+24. C — one
+25. A — chin
+26. B — ship
+27. C — phone
+28. D — word
+29. A — quickly
+30. B — feet
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. beginning; middle; end
+32. black; stop; tree; spin
+33. cat and hat; dog and log; sun and run
+34. cats; books; dogs; children
+35. reads clearly; stops at the full stop; holds the book well
+36. Baa Baa Black Sheep; Twinkle Twinkle; Row Row Row Your Boat
+37. quickly; slowly; loudly; softly
+38. chin; ship; this; phone
+39. ch; sh; th; wh; ph
+40. listen; tell; act out
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -9486,6 +10038,61 @@ Answer in full sentences.
 45. What is half past 3? (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — again
+2. B — ×
+3. C — 6
+4. D — 10
+5. B — 12
+6. A — 25
+7. D — 10
+8. B — 15
+9. A — missing
+10. C — 3
+11. B — 3
+12. A — 4
+13. D — buy
+14. C — kobo
+15. B — 10
+16. D — count
+17. C — 5
+18. A — change
+19. D — 4
+20. C — save
+21. B — long
+22. A — ruler
+23. C — metres
+24. B — small
+25. D — time
+26. A — hour
+27. C — seven
+28. D — half
+29. B — 3:30
+30. A — twelve
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. 2 × 3 = 6; 5 × 2 = 10
+32. 5 × 2 = 10; 5 × 5 = 25
+33. 2 + □ = 5; 6 − □ = 2
+34. 50 kobo; 1 naira; 5 naira; 10 naira
+35. 2 + 3 = 5 naira; 10 − 6 = 4 naira
+36. pencil; ruler; table; rope
+37. ruler; metre rule; tape
+38. 3 o'clock; 6 o'clock; half past 4
+39. morning; afternoon; evening
+40. January; June; December
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -9670,3 +10277,58 @@ Answer in full sentences.
 43. What does a clock tell us? (2 marks)
 44. Name two foods you eat and why we eat. (2 marks)
 45. What is a festival? Name one in Nigeria. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — play
+2. C — honest
+3. B — helps
+4. A — turns
+5. D — seven
+6. C — twelve
+7. A — January
+8. B — December
+9. D — time
+10. C — hour
+11. A — 7
+12. B — evening
+13. C — weather
+14. D — sunny
+15. B — rainy
+16. C — umbrella
+17. D — soil
+18. A — beauty
+19. B — move
+20. D — fish
+21. A — grow
+22. C — energy
+23. B — mango
+24. A — eating
+25. D — harm
+26. C — sharp
+27. B — right
+28. A — stop
+29. C — celebration
+30. D — Christmas
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. sharing; helping; being kind; being honest
+32. Sunday; Monday; Friday
+33. January; June; December
+34. morning; afternoon; evening
+35. sunny; rainy; cloudy; windy
+36. tree; flower; grass; maize
+37. rice; yam; beans; pap
+38. look left and right; use the zebra crossing; obey the traffic light
+39. Eid; Christmas; New Yam festival
+40. fire; sharp objects; electric sockets
+41. 
+42. 
+43. 
+44. 
+45.
+

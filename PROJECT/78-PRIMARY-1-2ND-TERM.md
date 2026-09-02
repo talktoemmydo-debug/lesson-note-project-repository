@@ -28,7 +28,9 @@ Aloud · wk6 Songs, Rhymes and Oral Games · wk8 Introducing Adverbs · wk9 Phon
 | 8 | prevocational-studies | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · sheet_lint 0 · gates ok |
 | 9 | social-and-citizenship-studies | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · exempt from plates · gates ok |
 | 10 | yoruba | ✅ 9 notes (1-6, 8, 9, 11) · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · sheet_lint 0 · exempt from plates · gates ok |
-| 11 | mathematics-english | — (2 streams on the master topics above) |
+| 11 | mathematics-english | ✅ 2 streams (MATHEMATICS / ENGLISH LANGUAGE) on the master topics · 16 notes · 2 papers ✅ (30/10/5 each) · sheet_lint 0 · gates ok |
+
+**Primary 1 Second Term complete — 11 of 11.** Pupil book `notes/Primary 1 - Second Term.{md,docx}` and teacher copy `notes/Primary 1 - Second Term - TEACHER COPY.{md,docx}` built; `build_term_doc` 0 problems, "rule checks: all clear", 97 lessons, 12 papers, key shape A=92 B=89 C=89 D=90. Figures not yet embedded (plates are the backfill phase).
 
 The five plate exemptions (Yoruba, General Knowledge, Nigerian History, Social & Citizenship Studies, CRS)
 carry no plates in any term — they sit in `tools/backfill_ledger.py` EXEMPT.
