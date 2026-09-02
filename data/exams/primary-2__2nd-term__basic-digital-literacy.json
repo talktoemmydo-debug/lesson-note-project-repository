@@ -1,0 +1,387 @@
+{
+ "subject": "Basic Digital Literacy",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "What we see on the screen is the ___",
+   "answer": "interface",
+   "distractors": [
+    "keyboard",
+    "mouse",
+    "wire"
+   ]
+  },
+  {
+   "stem": "A small picture we click is an ___",
+   "answer": "icon",
+   "distractors": [
+    "wire",
+    "key",
+    "plug"
+   ]
+  },
+  {
+   "stem": "We can make the pictures bigger or ___",
+   "answer": "smaller",
+   "distractors": [
+    "heavier",
+    "louder",
+    "hotter"
+   ]
+  },
+  {
+   "stem": "Changing the screen is called ___",
+   "answer": "customizing",
+   "distractors": [
+    "breaking",
+    "washing",
+    "burning"
+   ]
+  },
+  {
+   "stem": "Where we keep our work on a computer is a ___",
+   "answer": "file",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Each file has a ___",
+   "answer": "name",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We ___ a file to see what is inside",
+   "answer": "open",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ our work in a file",
+   "answer": "save",
+   "distractors": [
+    "lose",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "A box that holds files is a ___",
+   "answer": "folder",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We keep files in folders to be ___",
+   "answer": "tidy",
+   "distractors": [
+    "messy",
+    "dirty",
+    "lost"
+   ]
+  },
+  {
+   "stem": "Keeping files in folders helps us ___ them",
+   "answer": "find",
+   "distractors": [
+    "lose",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ a file we do not need",
+   "answer": "delete",
+   "distractors": [
+    "keep",
+    "wash",
+    "eat"
+   ]
+  },
+  {
+   "stem": "What we make on a computer is ___ content",
+   "answer": "digital",
+   "distractors": [
+    "paper",
+    "stone",
+    "water"
+   ]
+  },
+  {
+   "stem": "We can draw pictures on the ___",
+   "answer": "computer",
+   "distractors": [
+    "sky",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We use a ___ tool to draw",
+   "answer": "drawing",
+   "distractors": [
+    "cooking",
+    "washing",
+    "burning"
+   ]
+  },
+  {
+   "stem": "We ___ what we make",
+   "answer": "save",
+   "distractors": [
+    "lose",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We use the ___ to type",
+   "answer": "keyboard",
+   "distractors": [
+    "mouse only",
+    "screen",
+    "wire"
+   ]
+  },
+  {
+   "stem": "We type letters and ___",
+   "answer": "numbers",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "A piece of writing on the computer is a ___",
+   "answer": "document",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We can ___ our document on paper",
+   "answer": "print",
+   "distractors": [
+    "burn",
+    "wash",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We keep the computer away from ___",
+   "answer": "water",
+   "distractors": [
+    "air",
+    "light",
+    "sound"
+   ]
+  },
+  {
+   "stem": "We use a ___ to keep our work safe",
+   "answer": "password",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "A password is a ___ word",
+   "answer": "secret",
+   "distractors": [
+    "loud",
+    "public",
+    "long"
+   ]
+  },
+  {
+   "stem": "We do not talk to ___ online",
+   "answer": "strangers",
+   "distractors": [
+    "teachers",
+    "parents",
+    "friends"
+   ]
+  },
+  {
+   "stem": "The network that joins computers worldwide is the ___",
+   "answer": "internet",
+   "distractors": [
+    "river",
+    "road",
+    "sky"
+   ]
+  },
+  {
+   "stem": "We use the internet with a ___ near",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "thief",
+    "baby"
+   ]
+  },
+  {
+   "stem": "We do not share our name or ___ online",
+   "answer": "address",
+   "distractors": [
+    "song",
+    "dream",
+    "stone"
+   ]
+  },
+  {
+   "stem": "We are ___ to others online",
+   "answer": "kind",
+   "distractors": [
+    "rude",
+    "angry",
+    "cruel"
+   ]
+  },
+  {
+   "stem": "We keep our information ___",
+   "answer": "private",
+   "distractors": [
+    "public",
+    "loud",
+    "lost"
+   ]
+  },
+  {
+   "stem": "We do not ___ anyone online",
+   "answer": "bully",
+   "distractors": [
+    "help",
+    "teach",
+    "sing to"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things we see on the screen ",
+   "points": [
+    "icons",
+    "menus",
+    "buttons",
+    "pictures"
+   ]
+  },
+  {
+   "stem": "Name two things we keep in files ",
+   "points": [
+    "pictures",
+    "writing",
+    "songs"
+   ]
+  },
+  {
+   "stem": "Name two things we do with files ",
+   "points": [
+    "open",
+    "close",
+    "save",
+    "delete"
+   ]
+  },
+  {
+   "stem": "Name two things we can make on a computer ",
+   "points": [
+    "pictures",
+    "writing",
+    "music",
+    "documents"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep the computer safe ",
+   "points": [
+    "keep it away from water",
+    "do not eat near it",
+    "handle with care"
+   ]
+  },
+  {
+   "stem": "Name two rules for safe internet use ",
+   "points": [
+    "use it with a grown-up",
+    "do not talk to strangers",
+    "do not share your name"
+   ]
+  },
+  {
+   "stem": "Name two ways to be safe online ",
+   "points": [
+    "keep information private",
+    "use strong passwords",
+    "ask a grown-up"
+   ]
+  },
+  {
+   "stem": "Name two things we use to type ",
+   "points": [
+    "keyboard",
+    "letters",
+    "numbers"
+   ]
+  },
+  {
+   "stem": "Name two things a folder holds ",
+   "points": [
+    "files",
+    "other folders"
+   ]
+  },
+  {
+   "stem": "Name two things we do to be kind online ",
+   "points": [
+    "do not bully",
+    "say nice things"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is an interface? Name two things we see on the screen.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a file? Why do we name it?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a folder? Why do we use folders?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is digital content? Name two things we can make.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two rules for safe internet use.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
