@@ -1,0 +1,55 @@
+# Yoruba — Primary 2 · First Term · term paper
+subject: Yoruba
+class: Primary 2
+term: 1st Term
+
+[objective]
+5 in Yoruba is ___ || àrún || ọ̀kan || èjì || ẹ̀wá
+10 in Yoruba is ___ || ẹ̀wá || ogún || ẹ̀ta || ẹ̀fà
+20 in Yoruba is ___ || ogún || ọ̀kan || àrún || ẹ̀jọ
+3 in Yoruba is ___ || ẹ̀ta || ẹ̀fà || èje || ẹ̀jọ
+Red in Yoruba is ___ || pupa || búlùù || dúdú || funfun
+Blue in Yoruba is ___ || búlùù || pupa || yélò || dúdú
+Black in Yoruba is ___ || dúdú || funfun || pupa || yélò
+White in Yoruba is ___ || funfun || dúdú || pupa || búlùù
+Head in Yoruba is ___ || orí || ojú || etí || imú
+Eye in Yoruba is ___ || ojú || orí || ẹnu || ọwọ́
+Hand in Yoruba is ___ || ọwọ́ || ẹsẹ̀ || etí || imú
+Leg in Yoruba is ___ || ẹsẹ̀ || ọwọ́ || orí || ẹnu
+Yam in Yoruba is ___ || iṣu || omi || ẹja || wàrà
+Water in Yoruba is ___ || omi || iṣu || ẹran || ọkà
+Fish in Yoruba is ___ || ẹja || ẹ̀wà || ìrèsí || ẹ̀fọ́
+Good food makes us ___ and healthy || strong || weak || sick || sad
+Dog in Yoruba is ___ || ajá || olóngbò || erin || ẹṣin
+Cat in Yoruba is ___ || olóngbò || ajá || ehoro || ewúrẹ́
+Elephant in Yoruba is ___ || erin || kìnìún || màlúù || adìẹ
+Chicken in Yoruba is ___ || adìẹ || ẹyẹ || ẹja || ehoro
+Home in Yoruba is ___ || ilé || ọjà || ọ̀run || omi
+Door in Yoruba is ___ || ìlékùn || fèrèsé || àga || tábìlì
+Chair in Yoruba is ___ || àga || tábìlì || èrè || èní
+Kitchen in Yoruba is ___ || ìdáná || yàrá || fèrèsé || ìkòkò
+Words we sing are ___ || orin || òwe || ìtàn || eré
+We sing ___ to babies || lullabies || angry words || lies || noise
+Songs make us ___ || happy || sad || angry || sick
+We sing with a good ___ and joy || voice || noise || shout || cry
+A story in Yoruba is ___ || ìtàn || orin || òwe || eré
+Folk stories about animals are ___ || àlọ́ || orin || òwe || ọ̀rọ̀
+
+[subobjective]
+Name five numbers in Yoruba :: ọ̀kan | èjì | ẹ̀ta | ẹ̀rin | àrún
+Name three colours in Yoruba :: pupa | búlùù | dúdú | funfun | yélò
+Name three parts of the body in Yoruba :: orí | ojú | ọwọ́ | ẹsẹ̀ | etí
+Name three foods in Yoruba :: iṣu | ọkà | ìrèsí | ẹ̀wà | ẹja
+Name three animals in Yoruba :: ajá | olóngbò | erin | adìẹ | ewúrẹ́
+Name three things at home in Yoruba :: ìlékùn | àga | tábìlì | ìkòkò
+Name two kinds of songs :: lullabies | play songs | praise songs
+Name one story you know :: any folk tale | any Bible story
+Name two things animals give us :: food | milk | eggs | meat
+Name two things stories teach us :: lessons | wisdom | culture
+
+[theory]
+Say 1 to 10 in Yoruba. || 2
+Name three colours in Yoruba. || 2
+Name three parts of the body in Yoruba. || 2
+Name three foods in Yoruba. || 2
+What is a story? Name one you know. || 2

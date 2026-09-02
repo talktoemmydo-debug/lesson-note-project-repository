@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 9 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 10 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*9 subjects · 73 lessons · 9 term practice papers. Each part begins on a fresh page.*
+*10 subjects · 81 lessons · 10 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — LIVING AND NON-LIVING THINGS](#week-1-living-and-non-living-things) · 3
@@ -87,24 +87,34 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 8 — OUR CULTURE AND CUSTOMS](#week-8-our-culture-and-customs) · 49
   - [WEEK 9 — CARING FOR OUR COMMUNITY](#week-9-caring-for-our-community) · 49
   - [WEEK 12 — BEING A GOOD CITIZEN](#week-12-being-a-good-citizen) · 50
-- **[General Knowledge](#general-knowledge)** · 52
-  - [WEEK 1 — STATES AND CAPITALS I: NORTH-CENTRAL AND NORTH-WEST](#week-1-states-and-capitals-i-north-central-and-north-west) · 52
-  - [WEEK 2 — STATES AND CAPITALS II: NORTH-EAST AND SOUTH-SOUTH](#week-2-states-and-capitals-ii-north-east-and-south-south) · 52
-  - [WEEK 3 — STATES AND CAPITALS III: SOUTH-EAST, SOUTH-WEST AND FCT](#week-3-states-and-capitals-iii-south-east-south-west-and-fct) · 53
-  - [WEEK 4 — HOW WE ARE GOVERNED: LOCAL, STATE, FEDERAL](#week-4-how-we-are-governed-local-state-federal) · 54
-  - [WEEK 5 — OUR LEADERS TODAY (CURRENT AFFAIRS I)](#week-5-our-leaders-today-current-affairs-i) · 55
-  - [WEEK 6 — NATIONAL SYMBOLS II: MEANINGS AND PROPER USE](#week-6-national-symbols-ii-meanings-and-proper-use) · 55
-  - [WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE](#week-8-nigerian-history-ii-colonial-era-and-independence) · 56
-  - [WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID](#week-9-nigerian-heroes-who-they-were-and-what-they-did) · 57
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 58
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 60
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 62
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 64
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)](#examination-practice-nigerian-history-primary-2-1st-term)** · 66
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 1st Term)](#examination-practice-physical-and-health-education-primary-2-1st-term)** · 68
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 1st Term)](#examination-practice-prevocational-studies-primary-2-1st-term)** · 70
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-2-1st-term)** · 72
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 74
+- **[Yoruba](#yoruba)** · 52
+  - [WEEK 1 — KÍKÀ (COUNTING)](#week-1-kíkà-counting) · 52
+  - [WEEK 2 — ÀWỌ̀ (COLOURS)](#week-2-àwọ-colours) · 52
+  - [WEEK 3 — Ẹ̀YÀ ARA (PARTS OF THE BODY)](#week-3-ẹyà-ara-parts-of-the-body) · 53
+  - [WEEK 4 — OÚNJẸ (FOOD)](#week-4-oúnjẹ-food) · 54
+  - [WEEK 5 — ẸRANKO (ANIMALS)](#week-5-ẹranko-animals) · 54
+  - [WEEK 6 — ILÉ ÀTI OHUN ÈLÒ (HOME AND THINGS)](#week-6-ilé-àti-ohun-èlò-home-and-things) · 55
+  - [WEEK 8 — ORIN (SONGS)](#week-8-orin-songs) · 56
+  - [WEEK 9 — ÌTÀN (STORIES)](#week-9-ìtàn-stories) · 56
+- **[General Knowledge](#general-knowledge)** · 58
+  - [WEEK 1 — STATES AND CAPITALS I: NORTH-CENTRAL AND NORTH-WEST](#week-1-states-and-capitals-i-north-central-and-north-west) · 58
+  - [WEEK 2 — STATES AND CAPITALS II: NORTH-EAST AND SOUTH-SOUTH](#week-2-states-and-capitals-ii-north-east-and-south-south) · 58
+  - [WEEK 3 — STATES AND CAPITALS III: SOUTH-EAST, SOUTH-WEST AND FCT](#week-3-states-and-capitals-iii-south-east-south-west-and-fct) · 59
+  - [WEEK 4 — HOW WE ARE GOVERNED: LOCAL, STATE, FEDERAL](#week-4-how-we-are-governed-local-state-federal) · 60
+  - [WEEK 5 — OUR LEADERS TODAY (CURRENT AFFAIRS I)](#week-5-our-leaders-today-current-affairs-i) · 61
+  - [WEEK 6 — NATIONAL SYMBOLS II: MEANINGS AND PROPER USE](#week-6-national-symbols-ii-meanings-and-proper-use) · 61
+  - [WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE](#week-8-nigerian-history-ii-colonial-era-and-independence) · 62
+  - [WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID](#week-9-nigerian-heroes-who-they-were-and-what-they-did) · 63
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 64
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 66
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 68
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 70
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)](#examination-practice-nigerian-history-primary-2-1st-term)** · 72
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 1st Term)](#examination-practice-physical-and-health-education-primary-2-1st-term)** · 74
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 1st Term)](#examination-practice-prevocational-studies-primary-2-1st-term)** · 76
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-2-1st-term)** · 78
+- **[EXAMINATION PRACTICE — YORUBA (Primary 2 · 1st Term)](#examination-practice-yoruba-primary-2-1st-term)** · 80
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 82
 
 
 
@@ -5018,6 +5028,598 @@ written for them.
 
 ---
 
+# Yoruba
+
+These are the notes for the first term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Yoruba · First Term W1-6, 8-9 (kíkà; àwọ̀; ẹ̀yà ara; oúnjẹ; ẹranko; ilé àti ohun èlò; orin; ìtàn).*
+
+
+### WEEK 1 — KÍKÀ (COUNTING)
+
+**You will learn to**
+
+• count in Yoruba to 20
+
+• say numbers in Yoruba
+
+• count things
+
+**Things to know**
+
+• We can count in **Yoruba** from 1 to 20.
+
+• 1 = **ọ̀kan**, 2 = **èjì**, 3 = **ẹ̀ta**, 4 = **ẹ̀rin**, 5 = **àrún**.
+
+• 6 = **ẹ̀fà**, 7 = **èje**, 8 = **ẹ̀jọ**, 9 = **ẹ̀sán**, 10 = **ẹ̀wá**.
+
+• 11 = **ọ̀kànlá**, 12 = **èjìlá**, 13 = **ẹ̀tàlá**, 14 = **ẹ̀rìnlá**, 15 = **ẹ̀ẹ́dógún**.
+
+• 16 = **ẹ̀rìndínlógún**, 17 = **ètàdínlógún**, 18 = **eéjìdínlógún**, 19 = **ọ̀kàndínlógún**, 20 = **ogún**.
+
+• We count things at home and market.
+
+• Counting helps us in trade and school.
+
+• We count in Yoruba every day.
+
+**Let us talk**
+
+1. Say 1 to 10 in Yoruba.
+
+2. What is 20 in Yoruba?
+
+3. Why do we count?
+
+**Words for my notebook**
+
+• kíkà — counting
+
+• nọ́mbà — number
+
+• ogún — twenty
+
+**Worksheet**
+
+1. 5 in Yoruba is ___.
+   A) àrún B) ọ̀kan C) èjì D) ẹ̀wá
+
+2. 10 in Yoruba is ___.
+   A) ẹ̀wá B) ogún C) ẹ̀ta D) ẹ̀fà
+
+3. 20 in Yoruba is ___.
+   A) ogún B) ọ̀kan C) àrún D) ẹ̀jọ
+
+4. 3 in Yoruba is ___.
+   A) ẹ̀ta B) ẹ̀fà C) èje D) ẹ̀jọ
+
+5. Fill in: 1 in Yoruba is _____.
+
+6. Mention five numbers in Yoruba.
+
+7. Write what 10 is in Yoruba.
+
+**My own work**
+
+• Write and trace the numbers 1 to 10 in Yoruba.
+
+---
+
+### WEEK 2 — ÀWỌ̀ (COLOURS)
+
+**You will learn to**
+
+• name colours in Yoruba
+
+• say the colour of things
+
+• use colours
+
+**Things to know**
+
+• **Colours** in Yoruba are **àwọ̀**.
+
+• **Pupa** is red.
+
+• **Búlùù** is blue.
+
+• **Yélò** is yellow.
+
+• **Àwọ̀ ewé** is green.
+
+• **Dúdú** is black.
+
+• **Funfun** is white.
+
+• We see colours all around us.
+
+• The sky is **búlùù**; the leaf is **àwọ̀ ewé**.
+
+• Colours make things beautiful.
+
+**Let us talk**
+
+1. What is red in Yoruba?
+
+2. What colour is the sky?
+
+3. Name one colour in Yoruba.
+
+**Words for my notebook**
+
+• àwọ̀ — colour
+
+• pupa — red
+
+• dúdú — black
+
+**Worksheet**
+
+1. Red in Yoruba is ___.
+   A) pupa B) búlùù C) dúdú D) funfun
+
+2. Blue in Yoruba is ___.
+   A) búlùù B) pupa C) yélò D) dúdú
+
+3. Black in Yoruba is ___.
+   A) dúdú B) funfun C) pupa D) yélò
+
+4. White in Yoruba is ___.
+   A) funfun B) dúdú C) pupa D) búlùù
+
+5. Fill in: Yellow in Yoruba is _____.
+
+6. Mention three colours in Yoruba.
+
+7. Write what red is in Yoruba.
+
+**My own work**
+
+• Colour a picture with three colours.
+
+---
+
+### WEEK 3 — Ẹ̀YÀ ARA (PARTS OF THE BODY)
+
+**You will learn to**
+
+• name parts of the body in Yoruba
+
+• say what each part does
+
+• care for the body
+
+**Things to know**
+
+• The parts of the body in Yoruba are **ẹ̀yà ara**.
+
+• **Orí** is head; **ojú** is eye.
+
+• **Etí** is ear; **imú** is nose.
+
+• **Ẹnu** is mouth; **ehín** is tooth.
+
+• **Ọwọ́** is hand; **ẹsẹ̀** is leg.
+
+• **Ìka** is finger; **orùn** is neck.
+
+• We use our body parts every day.
+
+• We care for our body.
+
+• Our body parts help us work and play.
+
+**Let us talk**
+
+1. What is head in Yoruba?
+
+2. Name one part of the body in Yoruba.
+
+3. How do we care for the body?
+
+**Words for my notebook**
+
+• ẹ̀yà ara — parts of the body
+
+• orí — head
+
+• ọwọ́ — hand
+
+**Worksheet**
+
+1. Head in Yoruba is ___.
+   A) orí B) ojú C) etí D) imú
+
+2. Eye in Yoruba is ___.
+   A) ojú B) orí C) ẹnu D) ọwọ́
+
+3. Hand in Yoruba is ___.
+   A) ọwọ́ B) ẹsẹ̀ C) etí D) imú
+
+4. Leg in Yoruba is ___.
+   A) ẹsẹ̀ B) ọwọ́ C) orí D) ẹnu
+
+5. Fill in: Ear in Yoruba is _____.
+
+6. Mention three parts of the body in Yoruba.
+
+7. Write what head is in Yoruba.
+
+**My own work**
+
+• Draw a person and label three parts in Yoruba.
+
+---
+
+### WEEK 4 — OÚNJẸ (FOOD)
+
+**You will learn to**
+
+• name foods in Yoruba
+
+• say what we eat
+
+• eat good food
+
+**Things to know**
+
+• We eat different **foods** (oúnjẹ).
+
+• We eat **iṣu** (yam), **ọkà** (maize) and **ìrèsí** (rice).
+
+• We eat **àkàrà** (bean cake) and **mòí-mòí**.
+
+• We eat **ẹ̀wà** (beans) and **ẹ̀fọ́** (vegetables).
+
+• We drink **omi** (water) and **wàrà** (milk).
+
+• We eat **ẹja** (fish) and **ẹran** (meat).
+
+• Good food makes us **strong** and healthy.
+
+• We wash our hands before eating.
+
+• We do not waste food.
+
+• Eating good food is important.
+
+**Let us talk**
+
+1. Name one food in Yoruba.
+
+2. What do we drink?
+
+3. Why do we eat good food?
+
+**Words for my notebook**
+
+• oúnjẹ — food
+
+• omi — water
+
+• iṣu — yam
+
+**Worksheet**
+
+1. Yam in Yoruba is ___.
+   A) iṣu B) omi C) ẹja D) wàrà
+
+2. Water in Yoruba is ___.
+   A) omi B) iṣu C) ẹran D) ọkà
+
+3. Fish in Yoruba is ___.
+   A) ẹja B) ẹ̀wà C) ìrèsí D) ẹ̀fọ́
+
+4. Good food makes us ___ and healthy.
+   A) strong B) weak C) sick D) sad
+
+5. Fill in: Beans in Yoruba is _____.
+
+6. Mention three foods in Yoruba.
+
+7. Write why we eat good food.
+
+**My own work**
+
+• Draw a plate of food you like.
+
+---
+
+### WEEK 5 — ẸRANKO (ANIMALS)
+
+**You will learn to**
+
+• name animals in Yoruba
+
+• say what animals do
+
+• care for animals
+
+**Things to know**
+
+• Animals in Yoruba are **ẹranko**.
+
+• **Ajá** is dog, **olóngbò** is cat, **ehoro** is rabbit.
+
+• **Erin** is elephant, **kìnìún** is lion, **àgùtàn** is sheep.
+
+• **Ewúrẹ́** is goat, **màlúù** is cow, **ẹṣin** is horse.
+
+• **Adìẹ** is chicken, **ẹyẹ** is bird, **ẹja** is fish.
+
+• Some animals live at home, some in the bush.
+
+• Animals give us food and help.
+
+• We care for animals and do not hurt them.
+
+• We can name many animals in Yoruba.
+
+**Let us talk**
+
+1. What is dog in Yoruba?
+
+2. Name one animal in Yoruba.
+
+3. How do we care for animals?
+
+**Words for my notebook**
+
+• ẹranko — animal
+
+• ajá — dog
+
+• adìẹ — chicken
+
+**Worksheet**
+
+1. Dog in Yoruba is ___.
+   A) ajá B) olóngbò C) erin D) ẹṣin
+
+2. Cat in Yoruba is ___.
+   A) olóngbò B) ajá C) ehoro D) ewúrẹ́
+
+3. Elephant in Yoruba is ___.
+   A) erin B) kìnìún C) màlúù D) adìẹ
+
+4. Chicken in Yoruba is ___.
+   A) adìẹ B) ẹyẹ C) ẹja D) ehoro
+
+5. Fill in: Goat in Yoruba is _____.
+
+6. Mention three animals in Yoruba.
+
+7. Write how we care for animals.
+
+**My own work**
+
+• Draw an animal and write its Yoruba name.
+
+---
+
+### WEEK 6 — ILÉ ÀTI OHUN ÈLÒ (HOME AND THINGS)
+
+**You will learn to**
+
+• name parts of the home in Yoruba
+
+• name things at home
+
+• care for our home
+
+**Things to know**
+
+• The **home** in Yoruba is **ilé**.
+
+• The **door** is **ìlékùn**; the **window** is **fèrèsé**.
+
+• The **room** is **yàrá**; the **kitchen** is **ìdáná**.
+
+• The **chair** is **àga**; the **table** is **tábìlì**.
+
+• The **bed** is **èrè**; the **mat** is **èní**.
+
+• The **pot** is **ìkòkò**; the **cup** is **ifé**.
+
+• We use these things every day.
+
+• We keep our home **clean**.
+
+• We care for the things at home.
+
+• A clean home is a happy home.
+
+**Let us talk**
+
+1. What is home in Yoruba?
+
+2. Name one thing at home in Yoruba.
+
+3. How do we care for our home?
+
+**Words for my notebook**
+
+• ilé — home
+
+• ìlékùn — door
+
+• àga — chair
+
+**Worksheet**
+
+1. Home in Yoruba is ___.
+   A) ilé B) ọjà C) ọ̀run D) omi
+
+2. Door in Yoruba is ___.
+   A) ìlékùn B) fèrèsé C) àga D) tábìlì
+
+3. Chair in Yoruba is ___.
+   A) àga B) tábìlì C) èrè D) èní
+
+4. Kitchen in Yoruba is ___.
+   A) ìdáná B) yàrá C) fèrèsé D) ìkòkò
+
+5. Fill in: Window in Yoruba is _____.
+
+6. Mention three things at home in Yoruba.
+
+7. Write what home is in Yoruba.
+
+**My own work**
+
+• Draw your home and label two things.
+
+---
+
+### WEEK 8 — ORIN (SONGS)
+
+**You will learn to**
+
+• sing Yoruba songs
+
+• name songs we sing
+
+• sing with joy
+
+**Things to know**
+
+• **Songs** (orin) are words we sing.
+
+• We sing songs at home, school and festivals.
+
+• We sing **lullabies** to babies.
+
+• We sing **play songs** when we play.
+
+• We sing **praise songs** to honour people.
+
+• Songs make us **happy**.
+
+• Songs teach us our language and culture.
+
+• We sing with a good voice and joy.
+
+• Yoruba songs are sweet and meaningful.
+
+**Let us talk**
+
+1. What is a song?
+
+2. Name one song you know.
+
+3. When do we sing songs?
+
+**Words for my notebook**
+
+• orin — song
+
+• ohùn — voice
+
+• ayọ̀ — joy
+
+**Worksheet**
+
+1. Words we sing are ___.
+   A) orin B) òwe C) ìtàn D) eré
+
+2. We sing ___ to babies.
+   A) lullabies B) angry words C) lies D) noise
+
+3. Songs make us ___.
+   A) happy B) sad C) angry D) sick
+
+4. We sing with a good ___ and joy.
+   A) voice B) noise C) shout D) cry
+
+5. Fill in: Joy in Yoruba is _____.
+
+6. Mention two kinds of songs.
+
+7. Write what a song is.
+
+**My own work**
+
+• Trace and write the words of a song you know.
+
+---
+
+### WEEK 9 — ÌTÀN (STORIES)
+
+**You will learn to**
+
+• listen to stories
+
+• tell simple stories
+
+• learn from stories
+
+**Things to know**
+
+• A **story** (ìtàn) tells us about people and events.
+
+• We have **folk stories** (àlọ́) about animals and people.
+
+• Stories teach us **lessons**.
+
+• We listen to stories from our **elders**.
+
+• We can tell stories to our friends.
+
+• Stories can be **true** or **made up**.
+
+• Stories make us think and learn.
+
+• We enjoy stories at home and school.
+
+• Telling stories is part of our culture.
+
+**Let us talk**
+
+1. What is a story?
+
+2. Name one story you know.
+
+3. What do stories teach us?
+
+**Words for my notebook**
+
+• ìtàn — story
+
+• àlọ́ — folk tale
+
+• ẹ̀kọ́ — lesson
+
+**Worksheet**
+
+1. A story in Yoruba is ___.
+   A) ìtàn B) orin C) òwe D) eré
+
+2. Folk stories about animals are ___.
+   A) àlọ́ B) orin C) òwe D) ọ̀rọ̀
+
+3. Stories teach us ___.
+   A) lessons B) anger C) noise D) lies
+
+4. We listen to stories from our ___.
+   A) elders B) babies C) stones D) rivers
+
+5. Fill in: A folk tale in Yoruba is _____.
+
+6. Mention one story you know.
+
+7. Write what a story is.
+
+**My own work**
+
+• Draw a scene from a story you know.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the first term of Primary 2. They follow the NERDC
@@ -7104,6 +7706,192 @@ Answer in full sentences.
 43. What are rules? Name two rules at school. (2 marks)
 44. Name two rights we have and two duties we have. (2 marks)
 45. Who is a good citizen? Name one thing a good citizen does. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — YORUBA (Primary 2 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. 5 in Yoruba is ___
+   A) àrún
+   B) ẹ̀wá
+   C) èjì
+   D) ọ̀kan
+2. 10 in Yoruba is ___
+   A) ẹ̀ta
+   B) ogún
+   C) ẹ̀fà
+   D) ẹ̀wá
+3. 20 in Yoruba is ___
+   A) ọ̀kan
+   B) ogún
+   C) àrún
+   D) ẹ̀jọ
+4. 3 in Yoruba is ___
+   A) ẹ̀ta
+   B) ẹ̀jọ
+   C) ẹ̀fà
+   D) èje
+5. Red in Yoruba is ___
+   A) búlùù
+   B) dúdú
+   C) funfun
+   D) pupa
+6. Blue in Yoruba is ___
+   A) dúdú
+   B) pupa
+   C) búlùù
+   D) yélò
+7. Black in Yoruba is ___
+   A) funfun
+   B) dúdú
+   C) pupa
+   D) yélò
+8. White in Yoruba is ___
+   A) dúdú
+   B) búlùù
+   C) pupa
+   D) funfun
+9. Head in Yoruba is ___
+   A) orí
+   B) imú
+   C) ojú
+   D) etí
+10. Eye in Yoruba is ___
+   A) ẹnu
+   B) ọwọ́
+   C) ojú
+   D) orí
+11. Hand in Yoruba is ___
+   A) imú
+   B) ọwọ́
+   C) etí
+   D) ẹsẹ̀
+12. Leg in Yoruba is ___
+   A) ẹnu
+   B) ọwọ́
+   C) orí
+   D) ẹsẹ̀
+13. Yam in Yoruba is ___
+   A) wàrà
+   B) ẹja
+   C) iṣu
+   D) omi
+14. Water in Yoruba is ___
+   A) omi
+   B) iṣu
+   C) ẹran
+   D) ọkà
+15. Fish in Yoruba is ___
+   A) ẹ̀fọ́
+   B) ẹja
+   C) ìrèsí
+   D) ẹ̀wà
+16. Good food makes us ___ and healthy
+   A) sick
+   B) sad
+   C) weak
+   D) strong
+17. Dog in Yoruba is ___
+   A) ajá
+   B) ẹṣin
+   C) erin
+   D) olóngbò
+18. Cat in Yoruba is ___
+   A) ewúrẹ́
+   B) ajá
+   C) olóngbò
+   D) ehoro
+19. Elephant in Yoruba is ___
+   A) kìnìún
+   B) erin
+   C) adìẹ
+   D) màlúù
+20. Chicken in Yoruba is ___
+   A) ẹja
+   B) ẹyẹ
+   C) ehoro
+   D) adìẹ
+21. Home in Yoruba is ___
+   A) omi
+   B) ọ̀run
+   C) ilé
+   D) ọjà
+22. Door in Yoruba is ___
+   A) ìlékùn
+   B) àga
+   C) tábìlì
+   D) fèrèsé
+23. Chair in Yoruba is ___
+   A) tábìlì
+   B) àga
+   C) èní
+   D) èrè
+24. Kitchen in Yoruba is ___
+   A) fèrèsé
+   B) yàrá
+   C) ìdáná
+   D) ìkòkò
+25. Words we sing are ___
+   A) eré
+   B) òwe
+   C) ìtàn
+   D) orin
+26. We sing ___ to babies
+   A) lullabies
+   B) angry words
+   C) noise
+   D) lies
+27. Songs make us ___
+   A) sad
+   B) happy
+   C) sick
+   D) angry
+28. We sing with a good ___ and joy
+   A) cry
+   B) noise
+   C) voice
+   D) shout
+29. A story in Yoruba is ___
+   A) ìtàn
+   B) orin
+   C) òwe
+   D) eré
+30. Folk stories about animals are ___
+   A) orin
+   B) ọ̀rọ̀
+   C) òwe
+   D) àlọ́
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name five numbers in Yoruba
+32. Name three colours in Yoruba
+33. Name three parts of the body in Yoruba
+34. Name three foods in Yoruba
+35. Name three animals in Yoruba
+36. Name three things at home in Yoruba
+37. Name two kinds of songs
+38. Name one story you know
+39. Name two things animals give us
+40. Name two things stories teach us
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. Say 1 to 10 in Yoruba. (2 marks)
+42. Name three colours in Yoruba. (2 marks)
+43. Name three parts of the body in Yoruba. (2 marks)
+44. Name three foods in Yoruba. (2 marks)
+45. What is a story? Name one you know. (2 marks)
 
 
 ---
