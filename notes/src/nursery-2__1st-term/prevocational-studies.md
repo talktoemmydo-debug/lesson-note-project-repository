@@ -41,6 +41,8 @@ Agriculture is growing crops and rearing animals. It gives us food, clothes, wor
 3. Mention three things agriculture gives us.
 4. Why does a town child also need agriculture?
 
+
+![A basket of yam, maize and bananas with an egg and a milk jug.](assets/img/nursery-2/1st-term/prevocational-studies/week1-basket-of-farm-foods.png)
 **Worksheet**
 
 1. Agriculture is the work of A) driving taxis B) selling cloth only C) growing crops and rearing animals D) building houses
@@ -92,6 +94,8 @@ From the farm to my plate: rice, oil, fish, milk, fruit. What the farm gives, we
 3. Mention one farm thing used at home that is not food.
 4. Why must we not waste food?
 
+
+![Maize and an egg, a cooking pot and a plate of food.](assets/img/nursery-2/1st-term/prevocational-studies/week2-from-farm-to-table.png)
 **Worksheet**
 
 1. Garri is made from A) stone B) milk C) fish D) cassava
@@ -143,6 +147,8 @@ Clear, till, plant, weed, water, harvest, store, sell — the farmer's work goes
 3. Why do we weed the farm?
 4. Name two things done after harvest.
 
+
+![A hoe, a watering can, a hand rake and a basket of seeds.](assets/img/nursery-2/1st-term/prevocational-studies/week3-farming-tools.png)
 **Worksheet**
 
 1. The first farming activity is A) cooking B) clearing C) selling D) harvesting
@@ -195,6 +201,8 @@ Crops divide into food crops, cash crops, fruit and vegetable crops. Cereals are
 3. Which part of the cassava plant do we eat?
 4. Give one example of a cereal crop.
 
+
+![A yam, a cocoa pod and an orange.](assets/img/nursery-2/1st-term/prevocational-studies/week4-food-cash-and-fruit-crops.png)
 **Worksheet**
 
 1. Crops grown mainly to bring money are called A) food crops B) weeds C) cash crops D) grasses
@@ -247,6 +255,8 @@ Animal rearing gives milk, eggs, meat and manure. Every animal needs food, water
 3. Mention two things the cow gives us.
 4. Say three things an animal needs daily.
 
+
+![A cow with a calf, a hen with a chick and a goat with a kid.](assets/img/nursery-2/1st-term/prevocational-studies/week5-farm-animals-and-their-young.png)
 **Worksheet**
 
 1. The young one of a goat is a A) chick B) kid C) calf D) lamb
@@ -297,6 +307,8 @@ Forestry deals with trees: timber, fruit, medicine, shade. Cut one, plant two.
 3. What do the roots of trees do for the soil?
 4. Why should we not burn bushes in the dry season?
 
+
+![A timber tree and a fruit tree with a wooden plank.](assets/img/nursery-2/1st-term/prevocational-studies/week6-timber-tree-and-fruit-tree.png)
 **Worksheet**
 
 1. Forestry is the branch of agriculture that deals with A) roads B) fish C) trees D) poultry
@@ -347,6 +359,8 @@ Fishery is catching or rearing fish: net, hook, canoe, pond. Small fish thrown b
 3. What tool does a fisherman use?
 4. Why is a small fish thrown back into the water?
 
+
+![A fishing boat with a net and two fish.](assets/img/nursery-2/1st-term/prevocational-studies/week8-fishing-boat-and-net.png)
 **Worksheet**
 
 1. Fish farming in a pond is also called A) forestry B) tillage C) milling D) aquaculture
@@ -400,6 +414,8 @@ Nigeria farms groundnut, cocoa, palm produce, rice and fish. Sustainable farming
 3. Mention two ways of reducing waste at home.
 4. Say one thing you can do to protect the environment.
 
+
+![Cocoa, groundnut, a palm fruit bunch and maize.](assets/img/nursery-2/1st-term/prevocational-studies/week9-crops-of-nigeria.png)
 **Worksheet**
 
 1. Cocoa and palm oil are products of A) the sea B) Nigeria C) the mine D) the desert

@@ -730,3 +730,14 @@ marching to the tambourine, catching with two hands, the tucked forward roll on 
 0 border-ink, no duplicated panels, all imported; **PHE is 8 of 8 and leaves the ledger**, the First Term book
 rebuilt at **56 plates · 143 pages · 129/129 Contents numbers · book and file gates ok**, the ledger now
 **8 owed over 1 file** (prevocational-studies), scratch emptied.
+
+## 2 Sep 2026 — Backfill sweep CLOSED: every owed plate in every term is now in the book
+
+First Term prevocational-studies took the last eight: the basket of farm foods, farm-to-table, the four tools with
+their working parts forward, yam/cocoa/orange, the three animals each with its young, timber-and-fruit trees with the
+plank, the fishing boat with net and fish, and the crops of Nigeria. All at 0 border-ink, all imported;
+**prevocational-studies is 8 of 8**, and `backfill_ledger.py` now prints **0 plate(s) owed · 0 subject file(s)**
+(exempt notes 92). The sweep that began at 71 owed is closed. The three books, rebuilt and re-audited: First Term
+**64 plates · 146 pages**, Second Term 72 · 160, Third Term 87 · 156, each **129/129 Contents numbers**; gates ALL
+CLEAR on 2nd and 3rd, and on 1st the only flag is the standing documented objective-pool `sheet_check` behaviour.
+The sole remaining owed work across the project is the **teacher's copy** for the three terms (60-ROADMAP §1).
