@@ -62,11 +62,20 @@ All four items landed except the Contents trim, which was declined on the ground
 and the loop. 97 notes and 12 papers remain. It is the proof that the plan works on a new term, so it
 finishes before another class starts.
 
-`notes/README.txt` names **Primary 1**; the owner has not confirmed which class (asked 2 Sep 2026).
+**Primary 1, First Term is complete — built 2 Sep 2026.** All 11 subjects are authored (Basic Science,
+Basic Digital Literacy, CRS, Cultural and Creative Arts, General Knowledge, Nigerian History, PHE,
+Prevocational Studies, Social and Citizenship Studies, Yoruba, and Mathematics & English in its two
+master streams MATHEMATICS and ENGLISH LANGUAGE), 97 notes and 12 papers, `gates.py` ALL CLEAR and
+`build_term_doc` 0 problems. Pupil book `notes/Primary 1 - First Term.{md,docx}` and teacher copy
+`notes/Primary 1 - First Term - TEACHER COPY.{md,docx}` are both written. See `77-PRIMARY-1.md`.
+Figures are not yet embedded — plates are the remaining backfill phase (`50-IMAGES.md`).
+
 The pipeline is class-agnostic: `data/curriculum_master.json` already covers Nursery 2 → Primary 4, so
 the work is authoring `notes/src/<Class>__<term>/` and `data/exams/src/`, not new tools. Age-appropriate
 item counts for a younger class (Nursery 1) would need the shape test in `sheet_check.py` parameterised
-— currently 30/10/5 is hard-coded by spec.
+— currently 30/10/5 is hard-coded by spec. The master, not the scheme's table of contents, is the
+authority on a class's subjects and streams: it combines Mathematics and English into one subject with
+per-class streams, and some subjects (Yoruba) carry a ninth topic week at wk11.
 
 ## 4. Images — read `50-IMAGES.md` first, in full
 
