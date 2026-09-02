@@ -1,0 +1,381 @@
+{
+ "subject": "Mathematics & English · MATHEMATICS",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "In 345, the digit 3 is in the ___ place",
+   "answer": "hundreds",
+   "distractors": [
+    "tens",
+    "units",
+    "thousands"
+   ]
+  },
+  {
+   "stem": "In 345, the digit 4 is in the ___ place",
+   "answer": "tens",
+   "distractors": [
+    "hundreds",
+    "units",
+    "thousands"
+   ]
+  },
+  {
+   "stem": "In 345, the digit 5 is in the ___ place",
+   "answer": "units",
+   "distractors": [
+    "tens",
+    "hundreds",
+    "thousands"
+   ]
+  },
+  {
+   "stem": "100 is one ___",
+   "answer": "hundred",
+   "distractors": [
+    "ten",
+    "unit",
+    "thousand"
+   ]
+  },
+  {
+   "stem": "234 in words is \"two hundred and ___\"",
+   "answer": "thirty-four",
+   "distractors": [
+    "three-four",
+    "four-three",
+    "thirty"
+   ]
+  },
+  {
+   "stem": "The digits of a number are its ___",
+   "answer": "figures",
+   "distractors": [
+    "words",
+    "letters",
+    "songs"
+   ]
+  },
+  {
+   "stem": "500 in words is \"five ___\"",
+   "answer": "hundred",
+   "distractors": [
+    "ten",
+    "unit",
+    "thousand"
+   ]
+  },
+  {
+   "stem": "We use \"___\" after the hundred",
+   "answer": "and",
+   "distractors": [
+    "but",
+    "or",
+    "so"
+   ]
+  },
+  {
+   "stem": "345 is ___ than 245",
+   "answer": "bigger",
+   "distractors": [
+    "smaller",
+    "equal",
+    "less"
+   ]
+  },
+  {
+   "stem": "120 is ___ than 210",
+   "answer": "smaller",
+   "distractors": [
+    "bigger",
+    "equal",
+    "greater"
+   ]
+  },
+  {
+   "stem": "The sign > means ___",
+   "answer": "greater than",
+   "distractors": [
+    "less than",
+    "equal to",
+    "plus"
+   ]
+  },
+  {
+   "stem": "The sign < means ___",
+   "answer": "less than",
+   "distractors": [
+    "greater than",
+    "equal to",
+    "minus"
+   ]
+  },
+  {
+   "stem": "A part of a whole is a ___",
+   "answer": "fraction",
+   "distractors": [
+    "stone",
+    "song",
+    "dream"
+   ]
+  },
+  {
+   "stem": "One of two equal parts is a ___",
+   "answer": "half",
+   "distractors": [
+    "whole",
+    "ten",
+    "hundred"
+   ]
+  },
+  {
+   "stem": "We write half as ___",
+   "answer": "1/2",
+   "distractors": [
+    "2/1",
+    "1/3",
+    "1/4"
+   ]
+  },
+  {
+   "stem": "The two halves make the ___",
+   "answer": "whole",
+   "distractors": [
+    "part",
+    "none",
+    "zero"
+   ]
+  },
+  {
+   "stem": "One of four equal parts is a ___",
+   "answer": "quarter",
+   "distractors": [
+    "half",
+    "third",
+    "whole"
+   ]
+  },
+  {
+   "stem": "One of three equal parts is a ___",
+   "answer": "third",
+   "distractors": [
+    "half",
+    "quarter",
+    "whole"
+   ]
+  },
+  {
+   "stem": "We write a quarter as ___",
+   "answer": "1/4",
+   "distractors": [
+    "1/2",
+    "1/3",
+    "4/1"
+   ]
+  },
+  {
+   "stem": "The parts must be ___",
+   "answer": "equal",
+   "distractors": [
+    "unequal",
+    "big",
+    "small"
+   ]
+  },
+  {
+   "stem": "A circle cut into two equal parts shows ___",
+   "answer": "halves",
+   "distractors": [
+    "quarters",
+    "thirds",
+    "wholes"
+   ]
+  },
+  {
+   "stem": "A circle cut into four equal parts shows ___",
+   "answer": "quarters",
+   "distractors": [
+    "halves",
+    "thirds",
+    "wholes"
+   ]
+  },
+  {
+   "stem": "If we colour 1 of 4 parts, we show ___",
+   "answer": "1/4",
+   "distractors": [
+    "1/2",
+    "1/3",
+    "4/1"
+   ]
+  },
+  {
+   "stem": "The shape must be cut into ___ parts",
+   "answer": "equal",
+   "distractors": [
+    "unequal",
+    "big",
+    "round"
+   ]
+  },
+  {
+   "stem": "Half of 6 oranges is ___ oranges",
+   "answer": "3",
+   "distractors": [
+    "2",
+    "4",
+    "6"
+   ]
+  },
+  {
+   "stem": "Half of 10 sweets is ___ sweets",
+   "answer": "5",
+   "distractors": [
+    "4",
+    "6",
+    "10"
+   ]
+  },
+  {
+   "stem": "A quarter of 8 is ___",
+   "answer": "2",
+   "distractors": [
+    "3",
+    "4",
+    "8"
+   ]
+  },
+  {
+   "stem": "A third of 9 is ___",
+   "answer": "3",
+   "distractors": [
+    "2",
+    "4",
+    "9"
+   ]
+  },
+  {
+   "stem": "What a digit is worth by its place is its ___",
+   "answer": "place value",
+   "distractors": [
+    "colour",
+    "name",
+    "age"
+   ]
+  },
+  {
+   "stem": "A group of things is a ___",
+   "answer": "collection",
+   "distractors": [
+    "stone",
+    "song",
+    "box"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the three places in a number ",
+   "points": [
+    "hundreds",
+    "tens",
+    "units"
+   ]
+  },
+  {
+   "stem": "Name two numbers and write them in words ",
+   "points": [
+    "two hundred",
+    "three hundred and four"
+   ]
+  },
+  {
+   "stem": "Name two numbers and say which is bigger ",
+   "points": [
+    "345 and 245",
+    "120 and 210"
+   ]
+  },
+  {
+   "stem": "Name two things we can share into halves ",
+   "points": [
+    "an orange",
+    "a cake",
+    "a paper"
+   ]
+  },
+  {
+   "stem": "Name two fractions we know ",
+   "points": [
+    "half",
+    "quarter",
+    "third"
+   ]
+  },
+  {
+   "stem": "Name two fractions we can show with shapes ",
+   "points": [
+    "1/2",
+    "1/4",
+    "1/3"
+   ]
+  },
+  {
+   "stem": "Name two fractions of a collection ",
+   "points": [
+    "half of 6",
+    "quarter of 8"
+   ]
+  },
+  {
+   "stem": "Name two measures of capacity ",
+   "points": [
+    "litres",
+    "millilitres"
+   ]
+  },
+  {
+   "stem": "Name two 3-D shapes ",
+   "points": [
+    "cube",
+    "sphere",
+    "cylinder"
+   ]
+  },
+  {
+   "stem": "Name two things we use to solve problems ",
+   "points": [
+    "addition",
+    "subtraction"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is place value? Name the three places.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write 234 in words.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a fraction? What is a half?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a quarter? How do we write it?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is half of 6? What is a quarter of 8?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

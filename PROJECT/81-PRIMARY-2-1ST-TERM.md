@@ -20,7 +20,7 @@ NERDC scheme but must cover exactly the master's teaching weeks.
 | 8 | prevocational-studies | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=7 D=8) · sheet_lint 0 · gates ok |
 | 9 | social-and-citizenship-studies | 1-6, 8, 9, 12 | ✅ 9 notes · paper ✅ (30/10/5, A=7 B=8 C=8 D=7) · sheet_lint 0 · exempt from plates · gates ok |
 | 10 | yoruba | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · exempt from plates · gates ok |
-| 11 | mathematics-english | MATH 1-6, 8 · ENG 1-6, 8, 9 | — |
+| 11 | mathematics-english | MATH 1-6, 8 · ENG 1-6, 8, 9 | ✅ 2 streams (MATH 7 wks + ENG 8 wks) · papers ✅ (MATH A=8 B=7 C=7 D=8; ENG A=7 B=8 C=7 D=8) · sheet_lint 0 · gates ok |
 
 Plate exemptions (Yoruba, GK, Nigerian History, SCS, CRS) carry no plates — `tools/backfill_ledger.py` EXEMPT.
 

@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 10 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 12 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*10 subjects · 81 lessons · 10 term practice papers. Each part begins on a fresh page.*
+*11 subjects · 96 lessons · 12 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — LIVING AND NON-LIVING THINGS](#week-1-living-and-non-living-things) · 3
@@ -96,25 +96,43 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — ILÉ ÀTI OHUN ÈLÒ (HOME AND THINGS)](#week-6-ilé-àti-ohun-èlò-home-and-things) · 55
   - [WEEK 8 — ORIN (SONGS)](#week-8-orin-songs) · 56
   - [WEEK 9 — ÌTÀN (STORIES)](#week-9-ìtàn-stories) · 56
-- **[General Knowledge](#general-knowledge)** · 58
-  - [WEEK 1 — STATES AND CAPITALS I: NORTH-CENTRAL AND NORTH-WEST](#week-1-states-and-capitals-i-north-central-and-north-west) · 58
-  - [WEEK 2 — STATES AND CAPITALS II: NORTH-EAST AND SOUTH-SOUTH](#week-2-states-and-capitals-ii-north-east-and-south-south) · 58
-  - [WEEK 3 — STATES AND CAPITALS III: SOUTH-EAST, SOUTH-WEST AND FCT](#week-3-states-and-capitals-iii-south-east-south-west-and-fct) · 59
-  - [WEEK 4 — HOW WE ARE GOVERNED: LOCAL, STATE, FEDERAL](#week-4-how-we-are-governed-local-state-federal) · 60
-  - [WEEK 5 — OUR LEADERS TODAY (CURRENT AFFAIRS I)](#week-5-our-leaders-today-current-affairs-i) · 61
-  - [WEEK 6 — NATIONAL SYMBOLS II: MEANINGS AND PROPER USE](#week-6-national-symbols-ii-meanings-and-proper-use) · 61
-  - [WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE](#week-8-nigerian-history-ii-colonial-era-and-independence) · 62
-  - [WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID](#week-9-nigerian-heroes-who-they-were-and-what-they-did) · 63
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 64
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 66
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 68
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 70
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)](#examination-practice-nigerian-history-primary-2-1st-term)** · 72
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 1st Term)](#examination-practice-physical-and-health-education-primary-2-1st-term)** · 74
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 1st Term)](#examination-practice-prevocational-studies-primary-2-1st-term)** · 76
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-2-1st-term)** · 78
-- **[EXAMINATION PRACTICE — YORUBA (Primary 2 · 1st Term)](#examination-practice-yoruba-primary-2-1st-term)** · 80
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 82
+- **[Mathematics & English](#mathematics-english)** · 58
+  - [WEEK 1 — REVISION AND REVIEW OF YEAR ONE'S WORK](#week-1-revision-and-review-of-year-ones-work) · 58
+  - [WEEK 2 — READING AND GRAMMAR (PART 1)](#week-2-reading-and-grammar-part-1) · 58
+  - [WEEK 3 — SPEAKING AND GRAMMAR](#week-3-speaking-and-grammar) · 59
+  - [WEEK 4 — READING COMPREHENSION AND WRITING](#week-4-reading-comprehension-and-writing) · 60
+  - [WEEK 5 — LISTENING AND GRAMMAR](#week-5-listening-and-grammar) · 60
+  - [WEEK 6 — SPEAKING AND WRITING](#week-6-speaking-and-writing) · 61
+  - [WEEK 8 — READING AND GRAMMAR (PART 2)](#week-8-reading-and-grammar-part-2) · 62
+  - [WEEK 9 — WRITING AND HANDWRITING](#week-9-writing-and-handwriting) · 62
+  - [WEEK 1 — WHOLE NUMBERS UP TO 999 (PART 1)](#week-1-whole-numbers-up-to-999-part-1) · 63
+  - [WEEK 2 — WHOLE NUMBERS UP TO 999 (PART 2)](#week-2-whole-numbers-up-to-999-part-2) · 64
+  - [WEEK 3 — WHOLE NUMBERS UP TO 999 (PART 3)](#week-3-whole-numbers-up-to-999-part-3) · 64
+  - [WEEK 4 — FRACTIONS (PART 1)](#week-4-fractions-part-1) · 65
+  - [WEEK 5 — FRACTIONS (PART 2)](#week-5-fractions-part-2) · 66
+  - [WEEK 6 — FRACTIONS (PART 3)](#week-6-fractions-part-3) · 66
+  - [WEEK 8 — FRACTIONS (PART 4)](#week-8-fractions-part-4) · 67
+- **[General Knowledge](#general-knowledge)** · 69
+  - [WEEK 1 — STATES AND CAPITALS I: NORTH-CENTRAL AND NORTH-WEST](#week-1-states-and-capitals-i-north-central-and-north-west) · 69
+  - [WEEK 2 — STATES AND CAPITALS II: NORTH-EAST AND SOUTH-SOUTH](#week-2-states-and-capitals-ii-north-east-and-south-south) · 69
+  - [WEEK 3 — STATES AND CAPITALS III: SOUTH-EAST, SOUTH-WEST AND FCT](#week-3-states-and-capitals-iii-south-east-south-west-and-fct) · 70
+  - [WEEK 4 — HOW WE ARE GOVERNED: LOCAL, STATE, FEDERAL](#week-4-how-we-are-governed-local-state-federal) · 71
+  - [WEEK 5 — OUR LEADERS TODAY (CURRENT AFFAIRS I)](#week-5-our-leaders-today-current-affairs-i) · 72
+  - [WEEK 6 — NATIONAL SYMBOLS II: MEANINGS AND PROPER USE](#week-6-national-symbols-ii-meanings-and-proper-use) · 72
+  - [WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE](#week-8-nigerian-history-ii-colonial-era-and-independence) · 73
+  - [WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID](#week-9-nigerian-heroes-who-they-were-and-what-they-did) · 74
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 75
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 77
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 79
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 81
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)](#examination-practice-nigerian-history-primary-2-1st-term)** · 83
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 1st Term)](#examination-practice-physical-and-health-education-primary-2-1st-term)** · 85
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 1st Term)](#examination-practice-prevocational-studies-primary-2-1st-term)** · 87
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-2-1st-term)** · 89
+- **[EXAMINATION PRACTICE — YORUBA (Primary 2 · 1st Term)](#examination-practice-yoruba-primary-2-1st-term)** · 91
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 2 · 1st Term)](#examination-practice-mathematics-english-english-language-primary-2-1st-term)** · 93
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 2 · 1st Term)](#examination-practice-mathematics-english-mathematics-primary-2-1st-term)** · 95
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 97
 
 
 
@@ -5620,6 +5638,1121 @@ written for them.
 
 ---
 
+# Mathematics & English
+
+## ENGLISH LANGUAGE
+
+### WEEK 1 — REVISION AND REVIEW OF YEAR ONE'S WORK
+
+**You will learn to**
+
+• review what we learnt in Year One
+
+• read simple words
+
+• write simple words
+
+**Things to know**
+
+• In Year One we learnt the **alphabet**.
+
+• We learnt the **sounds** of letters.
+
+• We read simple **words** like "cat", "dog", "sun".
+
+• We wrote simple **words** and **sentences**.
+
+• We learnt to **listen** and **speak**.
+
+• We learnt **phonics** — the sounds in words.
+
+• We read short **stories**.
+
+• This term we build on what we learnt.
+
+• We revise to remember well.
+
+• Revision helps us learn more.
+
+**Let us talk**
+
+1. Name one thing we learnt in Year One.
+
+2. What is phonics?
+
+3. Why do we revise?
+
+**Words for my notebook**
+
+• revise — to look at work again
+
+• alphabet — the letters A to Z
+
+• phonics — the sounds of letters
+
+**Worksheet**
+
+1. The letters A to Z are the ___.
+   A) alphabet B) numbers C) colours D) shapes
+
+2. The sounds of letters are ___.
+   A) phonics B) songs C) stones D) sleeps
+
+3. In Year One we read simple ___.
+   A) words B) stones C) trees D) clouds
+
+4. We ___ to remember well.
+   A) revise B) forget C) sleep D) run
+
+5. Fill in: To look at work again is to _____.
+
+6. Mention two things we learnt in Year One.
+
+7. Write why we revise.
+
+**My own work**
+
+• Write and trace five words you learnt in Year One.
+
+---
+
+### WEEK 2 — READING AND GRAMMAR (PART 1)
+
+**You will learn to**
+
+• read simple sentences
+
+• name nouns
+
+• use nouns
+
+**Things to know**
+
+• We read simple **sentences**.
+
+• A sentence tells us something.
+
+• A **noun** is a word for a person, place or thing.
+
+• Examples of nouns: **boy**, **school**, **book**, **Lagos**.
+
+• A **proper noun** names a special person or place.
+
+• We write a proper noun with a **capital letter**.
+
+• "Amina" and "Kano" are proper nouns.
+
+• We use nouns in our sentences.
+
+• Reading helps us learn new words.
+
+• Grammar helps us speak and write well.
+
+**Let us talk**
+
+1. What is a noun?
+
+2. Name one noun.
+
+3. What is a proper noun?
+
+**Words for my notebook**
+
+• noun — a word for a person, place or thing
+
+• proper noun — a name of a special person or place
+
+• capital letter — a big letter
+
+**Worksheet**
+
+1. A word for a person, place or thing is a ___.
+   A) noun B) verb C) stone D) song
+
+2. Which of these is a noun?
+   A) school B) run C) jump D) sing
+
+3. A proper noun names a ___ person or place.
+   A) special B) common C) broken D) lost
+
+4. We write a proper noun with a ___ letter.
+   A) capital B) small C) round D) dark
+
+5. Fill in: A name of a special person or place is a _____.
+
+6. Mention three nouns.
+
+7. Write what a noun is.
+
+**My own work**
+
+• Draw and label five nouns.
+
+---
+
+### WEEK 3 — SPEAKING AND GRAMMAR
+
+**You will learn to**
+
+• speak clearly
+
+• use verbs
+
+• make sentences
+
+**Things to know**
+
+• We **speak** English with care.
+
+• We speak **clearly** so others hear us.
+
+• A **verb** is a word that shows action.
+
+• Examples of verbs: **run**, **jump**, **eat**, **read**.
+
+• We use verbs in our sentences.
+
+• "The boy **runs**." — runs is the verb.
+
+• We make sentences with nouns and verbs.
+
+• We listen when others speak.
+
+• Speaking well helps us share ideas.
+
+• Grammar helps us speak correctly.
+
+**Let us talk**
+
+1. What is a verb?
+
+2. Name one verb.
+
+3. How do we speak well?
+
+**Words for my notebook**
+
+• verb — a word that shows action
+
+• action — something we do
+
+• clearly — easy to hear
+
+**Worksheet**
+
+1. A word that shows action is a ___.
+   A) verb B) noun C) stone D) song
+
+2. Which of these is a verb?
+   A) run B) school C) book D) Lagos
+
+3. "The boy ___." — choose the verb.
+   A) runs B) school C) book D) Kano
+
+4. We speak ___ so others hear us.
+   A) clearly B) softly only C) noisily D) rudely
+
+5. Fill in: Something we do is an _____.
+
+6. Mention three verbs.
+
+7. Write what a verb is.
+
+**My own work**
+
+• Write and trace three sentences with verbs.
+
+---
+
+### WEEK 4 — READING COMPREHENSION AND WRITING
+
+**You will learn to**
+
+• read and understand
+
+• answer questions
+
+• write sentences
+
+**Things to know**
+
+• **Comprehension** means understanding what we read.
+
+• We read a short **passage**.
+
+• A passage is a group of sentences.
+
+• We find out **who**, **what** and **where**.
+
+• We answer **questions** about the passage.
+
+• We write our answers in full **sentences**.
+
+• We look for new **words** and their meaning.
+
+• We write with correct **spelling**.
+
+• Reading and writing go together.
+
+• Comprehension helps us understand.
+
+**Let us talk**
+
+1. What is comprehension?
+
+2. What is a passage?
+
+3. What do we do after reading?
+
+**Words for my notebook**
+
+• comprehension — understanding what we read
+
+• passage — a group of sentences
+
+• question — what we ask to find out
+
+**Worksheet**
+
+1. Understanding what we read is ___.
+   A) comprehension B) anger C) sleep D) noise
+
+2. A group of sentences is a ___.
+   A) passage B) stone C) song D) box
+
+3. We answer ___ about the passage.
+   A) questions B) stones C) trees D) clouds
+
+4. We write our answers in full ___.
+   A) sentences B) stones C) trees D) clouds
+
+5. Fill in: What we ask to find out is a _____.
+
+6. Mention two things we find in a passage.
+
+7. Write what comprehension is.
+
+**My own work**
+
+• Draw a scene and write one sentence about a story you read.
+
+---
+
+### WEEK 5 — LISTENING AND GRAMMAR
+
+**You will learn to**
+
+• listen with care
+
+• name adjectives
+
+• describe things
+
+**Things to know**
+
+• We **listen** with care and attention.
+
+• Listening helps us learn.
+
+• An **adjective** is a word that describes a noun.
+
+• An adjective tells us **more** about a thing.
+
+• "A **big** ball" — big is the adjective.
+
+• "A **red** flower" — red is the adjective.
+
+• Adjectives tell **size**, **colour** and **shape**.
+
+• We put the adjective before the noun.
+
+• We listen for the adjectives in a sentence.
+
+• Adjectives make our sentences clear.
+
+**Let us talk**
+
+1. What is an adjective?
+
+2. Give one adjective.
+
+3. How do we listen well?
+
+**Words for my notebook**
+
+• adjective — a word that describes a noun
+
+• describe — to say what a thing is like
+
+• listen — to hear with care
+
+**Worksheet**
+
+1. A word that describes a noun is an ___.
+   A) adjective B) verb C) stone D) song
+
+2. In "a big ball", the adjective is ___.
+   A) big B) ball C) a D) is
+
+3. Adjectives tell size, colour and ___.
+   A) shape B) noise C) sleep D) food
+
+4. We put the adjective ___ the noun.
+   A) before B) after C) under D) over
+
+5. Fill in: To say what a thing is like is to _____.
+
+6. Mention three adjectives.
+
+7. Write what an adjective is.
+
+**My own work**
+
+• Draw a thing and write an adjective for it.
+
+---
+
+### WEEK 6 — SPEAKING AND WRITING
+
+**You will learn to**
+
+• speak in sentences
+
+• write sentences
+
+• use capital letters and full stops
+
+**Things to know**
+
+• We **speak** in full sentences.
+
+• We **write** in full sentences.
+
+• A sentence begins with a **capital letter**.
+
+• A sentence ends with a **full stop**.
+
+• "The cat sat." is a full sentence.
+
+• We use capital letters for **names**.
+
+• We leave a **space** between words.
+
+• We write neatly on the line.
+
+• Speaking and writing help us share ideas.
+
+• Good sentences are clear.
+
+**Let us talk**
+
+1. How does a sentence begin?
+
+2. How does a sentence end?
+
+3. When do we use a capital letter?
+
+**Words for my notebook**
+
+• sentence — a group of words that tells something
+
+• space — a gap between words
+
+• full stop — the mark at the end of a sentence
+
+**Worksheet**
+
+1. A sentence begins with a ___ letter.
+   A) capital B) small C) round D) dark
+
+2. A sentence ends with a ___.
+   A) full stop B) comma only C) dash D) star
+
+3. We use capital letters for ___.
+   A) names B) numbers only C) stones D) trees
+
+4. We leave a ___ between words.
+   A) space B) stone C) tree D) cloud
+
+5. Fill in: The mark at the end of a sentence is a _____.
+
+6. Mention two rules for writing a sentence.
+
+7. Write one full sentence.
+
+**My own work**
+
+• Write and trace three full sentences.
+
+---
+
+### WEEK 8 — READING AND GRAMMAR (PART 2)
+
+**You will learn to**
+
+• read longer passages
+
+• use pronouns
+
+• answer questions
+
+**Things to know**
+
+• We read **longer** passages now.
+
+• A **pronoun** is a word that takes the place of a noun.
+
+• Examples of pronouns: **he**, **she**, **it**, **they**, **we**.
+
+• "Amina is kind. **She** helps me." — She is the pronoun.
+
+• Pronouns help us not repeat nouns.
+
+• We read with **expression**.
+
+• We answer questions about what we read.
+
+• We find the **main idea**.
+
+• Reading longer passages helps us learn.
+
+• Grammar helps us write well.
+
+**Let us talk**
+
+1. What is a pronoun?
+
+2. Name one pronoun.
+
+3. Why do we use pronouns?
+
+**Words for my notebook**
+
+• pronoun — a word that takes the place of a noun
+
+• expression — reading with feeling
+
+• main idea — the most important thing
+
+**Worksheet**
+
+1. A word that takes the place of a noun is a ___.
+   A) pronoun B) verb C) stone D) song
+
+2. Which of these is a pronoun?
+   A) she B) school C) run D) big
+
+3. "Amina is kind. ___ helps me." — choose the pronoun.
+   A) She B) School C) Run D) Big
+
+4. Pronouns help us not ___ nouns.
+   A) repeat B) eat C) burn D) hide
+
+5. Fill in: The most important thing is the _____.
+
+6. Mention three pronouns.
+
+7. Write what a pronoun is.
+
+**My own work**
+
+• Write and trace three sentences with pronouns.
+
+---
+
+### WEEK 9 — WRITING AND HANDWRITING
+
+**You will learn to**
+
+• write neatly
+
+• form letters well
+
+• write short compositions
+
+**Things to know**
+
+• **Handwriting** is how we write with a pen or pencil.
+
+• We form our letters on the line.
+
+• We form each **letter** well.
+
+• We leave **spaces** between words.
+
+• We write small **letters** and **capital letters**.
+
+• We can write a short **composition**.
+
+• A composition is a piece of writing about a topic.
+
+• We write about our **family**, **school** or **friends**.
+
+• Good handwriting is easy to read.
+
+• We practise to write well.
+
+**Let us talk**
+
+1. What is handwriting?
+
+2. What is a composition?
+
+3. How do we write neatly?
+
+**Words for my notebook**
+
+• handwriting — how we write with a pen or pencil
+
+• composition — a piece of writing about a topic
+
+• neatly — clean and tidy
+
+**Worksheet**
+
+1. How we write with a pen or pencil is ___.
+   A) handwriting B) singing C) running D) eating
+
+2. We write ___ on the line.
+   A) neatly B) badly C) rudely D) noisily
+
+3. A piece of writing about a topic is a ___.
+   A) composition B) stone C) song D) box
+
+4. We leave ___ between words.
+   A) spaces B) stones C) trees D) clouds
+
+5. Fill in: Clean and tidy writing is writing _____.
+
+6. Mention two things we write about.
+
+7. Write what handwriting is.
+
+**My own work**
+
+• Draw your family and write a short composition.
+
+## MATHEMATICS
+
+### WEEK 1 — WHOLE NUMBERS UP TO 999 (PART 1)
+
+**You will learn to**
+
+• count up to 999
+
+• say place value
+
+• read big numbers
+
+**Things to know**
+
+• We can count **whole numbers** up to 999.
+
+• A number has **hundreds**, **tens** and **units**.
+
+• In 345, the **3** is in the hundreds place.
+
+• In 345, the **4** is in the tens place.
+
+• In 345, the **5** is in the units place.
+
+• The **place value** tells what a digit is worth.
+
+• 100 is one hundred; 200 is two hundred.
+
+• We count: 100, 101, 102, 103 and so on.
+
+• We can count up to 999.
+
+• Place value helps us read big numbers.
+
+**Let us talk**
+
+1. What are the places in a number?
+
+2. What is the place value of 3 in 345?
+
+3. Count from 100 to 105.
+
+**Words for my notebook**
+
+• whole number — a number without a fraction
+
+• place value — what a digit is worth by its place
+
+• hundred — the place of 100
+
+**Worksheet**
+
+1. In 345, the digit 3 is in the ___ place.
+   A) hundreds B) tens C) units D) thousands
+
+2. In 345, the digit 4 is in the ___ place.
+   A) tens B) hundreds C) units D) thousands
+
+3. In 345, the digit 5 is in the ___ place.
+   A) units B) tens C) hundreds D) thousands
+
+4. 100 is one ___.
+   A) hundred B) ten C) unit D) thousand
+
+5. Fill in: What a digit is worth by its place is its _____.
+
+6. Mention the three places in a number.
+
+7. Write the place value of 7 in 726.
+
+**My own work**
+
+• Draw and label the places in the number 234.
+
+---
+
+### WEEK 2 — WHOLE NUMBERS UP TO 999 (PART 2)
+
+**You will learn to**
+
+• read numbers up to 999
+
+• write numbers in words
+
+• write words in figures
+
+**Things to know**
+
+• We can **read** numbers up to 999.
+
+• 234 is read as "two hundred and thirty-four".
+
+• We write numbers in **words** and in **figures**.
+
+• **Figures** are the digits: 234.
+
+• **Words** are how we say it: two hundred and thirty-four.
+
+• 500 is "five hundred".
+
+• 105 is "one hundred and five".
+
+• We use "and" after the hundred.
+
+• We can write a number in words.
+
+• We can write words in figures.
+
+**Let us talk**
+
+1. How do we read 234?
+
+2. What are figures?
+
+3. Write 300 in words.
+
+**Words for my notebook**
+
+• figures — the digits of a number
+
+• words — how we say a number
+
+• read — to say what is written
+
+**Worksheet**
+
+1. 234 in words is "two hundred and ___".
+   A) thirty-four B) three-four C) four-three D) thirty
+
+2. The digits of a number are its ___.
+   A) figures B) words C) letters D) songs
+
+3. 500 in words is "five ___".
+   A) hundred B) ten C) unit D) thousand
+
+4. We use "___" after the hundred.
+   A) and B) but C) or D) so
+
+5. Fill in: How we say a number is its _____.
+
+6. Mention two numbers and write them in words.
+
+7. Write 105 in words.
+
+**My own work**
+
+• Write and trace three numbers in words.
+
+---
+
+### WEEK 3 — WHOLE NUMBERS UP TO 999 (PART 3)
+
+**You will learn to**
+
+• compare numbers
+
+• order numbers
+
+• say which is bigger
+
+**Things to know**
+
+• We can **compare** numbers up to 999.
+
+• We say which number is **bigger** or **smaller**.
+
+• 345 is **bigger than** 245.
+
+• 120 is **smaller than** 210.
+
+• We compare the **hundreds** first, then the tens, then the units.
+
+• We can **order** numbers from smallest to biggest.
+
+• We can order numbers from biggest to smallest.
+
+• The sign **>** means "greater than".
+
+• The sign **<** means "less than".
+
+• Comparing and ordering help us in maths.
+
+**Let us talk**
+
+1. Which is bigger, 345 or 245?
+
+2. What does > mean?
+
+3. Order 120, 100, 110 from smallest.
+
+**Words for my notebook**
+
+• compare — to tell which is bigger or smaller
+
+• order — to put in a line by size
+
+• greater than — bigger than
+
+**Worksheet**
+
+1. 345 is ___ than 245.
+   A) bigger B) smaller C) equal D) less
+
+2. 120 is ___ than 210.
+   A) smaller B) bigger C) equal D) greater
+
+3. The sign > means ___.
+   A) greater than B) less than C) equal to D) plus
+
+4. The sign < means ___.
+   A) less than B) greater than C) equal to D) minus
+
+5. Fill in: To put numbers in a line by size is to _____.
+
+6. Mention two numbers and say which is bigger.
+
+7. Write what > means.
+
+**My own work**
+
+• Write and trace three numbers in order from smallest.
+
+---
+
+### WEEK 4 — FRACTIONS (PART 1)
+
+**You will learn to**
+
+• say what a fraction is
+
+• name a half
+
+• show a half
+
+**Things to know**
+
+• A **fraction** is a part of a whole.
+
+• When we share a thing into **equal** parts, each part is a fraction.
+
+• **Half** means one of two equal parts.
+
+• We write half as **1/2**.
+
+• If we cut an orange into two equal parts, each part is a **half**.
+
+• The two halves make the **whole**.
+
+• A half is written with 1 on top and 2 below.
+
+• We can show a half with a shape.
+
+• Fractions help us share fairly.
+
+• A half is one of two equal parts.
+
+**Let us talk**
+
+1. What is a fraction?
+
+2. What is a half?
+
+3. How do we write a half?
+
+**Words for my notebook**
+
+• fraction — a part of a whole
+
+• half — one of two equal parts
+
+• whole — the complete thing
+
+**Worksheet**
+
+1. A part of a whole is a ___.
+   A) fraction B) stone || song || dream
+
+2. One of two equal parts is a ___.
+   A) half B) whole C) ten D) hundred
+
+3. We write half as ___.
+   A) 1/2 B) 2/1 C) 1/3 D) 1/4
+
+4. The two halves make the ___.
+   A) whole B) part C) none D) zero
+
+5. Fill in: The complete thing is the _____.
+
+6. Mention two things we can share into halves.
+
+7. Write what a fraction is.
+
+**My own work**
+
+• Draw a shape and show its half.
+
+---
+
+### WEEK 5 — FRACTIONS (PART 2)
+
+**You will learn to**
+
+• name a quarter
+
+• name a third
+
+• show simple fractions
+
+**Things to know**
+
+• A **quarter** is one of four equal parts.
+
+• We write a quarter as **1/4**.
+
+• A **third** is one of three equal parts.
+
+• We write a third as **1/3**.
+
+• If we cut a cake into four equal parts, each part is a **quarter**.
+
+• If we cut a cake into three equal parts, each part is a **third**.
+
+• The parts must be **equal**.
+
+• 1/4 is smaller than 1/2.
+
+• 1/3 is smaller than 1/2.
+
+• We can show quarters and thirds with shapes.
+
+**Let us talk**
+
+1. What is a quarter?
+
+2. What is a third?
+
+3. How do we write a quarter?
+
+**Words for my notebook**
+
+• quarter — one of four equal parts
+
+• third — one of three equal parts
+
+• equal — the same size
+
+**Worksheet**
+
+1. One of four equal parts is a ___.
+   A) quarter B) half C) third D) whole
+
+2. One of three equal parts is a ___.
+   A) third B) half C) quarter D) whole
+
+3. We write a quarter as ___.
+   A) 1/4 B) 1/2 C) 1/3 D) 4/1
+
+4. The parts must be ___.
+   A) equal B) unequal C) big D) small
+
+5. Fill in: One of three equal parts is a _____.
+
+6. Mention two fractions we know.
+
+7. Write what a quarter is.
+
+**My own work**
+
+• Draw a shape and show its quarter.
+
+---
+
+### WEEK 6 — FRACTIONS (PART 3)
+
+**You will learn to**
+
+• show fractions of shapes
+
+• name the fraction
+
+• colour fractions
+
+**Things to know**
+
+• We can show fractions of **shapes**.
+
+• A circle cut into two equal parts shows **halves**.
+
+• A circle cut into four equal parts shows **quarters**.
+
+• We **colour** one part to show the fraction.
+
+• If we colour 1 of 2 parts, we show **1/2**.
+
+• If we colour 1 of 4 parts, we show **1/4**.
+
+• If we colour 1 of 3 parts, we show **1/3**.
+
+• The shape must be cut into **equal** parts.
+
+• We can name the fraction we show.
+
+• Fractions of shapes help us see parts.
+
+**Let us talk**
+
+1. How do we show a fraction of a shape?
+
+2. What fraction is 1 of 4 parts?
+
+3. Why must the parts be equal?
+
+**Words for my notebook**
+
+• shape — a form like a circle or square
+
+• colour — to put colour on
+
+• part — a piece of a whole
+
+**Worksheet**
+
+1. A circle cut into two equal parts shows ___.
+   A) halves B) quarters C) thirds D) wholes
+
+2. A circle cut into four equal parts shows ___.
+   A) quarters B) halves C) thirds D) wholes
+
+3. If we colour 1 of 4 parts, we show ___.
+   A) 1/4 B) 1/2 C) 1/3 D) 4/1
+
+4. The shape must be cut into ___ parts.
+   A) equal B) unequal C) big D) round
+
+5. Fill in: A piece of a whole is a _____.
+
+6. Mention two fractions we can show with shapes.
+
+7. Write how we show a fraction of a shape.
+
+**My own work**
+
+• Draw a shape and colour one half.
+
+---
+
+### WEEK 8 — FRACTIONS (PART 4)
+
+**You will learn to**
+
+• find fractions of a collection
+
+• share things fairly
+
+• use fractions
+
+**Things to know**
+
+• We can find fractions of a **collection** of things.
+
+• A collection is a **group** of things.
+
+• Half of 6 oranges is **3** oranges.
+
+• Half of 10 sweets is **5** sweets.
+
+• A quarter of 8 is **2**.
+
+• A third of 9 is **3**.
+
+• We **divide** the collection into equal parts.
+
+• Fractions help us **divide** things fairly.
+
+• We use fractions every day.
+
+• Fractions of a collection help us share.
+
+**Let us talk**
+
+1. What is a collection?
+
+2. What is half of 6?
+
+3. Why do we use fractions?
+
+**Words for my notebook**
+
+• collection — a group of things
+
+• divide — to share into equal parts
+
+• share — to give part to each
+
+**Worksheet**
+
+1. Half of 6 oranges is ___ oranges.
+   A) 3 B) 2 C) 4 D) 6
+
+2. Half of 10 sweets is ___ sweets.
+   A) 5 B) 4 C) 6 D) 10
+
+3. A quarter of 8 is ___.
+   A) 2 B) 3 C) 4 D) 8
+
+4. A third of 9 is ___.
+   A) 3 B) 2 C) 4 D) 9
+
+5. Fill in: A group of things is a _____.
+
+6. Mention two fractions of a collection.
+
+7. Write what half of 6 is.
+
+**My own work**
+
+• Draw 6 oranges and show half of them.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the first term of Primary 2. They follow the NERDC
@@ -7892,6 +9025,378 @@ Answer in full sentences.
 43. Name three parts of the body in Yoruba. (2 marks)
 44. Name three foods in Yoruba. (2 marks)
 45. What is a story? Name one you know. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 2 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. The letters A to Z are the ___
+   A) colours
+   B) shapes
+   C) numbers
+   D) alphabet
+2. The sounds of letters are ___
+   A) stones
+   B) phonics
+   C) sleeps
+   D) songs
+3. In Year One we read simple ___
+   A) clouds
+   B) stones
+   C) words
+   D) trees
+4. We ___ to remember well
+   A) revise
+   B) run
+   C) sleep
+   D) forget
+5. A word for a person, place or thing is a ___
+   A) stone
+   B) noun
+   C) verb
+   D) song
+6. Which of these is a noun?
+   A) run
+   B) sing
+   C) jump
+   D) school
+7. A proper noun names a ___ person or place
+   A) lost
+   B) broken
+   C) special
+   D) common
+8. We write a proper noun with a ___ letter
+   A) dark
+   B) capital
+   C) round
+   D) small
+9. A word that shows action is a ___
+   A) stone
+   B) song
+   C) noun
+   D) verb
+10. Which of these is a verb?
+   A) run
+   B) Lagos
+   C) book
+   D) school
+11. "The boy ___." — choose the verb
+   A) school
+   B) book
+   C) runs
+   D) Kano
+12. We speak ___ so others hear us
+   A) noisily
+   B) softly only
+   C) rudely
+   D) clearly
+13. Understanding what we read is ___
+   A) comprehension
+   B) anger
+   C) noise
+   D) sleep
+14. A group of sentences is a ___
+   A) box
+   B) passage
+   C) stone
+   D) song
+15. We answer ___ about the passage
+   A) clouds
+   B) stones
+   C) questions
+   D) trees
+16. We write our answers in full ___
+   A) stones
+   B) trees
+   C) clouds
+   D) sentences
+17. A word that describes a noun is an ___
+   A) adjective
+   B) verb
+   C) stone
+   D) song
+18. In "a big ball", the adjective is ___
+   A) is
+   B) big
+   C) ball
+   D) a
+19. Adjectives tell size, colour and ___
+   A) sleep
+   B) noise
+   C) shape
+   D) food
+20. We put the adjective ___ the noun
+   A) over
+   B) after
+   C) under
+   D) before
+21. A sentence begins with a ___ letter
+   A) dark
+   B) capital
+   C) small
+   D) round
+22. A sentence ends with a ___
+   A) full stop
+   B) comma only
+   C) dash
+   D) star
+23. We use capital letters for ___
+   A) numbers only
+   B) stones
+   C) names
+   D) trees
+24. We leave a ___ between words
+   A) tree
+   B) stone
+   C) cloud
+   D) space
+25. A word that takes the place of a noun is a ___
+   A) stone
+   B) pronoun
+   C) verb
+   D) song
+26. Which of these is a pronoun?
+   A) she
+   B) run
+   C) school
+   D) big
+27. "Amina is kind. ___ helps me." — choose the pronoun
+   A) Big
+   B) School
+   C) Run
+   D) She
+28. Pronouns help us not ___ nouns
+   A) burn
+   B) eat
+   C) repeat
+   D) hide
+29. How we write with a pen or pencil is ___
+   A) handwriting
+   B) running
+   C) singing
+   D) eating
+30. We write ___ on the line
+   A) badly
+   B) neatly
+   C) noisily
+   D) rudely
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two things we learnt in Year One
+32. Name three nouns
+33. Name three verbs
+34. Name three adjectives
+35. Name two things we find in a passage
+36. Name two rules for writing a sentence
+37. Name three pronouns
+38. Name two things we write about
+39. Name two measures of capacity
+40. Name two 3-D shapes
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is a noun? Name three. (2 marks)
+42. What is a verb? Name three. (2 marks)
+43. What is an adjective? Give one example. (2 marks)
+44. How does a sentence begin and end? (2 marks)
+45. What is a pronoun? Name three. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 2 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. In 345, the digit 3 is in the ___ place
+   A) hundreds
+   B) tens
+   C) units
+   D) thousands
+2. In 345, the digit 4 is in the ___ place
+   A) thousands
+   B) hundreds
+   C) units
+   D) tens
+3. In 345, the digit 5 is in the ___ place
+   A) thousands
+   B) hundreds
+   C) units
+   D) tens
+4. 100 is one ___
+   A) ten
+   B) hundred
+   C) thousand
+   D) unit
+5. 234 in words is "two hundred and ___"
+   A) thirty-four
+   B) four-three
+   C) three-four
+   D) thirty
+6. The digits of a number are its ___
+   A) songs
+   B) letters
+   C) words
+   D) figures
+7. 500 in words is "five ___"
+   A) thousand
+   B) unit
+   C) hundred
+   D) ten
+8. We use "___" after the hundred
+   A) or
+   B) and
+   C) so
+   D) but
+9. 345 is ___ than 245
+   A) smaller
+   B) equal
+   C) less
+   D) bigger
+10. 120 is ___ than 210
+   A) smaller
+   B) bigger
+   C) greater
+   D) equal
+11. The sign > means ___
+   A) less than
+   B) greater than
+   C) equal to
+   D) plus
+12. The sign < means ___
+   A) greater than
+   B) minus
+   C) less than
+   D) equal to
+13. A part of a whole is a ___
+   A) song
+   B) dream
+   C) stone
+   D) fraction
+14. One of two equal parts is a ___
+   A) half
+   B) hundred
+   C) whole
+   D) ten
+15. We write half as ___
+   A) 2/1
+   B) 1/3
+   C) 1/2
+   D) 1/4
+16. The two halves make the ___
+   A) zero
+   B) whole
+   C) part
+   D) none
+17. One of four equal parts is a ___
+   A) quarter
+   B) half
+   C) third
+   D) whole
+18. One of three equal parts is a ___
+   A) quarter
+   B) half
+   C) whole
+   D) third
+19. We write a quarter as ___
+   A) 1/3
+   B) 1/4
+   C) 4/1
+   D) 1/2
+20. The parts must be ___
+   A) equal
+   B) small
+   C) unequal
+   D) big
+21. A circle cut into two equal parts shows ___
+   A) quarters
+   B) wholes
+   C) halves
+   D) thirds
+22. A circle cut into four equal parts shows ___
+   A) wholes
+   B) thirds
+   C) halves
+   D) quarters
+23. If we colour 1 of 4 parts, we show ___
+   A) 1/3
+   B) 1/4
+   C) 4/1
+   D) 1/2
+24. The shape must be cut into ___ parts
+   A) equal
+   B) round
+   C) big
+   D) unequal
+25. Half of 6 oranges is ___ oranges
+   A) 4
+   B) 2
+   C) 6
+   D) 3
+26. Half of 10 sweets is ___ sweets
+   A) 10
+   B) 6
+   C) 5
+   D) 4
+27. A quarter of 8 is ___
+   A) 2
+   B) 3
+   C) 8
+   D) 4
+28. A third of 9 is ___
+   A) 2
+   B) 3
+   C) 4
+   D) 9
+29. What a digit is worth by its place is its ___
+   A) colour
+   B) name
+   C) place value
+   D) age
+30. A group of things is a ___
+   A) song
+   B) box
+   C) stone
+   D) collection
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name the three places in a number
+32. Name two numbers and write them in words
+33. Name two numbers and say which is bigger
+34. Name two things we can share into halves
+35. Name two fractions we know
+36. Name two fractions we can show with shapes
+37. Name two fractions of a collection
+38. Name two measures of capacity
+39. Name two 3-D shapes
+40. Name two things we use to solve problems
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is place value? Name the three places. (2 marks)
+42. Write 234 in words. (2 marks)
+43. What is a fraction? What is a half? (2 marks)
+44. What is a quarter? How do we write it? (2 marks)
+45. What is half of 6? What is a quarter of 8? (2 marks)
 
 
 ---
