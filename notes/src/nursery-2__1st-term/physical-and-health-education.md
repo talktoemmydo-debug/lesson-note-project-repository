@@ -40,6 +40,8 @@ Exercise makes the body move. Games have rules. Both keep me strong, quick and h
 3. Why does a game need rules?
 4. Say one game you love to play.
 
+
+![A girl jogging on the spot with a smile.](assets/img/nursery-2/1st-term/physical-and-health-education/week1-jogging-on-the-spot.png)
 **Worksheet**
 
 1. Exercise means activities that make the body A) move and work B) sleep C) grow cold D) rest
@@ -92,6 +94,8 @@ Balance on the spoon, jump in the sack, listen with the eyes shut. Play fairly a
 3. Who guides the blindfolded player?
 4. Say two things fair players do.
 
+
+![A girl balancing an egg on a spoon while she walks.](assets/img/nursery-2/1st-term/physical-and-health-education/week2-egg-and-spoon-race.png)
 **Worksheet**
 
 1. In the egg and spoon race, if the ball falls you A) cry B) hit your friend C) pick it up and carry on D) go home
@@ -142,6 +146,8 @@ Stretch, bend, raise, skip, leap and hop. Warm up first, land with bent knees, a
 3. What is the difference between leaping and hopping?
 4. Count twenty skips out loud.
 
+
+![A girl skipping over a rope.](assets/img/nursery-2/1st-term/physical-and-health-education/week3-skipping-with-a-rope.png)
 **Worksheet**
 
 1. Stretching before exercise mainly A) hurts the legs B) cools the body C) warms the muscles up D) makes us tired
@@ -194,6 +200,8 @@ Conditioning keeps the body fit; balance keeps us steady. Arms out, eyes fixed, 
 3. When do we freeze in the dancing game?
 4. Name one other balancing activity.
 
+
+![A girl balancing on one leg with her arms out.](assets/img/nursery-2/1st-term/physical-and-health-education/week4-balancing-on-one-leg.png)
 **Worksheet**
 
 1. Balance means staying A) fast B) loud C) asleep D) steady without falling
@@ -244,6 +252,8 @@ Fast, slow, freeze — that is the tambourine. Walk, jog, run, bend, turn, jump,
 3. What makes running faster than walking?
 4. Name three movements you do with the trunk.
 
+
+![A girl marching and jumping to a tambourine.](assets/img/nursery-2/1st-term/physical-and-health-education/week5-moving-to-the-tambourine.png)
 **Worksheet**
 
 1. When the tambourine plays quickly we move A) backwards only B) slowly C) not at all D) quickly
@@ -296,6 +306,8 @@ Throw underhand or overhand; step and throw. Catch with two hands, eyes on the b
 3. What do we do with our feet when we throw far?
 4. Name one throwing safety rule.
 
+
+![A girl catching a ball with two hands.](assets/img/nursery-2/1st-term/physical-and-health-education/week6-catching-with-two-hands.png)
 **Worksheet**
 
 1. Controlling and moving an object with the body is a A) manipulative movement B) song C) stretch D) balancing skill
@@ -348,6 +360,8 @@ Neuro-muscular = brain and muscles working together. Dance to the beat. Roll onl
 3. Where should the chin be during a forward roll?
 4. Why must an adult watch the roll?
 
+
+![A girl doing a forward roll on a mat.](assets/img/nursery-2/1st-term/physical-and-health-education/week8-forward-roll-on-the-mat.png)
 **Worksheet**
 
 1. A neuro-muscular skill joins the A) brain and the muscles B) shoe and the leg C) nose and the ear D) two hands
@@ -401,6 +415,8 @@ Sport builds flexibility, agility, balance, coordination, reaction, speed and st
 3. Name one activity that builds balance.
 4. Why do children also need rest?
 
+
+![A girl kicking a football.](assets/img/nursery-2/1st-term/physical-and-health-education/week9-kicking-the-ball.png)
 **Worksheet**
 
 1. Being able to bend and stretch easily is A) flexibility B) reaction C) speed D) strength
