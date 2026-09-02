@@ -587,3 +587,77 @@ written for them.
 **My own work**
 
 • Draw a scene from a story you know.
+
+---
+
+### WEEK 11 — ÀTÚNWÒ (REVISION)
+
+**You will learn to**
+
+• revise what we learnt
+
+• practise counting and colours
+
+• prepare for the paper
+
+**Things to know**
+
+• This week we **revise** our Yoruba work.
+
+• We revise **kíkà** — counting in Yoruba.
+
+• We revise **àwọ̀** — the colours.
+
+• We revise **ẹ̀yà ara** — the parts of the body.
+
+• We revise **oúnjẹ** — the foods we eat.
+
+• We revise **ẹranko** — the animals.
+
+• We revise **ilé àti ohun èlò** — home and things.
+
+• We revise **orin** and **ìtàn** — songs and stories.
+
+• We practise the words in our notebook.
+
+• Revision helps us do well in the paper.
+
+**Let us talk**
+
+1. What do we revise this week?
+
+2. Name one thing we learnt.
+
+3. Why do we revise?
+
+**Words for my notebook**
+
+• àtúnwò — revision
+
+• kíkà — counting
+
+• ọ̀rọ̀ — word
+
+**Worksheet**
+
+1. This week we ___ our Yoruba work.
+   A) revise B) forget C) lose D) hide
+
+2. Counting in Yoruba is ___.
+   A) kíkà B) àwọ̀ C) orin D) ìtàn
+
+3. Colours in Yoruba are ___.
+   A) àwọ̀ B) kíkà C) ẹranko D) oúnjẹ
+
+4. Revision helps us do ___ in the paper.
+   A) well B) badly C) slowly D) noisily
+
+5. Fill in: Revision in Yoruba is _____.
+
+6. Mention two things we revised.
+
+7. Write why we revise.
+
+**My own work**
+
+• Write and trace five Yoruba words you learnt.

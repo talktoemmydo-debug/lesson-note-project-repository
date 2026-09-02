@@ -1,6 +1,8 @@
 # Primary 2 — First Term
 
-*Pupil's book · every subject offered to this class, every teaching week of the term.*
+**TEACHER COPY — not for pupils.** This file carries the term-paper keys, the answer texts and the marking points. Keep it out of the pupil's book and out of the classroom pile.
+
+*Teacher's edition · the pupil pages plus the keys and marking guidance.*
 
 **11 subjects · 97 lessons · 12 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
@@ -123,17 +125,17 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE](#week-8-nigerian-history-ii-colonial-era-and-independence) · 74
   - [WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID](#week-9-nigerian-heroes-who-they-were-and-what-they-did) · 75
 - **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 76
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 78
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 80
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 82
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)](#examination-practice-nigerian-history-primary-2-1st-term)** · 84
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 1st Term)](#examination-practice-physical-and-health-education-primary-2-1st-term)** · 86
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 1st Term)](#examination-practice-prevocational-studies-primary-2-1st-term)** · 88
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-2-1st-term)** · 90
-- **[EXAMINATION PRACTICE — YORUBA (Primary 2 · 1st Term)](#examination-practice-yoruba-primary-2-1st-term)** · 92
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 2 · 1st Term)](#examination-practice-mathematics-english-english-language-primary-2-1st-term)** · 94
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 2 · 1st Term)](#examination-practice-mathematics-english-mathematics-primary-2-1st-term)** · 96
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 98
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 79
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 82
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 85
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)](#examination-practice-nigerian-history-primary-2-1st-term)** · 88
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 1st Term)](#examination-practice-physical-and-health-education-primary-2-1st-term)** · 91
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 1st Term)](#examination-practice-prevocational-studies-primary-2-1st-term)** · 94
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-2-1st-term)** · 97
+- **[EXAMINATION PRACTICE — YORUBA (Primary 2 · 1st Term)](#examination-practice-yoruba-primary-2-1st-term)** · 100
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 2 · 1st Term)](#examination-practice-mathematics-english-english-language-primary-2-1st-term)** · 103
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 2 · 1st Term)](#examination-practice-mathematics-english-mathematics-primary-2-1st-term)** · 106
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 109
 
 
 
@@ -7614,6 +7616,61 @@ Answer in full sentences.
 45. Name the two seasons in Nigeria. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — living
+2. A — breathe
+3. B — a goat
+4. D — water
+5. C — root
+6. A — leaf
+7. B — flower
+8. C — air
+9. A — domestic
+10. D — fish
+11. B — bird
+12. C — help
+13. D — eye
+14. A — ear
+15. B — heart
+16. C — eating
+17. A — five
+18. D — eyes
+19. C — tongue
+20. B — skin
+21. A — health
+22. D — night
+23. C — eating
+24. A — sickness
+25. B — breathe
+26. D — wind
+27. C — wash
+28. B — clean
+29. A — weather
+30. D — rainy
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. a man; a goat; a tree; a bird
+32. a stone; a table; water; a chair
+33. root; stem; leaf; flower; fruit
+34. dog; cat; goat; cow
+35. fish; crab
+36. head; hand; leg; eye; ear
+37. sight; hearing; smell; taste; touch
+38. bathing; brushing teeth; washing hands
+39. drinking; bathing; cooking; washing
+40. sunny; rainy; windy; cloudy
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -7798,6 +7855,61 @@ Answer in full sentences.
 43. What is a craft? Name one you can make. (2 marks)
 44. What is music? Name two musical instruments. (2 marks)
 45. What is culture? Name two parts of it. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — art
+2. D — crayon
+3. C — brush
+4. A — pictures
+5. B — yellow
+6. D — orange
+7. A — green
+8. B — purple
+9. D — craft
+10. C — clay
+11. A — clay
+12. D — cut
+13. C — music
+14. B — singing
+15. D — drum
+16. C — happy
+17. A — dance
+18. B — body
+19. D — school
+20. C — strong
+21. B — drama
+22. A — role
+23. C — body
+24. B — costumes
+25. D — local
+26. A — straw
+27. B — clay
+28. C — aso-oke
+29. D — culture
+30. A — dance
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. pencil; crayon; brush; paint
+32. red; blue; yellow
+33. pots; baskets; mats; beads
+34. drum; guitar; piano; flute
+35. festivals; parties; school
+36. voice; body; costumes
+37. baskets; mats; pots; aso-oke
+38. language; food; dress; dance
+39. orange; green; purple
+40. clay; paper; leaves; straw
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -7986,6 +8098,61 @@ Answer in full sentences.
 45. What is faith? Who is called the father of faith? (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — earth
+2. B — image
+3. C — good
+4. D — six
+5. B — loves
+6. A — Jesus
+7. C — loving
+8. D — need
+9. B — Bible
+10. A — God's
+11. D — New
+12. C — respect
+13. A — prayer
+14. B — praise
+15. D — hears
+16. A — sincere
+17. C — Adam
+18. B — Eve
+19. D — Eden
+20. C — disobeyed
+21. B — Noah
+22. A — boat
+23. C — forty
+24. D — obeyed
+25. A — Abraham
+26. B — land
+27. C — trusting
+28. A — faith
+29. D — Joseph
+30. B — Egypt
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. the sun; the moon; plants; animals; man
+32. giving food; giving family; sending Jesus
+33. about God; about Jesus; how to live
+34. in the morning; at night; before meals
+35. the garden; the animals; the trees
+36. his family; two of every animal
+37. left his home; trusted God; obeyed God
+38. he was sold; he became a ruler; he forgave his brothers
+39. loving others; helping those in need; forgiving
+40. home; school; church
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -8170,6 +8337,61 @@ Answer in full sentences.
 43. What is software? Can we touch it? (2 marks)
 44. Name two uses of computers. (2 marks)
 45. Name two ways to care for the computer. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. B — computer
+2. C — monitor
+3. A — system unit
+4. D — electricity
+5. C — hardware
+6. B — keyboard
+7. A — monitor
+8. D — system unit
+9. C — software
+10. B — no
+11. A — application
+12. C — cannot do anything
+13. B — type
+14. D — money
+15. C — calculate
+16. B — easy
+17. A — computer
+18. D — permission
+19. C — eat or drink
+20. A — care
+21. B — keyboard
+22. D — type
+23. A — space bar
+24. B — gently
+25. C — mouse
+26. D — click
+27. B — pointer
+28. C — lasts long
+29. D — dust
+30. A — properly
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. monitor; keyboard; mouse; system unit
+32. monitor; keyboard; mouse; printer
+33. keyboard; mouse; scanner
+34. monitor; printer; speaker
+35. system software; application software
+36. learning; typing; drawing; calculating
+37. do not eat or drink; handle with care; keep it clean
+38. letter keys; number keys; space bar; enter key
+39. point; click; drag; double-click
+40. keep it clean; do not eat near it; switch off properly
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -8358,6 +8580,61 @@ Answer in full sentences.
 45. When did Nigeria become independent? Who was the first Prime Minister? (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — Nigeria
+2. C — Africa
+3. B — Abuja
+4. D — Naira
+5. C — Igbo
+6. A — tribe
+7. D — culture
+8. C — English
+9. B — community
+10. A — Nok
+11. C — Ife
+12. B — empire
+13. A — traditional
+14. D — Oba
+15. B — Obi
+16. C — peace
+17. D — festival
+18. A — New Yam
+19. C — durbar
+20. B — feast
+21. A — trade
+22. D — barter
+23. B — cowries
+24. A — markets
+25. D — colonial
+26. C — trade
+27. A — colony
+28. B — amalgamation
+29. D — 1960
+30. C — Abubakar Tafawa Balewa
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. it is in Africa; its capital is Abuja; it has 36 states
+32. Hausa; Yoruba; Igbo; Ijaw; Tiv
+33. Nok; Ife; Benin; Kanem-Borno
+34. Emir; Oba; Obi; Sultan
+35. New Yam; durbar; Egungun; Osun
+36. salt; cloth; food; tools
+37. roads; schools; railways
+38. it was on 1 October 1960; the first Prime Minister was Tafawa Balewa
+39. Nnamdi Azikiwe; Abubakar Tafawa Balewa; Obafemi Awolowo; Ahmadu Bello
+40. keep culture; settle disputes; guide the people
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -8542,6 +8819,61 @@ Answer in full sentences.
 43. What is hygiene? Name two ways to keep clean. (2 marks)
 44. What is a balanced diet? Name two food groups. (2 marks)
 45. What is first aid? Name one thing we do. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. B — legs
+2. A — joint
+3. C — muscle
+4. B — healthy
+5. D — locomotor
+6. A — running
+7. B — hopping
+8. D — leap
+9. C — non-locomotor
+10. A — stretching
+11. D — twisting
+12. C — balancing
+13. B — game
+14. A — rules
+15. C — team
+16. D — fit
+17. B — hygiene
+18. A — water
+19. D — night
+20. B — clean
+21. C — balanced
+22. A — carbohydrates
+23. B — protein
+24. C — protect
+25. A — safety
+26. D — sharp
+27. B — first
+28. C — cover
+29. D — rest
+30. A — sleep
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. legs; arms; head; trunk
+32. walking; running; jumping; hopping; leaping
+33. bending; stretching; twisting; balancing
+34. football; tag; local games
+35. bathing; brushing teeth; washing hands
+36. carbohydrates; proteins; vitamins; minerals
+37. do not play with sharp things; cross the road with care
+38. wash a cut; cover it; call a grown-up
+39. sleep at night; rest in the day
+40. rice; yam; beans
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -8730,6 +9062,61 @@ Answer in full sentences.
 45. What is sharing? Why do we save? (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — work
+2. B — sweep
+3. C — classroom
+4. A — honest
+5. B — tool
+6. D — broom
+7. A — hoe
+8. B — bucket
+9. D — farming
+10. C — farmer
+11. A — rice
+12. D — food
+13. B — care
+14. C — place
+15. A — break
+16. D — last long
+17. C — prepare
+18. B — hands
+19. D — covered
+20. C — utensils
+21. B — clothing
+22. A — clean
+23. C — soap
+24. D — sun
+25. B — environment
+26. A — dustbin
+27. D — litter
+28. C — plant
+29. A — saving
+30. B — sharing
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. sweeping; fetching water; washing; cooking
+32. broom; hoe; bucket; knife; pot
+33. yam; maize; rice; cassava
+34. books; clothes; toys; tools
+35. wash; peel; cut; stir; serve
+36. shirts; trousers; dresses; shoes
+37. sweep; throw rubbish in the dustbin; plant trees
+38. money; food
+39. goats; cows; chickens
+40. put them in their place; do not waste them
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -8914,6 +9301,61 @@ Answer in full sentences.
 43. What are rules? Name two rules at school. (2 marks)
 44. Name two rights we have and two duties we have. (2 marks)
 45. Who is a good citizen? Name one thing a good citizen does. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. B — family
+2. C — first
+3. A — family
+4. D — cares
+5. B — community
+6. C — works
+7. A — doctors
+8. B — safe
+9. D — rule
+10. C — well
+11. B — obey
+12. D — peace
+13. A — right
+14. C — learn
+15. D — duty
+16. A — obey
+17. C — respect
+18. B — truth
+19. D — lie
+20. C — trusted
+21. A — peace
+22. B — share
+23. D — sorry
+24. C — kind
+25. A — culture
+26. B — dance
+27. D — elders
+28. C — local
+29. A — community
+30. B — citizen
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. father; mother; brother; sister; grandparents
+32. farmers; traders; teachers; doctors
+33. obey teachers; do not fight; keep the place clean
+34. right to life; right to learn; right to food; right to care
+35. obey rules; respect elders; care for our things
+36. greet elders; use kind words
+37. share; help one another; say sorry
+38. language; food; dress; dance
+39. keep it clean; plant trees; obey the rules
+40. obeys the law; respects others; keeps the environment clean
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -9102,6 +9544,61 @@ Answer in full sentences.
 45. What is a story? Name one you know. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — àrún
+2. D — ẹ̀wá
+3. B — ogún
+4. A — ẹ̀ta
+5. D — pupa
+6. C — búlùù
+7. B — dúdú
+8. D — funfun
+9. A — orí
+10. C — ojú
+11. B — ọwọ́
+12. D — ẹsẹ̀
+13. C — iṣu
+14. A — omi
+15. B — ẹja
+16. D — strong
+17. A — ajá
+18. C — olóngbò
+19. B — erin
+20. D — adìẹ
+21. C — ilé
+22. A — ìlékùn
+23. B — àga
+24. C — ìdáná
+25. D — orin
+26. A — lullabies
+27. B — happy
+28. C — voice
+29. A — ìtàn
+30. D — àlọ́
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. ọ̀kan; èjì; ẹ̀ta; ẹ̀rin; àrún
+32. pupa; búlùù; dúdú; funfun; yélò
+33. orí; ojú; ọwọ́; ẹsẹ̀; etí
+34. iṣu; ọkà; ìrèsí; ẹ̀wà; ẹja
+35. ajá; olóngbò; erin; adìẹ; ewúrẹ́
+36. ìlékùn; àga; tábìlì; ìkòkò
+37. lullabies; play songs; praise songs
+38. any folk tale; any Bible story
+39. food; milk; eggs; meat
+40. lessons; wisdom; culture
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -9286,6 +9783,61 @@ Answer in full sentences.
 43. What is an adjective? Give one example. (2 marks)
 44. How does a sentence begin and end? (2 marks)
 45. What is a pronoun? Name three. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — alphabet
+2. B — phonics
+3. C — words
+4. A — revise
+5. B — noun
+6. D — school
+7. C — special
+8. B — capital
+9. D — verb
+10. A — run
+11. C — runs
+12. D — clearly
+13. A — comprehension
+14. B — passage
+15. C — questions
+16. D — sentences
+17. A — adjective
+18. B — big
+19. C — shape
+20. D — before
+21. B — capital
+22. A — full stop
+23. C — names
+24. D — space
+25. B — pronoun
+26. A — she
+27. D — She
+28. C — repeat
+29. A — handwriting
+30. B — neatly
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. the alphabet; phonics; simple words
+32. boy; school; book; Lagos
+33. run; jump; eat; read
+34. big; red; tall; small
+35. who; what; where; main idea
+36. begin with a capital letter; end with a full stop
+37. he; she; it; they; we
+38. family; school; friends
+39. litres; millilitres
+40. cube; sphere; cylinder
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -9474,6 +10026,61 @@ Answer in full sentences.
 45. What is half of 6? What is a quarter of 8? (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — hundreds
+2. D — tens
+3. C — units
+4. B — hundred
+5. A — thirty-four
+6. D — figures
+7. C — hundred
+8. B — and
+9. D — bigger
+10. A — smaller
+11. B — greater than
+12. C — less than
+13. D — fraction
+14. A — half
+15. C — 1/2
+16. B — whole
+17. A — quarter
+18. D — third
+19. B — 1/4
+20. A — equal
+21. C — halves
+22. D — quarters
+23. B — 1/4
+24. A — equal
+25. D — 3
+26. C — 5
+27. A — 2
+28. B — 3
+29. C — place value
+30. D — collection
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. hundreds; tens; units
+32. two hundred; three hundred and four
+33. 345 and 245; 120 and 210
+34. an orange; a cake; a paper
+35. half; quarter; third
+36. 1/2; 1/4; 1/3
+37. half of 6; quarter of 8
+38. litres; millilitres
+39. cube; sphere; cylinder
+40. addition; subtraction
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -9658,3 +10265,58 @@ Answer in full sentences.
 43. What does the white on the Nigerian flag stand for? (2 marks)
 44. When did Nigeria become independent? Who was the first Prime Minister? (2 marks)
 45. Name two Nigerian heroes and what they did. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. B — 36
+2. C — Makurdi
+3. D — Jos
+4. A — North-West
+5. C — Maiduguri
+6. B — Port Harcourt
+7. A — Benin City
+8. D — North-East
+9. B — Ikeja
+10. C — Ibadan
+11. A — Abuja
+12. D — Federal
+13. C — three
+14. B — governor
+15. D — president
+16. C — chairman
+17. A — president
+18. B — time
+19. C — green
+20. A — peace
+21. D — eagle
+22. B — Naira
+23. A — Britain
+24. C — 1960
+25. D — ruling
+26. B — Abubakar Tafawa Balewa
+27. A — hero
+28. D — Nnamdi Azikiwe
+29. C — Obafemi Awolowo
+30. B — hardworking
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. Kano; Kaduna; Katsina; Sokoto
+32. Rivers; Delta; Edo; Bayelsa
+33. Lagos; Ogun; Oyo; Osun; Ondo; Ekiti
+34. local; state; federal
+35. president; governor; chairman; ministers
+36. the flag; the coat of arms; the National Anthem; the Naira
+37. it was on 1 October 1960; the first Prime Minister was Tafawa Balewa
+38. Nnamdi Azikiwe; Abubakar Tafawa Balewa; Obafemi Awolowo; Ahmadu Bello
+39. North-Central; North-West; North-East; South-South; South-East; South-West
+40. makes laws; provides services
+41. 
+42. 
+43. 
+44. 
+45.
+
