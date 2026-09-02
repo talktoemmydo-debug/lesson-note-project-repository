@@ -752,3 +752,14 @@ key". First/Second/Third build at exit 0 with 129/129 Contents and the page audi
 pupil edition is untouched. The weekly-worksheet answers are **not** printed: they were never stored as data (the
 shuffle tool "does not need to know which option is right"), so printing them would be guessing — the gap is logged
 in `70-OPEN-QUESTIONS.md` and the teacher copy gains worksheet keys only once they are authored as data.
+
+## 2 Sep 2026 — Primary 1 begins: Basic Science First Term authored and green
+
+The owner closed Nursery 2 and ordered *"Continue to primary one ASAP."* No new tools were needed — the pipeline is
+class-agnostic. `notes/src/primary-1__1st-term/basic-science.md` (8 notes, weeks 1–6/8/9: road and safety, environment
+and colours, shapes I and II, living things, non-living things, air and wind, soil) and its 30/10/5 paper were
+authored to the house shape and validated: `spec_from_lines` 1 of 1, `sheet_check` all well formed, `make_exam
+--strict` PASS (A=7 B=8 C=8 D=7, exploitable-longest 0), `polish_audit` 0 to fix. The note worksheets came out
+correct-first (all-A), so `shuffle_worksheet_options.py` was run (24 items moved) and the inferred spread became
+A=0 B=1 C=2 D=3, longest run 2. `gates.py --class "Primary 1" --term "1st Term"` is **ALL CLEAR** with the expected
+`[half]` book line (1 of 11 subjects). Tracked in `PROJECT/77-PRIMARY-1.md`.

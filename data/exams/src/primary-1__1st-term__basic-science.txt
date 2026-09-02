@@ -1,0 +1,55 @@
+# Basic Science — Primary 1 · First Term · term paper
+subject: Basic Science
+class: Primary 1
+term: 1st Term
+
+[objective]
+A road that is smooth and black is called a ___ || tarred road || muddy road || bush path || water way
+The small road that people use for walking is a ___ || pathway || highway || bridge || flyover
+The traffic light that tells us to stop is ___ || red || green || yellow || blue
+Everything around us at home and at school is the ___ || environment || calendar || notebook || market
+Red, blue and yellow are the ___ colours || primary || secondary || dark || pale
+A round shape with no corners is a ___ || circle || square || triangle || rectangle
+The shape with three sides and three corners is a ___ || triangle || square || circle || oval
+A shape with four equal sides and four corners is a ___ || square || rectangle || oval || star
+The shape of an egg is an ___ || oval || circle || square || heart
+A tin of milk is the solid shape called a ___ || cylinder || cube || sphere || cone
+A ball is the solid shape called a ___ || sphere || cube || cylinder || cone
+Things that have life like humans, animals and plants are ___ things || living || non-living || man-made || stone
+A dog, a cat and a goat are ___ || living things || non-living things || toys || tools
+Living things eat, grow, breathe and ___ || move || melt || rust || break
+A plant needs water, air and ___ to grow well || sunlight || shoes || paper || money
+Things that do not eat, grow or breathe are ___ || non-living things || living things || animals || plants
+A stone, a chair and a book are ___ || non-living things || living things || pets || crops
+Rocks, soil, water and sand are ___ non-living things || natural || man-made || living || growing
+Cars, houses, chairs and toys are ___ non-living things || man-made || natural || living || breathing
+Moving air is called ___ || wind || rain || cloud || sun
+We cannot see air but we can ___ it || feel || eat || wear || hold
+We use air for breathing, drying clothes and ___ || flying a kite || reading a book || writing a letter || sleeping on a bed
+The top part of the ground where plants grow is ___ || soil || water || air || cloud
+The soil that is best for growing plants is ___ || loamy || rocky || dry || hard
+A pot for cooking can be made from ___ || clay || air || water || glass
+Soil can be black, brown, red or ___ || yellow || blue || green || purple
+We cross the road at the ___ crossing || zebra || river || market || school
+Two primary colours mixed together give a ___ colour || secondary || primary || clear || white
+A house gives living things ___ || shelter || noise || smoke || dust
+We care for the soil by not littering and by ___ || planting trees || burning rubbish || cutting trees || pouring oil
+
+[subobjective]
+Name the three primary colours :: red | blue | yellow
+Name two things that move on the road :: car | bicycle | bus
+Name two living things on a farm :: goat | hen | cow
+Name two man-made non-living things :: chair | table | car
+Name two natural non-living things :: rock | water | sand
+Name two ways we feel air :: blowing | fanning | waving
+Name two places we find soil :: garden | farm | pot
+Name two basic shapes :: circle | square | triangle
+Name two solid shapes :: sphere | cube | cylinder
+Name two things made from soil :: pot | mud house | flower pot
+
+[theory]
+What is a road and one thing that uses it? || 2
+Say what living things need to live. || 2
+Tell the difference between living and non-living things. || 2
+What is wind and one use of air? || 2
+Name the three types of soil. || 2
