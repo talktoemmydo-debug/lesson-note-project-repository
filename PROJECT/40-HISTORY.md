@@ -786,3 +786,10 @@ Eight notes (lines, shapes and sizes, texture, art materials and tools, Nigerian
 beautification, performing arts) plus a 30/10/5 paper; first pass was clean — `sheet_check` all well formed,
 `make_exam --strict` PASS (A=7 B=8 C=7 D=8), worksheets shuffled (96 items) to longest run 2, `polish_audit` 0 to fix.
 `gates.py` ALL CLEAR with `[half]` (4 of 11).
+
+## 2 Sep 2026 — Primary 1 · General Knowledge authored and green (5 of 11)
+
+Eight civics notes (myself, my family, my school, my classroom, my home and neighbourhood, community helpers, my
+country Nigeria, being a good citizen) on the school-scheme provenance the Nursery 2 GK used, plus a 30/10/5 paper
+(A=7 B=7 C=8 D=8). Two "My own work" lines first paired a grown-up with a writing verb (the deputise heuristic) and
+were reworded so the child acts alone; `polish_audit` then 0 to fix, `gates.py` ALL CLEAR with `[half]` (5 of 11).
