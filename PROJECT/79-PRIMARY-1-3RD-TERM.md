@@ -26,7 +26,7 @@ building and spelling · wk9 Phonemic awareness and listening.
 | 3 | christian-religious-studies | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · exempt from plates · gates ok |
 | 4 | cultural-and-creative-arts | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=8 D=7) · sheet_lint 0 · gates ok |
 | 5 | general-knowledge | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=8 C=7 D=7) · sheet_lint 0 · exempt from plates · gates ok |
-| 6 | nigerian-history | — |
+| 6 | nigerian-history | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=8 D=7) · sheet_lint 0 · exempt from plates · gates ok |
 | 7 | physical-and-health-education | — |
 | 8 | prevocational-studies | — |
 | 9 | social-and-citizenship-studies | — |

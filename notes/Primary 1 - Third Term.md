@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 5 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 6 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,58 +12,68 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*5 subjects · 40 lessons · 5 term practice papers. Each part begins on a fresh page.*
+*6 subjects · 48 lessons · 6 term practice papers. Each part begins on a fresh page.*
 
-- **[Basic Science](#basic-science)** · 2
-  - [WEEK 1 — ENERGY AROUND US](#week-1-energy-around-us) · 2
-  - [WEEK 2 — PUSH AND PULL](#week-2-push-and-pull) · 2
-  - [WEEK 3 — SIMPLE MACHINES](#week-3-simple-machines) · 3
-  - [WEEK 4 — GROWTH AND CHANGE](#week-4-growth-and-change) · 4
-  - [WEEK 5 — ELECTRICITY AND SAFETY](#week-5-electricity-and-safety) · 4
-  - [WEEK 6 — MAGNETS](#week-6-magnets) · 5
-  - [WEEK 8 — WASTE AND RECYCLING](#week-8-waste-and-recycling) · 6
-  - [WEEK 9 — CARING FOR OUR ENVIRONMENT](#week-9-caring-for-our-environment) · 6
-- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
-  - [WEEK 1 — PATTERNS AND DESIGN](#week-1-patterns-and-design) · 8
-  - [WEEK 2 — PRINTMAKING](#week-2-printmaking) · 8
-  - [WEEK 3 — WEAVING AND BASKETRY](#week-3-weaving-and-basketry) · 9
-  - [WEEK 4 — POTTERY AND CLAY WORK](#week-4-pottery-and-clay-work) · 10
-  - [WEEK 5 — FOLK SONGS AND RHYMES](#week-5-folk-songs-and-rhymes) · 10
-  - [WEEK 6 — CULTURAL DANCES](#week-6-cultural-dances) · 11
-  - [WEEK 8 — PUPPETRY AND MASQUERADE](#week-8-puppetry-and-masquerade) · 12
-  - [WEEK 9 — OUR CULTURAL HERITAGE](#week-9-our-cultural-heritage) · 12
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
-  - [WEEK 1 — JESUS TEACHES US TO LOVE](#week-1-jesus-teaches-us-to-love) · 14
-  - [WEEK 2 — THE PARABLE OF THE GOOD SAMARITAN](#week-2-the-parable-of-the-good-samaritan) · 14
-  - [WEEK 3 — THE PARABLE OF THE LOST SHEEP](#week-3-the-parable-of-the-lost-sheep) · 15
-  - [WEEK 4 — THE LORD'S PRAYER](#week-4-the-lords-prayer) · 16
-  - [WEEK 5 — JESUS IS ARRESTED](#week-5-jesus-is-arrested) · 16
-  - [WEEK 6 — THE DEATH OF JESUS](#week-6-the-death-of-jesus) · 17
-  - [WEEK 8 — JESUS RISES AGAIN](#week-8-jesus-rises-again) · 18
-  - [WEEK 9 — JESUS SENDS HIS DISCIPLES](#week-9-jesus-sends-his-disciples) · 18
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
-  - [WEEK 1 — STORING OUR WORK](#week-1-storing-our-work) · 20
-  - [WEEK 2 — THE INTERNET](#week-2-the-internet) · 20
-  - [WEEK 3 — SENDING A MESSAGE](#week-3-sending-a-message) · 21
-  - [WEEK 4 — LEARNING SOFTWARE](#week-4-learning-software) · 22
-  - [WEEK 5 — COMPUTERS IN DAILY LIFE](#week-5-computers-in-daily-life) · 22
-  - [WEEK 6 — PEOPLE WHO WORK WITH COMPUTERS](#week-6-people-who-work-with-computers) · 23
-  - [WEEK 8 — BEING SAFE ONLINE](#week-8-being-safe-online) · 24
-  - [WEEK 9 — CARING FOR OUR DEVICES](#week-9-caring-for-our-devices) · 24
-- **[General Knowledge](#general-knowledge)** · 26
-  - [WEEK 1 — TRANSPORTATION](#week-1-transportation) · 26
-  - [WEEK 2 — COMMUNICATION](#week-2-communication) · 26
-  - [WEEK 3 — MONEY AND TRADE](#week-3-money-and-trade) · 27
-  - [WEEK 4 — NATURAL RESOURCES](#week-4-natural-resources) · 28
-  - [WEEK 5 — TECHNOLOGY AROUND US](#week-5-technology-around-us) · 28
-  - [WEEK 6 — RULES AND LAWS](#week-6-rules-and-laws) · 29
-  - [WEEK 8 — BEING A RESPONSIBLE CHILD](#week-8-being-a-responsible-child) · 30
-  - [WEEK 9 — OUR NEIGHBOURS AND THE WORLD](#week-9-our-neighbours-and-the-world) · 30
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 32
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 3rd Term)](#examination-practice-cultural-and-creative-arts-primary-1-3rd-term)** · 34
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)](#examination-practice-christian-religious-studies-primary-1-3rd-term)** · 36
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 38
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 3rd Term)](#examination-practice-general-knowledge-primary-1-3rd-term)** · 40
+- **[Basic Science](#basic-science)** · 3
+  - [WEEK 1 — ENERGY AROUND US](#week-1-energy-around-us) · 3
+  - [WEEK 2 — PUSH AND PULL](#week-2-push-and-pull) · 3
+  - [WEEK 3 — SIMPLE MACHINES](#week-3-simple-machines) · 4
+  - [WEEK 4 — GROWTH AND CHANGE](#week-4-growth-and-change) · 5
+  - [WEEK 5 — ELECTRICITY AND SAFETY](#week-5-electricity-and-safety) · 5
+  - [WEEK 6 — MAGNETS](#week-6-magnets) · 6
+  - [WEEK 8 — WASTE AND RECYCLING](#week-8-waste-and-recycling) · 7
+  - [WEEK 9 — CARING FOR OUR ENVIRONMENT](#week-9-caring-for-our-environment) · 7
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 9
+  - [WEEK 1 — PATTERNS AND DESIGN](#week-1-patterns-and-design) · 9
+  - [WEEK 2 — PRINTMAKING](#week-2-printmaking) · 9
+  - [WEEK 3 — WEAVING AND BASKETRY](#week-3-weaving-and-basketry) · 10
+  - [WEEK 4 — POTTERY AND CLAY WORK](#week-4-pottery-and-clay-work) · 11
+  - [WEEK 5 — FOLK SONGS AND RHYMES](#week-5-folk-songs-and-rhymes) · 11
+  - [WEEK 6 — CULTURAL DANCES](#week-6-cultural-dances) · 12
+  - [WEEK 8 — PUPPETRY AND MASQUERADE](#week-8-puppetry-and-masquerade) · 13
+  - [WEEK 9 — OUR CULTURAL HERITAGE](#week-9-our-cultural-heritage) · 13
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 15
+  - [WEEK 1 — JESUS TEACHES US TO LOVE](#week-1-jesus-teaches-us-to-love) · 15
+  - [WEEK 2 — THE PARABLE OF THE GOOD SAMARITAN](#week-2-the-parable-of-the-good-samaritan) · 15
+  - [WEEK 3 — THE PARABLE OF THE LOST SHEEP](#week-3-the-parable-of-the-lost-sheep) · 16
+  - [WEEK 4 — THE LORD'S PRAYER](#week-4-the-lords-prayer) · 17
+  - [WEEK 5 — JESUS IS ARRESTED](#week-5-jesus-is-arrested) · 17
+  - [WEEK 6 — THE DEATH OF JESUS](#week-6-the-death-of-jesus) · 18
+  - [WEEK 8 — JESUS RISES AGAIN](#week-8-jesus-rises-again) · 19
+  - [WEEK 9 — JESUS SENDS HIS DISCIPLES](#week-9-jesus-sends-his-disciples) · 19
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 21
+  - [WEEK 1 — STORING OUR WORK](#week-1-storing-our-work) · 21
+  - [WEEK 2 — THE INTERNET](#week-2-the-internet) · 21
+  - [WEEK 3 — SENDING A MESSAGE](#week-3-sending-a-message) · 22
+  - [WEEK 4 — LEARNING SOFTWARE](#week-4-learning-software) · 23
+  - [WEEK 5 — COMPUTERS IN DAILY LIFE](#week-5-computers-in-daily-life) · 23
+  - [WEEK 6 — PEOPLE WHO WORK WITH COMPUTERS](#week-6-people-who-work-with-computers) · 24
+  - [WEEK 8 — BEING SAFE ONLINE](#week-8-being-safe-online) · 25
+  - [WEEK 9 — CARING FOR OUR DEVICES](#week-9-caring-for-our-devices) · 25
+- **[Nigerian History](#nigerian-history)** · 27
+  - [WEEK 1 — NIGERIA'S INDEPENDENCE](#week-1-nigerias-independence) · 27
+  - [WEEK 2 — OUR FIRST LEADERS](#week-2-our-first-leaders) · 27
+  - [WEEK 3 — UNITY IN DIVERSITY](#week-3-unity-in-diversity) · 28
+  - [WEEK 4 — NIGERIAN LANGUAGES](#week-4-nigerian-languages) · 29
+  - [WEEK 5 — TRADITIONAL RELIGION AND BELIEFS](#week-5-traditional-religion-and-beliefs) · 29
+  - [WEEK 6 — TRADE IN THE PAST](#week-6-trade-in-the-past) · 30
+  - [WEEK 8 — NIGERIA TODAY](#week-8-nigeria-today) · 31
+  - [WEEK 9 — BEING A GOOD NIGERIAN](#week-9-being-a-good-nigerian) · 31
+- **[General Knowledge](#general-knowledge)** · 33
+  - [WEEK 1 — TRANSPORTATION](#week-1-transportation) · 33
+  - [WEEK 2 — COMMUNICATION](#week-2-communication) · 33
+  - [WEEK 3 — MONEY AND TRADE](#week-3-money-and-trade) · 34
+  - [WEEK 4 — NATURAL RESOURCES](#week-4-natural-resources) · 35
+  - [WEEK 5 — TECHNOLOGY AROUND US](#week-5-technology-around-us) · 35
+  - [WEEK 6 — RULES AND LAWS](#week-6-rules-and-laws) · 36
+  - [WEEK 8 — BEING A RESPONSIBLE CHILD](#week-8-being-a-responsible-child) · 37
+  - [WEEK 9 — OUR NEIGHBOURS AND THE WORLD](#week-9-our-neighbours-and-the-world) · 37
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 39
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 3rd Term)](#examination-practice-cultural-and-creative-arts-primary-1-3rd-term)** · 41
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)](#examination-practice-christian-religious-studies-primary-1-3rd-term)** · 43
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 45
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 3rd Term)](#examination-practice-nigerian-history-primary-1-3rd-term)** · 47
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 3rd Term)](#examination-practice-general-knowledge-primary-1-3rd-term)** · 49
 
 
 
@@ -2485,6 +2495,610 @@ written for them.
 
 ---
 
+# Nigerian History
+
+These are the notes for the third term of Primary 1. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 1 · Nigerian History · Third Term W1-6, 8-9 (Nigeria's independence; our first leaders; unity in diversity; Nigerian languages; traditional religion and beliefs; trade in the past; Nigeria today; being a good Nigerian).*
+
+
+### WEEK 1 — NIGERIA'S INDEPENDENCE
+
+**You will learn to**
+
+• say what independence is
+
+• say when Nigeria became independent
+
+• rejoice in our freedom
+
+**Things to know**
+
+• **Independence** is freedom to rule ourselves.
+
+• Nigeria became independent on **1 October 1960**.
+
+• Before that, Britain ruled Nigeria.
+
+• Nigerians worked hard for independence.
+
+• **Herbert Macaulay** and **Nnamdi Azikiwe** fought for freedom.
+
+• On independence day, the Nigerian flag was raised.
+
+• Nigeria became a free country.
+
+• We celebrate independence every 1 October.
+
+• Independence means Nigerians rule Nigeria.
+
+• We are proud of our independence.
+
+**Let us talk**
+
+1. What is independence?
+
+2. When did Nigeria become independent?
+
+3. Name one person who fought for independence.
+
+**Words for my notebook**
+
+• independence — freedom to rule ourselves
+
+• 1 October 1960 — the day Nigeria became independent
+
+• freedom — being free to choose
+
+**Worksheet**
+
+1. Freedom to rule ourselves is ___.
+   A) independence B) slavery C) hunger D) noise
+
+2. Nigeria became independent on 1 October ___.
+   A) 1960 B) 1900 C) 2000 D) 1914
+
+3. Before independence, ___ ruled Nigeria.
+   A) Britain B) Ghana C) Egypt D) Kenya
+
+4. ___ fought for Nigeria's freedom.
+   A) Nnamdi Azikiwe B) a stranger C) a robber D) nobody
+
+5. Fill in: We celebrate independence every 1 _____.
+
+6. Mention two people who fought for independence.
+
+7. Write when Nigeria became independent.
+
+**My own work**
+
+• Draw the Nigerian flag being raised.
+
+---
+
+### WEEK 2 — OUR FIRST LEADERS
+
+**You will learn to**
+
+• name Nigeria's first leaders
+
+• say what they did
+
+• respect our leaders
+
+**Things to know**
+
+• **Nnamdi Azikiwe** was Nigeria's first President.
+
+• **Abubakar Tafawa Balewa** was Nigeria's first Prime Minister.
+
+• **Obafemi Awolowo** and **Ahmadu Bello** were great leaders.
+
+• These leaders worked for Nigeria.
+
+• They helped Nigeria to grow.
+
+• They were honest and brave.
+
+• They loved their country.
+
+• We remember our first leaders.
+
+• Good leaders build a good country.
+
+• We respect the leaders of Nigeria.
+
+**Let us talk**
+
+1. Who was Nigeria's first President?
+
+2. Who was the first Prime Minister?
+
+3. What did the first leaders do?
+
+**Words for my notebook**
+
+• President — the head of a country
+
+• Prime Minister — the head of the government
+
+• leader — a person who guides others
+
+**Worksheet**
+
+1. Nigeria's first President was ___.
+   A) Nnamdi Azikiwe B) a stranger C) a robber D) nobody
+
+2. Nigeria's first Prime Minister was ___.
+   A) Abubakar Tafawa Balewa B) a thief C) a baby D) nobody
+
+3. ___ was a great leader of Nigeria.
+   A) Obafemi Awolowo B) a stranger C) a robber D) nobody
+
+4. Good leaders build a good ___.
+   A) country B) noise C) dust D) fight
+
+5. Fill in: The head of a country is the _____.
+
+6. Mention two of Nigeria's first leaders.
+
+7. Write who Nigeria's first President was.
+
+**My own work**
+
+• Draw one of Nigeria's first leaders.
+
+---
+
+### WEEK 3 — UNITY IN DIVERSITY
+
+**You will learn to**
+
+• say what unity in diversity means
+
+• name Nigeria's ethnic groups
+
+• live in unity
+
+**Things to know**
+
+• Nigeria has many **ethnic groups**.
+
+• The three major groups are **Hausa**, **Igbo** and **Yoruba**.
+
+• There are also Ijaw, Tiv, Efik and many more.
+
+• Each group has its own language and culture.
+
+• **Unity in diversity** means many groups living as one.
+
+• We are different but we are one Nigeria.
+
+• We respect each other's culture.
+
+• We live and work together in peace.
+
+• Unity makes Nigeria strong.
+
+• Our motto: Unity and Faith, Peace and Progress.
+
+**Let us talk**
+
+1. What does unity in diversity mean?
+
+2. Name the three major ethnic groups.
+
+3. How do we live in unity?
+
+**Words for my notebook**
+
+• unity — being together as one
+
+• diversity — being different in many ways
+
+• ethnic group — a people with the same language and culture
+
+**Worksheet**
+
+1. The three major ethnic groups are Hausa, Igbo and ___.
+   A) Yoruba B) Egyptian C) Kenyan D) Ghanian
+
+2. Many groups living as one is unity in ___.
+   A) diversity B) noise C) dust D) fight
+
+3. Each ethnic group has its own language and ___.
+   A) culture B) enemy C) war D) dust
+
+4. Unity makes Nigeria ___.
+   A) strong B) weak C) poor D) sad
+
+5. Fill in: Being together as one is _____.
+
+6. Mention two ethnic groups in Nigeria.
+
+7. Write what unity in diversity means.
+
+**My own work**
+
+• Draw people of different groups holding hands.
+
+---
+
+### WEEK 4 — NIGERIAN LANGUAGES
+
+**You will learn to**
+
+• name major Nigerian languages
+
+• say why we have many languages
+
+• respect all languages
+
+**Things to know**
+
+• Nigeria has many **languages**.
+
+• The major languages are **Hausa**, **Igbo** and **Yoruba**.
+
+• There are also Ijaw, Tiv, Efik, Edo and many more.
+
+• Each ethnic group speaks its own language.
+
+• **English** is our official language.
+
+• English helps all Nigerians to understand one another.
+
+• We speak our own language at home.
+
+• We learn English at school.
+
+• All languages are important.
+
+• We respect every language.
+
+**Let us talk**
+
+1. Name the three major Nigerian languages.
+
+2. What is our official language?
+
+3. Why do we have many languages?
+
+**Words for my notebook**
+
+• language — the way a people speak
+
+• official language — the language used for the whole country
+
+• respect — to treat as important
+
+**Worksheet**
+
+1. The three major languages are Hausa, Igbo and ___.
+   A) Yoruba B) French C) German D) Spanish
+
+2. Our official language is ___.
+   A) English B) French C) German D) Latin
+
+3. Each ethnic group speaks its own ___.
+   A) language B) enemy C) war D) dust
+
+4. We learn ___ at school.
+   A) English B) nothing C) only play D) sleep
+
+5. Fill in: The way a people speak is their _____.
+
+6. Mention two Nigerian languages.
+
+7. Write our official language.
+
+**My own work**
+
+• Draw a flag and write one word in two Nigerian languages.
+
+---
+
+### WEEK 5 — TRADITIONAL RELIGION AND BELIEFS
+
+**You will learn to**
+
+• say what traditional religion is
+
+• name some traditional beliefs
+
+• respect all religions
+
+**Things to know**
+
+• **Traditional religion** is the old way our people worshipped.
+
+• Our people believed in a **Supreme Being**.
+
+• They also honoured smaller **gods** and ancestors.
+
+• They worshipped at **shrines** and groves.
+
+• They offered prayers and sacrifices.
+
+• Priests led the worship.
+
+• Traditional religion is part of our history.
+
+• Today many Nigerians are Christians or Muslims.
+
+• We respect all religions.
+
+• We worship God in our own way.
+
+**Let us talk**
+
+1. What is traditional religion?
+
+2. What did our people believe in?
+
+3. Why do we respect all religions?
+
+**Words for my notebook**
+
+• traditional religion — the old way our people worshipped
+
+• Supreme Being — the great God our people believed in
+
+• shrine — a place of traditional worship
+
+**Worksheet**
+
+1. The old way our people worshipped is ___ religion.
+   A) traditional B) new C) foreign D) strange
+
+2. Our people believed in a ___ Being.
+   A) Supreme B) small C) weak D) false
+
+3. They worshipped at ___ and groves.
+   A) shrines B) markets C) roads D) schools
+
+4. Today many Nigerians are Christians or ___.
+   A) Muslims B) robbers C) thieves D) nobody
+
+5. Fill in: A place of traditional worship is a _____.
+
+6. Mention two things about traditional religion.
+
+7. Write what traditional religion is.
+
+**My own work**
+
+• Draw a place of worship.
+
+---
+
+### WEEK 6 — TRADE IN THE PAST
+
+**You will learn to**
+
+• say how people traded in the past
+
+• name things they traded
+
+• know the value of trade
+
+**Things to know**
+
+• In the past, people **traded** by barter.
+
+• **Barter** is exchanging one thing for another.
+
+• They traded salt, cloth, kola nuts and pottery.
+
+• They traded across the **Sahara** by camel.
+
+• Later they used **cowries** and **manilla** as money.
+
+• Trade brought people together.
+
+• Trade made towns grow.
+
+• Traders travelled far to buy and sell.
+
+• Trade is important to a country.
+
+• Today we trade with money.
+
+**Let us talk**
+
+1. What is barter?
+
+2. Name two things people traded.
+
+3. How did they trade across the Sahara?
+
+**Words for my notebook**
+
+• trade — buying and selling
+
+• barter — exchanging one thing for another
+
+• cowries — shells once used as money
+
+**Worksheet**
+
+1. Exchanging one thing for another is ___.
+   A) barter B) sleeping C) fighting D) hiding
+
+2. People traded salt, cloth and ___ nuts.
+   A) kola B) stone C) sand D) fire
+
+3. They traded across the Sahara by ___.
+   A) camel B) ship C) plane D) train
+
+4. Later they used ___ as money.
+   A) cowries B) stones C) leaves D) dust
+
+5. Fill in: Buying and selling is _____.
+
+6. Mention two things people traded in the past.
+
+7. Write what barter is.
+
+**My own work**
+
+• Draw two traders exchanging goods.
+
+---
+
+### WEEK 8 — NIGERIA TODAY
+
+**You will learn to**
+
+• say what Nigeria is like today
+
+• name things Nigeria has
+
+• love my country
+
+**Things to know**
+
+• Nigeria is a great country in **West Africa**.
+
+• Nigeria has **36 states** and a capital, Abuja.
+
+• Nigeria has many people and languages.
+
+• Nigeria has oil, farms and rivers.
+
+• Nigeria has schools, hospitals and roads.
+
+• Nigerians work in many jobs.
+
+• Nigeria has a flag, an anthem and a pledge.
+
+• Nigeria is one country of many peoples.
+
+• We are building Nigeria to be great.
+
+• I love my country, Nigeria.
+
+**Let us talk**
+
+1. Where is Nigeria?
+
+2. How many states does Nigeria have?
+
+3. Name one thing Nigeria has.
+
+**Words for my notebook**
+
+• Nigeria — my country, in West Africa
+
+• state — a part of a country
+
+• capital — the chief city, Abuja
+
+**Worksheet**
+
+1. Nigeria is in ___ Africa.
+   A) West B) East C) North D) South
+
+2. Nigeria has ___ states.
+   A) 36 B) 10 C) 50 D) 12
+
+3. The capital of Nigeria is ___.
+   A) Abuja B) Lagos C) Kano D) Ibadan
+
+4. Nigeria has oil, farms and ___.
+   A) rivers B) deserts only C) ice D) nothing
+
+5. Fill in: A part of a country is a _____.
+
+6. Mention two things Nigeria has.
+
+7. Write the capital of Nigeria.
+
+**My own work**
+
+• Draw the map or flag of Nigeria.
+
+---
+
+### WEEK 9 — BEING A GOOD NIGERIAN
+
+**You will learn to**
+
+• say how to be a good Nigerian
+
+• name duties of a good Nigerian
+
+• serve my country
+
+**Things to know**
+
+• A good Nigerian loves his or her **country**.
+
+• A good Nigerian obeys the **laws**.
+
+• A good Nigerian respects the **flag** and anthem.
+
+• A good Nigerian works hard and is honest.
+
+• A good Nigerian keeps the environment clean.
+
+• A good Nigerian respects others and their culture.
+
+• A good Nigerian lives in peace with all.
+
+• A good Nigerian helps to build the country.
+
+• A good Nigerian is proud of Nigeria.
+
+• We can all be good Nigerians.
+
+**Let us talk**
+
+1. How do we show love for our country?
+
+2. Name one duty of a good Nigerian.
+
+3. Why do we respect the flag?
+
+**Words for my notebook**
+
+• good Nigerian — one who loves and serves Nigeria
+
+• law — a rule for the whole country
+
+• serve — to help and work for
+
+**Worksheet**
+
+1. A good Nigerian loves his or her ___.
+   A) country B) enemies C) thieves D) nobody
+
+2. A good Nigerian obeys the ___.
+   A) laws B) thieves C) robbers D) noise
+
+3. A good Nigerian respects the flag and ___.
+   A) anthem B) dust C) smoke D) fight
+
+4. A good Nigerian works hard and is ___.
+   A) honest B) lazy C) rude D) dishonest
+
+5. Fill in: To help and work for is to _____.
+
+6. Mention two duties of a good Nigerian.
+
+7. Write how to be a good Nigerian.
+
+**My own work**
+
+• Draw myself saluting the Nigerian flag.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the third term of Primary 1. They follow the NERDC
@@ -3829,6 +4443,192 @@ Answer in full sentences.
 43. What is an email? (2 marks)
 44. Name two computer jobs and what each does. (2 marks)
 45. Say two ways to be safe online. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 3rd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Freedom to rule ourselves is ___
+   A) slavery
+   B) noise
+   C) independence
+   D) hunger
+2. Nigeria became independent on 1 October ___
+   A) 2000
+   B) 1960
+   C) 1900
+   D) 1914
+3. Before independence, ___ ruled Nigeria
+   A) Egypt
+   B) Ghana
+   C) Kenya
+   D) Britain
+4. ___ fought for Nigeria's freedom
+   A) Nnamdi Azikiwe
+   B) a robber
+   C) a stranger
+   D) nobody
+5. Nigeria's first President was ___
+   A) nobody
+   B) Nnamdi Azikiwe
+   C) a stranger
+   D) a robber
+6. Nigeria's first Prime Minister was ___
+   A) Ahmadu Bello
+   B) Nnamdi Azikiwe
+   C) Abubakar Tafawa Balewa
+   D) Obafemi Awolowo
+7. ___ was a great leader of Nigeria
+   A) a robber
+   B) nobody
+   C) a stranger
+   D) Obafemi Awolowo
+8. The three major ethnic groups are Hausa, Igbo and ___
+   A) Egyptian
+   B) Yoruba
+   C) Kenyan
+   D) Ghanian
+9. Many groups living as one is unity in ___
+   A) fight
+   B) dust
+   C) diversity
+   D) noise
+10. Unity makes Nigeria ___
+   A) strong
+   B) sad
+   C) weak
+   D) poor
+11. The three major languages are Hausa, Igbo and ___
+   A) Spanish
+   B) German
+   C) French
+   D) Yoruba
+12. Our official language is ___
+   A) Latin
+   B) German
+   C) English
+   D) French
+13. We learn ___ at school
+   A) play
+   B) English
+   C) nothing
+   D) sleep
+14. The old way our people worshipped is ___ religion
+   A) traditional
+   B) new
+   C) strange
+   D) foreign
+15. Our people believed in a ___ Being
+   A) weak
+   B) false
+   C) small
+   D) Supreme
+16. They worshipped at ___ and groves
+   A) schools
+   B) markets
+   C) shrines
+   D) roads
+17. Exchanging one thing for another is ___
+   A) barter
+   B) hiding
+   C) fighting
+   D) sleeping
+18. People traded salt, cloth and ___ nuts
+   A) sand
+   B) kola
+   C) stone
+   D) fire
+19. They traded across the Sahara by ___
+   A) train
+   B) ship
+   C) plane
+   D) camel
+20. Nigeria is in ___ Africa
+   A) East
+   B) South
+   C) West
+   D) North
+21. Nigeria has ___ states
+   A) 36
+   B) 12
+   C) 50
+   D) 10
+22. The capital of Nigeria is ___
+   A) Lagos
+   B) Abuja
+   C) Ibadan
+   D) Kano
+23. Nigeria has oil, farms and ___
+   A) deserts
+   B) ice
+   C) nothing
+   D) rivers
+24. A good Nigerian loves his or her ___
+   A) country
+   B) enemies
+   C) thieves
+   D) nobody
+25. A good Nigerian obeys the ___
+   A) noise
+   B) thieves
+   C) laws
+   D) robbers
+26. A good Nigerian respects the flag and ___
+   A) dust
+   B) anthem
+   C) smoke
+   D) fight
+27. A good Nigerian works hard and is ___
+   A) honest
+   B) rude
+   C) lazy
+   D) dishonest
+28. We celebrate independence every 1 ___
+   A) June
+   B) January
+   C) October
+   D) March
+29. Each ethnic group has its own language and ___
+   A) enemy
+   B) war
+   C) dust
+   D) culture
+30. A good Nigerian helps to ___ the country
+   A) break
+   B) build
+   C) burn
+   D) hide
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two people who fought for independence
+32. Name two of Nigeria's first leaders
+33. Name two ethnic groups in Nigeria
+34. Name two Nigerian languages
+35. Name two things about traditional religion
+36. Name two things people traded in the past
+37. Name two things Nigeria has
+38. Name two duties of a good Nigerian
+39. Name two things that show Nigeria is one country
+40. Name two ways we show love for our country
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is independence, and when did Nigeria get it? (2 marks)
+42. Who was Nigeria's first President? (2 marks)
+43. What does unity in diversity mean? (2 marks)
+44. What is barter? Name two things people traded. (2 marks)
+45. Name two duties of a good Nigerian. (2 marks)
 
 
 ---
