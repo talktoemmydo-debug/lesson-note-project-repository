@@ -148,6 +148,8 @@ First aid is the first help for a hurt person. The box has plasters, bandages, c
 3. Where is the box kept in our school?
 4. Who is allowed to use it?
 
+
+![An open first aid box with a bandage, a bottle, cotton wool, scissors, a plaster and a thermometer.](assets/img/nursery-2/1st-term/basic-science/week3-inside-the-first-aid-box.png)
 **Worksheet**
 
 1. First aid means the ____ help given to a hurt person. A) slow B) secret C) last D) first
@@ -197,6 +199,8 @@ Plaster for a small cut. Bandage to wrap. Cotton to clean. Thermometer for fever
 3. Mention two injuries that need a grown-up at once.
 4. Show me the calm voice you use when a friend is hurt.
 
+
+![A teddy bear with a bandaged arm and a plaster on its knee beside a first aid box.](assets/img/nursery-2/1st-term/basic-science/week4-the-bandaged-teddy.png)
 **Worksheet**
 
 1. A bandage is used to A) brush the teeth B) write on the book C) wrap a wound and support a sprain D) cook food
@@ -251,6 +255,8 @@ A wound breaks the skin. Types: cut, scrape, bruise, burn, puncture. Small wound
 4. What kind of wound comes from a thorn?
 5. Mention one way of preventing wounds.
 
+
+![A knife, a needle, a broken cup and a hot pot that can cause a wound.](assets/img/nursery-2/1st-term/basic-science/week5-things-that-can-cut-or-burn.png)
 **Worksheet**
 
 1. A wound is an injury that A) paints the skin B) breaks the skin C) cleans the skin D) warms the skin
@@ -303,6 +309,8 @@ Wash hands, clean with water, put on antiseptic, cover. Do not pick the scab. Re
 4. Mention one sign that a wound is going bad.
 5. What does "prevention is better than treatment" mean?
 
+
+![A girl putting a plaster on her knee.](assets/img/nursery-2/1st-term/basic-science/week6-a-plaster-on-my-knee.png)
 **Worksheet**
 
 1. What is the FIRST thing to do before caring for a wound? A) wash our hands B) put on a plaster C) blow on it D) run to the doctor
@@ -358,6 +366,8 @@ Sickness is the body not working well. Rest, water, good food and the doctor's m
 4. Mention two things that bring sickness.
 5. What do you do for a brother or sister who is sick?
 
+
+![A girl resting in bed with a cool cloth on her head and a thermometer beside her.](assets/img/nursery-2/1st-term/basic-science/week8-resting-when-sick.png)
 **Worksheet**
 
 1. Sickness means the body A) is sleeping well B) is growing C) is working properly D) is not working properly
@@ -414,6 +424,8 @@ A rock is hard and comes from nature. Soil is the top layer of the earth. Loamy 
 4. Which soil is sticky when it is wet?
 5. Which soil is best for plants, and why?
 
+
+![A big rock, small stones sorted by size and a plant growing in soil.](assets/img/nursery-2/1st-term/basic-science/week9-rocks-and-soil.png)
 **Worksheet**
 
 1. A rock is A) a kind of animal B) a kind of food C) soft and made by people D) hard and found in nature

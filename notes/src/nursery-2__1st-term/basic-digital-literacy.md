@@ -251,6 +251,8 @@ Clean hands, dry cloth, two hands to carry, grown-up for the plug. Care for the 
 3. Who puts the charger into the socket?
 4. What do you do before switching a computer off?
 
+
+![A boy carrying a tablet in two hands while a device charges near a grown-up.](assets/img/nursery-2/1st-term/basic-digital-literacy/week5-carrying-with-two-hands.png)
 **Worksheet**
 
 1. A screen is wiped with A) a soft dry cloth B) a duster with water C) a rough stone D) a wet mop
@@ -301,6 +303,8 @@ In the computer lab we walk, we sit quietly, we keep food out, and we tell the t
 3. Who switches on the computers?
 4. What do you do if a machine begins to smoke?
 
+
+![A boy sitting straight at a computer desk with both feet on the floor.](assets/img/nursery-2/1st-term/basic-digital-literacy/week6-sitting-correctly-in-the-lab.png)
 **Worksheet**
 
 1. In the computer lab we must A) run B) walk C) shout D) jump

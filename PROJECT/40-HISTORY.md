@@ -666,3 +666,16 @@ line bled off the right edge) and basic-science **week 3** (168 — the table li
 the ledger to be re-made. First Term rebuilt at **8 plates · 127 pages · 129/129 Contents numbers · book and file
 gates ok**; its one standing `sheet_check` flag remains the documented objective-pool behaviour, not a defect.
 Ledger re-derived at **64 owed over 9 files**, scratch emptied, and the contact sheet died with the turn.
+
+## 2 Sep 2026 — First Term sweep, turn two: BDL and basic-science both whole, eight-for-eight
+
+The three turn-one rejects were re-made with the edge discipline written into the prompt (*no floor line, no wall
+line, no table line, nothing touching the page edges*) and all eight passed the margin count at **0 dark pixels**
+before a single import: BDL **weeks 5 and 6** (the boy carrying the tablet in two hands beside a charging phone and a
+grown-up; the boy sitting straight at the lab desk) and basic-science **weeks 3–6, 8, 9** (the open first aid box with
+its six things; the bandaged teddy; the knife, needle, broken cup and hot pot; the girl plastering her own knee; the
+girl resting in bed with a cool cloth; the rock, the sorted stones and the plant in soil). With those, **First Term
+basic-digital-literacy and basic-science are each 8 of 8 and leave the ledger**, the First Term book rebuilt at
+**16 plates · 130 pages · 129/129 Contents numbers · book and file gates ok**, and the ledger re-derived at
+**56 owed over 7 files** — all still First Term. The standing `sheet_check` flag on the term remains the documented
+objective-pool behaviour. Scratch emptied of every raw and the contact sheet.

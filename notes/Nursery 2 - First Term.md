@@ -19,130 +19,130 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 2 — CARE FOR OUR BODY](#week-2-care-for-our-body) · 4
   - [WEEK 3 — FIRSTAID: FIRSTAID BOX CONTENTS](#week-3-firstaid-firstaid-box-contents) · 5
   - [WEEK 4 — FIRSTAID: USES](#week-4-firstaid-uses) · 6
-  - [WEEK 5 — BODY CARE FOR WOUNDS: MEANING, CAUSES AND TYPES](#week-5-body-care-for-wounds-meaning-causes-and-types) · 6
-  - [WEEK 6 — BODY CARE FOR WOUNDS: CARE FOR WOUNDS](#week-6-body-care-for-wounds-care-for-wounds) · 7
-  - [WEEK 8 — SICKNESS: DEFINITION, TYPES AND SYMPTOMS, CAUSES AND CARE](#week-8-sickness-definition-types-and-symptoms-causes-and-care) · 8
-  - [WEEK 9 — ROCKS AND SOIL](#week-9-rocks-and-soil) · 9
-- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 11
-  - [WEEK 1 — COLOURING A CAR](#week-1-colouring-a-car) · 11
-  - [WEEK 2 — THUMB PRINT AND HAND PRINT ART](#week-2-thumb-print-and-hand-print-art) · 11
-  - [WEEK 3 — COLOURING BARNEY](#week-3-colouring-barney) · 12
-  - [WEEK 4 — COLOURING A PIG](#week-4-colouring-a-pig) · 13
-  - [WEEK 5 — STRAW JEWELRY MAKING](#week-5-straw-jewelry-making) · 14
-  - [WEEK 6 — COLOURING AN UMBRELLA](#week-6-colouring-an-umbrella) · 14
-  - [WEEK 8 — VEGETABLE PRINT ART](#week-8-vegetable-print-art) · 15
-  - [WEEK 9 — PLASTICINE (ADVANCED)](#week-9-plasticine-advanced) · 16
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 18
-  - [WEEK 1 — GOD THE CREATOR (PART 1)](#week-1-god-the-creator-part-1) · 18
-  - [WEEK 2 — GOD THE CREATOR (PART 2)](#week-2-god-the-creator-part-2) · 18
-  - [WEEK 3 — GOD THE CREATOR (PART 3)](#week-3-god-the-creator-part-3) · 19
-  - [WEEK 4 — GOD, THE GIVER OF GOOD THINGS (PART 1)](#week-4-god-the-giver-of-good-things-part-1) · 20
-  - [WEEK 5 — GOD, THE GIVER OF GOOD THINGS (PART 2)](#week-5-god-the-giver-of-good-things-part-2) · 21
-  - [WEEK 6 — GOD, THE GIVER OF GOOD THINGS (PART 3)](#week-6-god-the-giver-of-good-things-part-3) · 21
-  - [WEEK 8 — GOD'S GIFT OF HIS SON (PART 1)](#week-8-gods-gift-of-his-son-part-1) · 22
-  - [WEEK 9 — GOD'S GIFT OF HIS SON (PART 2)](#week-9-gods-gift-of-his-son-part-2) · 23
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 25
-  - [WEEK 1 — TECHNOLOGY AND DIGITAL DEVICES](#week-1-technology-and-digital-devices) · 25
-  - [WEEK 2 — TYPES OF COMPUTER: DESKTOP, LAPTOP, TABLET](#week-2-types-of-computer-desktop-laptop-tablet) · 26
-  - [WEEK 3 — BASIC PARTS: MONITOR, KEYBOARD, MOUSE, CPU](#week-3-basic-parts-monitor-keyboard-mouse-cpu) · 27
-  - [WEEK 4 — USES OF THE COMPUTER IN DAILY LIFE](#week-4-uses-of-the-computer-in-daily-life) · 28
-  - [WEEK 5 — CARE AND HANDLING OF DEVICES](#week-5-care-and-handling-of-devices) · 29
-  - [WEEK 6 — COMPUTER LAB SAFETY RULES](#week-6-computer-lab-safety-rules) · 30
-  - [WEEK 8 — FROM THE ABACUS TO TODAY'S COMPUTER](#week-8-from-the-abacus-to-todays-computer) · 31
-  - [WEEK 9 — KEY INVENTORS: CHARLES BABBAGE AND ADA LOVELACE](#week-9-key-inventors-charles-babbage-and-ada-lovelace) · 32
-- **[Nigerian History](#nigerian-history)** · 34
-  - [WEEK 1 — MEANING AND IMPORTANCE OF HISTORY (PART 1)](#week-1-meaning-and-importance-of-history-part-1) · 34
-  - [WEEK 2 — MEANING AND IMPORTANCE OF HISTORY (PART 2)](#week-2-meaning-and-importance-of-history-part-2) · 34
-  - [WEEK 3 — PEOPLES AND PLACES IN THE COMMUNITY (PART 1)](#week-3-peoples-and-places-in-the-community-part-1) · 35
-  - [WEEK 4 — PEOPLES AND PLACES IN THE COMMUNITY (PART 2)](#week-4-peoples-and-places-in-the-community-part-2) · 36
-  - [WEEK 5 — PLACES IN THE COMMUNITY (PART 1)](#week-5-places-in-the-community-part-1) · 37
-  - [WEEK 6 — PLACES IN THE COMMUNITY (PART 2)](#week-6-places-in-the-community-part-2) · 38
-  - [WEEK 8 — LIVING TOGETHER IN PEACE](#week-8-living-together-in-peace) · 39
-  - [WEEK 9 — NATIONAL UNITY AND DIVERSITY](#week-9-national-unity-and-diversity) · 40
-- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 41
-  - [WEEK 1 — EXERCISES AND GAMES: IMPORTANCE](#week-1-exercises-and-games-importance) · 41
-  - [WEEK 2 — GAMES: BASIC GAMES](#week-2-games-basic-games) · 41
-  - [WEEK 3 — BODY EXERCISE: STRETCHING, BENDING, RAISING ARMS AND LEGS, SKIPPING, LEAPING AND HOPPING](#week-3-body-exercise-stretching-bending-raising-arms-and-legs-skipping-leaping-and-hopping) · 42
-  - [WEEK 4 — BODY CONDITIONING AND BALANCING](#week-4-body-conditioning-and-balancing) · 43
-  - [WEEK 5 — SIMPLE MOVEMENTS OF PARTS OF THE BODY](#week-5-simple-movements-of-parts-of-the-body) · 44
-  - [WEEK 6 — MANIPULATIVE MOVEMENTS: THROWING AND CATCHING](#week-6-manipulative-movements-throwing-and-catching) · 45
-  - [WEEK 8 — NEURO-MUSCULAR SKILLS: DANCING AND SOMERSAULTING](#week-8-neuro-muscular-skills-dancing-and-somersaulting) · 46
-  - [WEEK 9 — DEVELOPMENT THROUGH SPORT ACTIVITIES: PHYSICAL DEVELOPMENT](#week-9-development-through-sport-activities-physical-development) · 46
-- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 48
-  - [WEEK 1 — MEANING OF AGRICULTURE; IMPORTANCE OF AGRICULTURE TO HUMANS](#week-1-meaning-of-agriculture-importance-of-agriculture-to-humans) · 48
-  - [WEEK 2 — AGRICULTURE IN OUR DAILY LIVES](#week-2-agriculture-in-our-daily-lives) · 48
-  - [WEEK 3 — BASIC FARMING ACTIVITIES](#week-3-basic-farming-activities) · 49
-  - [WEEK 4 — SCOPE OF AGRICULTURE: CROPS](#week-4-scope-of-agriculture-crops) · 50
-  - [WEEK 5 — SCOPE OF AGRICULTURE: ANIMALS](#week-5-scope-of-agriculture-animals) · 51
-  - [WEEK 6 — SCOPE OF AGRICULTURE: FORESTRY](#week-6-scope-of-agriculture-forestry) · 52
-  - [WEEK 8 — SCOPE OF AGRICULTURE: FISHERY](#week-8-scope-of-agriculture-fishery) · 53
-  - [WEEK 9 — AGRICULTURE IN NIGERIA](#week-9-agriculture-in-nigeria) · 53
-- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 55
-  - [WEEK 1 — LEADERSHIP](#week-1-leadership) · 55
-  - [WEEK 2 — LEADERSHIP AT HOME](#week-2-leadership-at-home) · 55
-  - [WEEK 3 — COMMUNITY MOBILIZATION (PART 1)](#week-3-community-mobilization-part-1) · 56
-  - [WEEK 4 — COMMUNITY MOBILIZATION (PART 2)](#week-4-community-mobilization-part-2) · 57
-  - [WEEK 5 — CIVIC RESPONSIBILITIES (PARTS 1 AND 2)](#week-5-civic-responsibilities-parts-1-and-2) · 58
-  - [WEEK 6 — NATIONAL IDENTITY AND SYMBOLS (PART 1)](#week-6-national-identity-and-symbols-part-1) · 59
-  - [WEEK 8 — NATIONAL IDENTITY AND SYMBOLS (PART 2)](#week-8-national-identity-and-symbols-part-2) · 60
-  - [WEEK 9 — PEOPLE, PLACES AND OBJECTS TO RESPECT (PARTS 1 AND 2)](#week-9-people-places-and-objects-to-respect-parts-1-and-2) · 61
-- **[Yoruba](#yoruba)** · 62
-  - [WEEK 1 — Ede: Didaruko nnkan inu yara ikawe / Asa: Ikini ni ile Yoruba / Litireso: Orin keekeekee (imototo, ibawi)](#week-1-ede-didaruko-nnkan-inu-yara-ikawe-asa-ikini-ni-ile-yoruba-litireso-orin-keekeekee-imototo-ibawi) · 62
-  - [WEEK 2 — Ede: Onka ede Yoruba 1-10 / Asa: Iwa rere / Litireso: Orin ikilo fun omode](#week-2-ede-onka-ede-yoruba-1-10-asa-iwa-rere-litireso-orin-ikilo-fun-omode) · 63
-  - [WEEK 3 — Ede: Kika alifabeeti ede Yoruba / Asa: Awon ojo ninu ose / Litireso: Orin idaraya](#week-3-ede-kika-alifabeeti-ede-yoruba-asa-awon-ojo-ninu-ose-litireso-orin-idaraya) · 64
-  - [WEEK 4 — Ede: Isorongbesi laarin akekoo / Asa: Imototo ara eni / Litireso: Orin iwa rere](#week-4-ede-isorongbesi-laarin-akekoo-asa-imototo-ara-eni-litireso-orin-iwa-rere) · 65
-  - [WEEK 5 — Ede: Sise nnkan (oro ase) / Asa: Ojuse ebi ninu idile / Litireso: Orin keekeekee ati ijo](#week-5-ede-sise-nnkan-oro-ase-asa-ojuse-ebi-ninu-idile-litireso-orin-keekeekee-ati-ijo) · 66
-  - [WEEK 6 — Ede: Kika alifabeeti A-GB / Asa: Ikini fun orisirisi igba ati asiko / Litireso: Orin ibawi fun omode](#week-6-ede-kika-alifabeeti-a-gb-asa-ikini-fun-orisirisi-igba-ati-asiko-litireso-orin-ibawi-fun-omode) · 67
-  - [WEEK 8 — Ede: Kiko alifabeeti / Asa: Imototo ayika / Litireso: Ere osupa sise ni ale](#week-8-ede-kiko-alifabeeti-asa-imototo-ayika-litireso-ere-osupa-sise-ni-ale) · 68
-  - [WEEK 9 — Ede: Itesiwaju kika alifabeeti H-Q / Asa: Ikini fun ise (ise abinibi) / Litireso: Ewi keekeekee](#week-9-ede-itesiwaju-kika-alifabeeti-h-q-asa-ikini-fun-ise-ise-abinibi-litireso-ewi-keekeekee) · 69
-  - [WEEK 11 — Exam Preparation](#week-11-exam-preparation) · 70
-- **[Mathematics & English](#mathematics-english)** · 72
-  - [WEEK 1 — VOWELS AND CONSONANTS](#week-1-vowels-and-consonants) · 72
-  - [WEEK 2 — SINGLE SOUNDS: d, a, i, m](#week-2-single-sounds-d-a-i-m) · 72
-  - [WEEK 3 — SIGHT WORDS: You, Me, Her, We](#week-3-sight-words-you-me-her-we) · 73
-  - [WEEK 4 — SIGHT WORDS: I, Go, Car](#week-4-sight-words-i-go-car) · 74
-  - [WEEK 5 — DIGRAPH: th, ck, wh](#week-5-digraph-th-ck-wh) · 75
-  - [WEEK 6 — SIGHT WORDS: The, This, They](#week-6-sight-words-the-this-they) · 76
-  - [WEEK 8 — DIGRAPH: ph, sh, ch](#week-8-digraph-ph-sh-ch) · 77
-  - [WEEK 9 — SIGHT WORDS: Photo, She, Chart · CONSONANT BLENDS: Play, Fly, Greet](#week-9-sight-words-photo-she-chart-consonant-blends-play-fly-greet) · 78
-  - [WEEK 1 — REVIEW OF ALPHABET: Aa – Ff](#week-1-review-of-alphabet-aa-ff) · 79
-  - [WEEK 2 — REVIEW OF ALPHABET: Gg – Ll](#week-2-review-of-alphabet-gg-ll) · 79
-  - [WEEK 3 — REVIEW OF ALPHABET: Mm – Rr](#week-3-review-of-alphabet-mm-rr) · 80
-  - [WEEK 4 — REVIEW OF ALPHABET: Ss – Zz](#week-4-review-of-alphabet-ss-zz) · 81
-  - [WEEK 5 — THREE-LETTER WORDS: CVC PATTERN (Part 1)](#week-5-three-letter-words-cvc-pattern-part-1) · 82
-  - [WEEK 6 — THREE-LETTER WORDS: CVC PATTERN (Part 2)](#week-6-three-letter-words-cvc-pattern-part-2) · 82
-  - [WEEK 8 — THREE-LETTER WORDS: CVC PATTERN (Part 3)](#week-8-three-letter-words-cvc-pattern-part-3) · 83
-  - [WEEK 9 — STORY TELLING AND LETTER WORK INTEGRATION](#week-9-story-telling-and-letter-work-integration) · 84
-  - [WEEK 1 — WHOLE NUMBERS 1–200](#week-1-whole-numbers-1200) · 85
-  - [WEEK 2 — PLACE VALUE](#week-2-place-value) · 86
-  - [WEEK 3 — WRITING NUMBERS IN WORDS](#week-3-writing-numbers-in-words) · 86
-  - [WEEK 4 — WRITING WORDS IN FIGURES](#week-4-writing-words-in-figures) · 87
-  - [WEEK 5 — ADDITION (INTRODUCTION)](#week-5-addition-introduction) · 88
-  - [WEEK 6 — ADDITION](#week-6-addition) · 89
-  - [WEEK 8 — SUBTRACTION (INTRODUCTION)](#week-8-subtraction-introduction) · 90
-  - [WEEK 9 — SUBTRACTION](#week-9-subtraction) · 90
-- **[General Knowledge](#general-knowledge)** · 92
-  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 92
-  - [WEEK 2 — MY FAMILY: MEMBERS AND THEIR ROLES](#week-2-my-family-members-and-their-roles) · 92
-  - [WEEK 3 — MY SCHOOL: PLACES, PEOPLE AND THINGS](#week-3-my-school-places-people-and-things) · 93
-  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 94
-  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 95
-  - [WEEK 6 — COLOURS, SHAPES AND SIZES AROUND ME](#week-6-colours-shapes-and-sizes-around-me) · 95
-  - [WEEK 8 — ANIMALS AND BIRDS AROUND ME](#week-8-animals-and-birds-around-me) · 96
-  - [WEEK 9 — GOOD HABITS: GREETINGS, POLITENESS AND CLEANLINESS](#week-9-good-habits-greetings-politeness-and-cleanliness) · 97
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · First Term)](#examination-practice-basic-science-nursery-2-first-term)** · 99
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-nursery-2-1st-term)** · 101
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 1st Term)](#examination-practice-christian-religious-studies-nursery-2-1st-term)** · 103
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 1st Term)](#examination-practice-basic-digital-literacy-nursery-2-1st-term)** · 105
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY ( · )](#examination-practice-nigerian-history)** · 107
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 1st Term)](#examination-practice-physical-and-health-education-nursery-2-1st-term)** · 110
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 1st Term)](#examination-practice-prevocational-studies-nursery-2-1st-term)** · 113
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-nursery-2-1st-term)** · 115
-- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 1st Term)](#examination-practice-yoruba-nursery-2-1st-term)** · 118
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-1st-term)** · 120
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-1st-term)** · 122
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-numeracy-nursery-2-1st-term)** · 124
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE ( · )](#examination-practice-general-knowledge)** · 126
+  - [WEEK 5 — BODY CARE FOR WOUNDS: MEANING, CAUSES AND TYPES](#week-5-body-care-for-wounds-meaning-causes-and-types) · 7
+  - [WEEK 6 — BODY CARE FOR WOUNDS: CARE FOR WOUNDS](#week-6-body-care-for-wounds-care-for-wounds) · 8
+  - [WEEK 8 — SICKNESS: DEFINITION, TYPES AND SYMPTOMS, CAUSES AND CARE](#week-8-sickness-definition-types-and-symptoms-causes-and-care) · 9
+  - [WEEK 9 — ROCKS AND SOIL](#week-9-rocks-and-soil) · 11
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 13
+  - [WEEK 1 — COLOURING A CAR](#week-1-colouring-a-car) · 13
+  - [WEEK 2 — THUMB PRINT AND HAND PRINT ART](#week-2-thumb-print-and-hand-print-art) · 13
+  - [WEEK 3 — COLOURING BARNEY](#week-3-colouring-barney) · 14
+  - [WEEK 4 — COLOURING A PIG](#week-4-colouring-a-pig) · 15
+  - [WEEK 5 — STRAW JEWELRY MAKING](#week-5-straw-jewelry-making) · 16
+  - [WEEK 6 — COLOURING AN UMBRELLA](#week-6-colouring-an-umbrella) · 16
+  - [WEEK 8 — VEGETABLE PRINT ART](#week-8-vegetable-print-art) · 17
+  - [WEEK 9 — PLASTICINE (ADVANCED)](#week-9-plasticine-advanced) · 18
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 20
+  - [WEEK 1 — GOD THE CREATOR (PART 1)](#week-1-god-the-creator-part-1) · 20
+  - [WEEK 2 — GOD THE CREATOR (PART 2)](#week-2-god-the-creator-part-2) · 20
+  - [WEEK 3 — GOD THE CREATOR (PART 3)](#week-3-god-the-creator-part-3) · 21
+  - [WEEK 4 — GOD, THE GIVER OF GOOD THINGS (PART 1)](#week-4-god-the-giver-of-good-things-part-1) · 22
+  - [WEEK 5 — GOD, THE GIVER OF GOOD THINGS (PART 2)](#week-5-god-the-giver-of-good-things-part-2) · 23
+  - [WEEK 6 — GOD, THE GIVER OF GOOD THINGS (PART 3)](#week-6-god-the-giver-of-good-things-part-3) · 23
+  - [WEEK 8 — GOD'S GIFT OF HIS SON (PART 1)](#week-8-gods-gift-of-his-son-part-1) · 24
+  - [WEEK 9 — GOD'S GIFT OF HIS SON (PART 2)](#week-9-gods-gift-of-his-son-part-2) · 25
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 27
+  - [WEEK 1 — TECHNOLOGY AND DIGITAL DEVICES](#week-1-technology-and-digital-devices) · 27
+  - [WEEK 2 — TYPES OF COMPUTER: DESKTOP, LAPTOP, TABLET](#week-2-types-of-computer-desktop-laptop-tablet) · 28
+  - [WEEK 3 — BASIC PARTS: MONITOR, KEYBOARD, MOUSE, CPU](#week-3-basic-parts-monitor-keyboard-mouse-cpu) · 29
+  - [WEEK 4 — USES OF THE COMPUTER IN DAILY LIFE](#week-4-uses-of-the-computer-in-daily-life) · 30
+  - [WEEK 5 — CARE AND HANDLING OF DEVICES](#week-5-care-and-handling-of-devices) · 31
+  - [WEEK 6 — COMPUTER LAB SAFETY RULES](#week-6-computer-lab-safety-rules) · 32
+  - [WEEK 8 — FROM THE ABACUS TO TODAY'S COMPUTER](#week-8-from-the-abacus-to-todays-computer) · 33
+  - [WEEK 9 — KEY INVENTORS: CHARLES BABBAGE AND ADA LOVELACE](#week-9-key-inventors-charles-babbage-and-ada-lovelace) · 35
+- **[Nigerian History](#nigerian-history)** · 37
+  - [WEEK 1 — MEANING AND IMPORTANCE OF HISTORY (PART 1)](#week-1-meaning-and-importance-of-history-part-1) · 37
+  - [WEEK 2 — MEANING AND IMPORTANCE OF HISTORY (PART 2)](#week-2-meaning-and-importance-of-history-part-2) · 37
+  - [WEEK 3 — PEOPLES AND PLACES IN THE COMMUNITY (PART 1)](#week-3-peoples-and-places-in-the-community-part-1) · 38
+  - [WEEK 4 — PEOPLES AND PLACES IN THE COMMUNITY (PART 2)](#week-4-peoples-and-places-in-the-community-part-2) · 39
+  - [WEEK 5 — PLACES IN THE COMMUNITY (PART 1)](#week-5-places-in-the-community-part-1) · 40
+  - [WEEK 6 — PLACES IN THE COMMUNITY (PART 2)](#week-6-places-in-the-community-part-2) · 41
+  - [WEEK 8 — LIVING TOGETHER IN PEACE](#week-8-living-together-in-peace) · 42
+  - [WEEK 9 — NATIONAL UNITY AND DIVERSITY](#week-9-national-unity-and-diversity) · 43
+- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 44
+  - [WEEK 1 — EXERCISES AND GAMES: IMPORTANCE](#week-1-exercises-and-games-importance) · 44
+  - [WEEK 2 — GAMES: BASIC GAMES](#week-2-games-basic-games) · 44
+  - [WEEK 3 — BODY EXERCISE: STRETCHING, BENDING, RAISING ARMS AND LEGS, SKIPPING, LEAPING AND HOPPING](#week-3-body-exercise-stretching-bending-raising-arms-and-legs-skipping-leaping-and-hopping) · 45
+  - [WEEK 4 — BODY CONDITIONING AND BALANCING](#week-4-body-conditioning-and-balancing) · 46
+  - [WEEK 5 — SIMPLE MOVEMENTS OF PARTS OF THE BODY](#week-5-simple-movements-of-parts-of-the-body) · 47
+  - [WEEK 6 — MANIPULATIVE MOVEMENTS: THROWING AND CATCHING](#week-6-manipulative-movements-throwing-and-catching) · 48
+  - [WEEK 8 — NEURO-MUSCULAR SKILLS: DANCING AND SOMERSAULTING](#week-8-neuro-muscular-skills-dancing-and-somersaulting) · 49
+  - [WEEK 9 — DEVELOPMENT THROUGH SPORT ACTIVITIES: PHYSICAL DEVELOPMENT](#week-9-development-through-sport-activities-physical-development) · 49
+- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 51
+  - [WEEK 1 — MEANING OF AGRICULTURE; IMPORTANCE OF AGRICULTURE TO HUMANS](#week-1-meaning-of-agriculture-importance-of-agriculture-to-humans) · 51
+  - [WEEK 2 — AGRICULTURE IN OUR DAILY LIVES](#week-2-agriculture-in-our-daily-lives) · 51
+  - [WEEK 3 — BASIC FARMING ACTIVITIES](#week-3-basic-farming-activities) · 52
+  - [WEEK 4 — SCOPE OF AGRICULTURE: CROPS](#week-4-scope-of-agriculture-crops) · 53
+  - [WEEK 5 — SCOPE OF AGRICULTURE: ANIMALS](#week-5-scope-of-agriculture-animals) · 54
+  - [WEEK 6 — SCOPE OF AGRICULTURE: FORESTRY](#week-6-scope-of-agriculture-forestry) · 55
+  - [WEEK 8 — SCOPE OF AGRICULTURE: FISHERY](#week-8-scope-of-agriculture-fishery) · 56
+  - [WEEK 9 — AGRICULTURE IN NIGERIA](#week-9-agriculture-in-nigeria) · 56
+- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 58
+  - [WEEK 1 — LEADERSHIP](#week-1-leadership) · 58
+  - [WEEK 2 — LEADERSHIP AT HOME](#week-2-leadership-at-home) · 58
+  - [WEEK 3 — COMMUNITY MOBILIZATION (PART 1)](#week-3-community-mobilization-part-1) · 59
+  - [WEEK 4 — COMMUNITY MOBILIZATION (PART 2)](#week-4-community-mobilization-part-2) · 60
+  - [WEEK 5 — CIVIC RESPONSIBILITIES (PARTS 1 AND 2)](#week-5-civic-responsibilities-parts-1-and-2) · 61
+  - [WEEK 6 — NATIONAL IDENTITY AND SYMBOLS (PART 1)](#week-6-national-identity-and-symbols-part-1) · 62
+  - [WEEK 8 — NATIONAL IDENTITY AND SYMBOLS (PART 2)](#week-8-national-identity-and-symbols-part-2) · 63
+  - [WEEK 9 — PEOPLE, PLACES AND OBJECTS TO RESPECT (PARTS 1 AND 2)](#week-9-people-places-and-objects-to-respect-parts-1-and-2) · 64
+- **[Yoruba](#yoruba)** · 65
+  - [WEEK 1 — Ede: Didaruko nnkan inu yara ikawe / Asa: Ikini ni ile Yoruba / Litireso: Orin keekeekee (imototo, ibawi)](#week-1-ede-didaruko-nnkan-inu-yara-ikawe-asa-ikini-ni-ile-yoruba-litireso-orin-keekeekee-imototo-ibawi) · 65
+  - [WEEK 2 — Ede: Onka ede Yoruba 1-10 / Asa: Iwa rere / Litireso: Orin ikilo fun omode](#week-2-ede-onka-ede-yoruba-1-10-asa-iwa-rere-litireso-orin-ikilo-fun-omode) · 66
+  - [WEEK 3 — Ede: Kika alifabeeti ede Yoruba / Asa: Awon ojo ninu ose / Litireso: Orin idaraya](#week-3-ede-kika-alifabeeti-ede-yoruba-asa-awon-ojo-ninu-ose-litireso-orin-idaraya) · 67
+  - [WEEK 4 — Ede: Isorongbesi laarin akekoo / Asa: Imototo ara eni / Litireso: Orin iwa rere](#week-4-ede-isorongbesi-laarin-akekoo-asa-imototo-ara-eni-litireso-orin-iwa-rere) · 68
+  - [WEEK 5 — Ede: Sise nnkan (oro ase) / Asa: Ojuse ebi ninu idile / Litireso: Orin keekeekee ati ijo](#week-5-ede-sise-nnkan-oro-ase-asa-ojuse-ebi-ninu-idile-litireso-orin-keekeekee-ati-ijo) · 69
+  - [WEEK 6 — Ede: Kika alifabeeti A-GB / Asa: Ikini fun orisirisi igba ati asiko / Litireso: Orin ibawi fun omode](#week-6-ede-kika-alifabeeti-a-gb-asa-ikini-fun-orisirisi-igba-ati-asiko-litireso-orin-ibawi-fun-omode) · 70
+  - [WEEK 8 — Ede: Kiko alifabeeti / Asa: Imototo ayika / Litireso: Ere osupa sise ni ale](#week-8-ede-kiko-alifabeeti-asa-imototo-ayika-litireso-ere-osupa-sise-ni-ale) · 71
+  - [WEEK 9 — Ede: Itesiwaju kika alifabeeti H-Q / Asa: Ikini fun ise (ise abinibi) / Litireso: Ewi keekeekee](#week-9-ede-itesiwaju-kika-alifabeeti-h-q-asa-ikini-fun-ise-ise-abinibi-litireso-ewi-keekeekee) · 72
+  - [WEEK 11 — Exam Preparation](#week-11-exam-preparation) · 73
+- **[Mathematics & English](#mathematics-english)** · 75
+  - [WEEK 1 — VOWELS AND CONSONANTS](#week-1-vowels-and-consonants) · 75
+  - [WEEK 2 — SINGLE SOUNDS: d, a, i, m](#week-2-single-sounds-d-a-i-m) · 75
+  - [WEEK 3 — SIGHT WORDS: You, Me, Her, We](#week-3-sight-words-you-me-her-we) · 76
+  - [WEEK 4 — SIGHT WORDS: I, Go, Car](#week-4-sight-words-i-go-car) · 77
+  - [WEEK 5 — DIGRAPH: th, ck, wh](#week-5-digraph-th-ck-wh) · 78
+  - [WEEK 6 — SIGHT WORDS: The, This, They](#week-6-sight-words-the-this-they) · 79
+  - [WEEK 8 — DIGRAPH: ph, sh, ch](#week-8-digraph-ph-sh-ch) · 80
+  - [WEEK 9 — SIGHT WORDS: Photo, She, Chart · CONSONANT BLENDS: Play, Fly, Greet](#week-9-sight-words-photo-she-chart-consonant-blends-play-fly-greet) · 81
+  - [WEEK 1 — REVIEW OF ALPHABET: Aa – Ff](#week-1-review-of-alphabet-aa-ff) · 82
+  - [WEEK 2 — REVIEW OF ALPHABET: Gg – Ll](#week-2-review-of-alphabet-gg-ll) · 82
+  - [WEEK 3 — REVIEW OF ALPHABET: Mm – Rr](#week-3-review-of-alphabet-mm-rr) · 83
+  - [WEEK 4 — REVIEW OF ALPHABET: Ss – Zz](#week-4-review-of-alphabet-ss-zz) · 84
+  - [WEEK 5 — THREE-LETTER WORDS: CVC PATTERN (Part 1)](#week-5-three-letter-words-cvc-pattern-part-1) · 85
+  - [WEEK 6 — THREE-LETTER WORDS: CVC PATTERN (Part 2)](#week-6-three-letter-words-cvc-pattern-part-2) · 85
+  - [WEEK 8 — THREE-LETTER WORDS: CVC PATTERN (Part 3)](#week-8-three-letter-words-cvc-pattern-part-3) · 86
+  - [WEEK 9 — STORY TELLING AND LETTER WORK INTEGRATION](#week-9-story-telling-and-letter-work-integration) · 87
+  - [WEEK 1 — WHOLE NUMBERS 1–200](#week-1-whole-numbers-1200) · 88
+  - [WEEK 2 — PLACE VALUE](#week-2-place-value) · 89
+  - [WEEK 3 — WRITING NUMBERS IN WORDS](#week-3-writing-numbers-in-words) · 89
+  - [WEEK 4 — WRITING WORDS IN FIGURES](#week-4-writing-words-in-figures) · 90
+  - [WEEK 5 — ADDITION (INTRODUCTION)](#week-5-addition-introduction) · 91
+  - [WEEK 6 — ADDITION](#week-6-addition) · 92
+  - [WEEK 8 — SUBTRACTION (INTRODUCTION)](#week-8-subtraction-introduction) · 93
+  - [WEEK 9 — SUBTRACTION](#week-9-subtraction) · 93
+- **[General Knowledge](#general-knowledge)** · 95
+  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 95
+  - [WEEK 2 — MY FAMILY: MEMBERS AND THEIR ROLES](#week-2-my-family-members-and-their-roles) · 95
+  - [WEEK 3 — MY SCHOOL: PLACES, PEOPLE AND THINGS](#week-3-my-school-places-people-and-things) · 96
+  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 97
+  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 98
+  - [WEEK 6 — COLOURS, SHAPES AND SIZES AROUND ME](#week-6-colours-shapes-and-sizes-around-me) · 98
+  - [WEEK 8 — ANIMALS AND BIRDS AROUND ME](#week-8-animals-and-birds-around-me) · 99
+  - [WEEK 9 — GOOD HABITS: GREETINGS, POLITENESS AND CLEANLINESS](#week-9-good-habits-greetings-politeness-and-cleanliness) · 100
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · First Term)](#examination-practice-basic-science-nursery-2-first-term)** · 102
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-nursery-2-1st-term)** · 104
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 1st Term)](#examination-practice-christian-religious-studies-nursery-2-1st-term)** · 106
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 1st Term)](#examination-practice-basic-digital-literacy-nursery-2-1st-term)** · 108
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY ( · )](#examination-practice-nigerian-history)** · 110
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 1st Term)](#examination-practice-physical-and-health-education-nursery-2-1st-term)** · 113
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 1st Term)](#examination-practice-prevocational-studies-nursery-2-1st-term)** · 116
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-nursery-2-1st-term)** · 118
+- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 1st Term)](#examination-practice-yoruba-nursery-2-1st-term)** · 121
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-1st-term)** · 123
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-1st-term)** · 125
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-numeracy-nursery-2-1st-term)** · 127
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE ( · )](#examination-practice-general-knowledge)** · 129
 
 
 
@@ -297,6 +297,8 @@ First aid is the first help for a hurt person. The box has plasters, bandages, c
 3. Where is the box kept in our school?
 4. Who is allowed to use it?
 
+
+![An open first aid box with a bandage, a bottle, cotton wool, scissors, a plaster and a thermometer.](assets/img/nursery-2/1st-term/basic-science/week3-inside-the-first-aid-box.png)
 **Worksheet**
 
 1. First aid means the ____ help given to a hurt person. A) slow B) secret C) last D) first
@@ -346,6 +348,8 @@ Plaster for a small cut. Bandage to wrap. Cotton to clean. Thermometer for fever
 3. Mention two injuries that need a grown-up at once.
 4. Show me the calm voice you use when a friend is hurt.
 
+
+![A teddy bear with a bandaged arm and a plaster on its knee beside a first aid box.](assets/img/nursery-2/1st-term/basic-science/week4-the-bandaged-teddy.png)
 **Worksheet**
 
 1. A bandage is used to A) brush the teeth B) write on the book C) wrap a wound and support a sprain D) cook food
@@ -400,6 +404,8 @@ A wound breaks the skin. Types: cut, scrape, bruise, burn, puncture. Small wound
 4. What kind of wound comes from a thorn?
 5. Mention one way of preventing wounds.
 
+
+![A knife, a needle, a broken cup and a hot pot that can cause a wound.](assets/img/nursery-2/1st-term/basic-science/week5-things-that-can-cut-or-burn.png)
 **Worksheet**
 
 1. A wound is an injury that A) paints the skin B) breaks the skin C) cleans the skin D) warms the skin
@@ -452,6 +458,8 @@ Wash hands, clean with water, put on antiseptic, cover. Do not pick the scab. Re
 4. Mention one sign that a wound is going bad.
 5. What does "prevention is better than treatment" mean?
 
+
+![A girl putting a plaster on her knee.](assets/img/nursery-2/1st-term/basic-science/week6-a-plaster-on-my-knee.png)
 **Worksheet**
 
 1. What is the FIRST thing to do before caring for a wound? A) wash our hands B) put on a plaster C) blow on it D) run to the doctor
@@ -507,6 +515,8 @@ Sickness is the body not working well. Rest, water, good food and the doctor's m
 4. Mention two things that bring sickness.
 5. What do you do for a brother or sister who is sick?
 
+
+![A girl resting in bed with a cool cloth on her head and a thermometer beside her.](assets/img/nursery-2/1st-term/basic-science/week8-resting-when-sick.png)
 **Worksheet**
 
 1. Sickness means the body A) is sleeping well B) is growing C) is working properly D) is not working properly
@@ -563,6 +573,8 @@ A rock is hard and comes from nature. Soil is the top layer of the earth. Loamy 
 4. Which soil is sticky when it is wet?
 5. Which soil is best for plants, and why?
 
+
+![A big rock, small stones sorted by size and a plant growing in soil.](assets/img/nursery-2/1st-term/basic-science/week9-rocks-and-soil.png)
 **Worksheet**
 
 1. A rock is A) a kind of animal B) a kind of food C) soft and made by people D) hard and found in nature
@@ -1641,6 +1653,8 @@ Clean hands, dry cloth, two hands to carry, grown-up for the plug. Care for the 
 3. Who puts the charger into the socket?
 4. What do you do before switching a computer off?
 
+
+![A boy carrying a tablet in two hands while a device charges near a grown-up.](assets/img/nursery-2/1st-term/basic-digital-literacy/week5-carrying-with-two-hands.png)
 **Worksheet**
 
 1. A screen is wiped with A) a soft dry cloth B) a duster with water C) a rough stone D) a wet mop
@@ -1691,6 +1705,8 @@ In the computer lab we walk, we sit quietly, we keep food out, and we tell the t
 3. Who switches on the computers?
 4. What do you do if a machine begins to smoke?
 
+
+![A boy sitting straight at a computer desk with both feet on the floor.](assets/img/nursery-2/1st-term/basic-digital-literacy/week6-sitting-correctly-in-the-lab.png)
 **Worksheet**
 
 1. In the computer lab we must A) run B) walk C) shout D) jump
