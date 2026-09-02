@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 3 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 4 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*3 subjects · 24 lessons · 3 term practice papers. Each part begins on a fresh page.*
+*4 subjects · 32 lessons · 4 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 2
   - [WEEK 1 — PLANTS](#week-1-plants) · 2
@@ -23,27 +23,37 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — WEATHER AND SEASONS](#week-6-weather-and-seasons) · 5
   - [WEEK 8 — LIGHT AND SOUND](#week-8-light-and-sound) · 6
   - [WEEK 9 — THE SUN, MOON AND STARS](#week-9-the-sun-moon-and-stars) · 6
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 8
-  - [WEEK 1 — THE BIRTH OF JESUS](#week-1-the-birth-of-jesus) · 8
-  - [WEEK 2 — THE SHEPHERDS AND THE WISE MEN](#week-2-the-shepherds-and-the-wise-men) · 8
-  - [WEEK 3 — JESUS AS A BOY](#week-3-jesus-as-a-boy) · 9
-  - [WEEK 4 — THE BAPTISM OF JESUS](#week-4-the-baptism-of-jesus) · 10
-  - [WEEK 5 — THE TEMPTATION OF JESUS](#week-5-the-temptation-of-jesus) · 10
-  - [WEEK 6 — JESUS CALLS THE FIRST DISCIPLES](#week-6-jesus-calls-the-first-disciples) · 11
-  - [WEEK 8 — JESUS TURNS WATER INTO WINE](#week-8-jesus-turns-water-into-wine) · 12
-  - [WEEK 9 — JESUS LOVES THE CHILDREN](#week-9-jesus-loves-the-children) · 12
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 14
-  - [WEEK 1 — THE DESKTOP AND ICONS](#week-1-the-desktop-and-icons) · 14
-  - [WEEK 2 — USING THE MOUSE](#week-2-using-the-mouse) · 14
-  - [WEEK 3 — THE KEYBOARD: LETTER AND NUMBER KEYS](#week-3-the-keyboard-letter-and-number-keys) · 15
-  - [WEEK 4 — TYPING SIMPLE WORDS](#week-4-typing-simple-words) · 16
-  - [WEEK 5 — OPENING AND CLOSING A PROGRAM](#week-5-opening-and-closing-a-program) · 16
-  - [WEEK 6 — DRAWING WITH THE COMPUTER](#week-6-drawing-with-the-computer) · 17
-  - [WEEK 8 — LEARNING WITH THE COMPUTER](#week-8-learning-with-the-computer) · 18
-  - [WEEK 9 — SAFE HABITS WITH THE COMPUTER](#week-9-safe-habits-with-the-computer) · 18
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 2nd Term)](#examination-practice-basic-science-primary-1-2nd-term)** · 20
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 2nd Term)](#examination-practice-christian-religious-studies-primary-1-2nd-term)** · 22
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-1-2nd-term)** · 24
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
+  - [WEEK 1 — COLOUR](#week-1-colour) · 8
+  - [WEEK 2 — DRAWING AND COLOURING](#week-2-drawing-and-colouring) · 8
+  - [WEEK 3 — MODELLING](#week-3-modelling) · 9
+  - [WEEK 4 — CRAFT WORK](#week-4-craft-work) · 10
+  - [WEEK 5 — MUSIC AND SONGS](#week-5-music-and-songs) · 10
+  - [WEEK 6 — MUSICAL INSTRUMENTS](#week-6-musical-instruments) · 11
+  - [WEEK 8 — DANCE AND MOVEMENT](#week-8-dance-and-movement) · 12
+  - [WEEK 9 — DRAMA AND ROLE PLAY](#week-9-drama-and-role-play) · 12
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
+  - [WEEK 1 — THE BIRTH OF JESUS](#week-1-the-birth-of-jesus) · 14
+  - [WEEK 2 — THE SHEPHERDS AND THE WISE MEN](#week-2-the-shepherds-and-the-wise-men) · 14
+  - [WEEK 3 — JESUS AS A BOY](#week-3-jesus-as-a-boy) · 15
+  - [WEEK 4 — THE BAPTISM OF JESUS](#week-4-the-baptism-of-jesus) · 16
+  - [WEEK 5 — THE TEMPTATION OF JESUS](#week-5-the-temptation-of-jesus) · 16
+  - [WEEK 6 — JESUS CALLS THE FIRST DISCIPLES](#week-6-jesus-calls-the-first-disciples) · 17
+  - [WEEK 8 — JESUS TURNS WATER INTO WINE](#week-8-jesus-turns-water-into-wine) · 18
+  - [WEEK 9 — JESUS LOVES THE CHILDREN](#week-9-jesus-loves-the-children) · 18
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
+  - [WEEK 1 — THE DESKTOP AND ICONS](#week-1-the-desktop-and-icons) · 20
+  - [WEEK 2 — USING THE MOUSE](#week-2-using-the-mouse) · 20
+  - [WEEK 3 — THE KEYBOARD: LETTER AND NUMBER KEYS](#week-3-the-keyboard-letter-and-number-keys) · 21
+  - [WEEK 4 — TYPING SIMPLE WORDS](#week-4-typing-simple-words) · 22
+  - [WEEK 5 — OPENING AND CLOSING A PROGRAM](#week-5-opening-and-closing-a-program) · 22
+  - [WEEK 6 — DRAWING WITH THE COMPUTER](#week-6-drawing-with-the-computer) · 23
+  - [WEEK 8 — LEARNING WITH THE COMPUTER](#week-8-learning-with-the-computer) · 24
+  - [WEEK 9 — SAFE HABITS WITH THE COMPUTER](#week-9-safe-habits-with-the-computer) · 24
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 2nd Term)](#examination-practice-basic-science-primary-1-2nd-term)** · 26
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-1-2nd-term)** · 28
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 2nd Term)](#examination-practice-christian-religious-studies-primary-1-2nd-term)** · 30
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-1-2nd-term)** · 32
 
 
 
@@ -649,6 +659,610 @@ written for them.
 **My own work**
 
 • Draw the sun by day and the moon and stars by night.
+
+
+---
+
+# Cultural and Creative Arts (CCA)
+
+These are the notes for the second term of Primary 1. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 1 · Cultural and Creative Arts · Second Term W1-6, 8-9 (colour; drawing and colouring; modelling; craft work; music and songs; musical instruments; dance and movement; drama and role play).*
+
+
+### WEEK 1 — COLOUR
+
+**You will learn to**
+
+• name the primary colours
+
+• name the secondary colours
+
+• mix colours
+
+**Things to know**
+
+• The **primary colours** are red, blue and yellow.
+
+• We cannot make the primary colours by mixing.
+
+• The **secondary colours** are green, orange and purple.
+
+• We make secondary colours by mixing two primary colours.
+
+• **Blue + yellow = green.**
+
+• **Red + yellow = orange.**
+
+• **Red + blue = purple.**
+
+• Colour makes our art beautiful.
+
+• We see colour all around us.
+
+• We choose colours for our drawing.
+
+**Let us talk**
+
+1. Name the three primary colours.
+
+2. What do we get when we mix blue and yellow?
+
+3. Name one secondary colour.
+
+**Words for my notebook**
+
+• primary colour — red, blue or yellow
+
+• secondary colour — green, orange or purple
+
+• mix — to put colours together
+
+**Worksheet**
+
+1. The primary colours are red, blue and ___.
+   A) yellow B) green C) orange D) purple
+
+2. Blue + yellow makes ___.
+   A) green B) orange C) purple D) brown
+
+3. Red + yellow makes ___.
+   A) orange B) green C) purple D) black
+
+4. Which is a secondary colour?
+   A) green B) red C) blue D) yellow
+
+5. Fill in: Red + blue makes _____.
+
+6. Mention two primary colours.
+
+7. Write what blue and yellow make.
+
+**My own work**
+
+• Draw and colour one thing in each primary colour.
+
+---
+
+### WEEK 2 — DRAWING AND COLOURING
+
+**You will learn to**
+
+• draw simple objects
+
+• colour a drawing neatly
+
+• use art tools well
+
+**Things to know**
+
+• **Drawing** is making a picture with lines.
+
+• We draw with a **pencil** or **crayon**.
+
+• We can draw people, animals and things.
+
+• We colour a drawing with crayon or colour pencil.
+
+• We colour inside the lines.
+
+• We choose the right colours.
+
+• A neat drawing is pleasing to see.
+
+• We hold the pencil the right way.
+
+• We keep our drawing book clean.
+
+• Drawing helps us to show what we see.
+
+**Let us talk**
+
+1. What is drawing?
+
+2. What do we draw with?
+
+3. How do we colour neatly?
+
+**Words for my notebook**
+
+• drawing — a picture made with lines
+
+• crayon — a stick we colour with
+
+• neat — clean and tidy
+
+**Worksheet**
+
+1. Drawing is making a picture with ___.
+   A) lines B) sounds C) words D) numbers
+
+2. We draw with a pencil or ___.
+   A) crayon B) spoon C) stone D) leaf
+
+3. We colour ___ the lines.
+   A) inside B) outside C) over D) under
+
+4. A ___ drawing is pleasing to see.
+   A) neat B) dirty C) torn D) dark
+
+5. Fill in: A stick we colour with is a _____.
+
+6. Mention two things we can draw.
+
+7. Write what we draw with.
+
+**My own work**
+
+• Draw and colour my favourite animal.
+
+---
+
+### WEEK 3 — MODELLING
+
+**You will learn to**
+
+• say what modelling is
+
+• mould with clay
+
+• make simple shapes
+
+**Things to know**
+
+• **Modelling** is making shapes with soft material.
+
+• We model with **clay**, **plasticine** or **sand**.
+
+• Clay is soft earth we can mould.
+
+• We can mould a **pot**, a **cup** or an **animal**.
+
+• We roll, press and shape the clay.
+
+• We use our hands and simple tools.
+
+• A model is the thing we make.
+
+• Modelling is fun and uses our hands.
+
+• We let the clay dry to keep it hard.
+
+• Our people mould pots from clay.
+
+**Let us talk**
+
+1. What is modelling?
+
+2. What do we model with?
+
+3. Name one thing we can mould.
+
+**Words for my notebook**
+
+• modelling — making shapes with soft material
+
+• clay — soft earth we mould
+
+• model — the thing we make
+
+**Worksheet**
+
+1. Modelling is making shapes with ___ material.
+   A) soft B) hard C) liquid D) hot
+
+2. We model with clay, plasticine or ___.
+   A) sand B) water C) air D) fire
+
+3. We can mould a pot, a cup or an ___.
+   A) animal B) idea C) song D) smell
+
+4. A ___ is the thing we make.
+   A) model B) line C) sound D) word
+
+5. Fill in: Soft earth we mould is _____.
+
+6. Mention two things we can mould.
+
+7. Write what we model with.
+
+**My own work**
+
+• Mould or draw a simple pot or animal.
+
+---
+
+### WEEK 4 — CRAFT WORK
+
+**You will learn to**
+
+• say what craft work is
+
+• weave and fold
+
+• make a simple craft
+
+**Things to know**
+
+• **Craft work** is making things with our hands.
+
+• We can **weave** paper or straw to make a mat.
+
+• We can **fold** paper to make a shape.
+
+• We can **cut** and **paste** to make a collage.
+
+• We use local materials like paper, straw, cloth and leaves.
+
+• We can make a basket, a fan or a bead chain.
+
+• Craft work needs care and patience.
+
+• Our people make beautiful crafts.
+
+• We can use or sell the crafts we make.
+
+• Craft work is a useful skill.
+
+**Let us talk**
+
+1. What is craft work?
+
+2. Name one craft you can make.
+
+3. What materials do we use?
+
+**Words for my notebook**
+
+• craft work — making things with our hands
+
+• weave — to cross strands to make a mat
+
+• collage — a picture made by pasting pieces
+
+**Worksheet**
+
+1. Craft work is making things with our ___.
+   A) hands B) feet C) ears D) nose
+
+2. We ___ paper or straw to make a mat.
+   A) weave B) burn C) hide D) lose
+
+3. We cut and ___ to make a collage.
+   A) paste B) break C) wash D) sing
+
+4. We use paper, straw, cloth and ___.
+   A) leaves B) stones C) water D) smoke
+
+5. Fill in: To cross strands to make a mat is to _____.
+
+6. Mention two crafts we can make.
+
+7. Write one material we use for craft.
+
+**My own work**
+
+• Fold or weave paper to make a simple mat or fan.
+
+---
+
+### WEEK 5 — MUSIC AND SONGS
+
+**You will learn to**
+
+• sing simple songs
+
+• say what music is
+
+• keep time when we sing
+
+**Things to know**
+
+• **Music** is sound that is pleasing to hear.
+
+• A **song** has words we sing.
+
+• We sing at home, school and church.
+
+• Songs can be happy or calm.
+
+• We keep **time** or beat when we sing.
+
+• We can clap while we sing.
+
+• Songs tell stories and teach us.
+
+• We sing together with one voice.
+
+• Our people have many songs.
+
+• Singing makes us glad.
+
+**Let us talk**
+
+1. What is music?
+
+2. What does a song have?
+
+3. How do we keep time?
+
+**Words for my notebook**
+
+• music — pleasing sound
+
+• song — words we sing
+
+• beat — the time we keep in music
+
+**Worksheet**
+
+1. Music is sound that is pleasing to ___.
+   A) hear B) see C) touch D) smell
+
+2. A ___ has words we sing.
+   A) song B) picture C) stone D) line
+
+3. We keep ___ or beat when we sing.
+   A) time B) silence C) dust D) dark
+
+4. We can ___ while we sing.
+   A) clap B) sleep C) cry D) fight
+
+5. Fill in: Words we sing are a _____.
+
+6. Mention two places we sing.
+
+7. Write what music is.
+
+**My own work**
+
+• Draw something that makes music.
+
+---
+
+### WEEK 6 — MUSICAL INSTRUMENTS
+
+**You will learn to**
+
+• name local musical instruments
+
+• say how each is played
+
+• play a simple beat
+
+**Things to know**
+
+• A **musical instrument** makes music.
+
+• The **drum** is beaten with a stick or hand.
+
+• The **gong** is struck with a stick.
+
+• The **shekere** is shaken.
+
+• The **flute** is blown.
+
+• The **talking drum** can mimic speech.
+
+• We beat the drum to keep time.
+
+• Our people use local instruments.
+
+• Instruments can be made from wood, skin and metal.
+
+• We play instruments with care.
+
+**Let us talk**
+
+1. Name one local musical instrument.
+
+2. How is the drum played?
+
+3. Which instrument is blown?
+
+**Words for my notebook**
+
+• musical instrument — a thing that makes music
+
+• drum — an instrument we beat
+
+• flute — an instrument we blow
+
+**Worksheet**
+
+1. A thing that makes music is a musical ___.
+   A) instrument B) animal C) food D) cloth
+
+2. The drum is beaten with a stick or ___.
+   A) hand B) foot only C) head D) knee
+
+3. The ___ is blown.
+   A) flute B) drum C) gong D) shekere
+
+4. The ___ is shaken.
+   A) shekere B) flute C) drum D) gong
+
+5. Fill in: An instrument we beat is a _____.
+
+6. Mention two local musical instruments.
+
+7. Write how the drum is played.
+
+**My own work**
+
+• Draw one local musical instrument.
+
+---
+
+### WEEK 8 — DANCE AND MOVEMENT
+
+**You will learn to**
+
+• move to music
+
+• name dance steps
+
+• dance in our culture
+
+**Things to know**
+
+• **Dance** is moving the body to music.
+
+• We dance at festivals and parties.
+
+• We can **clap**, **jump**, **turn** and **stamp**.
+
+• We move to the beat of the music.
+
+• Our people have cultural dances.
+
+• Dance can tell a story.
+
+• We dance alone or in a group.
+
+• Dance keeps the body strong and happy.
+
+• We dance with care and not roughly.
+
+• Dance is part of our culture.
+
+**Let us talk**
+
+1. What is dance?
+
+2. Name one dance movement.
+
+3. When do we dance?
+
+**Words for my notebook**
+
+• dance — moving the body to music
+
+• beat — the time we move to
+
+• cultural dance — a dance of our people
+
+**Worksheet**
+
+1. Dance is moving the body to ___.
+   A) music B) silence C) dust D) sleep
+
+2. We can clap, jump, turn and ___.
+   A) stamp B) sleep C) cry D) hide
+
+3. We move to the ___ of the music.
+   A) beat B) colour C) smell D) taste
+
+4. We dance at festivals and ___.
+   A) parties B) funerals only C) exams D) sleep
+
+5. Fill in: Moving the body to music is _____.
+
+6. Mention two dance movements.
+
+7. Write when we dance.
+
+**My own work**
+
+• Draw myself dancing.
+
+---
+
+### WEEK 9 — DRAMA AND ROLE PLAY
+
+**You will learn to**
+
+• say what drama is
+
+• act out a simple story
+
+• play a role
+
+**Things to know**
+
+• **Drama** is acting out a story.
+
+• We **pretend** to be someone in a story.
+
+• A **role** is the part we play.
+
+• We can act a story from the Bible or our culture.
+
+• We use our voice and body to act.
+
+• We can wear simple dress for a role.
+
+• Drama helps us to understand a story.
+
+• We act together with others.
+
+• Drama is fun and teaches us.
+
+• Our people act stories in festivals.
+
+**Let us talk**
+
+1. What is drama?
+
+2. What is a role?
+
+3. Name a story we can act.
+
+**Words for my notebook**
+
+• drama — acting out a story
+
+• role — the part we play
+
+• pretend — to act as someone else
+
+**Worksheet**
+
+1. Drama is ___ out a story.
+   A) acting B) singing C) drawing D) hiding
+
+2. A ___ is the part we play.
+   A) role B) song C) line D) beat
+
+3. We use our voice and ___ to act.
+   A) body B) shoes C) book D) bag
+
+4. We ___ to be someone in a story.
+   A) pretend B) refuse C) forget D) hide
+
+5. Fill in: Acting out a story is _____.
+
+6. Mention two things we use in drama.
+
+7. Write what a role is.
+
+**My own work**
+
+• Draw myself acting a role in a story.
 
 
 ---
@@ -2043,6 +2657,192 @@ Answer in full sentences.
 43. Name the five sense organs. (2 marks)
 44. Say two ways to keep your body clean. (2 marks)
 45. Name two sources of water and two uses of water. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 2nd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. The primary colours are red, blue and ___
+   A) yellow
+   B) green
+   C) purple
+   D) orange
+2. Blue + yellow makes ___
+   A) brown
+   B) purple
+   C) orange
+   D) green
+3. Red + yellow makes ___
+   A) green
+   B) black
+   C) orange
+   D) purple
+4. Which is a secondary colour?
+   A) green
+   B) red
+   C) blue
+   D) yellow
+5. Drawing is making a picture with ___
+   A) sounds
+   B) numbers
+   C) words
+   D) lines
+6. We draw with a pencil or ___
+   A) spoon
+   B) crayon
+   C) leaf
+   D) stone
+7. We colour ___ the lines
+   A) outside
+   B) under
+   C) inside
+   D) over
+8. A ___ drawing is pleasing to see
+   A) dirty
+   B) torn
+   C) dark
+   D) neat
+9. Modelling is making shapes with ___ material
+   A) soft
+   B) hot
+   C) hard
+   D) liquid
+10. We model with clay, plasticine or ___
+   A) air
+   B) sand
+   C) water
+   D) fire
+11. We can mould a pot, a cup or an ___
+   A) song
+   B) idea
+   C) smell
+   D) animal
+12. A ___ is the thing we make
+   A) word
+   B) sound
+   C) model
+   D) line
+13. Craft work is making things with our ___
+   A) hands
+   B) feet
+   C) ears
+   D) nose
+14. We ___ paper or straw to make a mat
+   A) burn
+   B) weave
+   C) lose
+   D) hide
+15. We cut and ___ to make a collage
+   A) break
+   B) wash
+   C) paste
+   D) sing
+16. We use paper, straw, cloth and ___
+   A) water
+   B) stones
+   C) smoke
+   D) leaves
+17. Music is sound that is pleasing to ___
+   A) smell
+   B) hear
+   C) see
+   D) touch
+18. A ___ has words we sing
+   A) song
+   B) picture
+   C) stone
+   D) line
+19. We keep ___ or beat when we sing
+   A) dust
+   B) dark
+   C) silence
+   D) time
+20. We can ___ while we sing
+   A) cry
+   B) sleep
+   C) clap
+   D) fight
+21. A thing that makes music is a musical ___
+   A) cloth
+   B) instrument
+   C) food
+   D) animal
+22. The drum is beaten with a stick or ___
+   A) hand
+   B) head
+   C) knee
+   D) foot
+23. The ___ is blown
+   A) gong
+   B) drum
+   C) flute
+   D) shekere
+24. The ___ is shaken
+   A) drum
+   B) shekere
+   C) gong
+   D) flute
+25. Dance is moving the body to ___
+   A) music
+   B) silence
+   C) sleep
+   D) dust
+26. We can clap, jump, turn and ___
+   A) cry
+   B) hide
+   C) sleep
+   D) stamp
+27. We move to the ___ of the music
+   A) colour
+   B) smell
+   C) beat
+   D) taste
+28. Drama is ___ out a story
+   A) acting
+   B) singing
+   C) hiding
+   D) drawing
+29. A ___ is the part we play
+   A) line
+   B) role
+   C) beat
+   D) song
+30. We ___ to be someone in a story
+   A) refuse
+   B) hide
+   C) forget
+   D) pretend
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name the three primary colours
+32. Name two secondary colours
+33. Name two things we can draw
+34. Name two things we can mould
+35. Name two crafts we can make
+36. Name two places we sing
+37. Name two local musical instruments
+38. Name two dance movements
+39. Name two things we use in drama
+40. Name two art tools
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. Name the three primary colours. (2 marks)
+42. What do blue and yellow make? (2 marks)
+43. What is modelling? Name two things we can mould. (2 marks)
+44. Name two local musical instruments and how each is played. (2 marks)
+45. What is drama? (2 marks)
 
 
 ---
