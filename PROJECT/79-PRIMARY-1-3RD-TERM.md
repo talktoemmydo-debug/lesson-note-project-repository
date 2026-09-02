@@ -35,3 +35,12 @@ building and spelling · wk9 Phonemic awareness and listening.
 
 The five plate exemptions (Yoruba, General Knowledge, Nigerian History, Social & Citizenship Studies, CRS)
 carry no plates in any term — they sit in `tools/backfill_ledger.py` EXEMPT.
+
+## Books
+
+| Book | Status |
+| --- | --- |
+| Pupil copy | ✅ `notes/Primary 1 - Third Term.{md,docx}` — 195,883 B md / 111,940 B docx · 98 pages · 12 papers · key n=360 (A=92 B=90 C=90 D=88) · rule checks all clear |
+| Teacher copy | ✅ `notes/Primary 1 - Third Term - TEACHER COPY.{md,docx}` — 208,584 B md / 117,644 B docx · 110 pages · paper keys only · gates ALL CLEAR |
+
+All 11 subjects (12 streams/papers) authored, gated and bound. **Primary 1 Third Term COMPLETE.**
