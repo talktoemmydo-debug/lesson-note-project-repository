@@ -11,7 +11,7 @@ NERDC scheme but must cover exactly the master's teaching weeks.
 | # | subject | teaching weeks | state |
 | --- | --- | --- | --- |
 | 1 | basic-science | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · gates ok |
-| 2 | basic-digital-literacy | 1-5, 7, 8, 9 | — |
+| 2 | basic-digital-literacy | 1-5, 7, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=8 D=7) · sheet_lint 0 · gates ok |
 | 3 | christian-religious-studies | 1-6, 8, 9 | — |
 | 4 | cultural-and-creative-arts | 1-6, 8, 9 | — |
 | 5 | general-knowledge | (master lists none — confirm shape) | — |
