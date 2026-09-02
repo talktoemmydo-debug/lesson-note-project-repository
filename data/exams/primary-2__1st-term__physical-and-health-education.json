@@ -1,0 +1,389 @@
+{
+ "subject": "Physical and Health Education",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "The part that helps us stand, walk and run is the ___",
+   "answer": "legs",
+   "distractors": [
+    "ears",
+    "hair",
+    "teeth"
+   ]
+  },
+  {
+   "stem": "Where two bones meet is a ___",
+   "answer": "joint",
+   "distractors": [
+    "skin",
+    "tooth",
+    "nail"
+   ]
+  },
+  {
+   "stem": "The part that pulls the bones to move is the ___",
+   "answer": "muscle",
+   "distractors": [
+    "hair",
+    "nail",
+    "ear"
+   ]
+  },
+  {
+   "stem": "Movement keeps the body strong and ___",
+   "answer": "healthy",
+   "distractors": [
+    "weak",
+    "sick",
+    "sad"
+   ]
+  },
+  {
+   "stem": "A movement that takes us from place to place is a ___ movement",
+   "answer": "locomotor",
+   "distractors": [
+    "sleeping",
+    "sitting",
+    "eating"
+   ]
+  },
+  {
+   "stem": "Moving on the feet fast is ___",
+   "answer": "running",
+   "distractors": [
+    "sitting",
+    "sleeping",
+    "eating"
+   ]
+  },
+  {
+   "stem": "Jumping on one foot is ___",
+   "answer": "hopping",
+   "distractors": [
+    "sitting",
+    "sleeping",
+    "lying"
+   ]
+  },
+  {
+   "stem": "A long jump is a ___",
+   "answer": "leap",
+   "distractors": [
+    "nap",
+    "song",
+    "rest"
+   ]
+  },
+  {
+   "stem": "A movement done in one place is a ___ movement",
+   "answer": "non-locomotor",
+   "distractors": [
+    "running",
+    "walking",
+    "jumping"
+   ]
+  },
+  {
+   "stem": "Reaching out the arms or legs is ___",
+   "answer": "stretching",
+   "distractors": [
+    "sleeping",
+    "eating",
+    "crying"
+   ]
+  },
+  {
+   "stem": "Turning the body is ___",
+   "answer": "twisting",
+   "distractors": [
+    "sleeping",
+    "eating",
+    "sitting"
+   ]
+  },
+  {
+   "stem": "Holding the body steady is ___",
+   "answer": "balancing",
+   "distractors": [
+    "falling",
+    "crying",
+    "shouting"
+   ]
+  },
+  {
+   "stem": "An activity we play with rules is a ___",
+   "answer": "game",
+   "distractors": [
+    "stone",
+    "river",
+    "tree"
+   ]
+  },
+  {
+   "stem": "Games have ___ we must follow",
+   "answer": "rules",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "A group that plays together is a ___",
+   "answer": "team",
+   "distractors": [
+    "stone",
+    "river",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Games keep us ___ and strong",
+   "answer": "fit",
+   "distractors": [
+    "weak",
+    "sick",
+    "sad"
+   ]
+  },
+  {
+   "stem": "Keeping clean to stay well is ___",
+   "answer": "hygiene",
+   "distractors": [
+    "hunger",
+    "sleep",
+    "noise"
+   ]
+  },
+  {
+   "stem": "We bathe every day with soap and ___",
+   "answer": "water",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "We brush our teeth every morning and ___",
+   "answer": "night",
+   "distractors": [
+    "noon",
+    "dawn",
+    "dusk"
+   ]
+  },
+  {
+   "stem": "We keep our nails short and ___",
+   "answer": "clean",
+   "distractors": [
+    "long",
+    "dirty",
+    "dark"
+   ]
+  },
+  {
+   "stem": "A meal with all the food groups is a ___ diet",
+   "answer": "balanced",
+   "distractors": [
+    "broken",
+    "bad",
+    "bitter"
+   ]
+  },
+  {
+   "stem": "The food that gives us energy is ___",
+   "answer": "carbohydrates",
+   "distractors": [
+    "water only",
+    "sand",
+    "stone"
+   ]
+  },
+  {
+   "stem": "The food that builds the body is ___",
+   "answer": "protein",
+   "distractors": [
+    "stone",
+    "sand",
+    "dust"
+   ]
+  },
+  {
+   "stem": "Vitamins and minerals ___ us",
+   "answer": "protect",
+   "distractors": [
+    "hurt",
+    "break",
+    "burn"
+   ]
+  },
+  {
+   "stem": "Being free from harm is ___",
+   "answer": "safety",
+   "distractors": [
+    "danger",
+    "anger",
+    "noise"
+   ]
+  },
+  {
+   "stem": "We do not play with ___ or hot things",
+   "answer": "sharp",
+   "distractors": [
+    "soft",
+    "round",
+    "clean"
+   ]
+  },
+  {
+   "stem": "The first help we give to someone hurt is ___ aid",
+   "answer": "first",
+   "distractors": [
+    "last",
+    "no",
+    "slow"
+   ]
+  },
+  {
+   "stem": "For a small cut we wash it and ___ it",
+   "answer": "cover",
+   "distractors": [
+    "hide",
+    "burn",
+    "cut"
+   ]
+  },
+  {
+   "stem": "Taking it easy after work or play is ___",
+   "answer": "rest",
+   "distractors": [
+    "running",
+    "shouting",
+    "fighting"
+   ]
+  },
+  {
+   "stem": "A deep rest at night is ___",
+   "answer": "sleep",
+   "distractors": [
+    "noise",
+    "food",
+    "play"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two parts of the body used in movement ",
+   "points": [
+    "legs",
+    "arms",
+    "head",
+    "trunk"
+   ]
+  },
+  {
+   "stem": "Name two locomotor movements ",
+   "points": [
+    "walking",
+    "running",
+    "jumping",
+    "hopping",
+    "leaping"
+   ]
+  },
+  {
+   "stem": "Name two non-locomotor movements ",
+   "points": [
+    "bending",
+    "stretching",
+    "twisting",
+    "balancing"
+   ]
+  },
+  {
+   "stem": "Name two games you play ",
+   "points": [
+    "football",
+    "tag",
+    "local games"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep the body clean ",
+   "points": [
+    "bathing",
+    "brushing teeth",
+    "washing hands"
+   ]
+  },
+  {
+   "stem": "Name two food groups ",
+   "points": [
+    "carbohydrates",
+    "proteins",
+    "vitamins",
+    "minerals"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep safe ",
+   "points": [
+    "do not play with sharp things",
+    "cross the road with care"
+   ]
+  },
+  {
+   "stem": "Name two things we do in first aid ",
+   "points": [
+    "wash a cut",
+    "cover it",
+    "call a grown-up"
+   ]
+  },
+  {
+   "stem": "Name two ways to rest well ",
+   "points": [
+    "sleep at night",
+    "rest in the day"
+   ]
+  },
+  {
+   "stem": "Name two foods that give energy ",
+   "points": [
+    "rice",
+    "yam",
+    "beans"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a locomotor movement? Name two.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a non-locomotor movement? Name two.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is hygiene? Name two ways to keep clean.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a balanced diet? Name two food groups.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is first aid? Name one thing we do.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
