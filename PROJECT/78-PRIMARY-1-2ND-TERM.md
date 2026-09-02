@@ -27,7 +27,7 @@ Aloud · wk6 Songs, Rhymes and Oral Games · wk8 Introducing Adverbs · wk9 Phon
 | 7 | physical-and-health-education | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=7 D=8) · sheet_lint 0 · gates ok |
 | 8 | prevocational-studies | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · sheet_lint 0 · gates ok |
 | 9 | social-and-citizenship-studies | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · exempt from plates · gates ok |
-| 10 | yoruba | — (9 weeks: 1-6, 8, 9, 11) |
+| 10 | yoruba | ✅ 9 notes (1-6, 8, 9, 11) · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · sheet_lint 0 · exempt from plates · gates ok |
 | 11 | mathematics-english | — (2 streams on the master topics above) |
 
 The five plate exemptions (Yoruba, General Knowledge, Nigerian History, Social & Citizenship Studies, CRS)
