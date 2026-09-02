@@ -41,8 +41,8 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. A line that lies flat like the ground is ____ . A) horizontal B) vertical C) spiral D) round
-2. The edge of a circle is a ____ line. A) zigzag B) straight C) sharp D) curved
-3. A line that moves sharply up and down like teeth is ____ . A) thin B) zigzag C) flat D) short
+2. The edge of a circle is a ____ line. A) curved B) straight C) zigzag D) sharp
+3. A line that moves sharply up and down like teeth is ____ . A) zigzag B) flat C) thin D) short
 4. Fill in: A line that stands up like a pole is ____.
 5. Mention two kinds of lines.
 6. Write one thing you can draw with lines only.
@@ -89,8 +89,8 @@ Fill my page with three different lines and colour between them.
 **Worksheet**
 
 1. The shape of an egg is an ____ . A) oval B) square C) triangle D) star
-2. A square and a triangle joined together can make a ____ . A) wheel B) ball C) house D) road
-3. The biggest of these is a ____ . A) coin B) bead C) seed D) basket
+2. A square and a triangle joined together can make a ____ . A) house B) wheel C) ball D) road
+3. The biggest of these is a ____ . A) basket B) bead C) coin D) seed
 4. Fill in: A door is the shape of a ____.
 5. Mention two basic shapes.
 6. Write one thing that is a circle at home.
@@ -138,7 +138,7 @@ Cut or draw three shapes and paste them to make a picture.
 
 1. How a thing feels when we touch it is its ____ . A) texture B) colour C) smell D) sound
 2. Sandpaper feels ____ . A) rough B) smooth C) soft D) wet
-3. A feather feels ____ . A) soft B) rough C) hot D) hard
+3. A feather feels ____ . A) soft B) hard C) rough D) hot
 4. Fill in: We make a rubbing with paper and a ____.
 5. Mention two things that feel smooth.
 6. Write how a stone feels.
@@ -232,9 +232,9 @@ Draw my art box and put three tools inside it.
 
 **Worksheet**
 
-1. The way of life of a people is their ____ . A) market B) school C) road D) culture
-2. The three big ethnic groups are Hausa, Igbo and ____ . A) Yoruba B) French C) English D) Zulu
-3. Language, food, dressing and festivals are parts of ____ . A) culture B) weather C) money D) sport
+1. The way of life of a people is their ____ . A) culture B) school C) market D) road
+2. The three big ethnic groups are Hausa, Igbo and ____ . A) English B) Zulu C) Yoruba D) French
+3. Language, food, dressing and festivals are parts of ____ . A) sport B) money C) weather D) culture
 4. Fill in: A special celebration is a ____.
 5. Mention two foods eaten in Nigeria.
 6. Write one thing that is part of culture.
@@ -280,9 +280,9 @@ Draw the food my people eat at a festival.
 
 **Worksheet**
 
-1. A special celebration a people keep is a ____ . A) lesson B) market C) game D) ceremony
-2. The ceremony that welcomes a new baby is the ____ ceremony. A) school B) harvest C) farm D) naming
-3. A special nut used at some naming ceremonies is the ____ nut. A) kola B) ground C) palm D) coco
+1. A special celebration a people keep is a ____ . A) ceremony B) market C) lesson D) game
+2. The ceremony that welcomes a new baby is the ____ ceremony. A) naming B) harvest C) school D) farm
+3. A special nut used at some naming ceremonies is the ____ nut. A) palm B) coco C) kola D) ground
 4. Fill in: Family and friends gather to ____ the baby.
 5. Mention two things used at a naming ceremony.
 6. Write who is welcomed at a naming ceremony.
@@ -328,7 +328,7 @@ Draw a naming ceremony with the family gathered round the baby.
 
 **Worksheet**
 
-1. Making the body look fine in our own way is body ____ . A) beautification B) washing C) feeding D) resting
+1. Making the body look fine in our own way is body ____ . A) feeding B) resting C) beautification D) washing
 2. Small coloured things strung to wear are ____ . A) beads B) stones C) seeds D) coins
 3. A ring worn on the wrist is a ____ . A) bangle B) cap C) shoe D) belt
 4. Fill in: Designs put on the hands for a celebration are called ____.
@@ -376,7 +376,7 @@ Draw a girl with beads and bangles on, ready for a festival.
 
 **Worksheet**
 
-1. Arts we show with our body and voice are ____ arts. A) drawing B) painting C) performing D) carving
+1. Arts we show with our body and voice are ____ arts. A) performing B) drawing C) painting D) carving
 2. Stories the elders tell are ____ . A) folktales B) newspapers C) letters D) receipts
 3. A short song with rhythm is a ____ . A) rhyme B) drum C) chair D) road
 4. Fill in: Moving the body to music is ____.

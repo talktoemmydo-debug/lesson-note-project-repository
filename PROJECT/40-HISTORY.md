@@ -800,3 +800,5 @@ Eight notes (what is history, sources of history, my own history, early people, 
 groups, early kingdoms and empires, traditional occupations) plus a 30/10/5 paper; clean first pass — `sheet_check`
 all well formed, `make_exam --strict` PASS (A=8 B=7 C=7 D=8), worksheets shuffled (144 items), `polish_audit` 0 to fix,
 `gates.py` ALL CLEAR with `[half]` (6 of 11).
+
+* **Primary 1 First Term — PHE authored (7 of 11).** Eight weeks: running/50m dash, shuttle run, local games (suwe/ten-ten/boju-boju), running posture, toilet hygiene + handwashing, personal hygiene, body care, keeping our surroundings clean. polish_audit caught 2 real fixes: 'environmental' is a banned grown-up register word (3 hits) and wk4 repeated wk1's 'posture' bullet — both reworded. sheet_check clean, make_exam --strict PASS (A=8 B=7 C=8 D=7, exploitable-longest 0), worksheets shuffled (168 items), polish 0-to-fix, gates ALL CLEAR.

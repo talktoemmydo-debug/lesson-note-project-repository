@@ -40,7 +40,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. History is the story of things that happened ____ . A) long ago B) never C) tomorrow D) today only
+1. History is the story of things that happened ____ . A) long ago B) tomorrow C) today only D) never
 2. We learn old stories mostly from our ____ . A) toys B) elders C) shoes D) plates
 3. We study history to understand ____ . A) rain B) nothing C) games D) today
 4. Fill in: The time long ago is called the ____.
@@ -88,9 +88,9 @@ Draw myself sitting and listening to an old story.
 
 **Worksheet**
 
-1. Stories, songs and poems told by elders are ____ sources. A) written B) new C) oral D) physical
+1. Stories, songs and poems told by elders are ____ sources. A) physical B) oral C) new D) written
 2. Books, letters and newspapers are ____ sources. A) oral B) written C) physical D) food
-3. An old building that we can see is a ____ source. A) written B) physical C) song D) oral
+3. An old building that we can see is a ____ source. A) oral B) song C) physical D) written
 4. Fill in: A source is where we get ____.
 5. Mention two written sources.
 6. Write one physical source you have seen.
@@ -137,8 +137,8 @@ Draw one old thing at home that tells a story of the past.
 **Worksheet**
 
 1. My history begins with my ____ . A) birth B) exam C) school D) holiday
-2. A baby cannot ____ but I can. A) sleep B) cry C) drink D) walk and talk
-3. Where my parents come from is my family's ____ . A) market B) class C) home town D) road
+2. A baby cannot ____ but I can. A) drink B) walk and talk C) sleep D) cry
+3. Where my parents come from is my family's ____ . A) home town B) market C) class D) road
 4. Fill in: The day I was born is my ____ day.
 5. Mention two things that are part of my history.
 6. Write your name and your home town.
@@ -184,9 +184,9 @@ Draw a picture of myself on one of my birthdays.
 
 **Worksheet**
 
-1. Early people got food by hunting and ____ . A) posting B) gathering C) typing D) buying
-2. Early people made fire for cooking and ____ . A) sleeping B) school C) rain D) warmth
-3. Early people made simple tools from stone, wood and ____ . A) glass B) bone C) paper D) plastic
+1. Early people got food by hunting and ____ . A) buying B) typing C) gathering D) posting
+2. Early people made fire for cooking and ____ . A) warmth B) sleeping C) rain D) school
+3. Early people made simple tools from stone, wood and ____ . A) plastic B) paper C) bone D) glass
 4. Fill in: Some early people lived in ____.
 5. Mention two things early people did for food.
 6. Write one use of fire by early people.
@@ -232,9 +232,9 @@ Draw a cave and a fire like early people used.
 
 **Worksheet**
 
-1. Moving from one place to live in another is ____ . A) cooking B) sleeping C) singing D) migration
-2. People moved long ago to find food, water and ____ . A) trouble B) safety C) noise D) dust
-3. The old Nigerian people known for clay art are the ____ . A) Tiv B) Nok C) Edo D) Ijaw
+1. Moving from one place to live in another is ____ . A) migration B) sleeping C) cooking D) singing
+2. People moved long ago to find food, water and ____ . A) safety B) noise C) trouble D) dust
+3. The old Nigerian people known for clay art are the ____ . A) Edo B) Ijaw C) Tiv D) Nok
 4. Fill in: People who move and stay to make a home are said to ____.
 5. Mention two reasons people migrated.
 6. Write what the Nok people are known for.
@@ -280,7 +280,7 @@ Draw a family arriving at a new place to settle.
 
 **Worksheet**
 
-1. The three major ethnic groups are Hausa-Fulani, Igbo and ____ . A) Maasai B) Yoruba C) Zulu D) Ashanti
+1. The three major ethnic groups are Hausa-Fulani, Igbo and ____ . A) Zulu B) Ashanti C) Maasai D) Yoruba
 2. The Igbo mostly live in the ____ . A) East B) West C) North D) South only
 3. The Yoruba mostly live in the ____ . A) West B) East C) North D) middle
 4. Fill in: The Hausa-Fulani mostly live in the ____.
@@ -328,9 +328,9 @@ Draw the map idea of Nigeria with three friends from the North, East and West.
 
 **Worksheet**
 
-1. A place ruled by a king or a queen is a ____ . A) kingdom B) farm C) market D) school
+1. A place ruled by a king or a queen is a ____ . A) kingdom B) market C) school D) farm
 2. The kingdom famous for bronze work is ____ . A) Nok B) Sokoto C) Benin D) Oyo
-3. The Oyo Empire was in ____ land. A) Hausa B) Igbo C) Ijaw D) Yoruba
+3. The Oyo Empire was in ____ land. A) Ijaw B) Yoruba C) Hausa D) Igbo
 4. Fill in: A big kingdom over many places is an ____.
 5. Mention two old kingdoms or empires in Nigeria.
 6. Write who rules a kingdom.
@@ -376,9 +376,9 @@ Draw a crown and a staff like a king's.
 
 **Worksheet**
 
-1. The work a person does to live is an ____ . A) holiday B) exam C) occupation D) game
-2. The main work of early people was ____ . A) driving B) farming C) banking D) typing
-3. A fisher catches fish with nets and a ____ . A) plane B) canoe C) bicycle D) car
+1. The work a person does to live is an ____ . A) occupation B) holiday C) exam D) game
+2. The main work of early people was ____ . A) typing B) banking C) farming D) driving
+3. A fisher catches fish with nets and a ____ . A) canoe B) car C) bicycle D) plane
 4. Fill in: A potter makes pots from ____.
 5. Mention two tools a farmer uses.
 6. Write one occupation and its tool.

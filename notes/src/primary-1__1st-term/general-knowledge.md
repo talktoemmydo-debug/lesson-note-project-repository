@@ -41,8 +41,8 @@ Closing: no lesson is written for a week the school keeps for those.
 **Worksheet**
 
 1. I see with my ____ . A) eyes B) nose C) ears D) hands
-2. The part of the body I walk with is my ____ . A) hair B) teeth C) legs D) ears
-3. How many arms does a person have? A) two B) four C) one D) three
+2. The part of the body I walk with is my ____ . A) teeth B) hair C) ears D) legs
+3. How many arms does a person have? A) one B) four C) three D) two
 4. Fill in: I hear with my ____.
 5. Mention two parts of the head.
 6. Write your full name and your age.
@@ -88,8 +88,8 @@ Draw my face and put in my eyes, ears, nose and mouth.
 
 **Worksheet**
 
-1. The group of people I live with is my ____ . A) family B) market C) school D) class
-2. My father is also called my ____ . A) dad B) uncle C) chief D) king
+1. The group of people I live with is my ____ . A) school B) market C) class D) family
+2. My father is also called my ____ . A) chief B) uncle C) king D) dad
 3. My brother and my sister are my ____ . A) siblings B) friends C) teachers D) strangers
 4. Fill in: My mother is also called my ____.
 5. Mention two ways a family shows love.
@@ -137,8 +137,8 @@ Draw my father, my mother and me standing together.
 **Worksheet**
 
 1. The person who leads the school is the ____ . A) headteacher B) farmer C) driver D) trader
-2. We learn our lessons in the ____ . A) river B) classroom C) market D) road
-3. We put rubbish in the ____ . A) chair B) desk C) bin D) bag
+2. We learn our lessons in the ____ . A) market B) road C) river D) classroom
+3. We put rubbish in the ____ . A) desk B) chair C) bag D) bin
 4. Fill in: The ____ teaches us in the class.
 5. Mention two people who work in the school.
 6. Write one way you keep the school clean.
@@ -184,9 +184,9 @@ Draw my teacher at the board in my classroom.
 
 **Worksheet**
 
-1. Before I speak in class I ____ my hand. A) raise B) drop C) hide D) shake
+1. Before I speak in class I ____ my hand. A) raise B) hide C) shake D) drop
 2. We write our lessons in our ____ . A) shoes B) books C) caps D) bags
-3. In the classroom we ____ , we do not run. A) walk B) jump C) shout D) fight
+3. In the classroom we ____ , we do not run. A) walk B) fight C) jump D) shout
 4. Fill in: The teacher writes on the ____.
 5. Mention two rules of the classroom.
 6. Write one way you care for your books.
@@ -233,7 +233,7 @@ Draw my classroom and put a bin in the corner.
 **Worksheet**
 
 1. The people who live near my home are my ____ . A) neighbours B) drivers C) teachers D) nurses
-2. The road near my house is my ____ . A) street B) river C) bridge D) hill
+2. The road near my house is my ____ . A) hill B) river C) street D) bridge
 3. We keep the compound clean by ____ it. A) sweeping B) breaking C) flooding D) dirtying
 4. Fill in: My home is where I ____.
 5. Mention two ways we keep the neighbourhood clean.
@@ -282,7 +282,7 @@ Draw my compound and put in one thing that keeps it clean.
 
 1. The person who cares for the sick is the ____ . A) nurse B) driver C) tailor D) farmer
 2. The person who grows our food is the ____ . A) pilot B) trader C) clerk D) farmer
-3. The person who keeps us safe on the road is the ____ . A) baker B) chef C) police officer D) barber
+3. The person who keeps us safe on the road is the ____ . A) barber B) police officer C) chef D) baker
 4. Fill in: The ____ teaches us in the school.
 5. Mention two helpers and what they do.
 6. Write one helper you want to thank and why.
@@ -329,7 +329,7 @@ Draw one helper in my community and the tool they use.
 **Worksheet**
 
 1. My country is ____ . A) Kenya B) Egypt C) Nigeria D) Ghana
-2. The Nigerian flag is green, white and ____ . A) green B) red C) blue D) black
+2. The Nigerian flag is green, white and ____ . A) blue B) red C) black D) green
 3. The white on the flag stands for ____ . A) peace B) war C) sand D) rain
 4. Fill in: The capital city of Nigeria is ____.
 5. Mention the three bands of the flag in order.
@@ -376,7 +376,7 @@ Draw the Nigerian flag and colour the bands the right way.
 
 **Worksheet**
 
-1. A person who belongs to a country is a ____ . A) baby B) citizen C) visitor D) stranger
+1. A person who belongs to a country is a ____ . A) visitor B) stranger C) baby D) citizen
 2. A good citizen tells the ____ . A) stories B) lies C) secrets D) truth
 3. When someone gives me something I say ____ . A) thank you B) go away C) no D) mine
 4. Fill in: We keep our country ____ by not littering.
