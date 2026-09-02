@@ -17,8 +17,8 @@ at `exploitable-longest: 0` and `sheet_lint` 0, worksheet letters shuffled so th
 | 4 | cultural-and-creative-arts | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=7 D=8) · gates ok |
 | 5 | general-knowledge | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · exempt from plates |
 | 6 | nigerian-history | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · exempt from plates |
-| 7 | physical-and-health-education | — |
-| 8 | prevocational-studies | — |
+| 7 | physical-and-health-education | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=8 D=7) · worksheets shuffled · gates ok |
+| 8 | prevocational-studies | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · worksheets shuffled · gates ok |
 | 9 | social-and-citizenship-studies | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=8 D=7) · worksheets shuffled · exempt from plates · gates ok |
 | 10 | yoruba | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=8 C=7 D=7) · worksheets shuffled · exempt from plates · gates ok |
 | 11 | mathematics-english | ✅ 2 streams (MATHEMATICS / ENGLISH LANGUAGE) on the master topics · 16 notes · 2 papers ✅ (30/10/5 each) · worksheets shuffled · gates ok |
