@@ -779,3 +779,10 @@ leprosy, the paralyzed man and his friends, Jairus' daughter, Lazarus, cleansing
 Two sub-objectives first had a single answer (the gate needs two or more) and were re-cast as two-answer items;
 `sheets` then read all well formed, `make_exam --strict` PASS (A=8 B=7 C=8 D=7), worksheets shuffled (72 items) to a
 longest run of 2. `gates.py` ALL CLEAR with `[half]` (3 of 11 subjects).
+
+## 2 Sep 2026 — Primary 1 · CCA authored and green (4 of 11)
+
+Eight notes (lines, shapes and sizes, texture, art materials and tools, Nigerian culture, naming ceremonies, body
+beautification, performing arts) plus a 30/10/5 paper; first pass was clean — `sheet_check` all well formed,
+`make_exam --strict` PASS (A=7 B=8 C=7 D=8), worksheets shuffled (96 items) to longest run 2, `polish_audit` 0 to fix.
+`gates.py` ALL CLEAR with `[half]` (4 of 11).

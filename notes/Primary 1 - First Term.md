@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 3 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 4 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*3 subjects · 24 lessons · 3 term practice papers. Each part begins on a fresh page.*
+*4 subjects · 32 lessons · 4 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 2
   - [WEEK 1 — THE ROAD AND ROAD SAFETY](#week-1-the-road-and-road-safety) · 2
@@ -23,27 +23,37 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — NON-LIVING THINGS](#week-6-non-living-things) · 5
   - [WEEK 8 — AIR AND WIND](#week-8-air-and-wind) · 6
   - [WEEK 9 — SOIL](#week-9-soil) · 6
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 8
-  - [WEEK 1 — JESUS CALMS THE STORM](#week-1-jesus-calms-the-storm) · 8
-  - [WEEK 2 — JESUS WALKS ON WATER](#week-2-jesus-walks-on-water) · 8
-  - [WEEK 3 — JESUS FEEDS FIVE THOUSAND](#week-3-jesus-feeds-five-thousand) · 9
-  - [WEEK 4 — JESUS HEALS THE SICK](#week-4-jesus-heals-the-sick) · 10
-  - [WEEK 5 — THE PARALYZED MAN AND HIS FRIENDS](#week-5-the-paralyzed-man-and-his-friends) · 10
-  - [WEEK 6 — JESUS RAISES JAIRUS' DAUGHTER](#week-6-jesus-raises-jairus-daughter) · 11
-  - [WEEK 8 — JESUS RAISES LAZARUS](#week-8-jesus-raises-lazarus) · 11
-  - [WEEK 9 — JESUS CLEANSES THE TEMPLE](#week-9-jesus-cleanses-the-temple) · 12
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 14
-  - [WEEK 1 — DIGITAL DEVICES AROUND US](#week-1-digital-devices-around-us) · 14
-  - [WEEK 2 — THE FOUR BASIC PARTS](#week-2-the-four-basic-parts) · 14
-  - [WEEK 3 — CARING FOR DEVICES AND LAB RULES](#week-3-caring-for-devices-and-lab-rules) · 15
-  - [WEEK 4 — FROM THE ABACUS TO TODAY](#week-4-from-the-abacus-to-today) · 16
-  - [WEEK 5 — THE TWO GREAT INVENTORS](#week-5-the-two-great-inventors) · 16
-  - [WEEK 6 — HARDWARE AND SOFTWARE](#week-6-hardware-and-software) · 17
-  - [WEEK 8 — INPUT DEVICES: KEYBOARD AND MOUSE](#week-8-input-devices-keyboard-and-mouse) · 18
-  - [WEEK 9 — OUTPUT DEVICES AND THE MICROPHONE](#week-9-output-devices-and-the-microphone) · 18
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 20
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 22
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 24
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
+  - [WEEK 1 — LINES IN ART](#week-1-lines-in-art) · 8
+  - [WEEK 2 — SHAPES AND SIZES](#week-2-shapes-and-sizes) · 8
+  - [WEEK 3 — TEXTURE](#week-3-texture) · 9
+  - [WEEK 4 — ART MATERIALS AND TOOLS](#week-4-art-materials-and-tools) · 10
+  - [WEEK 5 — OUR NIGERIAN CULTURE](#week-5-our-nigerian-culture) · 10
+  - [WEEK 6 — NAMING CEREMONIES](#week-6-naming-ceremonies) · 11
+  - [WEEK 8 — BODY BEAUTIFICATION](#week-8-body-beautification) · 11
+  - [WEEK 9 — PERFORMING ARTS](#week-9-performing-arts) · 12
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
+  - [WEEK 1 — JESUS CALMS THE STORM](#week-1-jesus-calms-the-storm) · 14
+  - [WEEK 2 — JESUS WALKS ON WATER](#week-2-jesus-walks-on-water) · 14
+  - [WEEK 3 — JESUS FEEDS FIVE THOUSAND](#week-3-jesus-feeds-five-thousand) · 15
+  - [WEEK 4 — JESUS HEALS THE SICK](#week-4-jesus-heals-the-sick) · 16
+  - [WEEK 5 — THE PARALYZED MAN AND HIS FRIENDS](#week-5-the-paralyzed-man-and-his-friends) · 16
+  - [WEEK 6 — JESUS RAISES JAIRUS' DAUGHTER](#week-6-jesus-raises-jairus-daughter) · 17
+  - [WEEK 8 — JESUS RAISES LAZARUS](#week-8-jesus-raises-lazarus) · 17
+  - [WEEK 9 — JESUS CLEANSES THE TEMPLE](#week-9-jesus-cleanses-the-temple) · 18
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
+  - [WEEK 1 — DIGITAL DEVICES AROUND US](#week-1-digital-devices-around-us) · 20
+  - [WEEK 2 — THE FOUR BASIC PARTS](#week-2-the-four-basic-parts) · 20
+  - [WEEK 3 — CARING FOR DEVICES AND LAB RULES](#week-3-caring-for-devices-and-lab-rules) · 21
+  - [WEEK 4 — FROM THE ABACUS TO TODAY](#week-4-from-the-abacus-to-today) · 22
+  - [WEEK 5 — THE TWO GREAT INVENTORS](#week-5-the-two-great-inventors) · 22
+  - [WEEK 6 — HARDWARE AND SOFTWARE](#week-6-hardware-and-software) · 23
+  - [WEEK 8 — INPUT DEVICES: KEYBOARD AND MOUSE](#week-8-input-devices-keyboard-and-mouse) · 24
+  - [WEEK 9 — OUTPUT DEVICES AND THE MICROPHONE](#week-9-output-devices-and-the-microphone) · 24
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 26
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-1-1st-term)** · 28
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 30
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 32
 
 
 
@@ -91,9 +101,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. A road that is smooth and black is called a ____ road. A) tarred B) muddy C) water D) bush
-2. Which of these is a small road for walking? A) bridge B) flyover C) pathway D) highway
-3. The traffic light that means stop is A) green B) red C) yellow D) blue
+1. A road that is smooth and black is called a ____ road. A) tarred B) muddy C) bush D) water
+2. Which of these is a small road for walking? A) pathway B) highway C) bridge D) flyover
+3. The traffic light that means stop is A) red B) green C) yellow D) blue
 4. Fill in: We cross the road at the ____ crossing.
 5. Mention two things that move on the road.
 6. Write one sentence on how you cross the road safely.
@@ -139,9 +149,9 @@ Draw the road near my house and put one car and one person walking on it.
 
 **Worksheet**
 
-1. Everything around us at home and at school is the A) environment B) calendar C) notebook D) market
-2. Which of these is a primary colour? A) purple B) green C) orange D) blue
-3. Red and yellow mixed together give A) grey B) green C) black D) orange
+1. Everything around us at home and at school is the A) calendar B) notebook C) environment D) market
+2. Which of these is a primary colour? A) blue B) green C) orange D) purple
+3. Red and yellow mixed together give A) orange B) green C) black D) grey
 4. Fill in: The grass looks ____.
 5. Mention two things you see in the sky.
 6. Write the three primary colours.
@@ -187,9 +197,9 @@ Look around my room at home and draw two things I see, then colour them.
 
 **Worksheet**
 
-1. A shape that is round with no corners is a A) rectangle B) circle C) square D) triangle
-2. How many sides does a triangle have? A) three B) six C) five D) four
-3. A shape with four equal sides is a A) square B) circle C) oval D) star
+1. A shape that is round with no corners is a A) circle B) square C) triangle D) rectangle
+2. How many sides does a triangle have? A) three B) four C) five D) six
+3. A shape with four equal sides is a A) square B) oval C) star D) circle
 4. Fill in: A wheel is the shape of a ____.
 5. Mention two things at home that are a rectangle.
 6. Write the number of corners on a triangle.
@@ -235,9 +245,9 @@ Find three shapes in my house and draw each one in my notebook.
 
 **Worksheet**
 
-1. The shape of an egg is an A) oval B) square C) triangle D) rectangle
-2. A tin of milk is the solid shape called a A) sphere B) cube C) cylinder D) cone
-3. Which shape has five points? A) heart B) circle C) oval D) star
+1. The shape of an egg is an A) triangle B) square C) rectangle D) oval
+2. A tin of milk is the solid shape called a A) cylinder B) cube C) sphere D) cone
+3. Which shape has five points? A) star B) heart C) circle D) oval
 4. Fill in: A box is the solid shape called a ____.
 5. Mention two things that are a sphere.
 6. Write one thing you can make using a triangle and a square.
@@ -283,9 +293,9 @@ Use shapes to draw a house: a square for the walls and a triangle for the roof.
 
 **Worksheet**
 
-1. Which of these is a living thing? A) goat B) stone C) chair D) book
-2. Living things do all of these except A) melt B) grow C) eat D) breathe
-3. A plant needs water, air and ____ to grow well. A) sunlight B) shoes C) money D) paper
+1. Which of these is a living thing? A) stone B) book C) chair D) goat
+2. Living things do all of these except A) breathe B) melt C) eat D) grow
+3. A plant needs water, air and ____ to grow well. A) paper B) sunlight C) money D) shoes
 4. Fill in: A dog and a cat are ____ things.
 5. Mention two living things you see on a farm.
 6. Write one way you care for a plant.
@@ -331,9 +341,9 @@ Water one plant at home and watch it for a week, then draw it.
 
 **Worksheet**
 
-1. Which of these is non-living? A) stone B) dog C) hen D) tree
-2. A chair is a ____ non-living thing. A) growing B) living C) man-made D) natural
-3. Which one is a natural non-living thing? A) car B) toy C) book D) water
+1. Which of these is non-living? A) dog B) hen C) stone D) tree
+2. A chair is a ____ non-living thing. A) man-made B) natural C) living D) growing
+3. Which one is a natural non-living thing? A) water B) car C) toy D) book
 4. Fill in: A stone does not eat, grow or ____.
 5. Mention two man-made non-living things.
 6. Write one way water helps living things.
@@ -379,9 +389,9 @@ Look around my home and draw two non-living things I use every day.
 
 **Worksheet**
 
-1. Moving air is called A) wind B) rain C) sun D) cloud
-2. We cannot see air but we can A) feel it B) eat it C) wear it D) buy it
-3. Which of these uses air? A) writing a letter B) flying a kite C) sitting on a chair D) reading a book
+1. Moving air is called A) sun B) wind C) rain D) cloud
+2. We cannot see air but we can A) wear it B) eat it C) buy it D) feel it
+3. Which of these uses air? A) flying a kite B) reading a book C) writing a letter D) sitting on a chair
 4. Fill in: We use air for ____.
 5. Mention two ways you can feel air.
 6. Write one thing that dirty air can carry.
@@ -428,9 +438,9 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 
 **Worksheet**
 
-1. The top part of the ground where plants grow is A) air B) cloud C) water D) soil
-2. The soil that is best for plants is A) hard B) loamy C) rocky D) dry
-3. A pot for cooking can be made from A) clay B) air C) water D) glass
+1. The top part of the ground where plants grow is A) soil B) water C) air D) cloud
+2. The soil that is best for plants is A) loamy B) rocky C) dry D) hard
+3. A pot for cooking can be made from A) water B) air C) glass D) clay
 4. Fill in: Soil can be black, brown, red or ____.
 5. Mention two places we find soil.
 6. Write one way we care for the soil.
@@ -439,6 +449,398 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 **My own work**
 
 Touch the soil in a pot or garden at home and draw what the plant in it looks like.
+
+
+---
+
+# Cultural and Creative Arts (CCA)
+
+Weeks 1 to 6, 8 and 9. Week 7 is Mid-Term Break, and weeks 10, 11 and 12 are Revision, Examination and
+Closing: no lesson is written for a week the school keeps for those.
+*Depth: NERDC 2025 · Cultural and Creative Arts · Primary 1 · First Term.*
+
+
+### WEEK 1 — LINES IN ART
+
+*Depth: NERDC Primary 1 · CCA · First Term W1 (lines).*
+
+**You will learn to**
+
+• say what a line is in art
+• tell straight lines from curved and zigzag lines
+• draw straight and curved lines
+• make a picture using lines only
+
+**Things to know**
+
+• A **line** is a mark that joins two points; it can be straight or curved.
+• A **straight line** can lie flat (horizontal), stand up (vertical) or slant (diagonal).
+• A **curved line** bends like the edge of a circle or a spiral.
+• A **zigzag line** moves sharply up and down like teeth; a **wavy line** moves like water.
+• Lines can be **thick** or **thin**, and we can join them to make pictures.
+
+**Let us talk**
+
+1. Where do you see a straight line in the classroom?
+2. What does a wavy line look like?
+3. Name one thing that has a curved line.
+
+**Words for my notebook**
+
+• line — a mark joining two points
+• horizontal — lying flat like the ground
+• vertical — standing up like a pole
+• zigzag — sharp up-and-down line
+
+**Worksheet**
+
+1. A line that lies flat like the ground is ____ . A) horizontal B) vertical C) round D) spiral
+2. The edge of a circle is a ____ line. A) zigzag B) straight C) sharp D) curved
+3. A line that moves sharply up and down like teeth is ____ . A) thin B) zigzag C) flat D) short
+4. Fill in: A line that stands up like a pole is ____.
+5. Mention two kinds of lines.
+6. Write one thing you can draw with lines only.
+7. Draw one straight line, one wavy line and one zigzag line.
+
+**My own work**
+
+Fill my page with three different lines and colour between them.
+
+---
+
+### WEEK 2 — SHAPES AND SIZES
+
+*Depth: NERDC Primary 1 · CCA · First Term W2 (shapes and sizes).*
+
+**You will learn to**
+
+• name the basic shapes
+• find shapes in my environment
+• compare things that are big and small
+• make a picture using shapes
+
+**Things to know**
+
+• The basic shapes are the **circle**, **square**, **triangle**, **rectangle** and **oval**.
+• A wheel is a circle, a door is a rectangle and an egg is an oval.
+• We can sort things by **size**: bigger, smaller, biggest and smallest.
+• Joining shapes makes pictures: a square and a triangle make a house.
+• We can cut shapes from paper and paste them to make a design.
+
+**Let us talk**
+
+1. Name two shapes you see in the classroom.
+2. Which is bigger, a ball or a marble?
+3. What two shapes make a house?
+
+**Words for my notebook**
+
+• shape — the form of a thing
+• size — how big or small
+• biggest — the most big
+• smallest — the most small
+
+**Worksheet**
+
+1. The shape of an egg is an ____ . A) oval B) triangle C) square D) star
+2. A square and a triangle joined together can make a ____ . A) wheel B) ball C) house D) road
+3. The biggest of these is a ____ . A) coin B) bead C) seed D) basket
+4. Fill in: A door is the shape of a ____.
+5. Mention two basic shapes.
+6. Write one thing that is a circle at home.
+7. Draw a big circle and a small circle.
+
+**My own work**
+
+Cut or draw three shapes and paste them to make a picture.
+
+---
+
+### WEEK 3 — TEXTURE
+
+*Depth: NERDC Primary 1 · CCA · First Term W3 (texture).*
+
+**You will learn to**
+
+• say what texture means
+• tell rough things from smooth and soft things
+• make texture with dots and scribbles
+• do a rubbing to show texture
+
+**Things to know**
+
+• **Texture** is how a thing feels when we touch it.
+• A stone feels **hard**, a feather feels **soft**, and sandpaper feels **rough**.
+• A glass or a smooth leaf feels **smooth**.
+• We can show texture in art with **dots**, **lines** and **scribbles**.
+• A **rubbing** is made by putting paper over a rough surface and rubbing it with a crayon.
+
+**Let us talk**
+
+1. How does a feather feel?
+2. Name one rough thing at home.
+3. What do we use to make a rubbing?
+
+**Words for my notebook**
+
+• texture — how a thing feels
+• rough — not smooth, like sandpaper
+• smooth — even, like glass
+• soft — not hard, like cotton
+
+**Worksheet**
+
+1. How a thing feels when we touch it is its ____ . A) colour B) texture C) smell D) sound
+2. Sandpaper feels ____ . A) smooth B) rough C) soft D) wet
+3. A feather feels ____ . A) soft B) rough C) hot D) hard
+4. Fill in: We make a rubbing with paper and a ____.
+5. Mention two things that feel smooth.
+6. Write how a stone feels.
+7. Do a rubbing of a leaf or a coin in my notebook.
+
+**My own work**
+
+Touch three things at home and draw one face for each: happy for soft, surprised for rough.
+
+---
+
+### WEEK 4 — ART MATERIALS AND TOOLS
+
+*Depth: NERDC Primary 1 · CCA · First Term W4 (materials and tools).*
+
+**You will learn to**
+
+• name the materials we use in art
+• tell drawing tools from colouring and cutting tools
+• use scissors and glue safely
+• keep my art tools tidy
+
+**Things to know**
+
+• We draw with a **pencil**, a **pen** or **charcoal**.
+• We colour with **crayons**, **coloured pencils**, **paints** and **markers**.
+• We cut with **scissors** and paste with **glue** or **tape**.
+• We model with **clay** or **plasticine**.
+• We keep tools tidy and we pass scissors with the handles first.
+
+**Let us talk**
+
+1. Name two things we colour with.
+2. Which tool do we use to cut paper?
+3. How do we pass scissors safely?
+
+**Words for my notebook**
+
+• crayon — a stick for colouring
+• charcoal — a black drawing stick
+• glue — sticks paper together
+• clay — soft earth for modelling
+
+**Worksheet**
+
+1. We cut paper with ____ . A) scissors B) tape C) paint D) glue
+2. We stick paper together with ____ . A) a pen B) scissors C) a ruler D) glue
+3. A soft earth we use for modelling is ____ . A) water B) sand C) clay D) stone
+4. Fill in: We colour with ____.
+5. Mention two drawing tools.
+6. Write one way we keep art tools safe.
+7. Draw a crayon, a pair of scissors and a glue stick.
+
+**My own work**
+
+Draw my art box and put three tools inside it.
+
+---
+
+### WEEK 5 — OUR NIGERIAN CULTURE
+
+*Depth: NERDC Primary 1 · CCA · First Term W5 (introduction to culture).*
+
+**You will learn to**
+
+• say what culture means
+• name the big ethnic groups in Nigeria
+• name the things that make up culture
+• be proud of my culture
+
+**Things to know**
+
+• **Culture** is the way of life of a people: what they eat, wear, speak and celebrate.
+• Nigeria has many **ethnic groups**; the big three are **Hausa**, **Igbo** and **Yoruba**.
+• The parts of culture are **language**, **food**, **dressing**, **festivals** and **art**.
+• Yam and palm oil, jollof rice and tuwo are foods our people eat.
+• We respect and enjoy the cultures of all Nigerians.
+
+**Let us talk**
+
+1. Name one food your people eat.
+2. What are the three big ethnic groups?
+3. Name one festival you know.
+
+**Words for my notebook**
+
+• culture — the way of life of a people
+• ethnic group — a people with one language and way
+• festival — a special celebration
+• dressing — the clothes a people wear
+
+**Worksheet**
+
+1. The way of life of a people is their ____ . A) market B) school C) road D) culture
+2. The three big ethnic groups are Hausa, Igbo and ____ . A) French B) English C) Zulu D) Yoruba
+3. Language, food, dressing and festivals are parts of ____ . A) money B) culture C) sport D) weather
+4. Fill in: A special celebration is a ____.
+5. Mention two foods eaten in Nigeria.
+6. Write one thing that is part of culture.
+7. Draw a person in a traditional dressing.
+
+**My own work**
+
+Draw the food my people eat at a festival.
+
+---
+
+### WEEK 6 — NAMING CEREMONIES
+
+*Depth: NERDC Primary 1 · CCA · First Term W6 (ceremonies: naming).*
+
+**You will learn to**
+
+• say what a ceremony is
+• tell what happens at a naming ceremony
+• name things used at a naming ceremony
+• know that ceremonies welcome a baby
+
+**Things to know**
+
+• A **ceremony** is a special celebration that a people keep.
+• A **naming ceremony** welcomes a new baby into the family and gives the baby a name.
+• Different ethnic groups keep naming ceremonies in their own way.
+• Things used can include **kola nut**, **palm wine** and special foods.
+• Family and friends gather to pray for the baby and to celebrate.
+
+**Let us talk**
+
+1. What is a naming ceremony for?
+2. Name one thing used at a naming ceremony.
+3. Who gathers at a naming ceremony?
+
+**Words for my notebook**
+
+• ceremony — a special celebration
+• naming — giving the baby a name
+• kola nut — a special nut used in rites
+• welcome — to receive with joy
+
+**Worksheet**
+
+1. A special celebration a people keep is a ____ . A) lesson B) market C) game D) ceremony
+2. The ceremony that welcomes a new baby is the ____ ceremony. A) school B) harvest C) farm D) naming
+3. A special nut used at some naming ceremonies is the ____ nut. A) coco B) kola C) ground D) palm
+4. Fill in: Family and friends gather to ____ the baby.
+5. Mention two things used at a naming ceremony.
+6. Write who is welcomed at a naming ceremony.
+7. Draw a baby being welcomed by the family.
+
+**My own work**
+
+Draw a naming ceremony with the family gathered round the baby.
+
+---
+
+### WEEK 8 — BODY BEAUTIFICATION
+
+*Depth: NERDC Primary 1 · CCA · First Term W8 (body beautification).*
+
+**You will learn to**
+
+• say what body beautification means
+• name ways people beautify the body in our cultures
+• name things people wear as decoration
+• know that our decorations are part of culture
+
+**Things to know**
+
+• **Body beautification** is making the body look fine in our own way.
+• People make **hairstyles** like threading and cornrows.
+• People wear **beads**, **bangles** and other **jewellery** as decoration.
+• Some put **henna (lalli)** designs on the hands and feet for celebrations.
+• These decorations are part of our culture and we wear them with pride.
+
+**Let us talk**
+
+1. Name one hairstyle you know.
+2. What do people wear on the wrist as decoration?
+3. When do people put on henna designs?
+
+**Words for my notebook**
+
+• beautify — to make fine
+• beads — small coloured things strung to wear
+• bangle — a ring worn on the wrist
+• henna — a design put on the skin
+
+**Worksheet**
+
+1. Making the body look fine in our own way is body ____ . A) resting B) beautification C) washing D) feeding
+2. Small coloured things strung to wear are ____ . A) coins B) seeds C) stones D) beads
+3. A ring worn on the wrist is a ____ . A) belt B) cap C) shoe D) bangle
+4. Fill in: Designs put on the hands for a celebration are called ____.
+5. Mention two hairstyles.
+6. Write one thing people wear as decoration.
+7. Draw a hand with a henna design on it.
+
+**My own work**
+
+Draw a girl with beads and bangles on, ready for a festival.
+
+---
+
+### WEEK 9 — PERFORMING ARTS
+
+*Depth: NERDC Primary 1 · CCA · First Term W9 (performing arts).*
+
+**You will learn to**
+
+• say what performing arts are
+• name the kinds of performing arts
+• sing a rhyme or act a small part
+• know that performing arts teach and entertain
+
+**Things to know**
+
+• **Performing arts** are arts we show with our body and voice: acting, dancing, singing and storytelling.
+• We learn **rhymes**, **folktales** and **songs**.
+• Performing arts **entertain** us and also **teach** us.
+• They keep our culture alive from parents to children.
+• We express ourselves freely when we sing, dance and act.
+
+**Let us talk**
+
+1. Name one rhyme you can sing.
+2. What do we call stories the elders tell?
+3. How do performing arts help us?
+
+**Words for my notebook**
+
+• performing — showing with body and voice
+• rhyme — a short song with rhythm
+• folktale — a story the elders tell
+• dance — moving the body to music
+
+**Worksheet**
+
+1. Arts we show with our body and voice are ____ arts. A) drawing B) painting C) performing D) carving
+2. Stories the elders tell are ____ . A) letters B) newspapers C) folktales D) receipts
+3. A short song with rhythm is a ____ . A) road B) chair C) drum D) rhyme
+4. Fill in: Moving the body to music is ____.
+5. Mention two performing arts.
+6. Write one way performing arts help us.
+7. Draw children singing and dancing.
+
+**My own work**
+
+Sing a rhyme at home and draw myself dancing to it.
 
 
 ---
@@ -484,9 +886,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. Jesus and his disciples were in a ____ when the storm came. A) boat B) car C) tree D) house
-2. When the storm came, Jesus was ____ in the boat. A) eating B) walking C) sleeping D) singing
-3. Jesus said to the wind and the sea, "Peace, be ____." A) fast B) strong C) loud D) still
+1. Jesus and his disciples were in a ____ when the storm came. A) boat B) car C) house D) tree
+2. When the storm came, Jesus was ____ in the boat. A) singing B) sleeping C) eating D) walking
+3. Jesus said to the wind and the sea, "Peace, be ____." A) loud B) still C) strong D) fast
 4. Fill in: The disciples were ____ when the storm came.
 5. Mention two things Jesus calmed.
 6. Write what the disciples did when they were afraid.
@@ -532,9 +934,9 @@ Draw the boat and the big waves, then draw the sea when it became calm.
 
 **Worksheet**
 
-1. The disciples were in the boat at ____ . A) dawn B) morning C) noon D) night
-2. The disciple who walked on the water after Jesus was A) Peter B) Judas C) James D) John
-3. Peter began to sink when he felt the strong ____ . A) sand B) wind C) rain D) sun
+1. The disciples were in the boat at ____ . A) night B) noon C) morning D) dawn
+2. The disciple who walked on the water after Jesus was A) Peter B) John C) James D) Judas
+3. Peter began to sink when he felt the strong ____ . A) sun B) sand C) wind D) rain
 4. Fill in: Jesus said, "It is I. Do not be ____."
 5. Mention two people who walked on the water.
 6. Write why the disciples were frightened at first.
@@ -580,9 +982,9 @@ Draw the boat at night and Jesus walking on the water.
 
 **Worksheet**
 
-1. The boy had five loaves and two ____ . A) oranges B) yams C) fish D) eggs
-2. Before sharing, Jesus ____ to God. A) ran away B) slept C) sang D) gave thanks
-3. The leftover food filled ____ baskets. A) two B) three C) twelve D) five
+1. The boy had five loaves and two ____ . A) eggs B) fish C) oranges D) yams
+2. Before sharing, Jesus ____ to God. A) slept B) sang C) gave thanks D) ran away
+3. The leftover food filled ____ baskets. A) three B) five C) two D) twelve
 4. Fill in: The people followed Jesus and became ____.
 5. Mention the two foods the boy had.
 6. Write what Jesus did with the food.
@@ -628,9 +1030,9 @@ Draw the five loaves and the two fish the boy shared.
 
 **Worksheet**
 
-1. The man who came to Jesus had ____ . A) a drum B) a chair C) leprosy D) a hat
-2. Jesus ____ the man and said, "Be clean." A) pushed B) touched C) left D) mocked
-3. After Jesus spoke, the man was ____ . A) asleep B) healed C) angry D) sicker
+1. The man who came to Jesus had ____ . A) leprosy B) a hat C) a drum D) a chair
+2. Jesus ____ the man and said, "Be clean." A) touched B) pushed C) mocked D) left
+3. After Jesus spoke, the man was ____ . A) angry B) asleep C) sicker D) healed
 4. Fill in: The man said, "Lord, if you are willing, you can make me ____."
 5. Mention two things Jesus has power over, from our lessons.
 6. Write what the man said to Jesus.
@@ -676,9 +1078,9 @@ Draw the man kneeling before Jesus and then standing up well.
 
 **Worksheet**
 
-1. The man who could not walk was ____ . A) singing B) dancing C) paralyzed D) running
-2. The friends lowered the man through the ____ . A) window B) roof C) floor D) door
-3. Jesus told the man to get up, take his mat and ____ . A) swim B) sleep C) walk D) hide
+1. The man who could not walk was ____ . A) running B) paralyzed C) singing D) dancing
+2. The friends lowered the man through the ____ . A) floor B) window C) door D) roof
+3. Jesus told the man to get up, take his mat and ____ . A) walk B) sleep C) swim D) hide
 4. Fill in: The house was too ____, so they opened the roof.
 5. Mention two things the friends did for the man.
 6. Write what Jesus said to the man.
@@ -724,9 +1126,9 @@ Draw the man picking up his mat and walking home.
 
 **Worksheet**
 
-1. Jairus' daughter was very ____ . A) tall B) sick C) happy D) fast
-2. Jesus told Jairus, "Do not be afraid; only ____." A) shout B) believe C) sleep D) run
-3. When Jesus took the girl's hand, she ____ . A) rose B) cried C) fell D) left
+1. Jairus' daughter was very ____ . A) happy B) tall C) sick D) fast
+2. Jesus told Jairus, "Do not be afraid; only ____." A) sleep B) shout C) run D) believe
+3. When Jesus took the girl's hand, she ____ . A) rose B) fell C) cried D) left
 4. Fill in: Jairus was a ____ leader.
 5. Mention two things Jesus told Jairus.
 6. Write what Jesus said to the little girl.
@@ -772,9 +1174,9 @@ Draw Jairus and his daughter standing together, glad and well.
 
 **Worksheet**
 
-1. Lazarus was a ____ of Jesus. A) stranger B) soldier C) king D) friend
-2. Lazarus was in the tomb for ____ days. A) four B) seven C) two D) ten
-3. Jesus called, "Lazarus, come ____!" A) in B) down C) here D) out
+1. Lazarus was a ____ of Jesus. A) soldier B) king C) friend D) stranger
+2. Lazarus was in the tomb for ____ days. A) four B) two C) seven D) ten
+3. Jesus called, "Lazarus, come ____!" A) down B) here C) out D) in
 4. Fill in: Jesus said, "I am the resurrection and the ____."
 5. Mention two sisters of Lazarus.
 6. Write what Jesus said about himself.
@@ -820,9 +1222,9 @@ Draw Lazarus walking out of the tomb, alive.
 
 **Worksheet**
 
-1. In the temple people were buying and ____ . A) selling B) dancing C) sleeping D) fishing
-2. Jesus said, "My house shall be called a house of ____." A) noise B) games C) prayer D) market
-3. Jesus drove out the people who were ____ . A) cheating B) praying C) resting D) singing
+1. In the temple people were buying and ____ . A) selling B) sleeping C) dancing D) fishing
+2. Jesus said, "My house shall be called a house of ____." A) market B) prayer C) noise D) games
+3. Jesus drove out the people who were ____ . A) cheating B) praying C) singing D) resting
 4. Fill in: The temple is God's ____.
 5. Mention two things people should do in the temple.
 6. Write what Jesus said about his house.
@@ -876,9 +1278,9 @@ Closing: no lesson is written for a week the school keeps for those.
 
 **Worksheet**
 
-1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) plastic D) paper
-2. Which of these is NOT a digital device? A) broom B) smartphone C) tablet D) camera
-3. The computer that stays on a table is a A) camera B) watch C) tablet D) desktop
+1. A machine that works with electricity and shows things on a screen is a ____ device. A) digital B) wooden C) paper D) plastic
+2. Which of these is NOT a digital device? A) broom B) tablet C) camera D) smartphone
+3. The computer that stays on a table is a A) watch B) desktop C) camera D) tablet
 4. Fill in: A ____ opens like a book.
 5. Mention two digital devices you can carry about.
 6. Write one thing a camera does.
@@ -924,9 +1326,9 @@ Draw one digital device I have seen and colour its screen grey.
 
 **Worksheet**
 
-1. The part that shows pictures and letters is the A) keyboard B) monitor C) CPU D) mouse
-2. We move the arrow on the screen with the A) monitor B) mouse C) speaker D) printer
-3. The brain of the computer is the A) cable B) CPU C) keyboard D) mouse
+1. The part that shows pictures and letters is the A) mouse B) CPU C) keyboard D) monitor
+2. We move the arrow on the screen with the A) printer B) speaker C) monitor D) mouse
+3. The brain of the computer is the A) CPU B) mouse C) keyboard D) cable
 4. Fill in: We press keys on the ____.
 5. Mention two parts we touch to give the computer information.
 6. Write what the monitor does.
@@ -972,9 +1374,9 @@ Draw the four basic parts of a computer in my notebook.
 
 **Worksheet**
 
-1. We clean a screen with a A) soft, dry cloth B) wet mop C) rough stone D) sandy rag
-2. A tablet should be carried A) with two hands B) by its wire C) open in one finger D) under a foot
-3. Water on a device A) charges it B) cleans it C) spoils it D) makes it faster
+1. We clean a screen with a A) soft, dry cloth B) rough stone C) wet mop D) sandy rag
+2. A tablet should be carried A) with two hands B) by its wire C) under a foot D) open in one finger
+3. Water on a device A) cleans it B) spoils it C) makes it faster D) charges it
 4. Fill in: In the lab we do not eat or ____.
 5. Mention two ways we care for a device.
 6. Write one rule of the computer lab.
@@ -1019,9 +1421,9 @@ Draw myself cleaning a screen with a soft, dry cloth.
 
 **Worksheet**
 
-1. The first tool people used to count is the A) fan B) radio C) telephone D) abacus
-2. Over time computers became smaller, cheaper and A) faster B) heavier C) slower D) louder
-3. The beads that slide on wires are on an A) umbrella B) abacus C) egg D) orange
+1. The first tool people used to count is the A) radio B) abacus C) fan D) telephone
+2. Over time computers became smaller, cheaper and A) faster B) heavier C) louder D) slower
+3. The beads that slide on wires are on an A) orange B) egg C) umbrella D) abacus
 4. Fill in: A machine that can learn is called artificial ____.
 5. Mention two things computers became over time.
 6. Write what the abacus was used for.
@@ -1066,9 +1468,9 @@ Draw an abacus and a modern phone side by side.
 
 **Worksheet**
 
-1. The father of the computer is A) Thomas Edison B) Isaac Newton C) Ada Lovelace D) Charles Babbage
-2. The first programmer in the world was A) Flora Shaw B) Queen Amina C) Mary Kingsley D) Ada Lovelace
-3. Babbage's machine plan was called the A) Printing Press B) Flying Loom C) Analytical Engine D) Steam Boat
+1. The father of the computer is A) Isaac Newton B) Charles Babbage C) Thomas Edison D) Ada Lovelace
+2. The first programmer in the world was A) Mary Kingsley B) Flora Shaw C) Ada Lovelace D) Queen Amina
+3. Babbage's machine plan was called the A) Flying Loom B) Analytical Engine C) Steam Boat D) Printing Press
 4. Fill in: Ada wrote the first ____ for the machine.
 5. Mention the two great inventors of the computer.
 6. Write one sentence on why an idea is valuable.
@@ -1113,9 +1515,9 @@ Draw Charles Babbage's thinking machine with wheels and gears.
 
 **Worksheet**
 
-1. The parts of a computer we can touch are the A) songs B) hardware C) ideas D) software
-2. A drawing app is A) a cable B) a chair C) software D) hardware
-3. Which of these is hardware? A) song B) story C) mouse D) game
+1. The parts of a computer we can touch are the A) hardware B) software C) ideas D) songs
+2. A drawing app is A) a chair B) software C) hardware D) a cable
+3. Which of these is hardware? A) game B) song C) story D) mouse
 4. Fill in: We cannot ____ software.
 5. Mention two hardware parts.
 6. Write one example of software.
@@ -1161,9 +1563,9 @@ Draw two things I can touch (hardware) and write the name of one app.
 
 **Worksheet**
 
-1. A device that puts information into the computer is an ____ device. A) input B) output C) print D) sound
-2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) FRIDAY D) MONDAY
-3. Moving an icon and letting go is A) print B) scan C) save D) drag and drop
+1. A device that puts information into the computer is an ____ device. A) print B) sound C) input D) output
+2. The order of letters on a keyboard is called A) QWERTY B) ABCDE C) MONDAY D) FRIDAY
+3. Moving an icon and letting go is A) drag and drop B) scan C) print D) save
 4. Fill in: The key that moves us to the next line is ____.
 5. Mention two input devices.
 6. Write one way we care for the keyboard.
@@ -1209,9 +1611,9 @@ Draw a keyboard and circle the Enter key.
 
 **Worksheet**
 
-1. The device that puts our work on paper is the A) microphone B) printer C) keyboard D) mouse
-2. We hear sound from the computer through A) mouse B) cable C) speakers D) printer
-3. A microphone takes our ____ into the computer. A) voice B) hair C) shoes D) food
+1. The device that puts our work on paper is the A) mouse B) keyboard C) microphone D) printer
+2. We hear sound from the computer through A) printer B) mouse C) cable D) speakers
+3. A microphone takes our ____ into the computer. A) hair B) voice C) food D) shoes
 4. Fill in: The monitor is an ____ device.
 5. Mention two output devices.
 6. Write what a microphone does.
@@ -1406,6 +1808,192 @@ Answer in full sentences.
 43. Tell the difference between living and non-living things. (2 marks)
 44. What is wind and one use of air? (2 marks)
 45. Name the three types of soil. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. A line that lies flat like the ground is ___
+   A) vertical
+   B) spiral
+   C) round
+   D) horizontal
+2. The edge of a circle is a ___ line
+   A) zigzag
+   B) curved
+   C) sharp
+   D) straight
+3. A line that moves sharply up and down like teeth is ___
+   A) zigzag
+   B) flat
+   C) short
+   D) thin
+4. A line that stands up like a pole is ___
+   A) wavy
+   B) bent
+   C) vertical
+   D) horizontal
+5. The shape of an egg is an ___
+   A) square
+   B) oval
+   C) star
+   D) triangle
+6. A square and a triangle joined together can make a ___
+   A) road
+   B) ball
+   C) wheel
+   D) house
+7. The basic shape with three sides is a ___
+   A) triangle
+   B) oval
+   C) circle
+   D) rectangle
+8. How a thing feels when we touch it is its ___
+   A) smell
+   B) texture
+   C) colour
+   D) sound
+9. Sandpaper feels ___
+   A) wet
+   B) smooth
+   C) rough
+   D) soft
+10. A feather feels ___
+   A) hot
+   B) rough
+   C) hard
+   D) soft
+11. We make a rubbing by putting paper over a rough surface and rubbing with a ___
+   A) scissors
+   B) crayon
+   C) tape
+   D) glue
+12. We cut paper with ___
+   A) scissors
+   B) glue
+   C) paint
+   D) tape
+13. We stick paper together with ___
+   A) a pen
+   B) scissors
+   C) a ruler
+   D) glue
+14. A soft earth we use for modelling is ___
+   A) sand
+   B) water
+   C) clay
+   D) stone
+15. The way of life of a people is their ___
+   A) culture
+   B) road
+   C) school
+   D) market
+16. The three big ethnic groups are Hausa, Igbo and ___
+   A) French
+   B) Zulu
+   C) English
+   D) Yoruba
+17. Language, food, dressing and festivals are parts of ___
+   A) sport
+   B) weather
+   C) culture
+   D) money
+18. A special celebration a people keep is a ___
+   A) lesson
+   B) ceremony
+   C) market
+   D) game
+19. The ceremony that welcomes a new baby is the ___ ceremony
+   A) farm
+   B) school
+   C) harvest
+   D) naming
+20. A special nut used at some naming ceremonies is the ___ nut
+   A) kola
+   B) palm
+   C) ground
+   D) coco
+21. Making the body look fine in our own way is body ___
+   A) washing
+   B) resting
+   C) beautification
+   D) feeding
+22. Small coloured things strung to wear are ___
+   A) stones
+   B) beads
+   C) seeds
+   D) coins
+23. A ring worn on the wrist is a ___
+   A) belt
+   B) shoe
+   C) cap
+   D) bangle
+24. Designs put on the hands and feet for a celebration are called ___
+   A) henna
+   B) ink
+   C) paint
+   D) chalk
+25. Arts we show with our body and voice are ___ arts
+   A) carving
+   B) performing
+   C) drawing
+   D) painting
+26. Stories the elders tell are ___
+   A) letters
+   B) newspapers
+   C) folktales
+   D) receipts
+27. A short song with rhythm is a ___
+   A) drum
+   B) road
+   C) chair
+   D) rhyme
+28. Moving the body to music is ___
+   A) dancing
+   B) sleeping
+   C) reading
+   D) eating
+29. A hairstyle made by threading the hair is called ___
+   A) shaving
+   B) cutting
+   C) threading
+   D) plaiting water
+30. Performing arts entertain us and also ___ us
+   A) bore
+   B) teach
+   C) tire
+   D) hurt
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two kinds of lines
+32. Name two basic shapes
+33. Name two things that feel smooth
+34. Name two colouring tools
+35. Name two drawing tools
+36. Name the three big ethnic groups
+37. Name two parts of culture
+38. Name two things used at a naming ceremony
+39. Name two body decorations
+40. Name two performing arts
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is a line and one kind of line? (2 marks)
+42. Say what texture means and give one rough thing. (2 marks)
+43. What is culture and one part of it? (2 marks)
+44. What happens at a naming ceremony? (2 marks)
+45. Name two performing arts and say one way they help us. (2 marks)
 
 
 ---

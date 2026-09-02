@@ -14,7 +14,7 @@ at `exploitable-longest: 0` and `sheet_lint` 0, worksheet letters shuffled so th
 | 1 | basic-science | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=8 D=7) · worksheets shuffled · gates ok |
 | 2 | basic-digital-literacy | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=8 C=7 D=7) · worksheets shuffled · gates ok |
 | 3 | christian-religious-studies | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=8 D=7) · exempt from plates |
-| 4 | cultural-and-creative-arts | — |
+| 4 | cultural-and-creative-arts | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=7 D=8) · gates ok |
 | 5 | general-knowledge | — (no plates owed, exempt) |
 | 6 | nigerian-history | — (no plates owed, exempt) |
 | 7 | physical-and-health-education | — |

@@ -1,0 +1,385 @@
+{
+ "subject": "Cultural and Creative Arts",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "A line that lies flat like the ground is ___",
+   "answer": "horizontal",
+   "distractors": [
+    "vertical",
+    "spiral",
+    "round"
+   ]
+  },
+  {
+   "stem": "The edge of a circle is a ___ line",
+   "answer": "curved",
+   "distractors": [
+    "straight",
+    "zigzag",
+    "sharp"
+   ]
+  },
+  {
+   "stem": "A line that moves sharply up and down like teeth is ___",
+   "answer": "zigzag",
+   "distractors": [
+    "flat",
+    "thin",
+    "short"
+   ]
+  },
+  {
+   "stem": "A line that stands up like a pole is ___",
+   "answer": "vertical",
+   "distractors": [
+    "horizontal",
+    "wavy",
+    "bent"
+   ]
+  },
+  {
+   "stem": "The shape of an egg is an ___",
+   "answer": "oval",
+   "distractors": [
+    "square",
+    "triangle",
+    "star"
+   ]
+  },
+  {
+   "stem": "A square and a triangle joined together can make a ___",
+   "answer": "house",
+   "distractors": [
+    "wheel",
+    "ball",
+    "road"
+   ]
+  },
+  {
+   "stem": "The basic shape with three sides is a ___",
+   "answer": "triangle",
+   "distractors": [
+    "circle",
+    "oval",
+    "rectangle"
+   ]
+  },
+  {
+   "stem": "How a thing feels when we touch it is its ___",
+   "answer": "texture",
+   "distractors": [
+    "colour",
+    "smell",
+    "sound"
+   ]
+  },
+  {
+   "stem": "Sandpaper feels ___",
+   "answer": "rough",
+   "distractors": [
+    "smooth",
+    "soft",
+    "wet"
+   ]
+  },
+  {
+   "stem": "A feather feels ___",
+   "answer": "soft",
+   "distractors": [
+    "hard",
+    "rough",
+    "hot"
+   ]
+  },
+  {
+   "stem": "We make a rubbing by putting paper over a rough surface and rubbing with a ___",
+   "answer": "crayon",
+   "distractors": [
+    "scissors",
+    "glue",
+    "tape"
+   ]
+  },
+  {
+   "stem": "We cut paper with ___",
+   "answer": "scissors",
+   "distractors": [
+    "glue",
+    "paint",
+    "tape"
+   ]
+  },
+  {
+   "stem": "We stick paper together with ___",
+   "answer": "glue",
+   "distractors": [
+    "scissors",
+    "a ruler",
+    "a pen"
+   ]
+  },
+  {
+   "stem": "A soft earth we use for modelling is ___",
+   "answer": "clay",
+   "distractors": [
+    "sand",
+    "water",
+    "stone"
+   ]
+  },
+  {
+   "stem": "The way of life of a people is their ___",
+   "answer": "culture",
+   "distractors": [
+    "school",
+    "market",
+    "road"
+   ]
+  },
+  {
+   "stem": "The three big ethnic groups are Hausa, Igbo and ___",
+   "answer": "Yoruba",
+   "distractors": [
+    "French",
+    "English",
+    "Zulu"
+   ]
+  },
+  {
+   "stem": "Language, food, dressing and festivals are parts of ___",
+   "answer": "culture",
+   "distractors": [
+    "weather",
+    "money",
+    "sport"
+   ]
+  },
+  {
+   "stem": "A special celebration a people keep is a ___",
+   "answer": "ceremony",
+   "distractors": [
+    "market",
+    "lesson",
+    "game"
+   ]
+  },
+  {
+   "stem": "The ceremony that welcomes a new baby is the ___ ceremony",
+   "answer": "naming",
+   "distractors": [
+    "harvest",
+    "school",
+    "farm"
+   ]
+  },
+  {
+   "stem": "A special nut used at some naming ceremonies is the ___ nut",
+   "answer": "kola",
+   "distractors": [
+    "ground",
+    "palm",
+    "coco"
+   ]
+  },
+  {
+   "stem": "Making the body look fine in our own way is body ___",
+   "answer": "beautification",
+   "distractors": [
+    "washing",
+    "feeding",
+    "resting"
+   ]
+  },
+  {
+   "stem": "Small coloured things strung to wear are ___",
+   "answer": "beads",
+   "distractors": [
+    "stones",
+    "seeds",
+    "coins"
+   ]
+  },
+  {
+   "stem": "A ring worn on the wrist is a ___",
+   "answer": "bangle",
+   "distractors": [
+    "cap",
+    "shoe",
+    "belt"
+   ]
+  },
+  {
+   "stem": "Designs put on the hands and feet for a celebration are called ___",
+   "answer": "henna",
+   "distractors": [
+    "paint",
+    "ink",
+    "chalk"
+   ]
+  },
+  {
+   "stem": "Arts we show with our body and voice are ___ arts",
+   "answer": "performing",
+   "distractors": [
+    "drawing",
+    "painting",
+    "carving"
+   ]
+  },
+  {
+   "stem": "Stories the elders tell are ___",
+   "answer": "folktales",
+   "distractors": [
+    "newspapers",
+    "letters",
+    "receipts"
+   ]
+  },
+  {
+   "stem": "A short song with rhythm is a ___",
+   "answer": "rhyme",
+   "distractors": [
+    "drum",
+    "chair",
+    "road"
+   ]
+  },
+  {
+   "stem": "Moving the body to music is ___",
+   "answer": "dancing",
+   "distractors": [
+    "sleeping",
+    "reading",
+    "eating"
+   ]
+  },
+  {
+   "stem": "A hairstyle made by threading the hair is called ___",
+   "answer": "threading",
+   "distractors": [
+    "plaiting water",
+    "cutting",
+    "shaving"
+   ]
+  },
+  {
+   "stem": "Performing arts entertain us and also ___ us",
+   "answer": "teach",
+   "distractors": [
+    "hurt",
+    "tire",
+    "bore"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two kinds of lines ",
+   "points": [
+    "straight",
+    "curved",
+    "zigzag"
+   ]
+  },
+  {
+   "stem": "Name two basic shapes ",
+   "points": [
+    "circle",
+    "square",
+    "triangle"
+   ]
+  },
+  {
+   "stem": "Name two things that feel smooth ",
+   "points": [
+    "glass",
+    "leaf",
+    "tile"
+   ]
+  },
+  {
+   "stem": "Name two colouring tools ",
+   "points": [
+    "crayon",
+    "paint",
+    "marker"
+   ]
+  },
+  {
+   "stem": "Name two drawing tools ",
+   "points": [
+    "pencil",
+    "pen",
+    "charcoal"
+   ]
+  },
+  {
+   "stem": "Name the three big ethnic groups ",
+   "points": [
+    "Hausa",
+    "Igbo",
+    "Yoruba"
+   ]
+  },
+  {
+   "stem": "Name two parts of culture ",
+   "points": [
+    "food",
+    "dressing",
+    "language"
+   ]
+  },
+  {
+   "stem": "Name two things used at a naming ceremony ",
+   "points": [
+    "kola nut",
+    "palm wine"
+   ]
+  },
+  {
+   "stem": "Name two body decorations ",
+   "points": [
+    "beads",
+    "bangles",
+    "henna"
+   ]
+  },
+  {
+   "stem": "Name two performing arts ",
+   "points": [
+    "singing",
+    "dancing",
+    "acting"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a line and one kind of line?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say what texture means and give one rough thing.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is culture and one part of it?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What happens at a naming ceremony?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two performing arts and say one way they help us.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
