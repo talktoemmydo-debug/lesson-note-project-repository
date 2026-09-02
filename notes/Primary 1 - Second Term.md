@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 5 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 6 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,58 +12,68 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*5 subjects · 40 lessons · 5 term practice papers. Each part begins on a fresh page.*
+*6 subjects · 48 lessons · 6 term practice papers. Each part begins on a fresh page.*
 
-- **[Basic Science](#basic-science)** · 2
-  - [WEEK 1 — PLANTS](#week-1-plants) · 2
-  - [WEEK 2 — ANIMALS](#week-2-animals) · 2
-  - [WEEK 3 — OUR SENSE ORGANS](#week-3-our-sense-organs) · 3
-  - [WEEK 4 — HEALTH AND CLEANLINESS](#week-4-health-and-cleanliness) · 4
-  - [WEEK 5 — WATER](#week-5-water) · 4
-  - [WEEK 6 — WEATHER AND SEASONS](#week-6-weather-and-seasons) · 5
-  - [WEEK 8 — LIGHT AND SOUND](#week-8-light-and-sound) · 6
-  - [WEEK 9 — THE SUN, MOON AND STARS](#week-9-the-sun-moon-and-stars) · 6
-- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
-  - [WEEK 1 — COLOUR](#week-1-colour) · 8
-  - [WEEK 2 — DRAWING AND COLOURING](#week-2-drawing-and-colouring) · 8
-  - [WEEK 3 — MODELLING](#week-3-modelling) · 9
-  - [WEEK 4 — CRAFT WORK](#week-4-craft-work) · 10
-  - [WEEK 5 — MUSIC AND SONGS](#week-5-music-and-songs) · 10
-  - [WEEK 6 — MUSICAL INSTRUMENTS](#week-6-musical-instruments) · 11
-  - [WEEK 8 — DANCE AND MOVEMENT](#week-8-dance-and-movement) · 12
-  - [WEEK 9 — DRAMA AND ROLE PLAY](#week-9-drama-and-role-play) · 12
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
-  - [WEEK 1 — THE BIRTH OF JESUS](#week-1-the-birth-of-jesus) · 14
-  - [WEEK 2 — THE SHEPHERDS AND THE WISE MEN](#week-2-the-shepherds-and-the-wise-men) · 14
-  - [WEEK 3 — JESUS AS A BOY](#week-3-jesus-as-a-boy) · 15
-  - [WEEK 4 — THE BAPTISM OF JESUS](#week-4-the-baptism-of-jesus) · 16
-  - [WEEK 5 — THE TEMPTATION OF JESUS](#week-5-the-temptation-of-jesus) · 16
-  - [WEEK 6 — JESUS CALLS THE FIRST DISCIPLES](#week-6-jesus-calls-the-first-disciples) · 17
-  - [WEEK 8 — JESUS TURNS WATER INTO WINE](#week-8-jesus-turns-water-into-wine) · 18
-  - [WEEK 9 — JESUS LOVES THE CHILDREN](#week-9-jesus-loves-the-children) · 18
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
-  - [WEEK 1 — THE DESKTOP AND ICONS](#week-1-the-desktop-and-icons) · 20
-  - [WEEK 2 — USING THE MOUSE](#week-2-using-the-mouse) · 20
-  - [WEEK 3 — THE KEYBOARD: LETTER AND NUMBER KEYS](#week-3-the-keyboard-letter-and-number-keys) · 21
-  - [WEEK 4 — TYPING SIMPLE WORDS](#week-4-typing-simple-words) · 22
-  - [WEEK 5 — OPENING AND CLOSING A PROGRAM](#week-5-opening-and-closing-a-program) · 22
-  - [WEEK 6 — DRAWING WITH THE COMPUTER](#week-6-drawing-with-the-computer) · 23
-  - [WEEK 8 — LEARNING WITH THE COMPUTER](#week-8-learning-with-the-computer) · 24
-  - [WEEK 9 — SAFE HABITS WITH THE COMPUTER](#week-9-safe-habits-with-the-computer) · 24
-- **[General Knowledge](#general-knowledge)** · 26
-  - [WEEK 1 — MY FRIENDS](#week-1-my-friends) · 26
-  - [WEEK 2 — DAYS AND MONTHS](#week-2-days-and-months) · 26
-  - [WEEK 3 — TIME AND THE CLOCK](#week-3-time-and-the-clock) · 27
-  - [WEEK 4 — WEATHER AND SEASONS](#week-4-weather-and-seasons) · 28
-  - [WEEK 5 — PLANTS AND ANIMALS AROUND US](#week-5-plants-and-animals-around-us) · 28
-  - [WEEK 6 — FOOD AND NUTRITION](#week-6-food-and-nutrition) · 29
-  - [WEEK 8 — SAFETY AT HOME AND ON THE ROAD](#week-8-safety-at-home-and-on-the-road) · 30
-  - [WEEK 9 — OUR FESTIVALS](#week-9-our-festivals) · 30
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 2nd Term)](#examination-practice-basic-science-primary-1-2nd-term)** · 32
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-1-2nd-term)** · 34
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 2nd Term)](#examination-practice-christian-religious-studies-primary-1-2nd-term)** · 36
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-1-2nd-term)** · 38
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 2nd Term)](#examination-practice-general-knowledge-primary-1-2nd-term)** · 40
+- **[Basic Science](#basic-science)** · 3
+  - [WEEK 1 — PLANTS](#week-1-plants) · 3
+  - [WEEK 2 — ANIMALS](#week-2-animals) · 3
+  - [WEEK 3 — OUR SENSE ORGANS](#week-3-our-sense-organs) · 4
+  - [WEEK 4 — HEALTH AND CLEANLINESS](#week-4-health-and-cleanliness) · 5
+  - [WEEK 5 — WATER](#week-5-water) · 5
+  - [WEEK 6 — WEATHER AND SEASONS](#week-6-weather-and-seasons) · 6
+  - [WEEK 8 — LIGHT AND SOUND](#week-8-light-and-sound) · 7
+  - [WEEK 9 — THE SUN, MOON AND STARS](#week-9-the-sun-moon-and-stars) · 7
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 9
+  - [WEEK 1 — COLOUR](#week-1-colour) · 9
+  - [WEEK 2 — DRAWING AND COLOURING](#week-2-drawing-and-colouring) · 9
+  - [WEEK 3 — MODELLING](#week-3-modelling) · 10
+  - [WEEK 4 — CRAFT WORK](#week-4-craft-work) · 11
+  - [WEEK 5 — MUSIC AND SONGS](#week-5-music-and-songs) · 11
+  - [WEEK 6 — MUSICAL INSTRUMENTS](#week-6-musical-instruments) · 12
+  - [WEEK 8 — DANCE AND MOVEMENT](#week-8-dance-and-movement) · 13
+  - [WEEK 9 — DRAMA AND ROLE PLAY](#week-9-drama-and-role-play) · 13
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 15
+  - [WEEK 1 — THE BIRTH OF JESUS](#week-1-the-birth-of-jesus) · 15
+  - [WEEK 2 — THE SHEPHERDS AND THE WISE MEN](#week-2-the-shepherds-and-the-wise-men) · 15
+  - [WEEK 3 — JESUS AS A BOY](#week-3-jesus-as-a-boy) · 16
+  - [WEEK 4 — THE BAPTISM OF JESUS](#week-4-the-baptism-of-jesus) · 17
+  - [WEEK 5 — THE TEMPTATION OF JESUS](#week-5-the-temptation-of-jesus) · 17
+  - [WEEK 6 — JESUS CALLS THE FIRST DISCIPLES](#week-6-jesus-calls-the-first-disciples) · 18
+  - [WEEK 8 — JESUS TURNS WATER INTO WINE](#week-8-jesus-turns-water-into-wine) · 19
+  - [WEEK 9 — JESUS LOVES THE CHILDREN](#week-9-jesus-loves-the-children) · 19
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 21
+  - [WEEK 1 — THE DESKTOP AND ICONS](#week-1-the-desktop-and-icons) · 21
+  - [WEEK 2 — USING THE MOUSE](#week-2-using-the-mouse) · 21
+  - [WEEK 3 — THE KEYBOARD: LETTER AND NUMBER KEYS](#week-3-the-keyboard-letter-and-number-keys) · 22
+  - [WEEK 4 — TYPING SIMPLE WORDS](#week-4-typing-simple-words) · 23
+  - [WEEK 5 — OPENING AND CLOSING A PROGRAM](#week-5-opening-and-closing-a-program) · 23
+  - [WEEK 6 — DRAWING WITH THE COMPUTER](#week-6-drawing-with-the-computer) · 24
+  - [WEEK 8 — LEARNING WITH THE COMPUTER](#week-8-learning-with-the-computer) · 25
+  - [WEEK 9 — SAFE HABITS WITH THE COMPUTER](#week-9-safe-habits-with-the-computer) · 25
+- **[Nigerian History](#nigerian-history)** · 27
+  - [WEEK 1 — NIGERIAN HEROES AND HEROINES](#week-1-nigerian-heroes-and-heroines) · 27
+  - [WEEK 2 — TRADITIONAL RULERS](#week-2-traditional-rulers) · 27
+  - [WEEK 3 — NIGERIAN FESTIVALS](#week-3-nigerian-festivals) · 28
+  - [WEEK 4 — NIGERIAN CRAFTS](#week-4-nigerian-crafts) · 29
+  - [WEEK 5 — NIGERIAN MUSIC AND DANCE](#week-5-nigerian-music-and-dance) · 29
+  - [WEEK 6 — NIGERIAN FOOD AND DRESS](#week-6-nigerian-food-and-dress) · 30
+  - [WEEK 8 — OUR NEIGHBOURS](#week-8-our-neighbours) · 31
+  - [WEEK 9 — NIGERIAN NATIONAL SYMBOLS](#week-9-nigerian-national-symbols) · 31
+- **[General Knowledge](#general-knowledge)** · 33
+  - [WEEK 1 — MY FRIENDS](#week-1-my-friends) · 33
+  - [WEEK 2 — DAYS AND MONTHS](#week-2-days-and-months) · 33
+  - [WEEK 3 — TIME AND THE CLOCK](#week-3-time-and-the-clock) · 34
+  - [WEEK 4 — WEATHER AND SEASONS](#week-4-weather-and-seasons) · 35
+  - [WEEK 5 — PLANTS AND ANIMALS AROUND US](#week-5-plants-and-animals-around-us) · 35
+  - [WEEK 6 — FOOD AND NUTRITION](#week-6-food-and-nutrition) · 36
+  - [WEEK 8 — SAFETY AT HOME AND ON THE ROAD](#week-8-safety-at-home-and-on-the-road) · 37
+  - [WEEK 9 — OUR FESTIVALS](#week-9-our-festivals) · 37
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 2nd Term)](#examination-practice-basic-science-primary-1-2nd-term)** · 39
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-1-2nd-term)** · 41
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 2nd Term)](#examination-practice-christian-religious-studies-primary-1-2nd-term)** · 43
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-1-2nd-term)** · 45
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 2nd Term)](#examination-practice-nigerian-history-primary-1-2nd-term)** · 47
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 2nd Term)](#examination-practice-general-knowledge-primary-1-2nd-term)** · 49
 
 
 
@@ -2485,6 +2495,610 @@ written for them.
 
 ---
 
+# Nigerian History
+
+These are the notes for the second term of Primary 1. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 1 · Nigerian History · Second Term W1-6, 8-9 (Nigerian heroes and heroines; traditional rulers; festivals; crafts; music and dance; food and dress; our neighbours; national symbols).*
+
+
+### WEEK 1 — NIGERIAN HEROES AND HEROINES
+
+**You will learn to**
+
+• say who a hero is
+
+• name Nigerian heroes and heroines
+
+• learn from their good deeds
+
+**Things to know**
+
+• A **hero** is a person who does brave and good things.
+
+• A **heroine** is a woman who does brave and good things.
+
+• Nigeria has many heroes and heroines.
+
+• Some fought for Nigeria to be free.
+
+• Some were great leaders and teachers.
+
+• A hero is honest, brave and kind.
+
+• Heroes help their people.
+
+• We remember heroes for their good deeds.
+
+• We can be heroes by doing good.
+
+• Our heroes make us proud of Nigeria.
+
+**Let us talk**
+
+1. Who is a hero?
+
+2. Name one Nigerian hero.
+
+3. What good things do heroes do?
+
+**Words for my notebook**
+
+• hero — a person who does brave and good things
+
+• heroine — a woman who does brave and good things
+
+• brave — not afraid to do what is right
+
+**Worksheet**
+
+1. A person who does brave and good things is a ___.
+   A) hero B) stranger C) thief D) baby
+
+2. A woman who does brave and good things is a ___.
+   A) heroine B) queen only C) girl D) mother
+
+3. A hero is honest, brave and ___.
+   A) kind B) rude C) lazy D) angry
+
+4. Heroes help their ___.
+   A) people B) enemies C) thieves D) nobody
+
+5. Fill in: Not afraid to do what is right is being _____.
+
+6. Mention two good things heroes do.
+
+7. Write who a hero is.
+
+**My own work**
+
+• Draw a hero and write one good thing they did.
+
+---
+
+### WEEK 2 — TRADITIONAL RULERS
+
+**You will learn to**
+
+• say who a traditional ruler is
+
+• name titles of traditional rulers
+
+• respect our rulers
+
+**Things to know**
+
+• A **traditional ruler** is a leader of a town or people.
+
+• The ruler leads by the custom of the people.
+
+• The **Oba** is a Yoruba ruler.
+
+• The **Obi** is an Igbo ruler.
+
+• The **Emir** is a Hausa ruler.
+
+• The ruler keeps peace in the land.
+
+• The ruler settles quarrels.
+
+• Chiefs and elders help the ruler.
+
+• We greet and respect our rulers.
+
+• Traditional rulers keep our culture.
+
+**Let us talk**
+
+1. Who is a traditional ruler?
+
+2. What is a Yoruba ruler called?
+
+3. What does a ruler do?
+
+**Words for my notebook**
+
+• traditional ruler — a leader of a town or people
+
+• Oba — a Yoruba ruler
+
+• Emir — a Hausa ruler
+
+**Worksheet**
+
+1. A leader of a town or people is a ___ ruler.
+   A) traditional B) school C) market D) road
+
+2. A Yoruba ruler is called an ___.
+   A) Oba B) Obi C) Emir D) Chief
+
+3. An Igbo ruler is called an ___.
+   A) Obi B) Oba C) Emir D) King
+
+4. A Hausa ruler is called an ___.
+   A) Emir B) Oba C) Obi D) Chief
+
+5. Fill in: The ruler keeps _____ in the land.
+
+6. Mention two titles of traditional rulers.
+
+7. Write what a traditional ruler does.
+
+**My own work**
+
+• Draw a traditional ruler in his regalia.
+
+---
+
+### WEEK 3 — NIGERIAN FESTIVALS
+
+**You will learn to**
+
+• say what a festival is
+
+• name Nigerian festivals
+
+• respect our festivals
+
+**Things to know**
+
+• A **festival** is a special time of celebration.
+
+• Nigeria has many festivals.
+
+• The **New Yam Festival** thanks God for the new harvest.
+
+• The **Eid** festival is celebrated by Muslims.
+
+• The **Christmas** festival is celebrated by Christians.
+
+• Some towns have masquerade festivals.
+
+• We dance, sing and drum at a festival.
+
+• We wear special clothes and eat special food.
+
+• Festivals bring people together.
+
+• Festivals show our culture.
+
+**Let us talk**
+
+1. What is a festival?
+
+2. Name one Nigerian festival.
+
+3. What do we do at a festival?
+
+**Words for my notebook**
+
+• festival — a special time of celebration
+
+• New Yam Festival — a festival that thanks God for the harvest
+
+• masquerade — a masked dancer at a festival
+
+**Worksheet**
+
+1. A special time of celebration is a ___.
+   A) festival B) market C) school D) farm
+
+2. The ___ Festival thanks God for the new harvest.
+   A) New Yam B) Christmas C) Easter D) Sallah
+
+3. The ___ festival is celebrated by Muslims.
+   A) Eid B) New Yam C) Easter D) Christmas
+
+4. We dance, sing and ___ at a festival.
+   A) drum B) sleep C) cry D) fight
+
+5. Fill in: Festivals show our _____.
+
+6. Mention two Nigerian festivals.
+
+7. Write what we do at a festival.
+
+**My own work**
+
+• Draw people dancing at a festival.
+
+---
+
+### WEEK 4 — NIGERIAN CRAFTS
+
+**You will learn to**
+
+• say what a craft is
+
+• name Nigerian crafts
+
+• value our crafts
+
+**Things to know**
+
+• A **craft** is something made with the hands.
+
+• Our people weave **cloth**, like the aso-oke and akwete.
+
+• Our people make **mats** and **baskets** from straw.
+
+• Our people mould **pots** from clay.
+
+• Our people carve **wood** into masks and stools.
+
+• Our people make **beads** and **leather** work.
+
+• Crafts are useful and beautiful.
+
+• Crafts are part of our culture.
+
+• We can use or sell crafts.
+
+• We value the crafts our people make.
+
+**Let us talk**
+
+1. What is a craft?
+
+2. Name one Nigerian craft.
+
+3. What do we make from clay?
+
+**Words for my notebook**
+
+• craft — something made with the hands
+
+• weaving — making cloth or mats by crossing strands
+
+• carving — cutting wood into shapes
+
+**Worksheet**
+
+1. Something made with the hands is a ___.
+   A) craft B) song C) dance D) food
+
+2. Our people weave cloth, mats and ___.
+   A) baskets B) stones C) cars D) books
+
+3. Our people mould ___ from clay.
+   A) pots B) cars C) planes D) phones
+
+4. Our people carve ___ into masks.
+   A) wood B) water C) air D) sand
+
+5. Fill in: Making cloth by crossing strands is _____.
+
+6. Mention two Nigerian crafts.
+
+7. Write what we make from clay.
+
+**My own work**
+
+• Draw one Nigerian craft.
+
+---
+
+### WEEK 5 — NIGERIAN MUSIC AND DANCE
+
+**You will learn to**
+
+• name Nigerian musical instruments
+
+• name Nigerian dances
+
+• enjoy our music
+
+**Things to know**
+
+• Nigeria has many kinds of music.
+
+• The **talking drum** is a famous drum.
+
+• The **gong**, **shekere** and **flute** are local instruments.
+
+• Our people sing and dance at festivals.
+
+• Each ethnic group has its own music and dance.
+
+• The **Bata** dance is a Yoruba dance.
+
+• Dance and music go together.
+
+• Music tells stories and praises people.
+
+• Music and dance are part of our culture.
+
+• We enjoy and respect our music.
+
+**Let us talk**
+
+1. Name one Nigerian musical instrument.
+
+2. Name one Nigerian dance.
+
+3. When do we dance?
+
+**Words for my notebook**
+
+• talking drum — a drum that can mimic speech
+
+• shekere — a shaken instrument
+
+• dance — moving the body to music
+
+**Worksheet**
+
+1. A famous Nigerian drum is the ___ drum.
+   A) talking B) water C) stone D) paper
+
+2. The ___ is a shaken instrument.
+   A) shekere B) flute C) gong D) piano
+
+3. The Bata dance is a ___ dance.
+   A) Yoruba B) Hausa C) foreign D) school
+
+4. Music tells stories and ___ people.
+   A) praises B) frightens C) hurts D) hides
+
+5. Fill in: Moving the body to music is _____.
+
+6. Mention two Nigerian musical instruments.
+
+7. Write one Nigerian dance.
+
+**My own work**
+
+• Draw a talking drum.
+
+---
+
+### WEEK 6 — NIGERIAN FOOD AND DRESS
+
+**You will learn to**
+
+• name Nigerian foods
+
+• name Nigerian clothes
+
+• value our food and dress
+
+**Things to know**
+
+• Nigeria has many kinds of food.
+
+• We eat **pounded yam**, **amala**, **tuwo** and **rice**.
+
+• We eat soup with our food.
+
+• We eat fruits like mango, orange and banana.
+
+• Our people wear traditional clothes.
+
+• The Yoruba wear **buba** and **sokoto** with a cap.
+
+• The Igbo wear a wrapper and a cap.
+
+• The Hausa wear a flowing gown and a cap.
+
+• Women tie a **wrapper** and a head-tie.
+
+• Our food and dress show our culture.
+
+**Let us talk**
+
+1. Name one Nigerian food.
+
+2. Name one Nigerian traditional cloth.
+
+3. What do women tie on their head?
+
+**Words for my notebook**
+
+• pounded yam — a Nigerian food from yam
+
+• buba — a Yoruba top
+
+• wrapper — a cloth tied around the body
+
+**Worksheet**
+
+1. A Nigerian food from yam is ___ yam.
+   A) pounded B) flying C) burning D) broken
+
+2. The Yoruba wear buba and ___.
+   A) sokoto B) shoes C) bags D) hats
+
+3. Women tie a wrapper and a ___.
+   A) head-tie B) belt C) shoe D) bag
+
+4. The Hausa wear a flowing ___ and a cap.
+   A) gown B) sock C) fan D) mat
+
+5. Fill in: Our food and dress show our _____.
+
+6. Mention two Nigerian foods.
+
+7. Write one Nigerian traditional cloth.
+
+**My own work**
+
+• Draw a Nigerian traditional dress.
+
+---
+
+### WEEK 8 — OUR NEIGHBOURS
+
+**You will learn to**
+
+• name countries near Nigeria
+
+• say who our neighbours are
+
+• live well with our neighbours
+
+**Things to know**
+
+• Nigeria is in **West Africa**.
+
+• Nigeria has countries around it.
+
+• **Niger** is to the north of Nigeria.
+
+• **Chad** is to the north-east.
+
+• **Cameroon** is to the east.
+
+• **Benin** is to the west.
+
+• To the south is the **Atlantic Ocean**.
+
+• These countries are our **neighbours**.
+
+• We trade and live with our neighbours.
+
+• We are friends with our neighbours.
+
+**Let us talk**
+
+1. Where is Nigeria?
+
+2. Name one country near Nigeria.
+
+3. What is to the south of Nigeria?
+
+**Words for my notebook**
+
+• neighbour — a country or person near us
+
+• West Africa — the part of Africa where Nigeria is
+
+• Atlantic Ocean — the sea to the south of Nigeria
+
+**Worksheet**
+
+1. Nigeria is in ___ Africa.
+   A) West B) East C) North D) South
+
+2. ___ is to the north of Nigeria.
+   A) Niger B) Ghana C) Egypt D) Kenya
+
+3. ___ is to the east of Nigeria.
+   A) Cameroon B) Ghana C) Egypt D) Togo
+
+4. To the south of Nigeria is the ___ Ocean.
+   A) Atlantic B) Indian C) Pacific D) Red
+
+5. Fill in: A country near us is our _____.
+
+6. Mention two countries near Nigeria.
+
+7. Write what is to the south of Nigeria.
+
+**My own work**
+
+• Draw Nigeria and one neighbour.
+
+---
+
+### WEEK 9 — NIGERIAN NATIONAL SYMBOLS
+
+**You will learn to**
+
+• name Nigerian national symbols
+
+• say what each symbol means
+
+• respect our symbols
+
+**Things to know**
+
+• **National symbols** stand for our country.
+
+• The **Nigerian flag** is green, white, green.
+
+• The green stands for the land; the white stands for peace.
+
+• The **coat of arms** has an eagle and two horses.
+
+• The **national anthem** and **pledge** are songs of our country.
+
+• The **naira** is our money.
+
+• We stand for the national anthem.
+
+• We respect the flag and other symbols.
+
+• National symbols make us one people.
+
+• We are proud of our symbols.
+
+**Let us talk**
+
+1. Name one Nigerian national symbol.
+
+2. What does the green in the flag stand for?
+
+3. What do we do when the anthem plays?
+
+**Words for my notebook**
+
+• national symbol — a thing that stands for our country
+
+• flag — the green, white, green banner of Nigeria
+
+• anthem — the song of our country
+
+**Worksheet**
+
+1. The Nigerian flag is green, white and ___.
+   A) green B) red C) blue D) black
+
+2. The green in the flag stands for the ___.
+   A) land B) sea C) sky D) fire
+
+3. The white in the flag stands for ___.
+   A) peace B) war C) noise D) dust
+
+4. We ___ for the national anthem.
+   A) stand B) sleep C) run D) hide
+
+5. Fill in: The song of our country is the national _____.
+
+6. Mention two Nigerian national symbols.
+
+7. Write what the white in the flag stands for.
+
+**My own work**
+
+• Draw and colour the Nigerian flag.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the second term of Primary 1. They follow the NERDC
@@ -3829,6 +4443,192 @@ Answer in full sentences.
 43. What does the space bar do? (2 marks)
 44. Name two drawing tools and what each does. (2 marks)
 45. Say two safe habits with the computer. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 2nd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. A person who does brave and good things is a ___
+   A) hero
+   B) stranger
+   C) thief
+   D) baby
+2. A woman who does brave and good things is a ___
+   A) queen
+   B) girl
+   C) heroine
+   D) mother
+3. A hero is honest, brave and ___
+   A) angry
+   B) kind
+   C) rude
+   D) lazy
+4. Heroes help their ___
+   A) people
+   B) thieves
+   C) nobody
+   D) enemies
+5. A leader of a town or people is a ___ ruler
+   A) school
+   B) road
+   C) market
+   D) traditional
+6. A Yoruba ruler is called an ___
+   A) Chief
+   B) Emir
+   C) Oba
+   D) Obi
+7. An Igbo ruler is called an ___
+   A) Emir
+   B) Obi
+   C) Oba
+   D) King
+8. A Hausa ruler is called an ___
+   A) Emir
+   B) Oba
+   C) Obi
+   D) Chief
+9. A special time of celebration is a ___
+   A) school
+   B) farm
+   C) market
+   D) festival
+10. The ___ Festival thanks God for the new harvest
+   A) Sallah
+   B) Christmas
+   C) New Yam
+   D) Easter
+11. The ___ festival is celebrated by Muslims
+   A) New Yam
+   B) Eid
+   C) Christmas
+   D) Easter
+12. We dance, sing and ___ at a festival
+   A) cry
+   B) fight
+   C) sleep
+   D) drum
+13. Something made with the hands is a ___
+   A) dance
+   B) song
+   C) craft
+   D) food
+14. Our people weave cloth, mats and ___
+   A) baskets
+   B) stones
+   C) books
+   D) cars
+15. Our people mould ___ from clay
+   A) cars
+   B) phones
+   C) planes
+   D) pots
+16. Our people carve ___ into masks
+   A) sand
+   B) water
+   C) wood
+   D) air
+17. A famous Nigerian drum is the ___ drum
+   A) water
+   B) talking
+   C) stone
+   D) paper
+18. The ___ is a shaken instrument
+   A) shekere
+   B) piano
+   C) gong
+   D) flute
+19. The Bata dance is a ___ dance
+   A) school
+   B) foreign
+   C) Hausa
+   D) Yoruba
+20. Music tells stories and ___ people
+   A) frightens
+   B) praises
+   C) hides
+   D) hurts
+21. A Nigerian food from yam is ___ yam
+   A) pounded
+   B) burning
+   C) broken
+   D) flying
+22. The Yoruba wear buba and ___
+   A) hats
+   B) bags
+   C) sokoto
+   D) shoes
+23. Women tie a wrapper and a ___
+   A) shoe
+   B) bag
+   C) belt
+   D) head-tie
+24. The Hausa wear a flowing ___ and a cap
+   A) gown
+   B) sock
+   C) fan
+   D) mat
+25. Nigeria is in ___ Africa
+   A) East
+   B) North
+   C) West
+   D) South
+26. ___ is to the north of Nigeria
+   A) Egypt
+   B) Niger
+   C) Ghana
+   D) Kenya
+27. To the south of Nigeria is the ___ Ocean
+   A) Atlantic
+   B) Pacific
+   C) Red
+   D) Indian
+28. The Nigerian flag is green, white and ___
+   A) red
+   B) black
+   C) blue
+   D) green
+29. The green in the flag stands for the ___
+   A) sky
+   B) land
+   C) sea
+   D) fire
+30. The white in the flag stands for ___
+   A) war
+   B) noise
+   C) peace
+   D) dust
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two good things heroes do
+32. Name two titles of traditional rulers
+33. Name two Nigerian festivals
+34. Name two Nigerian crafts
+35. Name two Nigerian musical instruments
+36. Name two Nigerian foods
+37. Name two Nigerian traditional clothes
+38. Name two countries near Nigeria
+39. Name two Nigerian national symbols
+40. Name two things we do at a festival
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. Who is a hero? (2 marks)
+42. Name two titles of traditional rulers. (2 marks)
+43. What is a festival? Name one in Nigeria. (2 marks)
+44. Name two Nigerian crafts. (2 marks)
+45. What do the green and white in the Nigerian flag stand for? (2 marks)
 
 
 ---
