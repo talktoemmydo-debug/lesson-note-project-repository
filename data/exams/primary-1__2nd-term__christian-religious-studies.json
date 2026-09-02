@@ -1,0 +1,385 @@
+{
+ "subject": "Christian Religious Studies",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "An angel told ___ she would have a baby",
+   "answer": "Mary",
+   "distractors": [
+    "Martha",
+    "Ruth",
+    "Esther"
+   ]
+  },
+  {
+   "stem": "Jesus was born in ___",
+   "answer": "Bethlehem",
+   "distractors": [
+    "Jerusalem",
+    "Egypt",
+    "Nazareth"
+   ]
+  },
+  {
+   "stem": "Jesus was born in a ___",
+   "answer": "manger",
+   "distractors": [
+    "palace",
+    "tent",
+    "boat"
+   ]
+  },
+  {
+   "stem": "Jesus is the ___ of God",
+   "answer": "Son",
+   "distractors": [
+    "father",
+    "brother",
+    "friend"
+   ]
+  },
+  {
+   "stem": "Mary and Joseph travelled to ___",
+   "answer": "Bethlehem",
+   "distractors": [
+    "Egypt",
+    "Rome",
+    "Cana"
+   ]
+  },
+  {
+   "stem": "The ___ were watching their sheep at night",
+   "answer": "shepherds",
+   "distractors": [
+    "wise men",
+    "soldiers",
+    "kings"
+   ]
+  },
+  {
+   "stem": "A ___ guided the wise men",
+   "answer": "star",
+   "distractors": [
+    "cloud",
+    "lamp",
+    "bird"
+   ]
+  },
+  {
+   "stem": "The wise men brought gold, frankincense and ___",
+   "answer": "myrrh",
+   "distractors": [
+    "water",
+    "bread",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Jesus grew up in ___",
+   "answer": "Nazareth",
+   "distractors": [
+    "Bethlehem",
+    "Egypt",
+    "Rome"
+   ]
+  },
+  {
+   "stem": "Jesus was a good and ___ boy",
+   "answer": "obedient",
+   "distractors": [
+    "lazy",
+    "rude",
+    "angry"
+   ]
+  },
+  {
+   "stem": "At twelve, Jesus stayed in the ___ to talk with the teachers",
+   "answer": "temple",
+   "distractors": [
+    "market",
+    "boat",
+    "field"
+   ]
+  },
+  {
+   "stem": "___ baptised Jesus",
+   "answer": "John",
+   "distractors": [
+    "Peter",
+    "Paul",
+    "Joseph"
+   ]
+  },
+  {
+   "stem": "Jesus was baptised in the River ___",
+   "answer": "Jordan",
+   "distractors": [
+    "Nile",
+    "sea",
+    "lake"
+   ]
+  },
+  {
+   "stem": "The Holy Spirit came down like a ___",
+   "answer": "dove",
+   "distractors": [
+    "fish",
+    "lamb",
+    "eagle"
+   ]
+  },
+  {
+   "stem": "The devil tempted Jesus in the ___",
+   "answer": "wilderness",
+   "distractors": [
+    "temple",
+    "sea",
+    "market"
+   ]
+  },
+  {
+   "stem": "Jesus did not eat for ___ days",
+   "answer": "forty",
+   "distractors": [
+    "seven",
+    "twelve",
+    "three"
+   ]
+  },
+  {
+   "stem": "Jesus answered the devil with the ___",
+   "answer": "word of God",
+   "distractors": [
+    "help of man",
+    "power of gold",
+    "might of kings"
+   ]
+  },
+  {
+   "stem": "A ___ follows and learns from Jesus",
+   "answer": "disciple",
+   "distractors": [
+    "stranger",
+    "soldier",
+    "king"
+   ]
+  },
+  {
+   "stem": "Jesus called Peter and Andrew by the ___",
+   "answer": "sea",
+   "distractors": [
+    "temple",
+    "mountain",
+    "market"
+   ]
+  },
+  {
+   "stem": "Jesus chose ___ disciples",
+   "answer": "twelve",
+   "distractors": [
+    "seven",
+    "five",
+    "three"
+   ]
+  },
+  {
+   "stem": "The wedding was at ___",
+   "answer": "Cana",
+   "distractors": [
+    "Bethlehem",
+    "Egypt",
+    "Rome"
+   ]
+  },
+  {
+   "stem": "Jesus turned water into ___",
+   "answer": "wine",
+   "distractors": [
+    "milk",
+    "oil",
+    "honey"
+   ]
+  },
+  {
+   "stem": "___ told Jesus the wine had run out",
+   "answer": "Mary",
+   "distractors": [
+    "Martha",
+    "Ruth",
+    "Esther"
+   ]
+  },
+  {
+   "stem": "This was the ___ miracle Jesus did",
+   "answer": "first",
+   "distractors": [
+    "second",
+    "last",
+    "third"
+   ]
+  },
+  {
+   "stem": "People brought their ___ to Jesus",
+   "answer": "children",
+   "distractors": [
+    "money",
+    "gold",
+    "stones"
+   ]
+  },
+  {
+   "stem": "The disciples tried to send the children ___",
+   "answer": "away",
+   "distractors": [
+    "home",
+    "to school",
+    "to bed"
+   ]
+  },
+  {
+   "stem": "Jesus said, \"Let the little children ___ to me\"",
+   "answer": "come",
+   "distractors": [
+    "run",
+    "hide",
+    "go"
+   ]
+  },
+  {
+   "stem": "Jesus ___ the children",
+   "answer": "blessed",
+   "distractors": [
+    "scolded",
+    "chased",
+    "ignored"
+   ]
+  },
+  {
+   "stem": "A wonderful thing only God can do is a ___",
+   "answer": "miracle",
+   "distractors": [
+    "lesson",
+    "song",
+    "game"
+   ]
+  },
+  {
+   "stem": "Jesus loves all ___",
+   "answer": "children",
+   "distractors": [
+    "strangers",
+    "stones",
+    "trees"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two people in the birth story of Jesus ",
+   "points": [
+    "Mary",
+    "Joseph",
+    "the baby Jesus"
+   ]
+  },
+  {
+   "stem": "Name two gifts the wise men brought ",
+   "points": [
+    "gold",
+    "frankincense",
+    "myrrh"
+   ]
+  },
+  {
+   "stem": "Name two things Jesus did as a boy ",
+   "points": [
+    "helped at home",
+    "went to the temple",
+    "obeyed"
+   ]
+  },
+  {
+   "stem": "Name two things that happened at the baptism ",
+   "points": [
+    "heavens opened",
+    "dove came down",
+    "a voice spoke"
+   ]
+  },
+  {
+   "stem": "Name two ways the devil tempted Jesus ",
+   "points": [
+    "stones to bread",
+    "jump from the temple",
+    "all the kingdoms"
+   ]
+  },
+  {
+   "stem": "Name two disciples Jesus called ",
+   "points": [
+    "Peter",
+    "Andrew",
+    "James",
+    "John"
+   ]
+  },
+  {
+   "stem": "Name two people at the wedding at Cana ",
+   "points": [
+    "Jesus",
+    "Mary",
+    "the disciples"
+   ]
+  },
+  {
+   "stem": "Name two things Jesus did for the children ",
+   "points": [
+    "blessed them",
+    "took them in his arms"
+   ]
+  },
+  {
+   "stem": "Name two towns in the story of Jesus ",
+   "points": [
+    "Bethlehem",
+    "Nazareth",
+    "Cana"
+   ]
+  },
+  {
+   "stem": "Name two words Jesus said ",
+   "points": [
+    "\"Let the little children come to me\"",
+    "\"Follow me\""
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Where was Jesus born, and what was he laid in?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two gifts the wise men brought.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who baptised Jesus, and where?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How did Jesus answer the devil?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What did Jesus say about the children?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
