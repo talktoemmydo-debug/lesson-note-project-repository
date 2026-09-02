@@ -98,51 +98,51 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 11 — Exam Preparation](#week-11-exam-preparation) · 75
 - **[Mathematics & English](#mathematics-english)** · 77
   - [WEEK 1 — VOWELS AND CONSONANTS](#week-1-vowels-and-consonants) · 77
-  - [WEEK 2 — SINGLE SOUNDS: d, a, i, m](#week-2-single-sounds-d-a-i-m) · 77
-  - [WEEK 3 — SIGHT WORDS: You, Me, Her, We](#week-3-sight-words-you-me-her-we) · 78
-  - [WEEK 4 — SIGHT WORDS: I, Go, Car](#week-4-sight-words-i-go-car) · 79
-  - [WEEK 5 — DIGRAPH: th, ck, wh](#week-5-digraph-th-ck-wh) · 80
-  - [WEEK 6 — SIGHT WORDS: The, This, They](#week-6-sight-words-the-this-they) · 81
-  - [WEEK 8 — DIGRAPH: ph, sh, ch](#week-8-digraph-ph-sh-ch) · 82
-  - [WEEK 9 — SIGHT WORDS: Photo, She, Chart · CONSONANT BLENDS: Play, Fly, Greet](#week-9-sight-words-photo-she-chart-consonant-blends-play-fly-greet) · 83
-  - [WEEK 1 — REVIEW OF ALPHABET: Aa – Ff](#week-1-review-of-alphabet-aa-ff) · 84
-  - [WEEK 2 — REVIEW OF ALPHABET: Gg – Ll](#week-2-review-of-alphabet-gg-ll) · 84
-  - [WEEK 3 — REVIEW OF ALPHABET: Mm – Rr](#week-3-review-of-alphabet-mm-rr) · 85
-  - [WEEK 4 — REVIEW OF ALPHABET: Ss – Zz](#week-4-review-of-alphabet-ss-zz) · 86
-  - [WEEK 5 — THREE-LETTER WORDS: CVC PATTERN (Part 1)](#week-5-three-letter-words-cvc-pattern-part-1) · 87
-  - [WEEK 6 — THREE-LETTER WORDS: CVC PATTERN (Part 2)](#week-6-three-letter-words-cvc-pattern-part-2) · 87
-  - [WEEK 8 — THREE-LETTER WORDS: CVC PATTERN (Part 3)](#week-8-three-letter-words-cvc-pattern-part-3) · 88
-  - [WEEK 9 — STORY TELLING AND LETTER WORK INTEGRATION](#week-9-story-telling-and-letter-work-integration) · 89
-  - [WEEK 1 — WHOLE NUMBERS 1–200](#week-1-whole-numbers-1200) · 90
-  - [WEEK 2 — PLACE VALUE](#week-2-place-value) · 91
-  - [WEEK 3 — WRITING NUMBERS IN WORDS](#week-3-writing-numbers-in-words) · 91
-  - [WEEK 4 — WRITING WORDS IN FIGURES](#week-4-writing-words-in-figures) · 92
-  - [WEEK 5 — ADDITION (INTRODUCTION)](#week-5-addition-introduction) · 93
-  - [WEEK 6 — ADDITION](#week-6-addition) · 94
-  - [WEEK 8 — SUBTRACTION (INTRODUCTION)](#week-8-subtraction-introduction) · 95
-  - [WEEK 9 — SUBTRACTION](#week-9-subtraction) · 95
-- **[General Knowledge](#general-knowledge)** · 97
-  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 97
-  - [WEEK 2 — MY FAMILY: MEMBERS AND THEIR ROLES](#week-2-my-family-members-and-their-roles) · 97
-  - [WEEK 3 — MY SCHOOL: PLACES, PEOPLE AND THINGS](#week-3-my-school-places-people-and-things) · 98
-  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 99
-  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 100
-  - [WEEK 6 — COLOURS, SHAPES AND SIZES AROUND ME](#week-6-colours-shapes-and-sizes-around-me) · 100
-  - [WEEK 8 — ANIMALS AND BIRDS AROUND ME](#week-8-animals-and-birds-around-me) · 101
-  - [WEEK 9 — GOOD HABITS: GREETINGS, POLITENESS AND CLEANLINESS](#week-9-good-habits-greetings-politeness-and-cleanliness) · 102
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · First Term)](#examination-practice-basic-science-nursery-2-first-term)** · 104
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-nursery-2-1st-term)** · 106
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 1st Term)](#examination-practice-christian-religious-studies-nursery-2-1st-term)** · 108
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 1st Term)](#examination-practice-basic-digital-literacy-nursery-2-1st-term)** · 110
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY ( · )](#examination-practice-nigerian-history)** · 112
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 1st Term)](#examination-practice-physical-and-health-education-nursery-2-1st-term)** · 115
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 1st Term)](#examination-practice-prevocational-studies-nursery-2-1st-term)** · 118
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-nursery-2-1st-term)** · 120
-- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 1st Term)](#examination-practice-yoruba-nursery-2-1st-term)** · 123
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-1st-term)** · 125
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-1st-term)** · 127
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-numeracy-nursery-2-1st-term)** · 129
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE ( · )](#examination-practice-general-knowledge)** · 131
+  - [WEEK 2 — SINGLE SOUNDS: d, a, i, m](#week-2-single-sounds-d-a-i-m) · 78
+  - [WEEK 3 — SIGHT WORDS: You, Me, Her, We](#week-3-sight-words-you-me-her-we) · 79
+  - [WEEK 4 — SIGHT WORDS: I, Go, Car](#week-4-sight-words-i-go-car) · 80
+  - [WEEK 5 — DIGRAPH: th, ck, wh](#week-5-digraph-th-ck-wh) · 81
+  - [WEEK 6 — SIGHT WORDS: The, This, They](#week-6-sight-words-the-this-they) · 83
+  - [WEEK 8 — DIGRAPH: ph, sh, ch](#week-8-digraph-ph-sh-ch) · 84
+  - [WEEK 9 — SIGHT WORDS: Photo, She, Chart · CONSONANT BLENDS: Play, Fly, Greet](#week-9-sight-words-photo-she-chart-consonant-blends-play-fly-greet) · 85
+  - [WEEK 1 — REVIEW OF ALPHABET: Aa – Ff](#week-1-review-of-alphabet-aa-ff) · 86
+  - [WEEK 2 — REVIEW OF ALPHABET: Gg – Ll](#week-2-review-of-alphabet-gg-ll) · 87
+  - [WEEK 3 — REVIEW OF ALPHABET: Mm – Rr](#week-3-review-of-alphabet-mm-rr) · 88
+  - [WEEK 4 — REVIEW OF ALPHABET: Ss – Zz](#week-4-review-of-alphabet-ss-zz) · 89
+  - [WEEK 5 — THREE-LETTER WORDS: CVC PATTERN (Part 1)](#week-5-three-letter-words-cvc-pattern-part-1) · 89
+  - [WEEK 6 — THREE-LETTER WORDS: CVC PATTERN (Part 2)](#week-6-three-letter-words-cvc-pattern-part-2) · 90
+  - [WEEK 8 — THREE-LETTER WORDS: CVC PATTERN (Part 3)](#week-8-three-letter-words-cvc-pattern-part-3) · 91
+  - [WEEK 9 — STORY TELLING AND LETTER WORK INTEGRATION](#week-9-story-telling-and-letter-work-integration) · 92
+  - [WEEK 1 — WHOLE NUMBERS 1–200](#week-1-whole-numbers-1200) · 93
+  - [WEEK 2 — PLACE VALUE](#week-2-place-value) · 94
+  - [WEEK 3 — WRITING NUMBERS IN WORDS](#week-3-writing-numbers-in-words) · 94
+  - [WEEK 4 — WRITING WORDS IN FIGURES](#week-4-writing-words-in-figures) · 95
+  - [WEEK 5 — ADDITION (INTRODUCTION)](#week-5-addition-introduction) · 96
+  - [WEEK 6 — ADDITION](#week-6-addition) · 97
+  - [WEEK 8 — SUBTRACTION (INTRODUCTION)](#week-8-subtraction-introduction) · 97
+  - [WEEK 9 — SUBTRACTION](#week-9-subtraction) · 98
+- **[General Knowledge](#general-knowledge)** · 100
+  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 100
+  - [WEEK 2 — MY FAMILY: MEMBERS AND THEIR ROLES](#week-2-my-family-members-and-their-roles) · 100
+  - [WEEK 3 — MY SCHOOL: PLACES, PEOPLE AND THINGS](#week-3-my-school-places-people-and-things) · 101
+  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 102
+  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 103
+  - [WEEK 6 — COLOURS, SHAPES AND SIZES AROUND ME](#week-6-colours-shapes-and-sizes-around-me) · 103
+  - [WEEK 8 — ANIMALS AND BIRDS AROUND ME](#week-8-animals-and-birds-around-me) · 104
+  - [WEEK 9 — GOOD HABITS: GREETINGS, POLITENESS AND CLEANLINESS](#week-9-good-habits-greetings-politeness-and-cleanliness) · 105
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · First Term)](#examination-practice-basic-science-nursery-2-first-term)** · 107
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-nursery-2-1st-term)** · 109
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 1st Term)](#examination-practice-christian-religious-studies-nursery-2-1st-term)** · 111
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 1st Term)](#examination-practice-basic-digital-literacy-nursery-2-1st-term)** · 113
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY ( · )](#examination-practice-nigerian-history)** · 115
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 1st Term)](#examination-practice-physical-and-health-education-nursery-2-1st-term)** · 118
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 1st Term)](#examination-practice-prevocational-studies-nursery-2-1st-term)** · 121
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-nursery-2-1st-term)** · 123
+- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 1st Term)](#examination-practice-yoruba-nursery-2-1st-term)** · 126
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-1st-term)** · 128
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-1st-term)** · 130
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-numeracy-nursery-2-1st-term)** · 132
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE ( · )](#examination-practice-general-knowledge)** · 134
 
 
 
@@ -4136,6 +4136,8 @@ The vowels are a, e, i, o, u. The other 21 letters are consonants. Every word ha
 3. Circle the vowels in your name.
 4. Is "m" a vowel or a consonant, and how do you know?
 
+
+![One basket of five cards and one basket with a heap of cards.](assets/img/nursery-2/1st-term/mathematics-english-language/week1-two-baskets-of-cards.png)
 **Worksheet**
 
 1. The five vowels are A) a, e, i, o, u B) a, b, c, d, e C) x, y, z, w, q D) b, c, d, f, g
@@ -4190,6 +4192,8 @@ d a i m — /d/ dog, /a/ apple, /i/ ink, /m/ mum. d-a-d = dad. m-a-d = mad. d-i-
 4. Which of our four letters needs a dot?
 5. Say a word that ends with /d/.
 
+
+![Four blank tiles in a row with a pencil.](assets/img/nursery-2/1st-term/mathematics-english-language/week2-four-blank-tiles.png)
 **Worksheet**
 
 1. The first sound in "mum" is A) /m/ B) /u/ C) /d/ D) /n/
@@ -4243,6 +4247,8 @@ you · me · her · we — I read them without spelling. "We see her."
 3. Make a sentence with "we".
 4. Which of these four words is about a girl?
 
+
+![Four blank folded cards standing in a row.](assets/img/nursery-2/1st-term/mathematics-english-language/week3-four-sight-word-cards.png)
 **Worksheet**
 
 1. The word that points at the person being spoken to is A) her B) me C) you D) we
@@ -4296,6 +4302,8 @@ I · go · car. "I" is always big. Sentences: I go. We go. I see a car.
 3. Which of this week's words is a doing word?
 4. Make a sentence that has "car" and "we".
 
+
+![Three blank cards with a small toy car.](assets/img/nursery-2/1st-term/mathematics-english-language/week4-three-cards-and-a-car.png)
 **Worksheet**
 
 1. The word "I" is written A) always a capital B) always small C) only at the start D) with a dot
@@ -4348,6 +4356,8 @@ A digraph is two letters, one sound. th: this, bath. ck: duck, clock. wh: what, 
 4. Which two letters are in "what"?
 5. Is "sh" a digraph? Why?
 
+
+![Three blank cards beside a hand bell for hearing sounds.](assets/img/nursery-2/1st-term/mathematics-english-language/week5-three-cards-and-a-bell.png)
 **Worksheet**
 
 1. A digraph is A) a capital letter B) a word with six letters C) two letters making one sound D) two sounds in one letter
@@ -4399,6 +4409,8 @@ the · this · they — all start with the th digraph. "This is the car." "They 
 3. Point at one thing and say a sentence with "this".
 4. What do "the", "this" and "they" have in common at the start?
 
+
+![Three blank cards standing on a low shelf.](assets/img/nursery-2/1st-term/mathematics-english-language/week6-three-cards-on-the-shelf.png)
 **Worksheet**
 
 1. "the", "this" and "they" all begin with A) wh B) th C) sh D) ch
@@ -4452,6 +4464,8 @@ ph = /f/ (phone, photo). sh (ship, fish). ch (chair, much). Six digraphs now: th
 4. In "elephant", which letters say /f/?
 5. Which digraph is in "lunch"?
 
+
+![A telephone, a fish and a chair in a row.](assets/img/nursery-2/1st-term/mathematics-english-language/week8-telephone-fish-and-chair.png)
 **Worksheet**
 
 1. "ph" is pronounced like A) f B) v C) p D) ph
@@ -4507,6 +4521,8 @@ photo · she · chart. Blends: pl (play), fl (fly), gr (greet). A blend keeps bo
 4. Is "sh" a blend or a digraph, and how do you know?
 5. Read this sentence: "They play in the green grass."
 
+
+![A camera, a blank chart on an easel and a ball.](assets/img/nursery-2/1st-term/mathematics-english-language/week9-camera-chart-and-ball.png)
 **Worksheet**
 
 1. "photo", "she" and "chart" each contain A) six letters B) two vowels C) a blend D) a digraph

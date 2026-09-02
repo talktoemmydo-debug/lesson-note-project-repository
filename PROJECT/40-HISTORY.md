@@ -691,3 +691,13 @@ the friendly dinosaur, the pig, the straw-bead necklace and bracelet, the umbrel
 star/heart/ring prints, and the plasticine figure. **CCA is 8 of 8 and leaves the ledger**; the First Term book
 rebuilt at **24 plates · 132 pages · 129/129 Contents numbers · book and file gates ok**, the ledger now
 **40 owed over 5 files**, scratch emptied.
+
+## 2 Sep 2026 — First Term mathematics-english-language swept whole, eight blank-card scenes
+
+The language domain keeps every writing surface blank, so all eight First Term plates are object scenes with empty
+cards, tiles and boards — the never-doubles shape — and every count was read against the lesson before import (five
+vowel cards against a heap; four tiles; four sight-word cards; three cards and a car; three cards and a bell; three
+cards on a shelf; telephone, fish and chair for ph/sh/ch sounds; a camera with a blank chart for photo/chart). All
+eight passed the margin count at 0 and were imported; **mathematics-english-language is 8 of 8 and leaves the
+ledger**, the First Term book rebuilt at **32 plates · 135 pages · 129/129 Contents numbers · book and file gates
+ok**, the ledger now **32 owed over 4 files**, scratch emptied.

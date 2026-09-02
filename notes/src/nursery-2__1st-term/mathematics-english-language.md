@@ -41,6 +41,8 @@ The vowels are a, e, i, o, u. The other 21 letters are consonants. Every word ha
 3. Circle the vowels in your name.
 4. Is "m" a vowel or a consonant, and how do you know?
 
+
+![One basket of five cards and one basket with a heap of cards.](assets/img/nursery-2/1st-term/mathematics-english-language/week1-two-baskets-of-cards.png)
 **Worksheet**
 
 1. The five vowels are A) a, e, i, o, u B) a, b, c, d, e C) x, y, z, w, q D) b, c, d, f, g
@@ -95,6 +97,8 @@ d a i m — /d/ dog, /a/ apple, /i/ ink, /m/ mum. d-a-d = dad. m-a-d = mad. d-i-
 4. Which of our four letters needs a dot?
 5. Say a word that ends with /d/.
 
+
+![Four blank tiles in a row with a pencil.](assets/img/nursery-2/1st-term/mathematics-english-language/week2-four-blank-tiles.png)
 **Worksheet**
 
 1. The first sound in "mum" is A) /m/ B) /u/ C) /d/ D) /n/
@@ -148,6 +152,8 @@ you · me · her · we — I read them without spelling. "We see her."
 3. Make a sentence with "we".
 4. Which of these four words is about a girl?
 
+
+![Four blank folded cards standing in a row.](assets/img/nursery-2/1st-term/mathematics-english-language/week3-four-sight-word-cards.png)
 **Worksheet**
 
 1. The word that points at the person being spoken to is A) her B) me C) you D) we
@@ -201,6 +207,8 @@ I · go · car. "I" is always big. Sentences: I go. We go. I see a car.
 3. Which of this week's words is a doing word?
 4. Make a sentence that has "car" and "we".
 
+
+![Three blank cards with a small toy car.](assets/img/nursery-2/1st-term/mathematics-english-language/week4-three-cards-and-a-car.png)
 **Worksheet**
 
 1. The word "I" is written A) always a capital B) always small C) only at the start D) with a dot
@@ -253,6 +261,8 @@ A digraph is two letters, one sound. th: this, bath. ck: duck, clock. wh: what, 
 4. Which two letters are in "what"?
 5. Is "sh" a digraph? Why?
 
+
+![Three blank cards beside a hand bell for hearing sounds.](assets/img/nursery-2/1st-term/mathematics-english-language/week5-three-cards-and-a-bell.png)
 **Worksheet**
 
 1. A digraph is A) a capital letter B) a word with six letters C) two letters making one sound D) two sounds in one letter
@@ -304,6 +314,8 @@ the · this · they — all start with the th digraph. "This is the car." "They 
 3. Point at one thing and say a sentence with "this".
 4. What do "the", "this" and "they" have in common at the start?
 
+
+![Three blank cards standing on a low shelf.](assets/img/nursery-2/1st-term/mathematics-english-language/week6-three-cards-on-the-shelf.png)
 **Worksheet**
 
 1. "the", "this" and "they" all begin with A) wh B) th C) sh D) ch
@@ -357,6 +369,8 @@ ph = /f/ (phone, photo). sh (ship, fish). ch (chair, much). Six digraphs now: th
 4. In "elephant", which letters say /f/?
 5. Which digraph is in "lunch"?
 
+
+![A telephone, a fish and a chair in a row.](assets/img/nursery-2/1st-term/mathematics-english-language/week8-telephone-fish-and-chair.png)
 **Worksheet**
 
 1. "ph" is pronounced like A) f B) v C) p D) ph
@@ -412,6 +426,8 @@ photo · she · chart. Blends: pl (play), fl (fly), gr (greet). A blend keeps bo
 4. Is "sh" a blend or a digraph, and how do you know?
 5. Read this sentence: "They play in the green grass."
 
+
+![A camera, a blank chart on an easel and a ball.](assets/img/nursery-2/1st-term/mathematics-english-language/week9-camera-chart-and-ball.png)
 **Worksheet**
 
 1. "photo", "she" and "chart" each contain A) six letters B) two vowels C) a blend D) a digraph
