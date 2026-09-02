@@ -802,3 +802,5 @@ all well formed, `make_exam --strict` PASS (A=8 B=7 C=7 D=8), worksheets shuffle
 `gates.py` ALL CLEAR with `[half]` (6 of 11).
 
 * **Primary 1 First Term — PHE authored (7 of 11).** Eight weeks: running/50m dash, shuttle run, local games (suwe/ten-ten/boju-boju), running posture, toilet hygiene + handwashing, personal hygiene, body care, keeping our surroundings clean. polish_audit caught 2 real fixes: 'environmental' is a banned grown-up register word (3 hits) and wk4 repeated wk1's 'posture' bullet — both reworded. sheet_check clean, make_exam --strict PASS (A=8 B=7 C=8 D=7, exploitable-longest 0), worksheets shuffled (168 items), polish 0-to-fix, gates ALL CLEAR.
+
+* **Primary 1 First Term — Prevocational Studies authored (8 of 11).** Eight weeks: what pre-vocational studies is, simple farm tools, crops, animals we keep, simple food preparation, cleanliness at home, simple crafts, working safely. sheet_check clean, make_exam --strict PASS (A=8 B=7 C=7 D=8, exploitable-longest 0), worksheets shuffled (168 items), polish 0-to-fix, gates ALL CLEAR.
