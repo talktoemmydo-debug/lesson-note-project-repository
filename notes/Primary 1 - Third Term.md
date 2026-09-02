@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 3 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 4 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*3 subjects · 24 lessons · 3 term practice papers. Each part begins on a fresh page.*
+*4 subjects · 32 lessons · 4 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 2
   - [WEEK 1 — ENERGY AROUND US](#week-1-energy-around-us) · 2
@@ -23,27 +23,37 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — MAGNETS](#week-6-magnets) · 5
   - [WEEK 8 — WASTE AND RECYCLING](#week-8-waste-and-recycling) · 6
   - [WEEK 9 — CARING FOR OUR ENVIRONMENT](#week-9-caring-for-our-environment) · 6
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 8
-  - [WEEK 1 — JESUS TEACHES US TO LOVE](#week-1-jesus-teaches-us-to-love) · 8
-  - [WEEK 2 — THE PARABLE OF THE GOOD SAMARITAN](#week-2-the-parable-of-the-good-samaritan) · 8
-  - [WEEK 3 — THE PARABLE OF THE LOST SHEEP](#week-3-the-parable-of-the-lost-sheep) · 9
-  - [WEEK 4 — THE LORD'S PRAYER](#week-4-the-lords-prayer) · 10
-  - [WEEK 5 — JESUS IS ARRESTED](#week-5-jesus-is-arrested) · 10
-  - [WEEK 6 — THE DEATH OF JESUS](#week-6-the-death-of-jesus) · 11
-  - [WEEK 8 — JESUS RISES AGAIN](#week-8-jesus-rises-again) · 12
-  - [WEEK 9 — JESUS SENDS HIS DISCIPLES](#week-9-jesus-sends-his-disciples) · 12
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 14
-  - [WEEK 1 — STORING OUR WORK](#week-1-storing-our-work) · 14
-  - [WEEK 2 — THE INTERNET](#week-2-the-internet) · 14
-  - [WEEK 3 — SENDING A MESSAGE](#week-3-sending-a-message) · 15
-  - [WEEK 4 — LEARNING SOFTWARE](#week-4-learning-software) · 16
-  - [WEEK 5 — COMPUTERS IN DAILY LIFE](#week-5-computers-in-daily-life) · 16
-  - [WEEK 6 — PEOPLE WHO WORK WITH COMPUTERS](#week-6-people-who-work-with-computers) · 17
-  - [WEEK 8 — BEING SAFE ONLINE](#week-8-being-safe-online) · 18
-  - [WEEK 9 — CARING FOR OUR DEVICES](#week-9-caring-for-our-devices) · 18
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 20
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)](#examination-practice-christian-religious-studies-primary-1-3rd-term)** · 22
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 24
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
+  - [WEEK 1 — PATTERNS AND DESIGN](#week-1-patterns-and-design) · 8
+  - [WEEK 2 — PRINTMAKING](#week-2-printmaking) · 8
+  - [WEEK 3 — WEAVING AND BASKETRY](#week-3-weaving-and-basketry) · 9
+  - [WEEK 4 — POTTERY AND CLAY WORK](#week-4-pottery-and-clay-work) · 10
+  - [WEEK 5 — FOLK SONGS AND RHYMES](#week-5-folk-songs-and-rhymes) · 10
+  - [WEEK 6 — CULTURAL DANCES](#week-6-cultural-dances) · 11
+  - [WEEK 8 — PUPPETRY AND MASQUERADE](#week-8-puppetry-and-masquerade) · 12
+  - [WEEK 9 — OUR CULTURAL HERITAGE](#week-9-our-cultural-heritage) · 12
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 14
+  - [WEEK 1 — JESUS TEACHES US TO LOVE](#week-1-jesus-teaches-us-to-love) · 14
+  - [WEEK 2 — THE PARABLE OF THE GOOD SAMARITAN](#week-2-the-parable-of-the-good-samaritan) · 14
+  - [WEEK 3 — THE PARABLE OF THE LOST SHEEP](#week-3-the-parable-of-the-lost-sheep) · 15
+  - [WEEK 4 — THE LORD'S PRAYER](#week-4-the-lords-prayer) · 16
+  - [WEEK 5 — JESUS IS ARRESTED](#week-5-jesus-is-arrested) · 16
+  - [WEEK 6 — THE DEATH OF JESUS](#week-6-the-death-of-jesus) · 17
+  - [WEEK 8 — JESUS RISES AGAIN](#week-8-jesus-rises-again) · 18
+  - [WEEK 9 — JESUS SENDS HIS DISCIPLES](#week-9-jesus-sends-his-disciples) · 18
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 20
+  - [WEEK 1 — STORING OUR WORK](#week-1-storing-our-work) · 20
+  - [WEEK 2 — THE INTERNET](#week-2-the-internet) · 20
+  - [WEEK 3 — SENDING A MESSAGE](#week-3-sending-a-message) · 21
+  - [WEEK 4 — LEARNING SOFTWARE](#week-4-learning-software) · 22
+  - [WEEK 5 — COMPUTERS IN DAILY LIFE](#week-5-computers-in-daily-life) · 22
+  - [WEEK 6 — PEOPLE WHO WORK WITH COMPUTERS](#week-6-people-who-work-with-computers) · 23
+  - [WEEK 8 — BEING SAFE ONLINE](#week-8-being-safe-online) · 24
+  - [WEEK 9 — CARING FOR OUR DEVICES](#week-9-caring-for-our-devices) · 24
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 3rd Term)](#examination-practice-basic-science-primary-1-3rd-term)** · 26
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 3rd Term)](#examination-practice-cultural-and-creative-arts-primary-1-3rd-term)** · 28
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 3rd Term)](#examination-practice-christian-religious-studies-primary-1-3rd-term)** · 30
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-1-3rd-term)** · 32
 
 
 
@@ -649,6 +659,610 @@ written for them.
 **My own work**
 
 • Draw a clean environment with a tree.
+
+
+---
+
+# Cultural and Creative Arts (CCA)
+
+These are the notes for the third term of Primary 1. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 1 · Cultural and Creative Arts · Third Term W1-6, 8-9 (patterns and design; printmaking; weaving and basketry; pottery and clay work; folk songs and rhymes; cultural dances; puppetry and masquerade; our cultural heritage).*
+
+
+### WEEK 1 — PATTERNS AND DESIGN
+
+**You will learn to**
+
+• say what a pattern is
+
+• make simple patterns
+
+• use patterns in art
+
+**Things to know**
+
+• A **pattern** is a design that repeats.
+
+• We can make a pattern with lines, shapes or colours.
+
+• A pattern can go up and down or side to side.
+
+• We see patterns on cloth, walls and mats.
+
+• We can draw a pattern of circles or triangles.
+
+• A **design** is a plan for a picture or pattern.
+
+• Patterns make our art beautiful.
+
+• We can colour a pattern with two colours.
+
+• Our people use patterns on cloth and pots.
+
+• Making patterns is fun.
+
+**Let us talk**
+
+1. What is a pattern?
+
+2. What can we use to make a pattern?
+
+3. Where do we see patterns?
+
+**Words for my notebook**
+
+• pattern — a design that repeats
+
+• design — a plan for a picture or pattern
+
+• repeat — to do again and again
+
+**Worksheet**
+
+1. A design that repeats is a ___.
+   A) pattern B) song C) sound D) smell
+
+2. We can make a pattern with lines, shapes or ___.
+   A) colours B) stones C) water D) smoke
+
+3. We see patterns on cloth, walls and ___.
+   A) mats B) sky C) fire D) dust
+
+4. A ___ is a plan for a picture or pattern.
+   A) design B) noise C) taste D) game
+
+5. Fill in: To do again and again is to _____.
+
+6. Mention two things we can use to make a pattern.
+
+7. Write what a pattern is.
+
+**My own work**
+
+• Draw and colour a repeating pattern.
+
+---
+
+### WEEK 2 — PRINTMAKING
+
+**You will learn to**
+
+• say what printmaking is
+
+• make a simple print
+
+• use objects to print
+
+**Things to know**
+
+• **Printmaking** is making a picture by pressing.
+
+• We dip an object in paint and press it on paper.
+
+• We can print with a **leaf**, a **finger** or a **potato**.
+
+• The mark we make is a **print**.
+
+• We can print the same shape many times.
+
+• Prints can make a pattern.
+
+• We use paint and paper to print.
+
+• Printmaking is clean and fun.
+
+• Our people print designs on cloth.
+
+• We let the print dry.
+
+**Let us talk**
+
+1. What is printmaking?
+
+2. Name one thing we can print with.
+
+3. What is a print?
+
+**Words for my notebook**
+
+• printmaking — making a picture by pressing
+
+• print — the mark we make by pressing
+
+• press — to push down on
+
+**Worksheet**
+
+1. Printmaking is making a picture by ___.
+   A) pressing B) singing C) sleeping D) running
+
+2. We can print with a leaf, a finger or a ___.
+   A) potato B) stone C) fire D) cloud
+
+3. The mark we make is a ___.
+   A) print B) song C) sound D) taste
+
+4. We dip an object in ___ and press it on paper.
+   A) paint B) water C) sand D) oil
+
+5. Fill in: To push down on is to _____.
+
+6. Mention two things we can print with.
+
+7. Write what printmaking is.
+
+**My own work**
+
+• Make or draw a simple print.
+
+---
+
+### WEEK 3 — WEAVING AND BASKETRY
+
+**You will learn to**
+
+• say what weaving is
+
+• weave with paper or straw
+
+• make a simple basket or mat
+
+**Things to know**
+
+• **Weaving** is crossing strands over and under.
+
+• We weave with **straw**, **paper** or **cane**.
+
+• We can weave a **mat** or a **basket**.
+
+• We cross one strand over, then under.
+
+• We keep weaving until the mat is big.
+
+• Weaving needs patience.
+
+• Our people weave beautiful mats and baskets.
+
+• We use woven things at home.
+
+• Weaving is a useful craft.
+
+• We can make a paper weave in class.
+
+**Let us talk**
+
+1. What is weaving?
+
+2. What do we weave with?
+
+3. Name one thing we can weave.
+
+**Words for my notebook**
+
+• weaving — crossing strands over and under
+
+• mat — a woven thing we sit or sleep on
+
+• basket — a woven container
+
+**Worksheet**
+
+1. Weaving is crossing strands over and ___.
+   A) under B) over only C) round D) through
+
+2. We weave with straw, paper or ___.
+   A) cane B) water C) fire D) smoke
+
+3. We can weave a mat or a ___.
+   A) basket B) song C) stone D) cloud
+
+4. Weaving needs ___.
+   A) patience B) anger C) noise D) haste
+
+5. Fill in: A woven thing we sit or sleep on is a _____.
+
+6. Mention two things we can weave.
+
+7. Write what weaving is.
+
+**My own work**
+
+• Weave paper or draw a woven mat.
+
+---
+
+### WEEK 4 — POTTERY AND CLAY WORK
+
+**You will learn to**
+
+• say what pottery is
+
+• mould with clay
+
+• make a simple pot
+
+**Things to know**
+
+• **Pottery** is making things from clay.
+
+• **Clay** is soft earth we can mould.
+
+• We can mould a **pot**, a **cup** or a **bowl**.
+
+• We roll, press and shape the clay.
+
+• We make the clay smooth.
+
+• We let the clay dry, then it hardens.
+
+• Our people make pots for water and cooking.
+
+• Pottery is an old and useful craft.
+
+• We can decorate a pot with patterns.
+
+• Pottery is part of our culture.
+
+**Let us talk**
+
+1. What is pottery?
+
+2. What do we mould with?
+
+3. Name one thing we can mould.
+
+**Words for my notebook**
+
+• pottery — making things from clay
+
+• clay — soft earth we mould
+
+• mould — to shape soft material
+
+**Worksheet**
+
+1. Pottery is making things from ___.
+   A) clay B) water C) fire D) sand
+
+2. We can mould a pot, a cup or a ___.
+   A) bowl B) song C) cloud D) stone
+
+3. We let the clay dry and it ___.
+   A) hardens B) melts C) burns D) flies
+
+4. Our people make pots for water and ___.
+   A) cooking B) sleeping C) singing D) running
+
+5. Fill in: To shape soft material is to _____.
+
+6. Mention two things we can mould from clay.
+
+7. Write what pottery is.
+
+**My own work**
+
+• Mould or draw a clay pot.
+
+---
+
+### WEEK 5 — FOLK SONGS AND RHYMES
+
+**You will learn to**
+
+• sing folk songs
+
+• say what a folk song is
+
+• enjoy our songs
+
+**Things to know**
+
+• A **folk song** is a song of our people.
+
+• Folk songs are old and passed down.
+
+• We sing folk songs at home and festivals.
+
+• Folk songs tell stories and teach us.
+
+• A **rhyme** has words that sound the same.
+
+• We can clap and sing folk songs.
+
+• Folk songs are in our own language.
+
+• Our people have many folk songs.
+
+• Folk songs make us happy.
+
+• We keep our folk songs alive.
+
+**Let us talk**
+
+1. What is a folk song?
+
+2. When do we sing folk songs?
+
+3. What do folk songs do?
+
+**Words for my notebook**
+
+• folk song — a song of our people
+
+• rhyme — words that sound the same
+
+• pass down — to give from older to younger
+
+**Worksheet**
+
+1. A song of our people is a ___ song.
+   A) folk B) foreign C) new only D) strange
+
+2. Folk songs are old and ___ down.
+   A) passed B) thrown C) lost D) hidden
+
+3. We sing folk songs at home and ___.
+   A) festivals B) exams C) sleep D) fights
+
+4. Folk songs tell stories and ___ us.
+   A) teach B) frighten C) hurt D) hide
+
+5. Fill in: Words that sound the same are a _____.
+
+6. Mention two places we sing folk songs.
+
+7. Write what a folk song is.
+
+**My own work**
+
+• Draw something that makes music.
+
+---
+
+### WEEK 6 — CULTURAL DANCES
+
+**You will learn to**
+
+• name cultural dances
+
+• dance a cultural dance
+
+• respect our dances
+
+**Things to know**
+
+• A **cultural dance** is a dance of our people.
+
+• Each ethnic group has its own dance.
+
+• The **Bata** dance is a Yoruba dance.
+
+• The **Atilogwu** dance is an Igbo dance.
+
+• The **Swange** dance is a Tiv dance.
+
+• We dance at festivals and ceremonies.
+
+• We dance to the beat of the drum.
+
+• Cultural dances tell stories.
+
+• We wear special clothes for cultural dances.
+
+• Cultural dances are part of our heritage.
+
+**Let us talk**
+
+1. What is a cultural dance?
+
+2. Name one cultural dance.
+
+3. When do we dance cultural dances?
+
+**Words for my notebook**
+
+• cultural dance — a dance of our people
+
+• heritage — what our people pass down to us
+
+• beat — the time we dance to
+
+**Worksheet**
+
+1. A dance of our people is a ___ dance.
+   A) cultural B) foreign C) strange D) new only
+
+2. The Bata dance is a ___ dance.
+   A) Yoruba B) Hausa C) foreign D) school
+
+3. We dance to the ___ of the drum.
+   A) beat B) colour C) smell D) taste
+
+4. Cultural dances tell ___.
+   A) stories B) lies C) secrets D) nothing
+
+5. Fill in: What our people pass down to us is our _____.
+
+6. Mention two cultural dances.
+
+7. Write what a cultural dance is.
+
+**My own work**
+
+• Draw myself dancing a cultural dance.
+
+---
+
+### WEEK 8 — PUPPETRY AND MASQUERADE
+
+**You will learn to**
+
+• say what a puppet is
+
+• say what a masquerade is
+
+• enjoy puppet and masquerade shows
+
+**Things to know**
+
+• A **puppet** is a doll we move to act a story.
+
+• We move a puppet with strings or our hand.
+
+• A puppet show tells a story.
+
+• A **masquerade** is a masked dancer.
+
+• Masquerades dance at festivals.
+
+• Masquerades wear masks and costumes.
+
+• Puppetry and masquerade are part of our culture.
+
+• They tell stories and teach us.
+
+• We watch puppet and masquerade shows with joy.
+
+• We can make a simple puppet.
+
+**Let us talk**
+
+1. What is a puppet?
+
+2. What is a masquerade?
+
+3. When do masquerades dance?
+
+**Words for my notebook**
+
+• puppet — a doll we move to act a story
+
+• masquerade — a masked dancer at a festival
+
+• costume — the dress worn for a show
+
+**Worksheet**
+
+1. A doll we move to act a story is a ___.
+   A) puppet B) stone C) pot D) mat
+
+2. A masked dancer at a festival is a ___.
+   A) masquerade B) puppet C) drum D) flute
+
+3. We move a puppet with strings or our ___.
+   A) hand B) foot only C) ear D) nose
+
+4. Masquerades wear masks and ___.
+   A) costumes B) shoes only C) books D) stones
+
+5. Fill in: The dress worn for a show is a _____.
+
+6. Mention two things about masquerades.
+
+7. Write what a puppet is.
+
+**My own work**
+
+• Draw a puppet or a masquerade.
+
+---
+
+### WEEK 9 — OUR CULTURAL HERITAGE
+
+**You will learn to**
+
+• say what cultural heritage is
+
+• name parts of our heritage
+
+• value our heritage
+
+**Things to know**
+
+• **Cultural heritage** is what our people pass down to us.
+
+• Our heritage includes our **language**, **music** and **dance**.
+
+• Our heritage includes our **crafts**, **food** and **dress**.
+
+• Our heritage includes our **festivals** and **stories**.
+
+• Heritage shows who we are.
+
+• We learn our heritage from our elders.
+
+• We keep our heritage alive.
+
+• We are proud of our heritage.
+
+• Heritage makes us different and special.
+
+• We share our heritage with others.
+
+**Let us talk**
+
+1. What is cultural heritage?
+
+2. Name one part of our heritage.
+
+3. How do we keep our heritage alive?
+
+**Words for my notebook**
+
+• cultural heritage — what our people pass down to us
+
+• language — the way our people speak
+
+• value — to hold as important
+
+**Worksheet**
+
+1. What our people pass down to us is our cultural ___.
+   A) heritage B) noise C) dust D) sleep
+
+2. Our heritage includes our language, music and ___.
+   A) dance B) smoke C) fire D) stone
+
+3. Our heritage includes our crafts, food and ___.
+   A) dress B) cars C) planes D) phones
+
+4. We learn our heritage from our ___.
+   A) elders B) pets C) toys D) shoes
+
+5. Fill in: To hold as important is to _____.
+
+6. Mention two parts of our cultural heritage.
+
+7. Write what cultural heritage is.
+
+**My own work**
+
+• Draw one part of our cultural heritage.
 
 
 ---
@@ -2043,6 +2657,192 @@ Answer in full sentences.
 43. Name two simple machines and what each does. (2 marks)
 44. What does a magnet attract? (2 marks)
 45. Name two ways to care for our environment. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 3rd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. A design that repeats is a ___
+   A) pattern
+   B) sound
+   C) song
+   D) smell
+2. We can make a pattern with lines, shapes or ___
+   A) water
+   B) smoke
+   C) colours
+   D) stones
+3. We see patterns on cloth, walls and ___
+   A) sky
+   B) fire
+   C) dust
+   D) mats
+4. A ___ is a plan for a picture or pattern
+   A) design
+   B) noise
+   C) game
+   D) taste
+5. Printmaking is making a picture by ___
+   A) running
+   B) pressing
+   C) singing
+   D) sleeping
+6. We can print with a leaf, a finger or a ___
+   A) fire
+   B) cloud
+   C) potato
+   D) stone
+7. The mark we make is a ___
+   A) print
+   B) song
+   C) taste
+   D) sound
+8. We dip an object in ___ and press it on paper
+   A) sand
+   B) oil
+   C) water
+   D) paint
+9. Weaving is crossing strands over and ___
+   A) over
+   B) under
+   C) round
+   D) through
+10. We weave with straw, paper or ___
+   A) fire
+   B) water
+   C) cane
+   D) smoke
+11. We can weave a mat or a ___
+   A) basket
+   B) stone
+   C) song
+   D) cloud
+12. Weaving needs ___
+   A) haste
+   B) patience
+   C) anger
+   D) noise
+13. Pottery is making things from ___
+   A) fire
+   B) sand
+   C) water
+   D) clay
+14. We can mould a pot, a cup or a ___
+   A) song
+   B) cloud
+   C) bowl
+   D) stone
+15. We let the clay dry and it ___
+   A) hardens
+   B) melts
+   C) flies
+   D) burns
+16. A song of our people is a ___ song
+   A) strange
+   B) folk
+   C) new
+   D) foreign
+17. Folk songs are old and ___ down
+   A) hidden
+   B) thrown
+   C) lost
+   D) passed
+18. We sing folk songs at home and ___
+   A) exams
+   B) fights
+   C) festivals
+   D) sleep
+19. A dance of our people is a ___ dance
+   A) foreign
+   B) cultural
+   C) new
+   D) strange
+20. The Bata dance is a ___ dance
+   A) Yoruba
+   B) foreign
+   C) Hausa
+   D) school
+21. We dance to the ___ of the drum
+   A) taste
+   B) colour
+   C) smell
+   D) beat
+22. A doll we move to act a story is a ___
+   A) stone
+   B) pot
+   C) puppet
+   D) mat
+23. A masked dancer at a festival is a ___
+   A) masquerade
+   B) drum
+   C) puppet
+   D) flute
+24. Masquerades wear masks and ___
+   A) shoes
+   B) books
+   C) stones
+   D) costumes
+25. What our people pass down to us is our cultural ___
+   A) sleep
+   B) heritage
+   C) noise
+   D) dust
+26. Our heritage includes our language, music and ___
+   A) stone
+   B) fire
+   C) dance
+   D) smoke
+27. Our heritage includes our crafts, food and ___
+   A) phones
+   B) cars
+   C) planes
+   D) dress
+28. We learn our heritage from our ___
+   A) shoes
+   B) elders
+   C) pets
+   D) toys
+29. To hold as important is to ___
+   A) lose
+   B) hide
+   C) value
+   D) break
+30. Patterns make our art ___
+   A) beautiful
+   B) dark
+   C) loud
+   D) ugly
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two things we can use to make a pattern
+32. Name two things we can print with
+33. Name two things we can weave
+34. Name two things we can mould from clay
+35. Name two places we sing folk songs
+36. Name two cultural dances
+37. Name two things about masquerades
+38. Name two parts of our cultural heritage
+39. Name two craft materials
+40. Name two things our people make
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is a pattern? (2 marks)
+42. What is printmaking? Name one thing we print with. (2 marks)
+43. What is weaving? Name one thing we can weave. (2 marks)
+44. Name two cultural dances. (2 marks)
+45. What is cultural heritage? Name two parts of it. (2 marks)
 
 
 ---
