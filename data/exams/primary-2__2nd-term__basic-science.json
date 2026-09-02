@@ -1,0 +1,393 @@
+{
+ "subject": "Basic Science",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "Moving air is called ___",
+   "answer": "wind",
+   "distractors": [
+    "water",
+    "stone",
+    "fire"
+   ]
+  },
+  {
+   "stem": "A gentle wind is a ___",
+   "answer": "breeze",
+   "distractors": [
+    "storm",
+    "rain",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Wind makes leaves and ___ move",
+   "answer": "flags",
+   "distractors": [
+    "stones",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "A ___ moves air to cool us",
+   "answer": "fan",
+   "distractors": [
+    "stone",
+    "pot",
+    "book"
+   ]
+  },
+  {
+   "stem": "Clean water has no colour, no smell and no ___",
+   "answer": "taste",
+   "distractors": [
+    "stone",
+    "fire",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "Clean water is ___",
+   "answer": "clear",
+   "distractors": [
+    "dark",
+    "dirty",
+    "thick"
+   ]
+  },
+  {
+   "stem": "Dirty water can make us ___",
+   "answer": "sick",
+   "distractors": [
+    "strong",
+    "tall",
+    "happy"
+   ]
+  },
+  {
+   "stem": "We ___ or boil water to make it clean",
+   "answer": "filter",
+   "distractors": [
+    "dirty",
+    "waste",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ water every day",
+   "answer": "drink",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We use water to bathe and ___",
+   "answer": "wash",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Plants need water to ___",
+   "answer": "grow",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We use water to put out ___",
+   "answer": "fire",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The part that holds a plant in the ground is the ___",
+   "answer": "root",
+   "distractors": [
+    "flower",
+    "fruit",
+    "leaf"
+   ]
+  },
+  {
+   "stem": "The part that makes food for the plant is the ___",
+   "answer": "leaf",
+   "distractors": [
+    "root",
+    "stem",
+    "fruit"
+   ]
+  },
+  {
+   "stem": "The ___ turns into fruit",
+   "answer": "flower",
+   "distractors": [
+    "root",
+    "stem",
+    "leaf"
+   ]
+  },
+  {
+   "stem": "Plants need water, air and ___",
+   "answer": "sunlight",
+   "distractors": [
+    "stone",
+    "fire",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "A big tall plant is a ___",
+   "answer": "tree",
+   "distractors": [
+    "herb",
+    "stone",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "A small soft plant is an ___",
+   "answer": "herb",
+   "distractors": [
+    "tree",
+    "animal",
+    "bird"
+   ]
+  },
+  {
+   "stem": "Plants grow from ___",
+   "answer": "seeds",
+   "distractors": [
+    "stones",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "A seed grows into a ___ first",
+   "answer": "seedling",
+   "distractors": [
+    "tree",
+    "fruit",
+    "flower"
+   ]
+  },
+  {
+   "stem": "An animal that lives at home is a ___ animal",
+   "answer": "domestic",
+   "distractors": [
+    "wild",
+    "fierce",
+    "lost"
+   ]
+  },
+  {
+   "stem": "Which animal lives in water?",
+   "answer": "fish",
+   "distractors": [
+    "goat",
+    "dog",
+    "bird"
+   ]
+  },
+  {
+   "stem": "Which animal can fly?",
+   "answer": "bird",
+   "distractors": [
+    "cow",
+    "goat",
+    "dog"
+   ]
+  },
+  {
+   "stem": "Animals give us food, milk and ___",
+   "answer": "help",
+   "distractors": [
+    "stone",
+    "fire",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "The tools and machines we use to do work is ___",
+   "answer": "technology",
+   "distractors": [
+    "sleep",
+    "food",
+    "water"
+   ]
+  },
+  {
+   "stem": "A ___ is a simple technology for sweeping",
+   "answer": "broom",
+   "distractors": [
+    "stone",
+    "cloud",
+    "tree"
+   ]
+  },
+  {
+   "stem": "A ___ is a technology for talking",
+   "answer": "phone",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Technology makes work easy and ___",
+   "answer": "fast",
+   "distractors": [
+    "slow",
+    "hard",
+    "dirty"
+   ]
+  },
+  {
+   "stem": "___ helps us to see",
+   "answer": "Light",
+   "distractors": [
+    "Stone",
+    "Water",
+    "Sand"
+   ]
+  },
+  {
+   "stem": "The ___ is a natural source of light",
+   "answer": "sun",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things wind can do ",
+   "points": [
+    "move leaves",
+    "move flags",
+    "cool us",
+    "move a boat"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep water clean ",
+   "points": [
+    "filter it",
+    "boil it",
+    "keep it in a clean container"
+   ]
+  },
+  {
+   "stem": "Name two uses of water ",
+   "points": [
+    "drinking",
+    "bathing",
+    "cooking",
+    "washing"
+   ]
+  },
+  {
+   "stem": "Name two parts of a plant ",
+   "points": [
+    "root",
+    "stem",
+    "leaf",
+    "flower",
+    "fruit"
+   ]
+  },
+  {
+   "stem": "Name two types of plants ",
+   "points": [
+    "tree",
+    "herb",
+    "shrub"
+   ]
+  },
+  {
+   "stem": "Name two animals that live at home ",
+   "points": [
+    "dog",
+    "cat",
+    "goat",
+    "cow"
+   ]
+  },
+  {
+   "stem": "Name two simple technologies ",
+   "points": [
+    "broom",
+    "knife",
+    "bicycle",
+    "phone"
+   ]
+  },
+  {
+   "stem": "Name two sources of light ",
+   "points": [
+    "sun",
+    "lamp",
+    "torch",
+    "candle"
+   ]
+  },
+  {
+   "stem": "Name two things animals give us ",
+   "points": [
+    "food",
+    "milk",
+    "help"
+   ]
+  },
+  {
+   "stem": "Name two things plants need to grow ",
+   "points": [
+    "water",
+    "air",
+    "sunlight"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is wind? Name one thing it can do.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is clean water? How do we make water clean?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the parts of a plant.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two animals that live at home and two that live in water.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is technology? Name two simple technologies.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
