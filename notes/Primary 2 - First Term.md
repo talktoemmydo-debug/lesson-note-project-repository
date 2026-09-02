@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 97 lessons · 7 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 97 lessons · 8 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*7 subjects · 56 lessons · 7 term practice papers. Each part begins on a fresh page.*
+*8 subjects · 64 lessons · 8 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — LIVING AND NON-LIVING THINGS](#week-1-living-and-non-living-things) · 3
@@ -68,22 +68,32 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — FOOD AND NUTRITION](#week-6-food-and-nutrition) · 36
   - [WEEK 8 — SAFETY AND SIMPLE FIRST AID](#week-8-safety-and-simple-first-aid) · 37
   - [WEEK 9 — REST AND SLEEP](#week-9-rest-and-sleep) · 37
-- **[General Knowledge](#general-knowledge)** · 39
-  - [WEEK 1 — STATES AND CAPITALS I: NORTH-CENTRAL AND NORTH-WEST](#week-1-states-and-capitals-i-north-central-and-north-west) · 39
-  - [WEEK 2 — STATES AND CAPITALS II: NORTH-EAST AND SOUTH-SOUTH](#week-2-states-and-capitals-ii-north-east-and-south-south) · 39
-  - [WEEK 3 — STATES AND CAPITALS III: SOUTH-EAST, SOUTH-WEST AND FCT](#week-3-states-and-capitals-iii-south-east-south-west-and-fct) · 40
-  - [WEEK 4 — HOW WE ARE GOVERNED: LOCAL, STATE, FEDERAL](#week-4-how-we-are-governed-local-state-federal) · 41
-  - [WEEK 5 — OUR LEADERS TODAY (CURRENT AFFAIRS I)](#week-5-our-leaders-today-current-affairs-i) · 42
-  - [WEEK 6 — NATIONAL SYMBOLS II: MEANINGS AND PROPER USE](#week-6-national-symbols-ii-meanings-and-proper-use) · 42
-  - [WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE](#week-8-nigerian-history-ii-colonial-era-and-independence) · 43
-  - [WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID](#week-9-nigerian-heroes-who-they-were-and-what-they-did) · 44
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 45
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 47
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 49
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 51
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)](#examination-practice-nigerian-history-primary-2-1st-term)** · 53
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 1st Term)](#examination-practice-physical-and-health-education-primary-2-1st-term)** · 55
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 57
+- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 39
+  - [WEEK 1 — WORK AT HOME AND SCHOOL](#week-1-work-at-home-and-school) · 39
+  - [WEEK 2 — TOOLS WE USE](#week-2-tools-we-use) · 39
+  - [WEEK 3 — FARM WORK](#week-3-farm-work) · 40
+  - [WEEK 4 — CARE OF OUR THINGS](#week-4-care-of-our-things) · 41
+  - [WEEK 5 — FOOD PREPARATION](#week-5-food-preparation) · 41
+  - [WEEK 6 — CLOTHING AND DRESSING](#week-6-clothing-and-dressing) · 42
+  - [WEEK 8 — CARING FOR OUR ENVIRONMENT](#week-8-caring-for-our-environment) · 43
+  - [WEEK 9 — SAVING AND SHARING](#week-9-saving-and-sharing) · 43
+- **[General Knowledge](#general-knowledge)** · 45
+  - [WEEK 1 — STATES AND CAPITALS I: NORTH-CENTRAL AND NORTH-WEST](#week-1-states-and-capitals-i-north-central-and-north-west) · 45
+  - [WEEK 2 — STATES AND CAPITALS II: NORTH-EAST AND SOUTH-SOUTH](#week-2-states-and-capitals-ii-north-east-and-south-south) · 45
+  - [WEEK 3 — STATES AND CAPITALS III: SOUTH-EAST, SOUTH-WEST AND FCT](#week-3-states-and-capitals-iii-south-east-south-west-and-fct) · 46
+  - [WEEK 4 — HOW WE ARE GOVERNED: LOCAL, STATE, FEDERAL](#week-4-how-we-are-governed-local-state-federal) · 47
+  - [WEEK 5 — OUR LEADERS TODAY (CURRENT AFFAIRS I)](#week-5-our-leaders-today-current-affairs-i) · 48
+  - [WEEK 6 — NATIONAL SYMBOLS II: MEANINGS AND PROPER USE](#week-6-national-symbols-ii-meanings-and-proper-use) · 48
+  - [WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE](#week-8-nigerian-history-ii-colonial-era-and-independence) · 49
+  - [WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID](#week-9-nigerian-heroes-who-they-were-and-what-they-did) · 50
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 1st Term)](#examination-practice-basic-science-primary-2-1st-term)** · 51
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-2-1st-term)** · 53
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 1st Term)](#examination-practice-christian-religious-studies-primary-2-1st-term)** · 55
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 1st Term)](#examination-practice-basic-digital-literacy-primary-2-1st-term)** · 57
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 1st Term)](#examination-practice-nigerian-history-primary-2-1st-term)** · 59
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 1st Term)](#examination-practice-physical-and-health-education-primary-2-1st-term)** · 61
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 1st Term)](#examination-practice-prevocational-studies-primary-2-1st-term)** · 63
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 1st Term)](#examination-practice-general-knowledge-primary-2-1st-term)** · 65
 
 
 
@@ -3715,6 +3725,610 @@ written for them.
 
 ---
 
+# Prevocational Studies (PVS)
+
+These are the notes for the first term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Prevocational Studies · First Term W1-6, 8-9 (work at home and school; tools we use; farm work; care of our things; food preparation; clothing and dressing; caring for our environment; saving and sharing).*
+
+
+### WEEK 1 — WORK AT HOME AND SCHOOL
+
+**You will learn to**
+
+• name work we do at home
+
+• name work we do at school
+
+• help in our work
+
+**Things to know**
+
+• **Work** is what we do to help and to live well.
+
+• At home we **sweep**, **fetch water** and **wash**.
+
+• At home we help to **cook** and **care for the house**.
+
+• At school we **clean** our classroom.
+
+• At school we **write**, **read** and **learn**.
+
+• We help our **teachers** and **friends**.
+
+• Every honest work is good.
+
+• We do our work with care.
+
+• Work keeps our home and school clean and well.
+
+• Doing our work well makes others happy.
+
+**Let us talk**
+
+1. What is work?
+
+2. Name one work we do at home.
+
+3. Name one work we do at school.
+
+**Words for my notebook**
+
+• work — what we do to help and to live well
+
+• help — to make work easier for others
+
+• honest — telling the truth and not stealing
+
+**Worksheet**
+
+1. What we do to help and to live well is ___.
+   A) work B) play C) sleep D) cry
+
+2. At home we ___ the floor.
+   A) sweep B) burn C) break D) hide
+
+3. At school we clean our ___.
+   A) classroom B) river C) sky D) fire
+
+4. Every ___ work is good.
+   A) honest B) lazy C) bad D) rude
+
+5. Fill in: To make work easier for others is to _____.
+
+6. Mention two works we do at home.
+
+7. Write why work is good.
+
+**My own work**
+
+• Draw someone working at home.
+
+---
+
+### WEEK 2 — TOOLS WE USE
+
+**You will learn to**
+
+• name tools we use
+
+• say what each tool does
+
+• use tools with care
+
+**Things to know**
+
+• **Tools** are things we use to do work.
+
+• We use a **broom** to sweep.
+
+• We use a **cutlass** or **hoe** to farm.
+
+• We use a **bucket** to fetch water.
+
+• We use a **knife** to cut.
+
+• We use a **pot** to cook.
+
+• We use a **pen** and **book** to write and read.
+
+• We use tools with **care**.
+
+• We do not play with sharp tools.
+
+• We keep our tools well.
+
+**Let us talk**
+
+1. What is a tool?
+
+2. Name one tool we use at home.
+
+3. How do we use tools?
+
+**Words for my notebook**
+
+• tool — a thing we use to do work
+
+• broom — a tool for sweeping
+
+• hoe — a tool for farming
+
+**Worksheet**
+
+1. A thing we use to do work is a ___.
+   A) tool B) song C) stone D) dream
+
+2. We use a ___ to sweep.
+   A) broom B) knife C) pot D) book
+
+3. We use a ___ to farm.
+   A) hoe B) pen C) book D) cup
+
+4. We use a ___ to fetch water.
+   A) bucket B) knife C) book D) chair
+
+5. Fill in: A tool for sweeping is a _____.
+
+6. Mention two tools we use.
+
+7. Write how we use tools.
+
+**My own work**
+
+• Draw two tools we use at home.
+
+---
+
+### WEEK 3 — FARM WORK
+
+**You will learn to**
+
+• name farm work
+
+• say what we grow
+
+• help on the farm
+
+**Things to know**
+
+• **Farming** is growing crops and keeping animals.
+
+• A **farmer** works on the farm.
+
+• We use a **hoe** and **cutlass** to farm.
+
+• We **plant** seeds and **water** them.
+
+• We **weed** the farm to keep it clean.
+
+• We grow **crops** like yam, maize, rice and cassava.
+
+• We keep **animals** like goats, cows and chickens.
+
+• Farming gives us **food**.
+
+• Farming is hard but useful work.
+
+• We help on the farm with care.
+
+**Let us talk**
+
+1. What is farming?
+
+2. Name one crop we grow.
+
+3. What does farming give us?
+
+**Words for my notebook**
+
+• farming — growing crops and keeping animals
+
+• crop — a plant we grow for food
+
+• weed — to remove unwanted plants
+
+**Worksheet**
+
+1. Growing crops and keeping animals is ___.
+   A) farming B) sleeping C) singing D) running
+
+2. A person who works on the farm is a ___.
+   A) farmer B) singer C) sleeper D) runner
+
+3. We grow crops like yam, maize and ___.
+   A) rice B) stone C) water D) fire
+
+4. Farming gives us ___.
+   A) food B) stone C) fire D) smoke
+
+5. Fill in: A plant we grow for food is a _____.
+
+6. Mention two crops we grow.
+
+7. Write what farming is.
+
+**My own work**
+
+• Draw a farm with crops.
+
+---
+
+### WEEK 4 — CARE OF OUR THINGS
+
+**You will learn to**
+
+• care for our things
+
+• keep things well
+
+• not spoil things
+
+**Things to know**
+
+• We care for the things we have.
+
+• We keep our **books** and **clothes** well.
+
+• We keep our **toys** and **tools** well.
+
+• We do not **break** or **spoil** our things.
+
+• We put things in their **place** after use.
+
+• We wash our **clothes** and **plates**.
+
+• We do not waste **water** or **food**.
+
+• We share our things with care.
+
+• Good care makes things last long.
+
+• Caring for our things is wise.
+
+**Let us talk**
+
+1. Why do we care for our things?
+
+2. Name one thing we care for.
+
+3. How do we care for our things?
+
+**Words for my notebook**
+
+• care — to look after something well
+
+• spoil — to damage something
+
+• place — where a thing belongs
+
+**Worksheet**
+
+1. To look after something well is to ___ for it.
+   A) care B) fight C) break D) hide
+
+2. We put things in their ___ after use.
+   A) place B) fire C) river D) sky
+
+3. We do not ___ or spoil our things.
+   A) break B) keep C) wash D) share
+
+4. Good care makes things ___.
+   A) last long B) break fast C) spoil D) disappear
+
+5. Fill in: To damage something is to _____.
+
+6. Mention two things we care for.
+
+7. Write why we care for our things.
+
+**My own work**
+
+• Draw your things kept well.
+
+---
+
+### WEEK 5 — FOOD PREPARATION
+
+**You will learn to**
+
+• name simple foods we prepare
+
+• help to prepare food
+
+• keep food clean
+
+**Things to know**
+
+• We help to prepare simple **foods**.
+
+• We can **wash** fruits and vegetables.
+
+• We can **peel** and **cut** soft food with care.
+
+• We help to **stir** and **serve** food.
+
+• We wash our **hands** before we touch food.
+
+• We keep food **covered** so flies do not touch it.
+
+• We use clean **utensils** to cook.
+
+• We do not play with sharp knives.
+
+• Clean food keeps us from sickness.
+
+• Helping to prepare food is a good work.
+
+**Let us talk**
+
+1. Name one simple food we can prepare.
+
+2. What do we do before we touch food?
+
+3. Why do we cover food?
+
+**Words for my notebook**
+
+• prepare — to make food ready to eat
+
+• utensils — the pots, plates and spoons we use
+
+• covered — kept with something over it
+
+**Worksheet**
+
+1. To make food ready to eat is to ___ it.
+   A) prepare B) waste C) burn D) hide
+
+2. We wash our ___ before we touch food.
+   A) hands B) shoes C) books D) chairs
+
+3. We keep food ___ so flies do not touch it.
+   A) covered B) open C) dirty D) wet
+
+4. We use clean ___ to cook.
+   A) utensils B) stones C) leaves D) paper
+
+5. Fill in: The pots, plates and spoons we use are _____.
+
+6. Mention two things we do to prepare food.
+
+7. Write why we keep food clean.
+
+**My own work**
+
+• Draw a plate of food and a spoon.
+
+---
+
+### WEEK 6 — CLOTHING AND DRESSING
+
+**You will learn to**
+
+• name our clothes
+
+• care for our clothes
+
+• dress well
+
+**Things to know**
+
+• **Clothing** is what we wear on the body.
+
+• We wear **shirts**, **trousers**, **dresses** and **shoes**.
+
+• Clothes keep us **warm** and **clean**.
+
+• Clothes protect the body.
+
+• We wash our clothes with **soap** and water.
+
+• We **dry** clothes in the sun.
+
+• We **fold** and keep clothes well.
+
+• We wear **clean** clothes every day.
+
+• We dress neatly for school.
+
+• Clean clothes keep us healthy.
+
+**Let us talk**
+
+1. What is clothing?
+
+2. Name one thing we wear.
+
+3. How do we care for our clothes?
+
+**Words for my notebook**
+
+• clothing — what we wear on the body
+
+• neat — clean and tidy
+
+• fold — to bend clothes neatly
+
+**Worksheet**
+
+1. What we wear on the body is ___.
+   A) clothing B) food C) water D) stone
+
+2. Clothes keep us warm and ___.
+   A) clean B) dirty C) wet D) dark
+
+3. We wash our clothes with ___ and water.
+   A) soap B) sand C) oil D) ink
+
+4. We dry clothes in the ___.
+   A) sun B) water C) mud D) dark
+
+5. Fill in: Clean and tidy is being _____.
+
+6. Mention two things we wear.
+
+7. Write how we care for our clothes.
+
+**My own work**
+
+• Draw a shirt and a pair of shoes.
+
+---
+
+### WEEK 8 — CARING FOR OUR ENVIRONMENT
+
+**You will learn to**
+
+• care for our environment
+
+• keep it clean
+
+• plant and protect
+
+**Things to know**
+
+• Our **environment** is the place we live in.
+
+• We **sweep** our home and school to keep it clean.
+
+• We throw rubbish in the **dustbin**.
+
+• We do not litter the ground.
+
+• We **plant** flowers and trees.
+
+• We do not cut down trees for no reason.
+
+• We keep water clean and do not pollute it.
+
+• A clean environment keeps us healthy.
+
+• We care for our environment every day.
+
+• A clean environment is good for all.
+
+**Let us talk**
+
+1. What is our environment?
+
+2. How do we keep it clean?
+
+3. Why do we plant trees?
+
+**Words for my notebook**
+
+• environment — the place we live in
+
+• litter — to throw rubbish on the ground
+
+• plant — to put a seed or young tree in the ground
+
+**Worksheet**
+
+1. The place we live in is our ___.
+   A) environment B) food C) body D) song
+
+2. We throw rubbish in the ___.
+   A) dustbin B) river C) road D) fire
+
+3. We do not ___ the ground.
+   A) litter B) sweep C) clean D) wash
+
+4. We ___ flowers and trees.
+   A) plant B) burn C) cut D) hide
+
+5. Fill in: To throw rubbish on the ground is to _____.
+
+6. Mention two ways to care for our environment.
+
+7. Write why a clean environment is good.
+
+**My own work**
+
+• Draw a clean environment with a tree.
+
+---
+
+### WEEK 9 — SAVING AND SHARING
+
+**You will learn to**
+
+• say what saving is
+
+• share with others
+
+• use things well
+
+**Things to know**
+
+• **Saving** is keeping things for later.
+
+• We save **money** in a money box or bank.
+
+• We save **food** and not waste it.
+
+• We do not spend all our money at once.
+
+• We buy what we **need** first.
+
+• **Sharing** is giving part of what we have.
+
+• We share with our **family** and **friends**.
+
+• We share with those in **need**.
+
+• Saving and sharing are good.
+
+• We use our things well.
+
+**Let us talk**
+
+1. What is saving?
+
+2. What is sharing?
+
+3. Why do we save?
+
+**Words for my notebook**
+
+• saving — keeping things for later
+
+• sharing — giving part of what we have
+
+• need — something we must have
+
+**Worksheet**
+
+1. Keeping things for later is ___.
+   A) saving B) wasting C) losing D) throwing
+
+2. We save money in a money box or ___.
+   A) bank B) fire C) river D) dustbin
+
+3. Giving part of what we have is ___.
+   A) sharing B) stealing C) hiding D) breaking
+
+4. We buy what we ___ first.
+   A) need B) lose C) break D) hide
+
+5. Fill in: Something we must have is a _____.
+
+6. Mention two things we can save.
+
+7. Write what sharing is.
+
+**My own work**
+
+• Draw a money box.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the first term of Primary 2. They follow the NERDC
@@ -5429,6 +6043,192 @@ Answer in full sentences.
 43. What is hygiene? Name two ways to keep clean. (2 marks)
 44. What is a balanced diet? Name two food groups. (2 marks)
 45. What is first aid? Name one thing we do. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 1st Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. What we do to help and to live well is ___
+   A) play
+   B) sleep
+   C) cry
+   D) work
+2. At home we ___ the floor
+   A) hide
+   B) sweep
+   C) burn
+   D) break
+3. At school we clean our ___
+   A) fire
+   B) sky
+   C) classroom
+   D) river
+4. Every ___ work is good
+   A) honest
+   B) rude
+   C) lazy
+   D) bad
+5. A thing we use to do work is a ___
+   A) song
+   B) tool
+   C) dream
+   D) stone
+6. We use a ___ to sweep
+   A) knife
+   B) pot
+   C) book
+   D) broom
+7. We use a ___ to farm
+   A) hoe
+   B) pen
+   C) book
+   D) cup
+8. We use a ___ to fetch water
+   A) book
+   B) bucket
+   C) chair
+   D) knife
+9. Growing crops and keeping animals is ___
+   A) running
+   B) sleeping
+   C) singing
+   D) farming
+10. A person who works on the farm is a ___
+   A) singer
+   B) runner
+   C) farmer
+   D) sleeper
+11. We grow crops like yam, maize and ___
+   A) rice
+   B) fire
+   C) water
+   D) stone
+12. Farming gives us ___
+   A) smoke
+   B) fire
+   C) stone
+   D) food
+13. To look after something well is to ___ for it
+   A) hide
+   B) care
+   C) break
+   D) fight
+14. We put things in their ___ after use
+   A) fire
+   B) sky
+   C) place
+   D) river
+15. We do not ___ or spoil our things
+   A) break
+   B) keep
+   C) share
+   D) wash
+16. Good care makes things ___
+   A) spoil
+   B) break fast
+   C) disappear
+   D) last long
+17. To make food ready to eat is to ___ it
+   A) waste
+   B) burn
+   C) prepare
+   D) hide
+18. We wash our ___ before we touch food
+   A) chairs
+   B) hands
+   C) shoes
+   D) books
+19. We keep food ___ so flies do not touch it
+   A) dirty
+   B) wet
+   C) open
+   D) covered
+20. We use clean ___ to cook
+   A) leaves
+   B) paper
+   C) utensils
+   D) stones
+21. What we wear on the body is ___
+   A) stone
+   B) clothing
+   C) water
+   D) food
+22. Clothes keep us warm and ___
+   A) clean
+   B) wet
+   C) dirty
+   D) dark
+23. We wash our clothes with ___ and water
+   A) oil
+   B) sand
+   C) soap
+   D) ink
+24. We dry clothes in the ___
+   A) dark
+   B) mud
+   C) water
+   D) sun
+25. The place we live in is our ___
+   A) body
+   B) environment
+   C) food
+   D) song
+26. We throw rubbish in the ___
+   A) dustbin
+   B) fire
+   C) river
+   D) road
+27. We do not ___ the ground
+   A) clean
+   B) sweep
+   C) wash
+   D) litter
+28. We ___ flowers and trees
+   A) hide
+   B) burn
+   C) plant
+   D) cut
+29. Keeping things for later is ___
+   A) saving
+   B) wasting
+   C) throwing
+   D) losing
+30. Giving part of what we have is ___
+   A) breaking
+   B) sharing
+   C) stealing
+   D) hiding
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two works we do at home
+32. Name two tools we use
+33. Name two crops we grow
+34. Name two things we care for
+35. Name two things we do to prepare food
+36. Name two things we wear
+37. Name two ways to care for our environment
+38. Name two things we can save
+39. Name two animals we keep on the farm
+40. Name two ways to use things well
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is work? Name one work we do at home. (2 marks)
+42. What is a tool? Name two tools we use. (2 marks)
+43. What is farming? Name two crops we grow. (2 marks)
+44. Why do we care for our things? (2 marks)
+45. What is sharing? Why do we save? (2 marks)
 
 
 ---
