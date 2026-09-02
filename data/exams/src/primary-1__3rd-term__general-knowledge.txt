@@ -1,0 +1,55 @@
+# General Knowledge — Primary 1 · Third Term · term paper
+subject: General Knowledge
+class: Primary 1
+term: 3rd Term
+
+[objective]
+Moving people and goods from place to place is ___ || transportation || sleeping || eating || singing
+A train moves on the ___ || rail || road || water || air
+A boat and a ship move on ___ || water || road || rail || sky
+An ___ moves in the air || aeroplane || bus || train || car
+Sharing information with others is ___ || communication || sleeping || hiding || fighting
+We communicate by talking and ___ || writing || sleeping || crying || hiding
+The radio and television give us ___ || news || dust || smoke || stones
+We speak ___ when we communicate || clearly || in secret || rudely || badly
+What we use to buy and sell is ___ || money || water || dust || stone
+Nigerian money is the naira and ___ || kobo || cents || pounds || dollars
+Buying and selling is ___ || trade || sleep || play || fight
+A person who sells is a ___ || seller || buyer || singer || dancer
+Things from nature we use are ___ resources || natural || man-made || broken || lost
+___ is a natural resource we drink || Water || Stone || Plastic || Smoke
+We use natural resources with ___ || care || waste || anger || haste
+Tools and machines that help us work are ___ || technology || stones || songs || dust
+The phone and computer are ___ || technology || food || clothes || animals
+Technology makes our work ___ || easy || hard || slow || impossible
+What tells us what to do and not to do is a ___ || rule || song || game || stone
+Rules keep us safe and ___ || orderly || noisy || dirty || lost
+Laws are rules for the whole ___ || country || class || house || street
+Doing what I ought to do is ___ || responsibility || laziness || anger || noise
+A responsible child does their ___ || homework || nothing || play || sleep
+A responsible child tells the ___ || truth || lie || secret || story
+Nigeria is in ___ Africa || West || East || North || South
+___ is to the north of Nigeria || Niger || Ghana || Egypt || Kenya
+___ is to the east of Nigeria || Cameroon || Ghana || Egypt || Togo
+To the south of Nigeria is the ___ Ocean || Atlantic || Indian || Pacific || Red
+In a car we wear a seat ___ || belt || hat || shoe || bag
+We use technology with a ___ near || grown-up || stranger || pet || baby
+
+[subobjective]
+Name two means of transport :: car | bus | train | boat | aeroplane
+Name two ways we communicate :: talking | writing | phone | email
+Name two things we buy with money :: food | clothes | books
+Name two natural resources :: water | sunlight | air | land | trees
+Name two technologies you see :: phone | computer | television | car
+Name two rules at school :: come on time | do homework | do not fight
+Name two duties of a responsible child :: obey | do homework | help at home | tell the truth
+Name two countries near Nigeria :: Niger | Chad | Cameroon | Benin
+Name two ways to travel safely :: wear a seat belt | do not stand in a moving bus
+Name two things technology helps us do :: learn | work | play
+
+[theory]
+What is transportation? Name two means. || 2
+What is communication? Name two ways. || 2
+What is money? What is Nigerian money called? || 2
+Name two natural resources. || 2
+Name two countries near Nigeria. || 2
