@@ -53,3 +53,15 @@ no "never split a lesson" rule. The Contents already points at every lesson, and
 2. **Third Term Nursery 2** — never commissioned. Ask before starting; it is 105 notes and 13 papers.
 3. **Whether old classes' images ship out of the workspace** once a second class-term of pictures exists
    (`50-IMAGES.md` rule 10) — not urgent, but the answer decides how many terms live here at once.
+
+## 2 Sep 2026 — Weekly-worksheet answers are not stored as data (teacher's copy gap)
+
+*Readings.* (a) Fabricate the worksheet answers now so the teacher's copy is "complete". (b) Ship the teacher's
+copy with the verifiable term-paper keys and marking points, and leave the weekly worksheets un-keyed until their
+answers exist as data.
+
+*Taken: (b).* The objective worksheet items were shuffled by a tool that "does not need to know which option is
+right", and no sidecar or field carries the correct letter, so any auto-generated worksheet key would be a guess —
+a teacher's key with wrong answers is worse than none. The term-paper keys ARE stored (`data/exams/papers/*.key.md`)
+and are printed in full. To close this, author a worksheet-key sidecar per subject-term (correct letter per item)
+and have `--edition teacher` append it; do not infer answers from the prose.

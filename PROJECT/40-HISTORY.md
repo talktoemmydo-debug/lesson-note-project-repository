@@ -741,3 +741,14 @@ plank, the fishing boat with net and fish, and the crops of Nigeria. All at 0 bo
 **64 plates · 146 pages**, Second Term 72 · 160, Third Term 87 · 156, each **129/129 Contents numbers**; gates ALL
 CLEAR on 2nd and 3rd, and on 1st the only flag is the standing documented objective-pool `sheet_check` behaviour.
 The sole remaining owed work across the project is the **teacher's copy** for the three terms (60-ROADMAP §1).
+
+## 2 Sep 2026 — Teacher's copy built for all three terms (`--edition teacher`), one honest gap
+
+`build_term_doc.py --edition teacher` now emits `notes/<Class> - <Term> - TEACHER COPY.{md,docx}`: the pupil pages
+plus each term paper's key as *letter and answer text* (the text read off the paper's own options, so the printed
+answer is the option the child sees) and the Sections B & C marking points, a "**TEACHER COPY — not for pupils**"
+front line, and a flipped `--strict` gate — pupil keeps "no answer printed", teacher demands "every paper has a
+key". First/Second/Third build at exit 0 with 129/129 Contents and the page audit clean (158/172/169 pages); the
+pupil edition is untouched. The weekly-worksheet answers are **not** printed: they were never stored as data (the
+shuffle tool "does not need to know which option is right"), so printing them would be guessing — the gap is logged
+in `70-OPEN-QUESTIONS.md` and the teacher copy gains worksheet keys only once they are authored as data.

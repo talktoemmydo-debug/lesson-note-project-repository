@@ -36,9 +36,9 @@ TERM_PRETTY = {"1st Term": "First Term", "2nd Term": "Second Term", "3rd Term": 
 BREAK = re.compile(r'<w:br w:type="page"/>')
 
 
-def book_paths(cls, term):
+def book_paths(cls, term, suffix=""):
     pretty = TERM_PRETTY.get(term, term)
-    return OUT / f"{cls} - {pretty}.md", OUT / f"{cls} - {pretty}.docx"
+    return OUT / f"{cls} - {pretty}{suffix}.md", OUT / f"{cls} - {pretty}{suffix}.docx"
 
 
 def para_text(xml_para):
@@ -71,9 +71,9 @@ def docx_pages(docx):
     return page, claims, heads
 
 
-def audit_problems(cls, term):
+def audit_problems(cls, term, suffix=""):
     """the same check as --audit, as strings, so tools/build_term_doc.py can fail on it"""
-    md_path, docx_path = book_paths(cls, term)
+    md_path, docx_path = book_paths(cls, term, suffix)
     if not docx_path.exists():
         return [f"{docx_path.name} was not written, so nothing was audited"]
     flow = flow_of(md_path.read_text(encoding="utf-8"))

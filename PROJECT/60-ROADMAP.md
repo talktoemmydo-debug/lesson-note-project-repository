@@ -3,7 +3,20 @@
 Order is the owner's: **polish these two books → then a new class.** The teacher's copy was requested in
 the same breath (2 Sep 2026). Images are scheduled last because they change the page model.
 
-## 1. Teacher's copy, one per class-term — wanted, nothing built yet
+## 1. Teacher's copy, one per class-term — **built 2 Sep 2026** (`--edition teacher`), one gap owed
+
+`tools/build_term_doc.py --edition teacher` now writes `notes/<Class> - <Term> - TEACHER COPY.{md,docx}` for all
+three terms: the pupil pages plus, per subject, the term paper's key as *letter and answer text* and the Sections B & C
+marking points, a "**TEACHER COPY — not for pupils**" line on the front, and a flipped gate — `--strict` no longer
+demands "no answer" but the opposite, "every paper must have a key". The pupil no-answer gate is scoped to
+`--edition pupil`, so a teacher file can never trip it and nobody is tempted to loosen it. All three build at
+`--strict` exit 0 with 129/129 Contents numbers and the page audit clean, and the pupil edition is byte-for-byte
+unaffected.
+
+The one thing it does **not** carry is the answers to the 105 weekly worksheets per subject: those answers were
+never stored as data (the shuffle tool deliberately "does not need to know which option is right"), so printing them
+would mean guessing. That gap is recorded in `70-OPEN-QUESTIONS.md`; the teacher copy ships the worksheets as-is and
+the verifiable paper keys, and gains worksheet keys only once they are authored as data.
 
 * File: `notes/<Class> - <Term> - TEACHER COPY.docx` (+ `.md`), **outside** the pupil book, and named so
   nobody mistakes it for one. Not to be confused with `notes/_teacher-edition/`, which holds superseded

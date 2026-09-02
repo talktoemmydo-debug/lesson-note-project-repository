@@ -132,7 +132,12 @@ def main():
     ap.add_argument("--nodocx", action="store_true")
     ap.add_argument("--no-images", dest="no_images", action="store_true",
                     help="build the text-only book; the page model then numbers the text-only pages")
+    ap.add_argument("--edition", choices=("pupil", "teacher"), default="pupil",
+                    help="teacher appends every paper's key (letters, answer texts, marking points) and "
+                         "drops the pupil 'no answer' gate in favour of 'every paper must have a key'")
     a = ap.parse_args()
+    TEACHER = a.edition == "teacher"
+    SUFFIX = " - TEACHER COPY" if TEACHER else ""
 
     d = SRC / f"{slug(a.cls)}__{slug(a.term)}"
     sections = sorted(p for p in d.glob("*.md") if not p.name.startswith("_")) if d.exists() else []
@@ -160,9 +165,16 @@ def main():
 
     # ---------------- assembly: notes by subject, then the term papers ----------------
     body = [f"# {a.cls} — {TERM_PRETTY.get(a.term, a.term)}",
-            "",
-            "*Pupil's book · every subject offered to this class, every teaching week of the term.*",
-            "",
+            ""]
+    if TEACHER:
+        body += ["**TEACHER COPY — not for pupils.** This file carries the term-paper keys, the answer "
+                 "texts and the marking points. Keep it out of the pupil's book and out of the classroom "
+                 "pile.",
+                 ""]
+    body += ["*Pupil's book · every subject offered to this class, every teaching week of the term.*"
+             if not TEACHER else
+             "*Teacher's edition · the pupil pages plus the keys and marking guidance.*",
+             "",
             f"**{len(by_subject)} subjects · {len(want)} lessons · "
             f"{sum(1 for r in d.glob('*.md')) } sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, "
             "Revision, Examination and Closing: no lesson is written for a week the school keeps for "
@@ -213,6 +225,30 @@ def main():
             for m in re.finditer(r"^###\s+WEEK\s+(\d+)", parts[q], re.M):
                 covered.add((nkey(bare(subj)), nkey(st), int(m.group(1))))
 
+    def teacher_key_block(paper_text, key_text):
+        """For the teacher's edition: Section A as 'n. LETTER — answer text', then the sidecar's
+        B & C marking guide. The letter comes from the key; the text from the paper's own options,
+        so the printed answer is the option the child actually sees."""
+        letters = re.findall(r"\d+\.\s*([A-D])\b",
+                             key_text.split("**Section A:**")[-1].split("**Sections B")[0])
+        a_part = paper_text.split("## Section B")[0]
+        items = []                                   # [(stem, {letter: text})]
+        for l in a_part.splitlines():
+            if re.match(r"^\d+\.\s", l):
+                items.append([l.strip(), {}])
+            elif items:
+                m = re.match(r"^\s*\(?([A-D])\)\s*(.*)$", l)
+                if m:
+                    items[-1][1][m.group(1)] = m.group(2).strip()
+        out = ["", "**Teacher's key — Section A (letter and answer text)**", ""]
+        for i, (stem, texts) in enumerate(items):
+            L = letters[i] if i < len(letters) else "?"
+            out.append(f"{i + 1}. {L} — {texts.get(L, '')}")
+        bc = key_text.split("**Sections B")[1] if "**Sections B" in key_text else ""
+        if bc.strip():
+            out += ["", "**Marking points — Sections B & C**", bc.strip()]
+        return "\n".join(out)
+
     papers, keylets, keyreport = [], [], []
     for subj in order:
         mine = [p for p in sections if bare(subj_of(p)) == bare(subj)]
@@ -226,9 +262,17 @@ def main():
                               "**MISSING** — run `tools/make_exam.py` on "
                               f"`data/exams/{tag}.json`.\n")
                 continue
-            papers.append("\n\n---\n\n" + paper.read_text(encoding="utf-8").strip())
-            ks = re.findall(r"\d+\.\s*([A-D])\b", keyfile.read_text(encoding="utf-8")
-                            .split("**Section A:**")[-1].split("**Sections B")[0]) if keyfile.exists() else []
+            ptx = paper.read_text(encoding="utf-8").strip()
+            papers.append("\n\n---\n\n" + ptx)
+            ktx = keyfile.read_text(encoding="utf-8") if keyfile.exists() else ""
+            if TEACHER:
+                if ktx:
+                    papers.append("\n\n" + teacher_key_block(ptx, ktx) + "\n")
+                else:
+                    papers.append("\n\n**KEY MISSING** — no sidecar for this paper; the teacher's "
+                                  "copy must not guess it.\n")
+            ks = re.findall(r"\d+\.\s*([A-D])\b", ktx.split("**Section A:**")[-1]
+                            .split("**Sections B")[0]) if ktx else []
             keylets += ks
             keyreport.append((label, ks))
 
@@ -261,13 +305,13 @@ def main():
                      f"widening the page it sits on; lower FILL in tools/book_layout.py or shorten "
                      f"a heading")
     model = model + model2
-    out_md = OUT / f"{a.cls} - {term_pretty}.md"
+    out_md = OUT / f"{a.cls} - {term_pretty}{SUFFIX}.md"
     out_md.write_text(book, encoding="utf-8")
     out_dx, info = None, {}
     if not a.nodocx:
         sys.path.insert(0, str(ROOT / "tools"))
         from docx_out import render
-        out_dx, rmodel, rinfo = render(book, OUT / f"{a.cls} - {term_pretty}.docx")
+        out_dx, rmodel, rinfo = render(book, OUT / f"{a.cls} - {term_pretty}{SUFFIX}.docx")
         model, info = model + rmodel, rinfo
 
     # ---------------- validation ----------------
@@ -318,9 +362,13 @@ def main():
                len(re.findall(r"(?m)^\d+\.\s", c_part)))
         if got != (30, 10, 5):
             problems.append(f"{p.stem}: paper is {got[0]}/{got[1]}/{got[2]}, needs 30/10/5")
-        for leak in ("Teacher's key", "Answer key", "correct answer is", "marking guide"):
-            if leak.lower() in tx.lower():
-                problems.append(f"{p.stem}: the pupil's paper prints an answer — {leak}")
+        if not TEACHER:                       # the no-answers gate is a pupil property
+            for leak in ("Teacher's key", "Answer key", "correct answer is", "marking guide"):
+                if leak.lower() in tx.lower():
+                    problems.append(f"{p.stem}: the pupil's paper prints an answer — {leak}")
+        else:                                  # the teacher's copy demands the opposite: a key present
+            if not (BUILT / f"exam-{slug(a.cls)}__{slug(a.term)}__{p.stem}.key.md").exists():
+                problems.append(f"{p.stem}: teacher's copy owes a key — the sidecar is missing")
 
     # contents: every entry must land on a heading that is really in the book. A markdown viewer
     # numbers repeated headings in document order (-1, -2 …), so the check has to number them the
@@ -377,7 +425,7 @@ def main():
           + (" · the .docx adds a Word TOC field and a page number in the footer" if out_dx else ""))
     if out_dx:                                    # the numbers are only honest if the file obeys the plan
         from book_pages import audit_problems
-        for x in audit_problems(a.cls, a.term):
+        for x in audit_problems(a.cls, a.term, SUFFIX):
             problems.append("page numbers: " + x)
     print(f"papers    : {len([1 for p in sections if (BUILT / f'exam-{slug(a.cls)}__{slug(a.term)}__{p.stem}.md').exists()])}"
           f" of {len(sections)} · answer letters read from the key sidecars")
