@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 98 lessons · 6 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 98 lessons · 7 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*6 subjects · 48 lessons · 6 term practice papers. Each part begins on a fresh page.*
+*7 subjects · 56 lessons · 7 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — AIR IN MOTION](#week-1-air-in-motion) · 3
@@ -59,21 +59,31 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — INTRODUCTION TO TRADITIONAL AUTHORITY](#week-6-introduction-to-traditional-authority) · 30
   - [WEEK 8 — TRADITIONAL RULERS](#week-8-traditional-rulers) · 31
   - [WEEK 9 — TRADITIONAL TITLE HOLDERS](#week-9-traditional-title-holders) · 31
-- **[General Knowledge](#general-knowledge)** · 33
-  - [WEEK 1 — OUR WORLD: THE SEVEN CONTINENTS](#week-1-our-world-the-seven-continents) · 33
-  - [WEEK 2 — OUR WORLD: THE FIVE OCEANS](#week-2-our-world-the-five-oceans) · 33
-  - [WEEK 3 — COUNTRIES AND CAPITALS: AFRICA](#week-3-countries-and-capitals-africa) · 34
-  - [WEEK 4 — COUNTRIES AND CAPITALS: THE WORLD](#week-4-countries-and-capitals-the-world) · 35
-  - [WEEK 5 — NIGERIAN CULTURE: LANGUAGES, DRESS AND FESTIVALS](#week-5-nigerian-culture-languages-dress-and-festivals) · 35
-  - [WEEK 6 — THE HUMAN BODY AND HEALTHY HABITS](#week-6-the-human-body-and-healthy-habits) · 36
-  - [WEEK 8 — PLANTS, ANIMALS AND THEIR HABITATS](#week-8-plants-animals-and-their-habitats) · 37
-  - [WEEK 9 — TECHNOLOGY AROUND US](#week-9-technology-around-us) · 37
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 39
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 41
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 43
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 45
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)](#examination-practice-nigerian-history-primary-2-2nd-term)** · 47
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 49
+- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 33
+  - [WEEK 1 — SAFETY EDUCATION: ROAD SAFETY](#week-1-safety-education-road-safety) · 33
+  - [WEEK 2 — SAFETY EDUCATION: PERSONAL SAFETY AND EMERGENCY NUMBERS](#week-2-safety-education-personal-safety-and-emergency-numbers) · 33
+  - [WEEK 3 — INTRODUCTION TO PHYSICAL EDUCATION](#week-3-introduction-to-physical-education) · 34
+  - [WEEK 4 — MOVING OUR BODY PARTS (PART 1)](#week-4-moving-our-body-parts-part-1) · 35
+  - [WEEK 5 — MOVING OUR BODY PARTS (PART 2)](#week-5-moving-our-body-parts-part-2) · 35
+  - [WEEK 6 — ATHLETICS I: RUNNING](#week-6-athletics-i-running) · 36
+  - [WEEK 8 — ATHLETICS II: JUMPING](#week-8-athletics-ii-jumping) · 37
+  - [WEEK 9 — BALL GAMES I: INTRODUCTION](#week-9-ball-games-i-introduction) · 37
+- **[General Knowledge](#general-knowledge)** · 39
+  - [WEEK 1 — OUR WORLD: THE SEVEN CONTINENTS](#week-1-our-world-the-seven-continents) · 39
+  - [WEEK 2 — OUR WORLD: THE FIVE OCEANS](#week-2-our-world-the-five-oceans) · 39
+  - [WEEK 3 — COUNTRIES AND CAPITALS: AFRICA](#week-3-countries-and-capitals-africa) · 40
+  - [WEEK 4 — COUNTRIES AND CAPITALS: THE WORLD](#week-4-countries-and-capitals-the-world) · 41
+  - [WEEK 5 — NIGERIAN CULTURE: LANGUAGES, DRESS AND FESTIVALS](#week-5-nigerian-culture-languages-dress-and-festivals) · 41
+  - [WEEK 6 — THE HUMAN BODY AND HEALTHY HABITS](#week-6-the-human-body-and-healthy-habits) · 42
+  - [WEEK 8 — PLANTS, ANIMALS AND THEIR HABITATS](#week-8-plants-animals-and-their-habitats) · 43
+  - [WEEK 9 — TECHNOLOGY AROUND US](#week-9-technology-around-us) · 43
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 45
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 47
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 49
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 51
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)](#examination-practice-nigerian-history-primary-2-2nd-term)** · 53
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 2nd Term)](#examination-practice-physical-and-health-education-primary-2-2nd-term)** · 55
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 57
 
 
 
@@ -3099,6 +3109,610 @@ written for them.
 
 ---
 
+# Physical and Health Education (PHE)
+
+These are the notes for the second term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Physical and Health Education · Second Term W1-6, 8-9 (safety education: road safety; safety education: personal safety and emergency numbers; introduction to physical education; moving our body parts, parts 1-4; athletics I — running; athletics II — jumping; ball games I — introduction).*
+
+
+### WEEK 1 — SAFETY EDUCATION: ROAD SAFETY
+
+**You will learn to**
+
+• say what road safety is
+
+• cross the road well
+
+• obey road rules
+
+**Things to know**
+
+• **Road safety** means being safe on the road.
+
+• We cross the road at the **zebra crossing**.
+
+• We look **left**, **right** and **left** again before crossing.
+
+• We cross when the traffic **stops**.
+
+• We obey the **traffic light**.
+
+• **Red** means stop; **green** means go.
+
+• We do not **run** across the road.
+
+• We do not play **on** the road.
+
+• We walk on the **sidewalk**.
+
+• Road safety keeps us from harm.
+
+**Let us talk**
+
+1. What is road safety?
+
+2. How do we cross the road?
+
+3. What does the red traffic light mean?
+
+**Words for my notebook**
+
+• road safety — being safe on the road
+
+• zebra crossing — the striped place we cross the road
+
+• traffic light — the light that tells cars and people to stop or go
+
+**Worksheet**
+
+1. Being safe on the road is ___ safety.
+   A) road B) water C) fire D) air
+
+2. We cross the road at the ___ crossing.
+   A) zebra B) lion C) dog D) bird
+
+3. We look left, right and ___ again before crossing.
+   A) left B) up C) down D) back
+
+4. The ___ traffic light means stop.
+   A) red B) green C) yellow D) blue
+
+5. Fill in: The striped place we cross the road is the _____.
+
+6. Mention two road safety rules.
+
+7. Write what road safety is.
+
+**My own work**
+
+• Draw a zebra crossing.
+
+---
+
+### WEEK 2 — SAFETY EDUCATION: PERSONAL SAFETY AND EMERGENCY NUMBERS
+
+**You will learn to**
+
+• keep ourselves safe
+
+• know emergency numbers
+
+• call for help
+
+**Things to know**
+
+• **Personal safety** means keeping ourselves safe.
+
+• We do not go with **strangers**.
+
+• We do not take things from people we do not know.
+
+• We tell a **grown-up** if someone troubles us.
+
+• We know the **emergency numbers**.
+
+• In Nigeria, the emergency number is **112**.
+
+• We call **112** for help in an emergency.
+
+• We do not make **false** emergency calls.
+
+• We stay away from **danger**.
+
+• Personal safety keeps us well.
+
+**Let us talk**
+
+1. What is personal safety?
+
+2. What is the emergency number in Nigeria?
+
+3. When do we call for help?
+
+**Words for my notebook**
+
+• personal safety — keeping ourselves safe
+
+• emergency — a time when we need help fast
+
+• stranger — a person we do not know
+
+**Worksheet**
+
+1. Keeping ourselves safe is ___ safety.
+   A) personal B) road C) water D) fire
+
+2. We do not go with ___.
+   A) strangers B) teachers C) parents D) friends
+
+3. The emergency number in Nigeria is ___.
+   A) 112 B) 999 C) 100 D) 123
+
+4. We call ___ for help in an emergency.
+   A) 112 B) 100 C) 123 D) 999
+
+5. Fill in: A time when we need help fast is an _____.
+
+6. Mention two ways to keep ourselves safe.
+
+7. Write the emergency number in Nigeria.
+
+**My own work**
+
+• Draw a phone and write 112.
+
+---
+
+### WEEK 3 — INTRODUCTION TO PHYSICAL EDUCATION
+
+**You will learn to**
+
+• say what physical education is
+
+• name what we do in PHE
+
+• enjoy PHE
+
+**Things to know**
+
+• **Physical education** (PHE) is learning about the body and movement.
+
+• In PHE we **exercise** and **play**.
+
+• PHE keeps the body **strong** and healthy.
+
+• We do **games** and **sports** in PHE.
+
+• We learn about **safety** in PHE.
+
+• We learn about **health** in PHE.
+
+• PHE helps us to **move** well.
+
+• We **warm up** before exercise.
+
+• We **rest** after exercise.
+
+• PHE is fun and good for us.
+
+**Let us talk**
+
+1. What is physical education?
+
+2. Name one thing we do in PHE.
+
+3. Why is PHE good for us?
+
+**Words for my notebook**
+
+• physical education — learning about the body and movement
+
+• exercise — activity that moves the body
+
+• warm up — to get the body ready
+
+**Worksheet**
+
+1. Learning about the body and movement is ___ education.
+   A) physical B) music C) art D) sleep
+
+2. In PHE we ___ and play.
+   A) exercise B) sleep C) eat D) cry
+
+3. PHE keeps the body strong and ___.
+   A) healthy B) weak C) sick D) sad
+
+4. We ___ up before exercise.
+   A) warm B) cool C) sleep D) eat
+
+5. Fill in: Activity that moves the body is _____.
+
+6. Mention two things we do in PHE.
+
+7. Write what physical education is.
+
+**My own work**
+
+• Draw yourself exercising.
+
+---
+
+### WEEK 4 — MOVING OUR BODY PARTS (PART 1)
+
+**You will learn to**
+
+• move the arms
+
+• move the legs
+
+• move the head
+
+**Things to know**
+
+• Our **body parts** move in different ways.
+
+• We move our **arms** up and down.
+
+• We **raise** our arms and **lower** them.
+
+• We **swing** our arms.
+
+• We move our **legs** by walking and running.
+
+• We **kick** with our legs.
+
+• We **bend** our knees.
+
+• We move our **head** up and down.
+
+• We **turn** our head side to side.
+
+• Moving our body parts keeps us strong.
+
+**Let us talk**
+
+1. Name one way we move our arms.
+
+2. Name one way we move our legs.
+
+3. How do we move our head?
+
+**Words for my notebook**
+
+• move — to change place or position
+
+• raise — to lift up
+
+• swing — to move to and fro
+
+**Worksheet**
+
+1. We move our arms up and ___.
+   A) down B) in C) out D) off
+
+2. We ___ our arms and lower them.
+   A) raise B) break C) burn D) hide
+
+3. We ___ with our legs.
+   A) kick B) sing C) sleep D) eat
+
+4. We ___ our head side to side.
+   A) turn B) break C) burn D) hide
+
+5. Fill in: To lift up is to _____.
+
+6. Mention two ways we move our arms.
+
+7. Write how we move our legs.
+
+**My own work**
+
+• Draw yourself moving your arms.
+
+---
+
+### WEEK 5 — MOVING OUR BODY PARTS (PART 2)
+
+**You will learn to**
+
+• bend the body
+
+• stretch the body
+
+• balance the body
+
+**Things to know**
+
+• We **bend** our body down.
+
+• We **stretch** our arms and legs.
+
+• We **twist** our body.
+
+• We **balance** on one foot.
+
+• We **jump** with both feet.
+
+• We **hop** on one foot.
+
+• We **turn** our body around.
+
+• These movements are done in **one place**.
+
+• They make us **flexible** and strong.
+
+• Moving our body well is good for us.
+
+**Let us talk**
+
+1. Name one way we bend the body.
+
+2. What is stretching?
+
+3. How do we balance?
+
+**Words for my notebook**
+
+• bend — to move the body down
+
+• stretch — to reach out the arms or legs
+
+• balance — to hold the body steady
+
+**Worksheet**
+
+1. We ___ our body down.
+   A) bend B) break C) burn D) hide
+
+2. We ___ our arms and legs.
+   A) stretch B) break C) burn D) hide
+
+3. We ___ on one foot.
+   A) balance B) fall C) sleep D) eat
+
+4. We ___ on one foot.
+   A) hop B) sleep C) eat D) cry
+
+5. Fill in: To reach out the arms or legs is to _____.
+
+6. Mention two ways we move our body in one place.
+
+7. Write what balancing is.
+
+**My own work**
+
+• Draw yourself balancing on one foot.
+
+---
+
+### WEEK 6 — ATHLETICS I: RUNNING
+
+**You will learn to**
+
+• run well
+
+• name types of running
+
+• enjoy running
+
+**Things to know**
+
+• **Athletics** are sports like running and jumping.
+
+• **Running** is moving fast on the feet.
+
+• We can run **fast** or **slow**.
+
+• We run in a **race**.
+
+• A race is to see who is **fastest**.
+
+• We run on a **track** or field.
+
+• We **warm up** before running.
+
+• We use our **arms** and **legs** to run.
+
+• Running keeps us **fit** and strong.
+
+• Running is a sport we enjoy.
+
+**Let us talk**
+
+1. What is running?
+
+2. What is a race?
+
+3. Why do we warm up before running?
+
+**Words for my notebook**
+
+• athletics — sports like running and jumping
+
+• running — moving fast on the feet
+
+• race — a contest to see who is fastest
+
+**Worksheet**
+
+1. Sports like running and jumping are ___.
+   A) athletics B) sleeping C) eating D) singing
+
+2. Moving fast on the feet is ___.
+   A) running B) sitting C) sleeping D) eating
+
+3. A ___ is to see who is fastest.
+   A) race B) nap C) song D) sleep
+
+4. We ___ up before running.
+   A) warm B) cool C) sleep D) eat
+
+5. Fill in: A contest to see who is fastest is a _____.
+
+6. Mention two things we do in running.
+
+7. Write what running is.
+
+**My own work**
+
+• Draw yourself running in a race.
+
+---
+
+### WEEK 8 — ATHLETICS II: JUMPING
+
+**You will learn to**
+
+• jump well
+
+• name types of jumping
+
+• enjoy jumping
+
+**Things to know**
+
+• **Jumping** is pushing off the ground with the feet.
+
+• We can jump **high** or **far**.
+
+• We jump with **one foot** or **two feet**.
+
+• **Hopping** is jumping on one foot.
+
+• **Leaping** is a long jump.
+
+• We jump over **ropes** and **boxes**.
+
+• We **land** on our feet.
+
+• We bend our knees when we land.
+
+• Jumping keeps us **strong**.
+
+• Jumping is a sport we enjoy.
+
+**Let us talk**
+
+1. What is jumping?
+
+2. What is hopping?
+
+3. How do we land when we jump?
+
+**Words for my notebook**
+
+• jumping — pushing off the ground with the feet
+
+• hop — to jump on one foot
+
+• leap — a long jump
+
+**Worksheet**
+
+1. Pushing off the ground with the feet is ___.
+   A) jumping B) sitting C) sleeping D) eating
+
+2. Jumping on one foot is ___.
+   A) hopping B) sitting C) sleeping D) lying
+
+3. A long jump is a ___.
+   A) leap B) nap C) song D) rest
+
+4. We land on our ___.
+   A) feet B) head C) hands D) back
+
+5. Fill in: To jump on one foot is to _____.
+
+6. Mention two types of jumping.
+
+7. Write what jumping is.
+
+**My own work**
+
+• Draw yourself jumping.
+
+---
+
+### WEEK 9 — BALL GAMES I: INTRODUCTION
+
+**You will learn to**
+
+• say what ball games are
+
+• name ball games
+
+• use a ball
+
+**Things to know**
+
+• **Ball games** are games played with a ball.
+
+• We play **football** with a ball.
+
+• We play **basketball** with a ball.
+
+• We play **volleyball** with a ball.
+
+• We **kick**, **throw** and **catch** the ball.
+
+• We **dribble** the ball in some games.
+
+• Ball games are played in **teams**.
+
+• We follow the **rules** of the game.
+
+• Ball games keep us **fit**.
+
+• Ball games are fun to play.
+
+**Let us talk**
+
+1. What is a ball game?
+
+2. Name one ball game.
+
+3. What do we do with the ball?
+
+**Words for my notebook**
+
+• ball game — a game played with a ball
+
+• dribble — to move the ball along
+
+• team — a group that plays together
+
+**Worksheet**
+
+1. A game played with a ball is a ___ game.
+   A) ball B) stone C) tree D) cloud
+
+2. We play ___ with a ball.
+   A) football B) sleeping C) eating D) singing
+
+3. We ___ , throw and catch the ball.
+   A) kick B) burn C) break D) hide
+
+4. Ball games are played in ___.
+   A) teams B) stones C) trees D) clouds
+
+5. Fill in: To move the ball along is to _____.
+
+6. Mention two ball games.
+
+7. Write what a ball game is.
+
+**My own work**
+
+• Draw a ball and a player.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the second term of Primary 2. They follow the NERDC
@@ -4629,6 +5243,192 @@ Answer in full sentences.
 43. Name two Nigerian heroines and what they did. (2 marks)
 44. What is development? Name two ways heroes helped Nigeria develop. (2 marks)
 45. What is a traditional ruler? Name two. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 2nd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Being safe on the road is ___ safety
+   A) road
+   B) air
+   C) water
+   D) fire
+2. We cross the road at the ___ crossing
+   A) dog
+   B) lion
+   C) bird
+   D) zebra
+3. We look left, right and ___ again before crossing
+   A) up
+   B) down
+   C) left
+   D) back
+4. The ___ traffic light means stop
+   A) blue
+   B) red
+   C) yellow
+   D) green
+5. Keeping ourselves safe is ___ safety
+   A) fire
+   B) road
+   C) water
+   D) personal
+6. We do not go with ___
+   A) strangers
+   B) friends
+   C) teachers
+   D) parents
+7. The emergency number in Nigeria is ___
+   A) 999
+   B) 100
+   C) 112
+   D) 123
+8. We call ___ for help in an emergency
+   A) 100
+   B) 123
+   C) 999
+   D) 112
+9. Learning about the body and movement is ___ education
+   A) art
+   B) physical
+   C) music
+   D) sleep
+10. In PHE we ___ and play
+   A) exercise
+   B) eat
+   C) sleep
+   D) cry
+11. PHE keeps the body strong and ___
+   A) sick
+   B) sad
+   C) weak
+   D) healthy
+12. We ___ up before exercise
+   A) cool
+   B) warm
+   C) eat
+   D) sleep
+13. We move our arms up and ___
+   A) in
+   B) out
+   C) down
+   D) off
+14. We ___ our arms and lower them
+   A) raise
+   B) burn
+   C) hide
+   D) break
+15. We ___ with our legs
+   A) sleep
+   B) kick
+   C) eat
+   D) sing
+16. We ___ our head side to side
+   A) hide
+   B) burn
+   C) turn
+   D) break
+17. We ___ our body down
+   A) bend
+   B) burn
+   C) hide
+   D) break
+18. We ___ our arms and legs
+   A) hide
+   B) burn
+   C) break
+   D) stretch
+19. We ___ on one foot
+   A) sleep
+   B) eat
+   C) balance
+   D) fall
+20. We ___ on one foot
+   A) hop
+   B) sleep
+   C) cry
+   D) eat
+21. Sports like running and jumping are ___
+   A) singing
+   B) eating
+   C) sleeping
+   D) athletics
+22. Moving fast on the feet is ___
+   A) sitting
+   B) running
+   C) eating
+   D) sleeping
+23. A ___ is to see who is fastest
+   A) race
+   B) nap
+   C) sleep
+   D) song
+24. We ___ up before running
+   A) eat
+   B) sleep
+   C) cool
+   D) warm
+25. Pushing off the ground with the feet is ___
+   A) sleeping
+   B) jumping
+   C) sitting
+   D) eating
+26. Jumping on one foot is ___
+   A) sitting
+   B) lying
+   C) hopping
+   D) sleeping
+27. A long jump is a ___
+   A) song
+   B) rest
+   C) nap
+   D) leap
+28. We land on our ___
+   A) hands
+   B) feet
+   C) back
+   D) head
+29. A game played with a ball is a ___ game
+   A) ball
+   B) cloud
+   C) tree
+   D) stone
+30. We play ___ with a ball
+   A) sleeping
+   B) eating
+   C) football
+   D) singing
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two road safety rules
+32. Name two ways to keep ourselves safe
+33. Name two things we do in PHE
+34. Name two ways we move our arms
+35. Name two ways we move our body in one place
+36. Name two types of jumping
+37. Name two ball games
+38. Name two things we do with the ball
+39. Name two things we do in running
+40. Name two body parts we move
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is road safety? Name two road safety rules. (2 marks)
+42. What is the emergency number in Nigeria? When do we call it? (2 marks)
+43. What is physical education? Name two things we do in PHE. (2 marks)
+44. What is jumping? Name two types. (2 marks)
+45. What is a ball game? Name two ball games. (2 marks)
 
 
 ---

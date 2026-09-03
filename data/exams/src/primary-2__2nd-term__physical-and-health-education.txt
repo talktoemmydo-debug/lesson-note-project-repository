@@ -1,0 +1,55 @@
+# Physical and Health Education — Primary 2 · Second Term · term paper
+subject: Physical and Health Education
+class: Primary 2
+term: 2nd Term
+
+[objective]
+Being safe on the road is ___ safety || road || water || fire || air
+We cross the road at the ___ crossing || zebra || lion || dog || bird
+We look left, right and ___ again before crossing || left || up || down || back
+The ___ traffic light means stop || red || green || yellow || blue
+Keeping ourselves safe is ___ safety || personal || road || water || fire
+We do not go with ___ || strangers || teachers || parents || friends
+The emergency number in Nigeria is ___ || 112 || 999 || 100 || 123
+We call ___ for help in an emergency || 112 || 100 || 123 || 999
+Learning about the body and movement is ___ education || physical || music || art || sleep
+In PHE we ___ and play || exercise || sleep || eat || cry
+PHE keeps the body strong and ___ || healthy || weak || sick || sad
+We ___ up before exercise || warm || cool || sleep || eat
+We move our arms up and ___ || down || in || out || off
+We ___ our arms and lower them || raise || break || burn || hide
+We ___ with our legs || kick || sing || sleep || eat
+We ___ our head side to side || turn || break || burn || hide
+We ___ our body down || bend || break || burn || hide
+We ___ our arms and legs || stretch || break || burn || hide
+We ___ on one foot || balance || fall || sleep || eat
+We ___ on one foot || hop || sleep || eat || cry
+Sports like running and jumping are ___ || athletics || sleeping || eating || singing
+Moving fast on the feet is ___ || running || sitting || sleeping || eating
+A ___ is to see who is fastest || race || nap || song || sleep
+We ___ up before running || warm || cool || sleep || eat
+Pushing off the ground with the feet is ___ || jumping || sitting || sleeping || eating
+Jumping on one foot is ___ || hopping || sitting || sleeping || lying
+A long jump is a ___ || leap || nap || song || rest
+We land on our ___ || feet || head || hands || back
+A game played with a ball is a ___ game || ball || stone || tree || cloud
+We play ___ with a ball || football || sleeping || eating || singing
+
+[subobjective]
+Name two road safety rules :: cross at the zebra crossing | look left, right, left | obey the traffic light
+Name two ways to keep ourselves safe :: do not go with strangers | tell a grown-up | know the emergency number
+Name two things we do in PHE :: exercise | play games | warm up
+Name two ways we move our arms :: raise | lower | swing
+Name two ways we move our body in one place :: bend | stretch | twist | balance
+Name two types of jumping :: hopping | leaping | jumping high
+Name two ball games :: football | basketball | volleyball
+Name two things we do with the ball :: kick | throw | catch | dribble
+Name two things we do in running :: warm up | run fast | run in a race
+Name two body parts we move :: arms | legs | head
+
+[theory]
+What is road safety? Name two road safety rules. || 2
+What is the emergency number in Nigeria? When do we call it? || 2
+What is physical education? Name two things we do in PHE. || 2
+What is jumping? Name two types. || 2
+What is a ball game? Name two ball games. || 2
