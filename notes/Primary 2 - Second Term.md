@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 98 lessons · 10 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 98 lessons · 12 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*10 subjects · 82 lessons · 10 term practice papers. Each part begins on a fresh page.*
+*12 subjects · 98 lessons · 12 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — AIR IN MOTION](#week-1-air-in-motion) · 3
@@ -106,16 +106,36 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — THE HUMAN BODY AND HEALTHY HABITS](#week-6-the-human-body-and-healthy-habits) · 62
   - [WEEK 8 — PLANTS, ANIMALS AND THEIR HABITATS](#week-8-plants-animals-and-their-habitats) · 63
   - [WEEK 9 — TECHNOLOGY AROUND US](#week-9-technology-around-us) · 63
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 65
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 67
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 69
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 71
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)](#examination-practice-nigerian-history-primary-2-2nd-term)** · 73
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 2nd Term)](#examination-practice-physical-and-health-education-primary-2-2nd-term)** · 75
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 2nd Term)](#examination-practice-prevocational-studies-primary-2-2nd-term)** · 77
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 2nd Term)](#examination-practice-social-and-citizenship-studies-primary-2-2nd-term)** · 79
-- **[EXAMINATION PRACTICE — YORUBA (Primary 2 · 2nd Term)](#examination-practice-yoruba-primary-2-2nd-term)** · 81
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 83
+- **[English Language](#english-language)** · 65
+  - [WEEK 1 — READING AND PHONICS](#week-1-reading-and-phonics) · 65
+  - [WEEK 2 — WRITING AND SPEAKING](#week-2-writing-and-speaking) · 65
+  - [WEEK 3 — READING AND COMPREHENSION](#week-3-reading-and-comprehension) · 66
+  - [WEEK 4 — SPEAKING AND GRAMMAR](#week-4-speaking-and-grammar) · 67
+  - [WEEK 5 — READING AND VOCABULARY](#week-5-reading-and-vocabulary) · 67
+  - [WEEK 6 — WRITING AND GRAMMAR](#week-6-writing-and-grammar) · 68
+  - [WEEK 8 — LISTENING AND SPEAKING](#week-8-listening-and-speaking) · 69
+  - [WEEK 9 — READING AND HANDWRITING](#week-9-reading-and-handwriting) · 69
+- **[Mathematics](#mathematics)** · 71
+  - [WEEK 1 — ADDITION (PART 1)](#week-1-addition-part-1) · 71
+  - [WEEK 2 — ADDITION (PART 2)](#week-2-addition-part-2) · 71
+  - [WEEK 3 — SUBTRACTION (PART 1)](#week-3-subtraction-part-1) · 72
+  - [WEEK 4 — SUBTRACTION (PART 2)](#week-4-subtraction-part-2) · 73
+  - [WEEK 5 — MULTIPLICATION (PART 1)](#week-5-multiplication-part-1) · 73
+  - [WEEK 6 — MULTIPLICATION (PART 2)](#week-6-multiplication-part-2) · 74
+  - [WEEK 8 — DIVISION (PART 1)](#week-8-division-part-1) · 75
+  - [WEEK 9 — DIVISION (PART 2)](#week-9-division-part-2) · 75
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 77
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 79
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 81
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 83
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)](#examination-practice-nigerian-history-primary-2-2nd-term)** · 85
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 2nd Term)](#examination-practice-physical-and-health-education-primary-2-2nd-term)** · 87
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 2nd Term)](#examination-practice-prevocational-studies-primary-2-2nd-term)** · 89
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 2nd Term)](#examination-practice-social-and-citizenship-studies-primary-2-2nd-term)** · 91
+- **[EXAMINATION PRACTICE — YORUBA (Primary 2 · 2nd Term)](#examination-practice-yoruba-primary-2-2nd-term)** · 93
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 95
+- **[EXAMINATION PRACTICE — ENGLISH LANGUAGE · ENGLISH-LANGUAGE (Primary 2 · 2nd Term)](#examination-practice-english-language-english-language-primary-2-2nd-term)** · 97
+- **[EXAMINATION PRACTICE — MATHEMATICS · MATHEMATICS (Primary 2 · 2nd Term)](#examination-practice-mathematics-mathematics-primary-2-2nd-term)** · 99
 
 
 
@@ -6307,6 +6327,1214 @@ written for them.
 
 ---
 
+# English Language
+
+These are the notes for the second term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · English Language · Second Term W1-6, 8, 9 (reading and phonics; writing and speaking; reading and comprehension; speaking and grammar; reading and vocabulary; writing and grammar; listening and speaking; reading and handwriting).*
+
+
+### WEEK 1 — READING AND PHONICS
+
+**You will learn to**
+
+• read words with sound blends
+
+• say the sounds of letters
+
+• read simple sentences
+
+**Things to know**
+
+• **Phonics** is the sound of letters.
+
+• We blend sounds to read words.
+
+• **sh** says /sh/ as in "ship".
+
+• **ch** says /ch/ as in "chair".
+
+• **th** says /th/ as in "this".
+
+• We read words like "shop", "chip", "that".
+
+• We read simple **sentences**.
+
+• We read with a clear **voice**.
+
+• Reading helps us learn new words.
+
+• We read every day.
+
+**Let us talk**
+
+1. What is phonics?
+
+2. What sound does "sh" make?
+
+3. Name one word with "ch".
+
+**Words for my notebook**
+
+• phonics — the sound of letters
+
+• blend — to put sounds together
+
+• sentence — a group of words that makes sense
+
+**Worksheet**
+
+1. "Sh" says ___ as in "ship".
+   A) /sh/ B) /s/ C) /h/ D) /ch/
+
+2. "Ch" says ___ as in "chair".
+   A) /ch/ B) /c/ C) /h/ D) /sh/
+
+3. We read words like ___.
+   A) shop B) stone C) star D) stop
+
+4. Reading helps us learn new ___.
+   A) words B) stones C) trees D) clouds
+
+5. Fill in: A group of words that makes sense is a _____.
+
+6. Name two words with "th".
+
+7. Write what phonics is.
+
+**My own work**
+
+• Draw and colour a ship.
+
+---
+
+### WEEK 2 — WRITING AND SPEAKING
+
+**You will learn to**
+
+• write simple sentences
+
+• speak clearly
+
+• use capital letters
+
+**Things to know**
+
+• We write **sentences** about things.
+
+• A sentence starts with a **capital letter**.
+
+• A sentence ends with a **full stop**.
+
+• We write like "The cat is black."
+
+• We write about our **family** and **friends**.
+
+• We **speak** clearly when we talk.
+
+• We speak in full **sentences**.
+
+• We listen when others speak.
+
+• Writing and speaking help us share ideas.
+
+• We practise writing every day.
+
+**Let us talk**
+
+1. What starts a sentence?
+
+2. What ends a sentence?
+
+3. Write one sentence about your family.
+
+**Words for my notebook**
+
+• sentence — a complete thought
+
+• capital letter — the big letter at the start
+
+• full stop — the mark at the end
+
+**Worksheet**
+
+1. A sentence starts with a ___ letter.
+   A) capital B) small C) big D) tiny
+
+2. A sentence ends with a ___.
+   A) full stop B) question mark C) comma D) dash
+
+3. We write like "The cat is ___."
+   A) black B) stone C) tree D) cloud
+
+4. We speak in full ___.
+   A) sentences B) words C) letters D) sounds
+
+5. Fill in: The big letter at the start is a _____.
+
+6. Write two sentences about your family.
+
+7. Write what a sentence is.
+
+**My own work**
+
+• Draw and colour your family.
+
+---
+
+### WEEK 3 — READING AND COMPREHENSION
+
+**You will learn to**
+
+• read a passage
+
+• answer questions about it
+
+• understand what we read
+
+**Things to know**
+
+• **Comprehension** is understanding what we read.
+
+• We read a **passage** (a short story).
+
+• We answer **questions** about the passage.
+
+• We find the **answers** in the passage.
+
+• We read **carefully**.
+
+• We look for **keywords** in the questions.
+
+• We answer in full **sentences**.
+
+• Comprehension helps us learn.
+
+• We read to understand.
+
+• We practise comprehension every day.
+
+**Let us talk**
+
+1. What is comprehension?
+
+2. Where do we find the answers?
+
+3. How do we answer?
+
+**Words for my notebook**
+
+• comprehension — understanding what we read
+
+• passage — a short story or text
+
+• keywords — the important words
+
+**Worksheet**
+
+1. Understanding what we read is ___.
+   A) comprehension B) confusion C) sleeping D) eating
+
+2. We read a ___ (a short story).
+   A) passage B) stone C) tree D) cloud
+
+3. We answer ___ about the passage.
+   A) questions B) stones C) trees D) clouds
+
+4. We find the answers in the ___.
+   A) passage B) sky C) water D) fire
+
+5. Fill in: A short story or text is a _____.
+
+6. Answer two questions about a passage you read.
+
+7. Write what comprehension is.
+
+**My own work**
+
+• Draw and colour a scene from a story.
+
+---
+
+### WEEK 4 — SPEAKING AND GRAMMAR
+
+**You will learn to**
+
+• speak in full sentences
+
+• use correct grammar
+
+• ask questions
+
+**Things to know**
+
+• We speak in complete sentences.
+
+• We use **correct grammar**.
+
+• We say "I am" not "I is".
+
+• We say "He is" not "He are".
+
+• We say "They are" not "They is".
+
+• We ask **questions** like "What is your name?"
+
+• We answer questions clearly.
+
+• We use **polite words**.
+
+• Good grammar helps us speak well.
+
+• We practise speaking every day.
+
+**Let us talk**
+
+1. How do we speak?
+
+2. What do we say: "I am" or "I is"?
+
+3. Ask one question.
+
+**Words for my notebook**
+
+• grammar — the rules of language
+
+• full sentence — a complete thought
+
+• polite — showing good manners
+
+**Worksheet**
+
+1. We say "I ___" not "I is".
+   A) am B) is C) are D) was
+
+2. We say "He ___" not "He are".
+   A) is B) am C) are D) was
+
+3. We say "They ___" not "They is".
+   A) are B) am C) is D) was
+
+4. We ask ___ like "What is your name?"
+   A) questions B) stones C) trees D) clouds
+
+5. Fill in: The rules of language is _____.
+
+6. Ask two questions.
+
+7. Write what grammar is.
+
+**My own work**
+
+• Draw and colour a conversation.
+
+---
+
+### WEEK 5 — READING AND VOCABULARY
+
+**You will learn to**
+
+• read new words
+
+• learn new vocabulary
+
+• use words in sentences
+
+**Things to know**
+
+• **Vocabulary** is the words we know.
+
+• We learn **new words** every day.
+
+• We read to learn new words.
+
+• We look up words we do not know.
+
+• We use new words in **sentences**.
+
+• We learn words about **family**, **school**, **food**.
+
+• We learn words about **animals**, **colours**, **shapes**.
+
+• A good vocabulary helps us read well.
+
+• We practise new words every day.
+
+• Reading builds our vocabulary.
+
+**Let us talk**
+
+1. What is vocabulary?
+
+2. How do we learn new words?
+
+3. Use one new word in a sentence.
+
+**Words for my notebook**
+
+• vocabulary — the words we know
+
+• new words — words we learn
+
+• look up — to find the meaning
+
+**Worksheet**
+
+1. The words we know is our ___.
+   A) vocabulary B) stones C) trees D) clouds
+
+2. We learn ___ words every day.
+   A) new B) old C) same D) no
+
+3. We read to learn new ___.
+   A) words B) stones C) trees D) clouds
+
+4. We use new words in ___.
+   A) sentences B) stones C) trees D) clouds
+
+5. Fill in: To find the meaning is to _____.
+
+6. Name two new words you learnt.
+
+7. Write what vocabulary is.
+
+**My own work**
+
+• Draw and colour two new words.
+
+---
+
+### WEEK 6 — WRITING AND GRAMMAR
+
+**You will learn to**
+
+• write paragraphs
+
+• use correct grammar
+
+• write about topics
+
+**Things to know**
+
+• A **paragraph** is a group of sentences about one thing.
+
+• We write paragraphs about **topics**.
+
+• We write about our **family**, **school**, **friends**.
+
+• We use **correct grammar** in our writing.
+
+• We use **capital letters** and **full stops**.
+
+• We write **clearly**.
+
+• We check our writing for mistakes.
+
+• Good grammar helps us write well.
+
+• We write regularly to improve.
+
+• Writing helps us share our ideas.
+
+**Let us talk**
+
+1. What is a paragraph?
+
+2. What do we write about?
+
+3. How do we write well?
+
+**Words for my notebook**
+
+• paragraph — a group of sentences about one thing
+
+• topic — what we write about
+
+• clearly — easy to read
+
+**Worksheet**
+
+1. A group of sentences about one thing is a ___.
+   A) paragraph B) word C) letter D) sound
+
+2. We write paragraphs about ___.
+   A) topics B) stones C) trees D) clouds
+
+3. We use ___ letters and full stops.
+   A) capital B) small C) big D) tiny
+
+4. We write ___.
+   A) clearly B) noisily C) slowly D) badly
+
+5. Fill in: What we write about is the _____.
+
+6. Write one paragraph about your family.
+
+7. Write what a paragraph is.
+
+**My own work**
+
+• Draw and colour a scene from your paragraph.
+
+---
+
+### WEEK 8 — LISTENING AND SPEAKING
+
+**You will learn to**
+
+• listen carefully
+
+• speak clearly
+
+• follow instructions
+
+**Things to know**
+
+• We **listen** carefully when others talk.
+
+• We listen to our **teacher**.
+
+• We listen to **instructions**.
+
+• We talk clearly when we speak.
+
+• We use complete sentences when talking.
+
+• We answer **questions**.
+
+• We follow **directions**.
+
+• Listening and speaking help us learn.
+
+• We practise listening and speaking every day.
+
+• Good listening helps us understand.
+
+**Let us talk**
+
+1. When do we listen?
+
+2. How do we speak?
+
+3. Follow one instruction.
+
+**Words for my notebook**
+
+• listen — to hear carefully
+
+• instructions — what we are told to do
+
+• directions — the way to go
+
+**Worksheet**
+
+1. We ___ carefully when others talk.
+   A) listen B) sleep C) eat D) run
+
+2. We speak in full ___.
+   A) sentences B) words C) letters D) sounds
+
+3. We follow ___.
+   A) instructions B) stones C) trees D) clouds
+
+4. Listening and speaking help us ___.
+   A) learn B) sleep C) eat D) run
+
+5. Fill in: What we are told to do is _____.
+
+6. Follow two instructions.
+
+7. Write what listening is.
+
+**My own work**
+
+• Draw and colour someone listening.
+
+---
+
+### WEEK 9 — READING AND HANDWRITING
+
+**You will learn to**
+
+• read fluently
+
+• write neatly
+
+• use good handwriting
+
+**Things to know**
+
+• We read **fluently** (smoothly and clearly).
+
+• We read with the right **speed**.
+
+• We write **neatly**.
+
+• We use good **handwriting**.
+
+• We write **letters** correctly.
+
+• We write **words** clearly.
+
+• We write on the **lines**.
+
+• Good handwriting is easy to read.
+
+• We practise handwriting every day.
+
+• Reading and writing help us learn.
+
+**Let us talk**
+
+1. How do we read?
+
+2. How do we write?
+
+3. Write one word neatly.
+
+**Words for my notebook**
+
+• fluently — smoothly and clearly
+
+• neatly — tidy and clean
+
+• handwriting — the way we write
+
+**Worksheet**
+
+1. We read ___ (smoothly and clearly).
+   A) fluently B) slowly C) noisily D) badly
+
+2. We write ___.
+   A) neatly B) messily C) badly D) noisily
+
+3. We write ___ correctly.
+   A) letters B) stones C) trees D) clouds
+
+4. Good handwriting is easy to ___.
+   A) read B) eat C) sleep D) run
+
+5. Fill in: The way we write is _____.
+
+6. Write two words neatly.
+
+7. Write what fluently means.
+
+**My own work**
+
+• Draw and colour, then write your name neatly.
+
+
+---
+
+# Mathematics
+
+These are the notes for the second term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Mathematics · Second Term W1-6, 8, 9 (addition; subtraction; multiplication; division).*
+
+
+### WEEK 1 — ADDITION (PART 1)
+
+**You will learn to**
+
+• add two-digit numbers
+
+• add with regrouping
+
+• solve addition problems
+
+**Things to know**
+
+• **Addition** is putting numbers together.
+
+• We add two-digit numbers like 23 + 14.
+
+• We add the **units** first, then the **tens**.
+
+• 23 + 14 = 37.
+
+• We add numbers like 45 + 26.
+
+• 45 + 26 = 71.
+
+• We can add three numbers.
+
+• We use the **+** sign for addition.
+
+• The answer is called the **sum**.
+
+• Addition helps us count things together.
+
+**Let us talk**
+
+1. What is addition?
+
+2. What is 23 + 14?
+
+3. What do we add first?
+
+**Words for my notebook**
+
+• addition — putting numbers together
+
+• sum — the answer in addition
+
+• units — the ones place
+
+**Worksheet**
+
+1. 23 + 14 = ___.
+   A) 37 B) 36 C) 38 D) 35
+
+2. 45 + 26 = ___.
+   A) 71 B) 70 C) 72 D) 69
+
+3. We add the ___ first.
+   A) units B) tens C) hundreds D) thousands
+
+4. The answer in addition is called the ___.
+   A) sum B) difference C) product D) quotient
+
+5. Fill in: 34 + 25 = _____.
+
+6. Solve: 56 + 23.
+
+7. Write what addition is.
+
+**My own work**
+
+• Draw and colour 23 + 14.
+
+---
+
+### WEEK 2 — ADDITION (PART 2)
+
+**You will learn to**
+
+• add three-digit numbers
+
+• add with regrouping
+
+• solve addition problems
+
+**Things to know**
+
+• We can add **three-digit** numbers.
+
+• We add like 123 + 145.
+
+• 123 + 145 = 268.
+
+• We add the **units**, then the **tens**, then the **hundreds**.
+
+• We can add numbers like 234 + 156.
+
+• 234 + 156 = 390.
+
+• When the units add to 10 or more, we **regroup**.
+
+• We carry the 1 to the tens.
+
+• We can add three numbers together.
+
+• Addition helps us find the total.
+
+**Let us talk**
+
+1. What is 123 + 145?
+
+2. When do we regroup?
+
+3. What do we add first?
+
+**Words for my notebook**
+
+• regroup — to carry to the next place
+
+• hundreds — the hundreds place
+
+• total — the sum of all
+
+**Worksheet**
+
+1. 123 + 145 = ___.
+   A) 268 B) 267 C) 269 D) 266
+
+2. 234 + 156 = ___.
+   A) 390 B) 389 C) 391 D) 388
+
+3. When the units add to 10 or more, we ___.
+   A) regroup B) stop C) forget D) hide
+
+4. We add the units, then the tens, then the ___.
+   A) hundreds B) thousands C) millions D) billions
+
+5. Fill in: 345 + 123 = _____.
+
+6. Solve: 456 + 234.
+
+7. Write what regrouping is.
+
+**My own work**
+
+• Draw and colour 123 + 145.
+
+---
+
+### WEEK 3 — SUBTRACTION (PART 1)
+
+**You will learn to**
+
+• subtract two-digit numbers
+
+• subtract without borrowing
+
+• solve subtraction problems
+
+**Things to know**
+
+• **Subtraction** is taking away.
+
+• We subtract two-digit numbers like 45 - 23.
+
+• We subtract the **units** first, then the **tens**.
+
+• 45 - 23 = 22.
+
+• We subtract numbers like 67 - 34.
+
+• 67 - 34 = 33.
+
+• We use the **-** sign for subtraction.
+
+• The answer is called the **difference**.
+
+• Subtraction helps us find what is left.
+
+• We subtract to find the difference.
+
+**Let us talk**
+
+1. What is subtraction?
+
+2. What is 45 - 23?
+
+3. What do we subtract first?
+
+**Words for my notebook**
+
+• subtraction — taking away
+
+• difference — the answer in subtraction
+
+• take away — to subtract
+
+**Worksheet**
+
+1. 45 - 23 = ___.
+   A) 22 B) 21 C) 23 D) 20
+
+2. 67 - 34 = ___.
+   A) 33 B) 32 C) 34 D) 31
+
+3. We subtract the ___ first.
+   A) units B) tens C) hundreds D) thousands
+
+4. The answer in subtraction is called the ___.
+   A) difference B) sum C) product D) quotient
+
+5. Fill in: 56 - 23 = _____.
+
+6. Solve: 78 - 45.
+
+7. Write what subtraction is.
+
+**My own work**
+
+• Draw and colour 45 - 23.
+
+---
+
+### WEEK 4 — SUBTRACTION (PART 2)
+
+**You will learn to**
+
+• subtract three-digit numbers
+
+• subtract with borrowing
+
+• solve subtraction with borrowing
+
+**Things to know**
+
+• We can subtract **three-digit** numbers.
+
+• We subtract like 268 - 145.
+
+• 268 - 145 = 123.
+
+• We subtract the **units**, then the **tens**, then the **hundreds**.
+
+• When we cannot subtract, we **borrow**.
+
+• We borrow 1 from the next place.
+
+• We can subtract numbers like 390 - 156.
+
+• 390 - 156 = 234.
+
+• Borrowing helps us subtract.
+
+• Subtraction tells us what remains.
+
+**Let us talk**
+
+1. What is 268 - 145?
+
+2. When do we borrow?
+
+3. What do we subtract first?
+
+**Words for my notebook**
+
+• borrow — to take from the next place
+
+• hundreds place — where hundreds go
+
+• left — what remains
+
+**Worksheet**
+
+1. 268 - 145 = ___.
+   A) 123 B) 122 C) 124 D) 121
+
+2. 390 - 156 = ___.
+   A) 234 B) 233 C) 235 D) 232
+
+3. When we cannot subtract, we ___.
+   A) borrow B) stop C) forget D) hide
+
+4. We subtract the units, then the tens, then the ___.
+   A) hundreds B) thousands C) millions D) billions
+
+5. Fill in: 456 - 123 = _____.
+
+6. Solve: 567 - 234.
+
+7. Write what borrowing is.
+
+**My own work**
+
+• Draw and colour 268 - 145.
+
+---
+
+### WEEK 5 — MULTIPLICATION (PART 1)
+
+**You will learn to**
+
+• multiply small numbers
+
+• use the times table
+
+• solve multiplication problems
+
+**Things to know**
+
+• **Multiplication** is adding the same number many times.
+
+• 2 × 3 means 2 + 2 + 2 = 6.
+
+• 3 × 4 means 3 + 3 + 3 + 3 = 12.
+
+• We use the **×** sign for multiplication.
+
+• The answer is called the **product**.
+
+• We learn the **times table**.
+
+• 2 × 2 = 4; 2 × 3 = 6; 2 × 4 = 8.
+
+• 5 × 2 = 10; 5 × 3 = 15; 5 × 4 = 20.
+
+• Multiplication is quick adding.
+
+• We use multiplication every day.
+
+**Let us talk**
+
+1. What is multiplication?
+
+2. What is 2 × 3?
+
+3. What is the product?
+
+**Words for my notebook**
+
+• multiplication — adding the same number many times
+
+• product — the answer in multiplication
+
+• times table — the table of multiplication
+
+**Worksheet**
+
+1. 2 × 3 = ___.
+   A) 6 B) 5 C) 7 D) 8
+
+2. 3 × 4 = ___.
+   A) 12 B) 11 C) 13 D) 10
+
+3. 5 × 2 = ___.
+   A) 10 B) 9 C) 11 D) 8
+
+4. The answer in multiplication is called the ___.
+   A) product B) sum C) difference D) quotient
+
+5. Fill in: 4 × 3 = _____.
+
+6. Solve: 5 × 4.
+
+7. Write what multiplication is.
+
+**My own work**
+
+• Draw and colour 2 × 3.
+
+---
+
+### WEEK 6 — MULTIPLICATION (PART 2)
+
+**You will learn to**
+
+• multiply larger numbers
+
+• use the times table
+
+• solve larger multiplication problems
+
+**Things to know**
+
+• We can multiply larger numbers.
+
+• 10 × 2 = 20; 10 × 3 = 30; 10 × 4 = 40.
+
+• 4 × 5 = 20; 4 × 6 = 24; 4 × 7 = 28.
+
+• We learn the times table to 10.
+
+• 6 × 2 = 12; 6 × 3 = 18; 6 × 4 = 24.
+
+• 7 × 2 = 14; 7 × 3 = 21; 7 × 4 = 28.
+
+• We can multiply two-digit numbers by one-digit numbers.
+
+• 12 × 2 = 24; 13 × 3 = 39.
+
+• Multiplication helps us count quickly.
+
+• We practise the times table every day.
+
+**Let us talk**
+
+1. What is 10 × 3?
+
+2. What is 4 × 5?
+
+3. Why do we learn the times table?
+
+**Words for my notebook**
+
+• times table — the multiplication chart
+
+• larger numbers — bigger numbers
+
+• quickly — fast
+
+**Worksheet**
+
+1. 10 × 3 = ___.
+   A) 30 B) 29 C) 31 D) 28
+
+2. 4 × 5 = ___.
+   A) 20 B) 19 C) 21 D) 18
+
+3. 6 × 2 = ___.
+   A) 12 B) 11 C) 13 D) 10
+
+4. 12 × 2 = ___.
+   A) 24 B) 23 C) 25 D) 22
+
+5. Fill in: 7 × 3 = _____.
+
+6. Solve: 8 × 4.
+
+7. Write what the times table is.
+
+**My own work**
+
+• Draw and colour 10 × 3.
+
+---
+
+### WEEK 8 — DIVISION (PART 1)
+
+**You will learn to**
+
+• divide small numbers
+
+• share equally
+
+• solve division problems
+
+**Things to know**
+
+• **Division** is sharing equally.
+
+• 6 ÷ 2 = 3 (6 shared by 2 is 3 each).
+
+• 12 ÷ 3 = 4 (12 shared by 3 is 4 each).
+
+• We use the **÷** sign for division.
+
+• The answer is called the **quotient**.
+
+• Division is the opposite of multiplication.
+
+• 10 ÷ 2 = 5; 10 ÷ 5 = 2.
+
+• 15 ÷ 3 = 5; 15 ÷ 5 = 3.
+
+• Division helps us share things.
+
+• We use division every day.
+
+**Let us talk**
+
+1. What is division?
+
+2. What is 6 ÷ 2?
+
+3. What is the quotient?
+
+**Words for my notebook**
+
+• division — sharing equally
+
+• quotient — the answer in division
+
+• share — to give part of what we have
+
+**Worksheet**
+
+1. 6 ÷ 2 = ___.
+   A) 3 B) 2 C) 4 D) 5
+
+2. 12 ÷ 3 = ___.
+   A) 4 B) 3 C) 5 D) 6
+
+3. 10 ÷ 2 = ___.
+   A) 5 B) 4 C) 6 D) 3
+
+4. The answer in division is called the ___.
+   A) quotient B) sum C) difference D) product
+
+5. Fill in: 15 ÷ 3 = _____.
+
+6. Solve: 20 ÷ 4.
+
+7. Write what division is.
+
+**My own work**
+
+• Draw and colour 6 ÷ 2.
+
+---
+
+### WEEK 9 — DIVISION (PART 2)
+
+**You will learn to**
+
+• divide larger numbers
+
+• use the times table
+
+• solve division problems
+
+**Things to know**
+
+• We can divide larger numbers.
+
+• 20 ÷ 4 = 5; 20 ÷ 5 = 4.
+
+• 24 ÷ 6 = 4; 24 ÷ 4 = 6.
+
+• We use the times table to help us divide.
+
+• 30 ÷ 5 = 6; 30 ÷ 6 = 5.
+
+• 36 ÷ 6 = 6; 36 ÷ 4 = 9.
+
+• Division helps us share things equally.
+
+• We can divide two-digit numbers.
+
+• 40 ÷ 8 = 5; 45 ÷ 9 = 5.
+
+• We practise division every day.
+
+**Let us talk**
+
+1. What is 20 ÷ 4?
+
+2. What is 24 ÷ 6?
+
+3. How does the times table help us divide?
+
+**Words for my notebook**
+
+• times table — the multiplication facts
+
+• equally — the same for each
+
+• practise — to do again and again
+
+**Worksheet**
+
+1. 20 ÷ 4 = ___.
+   A) 5 B) 4 C) 6 D) 3
+
+2. 24 ÷ 6 = ___.
+   A) 4 B) 3 C) 5 D) 6
+
+3. 30 ÷ 5 = ___.
+   A) 6 B) 5 C) 7 D) 4
+
+4. 36 ÷ 6 = ___.
+   A) 6 B) 5 C) 7 D) 4
+
+5. Fill in: 40 ÷ 8 = _____.
+
+6. Solve: 45 ÷ 9.
+
+7. Write how the times table helps us divide.
+
+**My own work**
+
+• Draw and colour 20 ÷ 4.
+
+
+---
+
 ---
 
 # EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)
@@ -8163,3 +9391,375 @@ Answer in full sentences.
 43. Name two African countries and their capitals. (2 marks)
 44. Name the three main languages in Nigeria. (2 marks)
 45. What is a habitat? Name two animals and their habitats. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — ENGLISH LANGUAGE · ENGLISH-LANGUAGE (Primary 2 · 2nd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. "Sh" says ___ as in "ship"
+   A) /s/
+   B) /ch/
+   C) /h/
+   D) /sh/
+2. "Ch" says ___ as in "chair"
+   A) /ch/
+   B) /h/
+   C) /sh/
+   D) /c/
+3. We read words like ___
+   A) star
+   B) stone
+   C) shop
+   D) stop
+4. Reading helps us learn new ___
+   A) clouds
+   B) trees
+   C) stones
+   D) words
+5. A sentence starts with a ___ letter
+   A) capital
+   B) small
+   C) big
+   D) tiny
+6. A sentence ends with a ___
+   A) dash
+   B) full stop
+   C) comma
+   D) question mark
+7. We write like "The cat is ___."
+   A) tree
+   B) stone
+   C) cloud
+   D) black
+8. We speak in full ___
+   A) sentences
+   B) sounds
+   C) letters
+   D) words
+9. Understanding what we read is ___
+   A) confusion
+   B) sleeping
+   C) comprehension
+   D) eating
+10. We read a ___ (a short story)
+   A) cloud
+   B) passage
+   C) stone
+   D) tree
+11. We answer ___ about the passage
+   A) questions
+   B) stones
+   C) clouds
+   D) trees
+12. We find the answers in the ___
+   A) sky
+   B) water
+   C) passage
+   D) fire
+13. We say "I ___" not "I is"
+   A) is
+   B) am
+   C) are
+   D) was
+14. We say "He ___" not "He are"
+   A) am
+   B) was
+   C) are
+   D) is
+15. We say "They ___" not "They is"
+   A) was
+   B) is
+   C) are
+   D) am
+16. We ask ___ like "What is your name?"
+   A) questions
+   B) trees
+   C) clouds
+   D) stones
+17. The words we know is our ___
+   A) clouds
+   B) stones
+   C) trees
+   D) vocabulary
+18. We learn ___ words every day
+   A) no
+   B) new
+   C) same
+   D) old
+19. We read to learn new ___
+   A) words
+   B) clouds
+   C) stones
+   D) trees
+20. We use new words in ___
+   A) trees
+   B) clouds
+   C) sentences
+   D) stones
+21. A group of sentences about one thing is a ___
+   A) sound
+   B) paragraph
+   C) letter
+   D) word
+22. We write paragraphs about ___
+   A) clouds
+   B) stones
+   C) trees
+   D) topics
+23. We use ___ letters and full stops
+   A) tiny
+   B) big
+   C) capital
+   D) small
+24. We write ___
+   A) clearly
+   B) slowly
+   C) noisily
+   D) badly
+25. We ___ carefully when others talk
+   A) eat
+   B) listen
+   C) run
+   D) sleep
+26. We speak in full ___
+   A) letters
+   B) words
+   C) sounds
+   D) sentences
+27. We follow ___
+   A) clouds
+   B) stones
+   C) instructions
+   D) trees
+28. Listening and speaking help us ___
+   A) sleep
+   B) learn
+   C) run
+   D) eat
+29. We read ___ (smoothly and clearly)
+   A) badly
+   B) noisily
+   C) slowly
+   D) fluently
+30. We write ___
+   A) neatly
+   B) noisily
+   C) badly
+   D) messily
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two words with "sh"
+32. Name two words with "ch"
+33. Write two sentences about your family
+34. Ask two questions
+35. Name two new words you learnt
+36. Write one paragraph about your family
+37. Follow two instructions
+38. Write two words neatly
+39. Name two words with "th"
+40. Write what a sentence is
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is phonics? Name two words with "sh". (2 marks)
+42. What is a sentence? Write one sentence. (2 marks)
+43. What is comprehension? Where do we find the answers? (2 marks)
+44. What is grammar? Write: "I ___" or "He ___". (2 marks)
+45. What is a paragraph? Write one paragraph about your family. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — MATHEMATICS · MATHEMATICS (Primary 2 · 2nd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. 23 + 14 = ___
+   A) 37
+   B) 36
+   C) 38
+   D) 35
+2. 45 + 26 = ___
+   A) 72
+   B) 70
+   C) 71
+   D) 69
+3. We add the ___ first
+   A) hundreds
+   B) tens
+   C) thousands
+   D) units
+4. The answer in addition is called the ___
+   A) difference
+   B) sum
+   C) quotient
+   D) product
+5. 123 + 145 = ___
+   A) 268
+   B) 266
+   C) 269
+   D) 267
+6. 234 + 156 = ___
+   A) 388
+   B) 389
+   C) 390
+   D) 391
+7. When the units add to 10 or more, we ___
+   A) forget
+   B) stop
+   C) hide
+   D) regroup
+8. We add the units, then the tens, then the ___
+   A) hundreds
+   B) millions
+   C) thousands
+   D) billions
+9. 45 - 23 = ___
+   A) 20
+   B) 23
+   C) 22
+   D) 21
+10. 67 - 34 = ___
+   A) 32
+   B) 33
+   C) 34
+   D) 31
+11. We subtract the ___ first
+   A) tens
+   B) thousands
+   C) hundreds
+   D) units
+12. The answer in subtraction is called the ___
+   A) difference
+   B) product
+   C) sum
+   D) quotient
+13. 268 - 145 = ___
+   A) 124
+   B) 123
+   C) 122
+   D) 121
+14. 390 - 156 = ___
+   A) 232
+   B) 235
+   C) 234
+   D) 233
+15. When we cannot subtract, we ___
+   A) forget
+   B) stop
+   C) hide
+   D) borrow
+16. We subtract the units, then the tens, then the ___
+   A) thousands
+   B) hundreds
+   C) billions
+   D) millions
+17. 2 × 3 = ___
+   A) 6
+   B) 5
+   C) 8
+   D) 7
+18. 3 × 4 = ___
+   A) 10
+   B) 11
+   C) 12
+   D) 13
+19. 5 × 2 = ___
+   A) 11
+   B) 8
+   C) 9
+   D) 10
+20. The answer in multiplication is called the ___
+   A) product
+   B) difference
+   C) quotient
+   D) sum
+21. 10 × 3 = ___
+   A) 29
+   B) 30
+   C) 28
+   D) 31
+22. 4 × 5 = ___
+   A) 21
+   B) 18
+   C) 20
+   D) 19
+23. 6 × 2 = ___
+   A) 12
+   B) 10
+   C) 13
+   D) 11
+24. 12 × 2 = ___
+   A) 25
+   B) 24
+   C) 22
+   D) 23
+25. 6 ÷ 2 = ___
+   A) 2
+   B) 4
+   C) 3
+   D) 5
+26. 12 ÷ 3 = ___
+   A) 5
+   B) 3
+   C) 6
+   D) 4
+27. 10 ÷ 2 = ___
+   A) 4
+   B) 5
+   C) 3
+   D) 6
+28. The answer in division is called the ___
+   A) difference
+   B) product
+   C) quotient
+   D) sum
+29. 20 ÷ 4 = ___
+   A) 5
+   B) 4
+   C) 6
+   D) 3
+30. 24 ÷ 6 = ___
+   A) 3
+   B) 6
+   C) 5
+   D) 4
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Solve: 34 + 25
+32. Solve: 56 + 23
+33. Solve: 56 - 23
+34. Solve: 78 - 45
+35. Solve: 4 × 3
+36. Solve: 5 × 4
+37. Solve: 15 ÷ 3
+38. Solve: 20 ÷ 4
+39. Solve: 345 + 123
+40. Solve: 456 - 123
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is addition? Solve: 45 + 26. (2 marks)
+42. What is subtraction? Solve: 67 - 34. (2 marks)
+43. What is multiplication? Solve: 3 × 4. (2 marks)
+44. What is division? Solve: 12 ÷ 3. (2 marks)
+45. Solve: 123 + 145 and 268 - 145. (2 marks)
