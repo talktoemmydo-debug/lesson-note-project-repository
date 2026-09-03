@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 98 lessons · 7 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 98 lessons · 8 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,7 +12,7 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*7 subjects · 56 lessons · 7 term practice papers. Each part begins on a fresh page.*
+*8 subjects · 64 lessons · 8 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 3
   - [WEEK 1 — AIR IN MOTION](#week-1-air-in-motion) · 3
@@ -68,22 +68,32 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 6 — ATHLETICS I: RUNNING](#week-6-athletics-i-running) · 36
   - [WEEK 8 — ATHLETICS II: JUMPING](#week-8-athletics-ii-jumping) · 37
   - [WEEK 9 — BALL GAMES I: INTRODUCTION](#week-9-ball-games-i-introduction) · 37
-- **[General Knowledge](#general-knowledge)** · 39
-  - [WEEK 1 — OUR WORLD: THE SEVEN CONTINENTS](#week-1-our-world-the-seven-continents) · 39
-  - [WEEK 2 — OUR WORLD: THE FIVE OCEANS](#week-2-our-world-the-five-oceans) · 39
-  - [WEEK 3 — COUNTRIES AND CAPITALS: AFRICA](#week-3-countries-and-capitals-africa) · 40
-  - [WEEK 4 — COUNTRIES AND CAPITALS: THE WORLD](#week-4-countries-and-capitals-the-world) · 41
-  - [WEEK 5 — NIGERIAN CULTURE: LANGUAGES, DRESS AND FESTIVALS](#week-5-nigerian-culture-languages-dress-and-festivals) · 41
-  - [WEEK 6 — THE HUMAN BODY AND HEALTHY HABITS](#week-6-the-human-body-and-healthy-habits) · 42
-  - [WEEK 8 — PLANTS, ANIMALS AND THEIR HABITATS](#week-8-plants-animals-and-their-habitats) · 43
-  - [WEEK 9 — TECHNOLOGY AROUND US](#week-9-technology-around-us) · 43
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 45
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 47
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 49
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 51
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)](#examination-practice-nigerian-history-primary-2-2nd-term)** · 53
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 2nd Term)](#examination-practice-physical-and-health-education-primary-2-2nd-term)** · 55
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 57
+- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 39
+  - [WEEK 1 — CONCEPT OF HOME ECONOMICS I](#week-1-concept-of-home-economics-i) · 39
+  - [WEEK 2 — CONCEPT OF HOME ECONOMICS II](#week-2-concept-of-home-economics-ii) · 39
+  - [WEEK 3 — PERSONAL GROOMING I](#week-3-personal-grooming-i) · 40
+  - [WEEK 4 — PERSONAL GROOMING II](#week-4-personal-grooming-ii) · 41
+  - [WEEK 5 — CARE OF PERSONAL CLOTHING I](#week-5-care-of-personal-clothing-i) · 41
+  - [WEEK 6 — CARE OF PERSONAL CLOTHING II](#week-6-care-of-personal-clothing-ii) · 42
+  - [WEEK 8 — INTRODUCTION TO FOOD](#week-8-introduction-to-food) · 43
+  - [WEEK 9 — SIMPLE HOME ECONOMICS TOOLS I](#week-9-simple-home-economics-tools-i) · 43
+- **[General Knowledge](#general-knowledge)** · 45
+  - [WEEK 1 — OUR WORLD: THE SEVEN CONTINENTS](#week-1-our-world-the-seven-continents) · 45
+  - [WEEK 2 — OUR WORLD: THE FIVE OCEANS](#week-2-our-world-the-five-oceans) · 45
+  - [WEEK 3 — COUNTRIES AND CAPITALS: AFRICA](#week-3-countries-and-capitals-africa) · 46
+  - [WEEK 4 — COUNTRIES AND CAPITALS: THE WORLD](#week-4-countries-and-capitals-the-world) · 47
+  - [WEEK 5 — NIGERIAN CULTURE: LANGUAGES, DRESS AND FESTIVALS](#week-5-nigerian-culture-languages-dress-and-festivals) · 47
+  - [WEEK 6 — THE HUMAN BODY AND HEALTHY HABITS](#week-6-the-human-body-and-healthy-habits) · 48
+  - [WEEK 8 — PLANTS, ANIMALS AND THEIR HABITATS](#week-8-plants-animals-and-their-habitats) · 49
+  - [WEEK 9 — TECHNOLOGY AROUND US](#week-9-technology-around-us) · 49
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 51
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 53
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 55
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 57
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)](#examination-practice-nigerian-history-primary-2-2nd-term)** · 59
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 2nd Term)](#examination-practice-physical-and-health-education-primary-2-2nd-term)** · 61
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 2nd Term)](#examination-practice-prevocational-studies-primary-2-2nd-term)** · 63
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 65
 
 
 
@@ -3713,6 +3723,610 @@ written for them.
 
 ---
 
+# Prevocational Studies (PVS)
+
+These are the notes for the second term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Prevocational Studies · Second Term W1-6, 8-9 (concept of home economics I; concept of home economics II; personal grooming I; personal grooming II; care of personal clothing I; care of personal clothing II; introduction to food; simple home economics tools I).*
+
+
+### WEEK 1 — CONCEPT OF HOME ECONOMICS I
+
+**You will learn to**
+
+• say what home economics is
+
+• name what we learn in it
+
+• care for our home
+
+**Things to know**
+
+• **Home economics** is the study of the home and family.
+
+• It teaches us how to care for the **home**.
+
+• We learn about **food** and **clothing**.
+
+• We learn about **cleaning** the home.
+
+• We learn about **caring** for the family.
+
+• Home economics helps us live **well**.
+
+• We learn skills for **every day**.
+
+• Home economics is useful for **boys** and **girls**.
+
+• We use what we learn at **home**.
+
+• Home economics makes our home happy.
+
+**Let us talk**
+
+1. What is home economics?
+
+2. Name one thing we learn in home economics.
+
+3. Why is home economics useful?
+
+**Words for my notebook**
+
+• home economics — the study of the home and family
+
+• home — the place we live with our family
+
+• skill — something we learn to do well
+
+**Worksheet**
+
+1. The study of the home and family is ___ economics.
+   A) home B) school C) market D) farm
+
+2. Home economics teaches us to care for the ___.
+   A) home B) sky C) river D) fire
+
+3. We learn about food and ___.
+   A) clothing B) stones C) trees D) clouds
+
+4. Home economics is useful for boys and ___.
+   A) girls B) stones C) trees D) clouds
+
+5. Fill in: The place we live with our family is our _____.
+
+6. Mention two things we learn in home economics.
+
+7. Write what home economics is.
+
+**My own work**
+
+• Draw a happy home.
+
+---
+
+### WEEK 2 — CONCEPT OF HOME ECONOMICS II
+
+**You will learn to**
+
+• name areas of home economics
+
+• say why it matters
+
+• use it at home
+
+**Things to know**
+
+• Home economics has different **areas**.
+
+• **Food and nutrition** — how we prepare and eat food.
+
+• **Clothing and textiles** — how we care for clothes.
+
+• **Home management** — how we keep the home.
+
+• **Child care** — how we care for children.
+
+• These areas help us in **daily life**.
+
+• We use home economics at **home** and **school**.
+
+• Home economics teaches us to be **responsible**.
+
+• It helps our **family** live well.
+
+• Home economics is a useful subject.
+
+**Let us talk**
+
+1. Name one area of home economics.
+
+2. Why does home economics matter?
+
+3. Where do we use home economics?
+
+**Words for my notebook**
+
+• area — a part of a subject
+
+• nutrition — the food that helps us grow
+
+• responsible — doing what we should do
+
+**Worksheet**
+
+1. How we prepare and eat food is food and ___.
+   A) nutrition B) stone C) tree D) cloud
+
+2. How we care for clothes is clothing and ___.
+   A) textiles B) stones C) trees D) clouds
+
+3. How we keep the home is home ___.
+   A) management B) stone C) tree D) cloud
+
+4. Home economics teaches us to be ___.
+   A) responsible B) lazy C) rude D) angry
+
+5. Fill in: The food that helps us grow is _____.
+
+6. Mention two areas of home economics.
+
+7. Write why home economics matters.
+
+**My own work**
+
+• Draw one area of home economics.
+
+---
+
+### WEEK 3 — PERSONAL GROOMING I
+
+**You will learn to**
+
+• say what grooming is
+
+• keep the body clean
+
+• look neat
+
+**Things to know**
+
+• **Grooming** is keeping the body clean and neat.
+
+• We **bathe** every day with soap and water.
+
+• We **brush** our teeth every morning and night.
+
+• We **comb** our hair.
+
+• We keep our **nails** short and clean.
+
+• We wash our **hands** and **face**.
+
+• We wear **clean** clothes.
+
+• Good grooming keeps us **healthy**.
+
+• Good grooming makes us look **neat**.
+
+• Grooming is part of home economics.
+
+**Let us talk**
+
+1. What is grooming?
+
+2. Name one way we groom.
+
+3. Why is grooming good?
+
+**Words for my notebook**
+
+• grooming — keeping the body clean and neat
+
+• neat — clean and tidy
+
+• healthy — well and not sick
+
+**Worksheet**
+
+1. Keeping the body clean and neat is ___.
+   A) grooming B) sleeping C) eating D) running
+
+2. We bathe every day with soap and ___.
+   A) water B) sand C) oil D) ink
+
+3. We brush our teeth every morning and ___.
+   A) night B) noon C) dawn D) dusk
+
+4. We keep our nails short and ___.
+   A) clean B) long C) dirty D) dark
+
+5. Fill in: Clean and tidy is being _____.
+
+6. Mention two ways we groom.
+
+7. Write what grooming is.
+
+**My own work**
+
+• Draw yourself grooming.
+
+---
+
+### WEEK 4 — PERSONAL GROOMING II
+
+**You will learn to**
+
+• care for the hair
+
+• care for the skin
+
+• care for the teeth
+
+**Things to know**
+
+• We care for our **hair** by combing and washing it.
+
+• We keep our hair **neat**.
+
+• We care for our **skin** by bathing.
+
+• We use **soap** and clean water.
+
+• We care for our **teeth** by brushing.
+
+• We use a **toothbrush** and **toothpaste**.
+
+• We do not eat too many **sweets**.
+
+• Good grooming keeps us from **sickness**.
+
+• We groom every **day**.
+
+• Good grooming makes us feel well.
+
+**Let us talk**
+
+1. How do we care for our hair?
+
+2. How do we care for our teeth?
+
+3. Why do we groom every day?
+
+**Words for my notebook**
+
+• hair — what grows on our head
+
+• skin — the outer covering of the body
+
+• teeth — the hard parts in our mouth we chew with
+
+**Worksheet**
+
+1. We care for our hair by combing and ___ it.
+   A) washing B) burning C) breaking D) hiding
+
+2. We care for our skin by ___.
+   A) bathing B) burning C) breaking D) hiding
+
+3. We care for our teeth by ___.
+   A) brushing B) burning C) breaking D) hiding
+
+4. We use a toothbrush and ___.
+   A) toothpaste B) sand C) oil D) ink
+
+5. Fill in: The outer covering of the body is the _____.
+
+6. Mention two ways we care for our body.
+
+7. Write how we care for our teeth.
+
+**My own work**
+
+• Draw a toothbrush and comb.
+
+---
+
+### WEEK 5 — CARE OF PERSONAL CLOTHING I
+
+**You will learn to**
+
+• name our clothes
+
+• keep clothes clean
+
+• wash clothes
+
+**Things to know**
+
+• **Clothing** is what we wear on the body.
+
+• We wear **shirts**, **trousers**, **dresses** and **shoes**.
+
+• We keep our clothes **clean**.
+
+• We **wash** our clothes with soap and water.
+
+• We do not play in the **mud** with clean clothes.
+
+• We change our clothes when they are **dirty**.
+
+• We do not **tear** our clothes.
+
+• Clean clothes keep us **healthy**.
+
+• Clean clothes make us look **neat**.
+
+• We care for our clothes every day.
+
+**Let us talk**
+
+1. What is clothing?
+
+2. Name one thing we wear.
+
+3. How do we keep clothes clean?
+
+**Words for my notebook**
+
+• clothing — what we wear on the body
+
+• wash — to clean with water and soap
+
+• dirty — not clean
+
+**Worksheet**
+
+1. What we wear on the body is ___.
+   A) clothing B) food C) water D) stone
+
+2. We wash our clothes with soap and ___.
+   A) water B) sand C) oil D) ink
+
+3. We do not play in the ___ with clean clothes.
+   A) mud B) sun C) air D) light
+
+4. We change our clothes when they are ___.
+   A) dirty B) clean C) new D) dry
+
+5. Fill in: Not clean is being _____.
+
+6. Mention two things we wear.
+
+7. Write how we keep clothes clean.
+
+**My own work**
+
+• Draw a shirt and trousers.
+
+---
+
+### WEEK 6 — CARE OF PERSONAL CLOTHING II
+
+**You will learn to**
+
+• dry and fold clothes
+
+• keep clothes well
+
+• iron clothes
+
+**Things to know**
+
+• We **dry** our clothes in the sun.
+
+• We **fold** our clothes neatly.
+
+• We keep clothes in a **wardrobe** or **box**.
+
+• We **iron** clothes to make them neat.
+
+• We do not leave clothes on the **floor**.
+
+• We **mend** torn clothes.
+
+• We keep our clothes away from **dust**.
+
+• Good care makes clothes **last long**.
+
+• We wear clean, neat clothes.
+
+• Caring for clothes is part of home economics.
+
+**Let us talk**
+
+1. Where do we dry clothes?
+
+2. Where do we keep clothes?
+
+3. Why do we iron clothes?
+
+**Words for my notebook**
+
+• dry — to remove water
+
+• fold — to bend clothes neatly
+
+• wardrobe — a place we keep clothes
+
+**Worksheet**
+
+1. We dry our clothes in the ___.
+   A) sun B) water C) mud D) dark
+
+2. We ___ our clothes neatly.
+   A) fold B) burn C) break D) hide
+
+3. We keep clothes in a ___ or box.
+   A) wardrobe B) river C) fire D) sky
+
+4. We ___ clothes to make them neat.
+   A) iron B) burn C) break D) hide
+
+5. Fill in: To bend clothes neatly is to _____.
+
+6. Mention two ways to care for clothes.
+
+7. Write where we keep clothes.
+
+**My own work**
+
+• Draw folded clothes in a wardrobe.
+
+---
+
+### WEEK 8 — INTRODUCTION TO FOOD
+
+**You will learn to**
+
+• say what food is
+
+• name food groups
+
+• eat good food
+
+**Things to know**
+
+• **Food** is what we eat to live and grow.
+
+• Food gives us **energy**.
+
+• There are different **food groups**.
+
+• **Carbohydrates** give energy — rice, yam, beans.
+
+• **Proteins** build the body — eggs, fish, meat.
+
+• **Vitamins** and **minerals** protect us — fruits and vegetables.
+
+• A **balanced diet** has all the food groups.
+
+• We eat **three meals** a day.
+
+• We drink **water** every day.
+
+• Good food keeps us strong and healthy.
+
+**Let us talk**
+
+1. What is food?
+
+2. Name one food group.
+
+3. What is a balanced diet?
+
+**Words for my notebook**
+
+• food — what we eat to live and grow
+
+• food group — a kind of food
+
+• balanced diet — a meal with all the food groups
+
+**Worksheet**
+
+1. What we eat to live and grow is ___.
+   A) food B) stone C) water D) fire
+
+2. The food that gives us energy is ___.
+   A) carbohydrates B) water only C) sand D) stone
+
+3. The food that builds the body is ___.
+   A) protein B) stone C) sand D) dust
+
+4. A meal with all the food groups is a ___ diet.
+   A) balanced B) broken C) bad D) bitter
+
+5. Fill in: A kind of food is a _____.
+
+6. Mention two food groups.
+
+7. Write what a balanced diet is.
+
+**My own work**
+
+• Draw a plate with all the food groups.
+
+---
+
+### WEEK 9 — SIMPLE HOME ECONOMICS TOOLS I
+
+**You will learn to**
+
+• name home economics tools
+
+• say what each tool does
+
+• use tools with care
+
+**Things to know**
+
+• We use **tools** in home economics.
+
+• We use a **broom** to sweep.
+
+• We use a **bucket** to fetch water.
+
+• We use a **pot** to cook.
+
+• We use a **knife** to cut.
+
+• We use a **spoon** to stir and eat.
+
+• We use a **plate** to serve food.
+
+• We use tools with **care**.
+
+• We do not play with **sharp** tools.
+
+• We keep our tools clean and well.
+
+**Let us talk**
+
+1. Name one home economics tool.
+
+2. What do we use a broom for?
+
+3. How do we use tools?
+
+**Words for my notebook**
+
+• tool — a thing we use to do work
+
+• broom — a tool for sweeping
+
+• pot — a tool for cooking
+
+**Worksheet**
+
+1. A thing we use to do work is a ___.
+   A) tool B) song C) stone D) dream
+
+2. We use a ___ to sweep.
+   A) broom B) knife C) pot D) plate
+
+3. We use a ___ to cook.
+   A) pot B) broom C) bucket D) spoon
+
+4. We use a ___ to cut.
+   A) knife B) broom C) plate D) bucket
+
+5. Fill in: A tool for sweeping is a _____.
+
+6. Mention two home economics tools.
+
+7. Write how we use tools.
+
+**My own work**
+
+• Draw two home economics tools.
+
+
+---
+
 # General Knowledge
 
 These are the notes for the second term of Primary 2. They follow the NERDC
@@ -5429,6 +6043,192 @@ Answer in full sentences.
 43. What is physical education? Name two things we do in PHE. (2 marks)
 44. What is jumping? Name two types. (2 marks)
 45. What is a ball game? Name two ball games. (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 2nd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. The study of the home and family is ___ economics
+   A) school
+   B) farm
+   C) market
+   D) home
+2. Home economics teaches us to care for the ___
+   A) fire
+   B) river
+   C) home
+   D) sky
+3. We learn about food and ___
+   A) clothing
+   B) clouds
+   C) stones
+   D) trees
+4. Home economics is useful for boys and ___
+   A) clouds
+   B) trees
+   C) stones
+   D) girls
+5. How we prepare and eat food is food and ___
+   A) stone
+   B) nutrition
+   C) cloud
+   D) tree
+6. How we care for clothes is clothing and ___
+   A) trees
+   B) stones
+   C) textiles
+   D) clouds
+7. How we keep the home is home ___
+   A) management
+   B) tree
+   C) cloud
+   D) stone
+8. Home economics teaches us to be ___
+   A) angry
+   B) rude
+   C) lazy
+   D) responsible
+9. Keeping the body clean and neat is ___
+   A) running
+   B) grooming
+   C) eating
+   D) sleeping
+10. We bathe every day with soap and ___
+   A) sand
+   B) ink
+   C) water
+   D) oil
+11. We brush our teeth every morning and ___
+   A) dusk
+   B) dawn
+   C) noon
+   D) night
+12. We keep our nails short and ___
+   A) long
+   B) clean
+   C) dirty
+   D) dark
+13. We care for our hair by combing and ___ it
+   A) washing
+   B) hiding
+   C) burning
+   D) breaking
+14. We care for our skin by ___
+   A) breaking
+   B) burning
+   C) bathing
+   D) hiding
+15. We care for our teeth by ___
+   A) burning
+   B) brushing
+   C) breaking
+   D) hiding
+16. We use a toothbrush and ___
+   A) oil
+   B) sand
+   C) ink
+   D) toothpaste
+17. What we wear on the body is ___
+   A) clothing
+   B) stone
+   C) water
+   D) food
+18. We wash our clothes with soap and ___
+   A) sand
+   B) oil
+   C) water
+   D) ink
+19. We do not play in the ___ with clean clothes
+   A) light
+   B) sun
+   C) air
+   D) mud
+20. We change our clothes when they are ___
+   A) dry
+   B) dirty
+   C) clean
+   D) new
+21. We dry our clothes in the ___
+   A) dark
+   B) mud
+   C) sun
+   D) water
+22. We ___ our clothes neatly
+   A) fold
+   B) break
+   C) hide
+   D) burn
+23. We keep clothes in a ___ or box
+   A) river
+   B) sky
+   C) fire
+   D) wardrobe
+24. We ___ clothes to make them neat
+   A) hide
+   B) iron
+   C) break
+   D) burn
+25. What we eat to live and grow is ___
+   A) food
+   B) stone
+   C) fire
+   D) water
+26. The food that gives us energy is ___
+   A) sand
+   B) water only
+   C) carbohydrates
+   D) stone
+27. The food that builds the body is ___
+   A) sand
+   B) protein
+   C) dust
+   D) stone
+28. A meal with all the food groups is a ___ diet
+   A) balanced
+   B) bad
+   C) broken
+   D) bitter
+29. A thing we use to do work is a ___
+   A) stone
+   B) song
+   C) tool
+   D) dream
+30. We use a ___ to sweep
+   A) plate
+   B) knife
+   C) pot
+   D) broom
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two things we learn in home economics
+32. Name two areas of home economics
+33. Name two ways we groom
+34. Name two ways we care for our body
+35. Name two things we wear
+36. Name two ways to care for clothes
+37. Name two food groups
+38. Name two home economics tools
+39. Name two ways to keep clothes clean
+40. Name two things a balanced diet has
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. What is home economics? Name two things we learn in it. (2 marks)
+42. What is grooming? Name two ways we groom. (2 marks)
+43. What is clothing? Name two things we wear. (2 marks)
+44. Name two ways to care for clothes. (2 marks)
+45. What is a balanced diet? Name two food groups. (2 marks)
 
 
 ---
