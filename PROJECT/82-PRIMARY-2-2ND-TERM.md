@@ -20,7 +20,7 @@ follow the scheme topics below. 98 teaching weeks in total.
 | 8 | prevocational-studies | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · sheet_lint 0 · gates ok |
 | 9 | social-and-citizenship-studies | 1-6, 8, 9, 12 | ✅ 9 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · exempt from plates · gates ok |
 | 10 | yoruba | 1-6, 8, 9, 11 | ✅ 9 notes · paper ✅ (30/10/5, A=8 B=7 C=8 D=7) · sheet_lint 0 · exempt from plates · gates ok |
-| 11 | mathematics-english | MATH 1-6, 8, 9 · ENG 1-6, 8, 9 | — |
+| 11 | mathematics-english | MATH 1-6, 8, 9 · ENG 1-6, 8, 9 | ✅ 8+8 notes (math+english) · 2 papers ✅ (30/10/5, A=8 B=7 C=8 D=7 / A=8 B=7 C=7 D=8) · sheet_lint 0 · gates ok |
 
 Plate exemptions (Yoruba, GK, Nigerian History, SCS, CRS) carry no plates — `tools/backfill_ledger.py` EXEMPT.
 
@@ -28,5 +28,5 @@ Plate exemptions (Yoruba, GK, Nigerian History, SCS, CRS) carry no plates — `t
 
 | Book | Status |
 | --- | --- |
-| Pupil copy | — |
-| Teacher copy | — |
+| Pupil copy | ✅ `notes/Primary 2 - Second Term.docx` (107K) · n=360 A=92 B=84 C=92 D=92 · gates ALL CLEAR |
+| Teacher copy | ✅ `notes/Primary 2 - Second Term - TEACHER COPY.docx` (112K) · gates ALL CLEAR |

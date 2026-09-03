@@ -1,0 +1,391 @@
+{
+ "subject": "Basic Science",
+ "class": "Primary 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "When something becomes different, that is a ___",
+   "answer": "change",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The day changes into ___",
+   "answer": "night",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The weather changes from sunny to ___",
+   "answer": "rainy",
+   "distractors": [
+    "dry",
+    "hard",
+    "dark"
+   ]
+  },
+  {
+   "stem": "A seed changes into a ___",
+   "answer": "plant",
+   "distractors": [
+    "stone",
+    "cloud",
+    "star"
+   ]
+  },
+  {
+   "stem": "We plant a seed in the ___",
+   "answer": "soil",
+   "distractors": [
+    "sky",
+    "fire",
+    "stone"
+   ]
+  },
+  {
+   "stem": "A small ___ comes out of the seed",
+   "answer": "shoot",
+   "distractors": [
+    "stone",
+    "cloud",
+    "star"
+   ]
+  },
+  {
+   "stem": "The plant grows ___ after the shoot",
+   "answer": "leaves",
+   "distractors": [
+    "stones",
+    "clouds",
+    "stars"
+   ]
+  },
+  {
+   "stem": "Flowers become ___",
+   "answer": "fruit",
+   "distractors": [
+    "stones",
+    "clouds",
+    "stars"
+   ]
+  },
+  {
+   "stem": "A baby animal is called a ___",
+   "answer": "young one",
+   "distractors": [
+    "old one",
+    "big one",
+    "tall one"
+   ]
+  },
+  {
+   "stem": "A young dog is a ___",
+   "answer": "puppy",
+   "distractors": [
+    "kitten",
+    "kid",
+    "calf"
+   ]
+  },
+  {
+   "stem": "A young cat is a ___",
+   "answer": "kitten",
+   "distractors": [
+    "puppy",
+    "kid",
+    "calf"
+   ]
+  },
+  {
+   "stem": "A young cow is a ___",
+   "answer": "calf",
+   "distractors": [
+    "puppy",
+    "kitten",
+    "chick"
+   ]
+  },
+  {
+   "stem": "Water is in the river, stream and ___",
+   "answer": "lake",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Water falls as ___",
+   "answer": "rain",
+   "distractors": [
+    "stone",
+    "fire",
+    "sand"
+   ]
+  },
+  {
+   "stem": "We get water from the tap and ___",
+   "answer": "well",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We ___ water every day",
+   "answer": "drink",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "The ___ helps us eat and speak",
+   "answer": "mouth",
+   "distractors": [
+    "nose",
+    "ear",
+    "eye"
+   ]
+  },
+  {
+   "stem": "The ___ chew our food",
+   "answer": "teeth",
+   "distractors": [
+    "lips",
+    "gums",
+    "tongue"
+   ]
+  },
+  {
+   "stem": "The ___ tastes our food",
+   "answer": "tongue",
+   "distractors": [
+    "teeth",
+    "lips",
+    "gums"
+   ]
+  },
+  {
+   "stem": "The tongue can taste sweet, sour, salt and ___",
+   "answer": "bitter",
+   "distractors": [
+    "loud",
+    "dark",
+    "hard"
+   ]
+  },
+  {
+   "stem": "The first set of teeth are the ___ teeth",
+   "answer": "milk",
+   "distractors": [
+    "adult",
+    "old",
+    "new"
+   ]
+  },
+  {
+   "stem": "___ teeth cut our food",
+   "answer": "Front",
+   "distractors": [
+    "Back",
+    "Side",
+    "Bottom"
+   ]
+  },
+  {
+   "stem": "___ teeth chew and grind our food",
+   "answer": "Back",
+   "distractors": [
+    "Front",
+    "Side",
+    "Top"
+   ]
+  },
+  {
+   "stem": "We use a toothbrush and ___",
+   "answer": "toothpaste",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "A rock is a ___ thing",
+   "answer": "non-living",
+   "distractors": [
+    "living",
+    "growing",
+    "eating"
+   ]
+  },
+  {
+   "stem": "Rocks are ___ and solid",
+   "answer": "hard",
+   "distractors": [
+    "soft",
+    "wet",
+    "warm"
+   ]
+  },
+  {
+   "stem": "Rocks do not ___",
+   "answer": "grow",
+   "distractors": [
+    "stay",
+    "sit",
+    "wait"
+   ]
+  },
+  {
+   "stem": "We use rocks to ___",
+   "answer": "build",
+   "distractors": [
+    "eat",
+    "drink",
+    "sing"
+   ]
+  },
+  {
+   "stem": "Living things ___",
+   "answer": "grow",
+   "distractors": [
+    "stay still",
+    "sleep only",
+    "do nothing"
+   ]
+  },
+  {
+   "stem": "Living things ___ and drink",
+   "answer": "eat",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two changes in nature ",
+   "points": [
+    "day to night",
+    "sunny to rainy",
+    "seed to plant"
+   ]
+  },
+  {
+   "stem": "Name two things a plant needs to grow ",
+   "points": [
+    "water",
+    "soil",
+    "sunlight"
+   ]
+  },
+  {
+   "stem": "Name two young animals ",
+   "points": [
+    "puppy",
+    "kitten",
+    "kid",
+    "calf",
+    "chick"
+   ]
+  },
+  {
+   "stem": "Name two places we find water ",
+   "points": [
+    "river",
+    "stream",
+    "lake",
+    "sea",
+    "well"
+   ]
+  },
+  {
+   "stem": "Name two uses of water ",
+   "points": [
+    "drinking",
+    "bathing",
+    "washing",
+    "cooking"
+   ]
+  },
+  {
+   "stem": "Name two parts of the mouth ",
+   "points": [
+    "teeth",
+    "tongue",
+    "lips",
+    "gums"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for the teeth ",
+   "points": [
+    "brush them",
+    "do not eat too many sweets"
+   ]
+  },
+  {
+   "stem": "Name two things rocks do not do ",
+   "points": [
+    "grow",
+    "eat",
+    "breathe"
+   ]
+  },
+  {
+   "stem": "Name two living things ",
+   "points": [
+    "plants",
+    "animals",
+    "people"
+   ]
+  },
+  {
+   "stem": "Name two non-living things ",
+   "points": [
+    "rocks",
+    "water",
+    "chairs"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is change? Name two changes in nature.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How does a plant change as it grows?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two young animals and their mothers.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two uses of water. Why do we keep water clean?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the difference between living and non-living things?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
