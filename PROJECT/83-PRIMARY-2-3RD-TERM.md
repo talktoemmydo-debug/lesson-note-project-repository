@@ -11,7 +11,7 @@ follow the scheme topics below. 98 teaching weeks in total.
 | # | subject | teaching weeks | state |
 | --- | --- | --- | --- |
 | 1 | basic-science | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=7 D=8) · sheet_lint 0 · polish 0-to-fix · gates ok |
-| 2 | basic-digital-literacy | 1-6, 8, 9 | — |
+| 2 | basic-digital-literacy | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · polish 0-to-fix · gates ok |
 | 3 | christian-religious-studies | 1-6, 8, 9 | — |
 | 4 | cultural-and-creative-arts | 1-6, 8, 9 | — |
 | 5 | general-knowledge | 1-6, 8, 9 | — |
