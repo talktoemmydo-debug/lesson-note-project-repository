@@ -1,6 +1,8 @@
 # Primary 2 — Second Term
 
-*Pupil's book · every subject offered to this class, every teaching week of the term.*
+**TEACHER COPY — not for pupils.** This file carries the term-paper keys, the answer texts and the marking points. Keep it out of the pupil's book and out of the classroom pile.
+
+*Teacher's edition · the pupil pages plus the keys and marking guidance.*
 
 **11 subjects · 98 lessons · 12 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
@@ -124,17 +126,17 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 8 — PLANTS, ANIMALS AND THEIR HABITATS](#week-8-plants-animals-and-their-habitats) · 74
   - [WEEK 9 — TECHNOLOGY AROUND US](#week-9-technology-around-us) · 74
 - **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 2nd Term)](#examination-practice-basic-science-primary-2-2nd-term)** · 76
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 78
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 80
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 82
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)](#examination-practice-nigerian-history-primary-2-2nd-term)** · 84
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 2nd Term)](#examination-practice-physical-and-health-education-primary-2-2nd-term)** · 86
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 2nd Term)](#examination-practice-prevocational-studies-primary-2-2nd-term)** · 88
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 2nd Term)](#examination-practice-social-and-citizenship-studies-primary-2-2nd-term)** · 90
-- **[EXAMINATION PRACTICE — YORUBA (Primary 2 · 2nd Term)](#examination-practice-yoruba-primary-2-2nd-term)** · 92
-- **[EXAMINATION PRACTICE — ENGLISH LANGUAGE · ENGLISH-LANGUAGE (Primary 2 · 2nd Term)](#examination-practice-english-language-english-language-primary-2-2nd-term)** · 94
-- **[EXAMINATION PRACTICE — MATHEMATICS · MATHEMATICS (Primary 2 · 2nd Term)](#examination-practice-mathematics-mathematics-primary-2-2nd-term)** · 96
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 98
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 2 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-2-2nd-term)** · 79
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 2nd Term)](#examination-practice-christian-religious-studies-primary-2-2nd-term)** · 82
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-2-2nd-term)** · 85
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 2 · 2nd Term)](#examination-practice-nigerian-history-primary-2-2nd-term)** · 88
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 2 · 2nd Term)](#examination-practice-physical-and-health-education-primary-2-2nd-term)** · 91
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 2 · 2nd Term)](#examination-practice-prevocational-studies-primary-2-2nd-term)** · 94
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 2 · 2nd Term)](#examination-practice-social-and-citizenship-studies-primary-2-2nd-term)** · 97
+- **[EXAMINATION PRACTICE — YORUBA (Primary 2 · 2nd Term)](#examination-practice-yoruba-primary-2-2nd-term)** · 100
+- **[EXAMINATION PRACTICE — ENGLISH LANGUAGE · ENGLISH-LANGUAGE (Primary 2 · 2nd Term)](#examination-practice-english-language-english-language-primary-2-2nd-term)** · 103
+- **[EXAMINATION PRACTICE — MATHEMATICS · MATHEMATICS (Primary 2 · 2nd Term)](#examination-practice-mathematics-mathematics-primary-2-2nd-term)** · 106
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 2 · 2nd Term)](#examination-practice-general-knowledge-primary-2-2nd-term)** · 109
 
 
 
@@ -7712,6 +7714,61 @@ Answer in full sentences.
 45. What is technology? Name two simple technologies. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — wind
+2. C — breeze
+3. A — flags
+4. B — fan
+5. C — taste
+6. D — clear
+7. A — sick
+8. C — filter
+9. D — drink
+10. B — wash
+11. C — grow
+12. D — fire
+13. A — root
+14. B — leaf
+15. C — flower
+16. A — sunlight
+17. B — tree
+18. D — herb
+19. A — seeds
+20. B — seedling
+21. C — domestic
+22. D — fish
+23. A — bird
+24. C — help
+25. D — technology
+26. B — broom
+27. A — phone
+28. C — fast
+29. B — Light
+30. D — sun
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. move leaves; move flags; cool us; move a boat
+32. filter it; boil it; keep it in a clean container
+33. drinking; bathing; cooking; washing
+34. root; stem; leaf; flower; fruit
+35. tree; herb; shrub
+36. dog; cat; goat; cow
+37. broom; knife; bicycle; phone
+38. sun; lamp; torch; candle
+39. food; milk; help
+40. water; air; sunlight
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -7896,6 +7953,61 @@ Answer in full sentences.
 43. What is traditional dress? Name one. (2 marks)
 44. What is an accessory? Name two. (2 marks)
 45. What is cultural day? Name two things we show. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — drama
+2. C — like
+3. D — role
+4. A — practise
+5. B — staging
+6. C — voice
+7. A — costumes
+8. D — audience
+9. B — fabric
+10. C — Yoruba
+11. A — Igbo
+12. B — weavers
+13. D — traditional
+14. C — gele
+15. B — cap
+16. A — special
+17. D — accessory
+18. C — Beads
+19. B — cap
+20. A — elders
+21. D — necklace
+22. C — paper
+23. A — thread
+24. B — cut
+25. C — earring
+26. D — decorate
+27. A — neat
+28. B — cultural
+29. D — food
+30. C — traditional
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. choose a story; find the characters; plan the roles
+32. voice; body; costumes
+33. aso-oke; akwaete; a'ngbanya
+34. buba and sokoto; isiagu; babbar riga
+35. beads; cap; walking stick; earrings
+36. necklace; bracelet; cap; earring
+37. beads; thread; cloth; paper
+38. dress; dance; food; drama
+39. use colours; make it neat
+40. plan what to show; practise the dance
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -8084,6 +8196,61 @@ Answer in full sentences.
 45. Who has power to forgive sins? What do we do to be forgiven? (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. C — Bible
+2. D — Moses
+3. A — listen
+4. B — obey
+5. D — God
+6. C — children
+7. B — sisters
+8. A — share
+9. C — calls
+10. D — Abraham
+11. A — Samuel
+12. B — purpose
+13. D — law
+14. C — Moses
+15. A — God
+16. B — steal
+17. C — reveals
+18. D — almighty
+19. B — love
+20. A — Creator
+21. D — Protector
+22. C — Provider
+23. A — faithful
+24. D — sin
+25. B — Jesus
+26. C — repent
+27. D — forgive
+28. B — all
+29. A — healed
+30. C — hungry
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. the Bible; parents; teachers; preachers
+32. share; help; do not fight
+33. Abraham; Moses; Samuel
+34. worship God alone; do not steal; do not lie
+35. creation; the Bible; Jesus
+36. Creator; Protector; Provider; almighty
+37. forgave the sick man; forgave those who hurt Him
+38. healed the sick; fed the hungry; forgave sinners
+39. food; family; life; protection
+40. do good; love others
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -8268,6 +8435,61 @@ Answer in full sentences.
 43. What is a folder? Why do we use folders? (2 marks)
 44. What is digital content? Name two things we can make. (2 marks)
 45. Name two rules for safe internet use. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — interface
+2. C — icon
+3. A — smaller
+4. B — customizing
+5. C — file
+6. D — name
+7. B — open
+8. A — save
+9. C — folder
+10. D — tidy
+11. B — find
+12. A — delete
+13. D — digital
+14. C — computer
+15. B — drawing
+16. A — save
+17. C — keyboard
+18. D — numbers
+19. A — document
+20. B — print
+21. C — water
+22. D — password
+23. B — secret
+24. A — strangers
+25. D — internet
+26. C — grown-up
+27. B — address
+28. A — kind
+29. D — private
+30. C — bully
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. icons; menus; buttons; pictures
+32. pictures; writing; songs
+33. open; close; save; delete
+34. pictures; writing; music; documents
+35. keep it away from water; do not eat near it; handle with care
+36. use it with a grown-up; do not talk to strangers; do not share your name
+37. keep information private; use strong passwords; ask a grown-up
+38. keyboard; letters; numbers
+39. files; other folders
+40. do not bully; say nice things
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -8456,6 +8678,61 @@ Answer in full sentences.
 45. What is a traditional ruler? Name two. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. C — hero
+2. A — heroine
+3. D — doctor
+4. C — respect
+5. A — national
+6. B — Nnamdi Azikiwe
+7. D — Abubakar Tafawa Balewa
+8. C — Obafemi Awolowo
+9. A — heroine
+10. B — Flora Nwapa
+11. D — Funmilayo Ransome-Kuti
+12. C — examples
+13. A — development
+14. B — hospitals
+15. C — independence
+16. A — today
+17. D — selfless
+18. B — others
+19. A — friends
+20. C — without
+21. D — traditional
+22. B — long ago
+23. C — peace
+24. A — disputes
+25. B — Oba
+26. D — Obi
+27. A — Emir
+28. B — title
+29. D — title
+30. C — Chief
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. doctor; teacher; farmer; nurse
+32. Nnamdi Azikiwe; Abubakar Tafawa Balewa; Obafemi Awolowo; Ahmadu Bello
+33. Flora Nwapa; Funmilayo Ransome-Kuti
+34. built schools; built hospitals; worked for independence
+35. help family; help friends; share; care for those in need
+36. keep culture; settle disputes; guide the people
+37. Emir; Oba; Obi; Sultan
+38. Chief; Mazi; Oloye; Hakimi
+39. fought for freedom; worked for education; built schools
+40. remember them; respect them; learn from them
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -8640,6 +8917,61 @@ Answer in full sentences.
 43. What is physical education? Name two things we do in PHE. (2 marks)
 44. What is jumping? Name two types. (2 marks)
 45. What is a ball game? Name two ball games. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — road
+2. D — zebra
+3. C — left
+4. B — red
+5. D — personal
+6. A — strangers
+7. C — 112
+8. D — 112
+9. B — physical
+10. A — exercise
+11. D — healthy
+12. B — warm
+13. C — down
+14. A — raise
+15. B — kick
+16. C — turn
+17. A — bend
+18. D — stretch
+19. C — balance
+20. A — hop
+21. D — athletics
+22. B — running
+23. A — race
+24. D — warm
+25. B — jumping
+26. C — hopping
+27. D — leap
+28. B — feet
+29. A — ball
+30. C — football
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. cross at the zebra crossing; look left, right, left; obey the traffic light
+32. do not go with strangers; tell a grown-up; know the emergency number
+33. exercise; play games; warm up
+34. raise; lower; swing
+35. bend; stretch; twist; balance
+36. hopping; leaping; jumping high
+37. football; basketball; volleyball
+38. kick; throw; catch; dribble
+39. warm up; run fast; run in a race
+40. arms; legs; head
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -8828,6 +9160,61 @@ Answer in full sentences.
 45. What is a balanced diet? Name two food groups. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — home
+2. C — home
+3. A — clothing
+4. D — girls
+5. B — nutrition
+6. C — textiles
+7. A — management
+8. D — responsible
+9. B — grooming
+10. C — water
+11. D — night
+12. B — clean
+13. A — washing
+14. C — bathing
+15. B — brushing
+16. D — toothpaste
+17. A — clothing
+18. C — water
+19. D — mud
+20. B — dirty
+21. C — sun
+22. A — fold
+23. D — wardrobe
+24. B — iron
+25. A — food
+26. C — carbohydrates
+27. B — protein
+28. A — balanced
+29. C — tool
+30. D — broom
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. food; clothing; cleaning; caring for the family
+32. food and nutrition; clothing and textiles; home management
+33. bathing; brushing teeth; combing hair
+34. washing hair; bathing; brushing teeth
+35. shirts; trousers; dresses; shoes
+36. wash; dry; fold; iron
+37. carbohydrates; proteins; vitamins; minerals
+38. broom; bucket; pot; knife; spoon
+39. wash them; change them when dirty
+40. carbohydrates; proteins; vitamins
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -9012,6 +9399,61 @@ Answer in full sentences.
 43. What are national values? Name two. (2 marks)
 44. What is followership? What does a good follower do? (2 marks)
 45. What is volunteerism? Name two ways we can volunteer. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — secure
+2. A — fire
+3. B — dry
+4. C — grown-up
+5. A — wildlife
+6. D — conservation
+7. C — kill
+8. B — trees
+9. A — values
+10. D — honesty
+11. C — unity
+12. A — good
+13. D — followership
+14. B — leader
+15. A — teachers
+16. D — obeys
+17. C — healthy
+18. B — respect
+19. A — share
+20. D — fight
+21. B — belief
+22. C — tradition
+23. A — mosques
+24. B — respect
+25. C — civic
+26. D — cleaning
+27. B — rules
+28. A — better
+29. C — volunteerism
+30. D — volunteer
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. do not play with fire; keep the floor dry; tell a grown-up
+32. birds; snakes; monkeys; butterflies
+33. honesty; respect; hard work; unity; peace
+34. parents; teachers; good leaders
+35. respect parents; help one another; share
+36. festivals; dress; food
+37. cleaning the environment; obeying the rules
+38. clean the environment; help the sick; teach others
+39. do not talk to strangers; lock the door; know the emergency number
+40. loves; cares; respects; shares
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -9200,6 +9642,61 @@ Answer in full sentences.
 45. Name three household items in Yoruba. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — Ẹ káàárọ̀
+2. C — Ẹ káalẹ́
+3. B — Ẹ jọ̀wọ́
+4. A — respect
+5. C — ọ̀sàn
+6. D — èdè
+7. A — èso
+8. B — healthy
+9. C — orin
+10. D — voice
+11. A — happy
+12. B — language
+13. D — àádọ́rin
+14. C — communication
+15. B — writing
+16. D — phone
+17. A — I or me
+18. C — you
+19. B — we or us
+20. A — ajogúnbá
+21. D — òwe
+22. C — ọjà
+23. A — owó
+24. B — ná
+25. D — igba
+26. C — àga
+27. A — ìkòkò
+28. B — clean
+29. D — revise
+30. C — prepare
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. Ẹ káàárọ̀; Ẹ káàsán; Ẹ káalẹ́
+32. ọ̀sàn; èdè; páálí; mángò
+33. talking; writing; phone; signs
+34. èmi; ìwọ; òun; àwa; ẹ̀yin; wọ́n
+35. food; cloth; money
+36. àga; tábìlì; ìkòkò; ìfé
+37. greetings; counting; pronouns; proverbs
+38. read our notes; practise words
+39. ẹ jọ̀wọ́; àṣẹ
+40. home; school
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -9384,6 +9881,61 @@ Answer in full sentences.
 43. What is comprehension? Where do we find the answers? (2 marks)
 44. What is grammar? Write: "I ___" or "He ___". (2 marks)
 45. What is a paragraph? Write one paragraph about your family. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — /sh/
+2. A — /ch/
+3. C — shop
+4. D — words
+5. A — capital
+6. B — full stop
+7. D — black
+8. A — sentences
+9. C — comprehension
+10. B — passage
+11. A — questions
+12. C — passage
+13. B — am
+14. D — is
+15. C — are
+16. A — questions
+17. D — vocabulary
+18. B — new
+19. A — words
+20. C — sentences
+21. B — paragraph
+22. D — topics
+23. C — capital
+24. A — clearly
+25. B — listen
+26. D — sentences
+27. C — instructions
+28. B — learn
+29. D — fluently
+30. A — neatly
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. ship; shop; shine; short
+32. chair; chip; chin; chat
+33. My father is tall; My mother is kind
+34. What is your name?; How old are you?
+35. vocabulary; comprehension; phonics
+36. My family is small; We love each other
+37. Sit down; Open your book
+38. neatly; clearly
+39. this; that; think; thank
+40. A group of words that makes sense; A complete thought
+41. 
+42. 
+43. 
+44. 
+45.
+
 
 
 ---
@@ -9572,6 +10124,61 @@ Answer in full sentences.
 45. Solve: 123 + 145 and 268 - 145. (2 marks)
 
 
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. A — 37
+2. C — 71
+3. D — units
+4. B — sum
+5. A — 268
+6. C — 390
+7. D — regroup
+8. A — hundreds
+9. C — 22
+10. B — 33
+11. D — units
+12. A — difference
+13. B — 123
+14. C — 234
+15. D — borrow
+16. B — hundreds
+17. A — 6
+18. C — 12
+19. D — 10
+20. A — product
+21. B — 30
+22. C — 20
+23. A — 12
+24. B — 24
+25. C — 3
+26. D — 4
+27. B — 5
+28. C — quotient
+29. A — 5
+30. D — 4
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. 59; fifty-nine
+32. 79; seventy-nine
+33. 33; thirty-three
+34. 33; thirty-three
+35. 12; twelve
+36. 20; twenty
+37. 5; five
+38. 5; five
+39. 468; four hundred and sixty-eight
+40. 333; three hundred and thirty-three
+41. 
+42. 
+43. 
+44. 
+45.
+
+
+
 ---
 
 ---
@@ -9756,3 +10363,58 @@ Answer in full sentences.
 43. Name two African countries and their capitals. (2 marks)
 44. Name the three main languages in Nigeria. (2 marks)
 45. What is a habitat? Name two animals and their habitats. (2 marks)
+
+
+
+**Teacher's key — Section A (letter and answer text)**
+
+1. D — seven
+2. A — Africa
+3. B — Asia
+4. D — Antarctica
+5. C — five
+6. A — Pacific
+7. D — Atlantic
+8. C — salty
+9. B — Abuja
+10. A — Accra
+11. C — Cairo
+12. D — Nairobi
+13. B — London
+14. A — Paris
+15. D — Beijing
+16. C — Tokyo
+17. A — Igbo
+18. B — English
+19. C — New Yam
+20. D — way
+21. B — eye
+22. A — ear
+23. C — night
+24. B — eating
+25. A — habitat
+26. D — water
+27. B — nests
+28. C — desert
+29. D — technology
+30. A — computer
+
+**Marking points — Sections B & C**
+& C (marking guide)**
+
+31. Africa; Asia; Europe; North America; South America; Australia; Antarctica
+32. Atlantic; Pacific; Indian; Southern; Arctic
+33. Nigeria-Abuja; Ghana-Accra; Egypt-Cairo; Kenya-Nairobi
+34. UK-London; France-Paris; China-Beijing; Japan-Tokyo
+35. Hausa; Yoruba; Igbo; Ijaw; Tiv
+36. bathing; brushing teeth; washing hands
+37. fish-water; birds-trees; camels-desert
+38. computer; phone; internet; television
+39. New Yam; durbar; Egungun; Osun
+40. makes work easy; helps us find information
+41. 
+42. 
+43. 
+44. 
+45.
+

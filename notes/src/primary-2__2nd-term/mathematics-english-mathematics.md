@@ -1,4 +1,4 @@
-# Mathematics — Primary 2 · Second Term
+# Mathematics & English — Primary 2 · Second Term
 
 These are the notes for the second term of Primary 2. They follow the NERDC
 Basic Education Curriculum (2025 revision) and the school's scheme of work.
