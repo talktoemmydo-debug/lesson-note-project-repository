@@ -18,7 +18,7 @@ follow the scheme topics below. 98 teaching weeks in total.
 | 6 | nigerian-history | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=8 D=7) · sheet_lint 0 · exempt from plates · gates ok |
 | 7 | physical-and-health-education | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · gates ok |
 | 8 | prevocational-studies | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=7 C=8 D=8) · sheet_lint 0 · gates ok |
-| 9 | social-and-citizenship-studies | 1-6, 8, 9, 12 | — |
+| 9 | social-and-citizenship-studies | 1-6, 8, 9, 12 | ✅ 9 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · exempt from plates · gates ok |
 | 10 | yoruba | 1-6, 8, 9, 11 | — |
 | 11 | mathematics-english | MATH 1-6, 8, 9 · ENG 1-6, 8, 9 | — |
 
