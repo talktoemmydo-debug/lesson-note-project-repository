@@ -1,0 +1,400 @@
+{
+ "subject": "Physical and Health Education (PHE)",
+ "class": "Nursery 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "Feelings of the heart such as joy, fear and anger are called ___",
+   "answer": "emotions",
+   "distractors": [
+    "muscles",
+    "rules",
+    "games"
+   ]
+  },
+  {
+   "stem": "The feeling of being sure that you can do a thing is called ___",
+   "answer": "confidence",
+   "distractors": [
+    "anger",
+    "sleep",
+    "pride only"
+   ]
+  },
+  {
+   "stem": "When we lose a game and do not fight or cry wildly, we show good ___",
+   "answer": "sportsmanship",
+   "distractors": [
+    "speed",
+    "noise",
+    "dress"
+   ]
+  },
+  {
+   "stem": "Nervousness before a race is best beaten by ___",
+   "answer": "practising the race more",
+   "distractors": [
+    "running away from it",
+    "shouting at friends",
+    "skipping breakfast"
+   ]
+  },
+  {
+   "stem": "A hard feeling some children get when they lose is ___",
+   "answer": "disappointment",
+   "distractors": [
+    "contentment",
+    "excitement",
+    "patience"
+   ]
+  },
+  {
+   "stem": "Working together with your team toward one goal is called ___",
+   "answer": "teamwork",
+   "distractors": [
+    "sleeping",
+    "counting",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "Welcoming a new child who does not know the rules of the game is ___",
+   "answer": "hospitality",
+   "distractors": [
+    "anger",
+    "pride",
+    "fear"
+   ]
+  },
+  {
+   "stem": "Accepting another child's mistake without laughing at him is ___",
+   "answer": "tolerance",
+   "distractors": [
+    "cheating",
+    "speed",
+    "noise"
+   ]
+  },
+  {
+   "stem": "Playing by the rules and taking what the one who judges says is ___",
+   "answer": "fairness",
+   "distractors": [
+    "luck",
+    "pride",
+    "shouting"
+   ]
+  },
+  {
+   "stem": "Sometimes leading and sometimes following in a game teaches us ___",
+   "answer": "leadership",
+   "distractors": [
+    "reading",
+    "singing",
+    "drawing"
+   ]
+  },
+  {
+   "stem": "Marching is best described as ___",
+   "answer": "organised walking in rhythm and formation",
+   "distractors": [
+    "running about in any way you like",
+    "hopping on only one leg around",
+    "lying down quietly on the mat"
+   ]
+  },
+  {
+   "stem": "The foot that starts when we march forward is the ___",
+   "answer": "left foot",
+   "distractors": [
+    "right foot",
+    "back foot",
+    "both at once"
+   ]
+  },
+  {
+   "stem": "The command that makes everybody stand straight and keep quiet is ___",
+   "answer": "Attention",
+   "distractors": [
+    "Rest",
+    "Halt",
+    "Play"
+   ]
+  },
+  {
+   "stem": "Keeping an arm's length between us in the line is done to ___",
+   "answer": "avoid kicking another child",
+   "distractors": [
+    "look taller",
+    "reach the gate first",
+    "hear the drum"
+   ]
+  },
+  {
+   "stem": "Marching is good for the body because it develops ___",
+   "answer": "posture, discipline and coordination",
+   "distractors": [
+    "having a very big and round belly",
+    "strong nails on both of the hands",
+    "a loud and a shouting voice"
+   ]
+  },
+  {
+   "stem": "Swinging and twisting the body before running are done to ___",
+   "answer": "warm the muscles first",
+   "distractors": [
+    "cool the class down",
+    "finish the lesson early",
+    "waste some time"
+   ]
+  },
+  {
+   "stem": "A jump should be landed with the knees ___",
+   "answer": "bent, so that the landing is soft",
+   "distractors": [
+    "straight and locked at all times",
+    "crossed behind the other leg",
+    "lifted high up to the chest"
+   ]
+  },
+  {
+   "stem": "Bending sideways with one arm over the head stretches the ___",
+   "answer": "waist and the sides of the trunk",
+   "distractors": [
+    "ears and the small fingers",
+    "hair and the top of the head",
+    "toes and the nails only"
+   ]
+  },
+  {
+   "stem": "Loud, jerky movements in exercise are dangerous because they ___",
+   "answer": "can pull a muscle or hurt a joint",
+   "distractors": [
+    "make us run much more faster",
+    "help us to breathe better",
+    "keep the whole class quite cool"
+   ]
+  },
+  {
+   "stem": "A race run on a marked path is called a ___",
+   "answer": "track event",
+   "distractors": [
+    "board game",
+    "marching drill",
+    "field day"
+   ]
+  },
+  {
+   "stem": "After crossing the finishing line we should ___",
+   "answer": "keep going a little and then walk",
+   "distractors": [
+    "sit right down there at once",
+    "turn and run back quickly",
+    "lie flat down on the track"
+   ]
+  },
+  {
+   "stem": "The first thing to do with a machine that gives smoke is to ___",
+   "answer": "leave it and tell the one in charge",
+   "distractors": [
+    "pull the cable out very hard",
+    "blow the smoke away with hands",
+    "pour some cold water on it"
+   ]
+  },
+  {
+   "stem": "Running with a partner side by side to the line is called ___",
+   "answer": "running in pairs",
+   "distractors": [
+    "marching",
+    "relay singing",
+    "hopping"
+   ]
+  },
+  {
+   "stem": "Climbing is safest when ___",
+   "answer": "three points stay on the ladder while one moves",
+   "distractors": [
+    "two children climb one above the other",
+    "you climb fast with your eyes shut",
+    "you carry a bag in your hands"
+   ]
+  },
+  {
+   "stem": "Looking up before climbing to choose which rung to use is a way of ___",
+   "answer": "solving the problem",
+   "distractors": [
+    "resting the arms",
+    "warming the feet",
+    "cooling the head"
+   ]
+  },
+  {
+   "stem": "Posture means the way we ___",
+   "answer": "hold our body when we sit or stand",
+   "distractors": [
+    "choose the shoes for the day",
+    "eat our food in the morning",
+    "write our names in the book"
+   ]
+  },
+  {
+   "stem": "While sitting to write, the feet should be ___",
+   "answer": "flat on the floor",
+   "distractors": [
+    "up on the chair",
+    "crossed behind",
+    "hanging in the air"
+   ]
+  },
+  {
+   "stem": "The position we should avoid while sleeping, because it twists the neck, is lying ___",
+   "answer": "on the tummy",
+   "distractors": [
+    "on the side",
+    "flat on the back",
+    "half sitting up"
+   ]
+  },
+  {
+   "stem": "A school bag is best carried on ___",
+   "answer": "both shoulders",
+   "distractors": [
+    "one shoulder only",
+    "the head always",
+    "the fingers"
+   ]
+  },
+  {
+   "stem": "Indoor games are mostly good for training the ___",
+   "answer": "mind and patience",
+   "distractors": [
+    "legs only",
+    "lungs only",
+    "voice"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Mention three good feelings that come from playing games. ",
+   "points": [
+    "joy",
+    "excitement",
+    "confidence",
+    "contentment"
+   ]
+  },
+  {
+   "stem": "Name four hard feelings a game can bring. ",
+   "points": [
+    "fear or anxiety",
+    "anger",
+    "boredom",
+    "disappointment"
+   ]
+  },
+  {
+   "stem": "State four things a game teaches us about living with people. ",
+   "points": [
+    "cooperation",
+    "teamwork",
+    "tolerance",
+    "fairness",
+    "respect"
+   ]
+  },
+  {
+   "stem": "Give four marching commands we use in class. ",
+   "points": [
+    "Attention",
+    "Forward march",
+    "Halt",
+    "Left turn",
+    "Right turn",
+    "About face"
+   ]
+  },
+  {
+   "stem": "Mention four kinds of body exercise learnt this term. ",
+   "points": [
+    "swinging",
+    "twisting",
+    "jumping",
+    "bending"
+   ]
+  },
+  {
+   "stem": "Name four safety rules for climbing. ",
+   "points": [
+    "adult's permission",
+    "mat below",
+    "one at a time",
+    "three points stay",
+    "dry hands"
+   ]
+  },
+  {
+   "stem": "Mention two kinds of start in a short race and the rule about the lane. ",
+   "points": [
+    "standing start",
+    "crouching start",
+    "stay in your own lane"
+   ]
+  },
+  {
+   "stem": "State four rules for good sitting and standing posture. ",
+   "points": [
+    "back straight",
+    "feet flat",
+    "shoulders back",
+    "head level",
+    "weight on both feet"
+   ]
+  },
+  {
+   "stem": "Name five indoor games we can play in a room. ",
+   "points": [
+    "Ludo",
+    "card matching",
+    "memory game",
+    "puzzles",
+    "dominoes",
+    "checkers"
+   ]
+  },
+  {
+   "stem": "Give two reasons for balancing indoor games with outdoor play. ",
+   "points": [
+    "the legs need running",
+    "the eyes need daylight and space"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write on the feelings that come from games and how a child can manage them.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain what marching is and give four of its benefits to a pupil.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe how you swing, twist, jump and bend in exercise, and say why we warm up first.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on climbing: how to do it safely and what it does for the body.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is good posture? Explain how to sit, stand, read and sleep well.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

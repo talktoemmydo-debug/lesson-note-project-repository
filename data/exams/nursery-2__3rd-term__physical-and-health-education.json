@@ -1,0 +1,377 @@
+{
+ "subject": "Physical and Health Education",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "The place where a game is played is a sport ___",
+   "answer": "facility",
+   "distractors": [
+    "trouble",
+    "dream",
+    "song"
+   ]
+  },
+  {
+   "stem": "Which of these is a sport equipment?",
+   "answer": "a ball",
+   "distractors": [
+    "the field",
+    "the court",
+    "the pool"
+   ]
+  },
+  {
+   "stem": "The game is started and stopped with a ___",
+   "answer": "whistle",
+   "distractors": [
+    "stone",
+    "leaf",
+    "shoe"
+   ]
+  },
+  {
+   "stem": "A torn net must be ___ and not hidden",
+   "answer": "reported",
+   "distractors": [
+    "burnt",
+    "buried",
+    "sold"
+   ]
+  },
+  {
+   "stem": "In football the ball must not touch the ___ of a field player",
+   "answer": "hands",
+   "distractors": [
+    "knees",
+    "head",
+    "hair"
+   ]
+  },
+  {
+   "stem": "A goal is made of two posts and a ___",
+   "answer": "bar",
+   "distractors": [
+    "bed",
+    "mat",
+    "bag"
+   ]
+  },
+  {
+   "stem": "The truest pass in football is kicked with the ___ of the foot",
+   "answer": "inside",
+   "distractors": [
+    "top",
+    "heel",
+    "toe nail"
+   ]
+  },
+  {
+   "stem": "While dribbling, the ball is kept ___ the feet",
+   "answer": "close to",
+   "distractors": [
+    "far from",
+    "under",
+    "above"
+   ]
+  },
+  {
+   "stem": "To score we ___ steadily at the goal",
+   "answer": "kick",
+   "distractors": [
+    "fold",
+    "bury",
+    "count"
+   ]
+  },
+  {
+   "stem": "Who stays nearest to our own goal all day?",
+   "answer": "the goalkeeper",
+   "distractors": [
+    "the referee",
+    "the runner",
+    "the scorer"
+   ]
+  },
+  {
+   "stem": "In basketball the ball is thrown at a raised hoop and must go ___ it",
+   "answer": "through",
+   "distractors": [
+    "under",
+    "behind",
+    "beside"
+   ]
+  },
+  {
+   "stem": "To bounce the ball we push it with the finger ___",
+   "answer": "tips",
+   "distractors": [
+    "nails",
+    "palms",
+    "wrists"
+   ]
+  },
+  {
+   "stem": "A chest pass is pushed out with ___ hands",
+   "answer": "two",
+   "distractors": [
+    "one",
+    "three",
+    "no"
+   ]
+  },
+  {
+   "stem": "In basketball we must not ___ while we hold the ball",
+   "answer": "run",
+   "distractors": [
+    "sit",
+    "look up",
+    "breathe"
+   ]
+  },
+  {
+   "stem": "The small ball of table tennis must bounce only ___ time on a side",
+   "answer": "one",
+   "distractors": [
+    "four",
+    "six",
+    "ten"
+   ]
+  },
+  {
+   "stem": "Table tennis is played on a ___",
+   "answer": "table",
+   "distractors": [
+    "big field",
+    "road",
+    "roof"
+   ]
+  },
+  {
+   "stem": "At serve the ball is hit with the hand held ___",
+   "answer": "low",
+   "distractors": [
+    "high",
+    "blind",
+    "loose"
+   ]
+  },
+  {
+   "stem": "The bat is held like a ___",
+   "answer": "handshake",
+   "distractors": [
+    "teacup",
+    "broom",
+    "drumstick"
+   ]
+  },
+  {
+   "stem": "The eyes of a good player stay on the ___",
+   "answer": "ball",
+   "distractors": [
+    "shoe",
+    "window",
+    "net post"
+   ]
+  },
+  {
+   "stem": "In chess the game ends when one king cannot ___",
+   "answer": "move at all",
+   "distractors": [
+    "sleep well",
+    "count",
+    "sing"
+   ]
+  },
+  {
+   "stem": "A chess board is made of squares that are ___",
+   "answer": "light and dark",
+   "distractors": [
+    "all black",
+    "all white",
+    "red and green"
+   ]
+  },
+  {
+   "stem": "The mightiest man on the board is the ___",
+   "answer": "queen",
+   "distractors": [
+    "castle",
+    "jumper",
+    "small man"
+   ]
+  },
+  {
+   "stem": "When you touch a man in chess you must ___ it",
+   "answer": "move",
+   "distractors": [
+    "hide",
+    "wash",
+    "count"
+   ]
+  },
+  {
+   "stem": "A video game is played on a(n) ___",
+   "answer": "tablet or phone",
+   "distractors": [
+    "wooden stool",
+    "cooking pot",
+    "bucket"
+   ]
+  },
+  {
+   "stem": "Time on a screen should be kept ___",
+   "answer": "short",
+   "distractors": [
+    "for the whole day",
+    "till morning",
+    "during class"
+   ]
+  },
+  {
+   "stem": "Games with fighting and bad words are made for ___",
+   "answer": "big people",
+   "distractors": [
+    "babies",
+    "our class",
+    "the dog"
+   ]
+  },
+  {
+   "stem": "Before the screen a child goes outside first ___",
+   "answer": "to play and to learn",
+   "distractors": [
+    "to sleep all day",
+    "to eat his sweets",
+    "to hide his shoes"
+   ]
+  },
+  {
+   "stem": "When we say yes we ___ the head",
+   "answer": "nod",
+   "distractors": [
+    "hide",
+    "wash",
+    "paint"
+   ]
+  },
+  {
+   "stem": "To lift a thing from the floor we bend the ___",
+   "answer": "knees",
+   "distractors": [
+    "neck",
+    "ears",
+    "fingers"
+   ]
+  },
+  {
+   "stem": "On the stair a child goes ___",
+   "answer": "one after another",
+   "distractors": [
+    "three at a time",
+    "with his eyes shut",
+    "running fast"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two sport facilities in a school ",
+   "points": [
+    "a field",
+    "a court"
+   ]
+  },
+  {
+   "stem": "Name two things a football player wears ",
+   "points": [
+    "boots",
+    "shin guards"
+   ]
+  },
+  {
+   "stem": "Say two skills of football ",
+   "points": [
+    "passing",
+    "dribbling"
+   ]
+  },
+  {
+   "stem": "Name two kinds of pass in basketball ",
+   "points": [
+    "chest pass",
+    "bounce pass"
+   ]
+  },
+  {
+   "stem": "Say two things needed to play table tennis ",
+   "points": [
+    "two bats",
+    "a small ball"
+   ]
+  },
+  {
+   "stem": "Mention three men found on a chess board ",
+   "points": [
+    "king",
+    "queen",
+    "castle"
+   ]
+  },
+  {
+   "stem": "Say two reasons screen time is kept short ",
+   "points": [
+    "tired eyes",
+    "a stiff head"
+   ]
+  },
+  {
+   "stem": "Name two parts of the body we shrug and nod ",
+   "points": [
+    "shoulders",
+    "head"
+   ]
+  },
+  {
+   "stem": "Mention two things we do in an obstacle course ",
+   "points": [
+    "walk the line",
+    "jump the marks"
+   ]
+  },
+  {
+   "stem": "Say two rules of the stair ",
+   "points": [
+    "one after another",
+    "hold the rail"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write two sentences on how you cared for the class ball today.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Mention four things a football player wears on his body.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Say two rules of basketball that keep the game fair.",
+   "marks": 4,
+   "points": []
+  },
+  {
+   "stem": "Mention three things chess teaches a child.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Write two sentences on how you lift a heavy thing without hurting your back.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

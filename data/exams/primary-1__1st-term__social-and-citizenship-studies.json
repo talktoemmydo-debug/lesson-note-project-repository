@@ -1,0 +1,390 @@
+{
+ "subject": "Social and Citizenship Studies",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Who I am is my ___",
+   "answer": "identity",
+   "distractors": [
+    "hunger",
+    "noise",
+    "dust"
+   ]
+  },
+  {
+   "stem": "I am a ___ or a girl",
+   "answer": "boy",
+   "distractors": [
+    "stone",
+    "tree",
+    "car"
+   ]
+  },
+  {
+   "stem": "I belong to a family and a ___",
+   "answer": "community",
+   "distractors": [
+    "storm",
+    "sky",
+    "road"
+   ]
+  },
+  {
+   "stem": "I am a ___",
+   "answer": "Nigerian",
+   "distractors": [
+    "bird",
+    "fish only",
+    "stone"
+   ]
+  },
+  {
+   "stem": "A family is a group of people who are ___",
+   "answer": "related",
+   "distractors": [
+    "lost",
+    "angry",
+    "far"
+   ]
+  },
+  {
+   "stem": "My father and mother are my ___",
+   "answer": "parents",
+   "distractors": [
+    "strangers",
+    "pets",
+    "tools"
+   ]
+  },
+  {
+   "stem": "My brothers and sisters are my ___",
+   "answer": "siblings",
+   "distractors": [
+    "books",
+    "shoes",
+    "roads"
+   ]
+  },
+  {
+   "stem": "A big family has parents, children, uncles and ___",
+   "answer": "aunts",
+   "distractors": [
+    "stones",
+    "cars",
+    "trees"
+   ]
+  },
+  {
+   "stem": "A community is a place where people ___",
+   "answer": "live together",
+   "distractors": [
+    "fight",
+    "hide",
+    "sleep only"
+   ]
+  },
+  {
+   "stem": "A person who lives near me is my ___",
+   "answer": "neighbour",
+   "distractors": [
+    "stranger",
+    "pet",
+    "tool"
+   ]
+  },
+  {
+   "stem": "A community has a head or ___",
+   "answer": "leader",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The way of life of a people is their ___",
+   "answer": "culture",
+   "distractors": [
+    "hunger",
+    "dust",
+    "noise"
+   ]
+  },
+  {
+   "stem": "Our language, food and clothes are parts of our ___",
+   "answer": "culture",
+   "distractors": [
+    "weather",
+    "dream",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "A special day of celebration is a ___",
+   "answer": "festival",
+   "distractors": [
+    "storm",
+    "road",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Telling the truth is ___",
+   "answer": "honesty",
+   "distractors": [
+    "anger",
+    "noise",
+    "dust"
+   ]
+  },
+  {
+   "stem": "Treating others well is ___",
+   "answer": "respect",
+   "distractors": [
+    "fighting",
+    "hiding",
+    "losing"
+   ]
+  },
+  {
+   "stem": "We say please, sorry and ___",
+   "answer": "thank you",
+   "distractors": [
+    "bad words",
+    "noise",
+    "lies"
+   ]
+  },
+  {
+   "stem": "Giving to others is ___",
+   "answer": "sharing",
+   "distractors": [
+    "stealing",
+    "hiding",
+    "crying"
+   ]
+  },
+  {
+   "stem": "A person who belongs to a country is a ___",
+   "answer": "citizen",
+   "distractors": [
+    "stranger",
+    "stone",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "I am a citizen of ___",
+   "answer": "Nigeria",
+   "distractors": [
+    "the sky",
+    "the sea",
+    "a dream"
+   ]
+  },
+  {
+   "stem": "A good citizen obeys the ___",
+   "answer": "rules",
+   "distractors": [
+    "noise",
+    "dust",
+    "dark"
+   ]
+  },
+  {
+   "stem": "All that is around us is the ___",
+   "answer": "environment",
+   "distractors": [
+    "dream",
+    "song",
+    "noise"
+   ]
+  },
+  {
+   "stem": "We keep the environment clean by not ___",
+   "answer": "littering",
+   "distractors": [
+    "singing",
+    "sleeping",
+    "crying"
+   ]
+  },
+  {
+   "stem": "Living together without fighting is ___",
+   "answer": "peace",
+   "distractors": [
+    "noise",
+    "dust",
+    "storm"
+   ]
+  },
+  {
+   "stem": "When we are angry we use our ___ not our hands",
+   "answer": "words",
+   "distractors": [
+    "stones",
+    "fists",
+    "feet"
+   ]
+  },
+  {
+   "stem": "To give part of what I have is to ___",
+   "answer": "share",
+   "distractors": [
+    "steal",
+    "hide",
+    "lose"
+   ]
+  },
+  {
+   "stem": "Parents care for and ___ the children",
+   "answer": "teach",
+   "distractors": [
+    "forget",
+    "lose",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Neighbours help one ___",
+   "answer": "another",
+   "distractors": [
+    "nobody",
+    "stone",
+    "tree"
+   ]
+  },
+  {
+   "stem": "We respect our own culture and other people's ___",
+   "answer": "culture",
+   "distractors": [
+    "anger",
+    "dust",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "A peaceful home and school is a ___ place",
+   "answer": "happy",
+   "distractors": [
+    "sad",
+    "loud",
+    "dark"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things that make me who I am ",
+   "points": [
+    "my name",
+    "my family",
+    "my age"
+   ]
+  },
+  {
+   "stem": "Name two members of my family ",
+   "points": [
+    "father",
+    "mother",
+    "brother",
+    "sister"
+   ]
+  },
+  {
+   "stem": "Name two places in my community ",
+   "points": [
+    "school",
+    "market",
+    "place of worship"
+   ]
+  },
+  {
+   "stem": "Name two parts of our culture ",
+   "points": [
+    "language",
+    "food",
+    "clothes",
+    "music"
+   ]
+  },
+  {
+   "stem": "Name two good values ",
+   "points": [
+    "honesty",
+    "respect",
+    "obedience",
+    "sharing"
+   ]
+  },
+  {
+   "stem": "Name two duties of a good citizen ",
+   "points": [
+    "obey the rules",
+    "keep the environment clean",
+    "respect others"
+   ]
+  },
+  {
+   "stem": "Name two parts of the environment ",
+   "points": [
+    "air",
+    "water",
+    "land",
+    "plants",
+    "animals"
+   ]
+  },
+  {
+   "stem": "Name two ways we keep peace ",
+   "points": [
+    "sharing",
+    "saying sorry",
+    "using words not hands"
+   ]
+  },
+  {
+   "stem": "Name two things a good citizen does at school ",
+   "points": [
+    "learns well",
+    "obeys",
+    "helps"
+   ]
+  },
+  {
+   "stem": "Name two ways we show respect ",
+   "points": [
+    "greeting elders",
+    "saying please and thank you"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is identity?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two members of your family and what each does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is culture? Give two parts of it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two duties of a good citizen.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How do we live together in peace?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

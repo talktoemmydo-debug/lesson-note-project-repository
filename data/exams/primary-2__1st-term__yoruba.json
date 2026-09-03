@@ -1,0 +1,397 @@
+{
+ "subject": "Yoruba",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "5 in Yoruba is ___",
+   "answer": "àrún",
+   "distractors": [
+    "ọ̀kan",
+    "èjì",
+    "ẹ̀wá"
+   ]
+  },
+  {
+   "stem": "10 in Yoruba is ___",
+   "answer": "ẹ̀wá",
+   "distractors": [
+    "ogún",
+    "ẹ̀ta",
+    "ẹ̀fà"
+   ]
+  },
+  {
+   "stem": "20 in Yoruba is ___",
+   "answer": "ogún",
+   "distractors": [
+    "ọ̀kan",
+    "àrún",
+    "ẹ̀jọ"
+   ]
+  },
+  {
+   "stem": "3 in Yoruba is ___",
+   "answer": "ẹ̀ta",
+   "distractors": [
+    "ẹ̀fà",
+    "èje",
+    "ẹ̀jọ"
+   ]
+  },
+  {
+   "stem": "Red in Yoruba is ___",
+   "answer": "pupa",
+   "distractors": [
+    "búlùù",
+    "dúdú",
+    "funfun"
+   ]
+  },
+  {
+   "stem": "Blue in Yoruba is ___",
+   "answer": "búlùù",
+   "distractors": [
+    "pupa",
+    "yélò",
+    "dúdú"
+   ]
+  },
+  {
+   "stem": "Black in Yoruba is ___",
+   "answer": "dúdú",
+   "distractors": [
+    "funfun",
+    "pupa",
+    "yélò"
+   ]
+  },
+  {
+   "stem": "White in Yoruba is ___",
+   "answer": "funfun",
+   "distractors": [
+    "dúdú",
+    "pupa",
+    "búlùù"
+   ]
+  },
+  {
+   "stem": "Head in Yoruba is ___",
+   "answer": "orí",
+   "distractors": [
+    "ojú",
+    "etí",
+    "imú"
+   ]
+  },
+  {
+   "stem": "Eye in Yoruba is ___",
+   "answer": "ojú",
+   "distractors": [
+    "orí",
+    "ẹnu",
+    "ọwọ́"
+   ]
+  },
+  {
+   "stem": "Hand in Yoruba is ___",
+   "answer": "ọwọ́",
+   "distractors": [
+    "ẹsẹ̀",
+    "etí",
+    "imú"
+   ]
+  },
+  {
+   "stem": "Leg in Yoruba is ___",
+   "answer": "ẹsẹ̀",
+   "distractors": [
+    "ọwọ́",
+    "orí",
+    "ẹnu"
+   ]
+  },
+  {
+   "stem": "Yam in Yoruba is ___",
+   "answer": "iṣu",
+   "distractors": [
+    "omi",
+    "ẹja",
+    "wàrà"
+   ]
+  },
+  {
+   "stem": "Water in Yoruba is ___",
+   "answer": "omi",
+   "distractors": [
+    "iṣu",
+    "ẹran",
+    "ọkà"
+   ]
+  },
+  {
+   "stem": "Fish in Yoruba is ___",
+   "answer": "ẹja",
+   "distractors": [
+    "ẹ̀wà",
+    "ìrèsí",
+    "ẹ̀fọ́"
+   ]
+  },
+  {
+   "stem": "Good food makes us ___ and healthy",
+   "answer": "strong",
+   "distractors": [
+    "weak",
+    "sick",
+    "sad"
+   ]
+  },
+  {
+   "stem": "Dog in Yoruba is ___",
+   "answer": "ajá",
+   "distractors": [
+    "olóngbò",
+    "erin",
+    "ẹṣin"
+   ]
+  },
+  {
+   "stem": "Cat in Yoruba is ___",
+   "answer": "olóngbò",
+   "distractors": [
+    "ajá",
+    "ehoro",
+    "ewúrẹ́"
+   ]
+  },
+  {
+   "stem": "Elephant in Yoruba is ___",
+   "answer": "erin",
+   "distractors": [
+    "kìnìún",
+    "màlúù",
+    "adìẹ"
+   ]
+  },
+  {
+   "stem": "Chicken in Yoruba is ___",
+   "answer": "adìẹ",
+   "distractors": [
+    "ẹyẹ",
+    "ẹja",
+    "ehoro"
+   ]
+  },
+  {
+   "stem": "Home in Yoruba is ___",
+   "answer": "ilé",
+   "distractors": [
+    "ọjà",
+    "ọ̀run",
+    "omi"
+   ]
+  },
+  {
+   "stem": "Door in Yoruba is ___",
+   "answer": "ìlékùn",
+   "distractors": [
+    "fèrèsé",
+    "àga",
+    "tábìlì"
+   ]
+  },
+  {
+   "stem": "Chair in Yoruba is ___",
+   "answer": "àga",
+   "distractors": [
+    "tábìlì",
+    "èrè",
+    "èní"
+   ]
+  },
+  {
+   "stem": "Kitchen in Yoruba is ___",
+   "answer": "ìdáná",
+   "distractors": [
+    "yàrá",
+    "fèrèsé",
+    "ìkòkò"
+   ]
+  },
+  {
+   "stem": "Words we sing are ___",
+   "answer": "orin",
+   "distractors": [
+    "òwe",
+    "ìtàn",
+    "eré"
+   ]
+  },
+  {
+   "stem": "We sing ___ to babies",
+   "answer": "lullabies",
+   "distractors": [
+    "angry words",
+    "lies",
+    "noise"
+   ]
+  },
+  {
+   "stem": "Songs make us ___",
+   "answer": "happy",
+   "distractors": [
+    "sad",
+    "angry",
+    "sick"
+   ]
+  },
+  {
+   "stem": "We sing with a good ___ and joy",
+   "answer": "voice",
+   "distractors": [
+    "noise",
+    "shout",
+    "cry"
+   ]
+  },
+  {
+   "stem": "A story in Yoruba is ___",
+   "answer": "ìtàn",
+   "distractors": [
+    "orin",
+    "òwe",
+    "eré"
+   ]
+  },
+  {
+   "stem": "Folk stories about animals are ___",
+   "answer": "àlọ́",
+   "distractors": [
+    "orin",
+    "òwe",
+    "ọ̀rọ̀"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name five numbers in Yoruba ",
+   "points": [
+    "ọ̀kan",
+    "èjì",
+    "ẹ̀ta",
+    "ẹ̀rin",
+    "àrún"
+   ]
+  },
+  {
+   "stem": "Name three colours in Yoruba ",
+   "points": [
+    "pupa",
+    "búlùù",
+    "dúdú",
+    "funfun",
+    "yélò"
+   ]
+  },
+  {
+   "stem": "Name three parts of the body in Yoruba ",
+   "points": [
+    "orí",
+    "ojú",
+    "ọwọ́",
+    "ẹsẹ̀",
+    "etí"
+   ]
+  },
+  {
+   "stem": "Name three foods in Yoruba ",
+   "points": [
+    "iṣu",
+    "ọkà",
+    "ìrèsí",
+    "ẹ̀wà",
+    "ẹja"
+   ]
+  },
+  {
+   "stem": "Name three animals in Yoruba ",
+   "points": [
+    "ajá",
+    "olóngbò",
+    "erin",
+    "adìẹ",
+    "ewúrẹ́"
+   ]
+  },
+  {
+   "stem": "Name three things at home in Yoruba ",
+   "points": [
+    "ìlékùn",
+    "àga",
+    "tábìlì",
+    "ìkòkò"
+   ]
+  },
+  {
+   "stem": "Name two kinds of songs ",
+   "points": [
+    "lullabies",
+    "play songs",
+    "praise songs"
+   ]
+  },
+  {
+   "stem": "Name one story you know ",
+   "points": [
+    "any folk tale",
+    "any Bible story"
+   ]
+  },
+  {
+   "stem": "Name two things animals give us ",
+   "points": [
+    "food",
+    "milk",
+    "eggs",
+    "meat"
+   ]
+  },
+  {
+   "stem": "Name two things stories teach us ",
+   "points": [
+    "lessons",
+    "wisdom",
+    "culture"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Say 1 to 10 in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three colours in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three parts of the body in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three foods in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a story? Name one you know.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

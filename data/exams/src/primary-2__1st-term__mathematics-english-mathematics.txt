@@ -1,0 +1,56 @@
+# Mathematics & English · MATHEMATICS — Primary 2 · First Term · term paper
+subject: Mathematics & English
+stream: MATHEMATICS
+class: Primary 2
+term: 1st Term
+
+[objective]
+In 345, the digit 3 is in the ___ place || hundreds || tens || units || thousands
+In 345, the digit 4 is in the ___ place || tens || hundreds || units || thousands
+In 345, the digit 5 is in the ___ place || units || tens || hundreds || thousands
+100 is one ___ || hundred || ten || unit || thousand
+234 in words is "two hundred and ___" || thirty-four || three-four || four-three || thirty
+The digits of a number are its ___ || figures || words || letters || songs
+500 in words is "five ___" || hundred || ten || unit || thousand
+We use "___" after the hundred || and || but || or || so
+345 is ___ than 245 || bigger || smaller || equal || less
+120 is ___ than 210 || smaller || bigger || equal || greater
+The sign > means ___ || greater than || less than || equal to || plus
+The sign < means ___ || less than || greater than || equal to || minus
+A part of a whole is a ___ || fraction || stone || song || dream
+One of two equal parts is a ___ || half || whole || ten || hundred
+We write half as ___ || 1/2 || 2/1 || 1/3 || 1/4
+The two halves make the ___ || whole || part || none || zero
+One of four equal parts is a ___ || quarter || half || third || whole
+One of three equal parts is a ___ || third || half || quarter || whole
+We write a quarter as ___ || 1/4 || 1/2 || 1/3 || 4/1
+The parts must be ___ || equal || unequal || big || small
+A circle cut into two equal parts shows ___ || halves || quarters || thirds || wholes
+A circle cut into four equal parts shows ___ || quarters || halves || thirds || wholes
+If we colour 1 of 4 parts, we show ___ || 1/4 || 1/2 || 1/3 || 4/1
+The shape must be cut into ___ parts || equal || unequal || big || round
+Half of 6 oranges is ___ oranges || 3 || 2 || 4 || 6
+Half of 10 sweets is ___ sweets || 5 || 4 || 6 || 10
+A quarter of 8 is ___ || 2 || 3 || 4 || 8
+A third of 9 is ___ || 3 || 2 || 4 || 9
+What a digit is worth by its place is its ___ || place value || colour || name || age
+A group of things is a ___ || collection || stone || song || box
+
+[subobjective]
+Name the three places in a number :: hundreds | tens | units
+Name two numbers and write them in words :: two hundred | three hundred and four
+Name two numbers and say which is bigger :: 345 and 245 | 120 and 210
+Name two things we can share into halves :: an orange | a cake | a paper
+Name two fractions we know :: half | quarter | third
+Name two fractions we can show with shapes :: 1/2 | 1/4 | 1/3
+Name two fractions of a collection :: half of 6 | quarter of 8
+Name two measures of capacity :: litres | millilitres
+Name two 3-D shapes :: cube | sphere | cylinder
+Name two things we use to solve problems :: addition | subtraction
+
+[theory]
+What is place value? Name the three places. || 2
+Write 234 in words. || 2
+What is a fraction? What is a half? || 2
+What is a quarter? How do we write it? || 2
+What is half of 6? What is a quarter of 8? || 2

@@ -1,0 +1,396 @@
+{
+ "subject": "Christian Religious Studies",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "God made everything — the heavens and the ___",
+   "answer": "earth",
+   "distractors": [
+    "markets",
+    "schools only",
+    "buses"
+   ]
+  },
+  {
+   "stem": "How many days did God take to make the world in our lesson?",
+   "answer": "six",
+   "distractors": [
+    "two",
+    "ten",
+    "forty"
+   ]
+  },
+  {
+   "stem": "On Day 1 God made ___",
+   "answer": "light",
+   "distractors": [
+    "fish",
+    "cattle",
+    "man"
+   ]
+  },
+  {
+   "stem": "On Day 3 God made the dry land and ___",
+   "answer": "plants and trees",
+   "distractors": [
+    "the sun",
+    "the moon",
+    "the fish"
+   ]
+  },
+  {
+   "stem": "On Day 4 God made lights in the sky — the sun, the moon and ___",
+   "answer": "the stars",
+   "distractors": [
+    "the birds",
+    "the whales",
+    "the goats"
+   ]
+  },
+  {
+   "stem": "On Day 6 God made ___",
+   "answer": "man and woman",
+   "distractors": [
+    "the light",
+    "the sky",
+    "only the animals"
+   ]
+  },
+  {
+   "stem": "Which day did God rest on?",
+   "answer": "The seventh day",
+   "distractors": [
+    "The first day",
+    "The fifth day",
+    "The second day"
+   ]
+  },
+  {
+   "stem": "The first man was ___",
+   "answer": "Adam",
+   "distractors": [
+    "Noah",
+    "Moses",
+    "David"
+   ]
+  },
+  {
+   "stem": "The first woman was ___",
+   "answer": "Eve",
+   "distractors": [
+    "Mary",
+    "Ruth",
+    "Hannah"
+   ]
+  },
+  {
+   "stem": "Adam and Eve lived in the Garden of ___",
+   "answer": "Eden",
+   "distractors": [
+    "Gethsemane",
+    "Jordan",
+    "Jericho"
+   ]
+  },
+  {
+   "stem": "God gave Adam and Eve the duty to ___",
+   "answer": "take care of the garden",
+   "distractors": [
+    "build a city of stone",
+    "sail upon the sea",
+    "write a long book"
+   ]
+  },
+  {
+   "stem": "Who or what tempted Eve?",
+   "answer": "The serpent",
+   "distractors": [
+    "The lion",
+    "The crow",
+    "The fish"
+   ]
+  },
+  {
+   "stem": "The command they broke was not to eat from the tree of the ___",
+   "answer": "knowledge of good and evil",
+   "distractors": [
+    "fruit of the palm tree",
+    "leaves of the fig tree",
+    "oil of the olive tree"
+   ]
+  },
+  {
+   "stem": "The special name for God as the maker of all things is ___",
+   "answer": "Creator",
+   "distractors": [
+    "Captain",
+    "Cousin",
+    "Carpenter"
+   ]
+  },
+  {
+   "stem": "The psalm we say with thanksgiving is Psalm ___",
+   "answer": "136",
+   "distractors": [
+    "23",
+    "91",
+    "1"
+   ]
+  },
+  {
+   "stem": "\"Give thanks to the Lord, for he is ____\"",
+   "answer": "good",
+   "distractors": [
+    "great only",
+    "far",
+    "sleeping"
+   ]
+  },
+  {
+   "stem": "Every good and perfect gift comes down from ___",
+   "answer": "God",
+   "distractors": [
+    "the market",
+    "the neighbour",
+    "the river"
+   ]
+  },
+  {
+   "stem": "Food, water and shelter are gifts that ___",
+   "answer": "keep us alive",
+   "distractors": [
+    "make us poor",
+    "end at evening",
+    "belong to one tribe only"
+   ]
+  },
+  {
+   "stem": "Which of these is NOT a gift from God in our lesson?",
+   "answer": "Stealing",
+   "distractors": [
+    "Sunshine",
+    "Rain",
+    "Our parents"
+   ]
+  },
+  {
+   "stem": "God gave His only Son because He ___",
+   "answer": "loves the world",
+   "distractors": [
+    "was told to",
+    "was sleeping",
+    "likes songs only"
+   ]
+  },
+  {
+   "stem": "The gift of God's Son is our ___",
+   "answer": "Saviour",
+   "distractors": [
+    "classmate",
+    "neighbour only",
+    "king of one town only"
+   ]
+  },
+  {
+   "stem": "Jesus was born in the town of ___",
+   "answer": "Bethlehem",
+   "distractors": [
+    "Jericho",
+    "Nazareth only",
+    "Cairo"
+   ]
+  },
+  {
+   "stem": "The virgin mother of Jesus was ___",
+   "answer": "Mary",
+   "distractors": [
+    "Ruth",
+    "Rachel",
+    "Deborah"
+   ]
+  },
+  {
+   "stem": "The baby Jesus was laid in a ___",
+   "answer": "manger",
+   "distractors": [
+    "chariot",
+    "palace bed",
+    "basket of yam"
+   ]
+  },
+  {
+   "stem": "The angels told the ___",
+   "answer": "shepherds",
+   "distractors": [
+    "soldiers",
+    "fishermen",
+    "merchants first"
+   ]
+  },
+  {
+   "stem": "The gift that was NOT brought by the wise men is ___",
+   "answer": "sand",
+   "distractors": [
+    "gold",
+    "frankincense",
+    "myrrh"
+   ]
+  },
+  {
+   "stem": "Which of these do we learn from Jesus as a child?",
+   "answer": "To grow in wisdom and favour",
+   "distractors": [
+    "To hide from people",
+    "To fear the dark",
+    "To speak very little"
+   ]
+  },
+  {
+   "stem": "Jesus died on the ___",
+   "answer": "cross",
+   "distractors": [
+    "tree in the garden",
+    "throne",
+    "boat"
+   ]
+  },
+  {
+   "stem": "On the third day Jesus ___",
+   "answer": "rose again",
+   "distractors": [
+    "stayed buried",
+    "went to Egypt",
+    "fell asleep"
+   ]
+  },
+  {
+   "stem": "Because Jesus lives, we are ___",
+   "answer": "saved",
+   "distractors": [
+    "lost",
+    "afraid of daylight",
+    "too young to pray"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the six days of creation in order. ",
+   "points": [
+    "light; sky; land and plants; sun",
+    "moon",
+    "stars; fish and birds; man and animals"
+   ]
+  },
+  {
+   "stem": "Say what God made on Day 3 and Day 4. ",
+   "points": [
+    "plants",
+    "and",
+    "dry",
+    "land;",
+    "lights",
+    "in",
+    "the",
+    "sky"
+   ]
+  },
+  {
+   "stem": "Give three reasons why God rested on the seventh day. ",
+   "points": [
+    "to make it holy",
+    "to set an example",
+    "to enjoy what He made"
+   ]
+  },
+  {
+   "stem": "Mention four gifts of God listed in our lesson. ",
+   "points": [
+    "food",
+    "water",
+    "clothes",
+    "shelter",
+    "schools and teachers",
+    "our body"
+   ]
+  },
+  {
+   "stem": "State three ways we thank God for His gifts. ",
+   "points": [
+    "before meals",
+    "in songs",
+    "by prayer",
+    "by sharing"
+   ]
+  },
+  {
+   "stem": "Name three things we must NOT do to God's gifts. ",
+   "points": [
+    "waste them",
+    "damage them",
+    "boast over them"
+   ]
+  },
+  {
+   "stem": "Who are the four people in the story of the birth of Jesus? ",
+   "points": [
+    "Mary",
+    "Joseph",
+    "the shepherds",
+    "the wise men"
+   ]
+  },
+  {
+   "stem": "Mention the three gifts of the wise men. ",
+   "points": [
+    "gold",
+    "frankincense",
+    "myrrh"
+   ]
+  },
+  {
+   "stem": "Give two reasons why we celebrate Christmas. ",
+   "points": [
+    "God's love",
+    "the birth of Jesus",
+    "thanksgiving and joy"
+   ]
+  },
+  {
+   "stem": "State two things that happened after Jesus died. ",
+   "points": [
+    "He rose again",
+    "He appeared to His friends",
+    "He lives forever"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write on the work of creation in six days",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why do we call God the Creator? Give three reasons",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain how we show thankfulness for the gifts of God",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Tell the story of the birth of Jesus in four sentences",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why is Jesus called the greatest gift of God? Write two reasons",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

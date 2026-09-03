@@ -1,0 +1,56 @@
+# Mathematics & English · ENGLISH LANGUAGE — Primary 2 · First Term · term paper
+subject: Mathematics & English
+stream: ENGLISH LANGUAGE
+class: Primary 2
+term: 1st Term
+
+[objective]
+The letters A to Z are the ___ || alphabet || numbers || colours || shapes
+The sounds of letters are ___ || phonics || songs || stones || sleeps
+In Year One we read simple ___ || words || stones || trees || clouds
+We ___ to remember well || revise || forget || sleep || run
+A word for a person, place or thing is a ___ || noun || verb || stone || song
+Which of these is a noun? || school || run || jump || sing
+A proper noun names a ___ person or place || special || common || broken || lost
+We write a proper noun with a ___ letter || capital || small || round || dark
+A word that shows action is a ___ || verb || noun || stone || song
+Which of these is a verb? || run || school || book || Lagos
+"The boy ___." — choose the verb || runs || school || book || Kano
+We speak ___ so others hear us || clearly || softly only || noisily || rudely
+Understanding what we read is ___ || comprehension || anger || sleep || noise
+A group of sentences is a ___ || passage || stone || song || box
+We answer ___ about the passage || questions || stones || trees || clouds
+We write our answers in full ___ || sentences || stones || trees || clouds
+A word that describes a noun is an ___ || adjective || verb || stone || song
+In "a big ball", the adjective is ___ || big || ball || a || is
+Adjectives tell size, colour and ___ || shape || noise || sleep || food
+We put the adjective ___ the noun || before || after || under || over
+A sentence begins with a ___ letter || capital || small || round || dark
+A sentence ends with a ___ || full stop || comma only || dash || star
+We use capital letters for ___ || names || numbers only || stones || trees
+We leave a ___ between words || space || stone || tree || cloud
+A word that takes the place of a noun is a ___ || pronoun || verb || stone || song
+Which of these is a pronoun? || she || school || run || big
+"Amina is kind. ___ helps me." — choose the pronoun || She || School || Run || Big
+Pronouns help us not ___ nouns || repeat || eat || burn || hide
+How we write with a pen or pencil is ___ || handwriting || singing || running || eating
+We write ___ on the line || neatly || badly || rudely || noisily
+
+[subobjective]
+Name two things we learnt in Year One :: the alphabet | phonics | simple words
+Name three nouns :: boy | school | book | Lagos
+Name three verbs :: run | jump | eat | read
+Name three adjectives :: big | red | tall | small
+Name two things we find in a passage :: who | what | where | main idea
+Name two rules for writing a sentence :: begin with a capital letter | end with a full stop
+Name three pronouns :: he | she | it | they | we
+Name two things we write about :: family | school | friends
+Name two measures of capacity :: litres | millilitres
+Name two 3-D shapes :: cube | sphere | cylinder
+
+[theory]
+What is a noun? Name three. || 2
+What is a verb? Name three. || 2
+What is an adjective? Give one example. || 2
+How does a sentence begin and end? || 2
+What is a pronoun? Name three. || 2

@@ -1,0 +1,382 @@
+{
+ "subject": "Physical and Health Education",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Running is faster than ___",
+   "answer": "walking",
+   "distractors": [
+    "sleeping",
+    "sitting",
+    "crawling"
+   ]
+  },
+  {
+   "stem": "In running, both feet leave the ground for a ___",
+   "answer": "moment",
+   "distractors": [
+    "day",
+    "week",
+    "year"
+   ]
+  },
+  {
+   "stem": "Before we run we ___ up",
+   "answer": "warm",
+   "distractors": [
+    "sleep",
+    "eat",
+    "sit"
+   ]
+  },
+  {
+   "stem": "A short, fast run is called a ___",
+   "answer": "dash",
+   "distractors": [
+    "walk",
+    "crawl",
+    "jump"
+   ]
+  },
+  {
+   "stem": "The 50-metre dash is a race over ___ metres",
+   "answer": "fifty",
+   "distractors": [
+    "ten",
+    "five",
+    "a hundred"
+   ]
+  },
+  {
+   "stem": "Running back and forth between two points is a ___ run",
+   "answer": "shuttle",
+   "distractors": [
+    "slow",
+    "long",
+    "rest"
+   ]
+  },
+  {
+   "stem": "At the far point of a shuttle run we ___ and run back",
+   "answer": "turn",
+   "distractors": [
+    "sit",
+    "sleep",
+    "eat"
+   ]
+  },
+  {
+   "stem": "The shuttle run builds speed and ___",
+   "answer": "coordination",
+   "distractors": [
+    "hunger",
+    "noise",
+    "dust"
+   ]
+  },
+  {
+   "stem": "The traditional games our people play are ___ games",
+   "answer": "local",
+   "distractors": [
+    "computer",
+    "video",
+    "card"
+   ]
+  },
+  {
+   "stem": "The hopping game on a drawn pattern is ___",
+   "answer": "suwe",
+   "distractors": [
+    "ludo",
+    "chess",
+    "draft"
+   ]
+  },
+  {
+   "stem": "The hiding game where one child seeks is ___",
+   "answer": "boju-boju",
+   "distractors": [
+    "ten-ten",
+    "suwe",
+    "football"
+   ]
+  },
+  {
+   "stem": "The clapping game with rhythm is ___",
+   "answer": "ten-ten",
+   "distractors": [
+    "suwe",
+    "boju-boju",
+    "tag"
+   ]
+  },
+  {
+   "stem": "When I run I land on the ___ of my feet",
+   "answer": "balls",
+   "distractors": [
+    "heels",
+    "sides",
+    "toes only"
+   ]
+  },
+  {
+   "stem": "My body leans slightly ___ when I run",
+   "answer": "forward",
+   "distractors": [
+    "backward",
+    "left",
+    "right"
+   ]
+  },
+  {
+   "stem": "My arms bend and ___ by my sides when I run",
+   "answer": "swing",
+   "distractors": [
+    "shake",
+    "rest",
+    "cross"
+   ]
+  },
+  {
+   "stem": "After the toilet we wash our hands with soap and ___",
+   "answer": "water",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "Washing hands removes ___",
+   "answer": "germs",
+   "distractors": [
+    "food",
+    "clothes",
+    "books"
+   ]
+  },
+  {
+   "stem": "A type of toilet is the ___ toilet",
+   "answer": "pit",
+   "distractors": [
+    "road",
+    "desk",
+    "roof"
+   ]
+  },
+  {
+   "stem": "Keeping my own body clean every day is ___ hygiene",
+   "answer": "personal",
+   "distractors": [
+    "school",
+    "market",
+    "road"
+   ]
+  },
+  {
+   "stem": "I brush my teeth in the morning and at ___",
+   "answer": "night",
+   "distractors": [
+    "noon",
+    "dawn",
+    "dusk"
+   ]
+  },
+  {
+   "stem": "I keep my nails clean and ___",
+   "answer": "trimmed",
+   "distractors": [
+    "long",
+    "dirty",
+    "painted"
+   ]
+  },
+  {
+   "stem": "I blow my nose gently into a ___",
+   "answer": "tissue",
+   "distractors": [
+    "leaf",
+    "stone",
+    "shoe"
+   ]
+  },
+  {
+   "stem": "Keeping our home, school and community clean is ___ hygiene",
+   "answer": "environmental",
+   "distractors": [
+    "personal",
+    "food",
+    "air"
+   ]
+  },
+  {
+   "stem": "We put waste in the ___",
+   "answer": "dustbin",
+   "distractors": [
+    "river",
+    "road",
+    "desk"
+   ]
+  },
+  {
+   "stem": "Throwing rubbish about is called ___",
+   "answer": "littering",
+   "distractors": [
+    "sweeping",
+    "mopping",
+    "planting"
+   ]
+  },
+  {
+   "stem": "A dirty environment breeds germs, flies and ___",
+   "answer": "mosquitoes",
+   "distractors": [
+    "flowers",
+    "songs",
+    "stars"
+   ]
+  },
+  {
+   "stem": "We sweep the floor with a ___",
+   "answer": "broom",
+   "distractors": [
+    "spoon",
+    "pen",
+    "fork"
+   ]
+  },
+  {
+   "stem": "We clean the floor with water and a ___",
+   "answer": "mop",
+   "distractors": [
+    "knife",
+    "comb",
+    "ruler"
+   ]
+  },
+  {
+   "stem": "A clean body keeps ___ away",
+   "answer": "germs",
+   "distractors": [
+    "friends",
+    "food",
+    "music"
+   ]
+  },
+  {
+   "stem": "We all share the work of keeping our environment ___",
+   "answer": "clean",
+   "distractors": [
+    "dirty",
+    "loud",
+    "dark"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things a good runner does ",
+   "points": [
+    "swing arms",
+    "lift knees",
+    "look ahead"
+   ]
+  },
+  {
+   "stem": "Name two local games ",
+   "points": [
+    "suwe",
+    "ten-ten",
+    "boju-boju"
+   ]
+  },
+  {
+   "stem": "Name two types of toilets ",
+   "points": [
+    "water closet",
+    "pit toilet",
+    "squatting toilet"
+   ]
+  },
+  {
+   "stem": "Name two things we wash with ",
+   "points": [
+    "soap",
+    "water"
+   ]
+  },
+  {
+   "stem": "Name two times we brush our teeth ",
+   "points": [
+    "morning",
+    "night"
+   ]
+  },
+  {
+   "stem": "Name two parts of the body we keep clean ",
+   "points": [
+    "nails",
+    "ears",
+    "nose"
+   ]
+  },
+  {
+   "stem": "Name two ways we clean the environment ",
+   "points": [
+    "sweeping",
+    "mopping"
+   ]
+  },
+  {
+   "stem": "Name two things that breed in a dirty environment ",
+   "points": [
+    "flies",
+    "mosquitoes",
+    "germs"
+   ]
+  },
+  {
+   "stem": "Name two tools for cleaning ",
+   "points": [
+    "broom",
+    "mop",
+    "dustbin"
+   ]
+  },
+  {
+   "stem": "Name two things we do before running ",
+   "points": [
+    "warm up",
+    "stretch"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "How is running different from walking?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a shuttle run?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two local games and how one is played.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say the steps of washing your hands.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How do we keep our environment clean?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

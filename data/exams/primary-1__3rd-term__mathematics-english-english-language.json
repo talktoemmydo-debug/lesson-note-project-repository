@@ -1,0 +1,388 @@
+{
+ "subject": "Mathematics & English · ENGLISH LANGUAGE",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Understanding what we read is ___",
+   "answer": "comprehension",
+   "distractors": [
+    "anger",
+    "sleep",
+    "noise"
+   ]
+  },
+  {
+   "stem": "A piece of writing with rhythm is a ___",
+   "answer": "poem",
+   "distractors": [
+    "stone",
+    "song",
+    "box"
+   ]
+  },
+  {
+   "stem": "A story tells us about people and ___",
+   "answer": "events",
+   "distractors": [
+    "stones",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We read the story with ___",
+   "answer": "care",
+   "distractors": [
+    "anger",
+    "noise",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "For the past we ask \"What ___ you do?\"",
+   "answer": "did",
+   "distractors": [
+    "will",
+    "is",
+    "are"
+   ]
+  },
+  {
+   "stem": "For the future we ask \"What ___ you do?\"",
+   "answer": "will",
+   "distractors": [
+    "did",
+    "was",
+    "are"
+   ]
+  },
+  {
+   "stem": "\"I played\" is in the ___",
+   "answer": "past",
+   "distractors": [
+    "future",
+    "present",
+    "dream"
+   ]
+  },
+  {
+   "stem": "\"I will read\" is in the ___",
+   "answer": "future",
+   "distractors": [
+    "past",
+    "stone",
+    "song"
+   ]
+  },
+  {
+   "stem": "A word that describes a noun is an ___",
+   "answer": "adjective",
+   "distractors": [
+    "verb",
+    "stone",
+    "song"
+   ]
+  },
+  {
+   "stem": "In \"a big ball\", the adjective is ___",
+   "answer": "big",
+   "distractors": [
+    "ball",
+    "a",
+    "is"
+   ]
+  },
+  {
+   "stem": "Adjectives tell size, colour and ___",
+   "answer": "shape",
+   "distractors": [
+    "noise",
+    "sleep",
+    "food"
+   ]
+  },
+  {
+   "stem": "We put the adjective ___ the noun",
+   "answer": "before",
+   "distractors": [
+    "after",
+    "under",
+    "over"
+   ]
+  },
+  {
+   "stem": "Understanding what we hear is ___ comprehension",
+   "answer": "listening",
+   "distractors": [
+    "running",
+    "sleeping",
+    "eating"
+   ]
+  },
+  {
+   "stem": "A group of sentences about one thing is a ___",
+   "answer": "paragraph",
+   "distractors": [
+    "stone",
+    "song",
+    "box"
+   ]
+  },
+  {
+   "stem": "We listen with ___ and attention",
+   "answer": "care",
+   "distractors": [
+    "anger",
+    "noise",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "We remember the ___ ideas",
+   "answer": "main",
+   "distractors": [
+    "bad",
+    "loud",
+    "dark"
+   ]
+  },
+  {
+   "stem": "Things that happen every day are ___ situations",
+   "answer": "everyday",
+   "distractors": [
+    "strange",
+    "old",
+    "new"
+   ]
+  },
+  {
+   "stem": "We read about home, school and ___",
+   "answer": "market",
+   "distractors": [
+    "sky",
+    "sea",
+    "fire"
+   ]
+  },
+  {
+   "stem": "The tense for what is happening now is the present ___",
+   "answer": "continuous",
+   "distractors": [
+    "past",
+    "future",
+    "stone"
+   ]
+  },
+  {
+   "stem": "\"I ___ reading\" — choose the right word",
+   "answer": "am",
+   "distractors": [
+    "is",
+    "are",
+    "was"
+   ]
+  },
+  {
+   "stem": "\"She ___ singing\" — choose the right word",
+   "answer": "is",
+   "distractors": [
+    "am",
+    "are",
+    "were"
+   ]
+  },
+  {
+   "stem": "The verb ends with ___",
+   "answer": "-ing",
+   "distractors": [
+    "-ed",
+    "-s",
+    "-ly"
+   ]
+  },
+  {
+   "stem": "The words we know are our ___",
+   "answer": "vocabulary",
+   "distractors": [
+    "noise",
+    "sleep",
+    "food"
+   ]
+  },
+  {
+   "stem": "We practise ___ the words",
+   "answer": "spelling",
+   "distractors": [
+    "eating",
+    "burning",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "We spell by saying the ___ in order",
+   "answer": "letters",
+   "distractors": [
+    "stones",
+    "songs",
+    "boxes"
+   ]
+  },
+  {
+   "stem": "Hearing the sounds in words is ___ awareness",
+   "answer": "phonemic",
+   "distractors": [
+    "colour",
+    "size",
+    "weight"
+   ]
+  },
+  {
+   "stem": "Words are made of ___",
+   "answer": "sounds",
+   "distractors": [
+    "stones",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "The word \"cat\" has the sounds ___",
+   "answer": "c-a-t",
+   "distractors": [
+    "d-o-g",
+    "b-e-d",
+    "s-u-n"
+   ]
+  },
+  {
+   "stem": "We can hear the ___ sound in a word",
+   "answer": "first",
+   "distractors": [
+    "no",
+    "zero",
+    "dark"
+   ]
+  },
+  {
+   "stem": "What we hear is a ___",
+   "answer": "sound",
+   "distractors": [
+    "stone",
+    "song",
+    "box"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things we find in a story ",
+   "points": [
+    "who",
+    "what",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "stem": "Name two questions we can ask about the past ",
+   "points": [
+    "What did you do?",
+    "Where did you go?"
+   ]
+  },
+  {
+   "stem": "Name three adjectives ",
+   "points": [
+    "big",
+    "red",
+    "tall",
+    "small",
+    "round"
+   ]
+  },
+  {
+   "stem": "Name two things we listen for ",
+   "points": [
+    "who",
+    "what",
+    "where",
+    "main idea"
+   ]
+  },
+  {
+   "stem": "Name two everyday situations ",
+   "points": [
+    "going to school",
+    "eating at home",
+    "playing"
+   ]
+  },
+  {
+   "stem": "Name two sentences in the present continuous ",
+   "points": [
+    "I am reading",
+    "She is singing"
+   ]
+  },
+  {
+   "stem": "Name two new words you have learnt ",
+   "points": [
+    "book",
+    "school",
+    "water",
+    "food"
+   ]
+  },
+  {
+   "stem": "Name the sounds in the word \"dog\" ",
+   "points": [
+    "d-o-g",
+    "d, o, g"
+   ]
+  },
+  {
+   "stem": "Name two measures of capacity ",
+   "points": [
+    "litres",
+    "millilitres"
+   ]
+  },
+  {
+   "stem": "Name two 3-D shapes ",
+   "points": [
+    "cube",
+    "sphere",
+    "cylinder",
+    "cone"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is comprehension?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What word do we use for the past and what word for the future?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is an adjective? Give one example.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Make one sentence in the present continuous tense.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is phonemic awareness?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+# General Knowledge — Primary 2 · Second Term · term paper
+subject: General Knowledge
+class: Primary 2
+term: 2nd Term
+
+[objective]
+There are ___ continents || seven || five || ten || two
+Our continent is ___ || Africa || Asia || Europe || Australia
+The biggest continent is ___ || Asia || Africa || Europe || Australia
+___ is very cold and covered with ice || Antarctica || Africa || Asia || Europe
+There are ___ oceans || five || seven || ten || two
+The biggest ocean is the ___ || Pacific || Atlantic || Indian || Arctic
+The ocean near Nigeria is the ___ || Atlantic || Pacific || Indian || Southern
+Oceans are ___ — we do not drink their water || salty || sweet || fresh || clean
+The capital of Nigeria is ___ || Abuja || Accra || Cairo || Nairobi
+The capital of Ghana is ___ || Accra || Abuja || Cairo || Nairobi
+The capital of Egypt is ___ || Cairo || Abuja || Accra || Nairobi
+The capital of Kenya is ___ || Nairobi || Abuja || Accra || Cairo
+The capital of the United Kingdom is ___ || London || Paris || Tokyo || Beijing
+The capital of France is ___ || Paris || London || Tokyo || Beijing
+The capital of China is ___ || Beijing || London || Paris || Tokyo
+The capital of Japan is ___ || Tokyo || London || Paris || Beijing
+The three main languages in Nigeria are Hausa, Yoruba and ___ || Igbo || French || Latin || Arabic
+The official language of Nigeria is ___ || English || French || Arabic || Latin
+The Igbo have the ___ festival || New Yam || durbar || Egungun || Osun
+Culture is the ___ of life of a people || way || stone || tree || cloud
+The part of the body we see with is the ___ || eye || ear || nose || tongue
+The part we hear with is the ___ || ear || eye || hand || leg
+We brush our teeth every morning and ___ || night || noon || dawn || dusk
+We wash our hands before ___ || eating || sleeping || running || singing
+Where a plant or animal lives is its ___ || habitat || stone || song || dream
+Fish live in ___ || water || trees || desert || sky
+Birds live in trees and ___ || nests || water || desert || fire
+Camels live in the ___ || desert || water || tree || sky
+The tools and machines we use is ___ || technology || sleep || food || water
+A ___ helps us learn and work || computer || stone || tree || cloud
+
+[subobjective]
+Name three continents :: Africa | Asia | Europe | North America | South America | Australia | Antarctica
+Name three oceans :: Atlantic | Pacific | Indian | Southern | Arctic
+Name two African countries and their capitals :: Nigeria-Abuja | Ghana-Accra | Egypt-Cairo | Kenya-Nairobi
+Name two countries in the world and their capitals :: UK-London | France-Paris | China-Beijing | Japan-Tokyo
+Name two Nigerian languages :: Hausa | Yoruba | Igbo | Ijaw | Tiv
+Name two healthy habits :: bathing | brushing teeth | washing hands
+Name two animals and their habitats :: fish-water | birds-trees | camels-desert
+Name two technologies we use :: computer | phone | internet | television
+Name two Nigerian festivals :: New Yam | durbar | Egungun | Osun
+Name two things technology does for us :: makes work easy | helps us find information
+
+[theory]
+How many continents are there? Name three. || 2
+How many oceans are there? Name the one near Nigeria. || 2
+Name two African countries and their capitals. || 2
+Name the three main languages in Nigeria. || 2
+What is a habitat? Name two animals and their habitats. || 2

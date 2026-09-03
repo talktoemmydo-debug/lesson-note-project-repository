@@ -1,0 +1,395 @@
+{
+ "subject": "Basic Science",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Water keeps best in a container that is ___",
+   "answer": "clean and covered",
+   "distractors": [
+    "bright in colour",
+    "made of paper",
+    "left in the sun"
+   ]
+  },
+  {
+   "stem": "Which of these is used to store water at home?",
+   "answer": "a jerry can",
+   "distractors": [
+    "a fishing net",
+    "a writing slate",
+    "a broom"
+   ]
+  },
+  {
+   "stem": "A lid on a water bucket keeps out ___",
+   "answer": "dirt and insects",
+   "distractors": [
+    "the cold wind",
+    "the smell of smoke",
+    "the light of day"
+   ]
+  },
+  {
+   "stem": "Before water is put into a container, the container is ___",
+   "answer": "washed out with clean water",
+   "distractors": [
+    "rubbed with dry sand",
+    "left where it is",
+    "warmed in the sun"
+   ]
+  },
+  {
+   "stem": "Water kept in an open bucket becomes dirty because ___",
+   "answer": "dust and insects fall in",
+   "distractors": [
+    "the bucket is too heavy",
+    "the stand is too high",
+    "the water is too cold"
+   ]
+  },
+  {
+   "stem": "A sickness that comes to us from dirty water is called ___",
+   "answer": "a water-borne disease",
+   "distractors": [
+    "a bone disease",
+    "an ear disease",
+    "a skin disease"
+   ]
+  },
+  {
+   "stem": "Which of these comes from dirty water?",
+   "answer": "cholera",
+   "distractors": [
+    "ring worm",
+    "measles",
+    "tooth decay"
+   ]
+  },
+  {
+   "stem": "Passing loose water many times in one day is ___",
+   "answer": "diarrhoea",
+   "distractors": [
+    "cough",
+    "rash",
+    "sneezing"
+   ]
+  },
+  {
+   "stem": "To make doubtful water safe for drinking we can ___",
+   "answer": "boil it",
+   "distractors": [
+    "keep it in the shade",
+    "add palm oil to it",
+    "leave it open"
+   ]
+  },
+  {
+   "stem": "After using the toilet, a child must wash the ___",
+   "answer": "hands with soap",
+   "distractors": [
+    "ears with sand",
+    "feet with chalk",
+    "bag in the sun"
+   ]
+  },
+  {
+   "stem": "Keeping people and property safe is called ___",
+   "answer": "security",
+   "distractors": [
+    "cooking",
+    "farming",
+    "sleeping"
+   ]
+  },
+  {
+   "stem": "Which gadget makes a loud sound when somebody forces a door?",
+   "answer": "a burglar alarm",
+   "distractors": [
+    "a water tank",
+    "a dustbin",
+    "a hand broom"
+   ]
+  },
+  {
+   "stem": "A CCTV camera is put up to ___",
+   "answer": "record what happens",
+   "distractors": [
+    "pound the yam",
+    "sweep the gate",
+    "cool the room"
+   ]
+  },
+  {
+   "stem": "The gadget that warns a house when there is smoke is a ___",
+   "answer": "smoke alarm",
+   "distractors": [
+    "door bell",
+    "hand fan",
+    "cutlass"
+   ]
+  },
+  {
+   "stem": "When an alarm sounds at night, we should ___",
+   "answer": "leave the house at once",
+   "distractors": [
+    "hide under the bed quietly",
+    "run back inside for our toys",
+    "open the door and look out well"
+   ]
+  },
+  {
+   "stem": "The home of a chicken is called a ___",
+   "answer": "coop",
+   "distractors": [
+    "den",
+    "hive",
+    "burrow"
+   ]
+  },
+  {
+   "stem": "A spider lives in a ___",
+   "answer": "web",
+   "distractors": [
+    "nest",
+    "stable",
+    "kennel"
+   ]
+  },
+  {
+   "stem": "The home of a cow is a ___",
+   "answer": "shed",
+   "distractors": [
+    "coop",
+    "hive",
+    "web"
+   ]
+  },
+  {
+   "stem": "Which of these animals lives in an anthill?",
+   "answer": "the ant",
+   "distractors": [
+    "the fish",
+    "the goat",
+    "the hen"
+   ]
+  },
+  {
+   "stem": "The young one of a goat is called a ___",
+   "answer": "kid",
+   "distractors": [
+    "lamb",
+    "cub",
+    "foal"
+   ]
+  },
+  {
+   "stem": "A puppy is the young one of a ___",
+   "answer": "dog",
+   "distractors": [
+    "hen",
+    "cow",
+    "bee"
+   ]
+  },
+  {
+   "stem": "The young one of a butterfly is called a ___",
+   "answer": "caterpillar",
+   "distractors": [
+    "tadpole",
+    "chick",
+    "duckling"
+   ]
+  },
+  {
+   "stem": "Which of these animals hatches from an egg?",
+   "answer": "the duck",
+   "distractors": [
+    "the goat",
+    "the horse",
+    "the dog"
+   ]
+  },
+  {
+   "stem": "A machine is something that makes work ___",
+   "answer": "easier",
+   "distractors": [
+    "longer",
+    "wetter",
+    "darker"
+   ]
+  },
+  {
+   "stem": "Which of these is used for sweeping the floor?",
+   "answer": "a broom",
+   "distractors": [
+    "a spoon",
+    "a plate",
+    "a cup"
+   ]
+  },
+  {
+   "stem": "A hammer is used to ___",
+   "answer": "knock in a nail",
+   "distractors": [
+    "cut the cloth",
+    "drink the water",
+    "iron the shirt"
+   ]
+  },
+  {
+   "stem": "In the class, two sheets of paper are joined with a ___",
+   "answer": "stapler",
+   "distractors": [
+    "duster",
+    "ruler",
+    "bell"
+   ]
+  },
+  {
+   "stem": "Which machine makes a round hole in a page?",
+   "answer": "a hole puncher",
+   "distractors": [
+    "an eraser",
+    "a brush",
+    "a stick of chalk"
+   ]
+  },
+  {
+   "stem": "Everything around me that I can see, hear and smell is my ___",
+   "answer": "environment",
+   "distractors": [
+    "exercise book",
+    "lunch box",
+    "school bell"
+   ]
+  },
+  {
+   "stem": "Which sense tells me that the water from the tap is cold?",
+   "answer": "touching",
+   "distractors": [
+    "seeing",
+    "hearing",
+    "smelling"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the four water-borne diseases you know. ",
+   "points": [
+    "diarrhoea",
+    "cholera",
+    "typhoid fever",
+    "dysentery"
+   ]
+  },
+  {
+   "stem": "Mention four containers that can be used for storing water. ",
+   "points": [
+    "covered bucket",
+    "jerry can",
+    "water tank",
+    "clay pot"
+   ]
+  },
+  {
+   "stem": "Give the home of each of these animals: the dog, the bird, the lion and the rabbit. ",
+   "points": [
+    "kennel",
+    "nest",
+    "den",
+    "burrow"
+   ]
+  },
+  {
+   "stem": "Write the young one of the dog, the cat, the cow and the sheep. ",
+   "points": [
+    "puppy",
+    "kitten",
+    "calf",
+    "lamb"
+   ]
+  },
+  {
+   "stem": "Mention four security gadgets that keep a house safe. ",
+   "points": [
+    "lock and key",
+    "burglar alarm",
+    "CCTV camera",
+    "smoke alarm"
+   ]
+  },
+  {
+   "stem": "Name four simple machines used in the home. ",
+   "points": [
+    "broom",
+    "knife",
+    "spoon",
+    "hammer"
+   ]
+  },
+  {
+   "stem": "Mention four simple machines we use in the classroom. ",
+   "points": [
+    "pencil sharpener",
+    "scissors",
+    "stapler",
+    "hole puncher"
+   ]
+  },
+  {
+   "stem": "Name the five senses I use to explore my environment. ",
+   "points": [
+    "seeing",
+    "hearing",
+    "smelling",
+    "touching",
+    "tasting"
+   ]
+  },
+  {
+   "stem": "Say three things that make an environment unpleasant. ",
+   "points": [
+    "blocked gutter",
+    "refuse in the gutter",
+    "an open drain"
+   ]
+  },
+  {
+   "stem": "Mention three places you can find inside your school compound. ",
+   "points": [
+    "the office",
+    "the playground",
+    "the toilet"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a water-borne disease? Name four of them and state two ways of keeping it away.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe how water is kept clean at home. Name the containers that may be used for it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is security? Name four security gadgets and say the work each one does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write the home and the young one of each of these animals: the dog, the hen, the cow, the goat and the lion.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a machine? Name five simple machines used in the home and say what each one is used for.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

@@ -1,0 +1,395 @@
+{
+ "subject": "General Knowledge",
+ "class": "Nursery 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "The helper who treats people when they are sick is the ___",
+   "answer": "doctor",
+   "distractors": [
+    "tailor",
+    "farmer",
+    "driver"
+   ]
+  },
+  {
+   "stem": "A nurse works mainly at the ___",
+   "answer": "hospital or clinic",
+   "distractors": [
+    "farm",
+    "market",
+    "filling station"
+   ]
+  },
+  {
+   "stem": "The helper who sews our school cloth is the ___",
+   "answer": "tailor",
+   "distractors": [
+    "mason",
+    "barber",
+    "pilot"
+   ]
+  },
+  {
+   "stem": "Where does a police officer work? He works at the ___",
+   "answer": "police station",
+   "distractors": [
+    "poultry house",
+    "school kitchen",
+    "motor park"
+   ]
+  },
+  {
+   "stem": "The farmer is important to the town because he ___",
+   "answer": "grows the food we eat",
+   "distractors": [
+    "sews our uniforms",
+    "drives the bus",
+    "keeps the gate"
+   ]
+  },
+  {
+   "stem": "Our money in Nigeria is called the ___",
+   "answer": "Naira",
+   "distractors": [
+    "cedi",
+    "franc",
+    "shilling"
+   ]
+  },
+  {
+   "stem": "The sign written for the Naira is ___",
+   "answer": "₦",
+   "distractors": [
+    "$",
+    "£",
+    "¢"
+   ]
+  },
+  {
+   "stem": "The colours of the Nigerian flag are ___",
+   "answer": "green, white and green",
+   "distractors": [
+    "red, white and black",
+    "green and gold",
+    "white and blue only"
+   ]
+  },
+  {
+   "stem": "The white colour on our flag stands for ___",
+   "answer": "peace",
+   "distractors": [
+    "water",
+    "farms",
+    "market"
+   ]
+  },
+  {
+   "stem": "The green colour on our flag is for our ___",
+   "answer": "farms and land",
+   "distractors": [
+    "cars and roads",
+    "planes and birds",
+    "books and pens"
+   ]
+  },
+  {
+   "stem": "Our capital city is ___",
+   "answer": "Abuja",
+   "distractors": [
+    "Lagos",
+    "Ibadan",
+    "Sokoto"
+   ]
+  },
+  {
+   "stem": "On a simple map, our country Nigeria is found in ___ Africa.",
+   "answer": "West",
+   "distractors": [
+    "East",
+    "North only",
+    "South only"
+   ]
+  },
+  {
+   "stem": "The eagle is important to us because it is our ___",
+   "answer": "national bird",
+   "distractors": [
+    "farm animal",
+    "pet in the house",
+    "fish of the river"
+   ]
+  },
+  {
+   "stem": "The animal called the king of animals is the ___",
+   "answer": "lion",
+   "distractors": [
+    "goat",
+    "rabbit",
+    "dog"
+   ]
+  },
+  {
+   "stem": "The home of a dog is called a ___",
+   "answer": "kennel",
+   "distractors": [
+    "coop",
+    "hutch",
+    "stable"
+   ]
+  },
+  {
+   "stem": "A chicken is kept in a ___",
+   "answer": "coop or a poultry house",
+   "distractors": [
+    "sty or a pig hole",
+    "stable for a horse",
+    "nest on a tall tree"
+   ]
+  },
+  {
+   "stem": "The language used for our lessons in school is ___",
+   "answer": "English",
+   "distractors": [
+    "Arabic only",
+    "French",
+    "Latin"
+   ]
+  },
+  {
+   "stem": "A day with clouds and water falling from the sky is a ___",
+   "answer": "rainy day",
+   "distractors": [
+    "sunny day",
+    "dusty day",
+    "windy day"
+   ]
+  },
+  {
+   "stem": "The harmattan season in Nigeria brings air that is ___",
+   "answer": "dry, dusty and cool",
+   "distractors": [
+    "wet and muddy",
+    "hot and rainy",
+    "dark all day"
+   ]
+  },
+  {
+   "stem": "On a rainy morning the thing we carry to keep dry is an ___",
+   "answer": "umbrella",
+   "distractors": [
+    "fan",
+    "broom",
+    "plate"
+   ]
+  },
+  {
+   "stem": "The part of a plant that drinks water from the soil is the ___",
+   "answer": "root",
+   "distractors": [
+    "flower",
+    "fruit",
+    "leaf"
+   ]
+  },
+  {
+   "stem": "A flower on a plant later becomes the ___",
+   "answer": "fruit",
+   "distractors": [
+    "stone",
+    "branch",
+    "shadow"
+   ]
+  },
+  {
+   "stem": "The things a plant gives us for our home are ___",
+   "answer": "food, shade and fresh air",
+   "distractors": [
+    "only fire and ash",
+    "books and pens",
+    "iron and tin"
+   ]
+  },
+  {
+   "stem": "Which of these is a vegetable and not a fruit?",
+   "answer": "ugu",
+   "distractors": [
+    "mango",
+    "banana",
+    "orange"
+   ]
+  },
+  {
+   "stem": "We hold a grown-up's ___ when we cross a busy road.",
+   "answer": "hand",
+   "distractors": [
+    "finger only",
+    "bag",
+    "shoe"
+   ]
+  },
+  {
+   "stem": "Before crossing the road a child should first ___",
+   "answer": "stop and look left, right, then left",
+   "distractors": [
+    "run across as fast as possible",
+    "close both eyes and then jump",
+    "shout at all of the cars"
+   ]
+  },
+  {
+   "stem": "The sense we use for smelling food is the ___",
+   "answer": "nose",
+   "distractors": [
+    "ear",
+    "skin",
+    "tongue"
+   ]
+  },
+  {
+   "stem": "A dangerous thing at home that must never be touched is ___",
+   "answer": "a bottle of medicine on the shelf",
+   "distractors": [
+    "a folded towel on the bed",
+    "a wooden spoon for the pot",
+    "a school shoe by the door"
+   ]
+  },
+  {
+   "stem": "The tortoise in our folktales is known for being clever and ___",
+   "answer": "greedy",
+   "distractors": [
+    "fast always",
+    "strong like a horse",
+    "big as an elephant"
+   ]
+  },
+  {
+   "stem": "In the story of the wisdom gourd, the tortoise learnt that wisdom must be ___",
+   "answer": "shared with everybody",
+   "distractors": [
+    "hidden in a tree",
+    "sold at the market",
+    "buried in the farm"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name five helpers in our community and what each does. ",
+   "points": [
+    "doctor",
+    "nurse",
+    "teacher",
+    "police officer",
+    "farmer"
+   ]
+  },
+  {
+   "stem": "Say where four of these helpers work: doctor, teacher, police, farmer. ",
+   "points": [
+    "hospital",
+    "school",
+    "police station",
+    "farm"
+   ]
+  },
+  {
+   "stem": "Name the two colours of our flag and what each means. ",
+   "points": [
+    "green for our farms and land",
+    "white for peace"
+   ]
+  },
+  {
+   "stem": "Mention four Nigerian foods and two clothes we wear on special days. ",
+   "points": [
+    "rice",
+    "yam",
+    "beans",
+    "plantain",
+    "agbada",
+    "ankara"
+   ]
+  },
+  {
+   "stem": "Name the two seasons in Nigeria and one thing each brings. ",
+   "points": [
+    "rainy season, with water from the sky",
+    "dry season, with dust and heat"
+   ]
+  },
+  {
+   "stem": "Name four parts of a plant and what the root does. ",
+   "points": [
+    "root",
+    "stem",
+    "leaf",
+    "flower — the root holds the plant and drinks water"
+   ]
+  },
+  {
+   "stem": "Match four animals with their homes: dog, fowl, cow, rabbit. ",
+   "points": [
+    "kennel",
+    "coop",
+    "shed",
+    "hutch"
+   ]
+  },
+  {
+   "stem": "Name the five senses with the organ of each. ",
+   "points": [
+    "sight, eyes",
+    "hearing, ears",
+    "smell, nose",
+    "taste, tongue",
+    "feeling, skin"
+   ]
+  },
+  {
+   "stem": "Mention four dangers of the home we must keep away from. ",
+   "points": [
+    "fire",
+    "hot water",
+    "sharp objects",
+    "medicines"
+   ]
+  },
+  {
+   "stem": "Name three songs, rhymes or tales we learnt this term. ",
+   "points": [
+    "a lullaby",
+    "a folk song",
+    "the tortoise and the wisdom of the world"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Who are community helpers? Write on four of them and why we thank them.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe the Nigerian flag, our money and where our country is.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on the weather: the two seasons of Nigeria and the clothes for each.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name plants around you: four parts of a plant and what each part does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Tell a story or a rhyme you learnt this term and say what it teaches.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

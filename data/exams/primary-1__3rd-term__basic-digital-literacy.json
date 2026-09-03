@@ -1,0 +1,390 @@
+{
+ "subject": "Basic Digital Literacy",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "We save our work so we do not ___ it",
+   "answer": "lose",
+   "distractors": [
+    "find",
+    "read",
+    "draw"
+   ]
+  },
+  {
+   "stem": "Saved work is kept in a ___",
+   "answer": "file",
+   "distractors": [
+    "song",
+    "stone",
+    "shoe"
+   ]
+  },
+  {
+   "stem": "Files are kept in a ___",
+   "answer": "folder",
+   "distractors": [
+    "river",
+    "road",
+    "roof"
+   ]
+  },
+  {
+   "stem": "We give a file a ___ so we can find it",
+   "answer": "name",
+   "distractors": [
+    "colour",
+    "smell",
+    "sound"
+   ]
+  },
+  {
+   "stem": "The internet joins ___ all over the world",
+   "answer": "computers",
+   "distractors": [
+    "stones",
+    "trees",
+    "cars"
+   ]
+  },
+  {
+   "stem": "We use the internet to find ___",
+   "answer": "information",
+   "distractors": [
+    "dust",
+    "noise",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "We use the internet with a ___ near",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "pet",
+    "baby"
+   ]
+  },
+  {
+   "stem": "We do not talk to ___ online",
+   "answer": "strangers",
+   "distractors": [
+    "teachers",
+    "parents",
+    "friends"
+   ]
+  },
+  {
+   "stem": "A message is information we ___ to someone",
+   "answer": "send",
+   "distractors": [
+    "hide",
+    "lose",
+    "break"
+   ]
+  },
+  {
+   "stem": "We can send a message by phone or ___",
+   "answer": "email",
+   "distractors": [
+    "stone",
+    "smoke",
+    "water"
+   ]
+  },
+  {
+   "stem": "An email is a message sent on the ___",
+   "answer": "internet",
+   "distractors": [
+    "road",
+    "river",
+    "roof"
+   ]
+  },
+  {
+   "stem": "We write a message ___",
+   "answer": "clearly",
+   "distractors": [
+    "in secret",
+    "badly",
+    "slowly"
+   ]
+  },
+  {
+   "stem": "The programs a computer runs are ___",
+   "answer": "software",
+   "distractors": [
+    "hardware",
+    "wires",
+    "keys"
+   ]
+  },
+  {
+   "stem": "A ___ teaches us new things",
+   "answer": "learning program",
+   "distractors": [
+    "broken wire",
+    "empty box",
+    "dark screen"
+   ]
+  },
+  {
+   "stem": "We can learn numbers and letters with ___",
+   "answer": "software",
+   "distractors": [
+    "stones",
+    "water",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "The ___ uses computers to keep money safe",
+   "answer": "bank",
+   "distractors": [
+    "farm",
+    "bush",
+    "river"
+   ]
+  },
+  {
+   "stem": "The ___ uses computers to keep records",
+   "answer": "hospital",
+   "distractors": [
+    "market",
+    "park",
+    "field"
+   ]
+  },
+  {
+   "stem": "Computers help us to work ___",
+   "answer": "fast",
+   "distractors": [
+    "slowly",
+    "badly",
+    "never"
+   ]
+  },
+  {
+   "stem": "A ___ writes computer programs",
+   "answer": "programmer",
+   "distractors": [
+    "farmer",
+    "driver",
+    "tailor"
+   ]
+  },
+  {
+   "stem": "An ___ repairs computers",
+   "answer": "engineer",
+   "distractors": [
+    "trader",
+    "nurse",
+    "cook"
+   ]
+  },
+  {
+   "stem": "A person who types is a ___",
+   "answer": "typist",
+   "distractors": [
+    "singer",
+    "dancer",
+    "hunter"
+   ]
+  },
+  {
+   "stem": "We use the internet with a ___ near",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "pet",
+    "baby"
+   ]
+  },
+  {
+   "stem": "We do not give our name, age or ___",
+   "answer": "address",
+   "distractors": [
+    "colour",
+    "song",
+    "game"
+   ]
+  },
+  {
+   "stem": "We tell a ___ if something looks wrong online",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "thief",
+    "nobody"
+   ]
+  },
+  {
+   "stem": "We keep our devices clean and ___",
+   "answer": "dry",
+   "distractors": [
+    "wet",
+    "dirty",
+    "oily"
+   ]
+  },
+  {
+   "stem": "We do not ___ or drink near a device",
+   "answer": "eat",
+   "distractors": [
+    "sing",
+    "read",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "We press keys and buttons ___",
+   "answer": "gently",
+   "distractors": [
+    "hard",
+    "fast",
+    "rough"
+   ]
+  },
+  {
+   "stem": "We put a device ___ when we finish",
+   "answer": "away",
+   "distractors": [
+    "in water",
+    "on fire",
+    "outside"
+   ]
+  },
+  {
+   "stem": "A machine like a computer or phone is a ___",
+   "answer": "device",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "A well-kept device lasts ___",
+   "answer": "long",
+   "distractors": [
+    "never",
+    "one day",
+    "no time"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two reasons we save our work ",
+   "points": [
+    "not to lose it",
+    "to use it again",
+    "to keep it safe"
+   ]
+  },
+  {
+   "stem": "Name two things we use the internet for ",
+   "points": [
+    "finding information",
+    "learning",
+    "reading",
+    "watching lessons"
+   ]
+  },
+  {
+   "stem": "Name two ways we send messages ",
+   "points": [
+    "phone",
+    "email"
+   ]
+  },
+  {
+   "stem": "Name two things we learn with software ",
+   "points": [
+    "numbers",
+    "letters",
+    "reading",
+    "games"
+   ]
+  },
+  {
+   "stem": "Name two places we see computers ",
+   "points": [
+    "bank",
+    "hospital",
+    "school",
+    "office"
+   ]
+  },
+  {
+   "stem": "Name two computer jobs ",
+   "points": [
+    "programmer",
+    "engineer",
+    "typist",
+    "computer teacher"
+   ]
+  },
+  {
+   "stem": "Name two ways to be safe online ",
+   "points": [
+    "grown-up near",
+    "not talking to strangers",
+    "not sharing our name"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for a device ",
+   "points": [
+    "keep it clean and dry",
+    "press gently",
+    "do not drop it"
+   ]
+  },
+  {
+   "stem": "Name two things we must not share online ",
+   "points": [
+    "name",
+    "age",
+    "address",
+    "family information"
+   ]
+  },
+  {
+   "stem": "Name two good things the internet has ",
+   "points": [
+    "learning",
+    "information",
+    "lessons"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Why do we save our work?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the internet? Name one use.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is an email?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two computer jobs and what each does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say two ways to be safe online.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

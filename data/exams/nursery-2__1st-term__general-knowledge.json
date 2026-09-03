@@ -1,0 +1,392 @@
+{
+ "subject": "General Knowledge",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "When somebody asks who you are, the first thing you say is your ___",
+   "answer": "name",
+   "distractors": [
+    "shoe size",
+    "class only",
+    "father's work"
+   ]
+  },
+  {
+   "stem": "We see the pictures on the board with our ___",
+   "answer": "eyes",
+   "distractors": [
+    "ears",
+    "toenails",
+    "elbows"
+   ]
+  },
+  {
+   "stem": "We hear the bell of the school with our ___",
+   "answer": "ears",
+   "distractors": [
+    "hair",
+    "nose",
+    "fingers"
+   ]
+  },
+  {
+   "stem": "If you are four years old you say: I am ___",
+   "answer": "four years old",
+   "distractors": [
+    "ten years old",
+    "one year old",
+    "forty years old"
+   ]
+  },
+  {
+   "stem": "Your father's father is your ___",
+   "answer": "grandpa",
+   "distractors": [
+    "cousin",
+    "nephew",
+    "brother"
+   ]
+  },
+  {
+   "stem": "When a teacher gives you a book you say ___",
+   "answer": "thank you",
+   "distractors": [
+    "go away",
+    "sorry only",
+    "excuse me"
+   ]
+  },
+  {
+   "stem": "In my family, the work of the house is done by ___",
+   "answer": "everybody helping one another",
+   "distractors": [
+    "the father alone in the house",
+    "only the smallest child in the house",
+    "a visitor who comes from the town"
+   ]
+  },
+  {
+   "stem": "Where can we borrow and read story books in school?",
+   "answer": "the library",
+   "distractors": [
+    "the playground",
+    "the toilet",
+    "the kitchen"
+   ]
+  },
+  {
+   "stem": "The head of the school is the ___",
+   "answer": "head teacher",
+   "distractors": [
+    "school nurse",
+    "pupil in Jss 1",
+    "caretaker"
+   ]
+  },
+  {
+   "stem": "Which one of these should NOT be inside your school bag?",
+   "answer": "a cooking pot",
+   "distractors": [
+    "a pencil",
+    "a book",
+    "a crayon"
+   ]
+  },
+  {
+   "stem": "Before you answer in class you should ___",
+   "answer": "raise your hand",
+   "distractors": [
+    "stand on the chair",
+    "run to the board",
+    "shout the answer"
+   ]
+  },
+  {
+   "stem": "Waste paper in the classroom goes into the ___",
+   "answer": "dustbin",
+   "distractors": [
+    "bag of a friend",
+    "cupboard shelf",
+    "school bag"
+   ]
+  },
+  {
+   "stem": "The room in which food is cooked at home is the ___",
+   "answer": "kitchen",
+   "distractors": [
+    "sitting room",
+    "bedroom",
+    "veranda"
+   ]
+  },
+  {
+   "stem": "The room where you sleep at night is the ___",
+   "answer": "bedroom",
+   "distractors": [
+    "toilet",
+    "kitchen",
+    "store"
+   ]
+  },
+  {
+   "stem": "A shop at the end of a long street is ____ from your house",
+   "answer": "far",
+   "distractors": [
+    "short",
+    "tall",
+    "near"
+   ]
+  },
+  {
+   "stem": "Which three colours are the primary colours?",
+   "answer": "red, blue and yellow",
+   "distractors": [
+    "green, purple and pink",
+    "black, brown and grey",
+    "gold, silver and bronze"
+   ]
+  },
+  {
+   "stem": "The shape of a plate or a ball is a ___",
+   "answer": "circle",
+   "distractors": [
+    "triangle",
+    "square",
+    "star"
+   ]
+  },
+  {
+   "stem": "The shape of a roof is a ___",
+   "answer": "triangle",
+   "distractors": [
+    "square",
+    "circle",
+    "line"
+   ]
+  },
+  {
+   "stem": "The colours of the Nigerian flag are ___",
+   "answer": "green and white",
+   "distractors": [
+    "blue and white",
+    "red and yellow",
+    "black and red"
+   ]
+  },
+  {
+   "stem": "Which one of these animals gives us milk?",
+   "answer": "cow",
+   "distractors": [
+    "goat",
+    "cat",
+    "dog"
+   ]
+  },
+  {
+   "stem": "The sound a goat makes is ___",
+   "answer": "meh",
+   "distractors": [
+    "moo",
+    "woof",
+    "quack"
+   ]
+  },
+  {
+   "stem": "Which of these animals lives in the bush?",
+   "answer": "lion",
+   "distractors": [
+    "goat",
+    "dog",
+    "hen"
+   ]
+  },
+  {
+   "stem": "A bird has feathers, a beak and ___",
+   "answer": "two legs",
+   "distractors": [
+    "four legs",
+    "scales only",
+    "a long tail like a fish"
+   ]
+  },
+  {
+   "stem": "Fish live in ___",
+   "answer": "water",
+   "distractors": [
+    "the kitchen",
+    "the sky",
+    "the bush"
+   ]
+  },
+  {
+   "stem": "At seven o'clock in the morning we greet with ___",
+   "answer": "good morning",
+   "distractors": [
+    "goodbye friend",
+    "good night",
+    "see you later"
+   ]
+  },
+  {
+   "stem": "When you must pass in front of an elder you say ___",
+   "answer": "excuse me",
+   "distractors": [
+    "go away",
+    "move out",
+    "sorry sir"
+   ]
+  },
+  {
+   "stem": "How many times a day should we brush our teeth?",
+   "answer": "twice — morning and night",
+   "distractors": [
+    "four times in a night",
+    "never at all",
+    "once a week"
+   ]
+  },
+  {
+   "stem": "In our culture, the person we greet first is ___",
+   "answer": "an elder",
+   "distractors": [
+    "our own friend of the same age",
+    "a small baby",
+    "a dog"
+   ]
+  },
+  {
+   "stem": "People say that the first school of a child is ___",
+   "answer": "the home",
+   "distractors": [
+    "the church",
+    "the market",
+    "the barber shop"
+   ]
+  },
+  {
+   "stem": "We wash our hands ___",
+   "answer": "before eating and after the toilet",
+   "distractors": [
+    "only once in the whole week",
+    "only before sleeping at night",
+    "only after we bathe in the morning"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name seven parts of the body you can point to. ",
+   "points": [
+    "head",
+    "eyes",
+    "ears",
+    "nose",
+    "mouth",
+    "hands",
+    "legs"
+   ]
+  },
+  {
+   "stem": "Mention four people in your family and two people of the extended family. ",
+   "points": [
+    "father, mother, brothers, sisters",
+    "grandpa/grandma, uncles/aunts/cousins"
+   ]
+  },
+  {
+   "stem": "Name five places in your school. ",
+   "points": [
+    "classroom",
+    "playground",
+    "library",
+    "toilet",
+    "office"
+   ]
+  },
+  {
+   "stem": "Mention four people who work in your school. ",
+   "points": [
+    "head teacher",
+    "teachers",
+    "caretaker",
+    "school nurse"
+   ]
+  },
+  {
+   "stem": "State four rules of the classroom. ",
+   "points": [
+    "raise your hand",
+    "listen",
+    "share",
+    "keep quiet"
+   ]
+  },
+  {
+   "stem": "Name the four rooms of a house and what each is for. ",
+   "points": [
+    "sitting room — visitors",
+    "kitchen — cooking",
+    "bedroom — sleeping",
+    "bathroom — bathing"
+   ]
+  },
+  {
+   "stem": "Give the colours of the Nigerian flag and the meaning of white. ",
+   "points": [
+    "green and white",
+    "white stands for peace"
+   ]
+  },
+  {
+   "stem": "Mention five domestic animals and the sound of one. ",
+   "points": [
+    "dog, cat, goat, chicken, cow",
+    "any correct sound"
+   ]
+  },
+  {
+   "stem": "Write the four magic words of good manners. ",
+   "points": [
+    "please",
+    "thank you",
+    "sorry",
+    "excuse me"
+   ]
+  },
+  {
+   "stem": "When do we wash our hands, and how do we keep our uniform neat? ",
+   "points": [
+    "before eating and after the toilet",
+    "clean, pressed, not torn"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Say your name, your age and your class in two sentences.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who lives with you at home? Say one thing each person does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name four places in your school and what each is used for.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write four rules you keep in the classroom.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Mention two wild animals and two animals that live at home; say how we treat animals.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

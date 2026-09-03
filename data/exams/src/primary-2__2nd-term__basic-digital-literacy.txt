@@ -1,0 +1,55 @@
+# Basic Digital Literacy — Primary 2 · Second Term · term paper
+subject: Basic Digital Literacy
+class: Primary 2
+term: 2nd Term
+
+[objective]
+What we see on the screen is the ___ || interface || keyboard || mouse || wire
+A small picture we click is an ___ || icon || wire || key || plug
+We can make the pictures bigger or ___ || smaller || heavier || louder || hotter
+Changing the screen is called ___ || customizing || breaking || washing || burning
+Where we keep our work on a computer is a ___ || file || stone || tree || cloud
+Each file has a ___ || name || stone || tree || cloud
+We ___ a file to see what is inside || open || burn || break || hide
+We ___ our work in a file || save || lose || burn || hide
+A box that holds files is a ___ || folder || stone || tree || cloud
+We keep files in folders to be ___ || tidy || messy || dirty || lost
+Keeping files in folders helps us ___ them || find || lose || burn || hide
+We ___ a file we do not need || delete || keep || wash || eat
+What we make on a computer is ___ content || digital || paper || stone || water
+We can draw pictures on the ___ || computer || sky || water || fire
+We use a ___ tool to draw || drawing || cooking || washing || burning
+We ___ what we make || save || lose || burn || hide
+We use the ___ to type || keyboard || mouse only || screen || wire
+We type letters and ___ || numbers || stones || trees || clouds
+A piece of writing on the computer is a ___ || document || stone || tree || cloud
+We can ___ our document on paper || print || burn || wash || hide
+We keep the computer away from ___ || water || air || light || sound
+We use a ___ to keep our work safe || password || stone || tree || cloud
+A password is a ___ word || secret || loud || public || long
+We do not talk to ___ online || strangers || teachers || parents || friends
+The network that joins computers worldwide is the ___ || internet || river || road || sky
+We use the internet with a ___ near || grown-up || stranger || thief || baby
+We do not share our name or ___ online || address || song || dream || stone
+We are ___ to others online || kind || rude || angry || cruel
+We keep our information ___ || private || public || loud || lost
+We do not ___ anyone online || bully || help || teach || sing to
+
+[subobjective]
+Name two things we see on the screen :: icons | menus | buttons | pictures
+Name two things we keep in files :: pictures | writing | songs
+Name two things we do with files :: open | close | save | delete
+Name two things we can make on a computer :: pictures | writing | music | documents
+Name two ways to keep the computer safe :: keep it away from water | do not eat near it | handle with care
+Name two rules for safe internet use :: use it with a grown-up | do not talk to strangers | do not share your name
+Name two ways to be safe online :: keep information private | use strong passwords | ask a grown-up
+Name two things we use to type :: keyboard | letters | numbers
+Name two things a folder holds :: files | other folders
+Name two things we do to be kind online :: do not bully | say nice things
+
+[theory]
+What is an interface? Name two things we see on the screen. || 2
+What is a file? Why do we name it? || 2
+What is a folder? Why do we use folders? || 2
+What is digital content? Name two things we can make. || 2
+Name two rules for safe internet use. || 2

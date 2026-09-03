@@ -1,0 +1,388 @@
+{
+ "subject": "Yoruba",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "\"Mọ́kànlá\" means ___",
+   "answer": "eleven",
+   "distractors": [
+    "twelve",
+    "ten",
+    "twenty"
+   ]
+  },
+  {
+   "stem": "\"Èjìlá\" means ___",
+   "answer": "twelve",
+   "distractors": [
+    "eleven",
+    "thirteen",
+    "two"
+   ]
+  },
+  {
+   "stem": "\"Ogún\" means ___",
+   "answer": "twenty",
+   "distractors": [
+    "ten",
+    "twelve",
+    "two"
+   ]
+  },
+  {
+   "stem": "\"Ẹ̀tàlá\" means ___",
+   "answer": "thirteen",
+   "distractors": [
+    "fourteen",
+    "twelve",
+    "three"
+   ]
+  },
+  {
+   "stem": "\"Aṣọ\" means ___",
+   "answer": "clothes",
+   "distractors": [
+    "food",
+    "house",
+    "water"
+   ]
+  },
+  {
+   "stem": "\"Bàtà\" means ___",
+   "answer": "shoes",
+   "distractors": [
+    "cap",
+    "trousers",
+    "gown"
+   ]
+  },
+  {
+   "stem": "\"Fìlà\" means ___",
+   "answer": "cap",
+   "distractors": [
+    "shoes",
+    "wrapper",
+    "top"
+   ]
+  },
+  {
+   "stem": "\"Ṣòkòtò\" means ___",
+   "answer": "trousers",
+   "distractors": [
+    "cap",
+    "shoes",
+    "dress"
+   ]
+  },
+  {
+   "stem": "\"Ilé-ẹ̀kọ́\" means ___",
+   "answer": "school",
+   "distractors": [
+    "house",
+    "market",
+    "farm"
+   ]
+  },
+  {
+   "stem": "\"Olùkọ́\" means ___",
+   "answer": "teacher",
+   "distractors": [
+    "pupil",
+    "book",
+    "desk"
+   ]
+  },
+  {
+   "stem": "\"Ìwé\" means ___",
+   "answer": "book",
+   "distractors": [
+    "pencil",
+    "chair",
+    "door"
+   ]
+  },
+  {
+   "stem": "\"Akẹ́kọ̀ọ́\" means ___",
+   "answer": "pupil",
+   "distractors": [
+    "teacher",
+    "school",
+    "bag"
+   ]
+  },
+  {
+   "stem": "\"Ọjà\" means ___",
+   "answer": "market",
+   "distractors": [
+    "school",
+    "house",
+    "farm"
+   ]
+  },
+  {
+   "stem": "\"Owó\" means ___",
+   "answer": "money",
+   "distractors": [
+    "food",
+    "water",
+    "cloth"
+   ]
+  },
+  {
+   "stem": "\"Ilú\" means ___",
+   "answer": "town",
+   "distractors": [
+    "house",
+    "farm",
+    "river"
+   ]
+  },
+  {
+   "stem": "\"Ọ̀nà\" means ___",
+   "answer": "road",
+   "distractors": [
+    "roof",
+    "door",
+    "tree"
+   ]
+  },
+  {
+   "stem": "\"Ilé ìwòsàn\" means ___",
+   "answer": "hospital",
+   "distractors": [
+    "school",
+    "market",
+    "church"
+   ]
+  },
+  {
+   "stem": "\"Iṣẹ́\" means ___",
+   "answer": "work",
+   "distractors": [
+    "food",
+    "house",
+    "water"
+   ]
+  },
+  {
+   "stem": "\"Sáré\" means to ___",
+   "answer": "run",
+   "distractors": [
+    "sleep",
+    "eat",
+    "read"
+   ]
+  },
+  {
+   "stem": "\"Jẹun\" means to ___",
+   "answer": "eat",
+   "distractors": [
+    "drink",
+    "jump",
+    "walk"
+   ]
+  },
+  {
+   "stem": "\"Kà\" means to ___",
+   "answer": "read",
+   "distractors": [
+    "write",
+    "sleep",
+    "run"
+   ]
+  },
+  {
+   "stem": "\"Ojú ọjọ́\" means ___",
+   "answer": "weather",
+   "distractors": [
+    "food",
+    "house",
+    "road"
+   ]
+  },
+  {
+   "stem": "\"Òjò\" means ___",
+   "answer": "rain",
+   "distractors": [
+    "sun",
+    "wind",
+    "stone"
+   ]
+  },
+  {
+   "stem": "\"Oòrùn\" means ___",
+   "answer": "sun",
+   "distractors": [
+    "rain",
+    "wind",
+    "moon"
+   ]
+  },
+  {
+   "stem": "\"Èso\" means ___",
+   "answer": "fruit",
+   "distractors": [
+    "food",
+    "water",
+    "meat"
+   ]
+  },
+  {
+   "stem": "\"Ọ̀gẹ̀dẹ̀\" means ___",
+   "answer": "banana",
+   "distractors": [
+    "orange",
+    "mango",
+    "guava"
+   ]
+  },
+  {
+   "stem": "\"Ọ̀sàn\" means ___",
+   "answer": "orange",
+   "distractors": [
+    "banana",
+    "mango",
+    "pineapple"
+   ]
+  },
+  {
+   "stem": "\"Awo\" means ___",
+   "answer": "plate",
+   "distractors": [
+    "cup",
+    "pot",
+    "knife"
+   ]
+  },
+  {
+   "stem": "\"Ife\" means ___",
+   "answer": "cup",
+   "distractors": [
+    "plate",
+    "pot",
+    "spoon"
+   ]
+  },
+  {
+   "stem": "\"Ohun èlò ilé\" means things we use in the ___",
+   "answer": "home",
+   "distractors": [
+    "road",
+    "farm",
+    "bush"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two numbers between 11 and 20 in Yoruba ",
+   "points": [
+    "mọ́kànlá",
+    "èjìlá",
+    "ogún"
+   ]
+  },
+  {
+   "stem": "Name two clothes in Yoruba ",
+   "points": [
+    "aṣọ",
+    "bàtà",
+    "fìlà",
+    "ṣòkòtò"
+   ]
+  },
+  {
+   "stem": "Name two things at school in Yoruba ",
+   "points": [
+    "ilé-ẹ̀kọ́",
+    "olùkọ́",
+    "ìwé"
+   ]
+  },
+  {
+   "stem": "Name two things we buy at the market ",
+   "points": [
+    "food",
+    "clothes",
+    "vegetables",
+    "meat"
+   ]
+  },
+  {
+   "stem": "Name two places in the town in Yoruba ",
+   "points": [
+    "ọ̀nà",
+    "ilé ìwòsàn",
+    "ọjà"
+   ]
+  },
+  {
+   "stem": "Name two actions in Yoruba ",
+   "points": [
+    "sáré",
+    "jẹun",
+    "kà",
+    "sun"
+   ]
+  },
+  {
+   "stem": "Name two weather words in Yoruba ",
+   "points": [
+    "òjò",
+    "oòrùn",
+    "afẹ́fẹ́"
+   ]
+  },
+  {
+   "stem": "Name two fruits in Yoruba ",
+   "points": [
+    "ọ̀gẹ̀dẹ̀",
+    "ọ̀sàn",
+    "mángò"
+   ]
+  },
+  {
+   "stem": "Name two things in the home in Yoruba ",
+   "points": [
+    "awo",
+    "ife",
+    "ìkòkò"
+   ]
+  },
+  {
+   "stem": "Name two seasons in Yoruba ",
+   "points": [
+    "ìgbà ọ̀gbẹ̀lẹ̀",
+    "ìgbà òjò"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Count from 11 to 15 in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two clothes in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the Yoruba word for teacher and for book?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two fruits in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two actions in Yoruba.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

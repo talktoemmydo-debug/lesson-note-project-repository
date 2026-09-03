@@ -1,0 +1,389 @@
+{
+ "subject": "Nigerian History",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "History is the story of ___",
+   "answer": "what happened in the past",
+   "distractors": [
+    "what will happen tomorrow",
+    "how to count money",
+    "what we eat today"
+   ]
+  },
+  {
+   "stem": "Which of these is a thing of the past?",
+   "answer": "what you did yesterday",
+   "distractors": [
+    "the lunch in the pot",
+    "what you are doing now",
+    "what you will do at noon"
+   ]
+  },
+  {
+   "stem": "The best people to tell you about the past are ___",
+   "answer": "grandparents and old people of the town",
+   "distractors": [
+    "the new clock on the staff room wall",
+    "the puppies playing in our street",
+    "the toys under my bed at home"
+   ]
+  },
+  {
+   "stem": "A photograph of your baby days helps you know about ___",
+   "answer": "your past",
+   "distractors": [
+    "the price of bread",
+    "next session",
+    "tomorrow's weather"
+   ]
+  },
+  {
+   "stem": "At the top of a family tree we write ___",
+   "answer": "the grandparents",
+   "distractors": [
+    "the class teacher",
+    "the babies",
+    "the cousins of a friend"
+   ]
+  },
+  {
+   "stem": "Knowing your family name tells people your ___",
+   "answer": "identity",
+   "distractors": [
+    "shoe size",
+    "bus number",
+    "weight"
+   ]
+  },
+  {
+   "stem": "The story of what happened before can help us to ___",
+   "answer": "make good decisions",
+   "distractors": [
+    "count to one hundred",
+    "run faster",
+    "sleep late always"
+   ]
+  },
+  {
+   "stem": "A community is made up of ___",
+   "answer": "the people and places around us",
+   "distractors": [
+    "nothing except the market stalls",
+    "only the big houses on our road",
+    "only the children of our class"
+   ]
+  },
+  {
+   "stem": "The person who sells us tomatoes and fish is the ___",
+   "answer": "trader",
+   "distractors": [
+    "the pilot in the aeroplane",
+    "the pupil in Nursery 1",
+    "the nurse at the clinic"
+   ]
+  },
+  {
+   "stem": "The man who keeps our street safe is the ___",
+   "answer": "policeman",
+   "distractors": [
+    "the driver of the bus",
+    "the tailor with a sewing machine",
+    "the baker with hot bread"
+   ]
+  },
+  {
+   "stem": "A sick person in the community is taken to the ___",
+   "answer": "nurse or hospital",
+   "distractors": [
+    "the barber at the shop",
+    "the musician with a drum",
+    "the driver of the keke"
+   ]
+  },
+  {
+   "stem": "The three major ethnic groups of Nigeria are ___",
+   "answer": "Hausa, Igbo and Yoruba",
+   "distractors": [
+    "Tuesday, Friday and Sunday",
+    "Lagos, Kano and Ibadan",
+    "Red, Blue and Green"
+   ]
+  },
+  {
+   "stem": "The greeting 'Sannu' belongs to the ___",
+   "answer": "Hausa people",
+   "distractors": [
+    "Yoruba people",
+    "Igbo people",
+    "Tiv people"
+   ]
+  },
+  {
+   "stem": "Amala and ewédú are food of the ___",
+   "answer": "Yoruba",
+   "distractors": [
+    "Ijaw only",
+    "Hausa only",
+    "Kanuri only"
+   ]
+  },
+  {
+   "stem": "'Ndewo' is the greeting of the ___",
+   "answer": "Igbo people",
+   "distractors": [
+    "Nupe people",
+    "Fulani people",
+    "Hausa people"
+   ]
+  },
+  {
+   "stem": "Besides the big three, another people in Nigeria are the ___",
+   "answer": "Tiv",
+   "distractors": [
+    "Toyota",
+    "Ankara",
+    "Naira"
+   ]
+  },
+  {
+   "stem": "We buy food and things for the house at the ___",
+   "answer": "market",
+   "distractors": [
+    "classroom",
+    "playground",
+    "mosque"
+   ]
+  },
+  {
+   "stem": "A house that has caught fire needs the ___",
+   "answer": "fire station",
+   "distractors": [
+    "the tailor near the school gate",
+    "the library of the school",
+    "the barber shop at the junction"
+   ]
+  },
+  {
+   "stem": "A thief in the street should be reported to the ___",
+   "answer": "police station",
+   "distractors": [
+    "the church choir on Sunday",
+    "the market woman with her basket",
+    "the school gate keeper"
+   ]
+  },
+  {
+   "stem": "People gather to pray in the ___",
+   "answer": "church or the mosque",
+   "distractors": [
+    "the market stall of the trader",
+    "the playground in the evening",
+    "the bus park in the morning"
+   ]
+  },
+  {
+   "stem": "In the playground, when only one ball is available, we should ___",
+   "answer": "take turns",
+   "distractors": [
+    "hide it",
+    "fight for it",
+    "take it home"
+   ]
+  },
+  {
+   "stem": "The home of a traditional ruler is called the ___",
+   "answer": "palace",
+   "distractors": [
+    "clinic",
+    "bakery",
+    "garage"
+   ]
+  },
+  {
+   "stem": "The meeting of the whole town is held in the ___",
+   "answer": "community hall",
+   "distractors": [
+    "the water side at the stream",
+    "the animal shed behind the fence",
+    "the kitchen of my house"
+   ]
+  },
+  {
+   "stem": "In the north of Nigeria the traditional ruler is the ___",
+   "answer": "Emir",
+   "distractors": [
+    "Oba",
+    "Igwe",
+    "Deji"
+   ]
+  },
+  {
+   "stem": "An old monument in our town tells us about ___",
+   "answer": "the history of the place",
+   "distractors": [
+    "the next election",
+    "the price of new school shoes",
+    "the new cinema"
+   ]
+  },
+  {
+   "stem": "Tolerance means we ___",
+   "answer": "respect people who are different from us",
+   "distractors": [
+    "refuse to sit with anybody at lunch",
+    "laugh at the names of other people",
+    "fight over food in the market square"
+   ]
+  },
+  {
+   "stem": "What we want for ourselves, we should also ___",
+   "answer": "want for other people",
+   "distractors": [
+    "hide from our friends",
+    "laugh at",
+    "take by force"
+   ]
+  },
+  {
+   "stem": "A bundle of sticks is hard to break because we are ___",
+   "answer": "stronger together",
+   "distractors": [
+    "weak alone",
+    "too many children",
+    "not allowed to try"
+   ]
+  },
+  {
+   "stem": "How many groups of people are there in Nigeria?",
+   "answer": "more than two hundred and fifty",
+   "distractors": [
+    "exactly one group",
+    "about ten groups",
+    "only three groups in the whole country"
+   ]
+  },
+  {
+   "stem": "The green colour on the Nigerian flag stands for ___",
+   "answer": "the land of Nigeria",
+   "distractors": [
+    "the river Niger in our country",
+    "our school uniform on Monday",
+    "the sky above us at noon"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Mention three things or people that tell us about the past. ",
+   "points": [
+    "grandparents and old people",
+    "photographs",
+    "old objects, books and monuments"
+   ]
+  },
+  {
+   "stem": "Write the order of a family tree from the top. ",
+   "points": [
+    "grandparents",
+    "parents",
+    "children"
+   ]
+  },
+  {
+   "stem": "Name four people who help us in the community. ",
+   "points": [
+    "nurse",
+    "policeman",
+    "trader",
+    "teacher",
+    "driver",
+    "caretaker"
+   ]
+  },
+  {
+   "stem": "Mention the three major ethnic groups and one thing each is known for. ",
+   "points": [
+    "Hausa — Sannu, tuwo, babban riga",
+    "Igbo — Ndewo, fufu and soup",
+    "Yoruba — Ẹ̀káàrọ̀, amala, àdìrè"
+   ]
+  },
+  {
+   "stem": "Match the place to its use: market, hospital, school, police station. ",
+   "points": [
+    "market — buying",
+    "hospital — treating the sick",
+    "school — learning",
+    "police station — reporting crime"
+   ]
+  },
+  {
+   "stem": "Name three traditional places of a town. ",
+   "points": [
+    "the palace",
+    "the community hall",
+    "monuments or old buildings"
+   ]
+  },
+  {
+   "stem": "State four rules of living together in peace. ",
+   "points": [
+    "do not mock a name",
+    "do not say your god is wrong",
+    "sit with everybody",
+    "learn to greet in another language"
+   ]
+  },
+  {
+   "stem": "Mention three festivals in Nigeria and where they are held. ",
+   "points": [
+    "Durbar — the north",
+    "Eyo — Lagos",
+    "New Yam — the south-east"
+   ]
+  },
+  {
+   "stem": "Describe the Nigerian flag and what its colours mean. ",
+   "points": [
+    "two green strips and one white in the middle",
+    "green for the land, white for peace"
+   ]
+  },
+  {
+   "stem": "Say two ways Nigerians are different and two things that make us one. ",
+   "points": [
+    "language, food, dress, festivals",
+    "one country, one flag, English as a link language, anthem"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is history? Give two reasons why we learn it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Mention four people who help us in our community and what each does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the three major ethnic groups in Nigeria and one food or cloth of each.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What happens in the palace, and what happens in the community hall?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "'Different people, one Nigeria.' Explain this in two sentences.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

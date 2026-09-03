@@ -1,0 +1,55 @@
+# Basic Digital Literacy — Primary 2 · First Term · term paper
+subject: Basic Digital Literacy
+class: Primary 2
+term: 1st Term
+
+[objective]
+A machine that takes in information and gives results is a ___ || computer || radio || fan || stove
+The screen of a computer is the ___ || monitor || keyboard || mouse || speaker
+The main box of a computer is the ___ || system unit || monitor || mouse || printer
+A computer needs ___ to work || electricity || water || fire || wind
+The parts of a computer we can see and touch are ___ || hardware || software || data || wires
+Which of these is an input device? || keyboard || monitor || printer || speaker
+Which of these is an output device? || monitor || keyboard || mouse || scanner
+The ___ holds the main working parts || system unit || mouse || keyboard || screen
+The instructions that tell the computer what to do are ___ || software || hardware || wires || keys
+Can we touch software? || no || yes || maybe || sometimes
+Software that helps us do work is ___ software || application || system || hard || soft
+Without software, the hardware ___ || cannot do anything || works faster || sings || sleeps
+At school we use computers to learn and ___ || type || cook || wash || sleep
+In banks, computers keep ___ records || money || food || water || cloth
+We can draw, write and ___ with a computer || calculate || cook || bathe || run
+Computers make work fast and ___ || easy || hard || slow || dirty
+The room where we use computers at school is the ___ room || computer || class || staff || store
+We enter the computer room with ___ || permission || noise || food || water
+We do not ___ in the computer room || eat or drink || sit || look || learn
+We handle the computers with ___ || care || anger || force || noise
+The input device with keys is the ___ || keyboard || mouse || monitor || printer
+We use the keyboard to ___ into the computer || type || sing || cook || sleep
+The ___ makes a space between words || space bar || enter key || shift key || number key
+We press the keys ___ || gently || hard || roughly || fast
+The input device we use to point is the ___ || mouse || keyboard || monitor || printer
+We ___ by pressing a mouse button once || click || type || sing || run
+The mouse moves the ___ on the screen || pointer || key || wire || box
+We care for the computer so it ___ || lasts long || breaks || sleeps || sings
+We keep the computer clean and free of ___ || dust || water || food || fire
+We switch it off ___ when we finish || properly || quickly || roughly || never
+
+[subobjective]
+Name two parts of a computer :: monitor | keyboard | mouse | system unit
+Name two hardware parts :: monitor | keyboard | mouse | printer
+Name two input devices :: keyboard | mouse | scanner
+Name two output devices :: monitor | printer | speaker
+Name two types of software :: system software | application software
+Name two uses of computers :: learning | typing | drawing | calculating
+Name two rules of the computer room :: do not eat or drink | handle with care | keep it clean
+Name two keys on the keyboard :: letter keys | number keys | space bar | enter key
+Name two things we do with a mouse :: point | click | drag | double-click
+Name two ways to care for the computer :: keep it clean | do not eat near it | switch off properly
+
+[theory]
+What is a computer? Name one part. || 2
+What is hardware? Name two hardware parts. || 2
+What is software? Can we touch it? || 2
+Name two uses of computers. || 2
+Name two ways to care for the computer. || 2

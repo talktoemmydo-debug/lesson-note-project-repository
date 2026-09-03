@@ -1,0 +1,55 @@
+# Cultural and Creative Arts — Primary 2 · First Term · term paper
+subject: Cultural and Creative Arts
+class: Primary 2
+term: 1st Term
+
+[objective]
+Making pictures and beautiful things is ___ || art || work || sleep || noise
+We draw with a pencil or ___ || crayon || spoon || stone || water
+We paint with colour and a ___ || brush || knife || stick || leaf
+We draw lines, shapes and ___ || pictures || songs || smells || sounds
+The primary colours are red, blue and ___ || yellow || green || orange || purple
+Red + yellow = ___ || orange || green || purple || black
+Blue + yellow = ___ || green || orange || purple || white
+Red + blue = ___ || purple || green || orange || brown
+Something we make with our hands is a ___ || craft || song || dance || dream
+We model with ___ or plasticine || clay || stone || water || fire
+We can make pots and cups from ___ || clay || air || smoke || light
+We ___ , paste and shape materials || cut || eat || burn || hide
+Sound made with the voice or instruments is ___ || music || noise || sleep || food
+We make music with our voice by ___ || singing || sleeping || eating || running
+Which of these is a musical instrument? || drum || stone || chair || book
+Music makes us ___ || happy || sad || angry || sick
+Moving the body to music is ___ || dance || sleep || work || eating
+We dance with our hands, legs and ___ || body || stone || water || fire
+We dance at festivals, parties and ___ || school || hospital || market only || farm
+Dance makes us happy and ___ || strong || weak || sick || sad
+Acting out a story is ___ || drama || music || dance || sleep
+The part we play in a story is a ___ || role || song || stone || dream
+We use our voice and ___ to act || body || water || fire || food
+We can wear ___ for drama || costumes || stones || books || chairs
+Things our people make are ___ crafts || local || foreign || broken || lost
+We make baskets from leaves and ___ || straw || stone || water || fire
+We make pots from ___ || clay || air || smoke || light
+We make clothes from woven cloth called ___ || aso-oke || paper || plastic || glass
+The way of life of a people is ___ || culture || noise || sleep || rain
+Our culture includes language, food, dress and ___ || dance || anger || dust || fire
+
+[subobjective]
+Name two art tools :: pencil | crayon | brush | paint
+Name the three primary colours :: red | blue | yellow
+Name two crafts we can make :: pots | baskets | mats | beads
+Name two musical instruments :: drum | guitar | piano | flute
+Name two places we dance :: festivals | parties | school
+Name two things we use in drama :: voice | body | costumes
+Name two local crafts :: baskets | mats | pots | aso-oke
+Name two parts of our culture :: language | food | dress | dance
+Name two secondary colours :: orange | green | purple
+Name two materials we use for crafts :: clay | paper | leaves | straw
+
+[theory]
+What is art? Name two art tools. || 2
+Name the three primary colours. || 2
+What is a craft? Name one you can make. || 2
+What is music? Name two musical instruments. || 2
+What is culture? Name two parts of it. || 2

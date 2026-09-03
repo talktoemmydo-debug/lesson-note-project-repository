@@ -1,0 +1,393 @@
+{
+ "subject": "General Knowledge",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Moving people and goods from place to place is ___",
+   "answer": "transportation",
+   "distractors": [
+    "sleeping",
+    "eating",
+    "singing"
+   ]
+  },
+  {
+   "stem": "A train moves on the ___",
+   "answer": "rail",
+   "distractors": [
+    "road",
+    "water",
+    "air"
+   ]
+  },
+  {
+   "stem": "A boat and a ship move on ___",
+   "answer": "water",
+   "distractors": [
+    "road",
+    "rail",
+    "sky"
+   ]
+  },
+  {
+   "stem": "An ___ moves in the air",
+   "answer": "aeroplane",
+   "distractors": [
+    "bus",
+    "train",
+    "car"
+   ]
+  },
+  {
+   "stem": "Sharing information with others is ___",
+   "answer": "communication",
+   "distractors": [
+    "sleeping",
+    "hiding",
+    "fighting"
+   ]
+  },
+  {
+   "stem": "We communicate by talking and ___",
+   "answer": "writing",
+   "distractors": [
+    "sleeping",
+    "crying",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "The radio and television give us ___",
+   "answer": "news",
+   "distractors": [
+    "dust",
+    "smoke",
+    "stones"
+   ]
+  },
+  {
+   "stem": "We speak ___ when we communicate",
+   "answer": "clearly",
+   "distractors": [
+    "in secret",
+    "rudely",
+    "badly"
+   ]
+  },
+  {
+   "stem": "What we use to buy and sell is ___",
+   "answer": "money",
+   "distractors": [
+    "water",
+    "dust",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Nigerian money is the naira and ___",
+   "answer": "kobo",
+   "distractors": [
+    "cents",
+    "pounds",
+    "dollars"
+   ]
+  },
+  {
+   "stem": "Buying and selling is ___",
+   "answer": "trade",
+   "distractors": [
+    "sleep",
+    "play",
+    "fight"
+   ]
+  },
+  {
+   "stem": "A person who sells is a ___",
+   "answer": "seller",
+   "distractors": [
+    "buyer",
+    "singer",
+    "dancer"
+   ]
+  },
+  {
+   "stem": "Things from nature we use are ___ resources",
+   "answer": "natural",
+   "distractors": [
+    "man-made",
+    "broken",
+    "lost"
+   ]
+  },
+  {
+   "stem": "___ is a natural resource we drink",
+   "answer": "Water",
+   "distractors": [
+    "Stone",
+    "Plastic",
+    "Smoke"
+   ]
+  },
+  {
+   "stem": "We use natural resources with ___",
+   "answer": "care",
+   "distractors": [
+    "waste",
+    "anger",
+    "haste"
+   ]
+  },
+  {
+   "stem": "Tools and machines that help us work are ___",
+   "answer": "technology",
+   "distractors": [
+    "stones",
+    "songs",
+    "dust"
+   ]
+  },
+  {
+   "stem": "The phone and computer are ___",
+   "answer": "technology",
+   "distractors": [
+    "food",
+    "clothes",
+    "animals"
+   ]
+  },
+  {
+   "stem": "Technology makes our work ___",
+   "answer": "easy",
+   "distractors": [
+    "hard",
+    "slow",
+    "impossible"
+   ]
+  },
+  {
+   "stem": "What tells us what to do and not to do is a ___",
+   "answer": "rule",
+   "distractors": [
+    "song",
+    "game",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Rules keep us safe and ___",
+   "answer": "orderly",
+   "distractors": [
+    "noisy",
+    "dirty",
+    "lost"
+   ]
+  },
+  {
+   "stem": "Laws are rules for the whole ___",
+   "answer": "country",
+   "distractors": [
+    "class",
+    "house",
+    "street"
+   ]
+  },
+  {
+   "stem": "Doing what I ought to do is ___",
+   "answer": "responsibility",
+   "distractors": [
+    "laziness",
+    "anger",
+    "noise"
+   ]
+  },
+  {
+   "stem": "A responsible child does their ___",
+   "answer": "homework",
+   "distractors": [
+    "nothing",
+    "play",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "A responsible child tells the ___",
+   "answer": "truth",
+   "distractors": [
+    "lie",
+    "secret",
+    "story"
+   ]
+  },
+  {
+   "stem": "Nigeria is in ___ Africa",
+   "answer": "West",
+   "distractors": [
+    "East",
+    "North",
+    "South"
+   ]
+  },
+  {
+   "stem": "___ is to the north of Nigeria",
+   "answer": "Niger",
+   "distractors": [
+    "Ghana",
+    "Egypt",
+    "Kenya"
+   ]
+  },
+  {
+   "stem": "___ is to the east of Nigeria",
+   "answer": "Cameroon",
+   "distractors": [
+    "Ghana",
+    "Egypt",
+    "Togo"
+   ]
+  },
+  {
+   "stem": "To the south of Nigeria is the ___ Ocean",
+   "answer": "Atlantic",
+   "distractors": [
+    "Indian",
+    "Pacific",
+    "Red"
+   ]
+  },
+  {
+   "stem": "In a car we wear a seat ___",
+   "answer": "belt",
+   "distractors": [
+    "hat",
+    "shoe",
+    "bag"
+   ]
+  },
+  {
+   "stem": "We use technology with a ___ near",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "pet",
+    "baby"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two means of transport ",
+   "points": [
+    "car",
+    "bus",
+    "train",
+    "boat",
+    "aeroplane"
+   ]
+  },
+  {
+   "stem": "Name two ways we communicate ",
+   "points": [
+    "talking",
+    "writing",
+    "phone",
+    "email"
+   ]
+  },
+  {
+   "stem": "Name two things we buy with money ",
+   "points": [
+    "food",
+    "clothes",
+    "books"
+   ]
+  },
+  {
+   "stem": "Name two natural resources ",
+   "points": [
+    "water",
+    "sunlight",
+    "air",
+    "land",
+    "trees"
+   ]
+  },
+  {
+   "stem": "Name two technologies you see ",
+   "points": [
+    "phone",
+    "computer",
+    "television",
+    "car"
+   ]
+  },
+  {
+   "stem": "Name two rules at school ",
+   "points": [
+    "come on time",
+    "do homework",
+    "do not fight"
+   ]
+  },
+  {
+   "stem": "Name two duties of a responsible child ",
+   "points": [
+    "obey",
+    "do homework",
+    "help at home",
+    "tell the truth"
+   ]
+  },
+  {
+   "stem": "Name two countries near Nigeria ",
+   "points": [
+    "Niger",
+    "Chad",
+    "Cameroon",
+    "Benin"
+   ]
+  },
+  {
+   "stem": "Name two ways to travel safely ",
+   "points": [
+    "wear a seat belt",
+    "do not stand in a moving bus"
+   ]
+  },
+  {
+   "stem": "Name two things technology helps us do ",
+   "points": [
+    "learn",
+    "work",
+    "play"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is transportation? Name two means.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is communication? Name two ways.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is money? What is Nigerian money called?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two natural resources.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two countries near Nigeria.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

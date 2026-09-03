@@ -1,0 +1,55 @@
+# Yoruba — Primary 2 · Second Term · term paper
+subject: Yoruba
+class: Primary 2
+term: 2nd Term
+
+[objective]
+In the morning we say ___ || Ẹ káàárọ̀ || Ẹ káalẹ́ || Ẹ káàsán || Ẹ ṣeun
+In the evening we say ___ || Ẹ káalẹ́ || Ẹ káàárọ̀ || Ẹ káàsán || Ẹ jọ̀wọ́
+We say ___ when we ask || Ẹ jọ̀wọ́ || Ẹ ṣeun || Ẹ káàárọ̀ || Ẹ káalẹ́
+Greetings show ___ || respect || anger || noise || sleep
+Orange in Yoruba is ___ || ọ̀sàn || èdè || páálí || mángò
+Banana in Yoruba is ___ || èdè || ọ̀sàn || páálí || mángò
+Fruit in Yoruba is ___ || èso || ọ̀rọ̀ || omi || iṣu
+We eat fruits to be ___ || healthy || weak || sick || sad
+Song in Yoruba is ___ || orin || òwe || ìtàn || eré
+We sing with a good ___ || voice || noise || shout || cry
+Songs make us ___ || happy || sad || angry || sick
+Songs teach us our ___ || language || anger || noise || sleep
+170 in Yoruba is ___ || àádọ́rin || ogún || ẹ̀wá || ọgọ́rùn-ún
+How we talk with others is ___ || communication || sleep || eating || running
+We communicate by talking and ___ || writing || sleeping || eating || crying
+We communicate by ___ || phone || stone || tree || cloud
+"Èmi" in Yoruba means ___ || I or me || you || he || they
+"Ìwọ" in Yoruba means ___ || you || I || we || they
+"Àwa" in Yoruba means ___ || we or us || I || you || they
+Yoruba heritage work is iṣẹ́ ___ || ajogúnbá || ọjà || ilé || omi
+A short saying with wisdom is a ___ || òwe || orin || ìtàn || eré
+The market in Yoruba is ___ || ọjà || ilé || omi || ọ̀run
+Money in Yoruba is ___ || owó || omi || iṣu || ẹja
+We ___ for a good price || ná || sùn || jẹ || gbà
+200 in Yoruba is ___ || igba || ogún || ẹ̀wá || ọgọ́rùn-ún
+Chair in Yoruba is ___ || àga || tábìlì || ìkòkò || èrè
+Pot in Yoruba is ___ || ìkòkò || àga || ìfé || èní
+We keep our household items ___ || clean || dirty || broken || lost
+This week we ___ our Yoruba work || revise || forget || lose || hide
+This week we ___ for the paper || prepare || forget || lose || hide
+
+[subobjective]
+Name three Yoruba greetings :: Ẹ káàárọ̀ | Ẹ káàsán | Ẹ káalẹ́
+Name three fruits in Yoruba :: ọ̀sàn | èdè | páálí | mángò
+Name two ways we communicate :: talking | writing | phone | signs
+Name three Yoruba pronouns :: èmi | ìwọ | òun | àwa | ẹ̀yin | wọ́n
+Name two things we buy at the market :: food | cloth | money
+Name three household items in Yoruba :: àga | tábìlì | ìkòkò | ìfé
+Name two things we revise :: greetings | counting | pronouns | proverbs
+Name two ways we prepare for the paper :: read our notes | practise words
+Name two Yoruba words for permission :: ẹ jọ̀wọ́ | àṣẹ
+Name two places we sing :: home | school
+
+[theory]
+Name the three Yoruba greetings and when we use them. || 2
+Name three fruits in Yoruba. || 2
+Name three Yoruba pronouns and what they mean. || 2
+What is a proverb? Say one. || 2
+Name three household items in Yoruba. || 2

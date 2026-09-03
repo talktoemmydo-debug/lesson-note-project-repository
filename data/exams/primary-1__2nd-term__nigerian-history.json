@@ -1,0 +1,395 @@
+{
+ "subject": "Nigerian History",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A person who does brave and good things is a ___",
+   "answer": "hero",
+   "distractors": [
+    "stranger",
+    "thief",
+    "baby"
+   ]
+  },
+  {
+   "stem": "A woman who does brave and good things is a ___",
+   "answer": "heroine",
+   "distractors": [
+    "queen",
+    "girl",
+    "mother"
+   ]
+  },
+  {
+   "stem": "A hero is honest, brave and ___",
+   "answer": "kind",
+   "distractors": [
+    "rude",
+    "lazy",
+    "angry"
+   ]
+  },
+  {
+   "stem": "Heroes help their ___",
+   "answer": "people",
+   "distractors": [
+    "enemies",
+    "thieves",
+    "nobody"
+   ]
+  },
+  {
+   "stem": "A leader of a town or people is a ___ ruler",
+   "answer": "traditional",
+   "distractors": [
+    "school",
+    "market",
+    "road"
+   ]
+  },
+  {
+   "stem": "A Yoruba ruler is called an ___",
+   "answer": "Oba",
+   "distractors": [
+    "Obi",
+    "Emir",
+    "Chief"
+   ]
+  },
+  {
+   "stem": "An Igbo ruler is called an ___",
+   "answer": "Obi",
+   "distractors": [
+    "Oba",
+    "Emir",
+    "King"
+   ]
+  },
+  {
+   "stem": "A Hausa ruler is called an ___",
+   "answer": "Emir",
+   "distractors": [
+    "Oba",
+    "Obi",
+    "Chief"
+   ]
+  },
+  {
+   "stem": "A special time of celebration is a ___",
+   "answer": "festival",
+   "distractors": [
+    "market",
+    "school",
+    "farm"
+   ]
+  },
+  {
+   "stem": "The ___ Festival thanks God for the new harvest",
+   "answer": "New Yam",
+   "distractors": [
+    "Christmas",
+    "Easter",
+    "Sallah"
+   ]
+  },
+  {
+   "stem": "The ___ festival is celebrated by Muslims",
+   "answer": "Eid",
+   "distractors": [
+    "New Yam",
+    "Easter",
+    "Christmas"
+   ]
+  },
+  {
+   "stem": "We dance, sing and ___ at a festival",
+   "answer": "drum",
+   "distractors": [
+    "sleep",
+    "cry",
+    "fight"
+   ]
+  },
+  {
+   "stem": "Something made with the hands is a ___",
+   "answer": "craft",
+   "distractors": [
+    "song",
+    "dance",
+    "food"
+   ]
+  },
+  {
+   "stem": "Our people weave cloth, mats and ___",
+   "answer": "baskets",
+   "distractors": [
+    "stones",
+    "cars",
+    "books"
+   ]
+  },
+  {
+   "stem": "Our people mould ___ from clay",
+   "answer": "pots",
+   "distractors": [
+    "cars",
+    "planes",
+    "phones"
+   ]
+  },
+  {
+   "stem": "Our people carve ___ into masks",
+   "answer": "wood",
+   "distractors": [
+    "water",
+    "air",
+    "sand"
+   ]
+  },
+  {
+   "stem": "A famous Nigerian drum is the ___ drum",
+   "answer": "talking",
+   "distractors": [
+    "water",
+    "stone",
+    "paper"
+   ]
+  },
+  {
+   "stem": "The ___ is a shaken instrument",
+   "answer": "shekere",
+   "distractors": [
+    "flute",
+    "gong",
+    "piano"
+   ]
+  },
+  {
+   "stem": "The Bata dance is a ___ dance",
+   "answer": "Yoruba",
+   "distractors": [
+    "Hausa",
+    "foreign",
+    "school"
+   ]
+  },
+  {
+   "stem": "Music tells stories and ___ people",
+   "answer": "praises",
+   "distractors": [
+    "frightens",
+    "hurts",
+    "hides"
+   ]
+  },
+  {
+   "stem": "A Nigerian food from yam is ___ yam",
+   "answer": "pounded",
+   "distractors": [
+    "flying",
+    "burning",
+    "broken"
+   ]
+  },
+  {
+   "stem": "The Yoruba wear buba and ___",
+   "answer": "sokoto",
+   "distractors": [
+    "shoes",
+    "bags",
+    "hats"
+   ]
+  },
+  {
+   "stem": "Women tie a wrapper and a ___",
+   "answer": "head-tie",
+   "distractors": [
+    "belt",
+    "shoe",
+    "bag"
+   ]
+  },
+  {
+   "stem": "The Hausa wear a flowing ___ and a cap",
+   "answer": "gown",
+   "distractors": [
+    "sock",
+    "fan",
+    "mat"
+   ]
+  },
+  {
+   "stem": "Nigeria is in ___ Africa",
+   "answer": "West",
+   "distractors": [
+    "East",
+    "North",
+    "South"
+   ]
+  },
+  {
+   "stem": "___ is to the north of Nigeria",
+   "answer": "Niger",
+   "distractors": [
+    "Ghana",
+    "Egypt",
+    "Kenya"
+   ]
+  },
+  {
+   "stem": "To the south of Nigeria is the ___ Ocean",
+   "answer": "Atlantic",
+   "distractors": [
+    "Indian",
+    "Pacific",
+    "Red"
+   ]
+  },
+  {
+   "stem": "The Nigerian flag is green, white and ___",
+   "answer": "green",
+   "distractors": [
+    "red",
+    "blue",
+    "black"
+   ]
+  },
+  {
+   "stem": "The green in the flag stands for the ___",
+   "answer": "land",
+   "distractors": [
+    "sea",
+    "sky",
+    "fire"
+   ]
+  },
+  {
+   "stem": "The white in the flag stands for ___",
+   "answer": "peace",
+   "distractors": [
+    "war",
+    "noise",
+    "dust"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two good things heroes do ",
+   "points": [
+    "fighting for freedom",
+    "leading well",
+    "teaching",
+    "helping people"
+   ]
+  },
+  {
+   "stem": "Name two titles of traditional rulers ",
+   "points": [
+    "Oba",
+    "Obi",
+    "Emir"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian festivals ",
+   "points": [
+    "New Yam",
+    "Eid",
+    "Christmas",
+    "masquerade"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian crafts ",
+   "points": [
+    "woven cloth",
+    "mats",
+    "pots",
+    "carved wood",
+    "beads"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian musical instruments ",
+   "points": [
+    "talking drum",
+    "gong",
+    "shekere",
+    "flute"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian foods ",
+   "points": [
+    "pounded yam",
+    "amala",
+    "rice",
+    "tuwo"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian traditional clothes ",
+   "points": [
+    "buba and sokoto",
+    "wrapper",
+    "flowing gown"
+   ]
+  },
+  {
+   "stem": "Name two countries near Nigeria ",
+   "points": [
+    "Niger",
+    "Chad",
+    "Cameroon",
+    "Benin"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian national symbols ",
+   "points": [
+    "flag",
+    "coat of arms",
+    "anthem",
+    "naira"
+   ]
+  },
+  {
+   "stem": "Name two things we do at a festival ",
+   "points": [
+    "dance",
+    "sing",
+    "drum",
+    "wear special clothes"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Who is a hero?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two titles of traditional rulers.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a festival? Name one in Nigeria.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two Nigerian crafts.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What do the green and white in the Nigerian flag stand for?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

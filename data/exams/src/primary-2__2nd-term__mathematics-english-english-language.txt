@@ -1,0 +1,56 @@
+# English Language — Primary 2 · Second Term · term paper
+subject: English Language
+class: Primary 2
+term: 2nd Term
+stream: english-language
+
+[objective]
+"Sh" says ___ as in "ship" || /sh/ || /s/ || /h/ || /ch/
+"Ch" says ___ as in "chair" || /ch/ || /c/ || /h/ || /sh/
+We read words like ___ || shop || stone || star || stop
+Reading helps us learn new ___ || words || stones || trees || clouds
+A sentence starts with a ___ letter || capital || small || big || tiny
+A sentence ends with a ___ || full stop || question mark || comma || dash
+We write like "The cat is ___." || black || stone || tree || cloud
+We speak in full ___ || sentences || words || letters || sounds
+Understanding what we read is ___ || comprehension || confusion || sleeping || eating
+We read a ___ (a short story) || passage || stone || tree || cloud
+We answer ___ about the passage || questions || stones || trees || clouds
+We find the answers in the ___ || passage || sky || water || fire
+We say "I ___" not "I is" || am || is || are || was
+We say "He ___" not "He are" || is || am || are || was
+We say "They ___" not "They is" || are || am || is || was
+We ask ___ like "What is your name?" || questions || stones || trees || clouds
+The words we know is our ___ || vocabulary || stones || trees || clouds
+We learn ___ words every day || new || old || same || no
+We read to learn new ___ || words || stones || trees || clouds
+We use new words in ___ || sentences || stones || trees || clouds
+A group of sentences about one thing is a ___ || paragraph || word || letter || sound
+We write paragraphs about ___ || topics || stones || trees || clouds
+We use ___ letters and full stops || capital || small || big || tiny
+We write ___ || clearly || noisily || slowly || badly
+We ___ carefully when others talk || listen || sleep || eat || run
+We speak in full ___ || sentences || words || letters || sounds
+We follow ___ || instructions || stones || trees || clouds
+Listening and speaking help us ___ || learn || sleep || eat || run
+We read ___ (smoothly and clearly) || fluently || slowly || noisily || badly
+We write ___ || neatly || messily || badly || noisily
+
+[subobjective]
+Name two words with "sh" :: ship | shop | shine | short
+Name two words with "ch" :: chair | chip | chin | chat
+Write two sentences about your family :: My father is tall | My mother is kind
+Ask two questions :: What is your name? | How old are you?
+Name two new words you learnt :: vocabulary | comprehension | phonics
+Write one paragraph about your family :: My family is small | We love each other
+Follow two instructions :: Sit down | Open your book
+Write two words neatly :: neatly | clearly
+Name two words with "th" :: this | that | think | thank
+Write what a sentence is :: A group of words that makes sense | A complete thought
+
+[theory]
+What is phonics? Name two words with "sh". || 2
+What is a sentence? Write one sentence. || 2
+What is comprehension? Where do we find the answers? || 2
+What is grammar? Write: "I ___" or "He ___". || 2
+What is a paragraph? Write one paragraph about your family. || 2

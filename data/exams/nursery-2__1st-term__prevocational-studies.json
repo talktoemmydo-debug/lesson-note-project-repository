@@ -1,0 +1,406 @@
+{
+ "subject": "Prevocational Studies",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "A person who grows crops and rears animals is a ___",
+   "answer": "farmer",
+   "distractors": [
+    "driver",
+    "trader only",
+    "watchman"
+   ]
+  },
+  {
+   "stem": "Yam, rice, beans and maize are things agriculture gives us as ___",
+   "answer": "food",
+   "distractors": [
+    "cloth",
+    "medicine for the eyes",
+    "books for the school"
+   ]
+  },
+  {
+   "stem": "The hen gives us eggs and meat; the cow gives us milk, meat and ___",
+   "answer": "hide",
+   "distractors": [
+    "plastic",
+    "kerosene",
+    "sand"
+   ]
+  },
+  {
+   "stem": "Wood from the farm and the forest is used for making ___",
+   "answer": "furniture and planks",
+   "distractors": [
+    "plates of iron",
+    "cups of glass",
+    "shoes of rubber"
+   ]
+  },
+  {
+   "stem": "Farmers sell their surplus at the ___",
+   "answer": "market",
+   "distractors": [
+    "river bank",
+    "school gate",
+    "bus stop only"
+   ]
+  },
+  {
+   "stem": "The oil in our soup came from the ___",
+   "answer": "palm fruit",
+   "distractors": [
+    "cow's tail",
+    "garden soil",
+    "river stone"
+   ]
+  },
+  {
+   "stem": "The broom we use to sweep is made from the ___",
+   "answer": "midrib of a palm leaf",
+   "distractors": [
+    "skin of a goat",
+    "bone of a fish",
+    "wheel of a car"
+   ]
+  },
+  {
+   "stem": "The first farming activity is ___",
+   "answer": "clearing the bush and sticks from the land",
+   "distractors": [
+    "selling the produce at the market",
+    "cooking the food at home",
+    "washing the hands after work"
+   ]
+  },
+  {
+   "stem": "Turning and breaking the soil with a hoe to make it soft is ___",
+   "answer": "tilling",
+   "distractors": [
+    "weeding",
+    "harvesting",
+    "manuring"
+   ]
+  },
+  {
+   "stem": "Keeping birds, grasshoppers and goats away from the farm is ___",
+   "answer": "protecting the crop",
+   "distractors": [
+    "tilling the soil",
+    "watering the ridge",
+    "harvesting the yam"
+   ]
+  },
+  {
+   "stem": "Gathering yam, maize and rice when they are ripe is ___",
+   "answer": "harvesting",
+   "distractors": [
+    "planting",
+    "weeding",
+    "clearing"
+   ]
+  },
+  {
+   "stem": "The tools of the small farm are ___",
+   "answer": "cutlass, hoe, rake and watering can",
+   "distractors": [
+    "spoon, fork, plate and knife",
+    "broom, bucket and washing line",
+    "chalk, duster and desk"
+   ]
+  },
+  {
+   "stem": "Cocoa, groundnut, cotton and rubber are grown to be ___",
+   "answer": "sold and to bring money",
+   "distractors": [
+    "eaten at every meal",
+    "fed to the animals",
+    "burnt after harvest"
+   ]
+  },
+  {
+   "stem": "Rice, maize, guinea corn and wheat are ___",
+   "answer": "grain crops that we call cereals",
+   "distractors": [
+    "soft crops that we call tubers",
+    "yellow crops that we call fruits",
+    "wild crops that we call weeds"
+   ]
+  },
+  {
+   "stem": "Beans and groundnut are special because they ___",
+   "answer": "make the soil rich as they grow",
+   "distractors": [
+    "need no water at all",
+    "grow only in the forest",
+    "are never eaten at home"
+   ]
+  },
+  {
+   "stem": "The young of the goat is called the ___",
+   "answer": "kid",
+   "distractors": [
+    "calf",
+    "lamb",
+    "chick"
+   ]
+  },
+  {
+   "stem": "The young of the sheep is the ___",
+   "answer": "lamb",
+   "distractors": [
+    "kid",
+    "foal",
+    "piglet"
+   ]
+  },
+  {
+   "stem": "An animal needs food, clean water, shade and ___",
+   "answer": "a clean, safe place for sleeping",
+   "distractors": [
+    "a bright television set",
+    "a small shoe for its leg",
+    "a bell tied to its tail"
+   ]
+  },
+  {
+   "stem": "The branch of agriculture that deals with trees and the forest is ___",
+   "answer": "forestry",
+   "distractors": [
+    "fishery",
+    "crop production",
+    "husbandry"
+   ]
+  },
+  {
+   "stem": "Iroko, mahogany, teak and pine are trees grown for ___",
+   "answer": "timber",
+   "distractors": [
+    "milk",
+    "eggs",
+    "honey"
+   ]
+  },
+  {
+   "stem": "Trees hold the soil with their ___",
+   "answer": "roots",
+   "distractors": [
+    "leaves only",
+    "fruits",
+    "flowers"
+   ]
+  },
+  {
+   "stem": "The branch of agriculture that deals with catching and rearing fish is ___",
+   "answer": "fishery",
+   "distractors": [
+    "forestry",
+    "husbandry",
+    "crop production"
+   ]
+  },
+  {
+   "stem": "Keeping fish in a pond or in a cage is called ___",
+   "answer": "fish farming, that is, aquaculture",
+   "distractors": [
+    "fish smoking, that is, drying",
+    "fish selling, that is, trading",
+    "fish counting, that is, numbering"
+   ]
+  },
+  {
+   "stem": "Catfish, tilapia and bonga are foods that give the body ___",
+   "answer": "protein to grow strong",
+   "distractors": [
+    "water to swim with",
+    "cloth to wear",
+    "shade to sit in"
+   ]
+  },
+  {
+   "stem": "Small fish caught in the net are ___",
+   "answer": "thrown back into the water",
+   "distractors": [
+    "sold at a higher price",
+    "dried and kept for a year",
+    "given to the goats"
+   ]
+  },
+  {
+   "stem": "Most food in Nigeria comes from ___",
+   "answer": "small family farms",
+   "distractors": [
+    "big foreign ships",
+    "the office in town",
+    "the market alone"
+   ]
+  },
+  {
+   "stem": "Groundnut and cotton are grown mainly in the ___",
+   "answer": "north of Nigeria",
+   "distractors": [
+    "south-east only",
+    "river banks only",
+    "islands only"
+   ]
+  },
+  {
+   "stem": "Farming in a way that keeps the land good for our children is ___",
+   "answer": "sustainable agriculture",
+   "distractors": [
+    "quick agriculture",
+    "dry agriculture",
+    "market agriculture"
+   ]
+  },
+  {
+   "stem": "Organic farming uses ___",
+   "answer": "compost, not chemical fertiliser",
+   "distractors": [
+    "only chemical fertiliser",
+    "nothing on the land",
+    "salt and clean sand"
+   ]
+  },
+  {
+   "stem": "Not wasting farm produce means ___",
+   "answer": "finishing the food on my plate",
+   "distractors": [
+    "pouring oil down the gutter",
+    "throwing peels on the floor",
+    "leaving the tap running"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Define agriculture and name the person that does it. ",
+   "points": [
+    "growing crops and rearing animals for man to use",
+    "farmer"
+   ]
+  },
+  {
+   "stem": "Mention four things agriculture gives us. ",
+   "points": [
+    "food",
+    "eggs, milk and meat",
+    "cotton for cloth",
+    "wood",
+    "medicine",
+    "income"
+   ]
+  },
+  {
+   "stem": "List five basic farming activities in their order. ",
+   "points": [
+    "clearing",
+    "tilling",
+    "planting",
+    "weeding and watering",
+    "manuring",
+    "protecting",
+    "harvesting",
+    "storage and selling"
+   ]
+  },
+  {
+   "stem": "Name four tools used on a small farm. ",
+   "points": [
+    "cutlass",
+    "hoe",
+    "rake",
+    "watering can",
+    "knapsack sprayer",
+    "basket"
+   ]
+  },
+  {
+   "stem": "Give four kinds of crops we classified. ",
+   "points": [
+    "food crops",
+    "cash crops",
+    "fruit and vegetable crops",
+    "cereals",
+    "legumes",
+    "oil and drink crops"
+   ]
+  },
+  {
+   "stem": "State four things farm animals give us. ",
+   "points": [
+    "meat",
+    "milk",
+    "eggs",
+    "hide or skin",
+    "manure",
+    "strength for ploughing"
+   ]
+  },
+  {
+   "stem": "Mention three branches of agriculture other than crop production. ",
+   "points": [
+    "animal husbandry",
+    "forestry",
+    "fishery"
+   ]
+  },
+  {
+   "stem": "Give three reasons why we must protect trees. ",
+   "points": [
+    "they hold the soil",
+    "they clean the air and bring rain",
+    "they give timber, fruit and medicine"
+   ]
+  },
+  {
+   "stem": "State four tools or items used in fishery. ",
+   "points": [
+    "net",
+    "hook and line",
+    "fishing rod",
+    "basket or trap",
+    "canoe or boat",
+    "pond"
+   ]
+  },
+  {
+   "stem": "Mention two ways we keep fish fresh for the market. ",
+   "points": [
+    "salting",
+    "smoking",
+    "drying",
+    "ice"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write on the importance of agriculture to people in Nigeria",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain four farming activities from clearing to harvest",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe the branches of agriculture and give one example of each",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on how farm animals are cared for",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is your own part in protecting the environment and not wasting food?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

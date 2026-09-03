@@ -1,0 +1,56 @@
+# Mathematics & English · ENGLISH LANGUAGE — Primary 1 · Third Term · term paper
+subject: Mathematics & English
+stream: ENGLISH LANGUAGE
+class: Primary 1
+term: 3rd Term
+
+[objective]
+Understanding what we read is ___ || comprehension || anger || sleep || noise
+A piece of writing with rhythm is a ___ || poem || stone || song || box
+A story tells us about people and ___ || events || stones || water || fire
+We read the story with ___ || care || anger || noise || sleep
+For the past we ask "What ___ you do?" || did || will || is || are
+For the future we ask "What ___ you do?" || will || did || was || are
+"I played" is in the ___ || past || future || present || dream
+"I will read" is in the ___ || future || past || stone || song
+A word that describes a noun is an ___ || adjective || verb || stone || song
+In "a big ball", the adjective is ___ || big || ball || a || is
+Adjectives tell size, colour and ___ || shape || noise || sleep || food
+We put the adjective ___ the noun || before || after || under || over
+Understanding what we hear is ___ comprehension || listening || running || sleeping || eating
+A group of sentences about one thing is a ___ || paragraph || stone || song || box
+We listen with ___ and attention || care || anger || noise || sleep
+We remember the ___ ideas || main || bad || loud || dark
+Things that happen every day are ___ situations || everyday || strange || old || new
+We read about home, school and ___ || market || sky || sea || fire
+The tense for what is happening now is the present ___ || continuous || past || future || stone
+"I ___ reading" — choose the right word || am || is || are || was
+"She ___ singing" — choose the right word || is || am || are || were
+The verb ends with ___ || -ing || -ed || -s || -ly
+The words we know are our ___ || vocabulary || noise || sleep || food
+We practise ___ the words || spelling || eating || burning || hiding
+We spell by saying the ___ in order || letters || stones || songs || boxes
+Hearing the sounds in words is ___ awareness || phonemic || colour || size || weight
+Words are made of ___ || sounds || stones || water || fire
+The word "cat" has the sounds ___ || c-a-t || d-o-g || b-e-d || s-u-n
+We can hear the ___ sound in a word || first || no || zero || dark
+What we hear is a ___ || sound || stone || song || box
+
+[subobjective]
+Name two things we find in a story :: who | what | where | when
+Name two questions we can ask about the past :: What did you do? | Where did you go?
+Name three adjectives :: big | red | tall | small | round
+Name two things we listen for :: who | what | where | main idea
+Name two everyday situations :: going to school | eating at home | playing
+Name two sentences in the present continuous :: I am reading | She is singing
+Name two new words you have learnt :: book | school | water | food
+Name the sounds in the word "dog" :: d-o-g | d, o, g
+Name two measures of capacity :: litres | millilitres
+Name two 3-D shapes :: cube | sphere | cylinder | cone
+
+[theory]
+What is comprehension? || 2
+What word do we use for the past and what word for the future? || 2
+What is an adjective? Give one example. || 2
+Make one sentence in the present continuous tense. || 2
+What is phonemic awareness? || 2

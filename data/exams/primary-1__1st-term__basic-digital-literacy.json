@@ -1,0 +1,381 @@
+{
+ "subject": "Basic Digital Literacy",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Technology is the smart things people make to do work more ___",
+   "answer": "easily",
+   "distractors": [
+    "slowly",
+    "badly",
+    "loudly"
+   ]
+  },
+  {
+   "stem": "A machine that works with electricity and shows things on a screen is a ___ device",
+   "answer": "digital",
+   "distractors": [
+    "wooden",
+    "paper",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Which of these is NOT a digital device?",
+   "answer": "a wooden broom",
+   "distractors": [
+    "a tablet",
+    "a camera",
+    "a smartphone"
+   ]
+  },
+  {
+   "stem": "The computer that stays on a table is a ___",
+   "answer": "desktop",
+   "distractors": [
+    "tablet",
+    "smart watch",
+    "camera"
+   ]
+  },
+  {
+   "stem": "The computer that opens like a book is a ___",
+   "answer": "laptop",
+   "distractors": [
+    "desktop",
+    "printer",
+    "radio"
+   ]
+  },
+  {
+   "stem": "The part that shows pictures and letters is the ___",
+   "answer": "monitor",
+   "distractors": [
+    "keyboard",
+    "mouse",
+    "CPU"
+   ]
+  },
+  {
+   "stem": "The part we press with our fingers is the ___",
+   "answer": "keyboard",
+   "distractors": [
+    "monitor",
+    "speaker",
+    "cable"
+   ]
+  },
+  {
+   "stem": "The part that moves the arrow on the screen is the ___",
+   "answer": "mouse",
+   "distractors": [
+    "monitor",
+    "printer",
+    "CPU"
+   ]
+  },
+  {
+   "stem": "The brain of the computer is the ___",
+   "answer": "CPU",
+   "distractors": [
+    "mouse",
+    "keyboard",
+    "screen"
+   ]
+  },
+  {
+   "stem": "We clean a screen with a ___",
+   "answer": "soft, dry cloth",
+   "distractors": [
+    "wet mop",
+    "rough stone",
+    "sandy rag"
+   ]
+  },
+  {
+   "stem": "A tablet should be carried ___",
+   "answer": "with two hands",
+   "distractors": [
+    "by its wire",
+    "open in one finger",
+    "under a foot"
+   ]
+  },
+  {
+   "stem": "Water on a device ___ it",
+   "answer": "spoils",
+   "distractors": [
+    "speeds",
+    "charges",
+    "cleans"
+   ]
+  },
+  {
+   "stem": "The first tool people used to count is the ___",
+   "answer": "abacus",
+   "distractors": [
+    "telephone",
+    "radio",
+    "fan"
+   ]
+  },
+  {
+   "stem": "Over time computers became smaller, cheaper and ___",
+   "answer": "faster",
+   "distractors": [
+    "heavier",
+    "slower",
+    "louder"
+   ]
+  },
+  {
+   "stem": "A machine that can learn uses artificial ___",
+   "answer": "intelligence",
+   "distractors": [
+    "water",
+    "sand",
+    "noise"
+   ]
+  },
+  {
+   "stem": "The father of the computer is ___",
+   "answer": "Charles Babbage",
+   "distractors": [
+    "Ada Lovelace",
+    "Isaac Newton",
+    "Thomas Edison"
+   ]
+  },
+  {
+   "stem": "The first programmer in the world was ___",
+   "answer": "Ada Lovelace",
+   "distractors": [
+    "Mary Kingsley",
+    "Queen Amina",
+    "Flora Shaw"
+   ]
+  },
+  {
+   "stem": "Babbage's machine plan was called the ___",
+   "answer": "Analytical Engine",
+   "distractors": [
+    "Steam Boat",
+    "Printing Press",
+    "Flying Loom"
+   ]
+  },
+  {
+   "stem": "The parts of a computer we can touch are the ___",
+   "answer": "hardware",
+   "distractors": [
+    "software",
+    "ideas",
+    "songs"
+   ]
+  },
+  {
+   "stem": "A drawing app is ___",
+   "answer": "software",
+   "distractors": [
+    "hardware",
+    "a cable",
+    "a chair"
+   ]
+  },
+  {
+   "stem": "The order of letters on a keyboard is called ___",
+   "answer": "QWERTY",
+   "distractors": [
+    "ABCDE",
+    "FRIDAY",
+    "MONDAY"
+   ]
+  },
+  {
+   "stem": "The key that moves us to the next line is ___",
+   "answer": "Enter",
+   "distractors": [
+    "Caps Lock",
+    "Esc",
+    "Shift"
+   ]
+  },
+  {
+   "stem": "Moving an icon by holding the button and letting go is ___",
+   "answer": "drag and drop",
+   "distractors": [
+    "scanning",
+    "printing",
+    "saving"
+   ]
+  },
+  {
+   "stem": "A device that puts information into the computer is an ___ device",
+   "answer": "input",
+   "distractors": [
+    "output",
+    "print",
+    "sound"
+   ]
+  },
+  {
+   "stem": "A device that brings information out of the computer is an ___ device",
+   "answer": "output",
+   "distractors": [
+    "input",
+    "power",
+    "cool"
+   ]
+  },
+  {
+   "stem": "The device that puts our work on paper is the ___",
+   "answer": "printer",
+   "distractors": [
+    "microphone",
+    "mouse",
+    "keyboard"
+   ]
+  },
+  {
+   "stem": "We hear sound from the computer through ___",
+   "answer": "speakers",
+   "distractors": [
+    "printer",
+    "mouse",
+    "cable"
+   ]
+  },
+  {
+   "stem": "A microphone takes our ___ into the computer",
+   "answer": "voice",
+   "distractors": [
+    "hair",
+    "shoes",
+    "food"
+   ]
+  },
+  {
+   "stem": "The wheel on the mouse is used to ___",
+   "answer": "scroll",
+   "distractors": [
+    "print",
+    "eat",
+    "sing"
+   ]
+  },
+  {
+   "stem": "A wooden broom and a plastic bucket are ___ digital devices",
+   "answer": "not",
+   "distractors": [
+    "always",
+    "only",
+    "very"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two digital devices you can carry ",
+   "points": [
+    "tablet",
+    "smartphone",
+    "smart watch"
+   ]
+  },
+  {
+   "stem": "Name the four basic parts of a computer ",
+   "points": [
+    "monitor",
+    "keyboard",
+    "mouse",
+    "CPU"
+   ]
+  },
+  {
+   "stem": "Name two things we keep away from a device ",
+   "points": [
+    "water",
+    "food"
+   ]
+  },
+  {
+   "stem": "Name two input devices ",
+   "points": [
+    "keyboard",
+    "mouse",
+    "microphone"
+   ]
+  },
+  {
+   "stem": "Name two output devices ",
+   "points": [
+    "monitor",
+    "printer",
+    "speakers"
+   ]
+  },
+  {
+   "stem": "Name two ways we care for a device ",
+   "points": [
+    "clean with dry cloth",
+    "carry with two hands"
+   ]
+  },
+  {
+   "stem": "Name the two great inventors of the computer ",
+   "points": [
+    "Charles Babbage",
+    "Ada Lovelace"
+   ]
+  },
+  {
+   "stem": "Name two devices that became smaller over time ",
+   "points": [
+    "computer",
+    "phone"
+   ]
+  },
+  {
+   "stem": "Name two lab rules ",
+   "points": [
+    "walk slowly",
+    "no eating"
+   ]
+  },
+  {
+   "stem": "Name two things hardware and software are like ",
+   "points": [
+    "body",
+    "thoughts"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is technology in one line?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the four basic parts of a computer.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say two ways we care for a device.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who is the father of the computer and what did he design?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Tell one input device and one output device.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

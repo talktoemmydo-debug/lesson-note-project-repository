@@ -1,0 +1,56 @@
+# Mathematics & English · NUMERACY — Nursery 2 · First Term · term paper
+subject: Mathematics & English
+stream: NUMERACY
+class: Nursery 2
+term: 1st Term
+
+[objective]
+In the number 163, the digit 6 stands for ___ || six tens || six hundreds || six units || sixteen units
+The expanded form of 128 is ___ || 100 + 20 + 8 || 1 + 2 + 8 || 100 + 28 || 12 + 8
+Counting in tens from 170, the next number is ___ || 180 || 171 || 160 || 187
+The number that is 100 + 40 + 7 is ___ || 147 || 174 || 417 || 107
+Which is greater: 189 or 198? || 198 || 189 || they are equal || cannot be told
+In 47, the digit in the ones place is ___ || 7 || 4 || 47 || 0
+Seven tens and five ones make ___ || 75 || 57 || 12 || 705
+Ten ones make ___ || one ten || one hundred || ten hundreds || one thousand
+The number that has 4 tens and 0 ones is ___ || 40 || 4 || 44 || 14
+The digit 6 shows six tens in the number ___ || 61 || 16 || 26 || 6
+Sixty-five written in words is ___ || "sixty-five" || "fifty-six" || "sixty and five" || "six ten five"
+The correct spelling of the number 13 is ___ || thirteen || threeteen || thirden || three-teen
+"One hundred and three" in figures is ___ || 103 || 130 || 113 || 300
+The figure for forty-nine is ___ || 49 || 94 || 40 || 4
+"Seventy-two" in figures is ___ || 72 || 27 || 70 || 17
+In 25, the digit 2 stands for ___ || twenty || two || two hundred || five
+One more than 199 is ___ || 200 || 198 || 190 || 201
+Skip counting by twos from 2 gives ___ || 2, 4, 6, 8 || 2, 3, 5, 8 || 2, 12, 22, 32 || 4, 6, 8, 11
+Addition means ___ || putting things together || taking things away || comparing two numbers || sharing a cake
+The sign used in addition is ___ || + || – || = || ×
+3 + 0 gives ___ || 3 || 0 || 30 || 1
+The sum of 6 and 4 is ___ || 10 || 9 || 12 || 2
+On a number line, adding means jumping to the ___ || right || left || up || down
+23 + 14 gives ___ || 37 || 46 || 36 || 47
+48 − 25 gives ___ || 23 || 33 || 63 || 73
+The answer in subtraction is called the ___ || difference || sum || total || place
+5 − 5 gives ___ || 0 || 5 || 10 || 1
+10 − 3 is ___ || 7 || 6 || 8 || 13
+Subtraction is checked by using ___ || addition || multiplication || counting on fingers only || the ruler
+A subtraction story solved by ₦100 − ₦45 leaves ___ || ₦55 || ₦45 || ₦145 || ₦65
+
+[subobjective]
+Write the tens and ones in the number 58. :: 5 | tens | and | 8 | ones
+Write 147 in expanded form and say what each digit stands for. :: 100 + 40 + 7 | 1 hundred, 4 tens, 7 ones
+Write these in words: 20, 40 and 100. :: twenty | forty | one hundred
+Add: 20 + 30 and 28 + 7. :: 50 | 35
+Subtract: 57 − 23 and 42 − 15. :: 34 | 27
+Mention two ways to check an addition sum. :: count back with subtraction | add again the other way round | use the number line
+Say which is greater in each pair: 96 and 102; 189 and 198. :: 102 | 198
+Name three things you used for grouping into tens in class. :: sticks in bundles | caps | beans | beads
+Count from 95 to 105 and say which numbers are odd. :: 95 to 105 | odd: 95, 97, 99, 101, 103, 105
+Say what the answer of an addition is called and what the answer of a subtraction is called. :: sum | difference
+
+[theory]
+Write the numbers 101 to 120 in figures and any five in words || 2
+Show 34 with bundles of tens and ones, then write it in expanded form || 2
+Write two addition and two subtraction stories from things at home and solve them || 2
+Work out 38 + 27 and 63 − 28; show the carrying and the borrowing || 2
+Explain how you check that 48 − 25 = 23, and why 61 is greater than 14 || 2

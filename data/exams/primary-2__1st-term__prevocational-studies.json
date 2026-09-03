@@ -1,0 +1,392 @@
+{
+ "subject": "Prevocational Studies",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "What we do to help and to live well is ___",
+   "answer": "work",
+   "distractors": [
+    "play",
+    "sleep",
+    "cry"
+   ]
+  },
+  {
+   "stem": "At home we ___ the floor",
+   "answer": "sweep",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "At school we clean our ___",
+   "answer": "classroom",
+   "distractors": [
+    "river",
+    "sky",
+    "fire"
+   ]
+  },
+  {
+   "stem": "Every ___ work is good",
+   "answer": "honest",
+   "distractors": [
+    "lazy",
+    "bad",
+    "rude"
+   ]
+  },
+  {
+   "stem": "A thing we use to do work is a ___",
+   "answer": "tool",
+   "distractors": [
+    "song",
+    "stone",
+    "dream"
+   ]
+  },
+  {
+   "stem": "We use a ___ to sweep",
+   "answer": "broom",
+   "distractors": [
+    "knife",
+    "pot",
+    "book"
+   ]
+  },
+  {
+   "stem": "We use a ___ to farm",
+   "answer": "hoe",
+   "distractors": [
+    "pen",
+    "book",
+    "cup"
+   ]
+  },
+  {
+   "stem": "We use a ___ to fetch water",
+   "answer": "bucket",
+   "distractors": [
+    "knife",
+    "book",
+    "chair"
+   ]
+  },
+  {
+   "stem": "Growing crops and keeping animals is ___",
+   "answer": "farming",
+   "distractors": [
+    "sleeping",
+    "singing",
+    "running"
+   ]
+  },
+  {
+   "stem": "A person who works on the farm is a ___",
+   "answer": "farmer",
+   "distractors": [
+    "singer",
+    "sleeper",
+    "runner"
+   ]
+  },
+  {
+   "stem": "We grow crops like yam, maize and ___",
+   "answer": "rice",
+   "distractors": [
+    "stone",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "Farming gives us ___",
+   "answer": "food",
+   "distractors": [
+    "stone",
+    "fire",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "To look after something well is to ___ for it",
+   "answer": "care",
+   "distractors": [
+    "fight",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We put things in their ___ after use",
+   "answer": "place",
+   "distractors": [
+    "fire",
+    "river",
+    "sky"
+   ]
+  },
+  {
+   "stem": "We do not ___ or spoil our things",
+   "answer": "break",
+   "distractors": [
+    "keep",
+    "wash",
+    "share"
+   ]
+  },
+  {
+   "stem": "Good care makes things ___",
+   "answer": "last long",
+   "distractors": [
+    "break fast",
+    "spoil",
+    "disappear"
+   ]
+  },
+  {
+   "stem": "To make food ready to eat is to ___ it",
+   "answer": "prepare",
+   "distractors": [
+    "waste",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We wash our ___ before we touch food",
+   "answer": "hands",
+   "distractors": [
+    "shoes",
+    "books",
+    "chairs"
+   ]
+  },
+  {
+   "stem": "We keep food ___ so flies do not touch it",
+   "answer": "covered",
+   "distractors": [
+    "open",
+    "dirty",
+    "wet"
+   ]
+  },
+  {
+   "stem": "We use clean ___ to cook",
+   "answer": "utensils",
+   "distractors": [
+    "stones",
+    "leaves",
+    "paper"
+   ]
+  },
+  {
+   "stem": "What we wear on the body is ___",
+   "answer": "clothing",
+   "distractors": [
+    "food",
+    "water",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Clothes keep us warm and ___",
+   "answer": "clean",
+   "distractors": [
+    "dirty",
+    "wet",
+    "dark"
+   ]
+  },
+  {
+   "stem": "We wash our clothes with ___ and water",
+   "answer": "soap",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "We dry clothes in the ___",
+   "answer": "sun",
+   "distractors": [
+    "water",
+    "mud",
+    "dark"
+   ]
+  },
+  {
+   "stem": "The place we live in is our ___",
+   "answer": "environment",
+   "distractors": [
+    "food",
+    "body",
+    "song"
+   ]
+  },
+  {
+   "stem": "We throw rubbish in the ___",
+   "answer": "dustbin",
+   "distractors": [
+    "river",
+    "road",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We do not ___ the ground",
+   "answer": "litter",
+   "distractors": [
+    "sweep",
+    "clean",
+    "wash"
+   ]
+  },
+  {
+   "stem": "We ___ flowers and trees",
+   "answer": "plant",
+   "distractors": [
+    "burn",
+    "cut",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Keeping things for later is ___",
+   "answer": "saving",
+   "distractors": [
+    "wasting",
+    "losing",
+    "throwing"
+   ]
+  },
+  {
+   "stem": "Giving part of what we have is ___",
+   "answer": "sharing",
+   "distractors": [
+    "stealing",
+    "hiding",
+    "breaking"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two works we do at home ",
+   "points": [
+    "sweeping",
+    "fetching water",
+    "washing",
+    "cooking"
+   ]
+  },
+  {
+   "stem": "Name two tools we use ",
+   "points": [
+    "broom",
+    "hoe",
+    "bucket",
+    "knife",
+    "pot"
+   ]
+  },
+  {
+   "stem": "Name two crops we grow ",
+   "points": [
+    "yam",
+    "maize",
+    "rice",
+    "cassava"
+   ]
+  },
+  {
+   "stem": "Name two things we care for ",
+   "points": [
+    "books",
+    "clothes",
+    "toys",
+    "tools"
+   ]
+  },
+  {
+   "stem": "Name two things we do to prepare food ",
+   "points": [
+    "wash",
+    "peel",
+    "cut",
+    "stir",
+    "serve"
+   ]
+  },
+  {
+   "stem": "Name two things we wear ",
+   "points": [
+    "shirts",
+    "trousers",
+    "dresses",
+    "shoes"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for our environment ",
+   "points": [
+    "sweep",
+    "throw rubbish in the dustbin",
+    "plant trees"
+   ]
+  },
+  {
+   "stem": "Name two things we can save ",
+   "points": [
+    "money",
+    "food"
+   ]
+  },
+  {
+   "stem": "Name two animals we keep on the farm ",
+   "points": [
+    "goats",
+    "cows",
+    "chickens"
+   ]
+  },
+  {
+   "stem": "Name two ways to use things well ",
+   "points": [
+    "put them in their place",
+    "do not waste them"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is work? Name one work we do at home.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a tool? Name two tools we use.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is farming? Name two crops we grow.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why do we care for our things?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is sharing? Why do we save?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

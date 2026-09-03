@@ -1,0 +1,56 @@
+# Mathematics & English · NUMERACY — Nursery 2 · Second Term · term paper
+subject: Mathematics & English
+stream: NUMERACY
+class: Nursery 2
+term: 2nd Term
+
+[objective]
+Eleven is the same as ___ || one ten and one one || two tens and one one || one one and one ten only || ten tens and one
+In the number 16, the digit 1 stands for ___ || one ten || one one || sixteen ones || six tens
+The number that comes just before 20 is ___ || 19 || 21 || 18 || 11
+Two tens and no ones written as a numeral is ___ || 20 || 2 || 12 || 22
+Skip counting by tens gives 10, 20, 30, ___ and 50. || 40 || 35 || 41 || 45
+Forty-seven is made of ___ || four tens and seven ones || seven tens and four ones || forty and one || four and seven
+The correct sign for 27 ____ 34 is ___ || < || > || = || +
+Ten more than 36 is ___ || 46 || 26 || 37 || 63
+Eighty-six is written as ___ || 86 || 68 || 18 || 60
+The number just after 99 is ___ || 100 || 98 || 90 || 109
+In 100 there are ___ || ten tens || one hundred tens || ten ones || one hundred hundreds
+Arrange these from the largest: 45, 39, 61, 57. || 61, 57, 45, 39 || 39, 45, 57, 61 || 57, 61, 45, 39 || 45, 61, 39, 57
+Seven tens and five ones make ___ || 75 || 57 || 12 || 70
+The number between 69 and 71 is ___ || 70 || 68 || 72 || 71
+The correct sign for 39 ____ 41 is ___ || < || > || = || −
+In ascending order, which comes first among 44, 27, 39 and 51? || 27 || 44 || 51 || 39
+6 + 7 = ___ || 13 || 12 || 14 || 11
+18 − 5 = ___ || 13 || 12 || 23 || 15
+If 9 + 4 = 13, then 13 − 9 = ___ || 4 || 9 || 13 || 5
+In 2 + □ = 6, the number in the box is ___ || 4 || 3 || 6 || 8
+In □ + 5 = 12, the number in the box is ___ || 7 || 6 || 17 || 5
+In 9 − □ = 4, the number in the box is ___ || 5 || 4 || 13 || 9
+In □ − 3 = 7, the number in the box is ___ || 10 || 4 || 7 || 21
+Our money in Nigeria is the ___ || Naira || cedi || naira note only || kobo coin only
+₦20 + ₦20 + ₦10 makes ___ || ₦50 || ₦40 || ₦60 || ₦30
+A biscuit costs ₦10 and you pay with ₦50; your change is ___ || ₦40 || ₦10 || ₦50 || ₦60
+Ten five-naira notes together make ___ || ₦50 || ₦15 || ₦10 || ₦100
+The ₦1 and ₦2 coins are still ___ || our money, though seldom seen now || not money at all today || worth more than a ₦100 note || only kept inside a bank
+On the number line, 40 + 25 lands you at ___ || 65 || 55 || 70 || 60
+Which is bigger, 74 or 69, and what did you look at first? || 74, the tens digit || 69, the ones digit || 74, the ones digit || 69, the tens digit
+
+[subobjective]
+Write the numbers 11 to 20 in figures. :: 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+Count in tens from ten to one hundred. :: 10 | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100
+Give the tens and the ones in 63 and in 91. :: 6 tens 3 ones | 9 tens 1 one
+Arrange in descending order: 51, 24, 66, 39. :: 66 | 51 | 39 | 24
+Put in the correct sign: 45 ____ 54, 72 ____ 27, 30 + 20 ____ 50. :: < | > | =
+Solve: 8 + 6, 15 − 7, 9 + 9 and 20 − 6. :: 14 | 8 | 18 | 14
+There are 11 oranges and 6 bananas. How many fruits, and what operation did you use? :: 17 fruits | addition
+Fill the boxes: 7 + □ = 13, □ − 8 = 6 and 14 − □ = 6. :: 6 | 14 | 8
+Count the money: ₦20 + ₦10 + ₦5 + ₦5, and ₦50 − ₦20. :: ₦40 | ₦30
+Name four notes of Nigeria from the smallest and two coins we count with. :: ₦5 | ₦10 | ₦20 | ₦50 | ₦1 coin | ₦2 coin
+
+[theory]
+Write the numbers from 31 to 50 and say how many tens and ones are in 47. || 2
+Explain the difference between > and <, and arrange 38, 83, 33 and 88 from the smallest. || 2
+Solve these and show your work: 12 + 5, 17 − 6, 9 + 8, 20 − 13. || 2
+What is an open sentence? Find the box in 6 + □ = 15 and in □ − 7 = 8. || 2
+Write on the naira: the coins and notes you know, and how you pay ₦50 for a thing that costs ₦35. || 2

@@ -1,0 +1,392 @@
+{
+ "subject": "Mathematics & English · ENGLISH LANGUAGE",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A story has a beginning, a middle and an ___",
+   "answer": "end",
+   "distractors": [
+    "start",
+    "side",
+    "top"
+   ]
+  },
+  {
+   "stem": "We listen to a story with our ___ and eyes",
+   "answer": "ears",
+   "distractors": [
+    "nose",
+    "feet",
+    "hands"
+   ]
+  },
+  {
+   "stem": "We tell a story in our own ___",
+   "answer": "words",
+   "distractors": [
+    "sleep",
+    "tears",
+    "silence"
+   ]
+  },
+  {
+   "stem": "A consonant cluster is consonants said ___",
+   "answer": "together",
+   "distractors": [
+    "apart",
+    "never",
+    "slowly"
+   ]
+  },
+  {
+   "stem": "bl is in ___",
+   "answer": "black",
+   "distractors": [
+    "ship",
+    "chin",
+    "this"
+   ]
+  },
+  {
+   "stem": "st is in ___",
+   "answer": "stop",
+   "distractors": [
+    "chip",
+    "that",
+    "man"
+   ]
+  },
+  {
+   "stem": "tr is in ___",
+   "answer": "tree",
+   "distractors": [
+    "shop",
+    "fish",
+    "pen"
+   ]
+  },
+  {
+   "stem": "A short piece of writing is a ___",
+   "answer": "passage",
+   "distractors": [
+    "letter",
+    "number",
+    "sign"
+   ]
+  },
+  {
+   "stem": "Which two words rhyme?",
+   "answer": "cat and hat",
+   "distractors": [
+    "cat and dog",
+    "dog and pen",
+    "sun and man"
+   ]
+  },
+  {
+   "stem": "We read a passage with ___",
+   "answer": "care",
+   "distractors": [
+    "noise",
+    "sleep",
+    "haste"
+   ]
+  },
+  {
+   "stem": "The plural means ___ than one",
+   "answer": "more",
+   "distractors": [
+    "less",
+    "no",
+    "one"
+   ]
+  },
+  {
+   "stem": "We add ___ to make most plurals",
+   "answer": "s",
+   "distractors": [
+    "a",
+    "the",
+    "ed"
+   ]
+  },
+  {
+   "stem": "One cat, two ___",
+   "answer": "cats",
+   "distractors": [
+    "cat",
+    "cates",
+    "caties"
+   ]
+  },
+  {
+   "stem": "One child, two ___",
+   "answer": "children",
+   "distractors": [
+    "childs",
+    "childes",
+    "child"
+   ]
+  },
+  {
+   "stem": "Reading aloud is reading so others can ___",
+   "answer": "hear",
+   "distractors": [
+    "sleep",
+    "hide",
+    "eat"
+   ]
+  },
+  {
+   "stem": "We read clearly and not too ___",
+   "answer": "fast",
+   "distractors": [
+    "slow",
+    "loud",
+    "soft"
+   ]
+  },
+  {
+   "stem": "We stop at the ___",
+   "answer": "full stop",
+   "distractors": [
+    "letter",
+    "number",
+    "word"
+   ]
+  },
+  {
+   "stem": "A ___ has words we sing",
+   "answer": "song",
+   "distractors": [
+    "stone",
+    "line",
+    "number"
+   ]
+  },
+  {
+   "stem": "A ___ has words that sound the same",
+   "answer": "rhyme",
+   "distractors": [
+    "rock",
+    "road",
+    "rule"
+   ]
+  },
+  {
+   "stem": "Oral games are games we play with ___",
+   "answer": "words",
+   "distractors": [
+    "stones",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "An adverb tells ___ we do something",
+   "answer": "how",
+   "distractors": [
+    "who",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "stem": "Which is an adverb?",
+   "answer": "quickly",
+   "distractors": [
+    "boy",
+    "run",
+    "and"
+   ]
+  },
+  {
+   "stem": "Many adverbs end in ___",
+   "answer": "-ly",
+   "distractors": [
+    "-ed",
+    "-ing",
+    "-s"
+   ]
+  },
+  {
+   "stem": "A digraph makes ___ new sound",
+   "answer": "one",
+   "distractors": [
+    "two",
+    "three",
+    "no"
+   ]
+  },
+  {
+   "stem": "ch says /ch/ as in ___",
+   "answer": "chin",
+   "distractors": [
+    "ship",
+    "this",
+    "when"
+   ]
+  },
+  {
+   "stem": "sh says /sh/ as in ___",
+   "answer": "ship",
+   "distractors": [
+    "chin",
+    "that",
+    "phone"
+   ]
+  },
+  {
+   "stem": "ph says /f/ as in ___",
+   "answer": "phone",
+   "distractors": [
+    "ship",
+    "this",
+    "chin"
+   ]
+  },
+  {
+   "stem": "We blend the digraph with the rest of the ___",
+   "answer": "word",
+   "distractors": [
+    "number",
+    "sign",
+    "line"
+   ]
+  },
+  {
+   "stem": "She runs ___",
+   "answer": "quickly",
+   "distractors": [
+    "quick",
+    "boy",
+    "table"
+   ]
+  },
+  {
+   "stem": "One foot, two ___",
+   "answer": "feet",
+   "distractors": [
+    "foots",
+    "foot",
+    "footes"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two parts of a story ",
+   "points": [
+    "beginning",
+    "middle",
+    "end"
+   ]
+  },
+  {
+   "stem": "Name two words with consonant clusters ",
+   "points": [
+    "black",
+    "stop",
+    "tree",
+    "spin"
+   ]
+  },
+  {
+   "stem": "Name two words that rhyme ",
+   "points": [
+    "cat and hat",
+    "dog and log",
+    "sun and run"
+   ]
+  },
+  {
+   "stem": "Name two plural words ",
+   "points": [
+    "cats",
+    "books",
+    "dogs",
+    "children"
+   ]
+  },
+  {
+   "stem": "Name two things a good reader does ",
+   "points": [
+    "reads clearly",
+    "stops at the full stop",
+    "holds the book well"
+   ]
+  },
+  {
+   "stem": "Name two songs or rhymes you know ",
+   "points": [
+    "Baa Baa Black Sheep",
+    "Twinkle Twinkle",
+    "Row Row Row Your Boat"
+   ]
+  },
+  {
+   "stem": "Name two adverbs ",
+   "points": [
+    "quickly",
+    "slowly",
+    "loudly",
+    "softly"
+   ]
+  },
+  {
+   "stem": "Name two words with digraphs ",
+   "points": [
+    "chin",
+    "ship",
+    "this",
+    "phone"
+   ]
+  },
+  {
+   "stem": "Name two digraphs ",
+   "points": [
+    "ch",
+    "sh",
+    "th",
+    "wh",
+    "ph"
+   ]
+  },
+  {
+   "stem": "Name two things we do with a story ",
+   "points": [
+    "listen",
+    "tell",
+    "act out"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What are the three parts of a story?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a consonant cluster? Give two examples.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the plural of \"cat\" and \"child\"?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is an adverb? Give two examples.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two digraphs and a word for each.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

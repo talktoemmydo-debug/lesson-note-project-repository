@@ -1,0 +1,390 @@
+{
+ "subject": "Christian Religious Studies",
+ "class": "Primary 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Jesus prayed to God the ___",
+   "answer": "Father",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Jesus prayed early in the ___",
+   "answer": "morning",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Jesus prayed in ___ places",
+   "answer": "quiet",
+   "distractors": [
+    "noisy",
+    "busy",
+    "loud"
+   ]
+  },
+  {
+   "stem": "Prayer is talking to ___",
+   "answer": "God",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "Jesus gave his ___ for us",
+   "answer": "life",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Jesus died on the ___",
+   "answer": "cross",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Jesus died to ___ us",
+   "answer": "save",
+   "distractors": [
+    "hurt",
+    "forget",
+    "hide"
+   ]
+  },
+  {
+   "stem": "After three days Jesus ___ again",
+   "answer": "rose",
+   "distractors": [
+    "fell",
+    "hid",
+    "slept"
+   ]
+  },
+  {
+   "stem": "Jesus gives us a ___ life",
+   "answer": "new",
+   "distractors": [
+    "old",
+    "sad",
+    "dark"
+   ]
+  },
+  {
+   "stem": "A new life means we ___ for the good",
+   "answer": "change",
+   "distractors": [
+    "stay",
+    "hide",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "We stop doing ___ things",
+   "answer": "wrong",
+   "distractors": [
+    "good",
+    "kind",
+    "nice"
+   ]
+  },
+  {
+   "stem": "Jesus changed ___ the tax collector",
+   "answer": "Zacchaeus",
+   "distractors": [
+    "Peter",
+    "John",
+    "Paul"
+   ]
+  },
+  {
+   "stem": "In a new life we tell the ___",
+   "answer": "truth",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We ___ with others",
+   "answer": "share",
+   "distractors": [
+    "fight",
+    "hide",
+    "break"
+   ]
+  },
+  {
+   "stem": "We ___ those who hurt us",
+   "answer": "forgive",
+   "distractors": [
+    "hit",
+    "shout at",
+    "chase"
+   ]
+  },
+  {
+   "stem": "We ___ our parents and teachers",
+   "answer": "obey",
+   "distractors": [
+    "ignore",
+    "shout at",
+    "chase"
+   ]
+  },
+  {
+   "stem": "The Holy Spirit is God's ___",
+   "answer": "Spirit",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The Holy Spirit is our ___",
+   "answer": "guide",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "A guide shows us the ___",
+   "answer": "way",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The Holy Spirit helps us know right from ___",
+   "answer": "wrong",
+   "distractors": [
+    "loud",
+    "dark",
+    "hard"
+   ]
+  },
+  {
+   "stem": "The fruit of the Spirit includes ___",
+   "answer": "love",
+   "distractors": [
+    "anger",
+    "noise",
+    "hate"
+   ]
+  },
+  {
+   "stem": "The fruit of the Spirit includes ___",
+   "answer": "joy",
+   "distractors": [
+    "anger",
+    "noise",
+    "hate"
+   ]
+  },
+  {
+   "stem": "The fruit of the Spirit includes ___",
+   "answer": "peace",
+   "distractors": [
+    "fighting",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "___ means waiting without getting angry",
+   "answer": "Patience",
+   "distractors": [
+    "Anger",
+    "Noise",
+    "Shouting"
+   ]
+  },
+  {
+   "stem": "The ___ gives us gifts",
+   "answer": "Holy Spirit",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Knowing what is right is ___",
+   "answer": "wisdom",
+   "distractors": [
+    "noise",
+    "sleep",
+    "anger"
+   ]
+  },
+  {
+   "stem": "Being brave is ___",
+   "answer": "fortitude",
+   "distractors": [
+    "noise",
+    "sleep",
+    "anger"
+   ]
+  },
+  {
+   "stem": "The gifts are for doing ___",
+   "answer": "good",
+   "distractors": [
+    "harm",
+    "wrong",
+    "noise"
+   ]
+  },
+  {
+   "stem": "We are ___ children",
+   "answer": "God's",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "As God's children we ___ him",
+   "answer": "obey",
+   "distractors": [
+    "ignore",
+    "forget",
+    "chase"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two times Jesus prayed ",
+   "points": [
+    "early in the morning",
+    "in quiet places",
+    "when things were hard"
+   ]
+  },
+  {
+   "stem": "Name two things Jesus did for us ",
+   "points": [
+    "gave his life",
+    "died on the cross",
+    "rose again"
+   ]
+  },
+  {
+   "stem": "Name two things we do in a new life ",
+   "points": [
+    "tell the truth",
+    "share",
+    "help those in need"
+   ]
+  },
+  {
+   "stem": "Name four fruits of the Spirit ",
+   "points": [
+    "love",
+    "joy",
+    "peace",
+    "patience",
+    "kindness",
+    "goodness"
+   ]
+  },
+  {
+   "stem": "Name three gifts of the Holy Spirit ",
+   "points": [
+    "wisdom",
+    "understanding",
+    "counsel",
+    "fortitude",
+    "knowledge"
+   ]
+  },
+  {
+   "stem": "Name two ways the Holy Spirit helps us ",
+   "points": [
+    "knows right from wrong",
+    "helps us pray",
+    "gives us strength"
+   ]
+  },
+  {
+   "stem": "Name three ways we live as God's children ",
+   "points": [
+    "obey God",
+    "love one another",
+    "tell the truth"
+   ]
+  },
+  {
+   "stem": "Name two ways we show love ",
+   "points": [
+    "share",
+    "help",
+    "forgive"
+   ]
+  },
+  {
+   "stem": "Name two things we do to please God ",
+   "points": [
+    "pray",
+    "worship",
+    "help those in need"
+   ]
+  },
+  {
+   "stem": "Name two people Jesus changed ",
+   "points": [
+    "Zacchaeus",
+    "the woman at the well"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Who did Jesus pray to? Name two times he prayed.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What did Jesus do for us on the cross?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What does a new life mean? Name two things we do.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who is the Holy Spirit? Name three gifts of the Holy Spirit.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name four fruits of the Spirit.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

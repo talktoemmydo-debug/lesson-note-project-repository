@@ -1,0 +1,55 @@
+# Basic Digital Literacy — Primary 1 · Second Term · term paper
+subject: Basic Digital Literacy
+class: Primary 1
+term: 2nd Term
+
+[objective]
+The first screen we see is the ___ || desktop || keyboard || mouse || printer
+A small picture that stands for a program is an ___ || icon || key || wire || screen
+The small arrow we move is the ___ || pointer || icon || taskbar || button
+We click an icon to ___ it || open || close || hide || break
+The mouse moves the ___ on the screen || pointer || icon || key || wire
+Pressing the left button once is a ___ || click || drag || type || save
+To move a picture we ___ it || drag || sing || hide || cut
+The keys A to Z are the ___ keys || letter || number || function || arrow
+The key that makes a space is the ___ || space bar || enter key || shift key || backspace
+The key that rubs out a letter is the ___ || backspace || space bar || enter || shift
+The number keys are ___ || 0 to 9 || A to Z || F1 to F12 || red to blue
+We type by pressing the ___ keys || letter || number || arrow || function
+To start a new line we press ___ || enter || space bar || shift || escape
+We type a capital letter with the ___ key || shift || enter || space || backspace
+We open a program by clicking its ___ || icon || wire || key || plug
+A program opens in a ___ || window || box || bag || door
+We ___ our work so we do not lose it || save || hide || cut || lose
+The small ___ at the corner closes a window || x || o || + || −
+The ___ tool draws a thin line || pencil || brush || fill || eraser
+The ___ tool rubs out || eraser || pencil || brush || fill
+The ___ tool colours a shape || fill || pencil || line || brush
+We choose a colour from the ___ box || colour || tool || file || key
+The computer helps us to ___ || learn || sleep || fight || hide
+A ___ teaches us new things || learning program || broken wire || empty box || dark screen
+We use the computer to practise counting and ___ || spelling || sleeping || crying || running
+We use the computer with a ___ near || grown-up || stranger || pet || baby
+We keep our hands clean and ___ || dry || wet || dirty || oily
+We press keys ___ || gently || hard || fast || rough
+We do not talk to ___ online || strangers || teachers || parents || friends
+We sit well and not too close to the ___ || screen || door || wall || floor
+
+[subobjective]
+Name two things on the desktop :: icons | taskbar | pointer | background
+Name two things we do with a mouse :: click | drag | double-click
+Name two special keys on the keyboard :: space bar | enter | shift | backspace
+Name two keys we use when typing :: letter keys | space bar | enter
+Name two things we do with a program :: open | save | close
+Name two drawing tools :: pencil | brush | eraser | fill
+Name two ways the computer helps us learn :: stories | learning games | lessons
+Name two safe habits with the computer :: grown-up near | clean dry hands | press gently
+Name two shapes we can draw :: circle | square | triangle
+Name two things we must not do :: eat near it | pull wires | talk to strangers
+
+[theory]
+What is an icon? || 2
+Name two things we do with a mouse. || 2
+What does the space bar do? || 2
+Name two drawing tools and what each does. || 2
+Say two safe habits with the computer. || 2

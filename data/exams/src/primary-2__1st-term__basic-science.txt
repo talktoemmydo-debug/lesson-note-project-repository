@@ -1,0 +1,55 @@
+# Basic Science — Primary 2 · First Term · term paper
+subject: Basic Science
+class: Primary 2
+term: 1st Term
+
+[objective]
+A thing that has life is a ___ thing || living || non-living || dead || stone
+Living things ___ and grow || breathe || break || burn || melt
+Which of these is a living thing? || a goat || a stone || a table || a chair
+Which of these is a non-living thing? || water || a bird || a tree || a boy
+The part that holds a plant in the ground is the ___ || root || flower || fruit || leaf
+The part that makes food for the plant is the ___ || leaf || root || stem || fruit
+The ___ turns into fruit || flower || root || stem || leaf
+Plants give us food, shade and ___ || air || stone || fire || smoke
+An animal that lives at home is a ___ animal || domestic || wild || fierce || lost
+Which animal lives in water? || fish || goat || dog || bird
+Which animal can fly? || bird || cow || goat || dog
+Animals give us food, milk and ___ || help || stone || fire || smoke
+The part of the body we see with is the ___ || eye || ear || nose || tongue
+The part we hear with is the ___ || ear || eye || hand || leg
+The ___ pumps blood || heart || lung || skin || tooth
+We care for the body by bathing and ___ well || eating || sleeping || crying || shouting
+We have ___ senses || five || two || ten || one
+We see with the ___ || eyes || ears || nose || tongue
+We taste with the ___ || tongue || skin || eye || ear
+We feel with the ___ || skin || nose || eye || tongue
+The body being well and not sick is ___ || health || sickness || hunger || sleep
+We brush our teeth every morning and ___ || night || noon || dawn || dusk
+We wash our hands before ___ || eating || sleeping || running || singing
+Germs cause ___ || sickness || health || strength || joy
+We ___ air to live || breathe || eat || burn || break
+Moving air is called ___ || wind || water || fire || smoke
+We use water to bathe, cook and ___ || wash || burn || break || hide
+We keep water ___ || clean || dirty || hot || dark
+How the air is at a time is the ___ || weather || season || water || food
+When water falls from the sky, it is ___ || rainy || sunny || windy || cloudy
+
+[subobjective]
+Name two living things :: a man | a goat | a tree | a bird
+Name two non-living things :: a stone | a table | water | a chair
+Name two parts of a plant :: root | stem | leaf | flower | fruit
+Name two animals that live at home :: dog | cat | goat | cow
+Name two animals that live in water :: fish | crab
+Name two parts of the body :: head | hand | leg | eye | ear
+Name the five senses :: sight | hearing | smell | taste | touch
+Name two ways to keep the body clean :: bathing | brushing teeth | washing hands
+Name two uses of water :: drinking | bathing | cooking | washing
+Name two types of weather :: sunny | rainy | windy | cloudy
+
+[theory]
+What is a living thing? Name one. || 2
+Name the parts of a plant. || 2
+Name two animals that live at home and two that live in water. || 2
+Name the five senses. || 2
+Name the two seasons in Nigeria. || 2

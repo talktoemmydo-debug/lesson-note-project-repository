@@ -1,0 +1,386 @@
+{
+ "subject": "Mathematics & English · LITERACY (Language Domain)",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Letters that are not vowels are called ___",
+   "answer": "consonants",
+   "distractors": [
+    "numbers",
+    "names",
+    "sounds"
+   ]
+  },
+  {
+   "stem": "The vowel in the word \"cat\" is ___",
+   "answer": "a",
+   "distractors": [
+    "c",
+    "t",
+    "none"
+   ]
+  },
+  {
+   "stem": "Which of these words has two vowels?",
+   "answer": "book",
+   "distractors": [
+    "cat",
+    "dog",
+    "pen"
+   ]
+  },
+  {
+   "stem": "A letter that sometimes works as a vowel is ___",
+   "answer": "y",
+   "distractors": [
+    "b",
+    "k",
+    "t"
+   ]
+  },
+  {
+   "stem": "The sound /d/ is the first sound in ___",
+   "answer": "dog",
+   "distractors": [
+    "owl",
+    "sun",
+    "fan"
+   ]
+  },
+  {
+   "stem": "The letters d, a, i, m are four ___",
+   "answer": "sounds we learnt to blend",
+   "distractors": [
+    "words we learnt to read",
+    "names of colours",
+    "signs in sums"
+   ]
+  },
+  {
+   "stem": "d-i-m spells ___",
+   "answer": "dim",
+   "distractors": [
+    "mid",
+    "mad",
+    "dam"
+   ]
+  },
+  {
+   "stem": "\"mum\" begins with the sound ___",
+   "answer": "/m/",
+   "distractors": [
+    "/n/",
+    "/u/",
+    "/a/"
+   ]
+  },
+  {
+   "stem": "A sight word is a word that ___",
+   "answer": "I read at once, without sounding it out",
+   "distractors": [
+    "must be sounded out every single time",
+    "is always the name of a person",
+    "has no fewer than six letters"
+   ]
+  },
+  {
+   "stem": "The word that points at the person being spoken to is ___",
+   "answer": "you",
+   "distractors": [
+    "me",
+    "her",
+    "it"
+   ]
+  },
+  {
+   "stem": "\"We\" means ___",
+   "answer": "me and other people together",
+   "distractors": [
+    "only myself, and nobody else",
+    "one girl or one woman",
+    "a thing that I put on"
+   ]
+  },
+  {
+   "stem": "A sight word that is about a girl or a woman is ___",
+   "answer": "her",
+   "distractors": [
+    "we",
+    "you",
+    "go"
+   ]
+  },
+  {
+   "stem": "The word that is always written big, even in the middle of a sentence, is ___",
+   "answer": "I",
+   "distractors": [
+    "a",
+    "go",
+    "car"
+   ]
+  },
+  {
+   "stem": "\"car\" is a ___",
+   "answer": "thing (noun)",
+   "distractors": [
+    "doing word (verb)",
+    "sound",
+    "letter"
+   ]
+  },
+  {
+   "stem": "Which sentence is written in the right order?",
+   "answer": "I go in the car.",
+   "distractors": [
+    "Go I car in.",
+    "Car I in go.",
+    "In car go I."
+   ]
+  },
+  {
+   "stem": "The most common word in English is ___",
+   "answer": "the",
+   "distractors": [
+    "car",
+    "go",
+    "her"
+   ]
+  },
+  {
+   "stem": "\"They\" is a word that points to ___",
+   "answer": "more people or things already spoken of",
+   "distractors": [
+    "one single thing that is near me",
+    "myself and my own name only",
+    "the place where I sleep at night"
+   ]
+  },
+  {
+   "stem": "A digraph is ___",
+   "answer": "two letters that make one sound",
+   "distractors": [
+    "two sounds in one letter",
+    "a word of six letters",
+    "a capital letter"
+   ]
+  },
+  {
+   "stem": "The digraph at the end of \"duck\" is ___",
+   "answer": "ck",
+   "distractors": [
+    "th",
+    "sh",
+    "wh"
+   ]
+  },
+  {
+   "stem": "In the word \"think\", the first sound is ___",
+   "answer": "/th/ with the voice switched off",
+   "distractors": [
+    "/t/ with a hard kick of air",
+    "/f/ made with the lips",
+    "/s/ drawn out at the end"
+   ]
+  },
+  {
+   "stem": "The two letters in \"what\" are ___",
+   "answer": "wh",
+   "distractors": [
+    "ch",
+    "sh",
+    "ck"
+   ]
+  },
+  {
+   "stem": "\"ph\" is pronounced like ___",
+   "answer": "/f/",
+   "distractors": [
+    "/p/",
+    "/ph/",
+    "/v/"
+   ]
+  },
+  {
+   "stem": "The digraph in \"much\" is ___",
+   "answer": "ch",
+   "distractors": [
+    "sh",
+    "th",
+    "ck"
+   ]
+  },
+  {
+   "stem": "The correct spelling of the picture-taking machine is ___",
+   "answer": "phone",
+   "distractors": [
+    "fone",
+    "phoan",
+    "pone"
+   ]
+  },
+  {
+   "stem": "Photo, she and chart each contain ___",
+   "answer": "a digraph",
+   "distractors": [
+    "a blend",
+    "two vowels",
+    "six letters"
+   ]
+  },
+  {
+   "stem": "In the blend \"pl\" I hear ___",
+   "answer": "both sounds: /p/ and then /l/",
+   "distractors": [
+    "the sound /p/ only, with /l/ silent",
+    "the sound /l/ only, with /p/ silent",
+    "no sound at all"
+   ]
+  },
+  {
+   "stem": "A blend is different from a digraph because in a blend ___",
+   "answer": "each consonant is still heard",
+   "distractors": [
+    "the letters are silent",
+    "a vowel replaces them",
+    "only one letter is written"
+   ]
+  },
+  {
+   "stem": "\"greet\" begins with the blend ___",
+   "answer": "gr",
+   "distractors": [
+    "g",
+    "r",
+    "ee"
+   ]
+  },
+  {
+   "stem": "\"fly\" begins with the blend ___",
+   "answer": "fl",
+   "distractors": [
+    "f",
+    "y",
+    "ly"
+   ]
+  },
+  {
+   "stem": "My sight words at the end of the term are ___",
+   "answer": "thirteen",
+   "distractors": [
+    "four",
+    "seven",
+    "twenty-one"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Write the five vowels and say how many consonants there are. ",
+   "points": [
+    "a e i o u",
+    "21 consonants"
+   ]
+  },
+  {
+   "stem": "Count the vowels in the word \"banana\" and say which they are. ",
+   "points": [
+    "three of them",
+    "a, a, a"
+   ]
+  },
+  {
+   "stem": "Blend these and write the words: d-a-d, m-a-n, s-u-n. ",
+   "points": [
+    "dad",
+    "man",
+    "sun"
+   ]
+  },
+  {
+   "stem": "Read and copy: \"I see her car.\" and \"They go with them.\" ",
+   "points": [
+    "correct",
+    "copying",
+    "of",
+    "both",
+    "sentences"
+   ]
+  },
+  {
+   "stem": "Name the four sight words learnt in Week 3 and the three learnt in Week 6. ",
+   "points": [
+    "you, me, her, we",
+    "the, this, they"
+   ]
+  },
+  {
+   "stem": "Underline every digraph in this line: \"They took the black clock home.\" ",
+   "points": [
+    "th (they, the)",
+    "ck (black, clock)"
+   ]
+  },
+  {
+   "stem": "Write two words each with th, ck, wh, ph, sh and ch. ",
+   "points": [
+    "any correct pairs: this/think",
+    "back/duck",
+    "what/when",
+    "phone/photo",
+    "ship/fish",
+    "chair/much"
+   ]
+  },
+  {
+   "stem": "Name the three blends of Week 9 and one word for each. ",
+   "points": [
+    "pl — play",
+    "fl — fly",
+    "gr — greet"
+   ]
+  },
+  {
+   "stem": "Say a sentence using \"this\" and a sentence using \"they\". ",
+   "points": [
+    "This is the fan.",
+    "They see me. (any correct use)"
+   ]
+  },
+  {
+   "stem": "Mention two rules for reading a sentence well. ",
+   "points": [
+    "read aloud, slowly",
+    "mouth open, left to right",
+    "go back to the word you did not know"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write the difference between a vowel and a consonant and give five examples of each",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write five sight words and use three of them in sentences",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain what a digraph is and write six words that carry one",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain the difference between a digraph and a blend, with two examples of each",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write two sentences about your family using only words you can read from memory",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

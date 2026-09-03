@@ -1,0 +1,55 @@
+# Yoruba — Primary 1 · First Term · term paper
+subject: Yoruba
+class: Primary 1
+term: 1st Term
+
+[objective]
+Good morning in Yoruba is ___ || Ẹ kú àárọ̀ || Ẹ kú irọ́lẹ́ || Ọ̀dábọ̀ || È kú oríre
+"Báwo ni?" means || how are you || good night || thank you || welcome
+A boy greets by ___ down || kneeling || jumping || running || sitting
+What does "Àláàfíà" mean? || fine || angry || tired || sorry
+What does "Ẹbí" mean? || family || school || market || road
+What does "Bàbá" mean? || father || mother || uncle || friend
+What does "Ìyá" mean? || mother || sister || aunt || girl
+What does "Ẹ̀gbọ́n" mean? || elder sibling || baby || dog || stone
+What does "Orí" mean? || head || hand || leg || ear
+What does "Ojú" mean? || eye || nose || mouth || hair
+What does "Ọwọ́" mean? || hand || foot || tooth || ear
+What does "Etí" mean? || ear || eye || leg || head
+What does "Ọ̀kan" mean? || one || two || ten || five
+What does "Èjì" mean? || two || three || one || four
+What does "Ẹ̀wá" mean? || ten || nine || six || seven
+What does "Ẹ̀ta" mean? || three || four || two || eight
+What does "Pupa" mean? || red || blue || green || white
+What does "Dúdú" mean? || black || white || yellow || blue
+What does "Funfun" mean? || white || red || green || black
+Grass is ___ || green || red || black || blue
+What does "Ọjọ́ Àìkú" mean? || Sunday || Monday || Friday || Saturday
+What does "Ọjọ́ Ajé" mean? || Monday || Sunday || Tuesday || Friday
+What does "Ọjọ́ Ẹtì" mean? || Friday || Monday || Wednesday || Sunday
+There are ___ days in a week || seven || five || ten || three
+What does "Ilé" mean? || house || road || tree || sky
+What does "Ilẹ̀kùn" mean? || door || window || bed || pot
+What does "Àga" mean? || chair || table || roof || floor
+What does "Ajá" mean? || dog || cat || goat || cow
+What does "Ológbò" mean? || cat || dog || horse || lion
+What does "Màlúù" mean? || cow || goat || sheep || hen
+
+[subobjective]
+Name two Yoruba greetings :: Ẹ kú àárọ̀ | Ẹ kú ọ̀sán | Ẹ kú irọ́lẹ́
+Name two members of the family in Yoruba :: bàbá | ìyá | ẹ̀gbọ́n
+Name two parts of the body in Yoruba :: orí | ojú | ọwọ́
+Name two numbers in Yoruba :: ọ̀kan | èjì | ẹ̀wá
+Name two colours in Yoruba :: pupa | dúdú | funfun
+Name two days of the week in Yoruba :: Ọjọ́ Àìkú | Ọjọ́ Ajé | Ọjọ́ Ẹtì
+Name two things in the home in Yoruba :: ilé | ilẹ̀kùn | àga
+Name two animals in Yoruba :: ajá | ológbò | adìẹ
+Name two ways to greet with respect :: kneeling | using Ẹ kú | smiling
+Name two things that keep the body clean :: bathing | washing hands | brushing teeth
+
+[theory]
+Say "good morning" in Yoruba. || 2
+Name two members of your family in Yoruba. || 2
+Count from one to five in Yoruba. || 2
+Name two colours in Yoruba. || 2
+Name two animals in Yoruba. || 2

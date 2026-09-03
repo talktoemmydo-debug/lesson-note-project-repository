@@ -1,0 +1,55 @@
+# Basic Science — Primary 1 · Third Term · term paper
+subject: Basic Science
+class: Primary 1
+term: 3rd Term
+
+[objective]
+Energy is the power to do ___ || work || sleep || nothing || harm
+The biggest source of energy is the ___ || sun || moon || star || stone
+Food gives our body ___ || energy || water || dust || sleep
+A ___ gives energy to a torch || battery || stone || leaf || cloth
+A push moves a thing ___ from us || away || towards || under || over
+A pull moves a thing ___ us || towards || away || beside || behind
+A push or a pull is a ___ || force || song || colour || sound
+We ___ a door to close it || push || pull || sing || hide
+A tool that makes work easier is a ___ || machine || stone || song || game
+A ___ helps us to push a thing up || ramp || song || leaf || cloud
+A ___ helps a thing to roll || wheel || rope || nail || stick
+A see-saw is a ___ || lever || pulley || knife || ramp
+Living things ___ and change || grow || shrink || stop || hide
+A seed grows into a ___ || plant || stone || bird || fish
+An egg hatches into a ___ || chick || dog || seed || stone
+Growth needs good food and ___ || water || smoke || dust || noise
+Electricity lights the ___ || bulb || stone || leaf || cloth
+Electricity comes through ___ || wires || ropes || strings || threads
+We do not put our fingers in a ___ || socket || cup || bag || box
+We keep ___ away from electric things || water || air || light || sound
+A magnet attracts iron and ___ || steel || wood || paper || plastic
+A magnet does not attract ___ || wood || iron || steel || a pin
+The pulling power of a magnet is ___ || magnetism || gravity || force || light
+A magnet has two ends called ___ || poles || sides || corners || edges
+A thing we no longer need is ___ || waste || food || money || a friend
+We put waste in the ___ || dustbin || river || road || desk
+To make waste into new things is to ___ || recycle || burn || hide || lose
+All that is around us is the ___ || environment || dream || song || noise
+We keep the environment clean by not ___ || littering || singing || sleeping || crying
+A dirty environment breeds germs and ___ || flies || flowers || songs || stars
+
+[subobjective]
+Name two sources of energy :: sun | fire | battery | food | electricity
+Name two things you push or pull :: door | trolley | rope | chair
+Name two simple machines :: lever | ramp | pulley | wheel
+Name two things that help us grow :: food | water | rest | care
+Name two things that use electricity :: bulb | fan | television
+Name two things a magnet attracts :: iron | steel | nail | pin
+Name two things we can recycle :: paper | plastic | metal
+Name two ways to care for the environment :: not littering | planting trees | not wasting water
+Name two parts of the environment :: air | water | land | plants | animals
+Name two things a force can do :: move a thing | stop a thing
+
+[theory]
+What is energy? Name two sources. || 2
+What is the difference between a push and a pull? || 2
+Name two simple machines and what each does. || 2
+What does a magnet attract? || 2
+Name two ways to care for our environment. || 2

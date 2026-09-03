@@ -1,0 +1,398 @@
+{
+ "subject": "Basic Digital Literacy",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "A digital device is a machine that works with ___",
+   "answer": "electricity and shows things on a screen",
+   "distractors": [
+    "fire and shows things on a wall",
+    "water and keeps things in a pot",
+    "rope and pulls things up a hill"
+   ]
+  },
+  {
+   "stem": "This one is NOT a digital device ___",
+   "answer": "a wooden broom",
+   "distractors": [
+    "a tablet",
+    "a smart watch",
+    "a camera"
+   ]
+  },
+  {
+   "stem": "The device used for taking pictures is a ___",
+   "answer": "camera",
+   "distractors": [
+    "kettle",
+    "fan",
+    "broom"
+   ]
+  },
+  {
+   "stem": "A tablet is different from a desktop because it is ___",
+   "answer": "flat, light and touched with the finger",
+   "distractors": [
+    "big, heavy and fixed on a table",
+    "sold only inside a bank",
+    "made of wood and of cloth"
+   ]
+  },
+  {
+   "stem": "A computer is big and has a screen, keys and a ___",
+   "answer": "mouse",
+   "distractors": [
+    "spoon",
+    "plate",
+    "broom"
+   ]
+  },
+  {
+   "stem": "A machine that opens and shuts like a book, with a battery, is a ___",
+   "answer": "laptop",
+   "distractors": [
+    "desktop",
+    "typewriter",
+    "television"
+   ]
+  },
+  {
+   "stem": "The smallest and lightest computer to carry is the ___",
+   "answer": "tablet",
+   "distractors": [
+    "desktop",
+    "printer",
+    "CPU box"
+   ]
+  },
+  {
+   "stem": "The part that shows pictures, letters and numbers is the ___",
+   "answer": "monitor",
+   "distractors": [
+    "keyboard",
+    "mouse",
+    "speaker"
+   ]
+  },
+  {
+   "stem": "We press keys to put information into the computer with the ___",
+   "answer": "keyboard",
+   "distractors": [
+    "monitor",
+    "printer",
+    "CPU"
+   ]
+  },
+  {
+   "stem": "The part held in the hand that moves the arrow on the screen is the ___",
+   "answer": "mouse",
+   "distractors": [
+    "keyboard",
+    "CPU box",
+    "speaker"
+   ]
+  },
+  {
+   "stem": "The machine that puts the picture or letter out on paper is a ___",
+   "answer": "printer",
+   "distractors": [
+    "scanner",
+    "mouse",
+    "monitor"
+   ]
+  },
+  {
+   "stem": "A computer in the bank is used to ___",
+   "answer": "count money and print a receipt",
+   "distractors": [
+    "cook food for the workers",
+    "water the plants outside",
+    "sweep the floor of the hall"
+   ]
+  },
+  {
+   "stem": "The price of goods in a shop is read by a ___",
+   "answer": "machine that reads the price",
+   "distractors": [
+    "pencil and paper only",
+    "radio",
+    "fan"
+   ]
+  },
+  {
+   "stem": "Time on a device should be shared between learning and ___",
+   "answer": "play, with a limit on play",
+   "distractors": [
+    "sleeping, with no limit",
+    "fighting, with a limit",
+    "cooking, with no limit"
+   ]
+  },
+  {
+   "stem": "Water inside a device ___",
+   "answer": "spoils it for good",
+   "distractors": [
+    "makes it faster",
+    "cleans the screen",
+    "charges the battery"
+   ]
+  },
+  {
+   "stem": "A laptop should be carried ___",
+   "answer": "closed in two hands inside a padded bag",
+   "distractors": [
+    "open in only one small hand",
+    "by its long wire, dragged along",
+    "with the screen facing downward"
+   ]
+  },
+  {
+   "stem": "The cable is taken out of the socket by holding ___",
+   "answer": "the plug itself",
+   "distractors": [
+    "the wire, pulled hard",
+    "the screen",
+    "the chair"
+   ]
+  },
+  {
+   "stem": "Before we switch off, we save the work and ___",
+   "answer": "shut the programme, then kill the power",
+   "distractors": [
+    "pull the cable out in a hurry",
+    "take the keyboard right away",
+    "shake the monitor once or twice"
+   ]
+  },
+  {
+   "stem": "The room in the school where many computers are kept is the ___",
+   "answer": "computer lab",
+   "distractors": [
+    "computer kitchen",
+    "computer store",
+    "computer chapel"
+   ]
+  },
+  {
+   "stem": "In the lab we move about by ___",
+   "answer": "walking carefully",
+   "distractors": [
+    "running fast",
+    "sliding on the floor",
+    "climbing the desks"
+   ]
+  },
+  {
+   "stem": "If a machine gives smoke or a bad smell, we ___",
+   "answer": "leave it and tell the teacher at once",
+   "distractors": [
+    "pour cold water on the machine",
+    "press every key on the keyboard",
+    "hide it under the desk"
+   ]
+  },
+  {
+   "stem": "Long ago, people counted with stones and with a frame of sliding beads called a(n) ___",
+   "answer": "abacus",
+   "distractors": [
+    "laptop",
+    "monitor",
+    "printer"
+   ]
+  },
+  {
+   "stem": "The first machines used parts that glowed and grew hot called ___",
+   "answer": "vacuum tubes",
+   "distractors": [
+    "microchips",
+    "tablets",
+    "printers"
+   ]
+  },
+  {
+   "stem": "The tiny part that replaced the hot vacuum tube was the ___",
+   "answer": "transistor",
+   "distractors": [
+    "abacus bead",
+    "candle",
+    "keyboard"
+   ]
+  },
+  {
+   "stem": "Computers became ___",
+   "answer": "smaller, faster and cheaper",
+   "distractors": [
+    "bigger, slower and dearer",
+    "smaller, slower and dearer",
+    "bigger, faster and cheaper"
+   ]
+  },
+  {
+   "stem": "The machine built by Babbage to work out tables of numbers without mistakes was the ___",
+   "answer": "Difference Engine",
+   "distractors": [
+    "Printing press",
+    "Steam engine",
+    "Spinning jenny"
+   ]
+  },
+  {
+   "stem": "Babbage's plans could not be built fully because the ___",
+   "answer": "workshop of his day could not make such parts",
+   "distractors": [
+    "the money he had for the metal parts",
+    "the plans he drew on his paper only",
+    "the numbers he wrote in his log book"
+   ]
+  },
+  {
+   "stem": "A set of written instructions for a machine is called a ___",
+   "answer": "programme",
+   "distractors": [
+    "pillow",
+    "parcel",
+    "poster"
+   ]
+  },
+  {
+   "stem": "A computer language was named after ___",
+   "answer": "Ada Lovelace",
+   "distractors": [
+    "the monitor",
+    "Babbage's town",
+    "the abacus"
+   ]
+  },
+  {
+   "stem": "\"A device is a servant, not a ___",
+   "answer": "master",
+   "distractors": [
+    "toy",
+    "book",
+    "chair\""
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Mention five digital devices you know. ",
+   "points": [
+    "computer",
+    "tablet",
+    "smartphone",
+    "smart watch",
+    "camera"
+   ]
+  },
+  {
+   "stem": "State three things a smartphone does. ",
+   "points": [
+    "calls",
+    "photographs",
+    "plays music"
+   ]
+  },
+  {
+   "stem": "Name the four basic parts of a computer. ",
+   "points": [
+    "monitor",
+    "keyboard",
+    "mouse",
+    "CPU"
+   ]
+  },
+  {
+   "stem": "Say what each of these is used for: monitor and CPU. ",
+   "points": [
+    "the",
+    "monitor",
+    "shows",
+    "work;",
+    "the",
+    "CPU",
+    "does",
+    "the",
+    "thinking"
+   ]
+  },
+  {
+   "stem": "Mention three places where a computer is used. ",
+   "points": [
+    "bank",
+    "hospital",
+    "school",
+    "shop",
+    "home"
+   ]
+  },
+  {
+   "stem": "Give four rules for caring for a device. ",
+   "points": [
+    "keep food and drink away",
+    "wipe with a soft dry cloth",
+    "carry with two hands",
+    "do not drop or hit it"
+   ]
+  },
+  {
+   "stem": "State three safety rules of the computer lab. ",
+   "points": [
+    "walk, do not run",
+    "no food or drink on the desk",
+    "do not touch cables or sockets"
+   ]
+  },
+  {
+   "stem": "Name the three kinds of computer we learnt. ",
+   "points": [
+    "desktop",
+    "laptop",
+    "tablet"
+   ]
+  },
+  {
+   "stem": "Mention three uses of the abacus or old counting things. ",
+   "points": [
+    "counting in markets",
+    "adding beads up",
+    "taking away beads down",
+    "school counting"
+   ]
+  },
+  {
+   "stem": "Say two things about Babbage and Ada Lovelace. ",
+   "points": [
+    "Babbage designed the Analytical Engine and the Difference Engine",
+    "Ada wrote the first programme"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Explain what technology means and give four devices at home that are digital",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe how you care for a tablet or a laptop, in four points",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on the rules of the computer lab",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Tell what happens from the keyboard to the monitor when you type",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on what you learnt about the change of computers from the abacus to today",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

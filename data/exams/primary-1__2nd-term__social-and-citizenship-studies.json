@@ -1,0 +1,390 @@
+{
+ "subject": "Social and Citizenship Studies",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A person who lives near me is my ___",
+   "answer": "neighbour",
+   "distractors": [
+    "stranger",
+    "pet",
+    "tool"
+   ]
+  },
+  {
+   "stem": "A friend is someone I like and ___ with",
+   "answer": "play",
+   "distractors": [
+    "fight",
+    "hide",
+    "lose"
+   ]
+  },
+  {
+   "stem": "Friends and neighbours ___ one another",
+   "answer": "help",
+   "distractors": [
+    "hit",
+    "hate",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ our neighbours",
+   "answer": "greet",
+   "distractors": [
+    "chase",
+    "fear",
+    "forget"
+   ]
+  },
+  {
+   "stem": "The bigger family with uncles and aunts is the ___ family",
+   "answer": "extended",
+   "distractors": [
+    "small",
+    "school",
+    "class"
+   ]
+  },
+  {
+   "stem": "My uncle's children are my ___",
+   "answer": "cousins",
+   "distractors": [
+    "brothers",
+    "parents",
+    "neighbours"
+   ]
+  },
+  {
+   "stem": "My grandparents are my parents' ___",
+   "answer": "parents",
+   "distractors": [
+    "children",
+    "cousins",
+    "friends"
+   ]
+  },
+  {
+   "stem": "We greet and respect our ___",
+   "answer": "elders",
+   "distractors": [
+    "pets",
+    "toys",
+    "shoes"
+   ]
+  },
+  {
+   "stem": "A person who guides others is a ___",
+   "answer": "leader",
+   "distractors": [
+    "stranger",
+    "baby",
+    "thief"
+   ]
+  },
+  {
+   "stem": "The ___ leads the school",
+   "answer": "head teacher",
+   "distractors": [
+    "class captain",
+    "doctor",
+    "farmer"
+   ]
+  },
+  {
+   "stem": "The head of a town is the traditional ___",
+   "answer": "ruler",
+   "distractors": [
+    "pupil",
+    "trader",
+    "driver"
+   ]
+  },
+  {
+   "stem": "Leaders keep peace and ___",
+   "answer": "order",
+   "distractors": [
+    "noise",
+    "fight",
+    "dust"
+   ]
+  },
+  {
+   "stem": "My country is ___",
+   "answer": "Nigeria",
+   "distractors": [
+    "Ghana",
+    "Egypt",
+    "Kenya"
+   ]
+  },
+  {
+   "stem": "Nigeria is in ___ Africa",
+   "answer": "West",
+   "distractors": [
+    "East",
+    "North",
+    "South"
+   ]
+  },
+  {
+   "stem": "The capital of Nigeria is ___",
+   "answer": "Abuja",
+   "distractors": [
+    "Lagos",
+    "Kano",
+    "Ibadan"
+   ]
+  },
+  {
+   "stem": "The Nigerian flag is green, white and ___",
+   "answer": "green",
+   "distractors": [
+    "red",
+    "blue",
+    "black"
+   ]
+  },
+  {
+   "stem": "Something I ought to have is a ___",
+   "answer": "right",
+   "distractors": [
+    "toy",
+    "game",
+    "song"
+   ]
+  },
+  {
+   "stem": "Something I ought to do is a ___",
+   "answer": "duty",
+   "distractors": [
+    "gift",
+    "prize",
+    "treat"
+   ]
+  },
+  {
+   "stem": "A child has the right to ___ and go to school",
+   "answer": "learn",
+   "distractors": [
+    "fight",
+    "hide",
+    "steal"
+   ]
+  },
+  {
+   "stem": "My duty is to ___ my parents and teachers",
+   "answer": "obey",
+   "distractors": [
+    "ignore",
+    "chase",
+    "forget"
+   ]
+  },
+  {
+   "stem": "Honesty means telling the ___",
+   "answer": "truth",
+   "distractors": [
+    "lie",
+    "story",
+    "secret"
+   ]
+  },
+  {
+   "stem": "An honest person does not ___",
+   "answer": "lie",
+   "distractors": [
+    "help",
+    "share",
+    "greet"
+   ]
+  },
+  {
+   "stem": "An honest person does not ___",
+   "answer": "steal",
+   "distractors": [
+    "work",
+    "pray",
+    "sing"
+   ]
+  },
+  {
+   "stem": "We return what is not ___",
+   "answer": "ours",
+   "distractors": [
+    "theirs",
+    "his",
+    "hers"
+   ]
+  },
+  {
+   "stem": "Doing what I am told is ___",
+   "answer": "obedience",
+   "distractors": [
+    "anger",
+    "noise",
+    "play"
+   ]
+  },
+  {
+   "stem": "Treating others well is ___",
+   "answer": "respect",
+   "distractors": [
+    "fighting",
+    "hiding",
+    "losing"
+   ]
+  },
+  {
+   "stem": "I obey my parents, teachers and ___",
+   "answer": "leaders",
+   "distractors": [
+    "thieves",
+    "strangers",
+    "nobody"
+   ]
+  },
+  {
+   "stem": "A thing that belongs to everyone is ___ property",
+   "answer": "public",
+   "distractors": [
+    "private",
+    "broken",
+    "lost"
+   ]
+  },
+  {
+   "stem": "We do not ___ public property",
+   "answer": "damage",
+   "distractors": [
+    "clean",
+    "use",
+    "paint"
+   ]
+  },
+  {
+   "stem": "We keep public places ___",
+   "answer": "clean",
+   "distractors": [
+    "dirty",
+    "loud",
+    "dark"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two ways we treat friends well ",
+   "points": [
+    "sharing",
+    "helping",
+    "speaking kindly"
+   ]
+  },
+  {
+   "stem": "Name two members of the extended family ",
+   "points": [
+    "uncle",
+    "aunt",
+    "cousin",
+    "grandparent"
+   ]
+  },
+  {
+   "stem": "Name two leaders in the community ",
+   "points": [
+    "traditional ruler",
+    "head teacher",
+    "religious leader"
+   ]
+  },
+  {
+   "stem": "Name two things about Nigeria ",
+   "points": [
+    "flag",
+    "naira",
+    "Abuja",
+    "West Africa"
+   ]
+  },
+  {
+   "stem": "Name two rights of a child ",
+   "points": [
+    "a name",
+    "food",
+    "shelter",
+    "to learn"
+   ]
+  },
+  {
+   "stem": "Name two duties of a child ",
+   "points": [
+    "obey",
+    "learn well",
+    "help at home"
+   ]
+  },
+  {
+   "stem": "Name two things an honest person does not do ",
+   "points": [
+    "lie",
+    "steal",
+    "cheat"
+   ]
+  },
+  {
+   "stem": "Name two ways we show respect ",
+   "points": [
+    "greeting elders",
+    "saying please and thank you"
+   ]
+  },
+  {
+   "stem": "Name two public properties ",
+   "points": [
+    "school",
+    "road",
+    "bridge",
+    "park",
+    "street light"
+   ]
+  },
+  {
+   "stem": "Name two people we obey ",
+   "points": [
+    "parents",
+    "teachers",
+    "leaders"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Who is a neighbour?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two members of the extended family.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the capital of Nigeria, and what colour is the flag?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two rights and two duties of a child.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is public property? Name one.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

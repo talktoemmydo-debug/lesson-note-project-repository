@@ -1,0 +1,387 @@
+{
+ "subject": "Prevocational Studies",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Pre-vocational studies is learning simple work with our ___",
+   "answer": "hands",
+   "distractors": [
+    "feet",
+    "ears",
+    "eyes"
+   ]
+  },
+  {
+   "stem": "A farmer grows crops and keeps ___",
+   "answer": "animals",
+   "distractors": [
+    "stones",
+    "cars",
+    "books"
+   ]
+  },
+  {
+   "stem": "A tailor sews ___",
+   "answer": "clothes",
+   "distractors": [
+    "roads",
+    "trees",
+    "water"
+   ]
+  },
+  {
+   "stem": "A carpenter works with ___",
+   "answer": "wood",
+   "distractors": [
+    "sky",
+    "air",
+    "sand"
+   ]
+  },
+  {
+   "stem": "We dig and weed with a ___",
+   "answer": "hoe",
+   "distractors": [
+    "spoon",
+    "pen",
+    "comb"
+   ]
+  },
+  {
+   "stem": "We water plants with a ___ can",
+   "answer": "watering",
+   "distractors": [
+    "eating",
+    "flying",
+    "sleeping"
+   ]
+  },
+  {
+   "stem": "We gather leaves with a ___",
+   "answer": "rake",
+   "distractors": [
+    "cup",
+    "book",
+    "fan"
+   ]
+  },
+  {
+   "stem": "We handle sharp tools with ___",
+   "answer": "care",
+   "distractors": [
+    "haste",
+    "anger",
+    "noise"
+   ]
+  },
+  {
+   "stem": "A crop is a plant we grow for ___",
+   "answer": "food",
+   "distractors": [
+    "stones",
+    "noise",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "Which is a fruit?",
+   "answer": "mango",
+   "distractors": [
+    "stone",
+    "sand",
+    "wood"
+   ]
+  },
+  {
+   "stem": "We give a plant ___ to grow well",
+   "answer": "water",
+   "distractors": [
+    "oil",
+    "ink",
+    "dust"
+   ]
+  },
+  {
+   "stem": "We gather crops when they are ___",
+   "answer": "ripe",
+   "distractors": [
+    "dry",
+    "old",
+    "lost"
+   ]
+  },
+  {
+   "stem": "Animals we keep at home are ___ animals",
+   "answer": "domestic",
+   "distractors": [
+    "wild",
+    "fish",
+    "stone"
+   ]
+  },
+  {
+   "stem": "A hen gives us ___",
+   "answer": "eggs",
+   "distractors": [
+    "wood",
+    "stone",
+    "ink"
+   ]
+  },
+  {
+   "stem": "A cow gives us ___",
+   "answer": "milk",
+   "distractors": [
+    "sand",
+    "oil",
+    "paper"
+   ]
+  },
+  {
+   "stem": "We keep an animal's pen ___",
+   "answer": "clean",
+   "distractors": [
+    "dirty",
+    "broken",
+    "wet"
+   ]
+  },
+  {
+   "stem": "Before cooking we ___ the food",
+   "answer": "wash",
+   "distractors": [
+    "hide",
+    "break",
+    "lose"
+   ]
+  },
+  {
+   "stem": "We cook food with ___",
+   "answer": "heat",
+   "distractors": [
+    "dust",
+    "ink",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Before touching food we wash our ___",
+   "answer": "hands",
+   "distractors": [
+    "shoes",
+    "hair",
+    "books"
+   ]
+  },
+  {
+   "stem": "We cover food to keep it safe from ___",
+   "answer": "flies",
+   "distractors": [
+    "songs",
+    "stars",
+    "rain only"
+   ]
+  },
+  {
+   "stem": "We clean the floor by ___ it",
+   "answer": "sweeping",
+   "distractors": [
+    "hiding",
+    "breaking",
+    "losing"
+   ]
+  },
+  {
+   "stem": "We wash plates after ___",
+   "answer": "eating",
+   "distractors": [
+    "sleeping",
+    "running",
+    "crying"
+   ]
+  },
+  {
+   "stem": "A clean home keeps ___ away",
+   "answer": "germs",
+   "distractors": [
+    "food",
+    "music",
+    "light"
+   ]
+  },
+  {
+   "stem": "A craft is something we make with our ___",
+   "answer": "hands",
+   "distractors": [
+    "feet",
+    "ears",
+    "nose"
+   ]
+  },
+  {
+   "stem": "We mould a pot with ___",
+   "answer": "clay",
+   "distractors": [
+    "water",
+    "air",
+    "sand"
+   ]
+  },
+  {
+   "stem": "We make a basket by ___ strands",
+   "answer": "weaving",
+   "distractors": [
+    "hiding",
+    "breaking",
+    "losing"
+   ]
+  },
+  {
+   "stem": "Crafts are useful and ___",
+   "answer": "beautiful",
+   "distractors": [
+    "dirty",
+    "broken",
+    "heavy"
+   ]
+  },
+  {
+   "stem": "We work carefully and without ___",
+   "answer": "rushing",
+   "distractors": [
+    "resting",
+    "eating",
+    "singing"
+   ]
+  },
+  {
+   "stem": "After working we wash our ___",
+   "answer": "hands",
+   "distractors": [
+    "shoes",
+    "books",
+    "chairs"
+   ]
+  },
+  {
+   "stem": "A plant that grows where we do not want it is a ___",
+   "answer": "weed",
+   "distractors": [
+    "tree",
+    "flower",
+    "fruit"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two simple farm tools ",
+   "points": [
+    "hoe",
+    "watering can",
+    "rake"
+   ]
+  },
+  {
+   "stem": "Name two crops we grow ",
+   "points": [
+    "maize",
+    "yam",
+    "rice",
+    "cassava"
+   ]
+  },
+  {
+   "stem": "Name two animals we keep ",
+   "points": [
+    "goat",
+    "chicken",
+    "cow"
+   ]
+  },
+  {
+   "stem": "Name two things animals give us ",
+   "points": [
+    "eggs",
+    "milk",
+    "meat"
+   ]
+  },
+  {
+   "stem": "Name two simple foods we prepare ",
+   "points": [
+    "pap",
+    "yam",
+    "rice"
+   ]
+  },
+  {
+   "stem": "Name two ways we keep the home clean ",
+   "points": [
+    "sweeping",
+    "washing plates",
+    "making the bed"
+   ]
+  },
+  {
+   "stem": "Name two simple crafts ",
+   "points": [
+    "weaving a mat",
+    "moulding a pot",
+    "sewing a bag"
+   ]
+  },
+  {
+   "stem": "Name two materials for crafts ",
+   "points": [
+    "straw",
+    "clay",
+    "cloth"
+   ]
+  },
+  {
+   "stem": "Name two ways to work safely ",
+   "points": [
+    "use tools the right way",
+    "wash hands after",
+    "put tools away"
+   ]
+  },
+  {
+   "stem": "Name two jobs people do ",
+   "points": [
+    "farming",
+    "tailoring",
+    "carpentry"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is pre-vocational studies?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two farm tools and what each does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What do crops and animals give us?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say two steps in preparing food.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How do we work safely?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

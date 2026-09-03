@@ -1,0 +1,380 @@
+{
+ "subject": "Christian Religious Studies",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "A saviour is somebody who ___ us",
+   "answer": "saves",
+   "distractors": [
+    "frightens",
+    "forgets",
+    "paints"
+   ]
+  },
+  {
+   "stem": "Jesus came into the world to save us from our ___",
+   "answer": "sins",
+   "distractors": [
+    "school",
+    "sleep",
+    "soup"
+   ]
+  },
+  {
+   "stem": "Jesus died on the ___ for us",
+   "answer": "cross",
+   "distractors": [
+    "table",
+    "horse",
+    "rock"
+   ]
+  },
+  {
+   "stem": "Jesus rose from the dead on the ___ day",
+   "answer": "third",
+   "distractors": [
+    "fifth",
+    "tenth",
+    "second"
+   ]
+  },
+  {
+   "stem": "Today Jesus is alive in ___",
+   "answer": "heaven",
+   "distractors": [
+    "the market",
+    "my school",
+    "the river"
+   ]
+  },
+  {
+   "stem": "God so loved the world that He gave His only ___",
+   "answer": "Son",
+   "distractors": [
+    "servant",
+    "brother",
+    "donkey"
+   ]
+  },
+  {
+   "stem": "When we accept Jesus we become children of ___",
+   "answer": "God",
+   "distractors": [
+    "the priest",
+    "the king",
+    "my teacher"
+   ]
+  },
+  {
+   "stem": "Jesus said, \"I call you ___\"",
+   "answer": "friends",
+   "distractors": [
+    "strangers",
+    "visitors",
+    "neighbours far off"
+   ]
+  },
+  {
+   "stem": "We show that we are Jesus' friends by ___ Him",
+   "answer": "obeying",
+   "distractors": [
+    "cheating",
+    "frightening",
+    "tricking"
+   ]
+  },
+  {
+   "stem": "In God's family everybody in the class is my ___",
+   "answer": "brother or sister",
+   "distractors": [
+    "paying guest",
+    "class enemy",
+    "stranger only"
+   ]
+  },
+  {
+   "stem": "The greatest commandment is to love ___",
+   "answer": "God with all my heart",
+   "distractors": [
+    "my own new ball",
+    "the market on Sunday",
+    "sleeping in the morning"
+   ]
+  },
+  {
+   "stem": "The second commandment is to love ___",
+   "answer": "my neighbour as myself",
+   "distractors": [
+    "my teacher's stick",
+    "the compound gate",
+    "my morning"
+   ]
+  },
+  {
+   "stem": "Who is my neighbour?",
+   "answer": "everybody around me",
+   "distractors": [
+    "only rich people",
+    "only old people",
+    "only grown-ups"
+   ]
+  },
+  {
+   "stem": "We show love to God by praying, thanking Him and ___ Him",
+   "answer": "obeying",
+   "distractors": [
+    "hiding from",
+    "teasing",
+    "losing"
+   ]
+  },
+  {
+   "stem": "Jesus said, \"Love ___ as I have loved you.\"",
+   "answer": "one another",
+   "distractors": [
+    "the sun only",
+    "nobody at all",
+    "strangers only"
+   ]
+  },
+  {
+   "stem": "God's rules for living are called ___",
+   "answer": "commandments",
+   "distractors": [
+    "playgrounds",
+    "market days",
+    "birthdays"
+   ]
+  },
+  {
+   "stem": "The commandments were brought to the people by ___ on a mountain",
+   "answer": "Moses",
+   "distractors": [
+    "Pharaoh",
+    "Goliath",
+    "Noah"
+   ]
+  },
+  {
+   "stem": "Which of these is one of God's rules?",
+   "answer": "do not steal",
+   "distractors": [
+    "do not pray",
+    "do not share",
+    "do not sing"
+   ]
+  },
+  {
+   "stem": "We obey God because He ___",
+   "answer": "loves us and knows what is best",
+   "distractors": [
+    "is too far away to hear me",
+    "does not know what I need",
+    "lives next door and is busy"
+   ]
+  },
+  {
+   "stem": "Jesus obeyed God ___ all His life",
+   "answer": "perfectly",
+   "distractors": [
+    "once a year",
+    "by mistake",
+    "never at all"
+   ]
+  },
+  {
+   "stem": "Prayer is talking to ___",
+   "answer": "God",
+   "distractors": [
+    "the door",
+    "the farm",
+    "the moon"
+   ]
+  },
+  {
+   "stem": "We can pray ___",
+   "answer": "in any place",
+   "distractors": [
+    "only in the church",
+    "only at night",
+    "only on Sunday"
+   ]
+  },
+  {
+   "stem": "Before a meal we ___",
+   "answer": "thank God for the food",
+   "distractors": [
+    "sleep on the mat",
+    "wash the cup",
+    "count the plates"
+   ]
+  },
+  {
+   "stem": "When we are sad or afraid we should ___",
+   "answer": "ask God for help",
+   "distractors": [
+    "run and shout",
+    "tell a long lie",
+    "hide under the bed"
+   ]
+  },
+  {
+   "stem": "When somebody is sick we ___",
+   "answer": "pray for them",
+   "distractors": [
+    "take their food",
+    "laugh at them",
+    "leave them alone"
+   ]
+  },
+  {
+   "stem": "\"Pray without ceasing\" means ___",
+   "answer": "keep talking to God all day",
+   "distractors": [
+    "pray once in a year",
+    "never pray at all",
+    "sleep and dream"
+   ]
+  },
+  {
+   "stem": "Which of these is a way to pray?",
+   "answer": "kneeling with the head bowed",
+   "distractors": [
+    "jumping up and down",
+    "shouting at my friends",
+    "closing the door tight"
+   ]
+  },
+  {
+   "stem": "God's rules were written on two tables of ___",
+   "answer": "stone",
+   "distractors": [
+    "wood",
+    "cloth",
+    "mud"
+   ]
+  },
+  {
+   "stem": "At night we ask God for ___",
+   "answer": "peaceful sleep",
+   "distractors": [
+    "another plate",
+    "a long class",
+    "new shoes"
+   ]
+  },
+  {
+   "stem": "A prayer is not better because it is ___",
+   "answer": "long",
+   "distractors": [
+    "true",
+    "quiet",
+    "short"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two wrong things the Bible calls sin ",
+   "points": [
+    "lying",
+    "stealing"
+   ]
+  },
+  {
+   "stem": "Mention three things a friend does for you ",
+   "points": [
+    "shares",
+    "tells the truth",
+    "stays near"
+   ]
+  },
+  {
+   "stem": "Name two commandments that keep my mouth and my hands clean ",
+   "points": [
+    "do not steal",
+    "do not lie"
+   ]
+  },
+  {
+   "stem": "Say three times we pray every day ",
+   "points": [
+    "morning",
+    "before food",
+    "at night"
+   ]
+  },
+  {
+   "stem": "Name three places where we can pray ",
+   "points": [
+    "home",
+    "school",
+    "church"
+   ]
+  },
+  {
+   "stem": "Say two parts of the pattern Jesus taught in prayer ",
+   "points": [
+    "praise God",
+    "ask for daily food"
+   ]
+  },
+  {
+   "stem": "Mention three people we should pray for ",
+   "points": [
+    "the sick",
+    "our parents",
+    "our teachers"
+   ]
+  },
+  {
+   "stem": "Name two prayer positions we learnt ",
+   "points": [
+    "kneeling",
+    "standing"
+   ]
+  },
+  {
+   "stem": "Say two ways we show love to God ",
+   "points": [
+    "praying",
+    "worshipping"
+   ]
+  },
+  {
+   "stem": "Fill in: God's reply to a prayer may be yes, wait, or ___ ",
+   "points": [
+    "something better",
+    "a better thing"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write two sentences on why Jesus came into the world.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Mention three ways you can show love to a friend who is different from you.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "What is prayer? Name three times you pray in one day.",
+   "marks": 4,
+   "points": []
+  },
+  {
+   "stem": "Explain why we obey God's commandments.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Write two sentences on the prayer you said before eating today.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

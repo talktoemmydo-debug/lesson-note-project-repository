@@ -1,0 +1,55 @@
+# Yoruba — Primary 1 · Third Term · term paper
+subject: Yoruba
+class: Primary 1
+term: 3rd Term
+
+[objective]
+Yoruba has ___ tones || three || one || five || ten
+The low tone is ___ || dò || mí || rè || kò
+The high tone is ___ || mí || dò || rè || bẹ̀
+The tone changes the ___ of a word || meaning || colour || size || smell
+5 in Yoruba is ___ || àrún || ọ̀kan || èjì || ẹ̀wá
+10 in Yoruba is ___ || ẹ̀wá || ogún || ẹ̀ta || ẹ̀fà
+20 in Yoruba is ___ || ogún || ọ̀kan || àrún || ẹ̀jọ
+100 in Yoruba is ___ || ọgọ́rùn-ún || ogún || ọgbọ̀n || ẹ̀wá
+There are ___ days in a week || seven || five || ten || twelve
+Monday in Yoruba is ___ || Ajé || Ẹtì || Àìkú || Ọjọ́rú
+Friday in Yoruba is ___ || Ẹtì || Ajé || Ìsẹ́gun || Àbámẹ́ta
+There are ___ months in a year || twelve || seven || five || ten
+Where we buy and sell is the ___ || ọjà || ilé || ọ̀run || omi
+The person who buys is the ___ || olùrà || olóògbà || ọmọ || òbí
+We use ___ to buy things || owó || omi || iṣu || àkàrà
+We ___ for a good price || ná || sùn || jẹ || gbà
+Yam in Yoruba is ___ || iṣu || omi || ẹja || wàrà
+Water in Yoruba is ___ || omi || iṣu || ẹran || ọkà
+Fish in Yoruba is ___ || ẹja || ẹ̀wà || ìrèsí || ẹ̀fọ́
+Good food makes us ___ and healthy || strong || weak || sick || sad
+Dog in Yoruba is ___ || ajá || olóngbò || erin || ẹṣin
+Cat in Yoruba is ___ || olóngbò || ajá || ehoro || ewúrẹ́
+Elephant in Yoruba is ___ || erin || kìnìún || màlúù || adìẹ
+Chicken in Yoruba is ___ || adìẹ || ẹyẹ || ẹja || ehoro
+A short saying with wisdom is a ___ || òwe || orin || ìtàn || eré
+Proverbs teach us ___ things || good || bad || rude || lazy
+Words we sing are ___ || orin || òwe || ìtàn || eré
+Songs make us ___ || happy || sad || angry || sick
+A story in Yoruba is ___ || ìtàn || orin || òwe || eré
+Folk stories about animals are ___ || àlọ́ || orin || òwe || ọ̀rọ̀
+
+[subobjective]
+Name the three Yoruba tones :: dò | rè | mí
+Name five numbers in Yoruba :: ọ̀kan | èjì | ẹ̀ta | ẹ̀rin | àrún
+Name three days in Yoruba :: Àìkú | Ajé | Ìsẹ́gun | Ọjọ́rú | Ẹtì
+Name two things we buy at the market :: food | cloth | vegetables
+Name three foods in Yoruba :: iṣu | ọkà | ìrèsí | ẹ̀wà | ẹja
+Name three animals in Yoruba :: ajá | olóngbò | erin | adìẹ | ewúrẹ́
+Name two things animals give us :: food | milk | eggs | meat
+Name two kinds of songs :: lullabies | play songs | praise songs
+Name one proverb in Yoruba :: Ọmọ tí a kò kọ́ ni yóò gbé ilé tí a kọ́ tà | Bí a bá ń lọ a ń bọ̀
+Name two things stories teach us :: lessons | wisdom | culture
+
+[theory]
+How many tones does Yoruba have? Name them. || 2
+What is 20 in Yoruba? || 2
+Name three foods in Yoruba. || 2
+What is a proverb? Say one you know. || 2
+Name three animals in Yoruba. || 2

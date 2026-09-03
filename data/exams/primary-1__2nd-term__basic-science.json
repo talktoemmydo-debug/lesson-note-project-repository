@@ -1,0 +1,395 @@
+{
+ "subject": "Basic Science",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "The part that holds a plant and takes in water is the ___",
+   "answer": "root",
+   "distractors": [
+    "leaf",
+    "flower",
+    "fruit"
+   ]
+  },
+  {
+   "stem": "The ___ makes food for the plant",
+   "answer": "leaf",
+   "distractors": [
+    "stem",
+    "root",
+    "seed"
+   ]
+  },
+  {
+   "stem": "Plants need water, air, sunlight and ___",
+   "answer": "soil",
+   "distractors": [
+    "stone",
+    "plastic",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "The bright part that can become a fruit is the ___",
+   "answer": "flower",
+   "distractors": [
+    "root",
+    "stem",
+    "bark"
+   ]
+  },
+  {
+   "stem": "An animal that lives with us at home is a ___ animal",
+   "answer": "domestic",
+   "distractors": [
+    "wild",
+    "water",
+    "flying"
+   ]
+  },
+  {
+   "stem": "The lion is a ___ animal",
+   "answer": "wild",
+   "distractors": [
+    "domestic",
+    "pet",
+    "farm"
+   ]
+  },
+  {
+   "stem": "The fish lives in ___",
+   "answer": "water",
+   "distractors": [
+    "air",
+    "sand",
+    "tree"
+   ]
+  },
+  {
+   "stem": "Animals give us meat, eggs and ___",
+   "answer": "milk",
+   "distractors": [
+    "stone",
+    "wood",
+    "sand"
+   ]
+  },
+  {
+   "stem": "We see with our ___",
+   "answer": "eyes",
+   "distractors": [
+    "ears",
+    "nose",
+    "tongue"
+   ]
+  },
+  {
+   "stem": "We hear with our ___",
+   "answer": "ears",
+   "distractors": [
+    "eyes",
+    "skin",
+    "nose"
+   ]
+  },
+  {
+   "stem": "We smell with our ___",
+   "answer": "nose",
+   "distractors": [
+    "tongue",
+    "eyes",
+    "ears"
+   ]
+  },
+  {
+   "stem": "We taste with our ___",
+   "answer": "tongue",
+   "distractors": [
+    "skin",
+    "ears",
+    "eyes"
+   ]
+  },
+  {
+   "stem": "Tiny things that can make us sick are ___",
+   "answer": "germs",
+   "distractors": [
+    "foods",
+    "clothes",
+    "toys"
+   ]
+  },
+  {
+   "stem": "We wash our hands with soap and ___",
+   "answer": "water",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "We brush our teeth in the morning and at ___",
+   "answer": "night",
+   "distractors": [
+    "noon",
+    "dawn",
+    "dusk"
+   ]
+  },
+  {
+   "stem": "Germs spread through dirty hands, flies and bad ___",
+   "answer": "food",
+   "distractors": [
+    "air",
+    "songs",
+    "light"
+   ]
+  },
+  {
+   "stem": "We get water from the tap, well, river and ___",
+   "answer": "rain",
+   "distractors": [
+    "stone",
+    "fire",
+    "sand"
+   ]
+  },
+  {
+   "stem": "Water has no colour and no ___",
+   "answer": "taste",
+   "distractors": [
+    "smell",
+    "use",
+    "shape"
+   ]
+  },
+  {
+   "stem": "We use water to drink, bathe, cook and ___",
+   "answer": "wash",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Dirty water can make us ___",
+   "answer": "sick",
+   "distractors": [
+    "strong",
+    "tall",
+    "happy"
+   ]
+  },
+  {
+   "stem": "How the air is on a day is the ___",
+   "answer": "weather",
+   "distractors": [
+    "season",
+    "water",
+    "soil"
+   ]
+  },
+  {
+   "stem": "On a rainy day we use an ___",
+   "answer": "umbrella",
+   "distractors": [
+    "fan",
+    "oven",
+    "ink"
+   ]
+  },
+  {
+   "stem": "Nigeria has the dry season and the ___ season",
+   "answer": "rainy",
+   "distractors": [
+    "hot",
+    "cold",
+    "dark"
+   ]
+  },
+  {
+   "stem": "On a ___ day the sun shines",
+   "answer": "sunny",
+   "distractors": [
+    "rainy",
+    "cloudy",
+    "windy"
+   ]
+  },
+  {
+   "stem": "The biggest source of light is the ___",
+   "answer": "sun",
+   "distractors": [
+    "moon",
+    "star",
+    "lamp"
+   ]
+  },
+  {
+   "stem": "A ___ gives light",
+   "answer": "torch",
+   "distractors": [
+    "drum",
+    "bell",
+    "voice"
+   ]
+  },
+  {
+   "stem": "A drum makes ___",
+   "answer": "sound",
+   "distractors": [
+    "light",
+    "heat",
+    "water"
+   ]
+  },
+  {
+   "stem": "Very loud sound can hurt our ___",
+   "answer": "ears",
+   "distractors": [
+    "eyes",
+    "nose",
+    "teeth"
+   ]
+  },
+  {
+   "stem": "The sun shines in the ___",
+   "answer": "day",
+   "distractors": [
+    "night",
+    "evening",
+    "dark"
+   ]
+  },
+  {
+   "stem": "The ___ shines at night",
+   "answer": "moon",
+   "distractors": [
+    "sun",
+    "cloud",
+    "rainbow"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two parts of a plant ",
+   "points": [
+    "root",
+    "leaf",
+    "stem",
+    "flower"
+   ]
+  },
+  {
+   "stem": "Name two things plants need to grow ",
+   "points": [
+    "water",
+    "sunlight",
+    "soil",
+    "air"
+   ]
+  },
+  {
+   "stem": "Name two domestic animals ",
+   "points": [
+    "dog",
+    "cat",
+    "goat",
+    "hen"
+   ]
+  },
+  {
+   "stem": "Name two wild animals ",
+   "points": [
+    "lion",
+    "elephant",
+    "monkey"
+   ]
+  },
+  {
+   "stem": "Name two sense organs ",
+   "points": [
+    "eye",
+    "ear",
+    "nose",
+    "tongue",
+    "skin"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep the body clean ",
+   "points": [
+    "bathing",
+    "washing hands",
+    "brushing teeth"
+   ]
+  },
+  {
+   "stem": "Name two sources of water ",
+   "points": [
+    "tap",
+    "well",
+    "river",
+    "rain"
+   ]
+  },
+  {
+   "stem": "Name two types of weather ",
+   "points": [
+    "sunny",
+    "rainy",
+    "cloudy",
+    "windy"
+   ]
+  },
+  {
+   "stem": "Name two sources of light ",
+   "points": [
+    "sun",
+    "lamp",
+    "torch",
+    "candle"
+   ]
+  },
+  {
+   "stem": "Name two things we see in the sky ",
+   "points": [
+    "sun",
+    "moon",
+    "stars",
+    "clouds"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Name two parts of a plant and what each does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the difference between a domestic and a wild animal?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the five sense organs.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say two ways to keep your body clean.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two sources of water and two uses of water.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

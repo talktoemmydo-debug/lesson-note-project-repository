@@ -1,0 +1,380 @@
+{
+ "subject": "Christian Religious Studies",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Jesus and his disciples were in a ___ when the storm came",
+   "answer": "boat",
+   "distractors": [
+    "car",
+    "house",
+    "tree"
+   ]
+  },
+  {
+   "stem": "When the storm came, Jesus was ___ in the boat",
+   "answer": "sleeping",
+   "distractors": [
+    "singing",
+    "walking",
+    "eating"
+   ]
+  },
+  {
+   "stem": "Jesus said to the wind and the sea, \"Peace, be ___\"",
+   "answer": "still",
+   "distractors": [
+    "loud",
+    "fast",
+    "strong"
+   ]
+  },
+  {
+   "stem": "The disciples were ___ when the storm came",
+   "answer": "afraid",
+   "distractors": [
+    "glad",
+    "bored",
+    "sleepy"
+   ]
+  },
+  {
+   "stem": "The story of Jesus walking on water happened at ___",
+   "answer": "night",
+   "distractors": [
+    "noon",
+    "morning",
+    "dawn"
+   ]
+  },
+  {
+   "stem": "The disciple who walked on the water after Jesus was ___",
+   "answer": "Peter",
+   "distractors": [
+    "John",
+    "James",
+    "Judas"
+   ]
+  },
+  {
+   "stem": "Peter began to sink when he felt the strong ___",
+   "answer": "wind",
+   "distractors": [
+    "rain",
+    "sun",
+    "sand"
+   ]
+  },
+  {
+   "stem": "Jesus told Peter, \"You of little faith, why did you ___?\"",
+   "answer": "doubt",
+   "distractors": [
+    "run",
+    "sleep",
+    "shout"
+   ]
+  },
+  {
+   "stem": "The boy who shared his food had five loaves and two ___",
+   "answer": "fish",
+   "distractors": [
+    "eggs",
+    "yams",
+    "oranges"
+   ]
+  },
+  {
+   "stem": "Before sharing the food, Jesus ___ to God",
+   "answer": "gave thanks",
+   "distractors": [
+    "ran away",
+    "slept",
+    "sang"
+   ]
+  },
+  {
+   "stem": "The leftover food filled ___ baskets",
+   "answer": "twelve",
+   "distractors": [
+    "two",
+    "five",
+    "three"
+   ]
+  },
+  {
+   "stem": "About ___ people were fed by Jesus",
+   "answer": "five thousand",
+   "distractors": [
+    "fifty",
+    "ten",
+    "a hundred"
+   ]
+  },
+  {
+   "stem": "The man who came to Jesus in week 4 had ___",
+   "answer": "leprosy",
+   "distractors": [
+    "a hat",
+    "a drum",
+    "a chair"
+   ]
+  },
+  {
+   "stem": "Jesus ___ the man with leprosy and said, \"Be clean\"",
+   "answer": "touched",
+   "distractors": [
+    "pushed",
+    "mocked",
+    "left"
+   ]
+  },
+  {
+   "stem": "The man with leprosy was ___ at once",
+   "answer": "healed",
+   "distractors": [
+    "sicker",
+    "asleep",
+    "angry"
+   ]
+  },
+  {
+   "stem": "The man who could not walk was ___",
+   "answer": "paralyzed",
+   "distractors": [
+    "running",
+    "dancing",
+    "singing"
+   ]
+  },
+  {
+   "stem": "The friends lowered the man through the ___",
+   "answer": "roof",
+   "distractors": [
+    "door",
+    "window",
+    "floor"
+   ]
+  },
+  {
+   "stem": "Jesus told the paralyzed man to get up, take his mat and ___",
+   "answer": "walk",
+   "distractors": [
+    "sleep",
+    "swim",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Jairus was a ___ leader whose daughter was sick",
+   "answer": "synagogue",
+   "distractors": [
+    "market",
+    "farm",
+    "school"
+   ]
+  },
+  {
+   "stem": "Jesus told Jairus, \"Do not be afraid; only ___\"",
+   "answer": "believe",
+   "distractors": [
+    "run",
+    "shout",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "When Jesus took the girl's hand, she ___",
+   "answer": "rose",
+   "distractors": [
+    "fell",
+    "cried",
+    "left"
+   ]
+  },
+  {
+   "stem": "Lazarus was a ___ of Jesus",
+   "answer": "friend",
+   "distractors": [
+    "stranger",
+    "soldier",
+    "king"
+   ]
+  },
+  {
+   "stem": "Lazarus was in the tomb for ___ days",
+   "answer": "four",
+   "distractors": [
+    "two",
+    "seven",
+    "ten"
+   ]
+  },
+  {
+   "stem": "Jesus called, \"Lazarus, come ___!\"",
+   "answer": "out",
+   "distractors": [
+    "in",
+    "down",
+    "here"
+   ]
+  },
+  {
+   "stem": "Jesus said, \"I am the resurrection and the ___\"",
+   "answer": "life",
+   "distractors": [
+    "way",
+    "door",
+    "light"
+   ]
+  },
+  {
+   "stem": "In the temple people were buying and ___",
+   "answer": "selling",
+   "distractors": [
+    "sleeping",
+    "dancing",
+    "fishing"
+   ]
+  },
+  {
+   "stem": "Jesus said, \"My house shall be called a house of ___\"",
+   "answer": "prayer",
+   "distractors": [
+    "market",
+    "games",
+    "noise"
+   ]
+  },
+  {
+   "stem": "Jesus was ___ at the wrong behaviour in the temple",
+   "answer": "angry",
+   "distractors": [
+    "happy",
+    "sleepy",
+    "calm"
+   ]
+  },
+  {
+   "stem": "The temple is a place for praying and ___ God",
+   "answer": "worshipping",
+   "distractors": [
+    "cheating",
+    "selling",
+    "mocking"
+   ]
+  },
+  {
+   "stem": "Jesus drove out the people who were ___ in the temple",
+   "answer": "cheating",
+   "distractors": [
+    "praying",
+    "singing",
+    "resting"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things Jesus calmed ",
+   "points": [
+    "wind",
+    "sea"
+   ]
+  },
+  {
+   "stem": "Name two people who walked on water ",
+   "points": [
+    "Jesus",
+    "Peter"
+   ]
+  },
+  {
+   "stem": "Name the two foods the boy shared ",
+   "points": [
+    "loaves",
+    "fish"
+   ]
+  },
+  {
+   "stem": "Name two things Jesus has power over ",
+   "points": [
+    "storm",
+    "sickness",
+    "death"
+   ]
+  },
+  {
+   "stem": "Name two people Jesus healed or raised ",
+   "points": [
+    "paralyzed man",
+    "Lazarus",
+    "leprosy man"
+   ]
+  },
+  {
+   "stem": "Name two people Jesus raised from the dead ",
+   "points": [
+    "Jairus' daughter",
+    "Lazarus"
+   ]
+  },
+  {
+   "stem": "Name two things Jesus said to calm fear ",
+   "points": [
+    "Do not be afraid",
+    "Peace, be still"
+   ]
+  },
+  {
+   "stem": "Name two sisters of Lazarus ",
+   "points": [
+    "Martha",
+    "Mary"
+   ]
+  },
+  {
+   "stem": "Name two things people do in the temple ",
+   "points": [
+    "pray",
+    "worship",
+    "sing"
+   ]
+  },
+  {
+   "stem": "Name two good things friends do ",
+   "points": [
+    "help",
+    "carry",
+    "care"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Tell what Jesus said to the wind and the sea.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say what the boy had and what Jesus did with it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How did the four friends bring the paralyzed man to Jesus?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What did Jesus say about himself to Martha and Mary?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why was Jesus angry in the temple?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

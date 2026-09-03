@@ -1,0 +1,56 @@
+# Mathematics & English · Numeracy — Nursery 2 · Third Term · term paper
+subject: Mathematics & English
+class: Nursery 2
+term: 3rd Term
+stream: Numeracy
+
+[objective]
+When a cake is shared so that both parts match, each part is a ____ || half || quarter || side || whole
+Two halves of a thing put together make ____ || the whole || a quarter || nothing || one half
+A paper circle folded twice and then cut gives four equal ____ || quarters || halves || edges || corners
+Half of six shells is ____ || three || four || five || six
+The length of a thing is how ____ it is || long || heavy || wide || deep
+Measuring a desk with your hand span is using a ____ unit || body || paper || tin || water
+One metre is the same as ____ centimetres || 100 || 10 || 50 || 1000
+Before we measure with a ruler we begin at the line marked ____ || zero || seven || twelve || thirty
+On a balance, the heavier cup ____ || goes down || stays up || turns round || breaks off
+Weight of a thing tells us how ____ it is || heavy || tall || hot || loud
+A big balloon and a small stone: the lighter one is ____ || the balloon || the stone || neither one || both alike
+A bag of rice is weighed in ____ || kilogram || hand span || centimetre || litre
+The day before today is called ____ || yesterday || tomorrow || midday || evening
+How many days make one week? ____ || seven || five || ten || twelve
+At 9 o'clock the long hand of the clock points at ____ || 12 || 9 || 6 || 3
+The short hand of a clock counts the ____ || hours || minutes || days || months
+A ball is shaped like a ____ || sphere || cube || cone || pyramid
+How many flat faces has a cube? ____ || six || four || eight || ten
+A tin of milk is shaped like a ____ || cylinder || cone || sphere || square
+The place where two faces of a box meet is its ____ || edge || corner || middle || shadow
+A triangle has ____ sides. || three || four || five || six
+Which of these shapes has no corner at all? ____ || a circle || a square || a triangle || a rectangle
+A slate and an exercise book are both shaped like a ____ || rectangle || circle || cone || sphere
+Two triangles placed side by side can make ____ || a square || a circle || an oval || a cone
+In the pattern circle, square, circle, square, the next shape is a ____ || square || circle || triangle || cube
+When a folded paper matches on both sides, the fold is a line of ____ || symmetry || weight || length || counting
+Every face of a cube is shaped like a ____ || square || circle || triangle || oval
+Four strokes with a fifth stroke across them stand for ____ || five || four || three || eight
+In a block chart, a taller tower means ____ children || more || fewer || no || the same
+Before we count anything, we first ____ || put one question || shut our eyes || go to bed first || draw a big sun
+
+[subobjective]
+Say what a half is and what a quarter is :: half is one of two equal parts | quarter is one of four equal parts
+Name three body measures we can measure length with :: hand span | foot | arm
+Mention three things we can measure a desk with instead of a ruler :: a pencil | a stick | a piece of thread
+Say the two units of length we use :: centimetre | metre
+Put a stone, a chalk and a balloon in order, heaviest first :: stone | chalk | balloon
+Say four parts of the day in order :: morning | afternoon | evening | night
+Name the two hands of a clock and what each one counts :: the short hand counts hours | the long hand counts minutes
+Say the five shapes you can hold that we learnt this term :: cube | cuboid | sphere | cylinder | cone
+Tell how many sides and how many corners a triangle has :: three sides | three corners
+Say three things we do to gather answers about the class :: ask one question | take each child's word | record it with strokes
+
+[theory]
+Shade half of a square and say how many equal parts you made. || 2
+Name three things you measured with your hand span and say how many spans each one was. || 3
+Write two sentences on one big thing that is light and one small thing that is heavy. || 4
+Say what the clock looks like at 7 o'clock and what you do at that time. || 3
+Ask five friends their favourite colour and record the answers with strokes. || 2

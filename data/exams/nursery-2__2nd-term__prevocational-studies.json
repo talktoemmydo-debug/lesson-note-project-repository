@@ -1,0 +1,394 @@
+{
+ "subject": "Prevocational Studies (PVS)",
+ "class": "Nursery 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A farmer is a person who ___",
+   "answer": "grows crops or keeps animals for food",
+   "distractors": [
+    "sells cloth inside the market",
+    "drives a big bus to the town",
+    "mends our shoes at the roadside"
+   ]
+  },
+  {
+   "stem": "The farmer who keeps birds for eggs and meat is a ___",
+   "answer": "poultry farmer",
+   "distractors": [
+    "fish farmer",
+    "tree farmer",
+    "miner"
+   ]
+  },
+  {
+   "stem": "Work that begins a new farm, before any seed is planted, is ___",
+   "answer": "clearing the land",
+   "distractors": [
+    "harvesting the crop",
+    "selling the produce",
+    "drying the grain"
+   ]
+  },
+  {
+   "stem": "After planting, the farmer removes the ___",
+   "answer": "weeds",
+   "distractors": [
+    "stones from the market",
+    "birds from the sky",
+    "roof from the shed"
+   ]
+  },
+  {
+   "stem": "The last work in growing a crop, before the money comes, is ___",
+   "answer": "harvesting and selling",
+   "distractors": [
+    "watering the weeds",
+    "burning the fence",
+    "plucking the roof"
+   ]
+  },
+  {
+   "stem": "A fish farmer feeds his fish at set times and keeps the ___",
+   "answer": "water clean and moving",
+   "distractors": [
+    "birds away from the roof",
+    "fire in the shed",
+    "tools in the sun"
+   ]
+  },
+  {
+   "stem": "Why does a farmer begin his work very early in the morning?",
+   "answer": "because the body is cooler and weeds are soft",
+   "distractors": [
+    "because the market is shut down later",
+    "because the sun is brighter at noon",
+    "because the tools are heavier in rain"
+   ]
+  },
+  {
+   "stem": "A farm visit is when the class goes to the farm to ___",
+   "answer": "see with the eyes what the class was told",
+   "distractors": [
+    "buy plenty of food for the house",
+    "have a long sleep on the grass",
+    "play football with the bigger boys"
+   ]
+  },
+  {
+   "stem": "Before we start a farm visit we should ___",
+   "answer": "shut our shoes and fill the water flask",
+   "distractors": [
+    "leave our books on the ground",
+    "carry our lunch in an open bag",
+    "run to the gate first"
+   ]
+  },
+  {
+   "stem": "On the farm we must not ___",
+   "answer": "pick the fruit or chase the birds away",
+   "distractors": [
+    "look at the plants in the rows",
+    "ask the farmer any good question",
+    "wash our hands when we come back"
+   ]
+  },
+  {
+   "stem": "An animal that sits apart from the others in the house is probably ___",
+   "answer": "sick",
+   "distractors": [
+    "happy",
+    "the newest",
+    "sleeping well"
+   ]
+  },
+  {
+   "stem": "A good question to ask the farmer on a visit is ___",
+   "answer": "when did you plant this crop?",
+   "distractors": [
+    "what is your father's name?",
+    "where do you sleep?",
+    "how old is your gate?"
+   ]
+  },
+  {
+   "stem": "A farm tool is a thing we use to ___",
+   "answer": "make farm work easier",
+   "distractors": [
+    "cook the family food",
+    "sew the school uniform",
+    "wash our plates"
+   ]
+  },
+  {
+   "stem": "The tool with a broad blade used for tilling and making ridges is the ___",
+   "answer": "hoe",
+   "distractors": [
+    "rake",
+    "basket",
+    "watering can"
+   ]
+  },
+  {
+   "stem": "A cutlass is used mainly for ___",
+   "answer": "clearing the grass and small sticks",
+   "distractors": [
+    "watering the young seedlings daily",
+    "carrying the harvest to the market",
+    "sowing the small seeds in rows"
+   ]
+  },
+  {
+   "stem": "A tool with teeth for gathering leaves and leveling a seedbed is the ___",
+   "answer": "rake",
+   "distractors": [
+    "cutlass",
+    "spade",
+    "basket"
+   ]
+  },
+  {
+   "stem": "A watering can has a spout with small holes called a ___",
+   "answer": "rose",
+   "distractors": [
+    "leaf",
+    "root",
+    "handle"
+   ]
+  },
+  {
+   "stem": "The tool with a flat stiff blade that is pushed with the foot into the ground is the ___",
+   "answer": "spade",
+   "distractors": [
+    "shovel",
+    "basket",
+    "sickle"
+   ]
+  },
+  {
+   "stem": "Which tool is better for lifting and moving loose sand?",
+   "answer": "a shovel",
+   "distractors": [
+    "a rake",
+    "a watering can",
+    "a hoe"
+   ]
+  },
+  {
+   "stem": "A wheelbarrow carries a big load because it has a ___",
+   "answer": "wheel, a tray and two handles",
+   "distractors": [
+    "very long rope for pulling it",
+    "sharp edge under the front",
+    "net and a heavy wooden lid"
+   ]
+  },
+  {
+   "stem": "In loading a barrow, the heavy things are put ___",
+   "answer": "near the wheel and over it",
+   "distractors": [
+    "at the back by the handles",
+    "on top of everything",
+    "under the wheel"
+   ]
+  },
+  {
+   "stem": "A wheelbarrow must never be used for carrying ___",
+   "answer": "people or children",
+   "distractors": [
+    "sand or soil",
+    "a bag of manure",
+    "the harvest"
+   ]
+  },
+  {
+   "stem": "A woven carrier used for the harvest and put on the head is a ___",
+   "answer": "basket",
+   "distractors": [
+    "shovel",
+    "watering can",
+    "sprayer"
+   ]
+  },
+  {
+   "stem": "Before we swing a cutlass we must first ___",
+   "answer": "clear the people and the stones away",
+   "distractors": [
+    "water the grass around it",
+    "count the leaves on the bush",
+    "hide our tools"
+   ]
+  },
+  {
+   "stem": "A tool is kept after work by ___",
+   "answer": "cleaning off the mud, drying and hanging it",
+   "distractors": [
+    "leaving it there on the wet ground",
+    "burying it deep in the planting bed",
+    "pouring cold water on the blade"
+   ]
+  },
+  {
+   "stem": "The tool used to fan chaff from grain is the ___",
+   "answer": "winnowing basket",
+   "distractors": [
+    "watering can",
+    "cutlass",
+    "spade"
+   ]
+  },
+  {
+   "stem": "A knapsack sprayer differs from a watering can because it sends a ___",
+   "answer": "fine mist of medicine on to the leaf",
+   "distractors": [
+    "big stream of water on the root",
+    "heavy heap of farm manure",
+    "whole load of clean soil"
+   ]
+  },
+  {
+   "stem": "A sickle is a curved one-hand blade used for ___",
+   "answer": "reaping grass and maize",
+   "distractors": [
+    "digging a big pit",
+    "carrying water",
+    "tying the yam"
+   ]
+  },
+  {
+   "stem": "The farmers' saying about the two tools that look alike is: a spade digs, a shovel ___",
+   "answer": "moves",
+   "distractors": [
+    "sleeps",
+    "sings",
+    "dries"
+   ]
+  },
+  {
+   "stem": "Tools must not be left where a child can step on them, so they are ___",
+   "answer": "racked or hung with the edge covered",
+   "distractors": [
+    "thrown down inside the gutter",
+    "hidden under the young crop",
+    "stood up out in the hot sun"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the four kinds of farmer we learnt and what each keeps or grows. ",
+   "points": [
+    "crop farmer",
+    "poultry keeper",
+    "fish farmer",
+    "tree crop farmer"
+   ]
+  },
+  {
+   "stem": "Mention five works of a crop farmer in order. ",
+   "points": [
+    "clearing",
+    "tilling",
+    "planting",
+    "weeding",
+    "harvesting"
+   ]
+  },
+  {
+   "stem": "Name four things to look for on a crop farm during a visit. ",
+   "points": [
+    "plant height",
+    "soil",
+    "rows",
+    "weeds",
+    "holes in leaves"
+   ]
+  },
+  {
+   "stem": "Draw and name the parts of a tool: the working metal and the part in the hand. ",
+   "points": [
+    "blade",
+    "handle"
+   ]
+  },
+  {
+   "stem": "Mention the parts of a watering can. ",
+   "points": [
+    "body",
+    "handle",
+    "spout",
+    "rose"
+   ]
+  },
+  {
+   "stem": "Name four tools used for carrying on the farm. ",
+   "points": [
+    "wheelbarrow",
+    "basket",
+    "head pan",
+    "sack"
+   ]
+  },
+  {
+   "stem": "Sort these into digging and clearing: hoe, cutlass, spade, rake. ",
+   "points": [
+    "digging: hoe, spade",
+    "clearing: cutlass, rake"
+   ]
+  },
+  {
+   "stem": "Mention the parts of a wheelbarrow. ",
+   "points": [
+    "wheel",
+    "tyre",
+    "frame",
+    "tray",
+    "handles",
+    "legs"
+   ]
+  },
+  {
+   "stem": "Name two pairs of tools that look alike and the one difference in each. ",
+   "points": [
+    "spade/shovel — digging/moving",
+    "hoe/spade — pulling/pushing"
+   ]
+  },
+  {
+   "stem": "Give four rules for storing farm tools well. ",
+   "points": [
+    "clean off mud",
+    "dry them",
+    "cover the edge",
+    "keep out of the rain"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Who is a farmer? Explain the work of any two kinds of farmer.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on a farm visit: the rules we keep and four things we look for.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name four farm tools and say what each is used for.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain the difference between a spade and a shovel, and between a hoe and a rake.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on the care and storage of farm tools.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
