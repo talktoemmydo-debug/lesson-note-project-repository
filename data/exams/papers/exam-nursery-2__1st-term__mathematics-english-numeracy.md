@@ -8,156 +8,156 @@
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. Two hundred is the same as ___
-   A) twenty ones
-   B) two hundred ones and two tens
-   C) twenty tens
-   D) two tens
-2. In the number 163, the digit 6 stands for ___
-   A) six tens
-   B) sixteen units
-   C) six units
+1. In the number 163, the digit 6 stands for ___
+   A) sixteen units
+   B) six units
+   C) six tens
    D) six hundreds
-3. The expanded form of 128 is ___
-   A) 1 + 2 + 8
-   B) 100 + 20 + 8
-   C) 12 + 8
-   D) 100 + 28
-4. Counting in tens from 170, the next number is ___
-   A) 160
-   B) 187
-   C) 180
-   D) 171
-5. The number that is 100 + 40 + 7 is ___
-   A) 147
-   B) 417
-   C) 174
-   D) 107
-6. An even number among these is ___
-   A) 157
-   B) 131
+2. The expanded form of 128 is ___
+   A) 100 + 20 + 8
+   B) 12 + 8
+   C) 100 + 28
+   D) 1 + 2 + 8
+3. Counting in tens from 170, the next number is ___
+   A) 171
+   B) 180
+   C) 187
+   D) 160
+4. The number that is 100 + 40 + 7 is ___
+   A) 417
+   B) 107
+   C) 147
+   D) 174
+5. Which is greater: 189 or 198?
+   A) 198
+   B) they are equal
    C) 189
-   D) 146
-7. In 47, the digit in the ones place is ___
+   D) cannot be told
+6. In 47, the digit in the ones place is ___
    A) 4
    B) 0
-   C) 7
-   D) 47
-8. Seven tens and five ones make ___
-   A) 705
-   B) 75
-   C) 57
+   C) 47
+   D) 7
+7. Seven tens and five ones make ___
+   A) 57
+   B) 705
+   C) 75
    D) 12
-9. Ten ones make ___
-   A) ten hundreds
-   B) one thousand
+8. Ten ones make ___
+   A) one thousand
+   B) one ten
    C) one hundred
-   D) one ten
-10. The number that has 4 tens and 0 ones is ___
-   A) 40
+   D) ten hundreds
+9. The number that has 4 tens and 0 ones is ___
+   A) 44
    B) 14
-   C) 44
-   D) 4
-11. In 77, the first 7 stands for ___
-   A) seven hundred
-   B) seventy-seven
-   C) seventy
-   D) seven
-12. Sixty-five written in words is ___
-   A) "fifty-six"
-   B) "sixty-five"
-   C) "sixty and five"
-   D) "six ten five"
-13. The correct spelling of the number 13 is ___
-   A) thirden
-   B) three-teen
-   C) threeteen
-   D) thirteen
-14. "One hundred and three" in figures is ___
-   A) 103
-   B) 113
-   C) 130
-   D) 300
-15. The figure for forty-nine is ___
-   A) 94
-   B) 40
-   C) 49
-   D) 4
-16. Forty is written in words as ___
-   A) fourty-one
-   B) forty
-   C) fourty
-   D) four-tee
-17. In 25, the digit 2 stands for ___
-   A) two hundred
-   B) five
-   C) two
-   D) twenty
-18. One more than 199 is ___
-   A) 200
-   B) 198
-   C) 201
-   D) 190
-19. Skip counting by twos from 2 gives ___
-   A) 2, 3, 5, 8
-   B) 2, 12, 22, 32
-   C) 2, 4, 6, 8
-   D) 4, 6, 8, 11
-20. Addition means ___
-   A) taking things away
-   B) putting things together
-   C) comparing two numbers
-   D) sharing a cake
-21. In 2 + 3 = 5, the answer 5 is called the ___
-   A) tens
-   B) difference
-   C) place
-   D) sum
-22. 3 + 0 gives ___
-   A) 3
-   B) 30
-   C) 1
-   D) 0
-23. The sum of 6 and 4 is ___
-   A) 2
-   B) 10
-   C) 9
-   D) 12
-24. On a number line, adding means jumping to the ___
-   A) left
-   B) up
-   C) right
-   D) down
-25. 23 + 14 gives ___
-   A) 46
-   B) 47
-   C) 36
-   D) 37
-26. "Five less two" written as a number sentence is ___
-   A) 5 − 2 = 3
-   B) 5 ÷ 2 = 3
-   C) 5 × 2 = 10
-   D) 5 + 2 = 7
-27. The answer in subtraction is called the ___
-   A) sum
-   B) place
-   C) difference
-   D) total
-28. 5 − 5 gives ___
-   A) 10
-   B) 0
-   C) 5
-   D) 1
-29. 10 − 3 is ___
-   A) 7
+   C) 4
+   D) 40
+10. The digit 6 shows six tens in the number ___
+   A) 61
    B) 6
-   C) 8
+   C) 26
+   D) 16
+11. Sixty-five written in words is ___
+   A) "sixty and five"
+   B) "six ten five"
+   C) "sixty-five"
+   D) "fifty-six"
+12. The correct spelling of the number 13 is ___
+   A) threeteen
+   B) thirteen
+   C) thirden
+   D) three-teen
+13. "One hundred and three" in figures is ___
+   A) 113
+   B) 300
+   C) 130
+   D) 103
+14. The figure for forty-nine is ___
+   A) 49
+   B) 40
+   C) 94
+   D) 4
+15. "Seventy-two" in figures is ___
+   A) 27
+   B) 70
+   C) 72
+   D) 17
+16. In 25, the digit 2 stands for ___
+   A) five
+   B) twenty
+   C) two
+   D) two hundred
+17. One more than 199 is ___
+   A) 190
+   B) 201
+   C) 198
+   D) 200
+18. Skip counting by twos from 2 gives ___
+   A) 2, 4, 6, 8
+   B) 2, 3, 5, 8
+   C) 4, 6, 8, 11
+   D) 2, 12, 22, 32
+19. Addition means ___
+   A) taking things away
+   B) comparing two numbers
+   C) putting things together
+   D) sharing a cake
+20. The sign used in addition is ___
+   A) –
+   B) +
+   C) =
+   D) ×
+21. 3 + 0 gives ___
+   A) 30
+   B) 0
+   C) 1
+   D) 3
+22. The sum of 6 and 4 is ___
+   A) 10
+   B) 12
+   C) 2
+   D) 9
+23. On a number line, adding means jumping to the ___
+   A) down
+   B) right
+   C) left
+   D) up
+24. 23 + 14 gives ___
+   A) 46
+   B) 36
+   C) 37
+   D) 47
+25. 48 − 25 gives ___
+   A) 33
+   B) 73
+   C) 63
+   D) 23
+26. The answer in subtraction is called the ___
+   A) difference
+   B) place
+   C) total
+   D) sum
+27. 5 − 5 gives ___
+   A) 5
+   B) 1
+   C) 0
+   D) 10
+28. 10 − 3 is ___
+   A) 8
+   B) 7
+   C) 6
    D) 13
-30. Subtraction is checked by using ___
-   A) counting on fingers only
+29. Subtraction is checked by using ___
+   A) addition
    B) multiplication
-   C) the ruler
-   D) addition
+   C) counting on fingers only
+   D) the ruler
+30. A subtraction story solved by ₦100 − ₦45 leaves ___
+   A) ₦145
+   B) ₦45
+   C) ₦65
+   D) ₦55
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.

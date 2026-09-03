@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — READING AND PHONICS
 
-**You will learn to**
-
-• read words with sound blends
-
-• say the sounds of letters
-
-• read simple sentences
-
-**Things to know**
+**Main content**
 
 • **Phonics** is the sound of letters.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — WRITING AND SPEAKING
 
-**You will learn to**
-
-• write simple sentences
-
-• speak clearly
-
-• use capital letters
-
-**Things to know**
+**Main content**
 
 • We write **sentences** about things.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — READING AND COMPREHENSION
 
-**You will learn to**
-
-• read a passage
-
-• answer questions about it
-
-• understand what we read
-
-**Things to know**
+**Main content**
 
 • **Comprehension** is understanding what we read.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — SPEAKING AND GRAMMAR
 
-**You will learn to**
-
-• speak in full sentences
-
-• use correct grammar
-
-• ask questions
-
-**Things to know**
+**Main content**
 
 • We speak in complete sentences.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — READING AND VOCABULARY
 
-**You will learn to**
-
-• read new words
-
-• learn new vocabulary
-
-• use words in sentences
-
-**Things to know**
+**Main content**
 
 • **Vocabulary** is the words we know.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — WRITING AND GRAMMAR
 
-**You will learn to**
-
-• write paragraphs
-
-• use correct grammar
-
-• write about topics
-
-**Things to know**
+**Main content**
 
 • A **paragraph** is a group of sentences about one thing.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — LISTENING AND SPEAKING
 
-**You will learn to**
-
-• listen carefully
-
-• speak clearly
-
-• follow instructions
-
-**Things to know**
+**Main content**
 
 • We **listen** carefully when others talk.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — READING AND HANDWRITING
 
-**You will learn to**
-
-• read fluently
-
-• write neatly
-
-• use good handwriting
-
-**Things to know**
+**Main content**
 
 • We read **fluently** (smoothly and clearly).
 

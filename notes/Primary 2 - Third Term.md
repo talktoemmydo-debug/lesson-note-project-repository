@@ -2,7 +2,7 @@
 
 *Pupil's book · every subject offered to this class, every teaching week of the term.*
 
-**11 subjects · 98 lessons · 2 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
+**11 subjects · 98 lessons · 3 sections.** Weeks 7, 10, 11 and 12 are Mid-Term Break, Revision, Examination and Closing: no lesson is written for a week the school keeps for those, except where the school's own table prints a teaching row there.
 
 Each lesson ends with a worksheet and a piece of my own work; each subject ends with the term practice paper — 30 objective, 10 sub-objective and 5 theory questions. The contents page lists every part and every lesson of this book.
 
@@ -12,28 +12,38 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
 
 ## Contents
 
-*2 subjects · 16 lessons · 2 term practice papers. Each part begins on a fresh page.*
+*3 subjects · 24 lessons · 3 term practice papers. Each part begins on a fresh page.*
 
 - **[Basic Science](#basic-science)** · 2
   - [WEEK 1 — CHANGE IN NATURE](#week-1-change-in-nature) · 2
   - [WEEK 2 — CHANGE IN PLANTS](#week-2-change-in-plants) · 2
   - [WEEK 3 — CHANGE IN ANIMALS](#week-3-change-in-animals) · 3
-  - [WEEK 4 — WATER IN OUR ENVIRONMENT](#week-4-water-in-our-environment) · 4
+  - [WEEK 4 — WATER IN OUR ENVIRONMENT](#week-4-water-in-our-environment) · 3
   - [WEEK 5 — THE MOUTH, TEETH AND TONGUE](#week-5-the-mouth-teeth-and-tongue) · 4
   - [WEEK 6 — THE TEETH](#week-6-the-teeth) · 5
-  - [WEEK 8 — NON-LIVING THINGS: ROCKS](#week-8-non-living-things-rocks) · 6
+  - [WEEK 8 — NON-LIVING THINGS: ROCKS](#week-8-non-living-things-rocks) · 5
   - [WEEK 9 — LIVING AND NON-LIVING THINGS](#week-9-living-and-non-living-things) · 6
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 8
-  - [WEEK 1 — PHISHING AWARENESS](#week-1-phishing-awareness) · 8
-  - [WEEK 2 — CYBERBULLYING](#week-2-cyberbullying) · 8
-  - [WEEK 3 — INCLUSIVITY IN DIGITAL CONTENT](#week-3-inclusivity-in-digital-content) · 9
-  - [WEEK 4 — BASICS OF PROGRAMMING](#week-4-basics-of-programming) · 10
-  - [WEEK 5 — INTRODUCTION TO SCRATCH](#week-5-introduction-to-scratch) · 10
-  - [WEEK 6 — CODING WITH SCRATCH (PART 1)](#week-6-coding-with-scratch-part-1) · 11
-  - [WEEK 8 — CODING WITH SCRATCH (PART 2)](#week-8-coding-with-scratch-part-2) · 12
-  - [WEEK 9 — SEQUENCE IN PROGRAMMING](#week-9-sequence-in-programming) · 12
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 3rd Term)](#examination-practice-basic-science-primary-2-3rd-term)** · 14
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-2-3rd-term)** · 16
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 7
+  - [WEEK 1 — JESUS PRAYED TO THE FATHER](#week-1-jesus-prayed-to-the-father) · 7
+  - [WEEK 2 — JESUS GIVES HIS LIFE FOR US ON THE CROSS](#week-2-jesus-gives-his-life-for-us-on-the-cross) · 7
+  - [WEEK 3 — JESUS GIVES US A NEW LIFE (PART 1)](#week-3-jesus-gives-us-a-new-life-part-1) · 8
+  - [WEEK 4 — JESUS GIVES US A NEW LIFE (PART 2)](#week-4-jesus-gives-us-a-new-life-part-2) · 8
+  - [WEEK 5 — THE HOLY SPIRIT OUR GUIDE (PART 1)](#week-5-the-holy-spirit-our-guide-part-1) · 9
+  - [WEEK 6 — THE HOLY SPIRIT OUR GUIDE (PART 2)](#week-6-the-holy-spirit-our-guide-part-2) · 10
+  - [WEEK 8 — GIFTS OF THE HOLY SPIRIT](#week-8-gifts-of-the-holy-spirit) · 10
+  - [WEEK 9 — LIVING AS GOD'S CHILDREN](#week-9-living-as-gods-children) · 11
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 12
+  - [WEEK 1 — PHISHING AWARENESS](#week-1-phishing-awareness) · 12
+  - [WEEK 2 — CYBERBULLYING](#week-2-cyberbullying) · 12
+  - [WEEK 3 — INCLUSIVITY IN DIGITAL CONTENT](#week-3-inclusivity-in-digital-content) · 13
+  - [WEEK 4 — BASICS OF PROGRAMMING](#week-4-basics-of-programming) · 13
+  - [WEEK 5 — INTRODUCTION TO SCRATCH](#week-5-introduction-to-scratch) · 14
+  - [WEEK 6 — CODING WITH SCRATCH (PART 1)](#week-6-coding-with-scratch-part-1) · 15
+  - [WEEK 8 — CODING WITH SCRATCH (PART 2)](#week-8-coding-with-scratch-part-2) · 15
+  - [WEEK 9 — SEQUENCE IN PROGRAMMING](#week-9-sequence-in-programming) · 16
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 2 · 3rd Term)](#examination-practice-basic-science-primary-2-3rd-term)** · 17
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 3rd Term)](#examination-practice-christian-religious-studies-primary-2-3rd-term)** · 19
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 2 · 3rd Term)](#examination-practice-basic-digital-literacy-primary-2-3rd-term)** · 21
 
 
 
@@ -52,15 +62,7 @@ written for them.
 
 ### WEEK 1 — CHANGE IN NATURE
 
-**You will learn to**
-
-• say what change is
-
-• name changes in nature
-
-• notice change around us
-
-**Things to know**
+**Main content**
 
 • A **change** is when something becomes different.
 
@@ -126,15 +128,7 @@ written for them.
 
 ### WEEK 2 — CHANGE IN PLANTS
 
-**You will learn to**
-
-• say how plants change
-
-• name the stages of a plant
-
-• care for plants
-
-**Things to know**
+**Main content**
 
 • Plants **change** as they grow.
 
@@ -200,15 +194,7 @@ written for them.
 
 ### WEEK 3 — CHANGE IN ANIMALS
 
-**You will learn to**
-
-• say how animals change
-
-• name young animals
-
-• care for animals
-
-**Things to know**
+**Main content**
 
 • Animals **change** as they grow.
 
@@ -274,15 +260,7 @@ written for them.
 
 ### WEEK 4 — WATER IN OUR ENVIRONMENT
 
-**You will learn to**
-
-• say where water is
-
-• name uses of water
-
-• keep water clean
-
-**Things to know**
+**Main content**
 
 • **Water** is all around us.
 
@@ -348,15 +326,7 @@ written for them.
 
 ### WEEK 5 — THE MOUTH, TEETH AND TONGUE
 
-**You will learn to**
-
-• name the parts of the mouth
-
-• say what each part does
-
-• care for the mouth
-
-**Things to know**
+**Main content**
 
 • The **mouth** helps us eat and speak.
 
@@ -422,15 +392,7 @@ written for them.
 
 ### WEEK 6 — THE TEETH
 
-**You will learn to**
-
-• name the kinds of teeth
-
-• say what teeth do
-
-• care for the teeth
-
-**Things to know**
+**Main content**
 
 • We have **two sets** of teeth.
 
@@ -496,15 +458,7 @@ written for them.
 
 ### WEEK 8 — NON-LIVING THINGS: ROCKS
 
-**You will learn to**
-
-• say what a rock is
-
-• name kinds of rocks
-
-• tell rocks from living things
-
-**Things to know**
+**Main content**
 
 • A **rock** is a non-living thing.
 
@@ -570,15 +524,7 @@ written for them.
 
 ### WEEK 9 — LIVING AND NON-LIVING THINGS
 
-**You will learn to**
-
-• tell living from non-living
-
-• name properties of each
-
-• give examples
-
-**Things to know**
+**Main content**
 
 • **Living things** are alive.
 
@@ -643,6 +589,546 @@ written for them.
 
 ---
 
+# Christian Religious Studies (CRS)
+
+These are the notes for the third term of Primary 2. They follow the NERDC
+Basic Education Curriculum (2025 revision) and the school's scheme of work.
+The eight weeks below are the weeks that carry a written note; the remaining
+weeks of the term are for revision and the end-of-term paper, so no note is
+written for them.
+
+*Depth: NERDC Primary 2 · Christian Religious Studies · Third Term W1-6, 8, 9 (Jesus prayed to the Father; Jesus gives his life for us on the cross; Jesus gives us a new life; the Holy Spirit our guide; gifts of the Holy Spirit; living as God's children).*
+
+
+### WEEK 1 — JESUS PRAYED TO THE FATHER
+
+**Main content**
+
+• **Jesus** prayed to God the **Father**.
+
+• Jesus prayed **early in the morning**.
+
+• Jesus prayed in **quiet places**.
+
+• Jesus prayed when things were **hard**.
+
+• Jesus **thanked** the Father.
+
+• Jesus asked the Father for **help**.
+
+• Jesus taught his **friends** to pray.
+
+• Prayer is **talking to God**.
+
+• We can pray **any time**.
+
+• We pray like Jesus did.
+
+**Let us talk**
+
+1. Who did Jesus pray to?
+
+2. When did Jesus pray?
+
+3. What is prayer?
+
+**Words for my notebook**
+
+• prayer — talking to God
+
+• Father — God our Father
+
+• thank — to say we are glad
+
+**Worksheet**
+
+1. Jesus prayed to God the ___.
+   A) Father B) stone C) tree D) cloud
+
+2. Jesus prayed early in the ___.
+   A) morning B) stone C) tree D) cloud
+
+3. Jesus prayed in ___ places.
+   A) quiet B) noisy C) busy D) loud
+
+4. Prayer is talking to ___.
+   A) God B) stones C) trees D) clouds
+
+5. Fill in: To say we are glad is to _____.
+
+6. Mention two times we can pray.
+
+7. Write what prayer is.
+
+**My own work**
+
+• Write a short prayer thanking God.
+
+---
+
+### WEEK 2 — JESUS GIVES HIS LIFE FOR US ON THE CROSS
+
+**Main content**
+
+• Jesus **loved** us very much.
+
+• Jesus gave his **life** for us.
+
+• Jesus died on the **cross**.
+
+• He did this to **save** us.
+
+• Jesus did **not** do anything wrong.
+
+• He died so we could be **forgiven**.
+
+• After three days Jesus **rose** again.
+
+• The **cross** reminds us of his love.
+
+• We **thank** Jesus for his love.
+
+• Jesus loves every one of us.
+
+**Let us talk**
+
+1. What did Jesus do for us?
+
+2. Where did Jesus die?
+
+3. What happened after three days?
+
+**Words for my notebook**
+
+• cross — where Jesus died
+
+• save — to rescue
+
+• forgive — to say we are not angry
+
+**Worksheet**
+
+1. Jesus gave his ___ for us.
+   A) life B) stone C) tree D) cloud
+
+2. Jesus died on the ___.
+   A) cross B) stone C) tree D) cloud
+
+3. Jesus died to ___ us.
+   A) save B) hurt C) forget D) hide
+
+4. After three days Jesus ___ again.
+   A) rose B) fell C) hid D) slept
+
+5. Fill in: To say we are not angry is to _____.
+
+6. Mention two things Jesus did for us.
+
+7. Write why Jesus died on the cross.
+
+**My own work**
+
+• Write a short prayer thanking Jesus.
+
+---
+
+### WEEK 3 — JESUS GIVES US A NEW LIFE (PART 1)
+
+**Main content**
+
+• Jesus gives us a **new life**.
+
+• A new life means we **change** for the good.
+
+• We stop doing **wrong** things.
+
+• We start doing **good** things.
+
+• Jesus changed **Zacchaeus** the tax collector.
+
+• Zacchaeus gave back what he had **taken**.
+
+• Jesus changed the **woman at the well**.
+
+• She went and told people about **Jesus**.
+
+• Jesus can change **us** too.
+
+• A new life makes us happy.
+
+**Let us talk**
+
+1. What does a new life mean?
+
+2. Who was Zacchaeus?
+
+3. What did Zacchaeus do after meeting Jesus?
+
+**Words for my notebook**
+
+• new life — a changed life
+
+• change — to become different
+
+• Zacchaeus — the tax collector Jesus changed
+
+**Worksheet**
+
+1. Jesus gives us a ___ life.
+   A) new B) old C) sad D) dark
+
+2. A new life means we ___ for the good.
+   A) change B) stay C) hide D) sleep
+
+3. We stop doing ___ things.
+   A) wrong B) good C) kind D) nice
+
+4. Jesus changed ___ the tax collector.
+   A) Zacchaeus B) Peter C) John D) Paul
+
+5. Fill in: To become different is to _____.
+
+6. Mention two things we do in a new life.
+
+7. Write what a new life means.
+
+**My own work**
+
+• Write one good thing you will do this week.
+
+---
+
+### WEEK 4 — JESUS GIVES US A NEW LIFE (PART 2)
+
+**Main content**
+
+• In a new life we **tell the truth**.
+
+• We **share** with others.
+
+• We **help** those in need.
+
+• We **forgive** those who hurt us.
+
+• We **obey** our parents and teachers.
+
+• We **love** our friends and neighbours.
+
+• We **pray** every day.
+
+• We **read** about Jesus.
+
+• We **go to church** with our family.
+
+• Jesus helps us live this new life.
+
+**Let us talk**
+
+1. Name two things we do in a new life.
+
+2. Who do we forgive?
+
+3. How does Jesus help us?
+
+**Words for my notebook**
+
+• truth — what really happened
+
+• forgive — to say we are not angry
+
+• obey — to do what we are told
+
+**Worksheet**
+
+1. In a new life we tell the ___.
+   A) truth B) stone C) tree D) cloud
+
+2. We ___ with others.
+   A) share B) fight C) hide D) break
+
+3. We ___ those who hurt us.
+   A) forgive B) hit C) shout at D) chase
+
+4. We ___ our parents and teachers.
+   A) obey B) ignore C) shout at D) chase
+
+5. Fill in: What really happened is the _____.
+
+6. Mention two ways we live a new life.
+
+7. Write how Jesus helps us.
+
+**My own work**
+
+• Write two good things you do for others.
+
+---
+
+### WEEK 5 — THE HOLY SPIRIT OUR GUIDE (PART 1)
+
+**Main content**
+
+• The **Holy Spirit** is God's Spirit.
+
+• Jesus promised to send the **Holy Spirit**.
+
+• The Holy Spirit came at **Pentecost**.
+
+• The Holy Spirit is our **guide**.
+
+• A **guide** shows us the way.
+
+• The Holy Spirit helps us know **right from wrong**.
+
+• The Holy Spirit helps us **pray**.
+
+• The Holy Spirit gives us **strength**.
+
+• The Holy Spirit makes us **brave**.
+
+• We listen to the Holy Spirit.
+
+**Let us talk**
+
+1. Who is the Holy Spirit?
+
+2. What does a guide do?
+
+3. How does the Holy Spirit help us?
+
+**Words for my notebook**
+
+• Holy Spirit — God's Spirit
+
+• guide — someone who shows the way
+
+• Pentecost — when the Holy Spirit came
+
+**Worksheet**
+
+1. The Holy Spirit is God's ___.
+   A) Spirit B) stone C) tree D) cloud
+
+2. The Holy Spirit is our ___.
+   A) guide B) stone C) tree D) cloud
+
+3. A guide shows us the ___.
+   A) way B) stone C) tree D) cloud
+
+4. The Holy Spirit helps us know right from ___.
+   A) wrong B) loud C) dark D) hard
+
+5. Fill in: When the Holy Spirit came was _____.
+
+6. Mention two ways the Holy Spirit helps us.
+
+7. Write who the Holy Spirit is.
+
+**My own work**
+
+• Write a short prayer asking the Holy Spirit to guide you.
+
+---
+
+### WEEK 6 — THE HOLY SPIRIT OUR GUIDE (PART 2)
+
+**Main content**
+
+• The Holy Spirit helps us show **good fruit**.
+
+• The fruit of the Spirit is **love**.
+
+• The fruit of the Spirit is **joy**.
+
+• The fruit of the Spirit is **peace**.
+
+• The fruit of the Spirit is **patience**.
+
+• The fruit of the Spirit is **kindness**.
+
+• The fruit of the Spirit is **goodness**.
+
+• The fruit of the Spirit is **gentleness**.
+
+• The fruit of the Spirit is **self-control**.
+
+• Showing this fruit pleases God.
+
+**Let us talk**
+
+1. Name three fruits of the Spirit.
+
+2. How do we show love?
+
+3. Why do we show the fruit of the Spirit?
+
+**Words for my notebook**
+
+• fruit of the Spirit — the good things the Holy Spirit grows in us
+
+• joy — being very happy
+
+• patience — waiting without getting angry
+
+**Worksheet**
+
+1. The fruit of the Spirit includes ___.
+   A) love B) anger C) noise D) hate
+
+2. The fruit of the Spirit includes ___.
+   A) joy B) anger C) noise D) hate
+
+3. The fruit of the Spirit includes ___.
+   A) peace B) fighting C) noise D) anger
+
+4. ___ means waiting without getting angry.
+   A) Patience B) Anger C) Noise D) Shouting
+
+5. Fill in: Being very happy is _____.
+
+6. Mention four fruits of the Spirit.
+
+7. Write what the fruit of the Spirit is.
+
+**My own work**
+
+• Write the fruits of the Spirit you want to show.
+
+---
+
+### WEEK 8 — GIFTS OF THE HOLY SPIRIT
+
+**Main content**
+
+• The Holy Spirit gives **gifts**.
+
+• One gift is **wisdom** — knowing what is right.
+
+• One gift is **understanding** — knowing what things mean.
+
+• One gift is **counsel** — knowing what to do.
+
+• One gift is **fortitude** — being brave.
+
+• One gift is **knowledge** — knowing about God.
+
+• One gift is **respect for God**.
+
+• One gift is **wonder at God's works**.
+
+• The gifts are for doing **good**.
+
+• We use our gifts to help others.
+
+**Let us talk**
+
+1. Who gives the gifts?
+
+2. Name two gifts of the Holy Spirit.
+
+3. What are the gifts for?
+
+**Words for my notebook**
+
+• gift — something we are given
+
+• wisdom — knowing what is right
+
+• fortitude — being brave
+
+**Worksheet**
+
+1. The ___ gives us gifts.
+   A) Holy Spirit B) stone C) tree D) cloud
+
+2. Knowing what is right is ___.
+   A) wisdom B) noise C) sleep D) anger
+
+3. Being brave is ___.
+   A) fortitude B) noise C) sleep D) anger
+
+4. The gifts are for doing ___.
+   A) good B) harm C) wrong D) noise
+
+5. Fill in: Something we are given is a _____.
+
+6. Mention three gifts of the Holy Spirit.
+
+7. Write what the gifts are for.
+
+**My own work**
+
+• Write three gifts of the Holy Spirit.
+
+---
+
+### WEEK 9 — LIVING AS GOD'S CHILDREN
+
+**Main content**
+
+• We are **God's children**.
+
+• God **loves** us as a father loves his children.
+
+• As God's children we **obey** him.
+
+• We **love** one another.
+
+• We **tell the truth**.
+
+• We **help** those in need.
+
+• We **pray** and **worship** God.
+
+• We **care** for what God made.
+
+• We **forgive** as God forgives us.
+
+• Living as God's children makes God happy.
+
+**Let us talk**
+
+1. Whose children are we?
+
+2. Name two ways we live as God's children.
+
+3. What makes God happy?
+
+**Words for my notebook**
+
+• God's children — the people God loves as his own
+
+• obey — to do what we are told
+
+• worship — to praise God
+
+**Worksheet**
+
+1. We are ___ children.
+   A) God's B) stone C) tree D) cloud
+
+2. As God's children we ___ him.
+   A) obey B) ignore C) forget D) chase
+
+3. We ___ one another.
+   A) love B) fight C) hate D) chase
+
+4. We ___ and worship God.
+   A) pray B) sleep C) eat D) run
+
+5. Fill in: To praise God is to _____.
+
+6. Mention three ways we live as God's children.
+
+7. Write what it means to be God's child.
+
+**My own work**
+
+• Write three things you do as God's child.
+
+
+---
+
 # Basic Digital Literacy
 
 These are the notes for the third term of Primary 2. They follow the NERDC
@@ -656,15 +1142,7 @@ written for them.
 
 ### WEEK 1 — PHISHING AWARENESS
 
-**You will learn to**
-
-• say what phishing is
-
-• spot a fake message
-
-• tell a grown-up
-
-**Things to know**
+**Main content**
 
 • **Phishing** is a trick to steal our information.
 
@@ -730,15 +1208,7 @@ written for them.
 
 ### WEEK 2 — CYBERBULLYING
 
-**You will learn to**
-
-• say what cyberbullying is
-
-• know it is wrong
-
-• get help
-
-**Things to know**
+**Main content**
 
 • **Cyberbullying** is using a phone or computer to be unkind.
 
@@ -804,15 +1274,7 @@ written for them.
 
 ### WEEK 3 — INCLUSIVITY IN DIGITAL CONTENT
 
-**You will learn to**
-
-• say what inclusivity means
-
-• include everyone
-
-• make content for all
-
-**Things to know**
+**Main content**
 
 • **Inclusivity** means including everyone.
 
@@ -878,15 +1340,7 @@ written for them.
 
 ### WEEK 4 — BASICS OF PROGRAMMING
 
-**You will learn to**
-
-• say what programming is
-
-• give instructions
-
-• follow steps
-
-**Things to know**
+**Main content**
 
 • **Programming** is telling a computer what to do.
 
@@ -952,15 +1406,7 @@ written for them.
 
 ### WEEK 5 — INTRODUCTION TO SCRATCH
 
-**You will learn to**
-
-• say what Scratch is
-
-• name the parts of Scratch
-
-• move a character
-
-**Things to know**
+**Main content**
 
 • **Scratch** is a place where we make programs.
 
@@ -1026,15 +1472,7 @@ written for them.
 
 ### WEEK 6 — CODING WITH SCRATCH (PART 1)
 
-**You will learn to**
-
-• put blocks together
-
-• make the sprite move
-
-• make the sprite talk
-
-**Things to know**
+**Main content**
 
 • We **drag** blocks to the work area.
 
@@ -1100,15 +1538,7 @@ written for them.
 
 ### WEEK 8 — CODING WITH SCRATCH (PART 2)
 
-**You will learn to**
-
-• use more blocks
-
-• turn the sprite
-
-• repeat actions
-
-**Things to know**
+**Main content**
 
 • We can make the sprite **turn**.
 
@@ -1174,15 +1604,7 @@ written for them.
 
 ### WEEK 9 — SEQUENCE IN PROGRAMMING
 
-**You will learn to**
-
-• say what sequence is
-
-• put steps in order
-
-• fix the wrong order
-
-**Things to know**
+**Main content**
 
 • **Sequence** means the order of steps.
 
@@ -1429,6 +1851,192 @@ Answer in full sentences.
 43. Name two young animals and their mothers. (2 marks)
 44. Name two uses of water. Why do we keep water clean? (2 marks)
 45. What is the difference between living and non-living things? (2 marks)
+
+
+---
+
+---
+
+# EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 2 · 3rd Term)
+
+**Time:** 1 hour · **Total: 50 marks**
+
+## Section A — Objective (30 marks)
+Choose the correct option and ring the letter.
+
+1. Jesus prayed to God the ___
+   A) Father
+   B) tree
+   C) stone
+   D) cloud
+2. Jesus prayed early in the ___
+   A) tree
+   B) morning
+   C) cloud
+   D) stone
+3. Jesus prayed in ___ places
+   A) loud
+   B) busy
+   C) noisy
+   D) quiet
+4. Prayer is talking to ___
+   A) God
+   B) trees
+   C) clouds
+   D) stones
+5. Jesus gave his ___ for us
+   A) tree
+   B) stone
+   C) life
+   D) cloud
+6. Jesus died on the ___
+   A) cloud
+   B) cross
+   C) stone
+   D) tree
+7. Jesus died to ___ us
+   A) hurt
+   B) forget
+   C) hide
+   D) save
+8. After three days Jesus ___ again
+   A) rose
+   B) fell
+   C) hid
+   D) slept
+9. Jesus gives us a ___ life
+   A) old
+   B) new
+   C) sad
+   D) dark
+10. A new life means we ___ for the good
+   A) stay
+   B) sleep
+   C) change
+   D) hide
+11. We stop doing ___ things
+   A) kind
+   B) nice
+   C) good
+   D) wrong
+12. Jesus changed ___ the tax collector
+   A) John
+   B) Zacchaeus
+   C) Paul
+   D) Peter
+13. In a new life we tell the ___
+   A) truth
+   B) stone
+   C) cloud
+   D) tree
+14. We ___ with others
+   A) fight
+   B) hide
+   C) share
+   D) break
+15. We ___ those who hurt us
+   A) shout at
+   B) hit
+   C) chase
+   D) forgive
+16. We ___ our parents and teachers
+   A) chase
+   B) obey
+   C) ignore
+   D) shout at
+17. The Holy Spirit is God's ___
+   A) Spirit
+   B) tree
+   C) cloud
+   D) stone
+18. The Holy Spirit is our ___
+   A) cloud
+   B) tree
+   C) guide
+   D) stone
+19. A guide shows us the ___
+   A) cloud
+   B) stone
+   C) tree
+   D) way
+20. The Holy Spirit helps us know right from ___
+   A) wrong
+   B) loud
+   C) hard
+   D) dark
+21. The fruit of the Spirit includes ___
+   A) anger
+   B) love
+   C) noise
+   D) hate
+22. The fruit of the Spirit includes ___
+   A) noise
+   B) hate
+   C) joy
+   D) anger
+23. The fruit of the Spirit includes ___
+   A) fighting
+   B) anger
+   C) noise
+   D) peace
+24. ___ means waiting without getting angry
+   A) Patience
+   B) Anger
+   C) Shouting
+   D) Noise
+25. The ___ gives us gifts
+   A) stone
+   B) Holy Spirit
+   C) cloud
+   D) tree
+26. Knowing what is right is ___
+   A) noise
+   B) anger
+   C) wisdom
+   D) sleep
+27. Being brave is ___
+   A) anger
+   B) noise
+   C) sleep
+   D) fortitude
+28. The gifts are for doing ___
+   A) harm
+   B) good
+   C) wrong
+   D) noise
+29. We are ___ children
+   A) God's
+   B) stone
+   C) tree
+   D) cloud
+30. As God's children we ___ him
+   A) ignore
+   B) forget
+   C) obey
+   D) chase
+
+## Section B — Sub-objective (10 marks)
+Answer briefly.
+
+31. Name two times Jesus prayed
+32. Name two things Jesus did for us
+33. Name two things we do in a new life
+34. Name four fruits of the Spirit
+35. Name three gifts of the Holy Spirit
+36. Name two ways the Holy Spirit helps us
+37. Name three ways we live as God's children
+38. Name two ways we show love
+39. Name two things we do to please God
+40. Name two people Jesus changed
+
+## Section C — Theory (10 marks)
+Answer in full sentences.
+
+41. Who did Jesus pray to? Name two times he prayed. (2 marks)
+42. What did Jesus do for us on the cross? (2 marks)
+43. What does a new life mean? Name two things we do. (2 marks)
+44. Who is the Holy Spirit? Name three gifts of the Holy Spirit. (2 marks)
+45. Name four fruits of the Spirit. (2 marks)
 
 
 ---

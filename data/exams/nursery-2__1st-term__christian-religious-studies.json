@@ -4,7 +4,7 @@
  "term": "1st Term",
  "objective": [
   {
-   "stem": "God made everything — the heavens and the",
+   "stem": "God made everything — the heavens and the ___",
    "answer": "earth",
    "distractors": [
     "markets",
@@ -22,7 +22,7 @@
    ]
   },
   {
-   "stem": "On Day 1 God made",
+   "stem": "On Day 1 God made ___",
    "answer": "light",
    "distractors": [
     "fish",
@@ -31,7 +31,7 @@
    ]
   },
   {
-   "stem": "On Day 3 God made the dry land and",
+   "stem": "On Day 3 God made the dry land and ___",
    "answer": "plants and trees",
    "distractors": [
     "the sun",
@@ -40,7 +40,7 @@
    ]
   },
   {
-   "stem": "On Day 4 God made lights in the sky — the sun, the moon and",
+   "stem": "On Day 4 God made lights in the sky — the sun, the moon and ___",
    "answer": "the stars",
    "distractors": [
     "the birds",
@@ -49,7 +49,7 @@
    ]
   },
   {
-   "stem": "On Day 6 God made",
+   "stem": "On Day 6 God made ___",
    "answer": "man and woman",
    "distractors": [
     "the light",
@@ -67,7 +67,7 @@
    ]
   },
   {
-   "stem": "The first man was",
+   "stem": "The first man was ___",
    "answer": "Adam",
    "distractors": [
     "Noah",
@@ -76,7 +76,7 @@
    ]
   },
   {
-   "stem": "The first woman was",
+   "stem": "The first woman was ___",
    "answer": "Eve",
    "distractors": [
     "Mary",
@@ -85,7 +85,7 @@
    ]
   },
   {
-   "stem": "Adam and Eve lived in the Garden of",
+   "stem": "Adam and Eve lived in the Garden of ___",
    "answer": "Eden",
    "distractors": [
     "Gethsemane",
@@ -94,7 +94,7 @@
    ]
   },
   {
-   "stem": "God gave Adam and Eve the duty to",
+   "stem": "God gave Adam and Eve the duty to ___",
    "answer": "take care of the garden",
    "distractors": [
     "build a city of stone",
@@ -112,7 +112,7 @@
    ]
   },
   {
-   "stem": "The command they broke was not to eat from the tree of the",
+   "stem": "The command they broke was not to eat from the tree of the ___",
    "answer": "knowledge of good and evil",
    "distractors": [
     "fruit of the palm tree",
@@ -121,7 +121,7 @@
    ]
   },
   {
-   "stem": "The special name for God as the maker of all things is",
+   "stem": "The special name for God as the maker of all things is ___",
    "answer": "Creator",
    "distractors": [
     "Captain",
@@ -130,7 +130,7 @@
    ]
   },
   {
-   "stem": "The psalm we say with thanksgiving is Psalm",
+   "stem": "The psalm we say with thanksgiving is Psalm ___",
    "answer": "136",
    "distractors": [
     "23",
@@ -148,7 +148,7 @@
    ]
   },
   {
-   "stem": "Every good and perfect gift comes down from",
+   "stem": "Every good and perfect gift comes down from ___",
    "answer": "God",
    "distractors": [
     "the market",
@@ -157,7 +157,7 @@
    ]
   },
   {
-   "stem": "Food, water and shelter are gifts that",
+   "stem": "Food, water and shelter are gifts that ___",
    "answer": "keep us alive",
    "distractors": [
     "make us poor",
@@ -175,7 +175,7 @@
    ]
   },
   {
-   "stem": "God gave His only Son because He",
+   "stem": "God gave His only Son because He ___",
    "answer": "loves the world",
    "distractors": [
     "was told to",
@@ -184,7 +184,7 @@
    ]
   },
   {
-   "stem": "The gift of God's Son is our",
+   "stem": "The gift of God's Son is our ___",
    "answer": "Saviour",
    "distractors": [
     "classmate",
@@ -193,7 +193,7 @@
    ]
   },
   {
-   "stem": "Jesus was born in the town of",
+   "stem": "Jesus was born in the town of ___",
    "answer": "Bethlehem",
    "distractors": [
     "Jericho",
@@ -202,7 +202,7 @@
    ]
   },
   {
-   "stem": "The virgin mother of Jesus was",
+   "stem": "The virgin mother of Jesus was ___",
    "answer": "Mary",
    "distractors": [
     "Ruth",
@@ -211,7 +211,7 @@
    ]
   },
   {
-   "stem": "The baby Jesus was laid in a",
+   "stem": "The baby Jesus was laid in a ___",
    "answer": "manger",
    "distractors": [
     "chariot",
@@ -220,7 +220,7 @@
    ]
   },
   {
-   "stem": "The angels told the",
+   "stem": "The angels told the ___",
    "answer": "shepherds",
    "distractors": [
     "soldiers",
@@ -229,7 +229,7 @@
    ]
   },
   {
-   "stem": "The gift that was NOT brought by the wise men is",
+   "stem": "The gift that was NOT brought by the wise men is ___",
    "answer": "sand",
    "distractors": [
     "gold",
@@ -247,7 +247,7 @@
    ]
   },
   {
-   "stem": "Jesus died on the",
+   "stem": "Jesus died on the ___",
    "answer": "cross",
    "distractors": [
     "tree in the garden",
@@ -256,7 +256,7 @@
    ]
   },
   {
-   "stem": "On the third day Jesus",
+   "stem": "On the third day Jesus ___",
    "answer": "rose again",
    "distractors": [
     "stayed buried",
@@ -265,7 +265,7 @@
    ]
   },
   {
-   "stem": "Because Jesus lives, we are",
+   "stem": "Because Jesus lives, we are ___",
    "answer": "saved",
    "distractors": [
     "lost",
@@ -278,13 +278,22 @@
   {
    "stem": "Name the six days of creation in order. ",
    "points": [
-    "light; sky; land and plants; sun, moon, stars; fish and birds; man and animals"
+    "light; sky; land and plants; sun",
+    "moon",
+    "stars; fish and birds; man and animals"
    ]
   },
   {
    "stem": "Say what God made on Day 3 and Day 4. ",
    "points": [
-    "plants and dry land; lights in the sky"
+    "plants",
+    "and",
+    "dry",
+    "land;",
+    "lights",
+    "in",
+    "the",
+    "sky"
    ]
   },
   {

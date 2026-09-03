@@ -11,14 +11,7 @@ Week 12 Closing — those weeks carry no note.
 
 *Depth: NERDC Nursery 3 · CRS · Third Term (pp 576–578).*
 
-**You will learn to**
-
-• say what a saviour is
-• tell why Jesus came into the world
-• say what Jesus did for me on the cross
-• tell the Easter story in my own words
-
-**Things to know**
+**Main content**
 
 • A **saviour** is somebody who **saves** us or **rescues** us out of danger.
 • A **sin** is the wrong thing we do — **fighting**, **lying**, **stealing**, refusing to obey.
@@ -66,14 +59,7 @@ Draw three hills with a cross on the middle hill, then draw the sun rising behin
 
 *Depth: NERDC Nursery 3 · CRS · Third Term (pp 576–578).*
 
-**You will learn to**
-
-• say what Jesus calls us
-• tell who my brothers and sisters in God's family are
-• show a friend what love looks like
-• say how we prove that we are Jesus' friends
-
-**Things to know**
+**Main content**
 
 • Jesus said, "**You are My friends**" (John 15:15) — He did not call those who follow Him strangers.
 • A **friend** is one who stays near, tells the truth, shares and does not hurt you.
@@ -120,14 +106,7 @@ Draw four children holding hands in a ring, then draw a small lamb sitting insid
 
 *Depth: NERDC Nursery 3 · CRS · Third Term (pp 576–578).*
 
-**You will learn to**
-
-• say the greatest commandment of the law
-• tell who my neighbour is
-• show love to God in three ways
-• show love to people by what I do
-
-**Things to know**
+**Main content**
 
 • The **greatest commandment**: **love the Lord your God with all your heart** (Matthew 22:37).
 • The **second** is like it: **love your neighbour as yourself** (Matthew 22:39).
@@ -175,14 +154,7 @@ Draw a boy helping a small girl to stand up, then draw two children sharing one 
 
 *Depth: NERDC Primary 2 · CRS · First Term (pp 699–701), and Exodus 20 in child's words.*
 
-**You will learn to**
-
-• say what a commandment is
-• name five of God's rules for living
-• tell why we obey God
-• say who brought God's rules to the people
-
-**Things to know**
+**Main content**
 
 • **God's rules for living are called commandments** — they are not punishments, they are guidance.
 • God gave His rules through **Moses** on the mountain; they were written on **two tables of stone**.
@@ -229,14 +201,7 @@ Draw two plain stone tables standing side by side on a mountain, and a small boy
 
 *Depth: NERDC Primary 2 · CRS · First Term W1–2, prayer (pp 699–701).*
 
-**You will learn to**
-
-• say what prayer is
-• name four places I can pray
-• tell who listens when I pray
-• pray in two different ways
-
-**Things to know**
+**Main content**
 
 • **Prayer is talking to God** — with my mouth, or only in my heart where nobody can hear.
 • Prayer is like talking to a **father** or a **friend**: I say what I did, what I need and what I thank for.
@@ -284,14 +249,7 @@ Draw a girl kneeling beside her bed with her hands folded, and a bird sitting on
 
 *Depth: NERDC Primary 2 · CRS · First Term W3–4, when to pray (pp 699–701).*
 
-**You will learn to**
-
-• name the special times we pray every day
-• say what we ask God in the morning and at night
-• thank God before a meal
-• tell when else it is good to pray
-
-**Things to know**
+**Main content**
 
 • There is **no wrong time** to pray; we can pray any time we want.
 • In the **morning** we thank God for the night that kept us safe, and we ask for **protection** for the day.
@@ -339,14 +297,7 @@ Draw four small pictures in a row: the rising sun, a bowl of food, a school cap 
 
 *Depth: NERDC Primary 2 · CRS · First Term W1–2, how to pray (pp 699–701).*
 
-**You will learn to**
-
-• show three positions we can pray in
-• tell why we fold the hands
-• pray a short prayer with the class
-• say what Jesus did when He prayed
-
-**Things to know**
+**Main content**
 
 • We may pray **standing**, **sitting**, **kneeling** or simply with the **head bowed**.
 • **Kneeling and bowing the head** are ways of showing God honour, not rules that make the prayer work.
@@ -394,14 +345,7 @@ Draw three children praying: one standing, one kneeling with the head bowed, one
 
 *Depth: NERDC Primary 2 · CRS · First Term W3–4, keeping on in prayer (pp 699–701).*
 
-**You will learn to**
-
-• keep a daily order of prayer
-• use the pattern Jesus taught
-• pray for four kinds of people
-• tell how God speaks back to my prayer
-
-**Things to know**
+**Main content**
 
 • A **daily order** keeps prayer from being forgotten: **morning**, **before food**, **before school**, **bed**.
 • Jesus taught His friends a pattern: "**Our Father in heaven**, may Your name be honoured; give us our

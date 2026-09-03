@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — PLANTING A GARDEN
 
-**You will learn to**
-
-• say what a garden is
-
-• plant a seed
-
-• care for a young plant
-
-**Things to know**
+**Main content**
 
 • A **garden** is a place where we grow plants.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — CARING FOR CROPS
 
-**You will learn to**
-
-• say how to care for crops
-
-• weed and water
-
-• protect crops
-
-**Things to know**
+**Main content**
 
 • We **water** crops so they do not dry.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — ANIMALS AND THEIR YOUNG
 
-**You will learn to**
-
-• name animals and their young
-
-• care for young animals
-
-• say what animals give us
-
-**Things to know**
+**Main content**
 
 • Animals have **young ones**.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — PREPARING MORE FOODS
 
-**You will learn to**
-
-• prepare simple foods
-
-• prepare a fruit plate
-
-• keep food clean
-
-**Things to know**
+**Main content**
 
 • We can prepare **fruits** like banana, orange and mango.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — KEEPING THE SCHOOL CLEAN
 
-**You will learn to**
-
-• say how to keep the school clean
-
-• do simple cleaning at school
-
-• keep our class tidy
-
-**Things to know**
+**Main content**
 
 • We **sweep** the classroom floor.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — REUSING WASTE
 
-**You will learn to**
-
-• say what waste is
-
-• name things we can reuse
-
-• make something from waste
-
-**Things to know**
+**Main content**
 
 • **Waste** is a thing we no longer need.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — SIMPLE SEWING
 
-**You will learn to**
-
-• say what sewing is
-
-• use a needle and thread
-
-• mend a simple thing
-
-**Things to know**
+**Main content**
 
 • **Sewing** is joining cloth with a needle and thread.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — JOBS IN THE COMMUNITY
 
-**You will learn to**
-
-• name jobs in the community
-
-• say what each job does
-
-• respect all workers
-
-**Things to know**
+**Main content**
 
 • People do different **jobs** in the community.
 

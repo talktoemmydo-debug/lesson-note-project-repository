@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — PLANTS
 
-**You will learn to**
-
-• name the parts of a plant
-
-• say what each part does
-
-• care for a plant
-
-**Things to know**
+**Main content**
 
 • A **plant** is a living thing that grows in the soil.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — ANIMALS
 
-**You will learn to**
-
-• name domestic and wild animals
-
-• say where animals live
-
-• be kind to animals
-
-**Things to know**
+**Main content**
 
 • An **animal** is a living thing that can move.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — OUR SENSE ORGANS
 
-**You will learn to**
-
-• name the five sense organs
-
-• say what each sense organ does
-
-• care for our sense organs
-
-**Things to know**
+**Main content**
 
 • We have **five senses**: sight, hearing, smell, taste and touch.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — HEALTH AND CLEANLINESS
 
-**You will learn to**
-
-• say how to keep the body clean
-
-• name ways germs spread
-
-• keep ourselves healthy
-
-**Things to know**
+**Main content**
 
 • **Germs** are tiny things that can make us sick.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — WATER
 
-**You will learn to**
-
-• say where we get water
-
-• name the uses of water
-
-• keep water clean
-
-**Things to know**
+**Main content**
 
 • **Water** is a liquid we drink and use every day.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — WEATHER AND SEASONS
 
-**You will learn to**
-
-• name the types of weather
-
-• say what we do in each weather
-
-• name the seasons
-
-**Things to know**
+**Main content**
 
 • **Weather** is how the air is on a day.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — LIGHT AND SOUND
 
-**You will learn to**
-
-• name sources of light
-
-• name sources of sound
-
-• care for our eyes and ears
-
-**Things to know**
+**Main content**
 
 • **Light** helps us to see.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — THE SUN, MOON AND STARS
 
-**You will learn to**
-
-• name the sun, moon and stars
-
-• say when we see them
-
-• tell day from night
-
-**Things to know**
+**Main content**
 
 • The **sun** is a big ball of light and heat.
 

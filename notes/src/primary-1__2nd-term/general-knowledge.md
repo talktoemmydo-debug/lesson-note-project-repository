@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — MY FRIENDS
 
-**You will learn to**
-
-• say who a friend is
-
-• name how to be a good friend
-
-• play well with friends
-
-**Things to know**
+**Main content**
 
 • A **friend** is someone I like and play with.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — DAYS AND MONTHS
 
-**You will learn to**
-
-• name the days of the week
-
-• name the months of the year
-
-• say today's day and month
-
-**Things to know**
+**Main content**
 
 • There are **seven** days in a week.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — TIME AND THE CLOCK
 
-**You will learn to**
-
-• say what a clock does
-
-• tell the time on the hour
-
-• name parts of the day
-
-**Things to know**
+**Main content**
 
 • A **clock** tells us the time.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — WEATHER AND SEASONS
 
-**You will learn to**
-
-• name the types of weather
-
-• name the seasons
-
-• dress for the weather
-
-**Things to know**
+**Main content**
 
 • **Weather** is how the air is on a day.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — PLANTS AND ANIMALS AROUND US
 
-**You will learn to**
-
-• name plants around us
-
-• name animals around us
-
-• care for plants and animals
-
-**Things to know**
+**Main content**
 
 • **Plants** grow in the soil.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — FOOD AND NUTRITION
 
-**You will learn to**
-
-• name the food we eat
-
-• say why we eat
-
-• eat a balanced meal
-
-**Things to know**
+**Main content**
 
 • **Food** is what we eat to live and grow.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — SAFETY AT HOME AND ON THE ROAD
 
-**You will learn to**
-
-• say how to be safe at home
-
-• say how to be safe on the road
-
-• avoid danger
-
-**Things to know**
+**Main content**
 
 • **Safety** means keeping away from harm.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — OUR FESTIVALS
 
-**You will learn to**
-
-• say what a festival is
-
-• name festivals in Nigeria
-
-• respect our culture
-
-**Things to know**
+**Main content**
 
 • A **festival** is a special time of celebration.
 

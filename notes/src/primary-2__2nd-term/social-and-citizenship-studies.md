@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — SECURE ENVIRONMENT
 
-**You will learn to**
-
-• say what a secure environment is
-
-• keep our environment safe
-
-• avoid danger
-
-**Things to know**
+**Main content**
 
 • A **secure environment** is a place that is safe.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — LOCAL WILDLIFE AND CONSERVATION
 
-**You will learn to**
-
-• name local wildlife
-
-• say what conservation is
-
-• protect animals
-
-**Things to know**
+**Main content**
 
 • **Wildlife** are the animals and plants in nature.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — NATIONAL VALUES
 
-**You will learn to**
-
-• say what national values are
-
-• name our values
-
-• live by our values
-
-**Things to know**
+**Main content**
 
 • **National values** are the good things we believe in.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — FOLLOWERSHIP
 
-**You will learn to**
-
-• say what followership is
-
-• follow good leaders
-
-• be a good follower
-
-**Things to know**
+**Main content**
 
 • **Followership** is following a leader.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — HEALTHY FAMILY RELATIONSHIPS
 
-**You will learn to**
-
-• say what a healthy family is
-
-• love our family
-
-• live well together
-
-**Things to know**
+**Main content**
 
 • A **healthy family** loves and cares for one another.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — PEOPLE'S BELIEFS AND TRADITION
 
-**You will learn to**
-
-• say what beliefs are
-
-• name our traditions
-
-• respect other beliefs
-
-**Things to know**
+**Main content**
 
 • **Beliefs** are what people hold to be true.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — CIVIC ACTIVITIES
 
-**You will learn to**
-
-• say what civic activities are
-
-• name civic activities
-
-• take part
-
-**Things to know**
+**Main content**
 
 • **Civic activities** are things we do to help our community.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — CIVIC ACTIVITY: VOLUNTEERISM
 
-**You will learn to**
-
-• say what volunteerism is
-
-• volunteer to help
-
-• serve without reward
-
-**Things to know**
+**Main content**
 
 • **Volunteerism** is helping without being paid.
 
@@ -604,15 +540,7 @@ written for them.
 
 ### WEEK 12 — SECURE ENVIRONMENT (REVIEW)
 
-**You will learn to**
-
-• review how to keep safe
-
-• name safety rules
-
-• live safely
-
-**Things to know**
+**Main content**
 
 • We review how to keep our environment **secure**.
 

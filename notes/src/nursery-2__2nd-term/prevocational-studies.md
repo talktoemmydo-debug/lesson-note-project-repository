@@ -12,14 +12,7 @@ Primary 4 weeks are the ceiling of vocabulary and the school's own rows decide w
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (Concept of Agriculture, p 833).*
 
-**You will learn to**
-
-• say who a farmer is
-• name the kinds of farmer and the work each does
-• tell the daily work of a crop farmer
-• say that farming is a job that needs skill
-
-**Things to know**
+**Main content**
 
 • A **farmer** is a person who grows crops or keeps animals for food and for selling.
 • Not everybody who has a farm is a farmer: the one who **works** the land is the farmer.
@@ -67,14 +60,7 @@ Draw a farmer's cutlass, hoe and basket, then colour the basket.
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833) — the farm visit is where the concept of agriculture is seen.*
 
-**You will learn to**
-
-• say what a farm visit is and why we go
-• observe and report what I saw on the farm
-• keep the rules of the visit
-• name the things on the farm I want to ask about
-
-**Things to know**
+**Main content**
 
 • A **farm visit** is when the class goes to a farm to **see with the eyes** what was told in the class.
 • We go to a **crop farm**, a **poultry house**, a **fish pond**, a **garden**, or the school's own plot.
@@ -121,14 +107,7 @@ Write your farm-visit report on one page: where we went, three things you saw, o
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W3–W4 (Simple Agricultural Tools, p 833).*
 
-**You will learn to**
-
-• draw and name the hoe and the cutlass
-• say what each tool is used for
-• say which part of each tool does the work
-• keep the tool safe and store it well
-
-**Things to know**
+**Main content**
 
 • A **farm tool** is a thing we hold in the hand to make farm work easier; most of ours are **simple tools** — no engine on them.
 • The **hoe** has a **handle** (wood) and a broad flat **blade** at a right angle; it is used for **tilling, making ridges and beds, earthing up the plant and weeding between rows**.
@@ -176,14 +155,7 @@ Draw the two tools again, name the four parts of each, and write one rule of saf
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W3–W4 (p 833), with Third Term W7 (School Garden Activities) for the watering work.*
 
-**You will learn to**
-
-• name and draw the rake and the watering can
-• say what each is used for
-• level a seedbed and water a garden the right way
-• tell which tool is for the bed and which for the path
-
-**Things to know**
+**Main content**
 
 • The **rake** has a long handle and a cross head with **teeth (prongs)**; it is a tool for **gathering, leveling and smoothing**.
 • Work of the rake: pull the **stones, sticks and old leaves** out of the bed; break the small clods; **level** the soil after the hoe; **smooth** the surface before seeds are sown; clean the path.
@@ -232,14 +204,7 @@ Water the same plant every morning for four days, keep the bed raked smooth, and
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W3–W4 (p 833).*
 
-**You will learn to**
-
-• name and draw the spade and the shovel
-• tell the spade from the shovel
-• say which work each does best
-• dig a hole with a straight back
-
-**Things to know**
+**Main content**
 
 • The **spade** and the **shovel** look like sisters: both have a **long handle**, a **D or T grip** at the top and a **broad flat blade** at the bottom. Both are pushed with the **foot** and lifted with the **back and arms**.
 • The **spade** blade is **flat and square-ish with a sharp top edge** — made for **digging**, cutting the soil, lifting turves, and for the hard ground.
@@ -287,14 +252,7 @@ Draw both tools side by side and write under the picture which one you would tak
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W3–W4 (p 833).*
 
-**You will learn to**
-
-• name and draw the wheelbarrow and the basket
-• say what each carries on the farm
-• load and push a barrow without spoiling the back
-• mend and keep them well
-
-**Things to know**
+**Main content**
 
 • A **wheelbarrow (barrow)** is a **one-wheeled cart** with a box (tray), two handles and two legs; one person pushes it and it carries the load of many.
 • Parts of a barrow: **wheel and tyre**, **frame**, **tray (box)**, **handles (shafts)**, **legs (stands)**, and sometimes a **axle pin**.
@@ -343,14 +301,7 @@ Carry a light load across a short distance once in a container in your hand and 
 
 *Depth: no NERDC line is anchored here — the school's own row for this week is followed, using the Primary 4 tool weeks (p 833) as the vocabulary ceiling.*
 
-**You will learn to**
-
-• pick a tool from its shape alone
-• say the name of the tool and its work in one breath
-• tell two tools apart by the part that does the work
-• sort the tools into the right groups
-
-**Things to know**
+**Main content**
 
 • **Identifying** means knowing a thing by its marks; the marks of a tool are its **shape, its material, its working part and its work**.
 • Look at the **working part** first, not the handle.  **Teeth** → rake · **flat blade at a right angle to a short handle** → hoe · **long handle with a broad flat blade** → spade · **curved scoop** → shovel · **long blade with a wooden grip** → cutlass.  Then: **wheel and tray** → barrow · **woven body** → basket · **can with a spout and a rose** → watering can.
@@ -397,14 +348,7 @@ Cut or draw eight tools and mount them in three groups — digging, clearing, ca
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W3–W4 (p 833) — differences between similar tools and proper storage.*
 
-**You will learn to**
-
-• tell similar tools apart in one sentence
-• say when each of the pair is the better choice
-• name the difference in shape, in hold and in work
-• say how both are stored
-
-**Things to know**
+**Main content**
 
 • **Spade and shovel**: the spade's blade is **flat and stiff** with a sharp top edge so it can **cut into the ground**; the shovel's blade is **curved and hollow** so it can **hold a loose load**. Dig with a spade, move with a shovel.
 • **Hoe and spade**: the hoe's blade is **at a right angle** to the handle and works by **pulling**; the spade's blade is **in line** with the handle and works by **pushing with the foot**.

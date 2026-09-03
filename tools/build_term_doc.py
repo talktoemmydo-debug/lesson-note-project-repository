@@ -41,8 +41,10 @@ PARENT_WORDS = re.compile(r"(?i)dear\s+parent|parents?\s*(?:or|and|/)\s*guardian
                           r"help\s+your\s+child|ask\s+your\s+child|let\s+your\s+child|to\s+be\s+done\s+with|"
                           r"sign\s+the\s+diary|supervis\w*|oversee|please\s+ensure|parent to|guardian to|"
                           r"with\s+(?:the\s+help\s+)?of\s+(?:a|an|your|the)\s+\w*(?:adult|parent|guardian|teacher|mum|dad)")
-# every note needs these; "Things to know" is "What to revise" in a revision note
-BLOCKS = [("**You will learn to**",), ("**Things to know", "**What to revise"),
+# every note needs these; "Main content" is "What to revise" in a revision note.
+# Owner's word, 3 Sep 2026: the "You will learn to" objective block is gone and "Things to know"
+# is now "Main content".  The old name is still accepted so a half-migrated tree keeps building.
+BLOCKS = [("**Main content", "**Things to know", "**What to revise"),
           ("**Words for my notebook**",), ("**Let us talk**",), ("**Worksheet**",), ("**My own work**",)]
 TERM_PRETTY = {"1st Term": "First Term", "2nd Term": "Second Term", "3rd Term": "Third Term"}
 CALENDAR = re.compile(r"(?i)mid[- ]?term|revision|examination|closing|awards|break|test\b|vacation")

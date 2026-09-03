@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — ADDITION (PART 1)
 
-**You will learn to**
-
-• add two-digit numbers
-
-• add with regrouping
-
-• solve addition problems
-
-**Things to know**
+**Main content**
 
 • **Addition** is putting numbers together.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — ADDITION (PART 2)
 
-**You will learn to**
-
-• add three-digit numbers
-
-• add with regrouping
-
-• solve addition problems
-
-**Things to know**
+**Main content**
 
 • We can add **three-digit** numbers.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — SUBTRACTION (PART 1)
 
-**You will learn to**
-
-• subtract two-digit numbers
-
-• subtract without borrowing
-
-• solve subtraction problems
-
-**Things to know**
+**Main content**
 
 • **Subtraction** is taking away.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — SUBTRACTION (PART 2)
 
-**You will learn to**
-
-• subtract three-digit numbers
-
-• subtract with borrowing
-
-• solve subtraction with borrowing
-
-**Things to know**
+**Main content**
 
 • We can subtract **three-digit** numbers.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — MULTIPLICATION (PART 1)
 
-**You will learn to**
-
-• multiply small numbers
-
-• use the times table
-
-• solve multiplication problems
-
-**Things to know**
+**Main content**
 
 • **Multiplication** is adding the same number many times.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — MULTIPLICATION (PART 2)
 
-**You will learn to**
-
-• multiply larger numbers
-
-• use the times table
-
-• solve larger multiplication problems
-
-**Things to know**
+**Main content**
 
 • We can multiply larger numbers.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — DIVISION (PART 1)
 
-**You will learn to**
-
-• divide small numbers
-
-• share equally
-
-• solve division problems
-
-**Things to know**
+**Main content**
 
 • **Division** is sharing equally.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — DIVISION (PART 2)
 
-**You will learn to**
-
-• divide larger numbers
-
-• use the times table
-
-• solve division problems
-
-**Things to know**
+**Main content**
 
 • We can divide larger numbers.
 

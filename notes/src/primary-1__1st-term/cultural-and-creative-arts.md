@@ -10,14 +10,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · CCA · First Term W1 (lines).*
 
-**You will learn to**
-
-• say what a line is in art
-• tell straight lines from curved and zigzag lines
-• draw straight and curved lines
-• make a picture using lines only
-
-**Things to know**
+**Main content**
 
 • A **line** is a mark that joins two points; it can be straight or curved.
 • A **straight line** can lie flat (horizontal), stand up (vertical) or slant (diagonal).
@@ -58,14 +51,7 @@ Fill my page with three different lines and colour between them.
 
 *Depth: NERDC Primary 1 · CCA · First Term W2 (shapes and sizes).*
 
-**You will learn to**
-
-• name the basic shapes
-• find shapes in my environment
-• compare things that are big and small
-• make a picture using shapes
-
-**Things to know**
+**Main content**
 
 • The basic shapes are the **circle**, **square**, **triangle**, **rectangle** and **oval**.
 • A wheel is a circle, a door is a rectangle and an egg is an oval.
@@ -106,14 +92,7 @@ Cut or draw three shapes and paste them to make a picture.
 
 *Depth: NERDC Primary 1 · CCA · First Term W3 (texture).*
 
-**You will learn to**
-
-• say what texture means
-• tell rough things from smooth and soft things
-• make texture with dots and scribbles
-• do a rubbing to show texture
-
-**Things to know**
+**Main content**
 
 • **Texture** is how a thing feels when we touch it.
 • A stone feels **hard**, a feather feels **soft**, and sandpaper feels **rough**.
@@ -154,14 +133,7 @@ Touch three things at home and draw one face for each: happy for soft, surprised
 
 *Depth: NERDC Primary 1 · CCA · First Term W4 (materials and tools).*
 
-**You will learn to**
-
-• name the materials we use in art
-• tell drawing tools from colouring and cutting tools
-• use scissors and glue safely
-• keep my art tools tidy
-
-**Things to know**
+**Main content**
 
 • We draw with a **pencil**, a **pen** or **charcoal**.
 • We colour with **crayons**, **coloured pencils**, **paints** and **markers**.
@@ -202,14 +174,7 @@ Draw my art box and put three tools inside it.
 
 *Depth: NERDC Primary 1 · CCA · First Term W5 (introduction to culture).*
 
-**You will learn to**
-
-• say what culture means
-• name the big ethnic groups in Nigeria
-• name the things that make up culture
-• be proud of my culture
-
-**Things to know**
+**Main content**
 
 • **Culture** is the way of life of a people: what they eat, wear, speak and celebrate.
 • Nigeria has many **ethnic groups**; the big three are **Hausa**, **Igbo** and **Yoruba**.
@@ -250,14 +215,7 @@ Draw the food my people eat at a festival.
 
 *Depth: NERDC Primary 1 · CCA · First Term W6 (ceremonies: naming).*
 
-**You will learn to**
-
-• say what a ceremony is
-• tell what happens at a naming ceremony
-• name things used at a naming ceremony
-• know that ceremonies welcome a baby
-
-**Things to know**
+**Main content**
 
 • A **ceremony** is a special celebration that a people keep.
 • A **naming ceremony** welcomes a new baby into the family and gives the baby a name.
@@ -298,14 +256,7 @@ Draw a naming ceremony with the family gathered round the baby.
 
 *Depth: NERDC Primary 1 · CCA · First Term W8 (body beautification).*
 
-**You will learn to**
-
-• say what body beautification means
-• name ways people beautify the body in our cultures
-• name things people wear as decoration
-• know that our decorations are part of culture
-
-**Things to know**
+**Main content**
 
 • **Body beautification** is making the body look fine in our own way.
 • People make **hairstyles** like threading and cornrows.
@@ -346,14 +297,7 @@ Draw a girl with beads and bangles on, ready for a festival.
 
 *Depth: NERDC Primary 1 · CCA · First Term W9 (performing arts).*
 
-**You will learn to**
-
-• say what performing arts are
-• name the kinds of performing arts
-• sing a rhyme or act a small part
-• know that performing arts teach and entertain
-
-**Things to know**
+**Main content**
 
 • **Performing arts** are arts we show with our body and voice: acting, dancing, singing and storytelling.
 • We learn **rhymes**, **folktales** and **songs**.

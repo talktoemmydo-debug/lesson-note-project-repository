@@ -1,7 +1,7 @@
 {
  "subject": "General Knowledge",
- "class": "",
- "term": "",
+ "class": "Nursery 2",
+ "term": "1st Term",
  "objective": [
   {
    "stem": "When somebody asks who you are, the first thing you say is your ___",
@@ -58,7 +58,7 @@
    ]
   },
   {
-   "stem": "In my family, the work of the house is done by",
+   "stem": "In my family, the work of the house is done by ___",
    "answer": "everybody helping one another",
    "distractors": [
     "the father alone in the house",
@@ -265,7 +265,7 @@
    ]
   },
   {
-   "stem": "We wash our hands",
+   "stem": "We wash our hands ___",
    "answer": "before eating and after the toilet",
    "distractors": [
     "only once in the whole week",

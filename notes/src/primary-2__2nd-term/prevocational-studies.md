@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — CONCEPT OF HOME ECONOMICS I
 
-**You will learn to**
-
-• say what home economics is
-
-• name what we learn in it
-
-• care for our home
-
-**Things to know**
+**Main content**
 
 • **Home economics** is the study of the home and family.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — CONCEPT OF HOME ECONOMICS II
 
-**You will learn to**
-
-• name areas of home economics
-
-• say why it matters
-
-• use it at home
-
-**Things to know**
+**Main content**
 
 • Home economics has different **areas**.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — PERSONAL GROOMING I
 
-**You will learn to**
-
-• say what grooming is
-
-• keep the body clean
-
-• look neat
-
-**Things to know**
+**Main content**
 
 • **Grooming** is keeping the body clean and neat.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — PERSONAL GROOMING II
 
-**You will learn to**
-
-• care for the hair
-
-• care for the skin
-
-• care for the teeth
-
-**Things to know**
+**Main content**
 
 • We care for our **hair** by combing and washing it.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — CARE OF PERSONAL CLOTHING I
 
-**You will learn to**
-
-• name our clothes
-
-• keep clothes clean
-
-• wash clothes
-
-**Things to know**
+**Main content**
 
 • **Clothing** is what we wear on the body.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — CARE OF PERSONAL CLOTHING II
 
-**You will learn to**
-
-• dry and fold clothes
-
-• keep clothes well
-
-• iron clothes
-
-**Things to know**
+**Main content**
 
 • We **dry** our clothes in the sun.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — INTRODUCTION TO FOOD
 
-**You will learn to**
-
-• say what food is
-
-• name food groups
-
-• eat good food
-
-**Things to know**
+**Main content**
 
 • **Food** is what we eat to live and grow.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — SIMPLE HOME ECONOMICS TOOLS I
 
-**You will learn to**
-
-• name home economics tools
-
-• say what each tool does
-
-• use tools with care
-
-**Things to know**
+**Main content**
 
 • We use **tools** in home economics.
 

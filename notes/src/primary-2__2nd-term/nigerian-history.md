@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — HEROES AND HEROINES IN THE COMMUNITY
 
-**You will learn to**
-
-• say who a hero is
-
-• name heroes in our community
-
-• learn from them
-
-**Things to know**
+**Main content**
 
 • A **hero** is a person who does great things for others.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — NATIONAL HEROES AND HEROINES (PART 1)
 
-**You will learn to**
-
-• name national heroes
-
-• say what they did
-
-• honour them
-
-**Things to know**
+**Main content**
 
 • **National heroes** did great things for Nigeria.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — NATIONAL HEROES AND HEROINES (PART 2)
 
-**You will learn to**
-
-• name more national heroes
-
-• name heroines
-
-• learn from them
-
-**Things to know**
+**Main content**
 
 • Nigeria has many **heroes** and **heroines**.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — CONTRIBUTIONS OF HEROES TO DEVELOPMENT
 
-**You will learn to**
-
-• say what development is
-
-• name how heroes helped
-
-• value their work
-
-**Things to know**
+**Main content**
 
 • **Development** means making a country better.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — DEVELOPING AN ATTITUDE OF SELFLESS SERVICE
 
-**You will learn to**
-
-• say what selfless service is
-
-• serve others
-
-• be like our heroes
-
-**Things to know**
+**Main content**
 
 • **Selfless service** is helping others without seeking reward.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — INTRODUCTION TO TRADITIONAL AUTHORITY
 
-**You will learn to**
-
-• say what traditional authority is
-
-• name traditional leaders
-
-• respect them
-
-**Things to know**
+**Main content**
 
 • **Traditional authority** is the rule of our traditional leaders.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — TRADITIONAL RULERS
 
-**You will learn to**
-
-• name traditional rulers
-
-• say what they do
-
-• respect them
-
-**Things to know**
+**Main content**
 
 • **Traditional rulers** are the chiefs of our people.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — TRADITIONAL TITLE HOLDERS
 
-**You will learn to**
-
-• say what a title holder is
-
-• name title holders
-
-• respect them
-
-**Things to know**
+**Main content**
 
 • A **title holder** is a person with a special **title**.
 

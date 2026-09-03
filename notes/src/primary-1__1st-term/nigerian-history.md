@@ -10,14 +10,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W1.*
 
-**You will learn to**
-
-• say what history means
-• know that history tells us about the past
-• say why we study history
-• tell one old story I have heard
-
-**Things to know**
+**Main content**
 
 • **History** is the story of things that happened long ago.
 • History tells us about the **people who lived before us** and what they did.
@@ -58,14 +51,7 @@ Draw myself sitting and listening to an old story.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W2.*
 
-**You will learn to**
-
-• say what a source of history is
-• name the three sources of history
-• tell where we get old stories from
-• know that old things teach us about the past
-
-**Things to know**
+**Main content**
 
 • A **source** is a place where we get history from.
 • **Oral sources** are stories, songs and poems told by elders by mouth.
@@ -106,14 +92,7 @@ Draw one old thing at home that tells a story of the past.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W3.*
 
-**You will learn to**
-
-• say that everyone has a history
-• tell the day I was born and my name
-• say how I have grown from a baby
-• know my family's home town
-
-**Things to know**
+**Main content**
 
 • **Everyone has a history**, from the day they were born.
 • My history begins with my **birth** and the **name** I was given.
@@ -154,14 +133,7 @@ Draw a picture of myself on one of my birthdays.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W4.*
 
-**You will learn to**
-
-• say that people lived in Nigeria long ago
-• tell how early people got their food
-• say what early people used fire for
-• know that early people made simple tools
-
-**Things to know**
+**Main content**
 
 • Long ago, **people lived in Nigeria** before there were towns like today.
 • Early people **hunted animals** and **gathered fruits and vegetables** for food.
@@ -202,14 +174,7 @@ Draw a cave and a fire like early people used.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W5.*
 
-**You will learn to**
-
-• say what migration means
-• tell why people moved from place to place
-• know the name of a very old Nigerian people
-• say where people settled in Nigeria
-
-**Things to know**
+**Main content**
 
 • **Migration** is when people move from one place to live in another.
 • People moved to find **food**, **water** and **safety**.
@@ -250,14 +215,7 @@ Draw a family arriving at a new place to settle.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W6.*
 
-**You will learn to**
-
-• say that Nigeria has many ethnic groups
-• name the three major ethnic groups
-• tell where each major group mostly lives
-• respect all the peoples of Nigeria
-
-**Things to know**
+**Main content**
 
 • Nigeria has many **ethnic groups** with different languages and ways.
 • The three major groups are the **Hausa-Fulani**, the **Igbo** and the **Yoruba**.
@@ -298,14 +256,7 @@ Draw the map idea of Nigeria with three friends from the North, East and West.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W8.*
 
-**You will learn to**
-
-• say what a kingdom is
-• name old kingdoms and empires in Nigeria
-• tell who rules a kingdom
-• know that our land had great kingdoms long ago
-
-**Things to know**
+**Main content**
 
 • A **kingdom** is a place ruled by a **king** or a **queen**.
 • The **Kanem-Bornu Empire** was in the North; the **Oyo Empire** was in Yoruba land.
@@ -346,14 +297,7 @@ Draw a crown and a staff like a king's.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W9.*
 
-**You will learn to**
-
-• say what an occupation is
-• name the work people did long ago
-• match each work to its tool
-• know that farming was the main work
-
-**Things to know**
+**Main content**
 
 • An **occupation** is the work a person does to live.
 • Long ago people did **farming**, **fishing**, **hunting**, **trading** and **crafts**.

@@ -8,15 +8,7 @@ and each stream carries its own term paper.
 
 ### WEEK 1 — WHOLE NUMBERS 1 TO 100
 
-**You will learn to**
-
-• count and write whole numbers from 1 to 100
-
-• read numbers from 1 to 100
-
-• count objects up to 100
-
-**Things to know**
+**Main content**
 
 • We count 1, 2, 3, 4, 5 and keep going to 100.
 
@@ -82,15 +74,7 @@ and each stream carries its own term paper.
 
 ### WEEK 2 — WHOLE NUMBERS 101 TO 9000
 
-**You will learn to**
-
-• count and write numbers from 101 to 9000
-
-• read big numbers
-
-• say the place value of a figure
-
-**Things to know**
+**Main content**
 
 • After 100 comes **101**.
 
@@ -156,15 +140,7 @@ and each stream carries its own term paper.
 
 ### WEEK 3 — FRACTIONS (PART 1)
 
-**You will learn to**
-
-• say what a fraction is
-
-• name a half
-
-• share a thing into halves
-
-**Things to know**
+**Main content**
 
 • A **fraction** is a part of a whole.
 
@@ -230,15 +206,7 @@ and each stream carries its own term paper.
 
 ### WEEK 4 — FRACTIONS (PART 2)
 
-**You will learn to**
-
-• name a quarter
-
-• share a thing into quarters
-
-• compare a half and a quarter
-
-**Things to know**
+**Main content**
 
 • When we share a thing into **4 equal parts**, each part is a **quarter**.
 
@@ -304,15 +272,7 @@ and each stream carries its own term paper.
 
 ### WEEK 5 — ADDITION (PART 1)
 
-**You will learn to**
-
-• add small whole numbers
-
-• use the plus sign
-
-• solve addition sums up to 20
-
-**Things to know**
+**Main content**
 
 • **Addition** means putting together.
 
@@ -378,15 +338,7 @@ and each stream carries its own term paper.
 
 ### WEEK 6 — ADDITION (PART 2)
 
-**You will learn to**
-
-• add bigger whole numbers
-
-• add two-digit numbers
-
-• solve addition sums up to 100
-
-**Things to know**
+**Main content**
 
 • We can add numbers up to 100.
 
@@ -452,15 +404,7 @@ and each stream carries its own term paper.
 
 ### WEEK 8 — SUBTRACTION (PART 1)
 
-**You will learn to**
-
-• subtract small whole numbers
-
-• use the minus sign
-
-• solve subtraction sums up to 20
-
-**Things to know**
+**Main content**
 
 • **Subtraction** means taking away.
 
@@ -526,15 +470,7 @@ and each stream carries its own term paper.
 
 ### WEEK 9 — SUBTRACTION (PART 2)
 
-**You will learn to**
-
-• subtract bigger whole numbers
-
-• subtract two-digit numbers
-
-• solve subtraction sums up to 100
-
-**Things to know**
+**Main content**
 
 • We can subtract numbers up to 100.
 

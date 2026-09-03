@@ -8,156 +8,156 @@
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. Agriculture is the work of growing crops and ___
-   A) selling goods in the market
-   B) driving buses in the town
-   C) building houses on the land
-   D) rearing animals for man to use
-2. A person who grows crops and rears animals is a ___
-   A) trader only
-   B) driver
-   C) farmer
-   D) watchman
-3. Yam, rice, beans and maize are things agriculture gives us as ___
-   A) food
-   B) books for the school
-   C) cloth
-   D) medicine for the eyes
-4. Cotton grown on a farm is used for making ___
-   A) paper
-   B) cooking oil
-   C) water
-   D) cloth
-5. Wood from the farm and the forest is used for making ___
-   A) cups of glass
+1. A person who grows crops and rears animals is a ___
+   A) driver
+   B) trader only
+   C) watchman
+   D) farmer
+2. Yam, rice, beans and maize are things agriculture gives us as ___
+   A) medicine for the eyes
+   B) cloth
+   C) food
+   D) books for the school
+3. The hen gives us eggs and meat; the cow gives us milk, meat and ___
+   A) hide
+   B) sand
+   C) plastic
+   D) kerosene
+4. Wood from the farm and the forest is used for making ___
+   A) plates of iron
    B) shoes of rubber
-   C) furniture and planks
-   D) plates of iron
-6. Farmers sell their surplus at the ___
-   A) river bank
-   B) market
-   C) school gate
-   D) bus stop only
-7. Garri and yam flour are made from ___
-   A) cassava and yam
-   B) corn and pepper
-   C) cocoa and milk
-   D) rice and beans
-8. The broom we use to sweep is made from the ___
-   A) skin of a goat
+   C) cups of glass
+   D) furniture and planks
+5. Farmers sell their surplus at the ___
+   A) school gate
+   B) bus stop only
+   C) market
+   D) river bank
+6. The oil in our soup came from the ___
+   A) cow's tail
+   B) palm fruit
+   C) garden soil
+   D) river stone
+7. The broom we use to sweep is made from the ___
+   A) midrib of a palm leaf
    B) wheel of a car
    C) bone of a fish
-   D) midrib of a palm leaf
-9. The first farming activity is ___
+   D) skin of a goat
+8. The first farming activity is ___
    A) selling the produce at the market
-   B) clearing the bush and sticks from the land
-   C) washing the hands after work
-   D) cooking the food at home
-10. Rotten leaves and animal droppings added to make the soil rich are ___
-   A) sand and gravel
-   B) manure and chemical only
-   C) manure
-   D) salt and pepper
-11. Keeping birds, grasshoppers and goats away from the farm is ___
-   A) protecting the crop
+   B) washing the hands after work
+   C) cooking the food at home
+   D) clearing the bush and sticks from the land
+9. Turning and breaking the soil with a hoe to make it soft is ___
+   A) weeding
+   B) tilling
+   C) manuring
+   D) harvesting
+10. Keeping birds, grasshoppers and goats away from the farm is ___
+   A) watering the ridge
    B) tilling the soil
-   C) harvesting the yam
-   D) watering the ridge
-12. Gathering yam, maize and rice when they are ripe is ___
-   A) clearing
-   B) harvesting
-   C) planting
+   C) protecting the crop
+   D) harvesting the yam
+11. Gathering yam, maize and rice when they are ripe is ___
+   A) harvesting
+   B) planting
+   C) clearing
    D) weeding
-13. Crops grown to feed the family are called ___
-   A) medicinal crops
-   B) cash crops
-   C) food crops
-   D) timber crops
-14. Cocoa, groundnut, cotton and rubber are grown to be ___
-   A) fed to the animals
-   B) burnt after harvest
-   C) eaten at every meal
-   D) sold and to bring money
-15. Rice, maize, guinea corn and wheat are ___
-   A) grain crops that we call cereals
-   B) soft crops that we call tubers
-   C) yellow crops that we call fruits
-   D) wild crops that we call weeds
-16. The branch of agriculture that keeps farm animals is ___
-   A) the keeping of trees, that is, forestry
-   B) the growing of crops, that is, crop production
-   C) animal rearing, that is, animal husbandry
-   D) the catching of fish, that is, fishery
-17. The young of the goat is called the ___
-   A) lamb
+12. The tools of the small farm are ___
+   A) chalk, duster and desk
+   B) cutlass, hoe, rake and watering can
+   C) spoon, fork, plate and knife
+   D) broom, bucket and washing line
+13. Cocoa, groundnut, cotton and rubber are grown to be ___
+   A) burnt after harvest
+   B) eaten at every meal
+   C) sold and to bring money
+   D) fed to the animals
+14. Rice, maize, guinea corn and wheat are ___
+   A) yellow crops that we call fruits
+   B) wild crops that we call weeds
+   C) soft crops that we call tubers
+   D) grain crops that we call cereals
+15. Beans and groundnut are special because they ___
+   A) make the soil rich as they grow
+   B) need no water at all
+   C) grow only in the forest
+   D) are never eaten at home
+16. The young of the goat is called the ___
+   A) chick
    B) calf
-   C) chick
-   D) kid
-18. The young of the sheep is the ___
+   C) kid
+   D) lamb
+17. The young of the sheep is the ___
    A) foal
-   B) lamb
+   B) kid
    C) piglet
-   D) kid
-19. Sick animals are ___
-   A) left in the sun all day
-   B) given more salt
-   C) kept apart from the rest
-   D) put in the fish pond
-20. The branch of agriculture that deals with trees and the forest is ___
+   D) lamb
+18. An animal needs food, clean water, shade and ___
+   A) a small shoe for its leg
+   B) a clean, safe place for sleeping
+   C) a bell tied to its tail
+   D) a bright television set
+19. The branch of agriculture that deals with trees and the forest is ___
    A) crop production
    B) fishery
-   C) husbandry
-   D) forestry
-21. Iroko, mahogany, teak and pine are trees grown for ___
-   A) honey
-   B) timber
-   C) eggs
-   D) milk
-22. Where all the trees are cut down, the land becomes ___
-   A) dry and washed away
-   B) cooler and deeper
-   C) fuller of fish
-   D) richer and wetter
-23. The branch of agriculture that deals with catching and rearing fish is ___
-   A) crop production
-   B) forestry
-   C) fishery
+   C) forestry
    D) husbandry
-24. Keeping fish in a pond or in a cage is called ___
-   A) fish smoking, that is, drying
-   B) fish farming, that is, aquaculture
-   C) fish counting, that is, numbering
+20. Iroko, mahogany, teak and pine are trees grown for ___
+   A) eggs
+   B) milk
+   C) honey
+   D) timber
+21. Trees hold the soil with their ___
+   A) flowers
+   B) roots
+   C) fruits
+   D) leaves only
+22. The branch of agriculture that deals with catching and rearing fish is ___
+   A) fishery
+   B) husbandry
+   C) crop production
+   D) forestry
+23. Keeping fish in a pond or in a cage is called ___
+   A) fish counting, that is, numbering
+   B) fish smoking, that is, drying
+   C) fish farming, that is, aquaculture
    D) fish selling, that is, trading
-25. The tools of the fisherman are ___
-   A) ruler, pencil and eraser
-   B) kettle, cup and saucer
-   C) cutlass, hoe and watering can
-   D) net, hook and line, basket and canoe
-26. Small fish caught in the net are ___
-   A) thrown back into the water
-   B) dried and kept for a year
-   C) given to the goats
-   D) sold at a higher price
-27. Most food in Nigeria comes from ___
-   A) the market alone
+24. Catfish, tilapia and bonga are foods that give the body ___
+   A) water to swim with
+   B) protein to grow strong
+   C) shade to sit in
+   D) cloth to wear
+25. Small fish caught in the net are ___
+   A) dried and kept for a year
+   B) given to the goats
+   C) sold at a higher price
+   D) thrown back into the water
+26. Most food in Nigeria comes from ___
+   A) small family farms
    B) the office in town
-   C) small family farms
+   C) the market alone
    D) big foreign ships
-28. Cocoa, palm oil, rubber and cashew are crops that bring ___
-   A) rust to the tools
-   B) money into Nigeria
-   C) sand to the farm
-   D) cold to the house
-29. Farming in a way that keeps the land good for our children is ___
+27. Groundnut and cotton are grown mainly in the ___
+   A) islands only
+   B) river banks only
+   C) north of Nigeria
+   D) south-east only
+28. Farming in a way that keeps the land good for our children is ___
    A) market agriculture
-   B) dry agriculture
-   C) quick agriculture
-   D) sustainable agriculture
-30. Organic farming uses ___
-   A) compost, not chemical fertiliser
-   B) only chemical fertiliser
-   C) salt and clean sand
-   D) nothing on the land
+   B) sustainable agriculture
+   C) dry agriculture
+   D) quick agriculture
+29. Organic farming uses ___
+   A) salt and clean sand
+   B) nothing on the land
+   C) only chemical fertiliser
+   D) compost, not chemical fertiliser
+30. Not wasting farm produce means ___
+   A) finishing the food on my plate
+   B) pouring oil down the gutter
+   C) leaving the tap running
+   D) throwing peels on the floor
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.

@@ -10,14 +10,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · PHE · First Term W1 (athletics: running).*
 
-**You will learn to**
-
-• tell running from walking
-• run with a good posture
-• warm up before I run
-• run the 50-metre dash
-
-**Things to know**
+**Main content**
 
 • **Running** is faster than walking; in running, both feet leave the ground for a moment.
 • A good runner keeps the body **slightly forward**, swings the arms and looks ahead.
@@ -58,14 +51,7 @@ Draw myself running in a straight line with arms swinging.
 
 *Depth: NERDC Primary 1 · PHE · First Term W2 (shuttle run).*
 
-**You will learn to**
-
-• say what a shuttle run is
-• run to a point, turn and run back
-• build speed and balance
-• take turns and play fair
-
-**Things to know**
+**Main content**
 
 • A **shuttle run** is running back and forth between two points.
 • We mark two points; we run to the far point, **turn** and run back.
@@ -106,14 +92,7 @@ Draw a shuttle run course with two markers and me turning.
 
 *Depth: NERDC Primary 1 · PHE · First Term W3 (local games).*
 
-**You will learn to**
-
-• say what local games are
-• name Nigerian local games
-• play suwe and ten-ten
-• take turns and play safely
-
-**Things to know**
+**Main content**
 
 • **Local games** are the traditional games our people play.
 • **Suwe** is a hopping game played on a drawn pattern of squares.
@@ -154,14 +133,7 @@ Draw children playing a local game I like.
 
 *Depth: NERDC Primary 1 · PHE · First Term W4 (running technique).*
 
-**You will learn to**
-
-• hold my body well when I run
-• lift my knees and land on the balls of my feet
-• swing my arms the right way
-• breathe well when I run
-
-**Things to know**
+**Main content**
 
 • When I run, my body leans **slightly forward** and my eyes look ahead.
 • I **lift my knees** and I land on the **balls of my feet**, not on my heels.
@@ -202,14 +174,7 @@ Draw myself running with a good posture.
 
 *Depth: NERDC Primary 1 · PHE · First Term W5 (toilet hygiene).*
 
-**You will learn to**
-
-• say why we use the toilet
-• use the toilet the right way
-• keep the toilet clean
-• wash my hands after the toilet
-
-**Things to know**
+**Main content**
 
 • We use the toilet to pass waste and to keep our bodies clean.
 • Types of toilets are the **water closet**, the **pit toilet** and the **squatting toilet**.
@@ -250,14 +215,7 @@ Draw the steps of washing my hands: wet, soap, scrub, rinse, dry.
 
 *Depth: NERDC Primary 1 · PHE · First Term W6 (personal hygiene).*
 
-**You will learn to**
-
-• say what personal hygiene means
-• bathe and brush my teeth daily
-• wear clean clothes
-• keep my hair and nails clean
-
-**Things to know**
+**Main content**
 
 • **Personal hygiene** is keeping my own body clean every day.
 • I **bathe** daily, in the morning or evening, with soap and water.
@@ -298,14 +256,7 @@ Draw myself brushing my teeth in the morning.
 
 *Depth: NERDC Primary 1 · PHE · First Term W8 (body care).*
 
-**You will learn to**
-
-• keep my nails clean and trimmed
-• clean my ears and nose the right way
-• wash my body every day
-• know that a clean body is a healthy body
-
-**Things to know**
+**Main content**
 
 • I keep my **nails** clean and short so dirt does not hide under them.
 • I clean my **ears** carefully and my **nose** by blowing gently into a tissue.
@@ -346,14 +297,7 @@ Draw myself with clean hands and short nails.
 
 *Depth: NERDC Primary 1 · PHE · First Term W9 (keeping our surroundings clean).*
 
-**You will learn to**
-
-• say what it means to keep our surroundings clean
-• put waste in the dustbin
-• sweep and tidy my surroundings
-• keep the classroom and home clean
-
-**Things to know**
+**Main content**
 
 • **Keeping our surroundings clean** is keeping our home, school and community free of dirt and rubbish.
 • We put waste in the **dustbin** and we do not litter.

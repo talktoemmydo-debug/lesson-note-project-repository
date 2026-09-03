@@ -10,14 +10,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: school breakdown for P1 F1 W1.*
 
-**You will learn to**
-
-• say my full name and my age
-• name the parts of my body
-• say what each part of my body does
-• know that I am a special person
-
-**Things to know**
+**Main content**
 
 • My **name** is what people call me; my **age** is how many years I am.
 • My body has a **head**, a **trunk**, two **arms** and two **legs**.
@@ -58,14 +51,7 @@ Draw my face and put in my eyes, ears, nose and mouth.
 
 *Depth: school breakdown for P1 F1 W2.*
 
-**You will learn to**
-
-• name the members of my family
-• say what each member does in the family
-• tell how I help my family
-• know that a family loves and helps one another
-
-**Things to know**
+**Main content**
 
 • A **family** is the group of people I live with: father, mother, brothers and sisters.
 • My **father** works and takes care of the family; my **mother** cares for the home and the children.
@@ -106,14 +92,7 @@ Draw my father, my mother and me standing together.
 
 *Depth: school breakdown for P1 F1 W3.*
 
-**You will learn to**
-
-• name the places in my school
-• name the people in my school
-• say what each person in the school does
-• keep my school clean
-
-**Things to know**
+**Main content**
 
 • My school has a **classroom**, an **office**, a **playground** and **toilets**.
 • The **headteacher** leads the school; the **teacher** teaches us in the class.
@@ -154,14 +133,7 @@ Draw my teacher at the board in my classroom.
 
 *Depth: school breakdown for P1 F1 W4.*
 
-**You will learn to**
-
-• name the things in my classroom
-• keep the rules of the classroom
-• care for my books and pencils
-• sit and listen well in class
-
-**Things to know**
+**Main content**
 
 • My classroom has a **board**, **desks**, **chairs** and **books**.
 • We keep classroom rules: we **raise our hand** to speak, we **listen** when the teacher talks, and we **walk**, not run, in the class.
@@ -202,14 +174,7 @@ Draw my classroom and put a bin in the corner.
 
 *Depth: school breakdown for P1 F1 W5.*
 
-**You will learn to**
-
-• describe my home and my street
-• name the people near my home
-• say how we keep the neighbourhood clean
-• be friendly and safe near my home
-
-**Things to know**
+**Main content**
 
 • My **home** is where I live with my family; my **street** is the road near my house.
 • My **neighbours** are the people who live near my home.
@@ -250,14 +215,7 @@ Draw my compound and put in one thing that keeps it clean.
 
 *Depth: school breakdown for P1 F1 W6.*
 
-**You will learn to**
-
-• name the helpers in my community
-• say what each helper does
-• thank the helpers for their work
-• know that every work is important
-
-**Things to know**
+**Main content**
 
 • A **community** is the people who live together in one place.
 • The **doctor** and the **nurse** care for the sick; the **teacher** teaches; the **police officer** keeps us safe.
@@ -298,14 +256,7 @@ Draw one helper in my community and the tool they use.
 
 *Depth: school breakdown for P1 F1 W8.*
 
-**You will learn to**
-
-• say the name of my country
-• describe the Nigerian flag
-• say what the colours of the flag mean
-• know that Nigeria is my country
-
-**Things to know**
+**Main content**
 
 • My country is **Nigeria**; it is called the Giant of Africa.
 • The Nigerian flag has **three bands**: green, white and green.
@@ -346,14 +297,7 @@ Draw the Nigerian flag and colour the bands the right way.
 
 *Depth: school breakdown for P1 F1 W9.*
 
-**You will learn to**
-
-• say what a citizen is
-• tell the things a good citizen does
-• greet elders and be polite
-• keep my country clean and peaceful
-
-**Things to know**
+**Main content**
 
 • A **citizen** is a person who belongs to a country; I am a Nigerian citizen.
 • A **good citizen** obeys the rules, tells the truth and helps others.

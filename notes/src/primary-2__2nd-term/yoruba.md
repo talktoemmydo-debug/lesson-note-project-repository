@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — ÌKÍNÍ ÀTI ÀṢẸ (GREETINGS AND PERMISSION)
 
-**You will learn to**
-
-• greet at different times
-
-• ask for permission
-
-• use polite words
-
-**Things to know**
+**Main content**
 
 • We **greet** one another in Yoruba.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — Ọ̀RỌ̀ ÀTI ÈSÒ (WORDS AND FRUITS)
 
-**You will learn to**
-
-• say Yoruba words
-
-• name fruits in Yoruba
-
-• pronounce words well
-
-**Things to know**
+**Main content**
 
 • We learn Yoruba **words** (ọ̀rọ̀).
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — ÌKÍNÍ ÀTI ORIN (GREETINGS AND SINGING)
 
-**You will learn to**
-
-• greet teachers and friends
-
-• sing Yoruba songs
-
-• enjoy songs
-
-**Things to know**
+**Main content**
 
 • We greet our **teacher** in Yoruba.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — ONKÀ 151-180 ÀTI ÌBÁRA-ẸNI-SỌ̀RỌ̀ (COUNTING AND COMMUNICATION)
 
-**You will learn to**
-
-• count 151 to 180 in Yoruba
-
-• name ways of communication
-
-• talk with others
-
-**Things to know**
+**Main content**
 
 • We can count **151 to 180** in Yoruba.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — ÀRÓPÒ ORÚKỌ ÀTI IṢẸ́ AJOGÚNBÁ (PRONOUNS AND HERITAGE WORK)
 
-**You will learn to**
-
-• use pronouns in Yoruba
-
-• name Yoruba heritage work
-
-• value our heritage
-
-**Things to know**
+**Main content**
 
 • **Pronouns** (àròpò orúkọ) take the place of names.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — ÒWE ÀTI ỌJÀ (PROVERBS AND THE MARKET)
 
-**You will learn to**
-
-• say Yoruba proverbs
-
-• talk about the market
-
-• buy and sell
-
-**Things to know**
+**Main content**
 
 • A **proverb** (òwe) is a short saying with wisdom.
 
@@ -454,15 +406,7 @@ written for them.
 
 ### WEEK 8 — ONKÀ 181-200 ÀTI OHUN ÈLÒ INÚ ILÉ (COUNTING AND HOUSEHOLD ITEMS)
 
-**You will learn to**
-
-• count 181 to 200 in Yoruba
-
-• name household items
-
-• care for our things
-
-**Things to know**
+**Main content**
 
 • We can count **181 to 200** in Yoruba.
 
@@ -528,15 +472,7 @@ written for them.
 
 ### WEEK 9 — ÀTUNYEWO (REVISION)
 
-**You will learn to**
-
-• revise what we learnt
-
-• practise Yoruba
-
-• prepare for the paper
-
-**Things to know**
+**Main content**
 
 • This week we **revise** our Yoruba work.
 
@@ -602,15 +538,7 @@ written for them.
 
 ### WEEK 11 — ÌMÚRA FÚN ÌDÁNWÒ (EXAM PREPARATION)
 
-**You will learn to**
-
-• prepare for the paper
-
-• practise what we learnt
-
-• do our best
-
-**Things to know**
+**Main content**
 
 • This week we **prepare** for the paper.
 

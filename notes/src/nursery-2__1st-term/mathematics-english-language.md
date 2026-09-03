@@ -10,14 +10,7 @@ sight words, digraphs and blends printed here are the minimum extent of what to 
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W1 (pp 465–469).*
 
-**You will learn to**
-
-• name the five vowels: a, e, i, o, u
-• say that all the other letters are consonants
-• sort letters into vowels and consonants
-• find the vowels inside a word
-
-**Things to know**
+**Main content**
 
 • Of the **26** letters, **five are vowels: a, e, i, o, u**. Sometimes **y** works as a vowel too (my, fly, happy).
 • The other **twenty-one** letters are **consonants**: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z.
@@ -65,14 +58,7 @@ Draw five little houses for a, e, i, o and u, write one letter on each roof, the
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W2 (pp 465–469).*
 
-**You will learn to**
-
-• say the sounds /d/, /a/, /i/, /m/
-• write the letters d, a, i, m
-• blend these four sounds into real words
-• hear where a sound sits in a word
-
-**Things to know**
+**Main content**
 
 • Four sounds this week: **/d/** as in dog, doll, dad, dig; **/a/** as in apple, ant, cat, mat; **/i/** as in ink, insect, sit, pin; **/m/** as in mum, man, mat, milk.
 • With only four sounds I can already make real words: **dad, mad, dim, aim, amid, man** (with /n/ from before).
@@ -121,14 +107,7 @@ Draw a dog, an ant, an insect and a map; write the first sound under each one an
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W3 (pp 465–469).*
 
-**You will learn to**
-
-• read four sight words at once
-• write them correctly
-• say what each one means
-• use them in sentences
-
-**Things to know**
+**Main content**
 
 • A **sight word** is a word I know on sight — I do not sound it out, I read it in one look.
 • This week's four: **you, me, her, we**.
@@ -176,14 +155,7 @@ Draw the people in your family, point at yourself, write 'me' under that one and
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W4 (pp 465–469).*
 
-**You will learn to**
-
-• read and write three sight words you have not used yet
-• always write "I" as a capital
-• join new words with the old ones
-• read short sentences
-
-**Things to know**
+**Main content**
 
 • Three new words: **I**, **go**, **car**.
 • **I** is a single letter but it is always a **capital**, wherever it stands: *"I go." "She and I run."*
@@ -229,14 +201,7 @@ Write five sentences using any of the seven sight words, and underline every "I"
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W7 (pp 465–469).*
 
-**You will learn to**
-
-• say what a digraph is
-• read and write words with th, ck and wh
-• hear /th/ at the beginning and at the end of words
-• sort words by their digraph
-
-**Things to know**
+**Main content**
 
 • A **digraph** is **two letters that make one sound**: *sh, ch, th, ph, wh, ck*.
 • **th** makes two different sounds: a soft/buzzy one at the start of **the, this, that, with, they**, and a hissy one at the end of **bath, math, three, think, thumb**.
@@ -283,14 +248,7 @@ Find five things at home whose names have a digraph in them and write the digrap
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W8 (pp 465–469).*
 
-**You will learn to**
-
-• read and write three new sight words
-• notice the "th" digraph inside them
-• use them in sentences
-• read longer sentences
-
-**Things to know**
+**Main content**
 
 • Three more sight words: **the**, **this**, **they**.
 • All three begin with the **th** digraph I learnt last week — so my eye already knows two letters of each word.
@@ -338,14 +296,7 @@ Draw three things in this room you could say 'this' about, and colour two of the
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W9 (pp 465–469).*
 
-**You will learn to**
-
-• read and write words with ph, sh and ch
-• know that ph sounds like f
-• tell the three sounds apart by ear
-• sort words into digraph families
-
-**Things to know**
+**Main content**
 
 • **ph** says **/f/**: **phone, photo, elephant, graph, dolphin**. Strange, but true in most English words.
 • **sh** says **/ʃ/** — the quiet sound a mother makes: **ship, shop, fish, wash, she, shell, brush, shoe**.
@@ -393,15 +344,7 @@ Draw a phone, a fish and a child; write the two-letter sound under each and colo
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W10 (pp 465–469).*
 
-**You will learn to**
-
-• read and write three sight words that carry digraphs
-• say what a consonant blend is
-• read words with pl, fl and gr
-• tell a blend from a digraph
-• read and write sentences using everything I know
-
-**Things to know**
+**Main content**
 
 • Three sight words: **photo** (has **ph**), **she** (has **sh**), **chart** (has **ch**) — my digraph words are now sight words.
 • A **consonant blend** is **two consonants together where I still hear both sounds**: **pl**ay, **fl**y, **gr**eet, **bl**ue, **cl**ap, **fr**og.

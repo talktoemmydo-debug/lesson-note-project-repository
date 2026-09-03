@@ -10,14 +10,7 @@ teaches this band two classes earlier, so the Primary 1 list is kept and told as
 
 *Depth: NERDC Primary 1 · CRS · First Term W1 (pp 638–639).*
 
-**You will learn to**
-
-• say who God is in one line
-• tell what God made on the first and the second day
-• name things in God's creation around me
-• thank God for what I see
-
-**Things to know**
+**Main content**
 
 • God is the **Supreme Being**, the **Almighty** — the greatest, and there is nobody greater than Him.
 • God made the world and everything in it.
@@ -60,14 +53,7 @@ Draw three things God made on the first day and colour the light.
 
 *Depth: NERDC Primary 1 · CRS · First Term W2 (pp 638–639).*
 
-**You will learn to**
-
-• tell what God made on Days 3, 4 and 5
-• name the living things God made
-• sing a creation song
-• care for what God made
-
-**Things to know**
+**Main content**
 
 • **Day 3:** God made the **dry land and the seas**, and He made **grass, plants, trees and flowers**.
 • **Day 4:** God made the **sun** to rule the day, the **moon** to rule the night, and the **stars**.
@@ -109,14 +95,7 @@ Draw one thing God made on Day 3, one on Day 4 and one on Day 5, and write the d
 
 *Depth: NERDC Primary 1 · CRS · First Term W3 (pp 638–639).*
 
-**You will learn to**
-
-• tell what God made on Days 6 and 7
-• say in one line what it means that we are made in God's image
-• say why rest and worship matter
-• thank God for making me
-
-**Things to know**
+**Main content**
 
 • **Day 6:** God made the **animals of the land** — cattle, creeping things and wild beasts — and then He made **man and woman**.
 • God made people **in His own image**: like God in the way we think, love, speak and choose what is right.
@@ -160,14 +139,7 @@ Draw two animals from the story and colour the bigger one.
 
 *Depth: NERDC Primary 1 · CRS · First Term W4 (pp 638–639).*
 
-**You will learn to**
-
-• name the good things God gives us
-• say that life and breath come from God
-• thank God for my family and my home
-• share good things with others
-
-**Things to know**
+**Main content**
 
 • God is the One who gives us good things, and we thank Him for them.
 • God gives us **life and breath** — the fact that I am awake this morning is a gift.
@@ -210,14 +182,7 @@ Draw four good things God gives us and colour the one you like best.
 
 *Depth: NERDC Primary 1 · CRS · First Term W7 (pp 638–639).*
 
-**You will learn to**
-
-• name the food, water and clothing God provides
-• say who gives us schools and teachers
-• give thanks before a meal
-• not waste what God has provided
-
-**Things to know**
+**Main content**
 
 • God gives us **food to eat**: fruits (mango, banana, watermelon, orange), vegetables (ewédú, ugu, spinach), rice, yam, beans, cassava and fish.
 • The rain that waters the farm comes from God; the farmer who plants is also God's help.
@@ -260,14 +225,7 @@ Draw one good thing you have at home and colour it.
 
 *Depth: NERDC Primary 1 · CRS · First Term W8 (pp 638–639).*
 
-**You will learn to**
-
-• name the good things God gives that we cannot buy
-• say how God protects us
-• thank God in prayer for health, friends and weather
-• ask God for help before doing something risky
-
-**Things to know**
+**Main content**
 
 • God gives us **friends to play with** — a friend is a gift, not something we buy.
 • God gives us **health and strength**: a body that runs, eyes that see, a mouth that speaks.
@@ -310,14 +268,7 @@ Draw two hands: one for giving and one for working. Colour the giving hand.
 
 *Depth: NERDC Primary 1 · CRS · First Term W9 (pp 638–639).*
 
-**You will learn to**
-
-• say why God sent Jesus
-• tell the beginning of the birth story
-• name the people in the story
-• say what the angels told the shepherds
-
-**Things to know**
+**Main content**
 
 • **John 3:16** — God loved the world so much that He gave His only Son, so that whoever believes in Him should not perish but have everlasting life.
 • God sent **His Son Jesus** into the world. This is God's greatest gift.
@@ -358,14 +309,7 @@ Draw the manger with the baby Jesus, and write "God loved the world" under it.
 
 *Depth: NERDC Primary 1 · CRS · First Term W10 (pp 638–639).*
 
-**You will learn to**
-
-• name the three gifts of the wise men
-• say why God sent Jesus
-• tell what Jesus came to teach
-• say how Christmas is celebrated
-
-**Things to know**
+**Main content**
 
 • **Jesus is God's greatest gift** to us, and a gift is received with thanks.
 • Wise men from the east came following the star, and they brought gifts: **gold, frankincense and myrrh**.

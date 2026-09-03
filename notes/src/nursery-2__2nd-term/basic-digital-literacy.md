@@ -13,14 +13,7 @@ writing code. The school's own rows decide what each week is about.*
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W2 (History of Digital Devices, pp 827–828).*
 
-**You will learn to**
-
-• say that machines became smaller and faster as time went on
-• name the abacus as an old counting machine
-• tell that the first computers were as big as a room
-• say that a thing once too dear for anybody is now in many hands
-
-**Things to know**
+**Main content**
 
 • The **abacus** is a frame with beads on wires; people slide the beads to count, long before any computer.
 • **Charles Babbage** is called the father of the computer — he made the plan of a counting machine.
@@ -70,14 +63,7 @@ Draw three things from long ago and the same three today, then colour the modern
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W3 and W4 (Parts of Digital Devices I and II, pp 827–828).*
 
-**You will learn to**
-
-• tell hardware from software
-• name the parts I can touch and the parts I cannot touch
-• say what the CPU, the memory and the store are for
-• say that the two must work together
-
-**Things to know**
+**Main content**
 
 • **Hardware** is every part of the computer I can **touch**: screen, keys, mouse, box, wires.
 • **Software** is the part I **cannot touch** — the instructions and the pictures inside; it is what tells the hardware what to do.
@@ -126,14 +112,7 @@ Draw the box of a computer and put four labels on it: keyboard, mouse, screen an
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W8 (Input Devices, pp 827–828), with W3–W4 for care.*
 
-**You will learn to**
-
-• find letters and numbers on the keyboard
-• say what the special keys do
-• click, double-click, drag and drop with the mouse
-• care for the keyboard and the mouse
-
-**Things to know**
+**Main content**
 
 • The **keyboard** is for typing; its letters are not in ABC order but in the **QWERTY** layout — the first six letters on the top row of letters.
 • Keys to know: **letters**, **numbers**, **Space bar** (makes a gap), **Enter** (goes to the next line / says "go"), **Backspace** (takes out what is before the mark), **Caps Lock** (makes big letters).
@@ -181,14 +160,7 @@ Type or trace your own name, then your father's name, using only the correct let
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W10 (Computer Care and Safety, pp 827–828) for the care lines, with W3–W4 for the device itself.*
 
-**You will learn to**
-
-• say what a microphone is for
-• show how voice goes in and comes out
-• handle the microphone well
-• sit well and rest the eyes when I work
-
-**Things to know**
+**Main content**
 
 • A **microphone** is an input device that takes **sound in** — my voice, a song, a hand-clap.
 • It changes sound into something the machine can keep, so I can hear it again, or send it to a friend.
@@ -240,14 +212,7 @@ Draw a microphone standing on a desk and colour it; then draw your own mouth ope
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W8 (Input Devices) and W7 (Peripheral Devices, pp 827–828).*
 
-**You will learn to**
-
-• say what a scanner and a webcam do
-• tell a scanned picture from a photographed one
-• name the plugs that join a device to a machine
-• say what a peripheral is
-
-**Things to know**
+**Main content**
 
 • A **scanner** takes in a **flat paper thing** — a drawing, a letter, a photo — and puts it into the computer as a picture.
 • The paper lies face-down on the glass; the light bar travels under it once; the cover is closed so daylight does not wash the picture out.
@@ -295,14 +260,7 @@ Have your best drawing scanned or photographed, and write one line under it sayi
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W9 (Output Devices, pp 827–828), with W3–W4 for care.*
 
-**You will learn to**
-
-• say what a monitor shows me
-• tell the screen from the box
-• keep the screen clean and my eyes safe
-• say what "resolution" means for a picture
-
-**Things to know**
+**Main content**
 
 • The **monitor** (also called the **screen** or **display**) is the output device that **shows** me the work with pictures and words.
 • It shows only what the computer has already done — it does not do the thinking; the box does that.
@@ -352,14 +310,7 @@ Draw a monitor on your desk and colour the picture that is showing on its screen
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W10 (Computer Care and Safety, pp 827–828) for care, with W9 for the device.*
 
-**You will learn to**
-
-• say what a printer does
-• tell an inkjet printer from a laser printer
-• put paper in the tray without crumpling it
-• care for the printer and the ink
-
-**Things to know**
+**Main content**
 
 • A **printer** is an output device that puts the work from the screen **onto paper** so that I can hold it.
 • An **inkjet printer** squirts tiny drops of **liquid ink** on the page; it is good for my coloured drawing and it is the common home printer.
@@ -409,14 +360,7 @@ Draw a printer with one sheet of paper coming out of it, and colour the paper wh
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W10 (Computer Care and Safety, pp 827–828) for care and volume, with W9 for the devices.*
 
-**You will learn to**
-
-• say what a speaker and a headphone are for
-• know that both are output devices
-• keep the sound at a safe level
-• care for the small parts that make the sound
-
-**Things to know**
+**Main content**
 
 • A **speaker** is an output device that sends **sound out** of the machine so the room can hear it.
 • A **headphone** (or **earphone**) also sends sound out, but only **one person** hears it — the sound goes straight into the ear.

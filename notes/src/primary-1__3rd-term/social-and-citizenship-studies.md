@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — OUR COUNTRY NIGERIA
 
-**You will learn to**
-
-• name our country
-
-• say what a citizen is
-
-• love our country
-
-**Things to know**
+**Main content**
 
 • Our country is **Nigeria**.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — OUR NATIONAL SYMBOLS
 
-**You will learn to**
-
-• name our national symbols
-
-• respect our symbols
-
-• sing the anthem
-
-**Things to know**
+**Main content**
 
 • **National symbols** are signs of our country.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — OUR CULTURE AND CUSTOMS
 
-**You will learn to**
-
-• say what culture is
-
-• name our customs
-
-• respect our culture
-
-**Things to know**
+**Main content**
 
 • **Culture** is the way of life of a people.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — OUR RIGHTS AND DUTIES
 
-**You will learn to**
-
-• name our rights
-
-• name our duties
-
-• do our duties
-
-**Things to know**
+**Main content**
 
 • A **right** is something we are free to have or do.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — LIVING TOGETHER IN PEACE
 
-**You will learn to**
-
-• live in peace with others
-
-• share and care
-
-• settle quarrels well
-
-**Things to know**
+**Main content**
 
 • **Peace** is living without fighting.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — RESPECT FOR LEADERS AND ELDERS
 
-**You will learn to**
-
-• respect our leaders
-
-• respect our elders
-
-• obey those in authority
-
-**Things to know**
+**Main content**
 
 • **Leaders** are people who guide and rule.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — CARING FOR OUR COMMUNITY
 
-**You will learn to**
-
-• care for our community
-
-• keep it clean and safe
-
-• help one another
-
-**Things to know**
+**Main content**
 
 • Our **community** is the people and place we live with.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — BEING A GOOD CITIZEN
 
-**You will learn to**
-
-• say what a good citizen is
-
-• do things a good citizen does
-
-• love our country
-
-**Things to know**
+**Main content**
 
 • A **good citizen** loves and helps their country.
 

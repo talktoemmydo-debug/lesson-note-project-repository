@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — INTERFACE CUSTOMIZATION
 
-**You will learn to**
-
-• say what an interface is
-
-• change how the screen looks
-
-• use the screen well
-
-**Things to know**
+**Main content**
 
 • The **interface** is what we see on the screen.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — FILE MANAGEMENT I
 
-**You will learn to**
-
-• say what a file is
-
-• name files
-
-• open and close files
-
-**Things to know**
+**Main content**
 
 • A **file** is where we keep our work on a computer.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — FILE MANAGEMENT II
 
-**You will learn to**
-
-• keep files in folders
-
-• find files easily
-
-• care for files
-
-**Things to know**
+**Main content**
 
 • A **folder** is like a box that holds files.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — DIGITAL CONTENT CREATION I
 
-**You will learn to**
-
-• say what digital content is
-
-• create simple content
-
-• use a drawing tool
-
-**Things to know**
+**Main content**
 
 • **Digital content** is what we make on a computer.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — DIGITAL CONTENT CREATION II
 
-**You will learn to**
-
-• type simple words
-
-• make a simple document
-
-• save and share content
-
-**Things to know**
+**Main content**
 
 • We can **type** words on the computer.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — SAFETY AND PROTECTION
 
-**You will learn to**
-
-• keep the computer safe
-
-• keep ourselves safe
-
-• use passwords
-
-**Things to know**
+**Main content**
 
 • We keep the computer **safe** from harm.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — SAFE INTERNET USE I
 
-**You will learn to**
-
-• say what the internet is
-
-• use the internet safely
-
-• know the rules online
-
-**Things to know**
+**Main content**
 
 • The **internet** joins computers all over the world.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — SAFE INTERNET USE II
 
-**You will learn to**
-
-• be kind online
-
-• protect our information
-
-• ask for help online
-
-**Things to know**
+**Main content**
 
 • We are **kind** to others online.
 

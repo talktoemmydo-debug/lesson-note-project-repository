@@ -16,8 +16,11 @@ src/<Class>__<term>/<section>.md
 
                             ### WEEK n — TOPIC
                             *Depth: NERDC … Wn (pp …).*
-                            **You will learn to**     3–4 bullets
-                            **Things to know**          8–11 bullets (a revision note says "What to revise")
+                            **Main content**            the content — depth runs on the class ladder
+                                                        (Nursery 2 8–12, P1 10–14, P2 14–22, P3 16–24,
+                                                        P4 18–26 bullets; a revision note says
+                                                        "What to revise").  The old **You will learn to**
+                                                        objective block was deleted on 3 Sep 2026.
                             **Words for my notebook**  1–3 lines to copy
                             **Let us talk**             3–5 oral items
                             **Worksheet**               4 objective (A–D), 5 fill-in, 6 short answer, 7 theory

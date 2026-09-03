@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — JUMPING
 
-**You will learn to**
-
-• jump with both feet
-
-• jump far and jump high
-
-• land safely
-
-**Things to know**
+**Main content**
 
 • **Jumping** is pushing the body off the ground.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — THROWING AND CATCHING
 
-**You will learn to**
-
-• throw a ball
-
-• catch a ball
-
-• throw and catch with a friend
-
-**Things to know**
+**Main content**
 
 • **Throwing** is sending a ball away with the hand.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — BALL GAMES
 
-**You will learn to**
-
-• name ball games
-
-• kick and control a ball
-
-• play as a team
-
-**Things to know**
+**Main content**
 
 • A **ball game** is a game played with a ball.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — GYMNASTICS AND MOVEMENT
 
-**You will learn to**
-
-• roll and balance
-
-• move the body in different ways
-
-• do simple gymnastics
-
-**Things to know**
+**Main content**
 
 • **Gymnastics** is moving the body in skillful ways.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — REST AND SLEEP
 
-**You will learn to**
-
-• say why we rest
-
-• say why we sleep
-
-• rest and sleep well
-
-**Things to know**
+**Main content**
 
 • **Rest** is taking it easy after work or play.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — FOOD AND NUTRITION
 
-**You will learn to**
-
-• name the food we eat
-
-• say why we eat good food
-
-• eat to be strong
-
-**Things to know**
+**Main content**
 
 • **Food** gives us energy and helps us grow.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — SAFETY IN PLAY
 
-**You will learn to**
-
-• say how to play safely
-
-• name dangers in play
-
-• avoid rough play
-
-**Things to know**
+**Main content**
 
 • We play to be happy and strong.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — THE VALUE OF EXERCISE
 
-**You will learn to**
-
-• say what exercise is
-
-• name the good things exercise does
-
-• exercise every day
-
-**Things to know**
+**Main content**
 
 • **Exercise** is activity that moves the body.
 

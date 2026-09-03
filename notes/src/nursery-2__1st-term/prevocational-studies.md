@@ -11,14 +11,7 @@ told here with things a 4–5 year-old can see, touch and name.*
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what agriculture means in one line
-• name the things agriculture gives us
-• tell who a farmer is
-• say why every person needs agriculture
-
-**Things to know**
+**Main content**
 
 • **Agriculture** is the work of growing crops and rearing animals for man to use.
 • A person who does this work is a **farmer**.
@@ -65,14 +58,7 @@ Draw a hoe, a cutlass and a basket, then colour the basket.
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• trace a meal from the farm to the table
-• name farm foods taken at breakfast, lunch and dinner
-• say which farm things are used at home besides food
-• tell why we must not waste farm produce
-
-**Things to know**
+**Main content**
 
 • The swallow we eat — rice, yam flour, beans, garri — all came from a farm.
 • The oil in our soup came from the palm fruit; the groundnut in our snack came from the ground.
@@ -116,14 +102,7 @@ Draw your last meal and write under each item where on the farm it came from.
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• put the farming activities in order
-• name the tools used at each stage
-• say how crops are cared for
-• tell what happens at harvest time
-
-**Things to know**
+**Main content**
 
 • Farming has an order, and every stage waits for the one before it.
 • **Clearing**: the bush and old sticks are removed from the land with a cutlass.
@@ -171,14 +150,7 @@ Draw the four farm jobs in order — clear, plant, water, harvest — and colour
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what crop production means
-• group crops as food, cash and fruit crops
-• name crops grown in our state
-• say which part of a crop we eat
-
-**Things to know**
+**Main content**
 
 • **Crop production** (crop farming) is the branch of agriculture that deals with growing plants for man and animals.
 • **Food crops** are grown to feed the family: rice, yam, maize, cassava, beans, plantain, cocoyam.
@@ -225,14 +197,7 @@ Draw four crops you know and colour the yam.
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what animal rearing means
-• name farm animals and their young ones
-• state what each animal gives us
-• say how farm animals are cared for
-
-**Things to know**
+**Main content**
 
 • **Animal rearing** (animal husbandry) is the branch of agriculture that deals with keeping farm animals.
 • Farm animals: **cow, goat, sheep, pig, rabbit, dog, cat**, and the birds we keep — **hen, duck, turkey, guinea fowl**.
@@ -277,14 +242,7 @@ Draw a farm animal, its young one, and write two things it gives people.
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what forestry means
-• name trees that give timber and trees that give fruit
-• state the uses of trees
-• say why we plant trees and do not cut them all
-
-**Things to know**
+**Main content**
 
 • **Forestry** is the branch of agriculture that deals with the growing, management and protection of trees and the forest.
 • **Timber trees** give us wood for planks, furniture and building: iroko, mahogany, teak, pine, obeche.
@@ -329,14 +287,7 @@ Water one tree or one plant near your house for five days and write what you not
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what fishery means
-• name fish we eat and where they come from
-• state the tools used in fishing
-• say how fish are kept and prepared for market
-
-**Things to know**
+**Main content**
 
 • **Fishery** is the branch of agriculture that deals with catching or rearing fish and other water animals.
 • **Catch fishing** takes place in the river, the lake and the sea; **fish farming** (aquaculture) keeps fish in a pond or a cage.
@@ -384,14 +335,7 @@ Draw a fish, a net and a canoe, and colour the net.
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833) and Primary 6 ·
 Prevocational Studies · Third Term W9 (p 952) for the sustainable-use lines.*
 
-**You will learn to**
-
-• name the crops Nigeria is known for
-• say where farming is done in the country
-• explain sustainable and organic farming in a child's words
-• say what a pupil can do to protect the environment
-
-**Things to know**
+**Main content**
 
 • Nigeria farms in every part of the country: **groundnut and cotton** in the north, **rice and maize** on the middle belt, **palm produce, cocoa and cassava** in the south, **fish** in the rivers of the south-south.
 • Crops that bring money into Nigeria include **cocoa, groundnut, palm oil, rubber and cashew**.

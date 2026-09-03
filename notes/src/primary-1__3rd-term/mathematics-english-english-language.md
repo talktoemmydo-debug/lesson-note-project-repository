@@ -9,15 +9,7 @@ vocabulary building and spelling; phonemic awareness and listening).*
 
 ### WEEK 1 — COMPREHENSION: SHORT STORIES AND POEMS
 
-**You will learn to**
-
-• read short stories and poems
-
-• answer questions on them
-
-• say what they are about
-
-**Things to know**
+**Main content**
 
 • **Comprehension** means understanding what we read.
 
@@ -83,15 +75,7 @@ vocabulary building and spelling; phonemic awareness and listening).*
 
 ### WEEK 2 — ASKING AND ANSWERING QUESTIONS ON PAST AND FUTURE ACTIONS
 
-**You will learn to**
-
-• ask questions on past actions
-
-• ask questions on future actions
-
-• answer the questions
-
-**Things to know**
+**Main content**
 
 • We can ask about things that **happened** (past).
 
@@ -157,15 +141,7 @@ vocabulary building and spelling; phonemic awareness and listening).*
 
 ### WEEK 3 — USE OF ADJECTIVES IN SENTENCES
 
-**You will learn to**
-
-• say what an adjective is
-
-• use adjectives in sentences
-
-• describe things
-
-**Things to know**
+**Main content**
 
 • An **adjective** is a word that describes a noun.
 
@@ -231,15 +207,7 @@ vocabulary building and spelling; phonemic awareness and listening).*
 
 ### WEEK 4 — LISTENING COMPREHENSION (SHORT PARAGRAPHS)
 
-**You will learn to**
-
-• listen to short paragraphs
-
-• answer questions on them
-
-• remember what we hear
-
-**Things to know**
+**Main content**
 
 • **Listening comprehension** is understanding what we hear.
 
@@ -305,15 +273,7 @@ vocabulary building and spelling; phonemic awareness and listening).*
 
 ### WEEK 5 — COMPREHENSION: EVERYDAY SITUATIONS
 
-**You will learn to**
-
-• read about everyday things
-
-• answer questions on them
-
-• talk about our day
-
-**Things to know**
+**Main content**
 
 • We read about **everyday** situations.
 
@@ -379,15 +339,7 @@ vocabulary building and spelling; phonemic awareness and listening).*
 
 ### WEEK 6 — USING THE PRESENT CONTINUOUS TENSE
 
-**You will learn to**
-
-• say what the present continuous is
-
-• use it in sentences
-
-• talk about now
-
-**Things to know**
+**Main content**
 
 • The **present continuous** tense tells what is happening **now**.
 
@@ -453,15 +405,7 @@ vocabulary building and spelling; phonemic awareness and listening).*
 
 ### WEEK 8 — VOCABULARY BUILDING AND SPELLING PRACTICE
 
-**You will learn to**
-
-• learn new words
-
-• spell words well
-
-• use new words
-
-**Things to know**
+**Main content**
 
 • **Vocabulary** is the words we know.
 
@@ -527,15 +471,7 @@ vocabulary building and spelling; phonemic awareness and listening).*
 
 ### WEEK 9 — PHONEMIC AWARENESS AND LISTENING
 
-**You will learn to**
-
-• hear sounds in words
-
-• say the sounds
-
-• listen for sounds
-
-**Things to know**
+**Main content**
 
 • **Phonemic awareness** is hearing the sounds in words.
 

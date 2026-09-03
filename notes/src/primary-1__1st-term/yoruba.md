@@ -13,15 +13,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 1 — KÍKI (GREETINGS)
 
-**You will learn to**
-
-• greet in Yoruba
-
-• say the right greeting for the time of day
-
-• greet with respect
-
-**Things to know**
+**Main content**
 
 • **Ẹ kú àárọ̀** means good morning.
 
@@ -87,15 +79,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 2 — ẸBÍ MI (MY FAMILY)
 
-**You will learn to**
-
-• name my family in Yoruba
-
-• say the Yoruba word for each member
-
-• love my family
-
-**Things to know**
+**Main content**
 
 • **Ẹbí** means family.
 
@@ -161,15 +145,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 3 — ARA MI (MY BODY)
 
-**You will learn to**
-
-• name the parts of my body in Yoruba
-
-• say the Yoruba word for each part
-
-• keep my body clean
-
-**Things to know**
+**Main content**
 
 • **Orí** means head.
 
@@ -235,15 +211,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 4 — NỌ́MBÀ (NUMBERS 1-10)
 
-**You will learn to**
-
-• count from 1 to 10 in Yoruba
-
-• say the Yoruba word for each number
-
-• count things around me
-
-**Things to know**
+**Main content**
 
 • **Ọ̀kan** means one (1).
 
@@ -309,15 +277,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 5 — ÀWỌ̀ (COLOURS)
 
-**You will learn to**
-
-• name colours in Yoruba
-
-• say the Yoruba word for each colour
-
-• find colours around me
-
-**Things to know**
+**Main content**
 
 • **Pupa** means red.
 
@@ -383,15 +343,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 6 — ỌJỌ́ Ọ̀SẸ̀ (DAYS OF THE WEEK)
 
-**You will learn to**
-
-• name the days of the week in Yoruba
-
-• say today's day in Yoruba
-
-• know the order of the days
-
-**Things to know**
+**Main content**
 
 • **Ọjọ́ Àìkú** means Sunday.
 
@@ -457,15 +409,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 8 — ILÉ MI (MY HOME)
 
-**You will learn to**
-
-• name things in the home in Yoruba
-
-• say the Yoruba word for each thing
-
-• keep my home clean
-
-**Things to know**
+**Main content**
 
 • **Ilé** means house or home.
 
@@ -531,15 +475,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 9 — ẸRANKO (ANIMALS)
 
-**You will learn to**
-
-• name animals in Yoruba
-
-• say the Yoruba word for each animal
-
-• be kind to animals
-
-**Things to know**
+**Main content**
 
 • **Ajá** means dog.
 
@@ -605,15 +541,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 11 — OÚNJẸ (FOOD)
 
-**You will learn to**
-
-• name foods in Yoruba
-
-• say the Yoruba word for each food
-
-• thank God for our food
-
-**Things to know**
+**Main content**
 
 • **Oúnjẹ** means food.
 

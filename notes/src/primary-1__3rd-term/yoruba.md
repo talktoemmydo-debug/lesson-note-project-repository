@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — ORÍ Ọ̀RỌ̀ (TONES)
 
-**You will learn to**
-
-• say the Yoruba tones
-
-• use tones in words
-
-• hear the tones well
-
-**Things to know**
+**Main content**
 
 • Yoruba has three **tones** (orí ọ̀rọ̀).
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — KÍKA TÍTÍ DÉ ỌGỌ́RÙN-ÚN (COUNTING TO 100)
 
-**You will learn to**
-
-• count in Yoruba to 100
-
-• say big numbers
-
-• count things
-
-**Things to know**
+**Main content**
 
 • We can count in **Yoruba** from 1 to 100.
 
@@ -156,15 +140,7 @@ written for them.
 
 ### WEEK 3 — ỌJỌ́ ÀTI OṢÙ (DAYS AND MONTHS)
 
-**You will learn to**
-
-• name the days in Yoruba
-
-• name the months in Yoruba
-
-• say the day today
-
-**Things to know**
+**Main content**
 
 • There are **seven** days in a week.
 
@@ -228,15 +204,7 @@ written for them.
 
 ### WEEK 4 — ỌJÀ (THE MARKET)
 
-**You will learn to**
-
-• name things in the market
-
-• buy and sell
-
-• behave well in the market
-
-**Things to know**
+**Main content**
 
 • The **market** (ọjà) is where we buy and sell.
 
@@ -302,15 +270,7 @@ written for them.
 
 ### WEEK 5 — OÚNJẸ (FOOD)
 
-**You will learn to**
-
-• name foods in Yoruba
-
-• say what we eat
-
-• eat good food
-
-**Things to know**
+**Main content**
 
 • We eat different **foods** (oúnjẹ).
 
@@ -376,15 +336,7 @@ written for them.
 
 ### WEEK 6 — ẸRANKO (ANIMALS)
 
-**You will learn to**
-
-• name animals in Yoruba
-
-• say what animals do
-
-• care for animals
-
-**Things to know**
+**Main content**
 
 • Animals in Yoruba are **ẹranko**.
 
@@ -448,15 +400,7 @@ written for them.
 
 ### WEEK 8 — ÒWE (PROVERBS)
 
-**You will learn to**
-
-• say what a proverb is
-
-• say simple proverbs
-
-• use proverbs well
-
-**Things to know**
+**Main content**
 
 • A **proverb** (òwe) is a short saying with wisdom.
 
@@ -520,15 +464,7 @@ written for them.
 
 ### WEEK 9 — ORIN (SONGS)
 
-**You will learn to**
-
-• sing Yoruba songs
-
-• name songs we sing
-
-• sing with joy
-
-**Things to know**
+**Main content**
 
 • **Songs** (orin) are words we sing.
 
@@ -592,15 +528,7 @@ written for them.
 
 ### WEEK 11 — ÌTÀN (STORIES)
 
-**You will learn to**
-
-• listen to stories
-
-• tell simple stories
-
-• learn from stories
-
-**Things to know**
+**Main content**
 
 • A **story** (ìtàn) tells us about people and events.
 

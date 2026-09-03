@@ -25,14 +25,40 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 # the blocks a note must carry, in this order (notes/README.txt documents the same list)
-BLOCKS = ["You will learn to", "Things to know", "Words for my notebook", "Let us talk",
+# Owner's word, 3 Sep 2026: "the 'things to know' section ought to now be 'main content'. You can do
+# away with the objective sections."  So the per-week "You will learn to" block is GONE and the body
+# block is now "Main content".
+BLOCKS = ["Main content", "Words for my notebook", "Let us talk",
           "Worksheet", "My own work"]
 # (how to count items, fewest allowed, most allowed) — b bullets, n numbered lines, p prose paragraphs
-SHAPE = {"You will learn to": ("b", 3, 5), "Things to know": ("b", 8, 12),
+# The bounds below are the NURSERY floor; every class above it is widened by DEPTH.
+SHAPE = {"Main content": ("b", 8, 12),
          "Words for my notebook": ("p", 1, 4), "Let us talk": ("n", 3, 6),
          "Worksheet": ("n", 7, 7), "My own work": ("p", 1, 3)}
-# a revision week says "What to revise" where everyone else says "Things to know", and may run shorter
-ALIAS = {"Things to know": (["What to revise"], 5, 12)}   # a revision note may run 5-12
+# a revision week says "What to revise" where everyone else says "Main content", and may run shorter
+ALIAS = {"Main content": (["What to revise"], 5, 12)}   # a revision note may run 5-12
+
+# Notes get more elaborate as the class goes up — same house shape, a fuller body.  Owner's word,
+# 3 Sep 2026: "the lesson notes ought to become more elaborate as we move towards the upper classes".
+# (Main content lo, Main content hi, Words lo, Words hi)
+DEPTH = {"nursery-2": (8, 12, 1, 4), "primary-1": (10, 14, 2, 5), "primary-2": (14, 22, 3, 6),
+         "primary-3": (16, 24, 3, 7), "primary-4": (18, 26, 4, 8)}
+DEFAULT_DEPTH = (8, 12, 1, 4)
+
+# Word-only subjects: no plate in the book AND no drawing task for the child — "My own work" is
+# written or spoken instead.  Owner's word, 3 Sep 2026 added mathematics and english to the list.
+WORD_ONLY = {"yoruba", "general-knowledge", "nigerian-history", "social-and-citizenship-studies",
+             "christian-religious-studies", "mathematics-english-mathematics",
+             "mathematics-english-english-language"}
+
+
+def class_slug(cls):
+    return cls.lower().replace(" ", "-")
+
+
+def depth_for(cls):
+    """The (content lo, content hi, words lo, words hi) bounds this class is held to."""
+    return DEPTH.get(class_slug(cls), DEFAULT_DEPTH)
 # words a five-year-old's book should not need — each is a register tell, not a vocabulary ban
 ADULT = (r"\b(however|therefore|moreover|additionally|furthermore|consequently|utili[sz]e|acquir"
          r"e|demonstrat|approximat|sufficient|necessar|environmental|significan|particular(?:ly)?"
@@ -119,8 +145,10 @@ def audit(cls, term, list_n=12):
     for f in files:
         subj = f.stem.replace("-", " ").strip().title()
         for n in notes_of(f.read_text(encoding="utf-8")):
-            n["subject"], n["file"] = subj, f.name
+            n["subject"], n["file"], n["stem"] = subj, f.name, f.stem
             notes.append(n)
+    c_lo, c_hi, w_lo, w_hi = depth_for(cls)          # this class's depth ladder rung
+    LADDER = {"Main content": (c_lo, c_hi), "Words for my notebook": (w_lo, w_hi)}
     for n in notes:
         where = lambda s: f'{n["file"]}:{n["line"]}'
         flag = lambda at, msg: n.setdefault("issues", []).append((at, msg))
@@ -128,9 +156,11 @@ def audit(cls, term, list_n=12):
             names, lo, hi = ALIAS.get(blk, ([], *SHAPE[blk][1:]))
             hit = [b for b in n["blocks"] if any(x.lower() in b[0].lower() for x in [blk] + list(names))]
             if hit and names and hit[0][0].lower() in [x.lower() for x in names]:
-                lo, hi = SHAPE[blk][1], 12          # revision variant: the wider floor applies to it
+                lo, hi = max(lo, c_lo), max(hi, c_hi)   # revision variant, widened with the class
+            elif blk in LADDER:
+                lo, hi = LADDER[blk]                    # an ordinary note is held to its class's rung
             elif hit and names:
-                lo, hi = SHAPE[blk][1:]              # an ordinary note is held to the ordinary bounds
+                lo, hi = SHAPE[blk][1:]
             if not hit:
                 problems[f"missing block: {blk}"] += 1
                 flag(where(blk), f"no **{blk}**")
@@ -139,11 +169,19 @@ def audit(cls, term, list_n=12):
             c = count_of(kind, hit[0][2])
             if c < lo or c > hi:
                 want = f"{lo}" if hi == lo else f"{lo}-{hi}"
-                problems[f"shape: {blk} has {c} items (house shape {want})"] += 1
-                flag(where(blk), f"{blk} has {c} items, wants {want}")
+                if c < lo:
+                    # Falling SHORT of the class's depth floor is a defect, not a style note: the whole
+                    # point of the ladder (owner, 3 Sep 2026) is that upper-class notes get fuller.
+                    problems[f"too thin: {blk} has {c} items (class floor {lo})"] += 1
+                    flag(where(blk), f"{blk} has {c} items, this class wants at least {lo}")
+                else:
+                    problems[f"shape: {blk} has {c} items (house shape {want})"] += 1
+                    flag(where(blk), f"{blk} has {c} items, wants {want}")
         body = "\n".join(ln for b in n["blocks"] for _, ln in b[2])
         allt = "\n".join([n["title"], body] + [ln for _, ln in n["plain"]])
-        if not re.search(MAKING, allt, re.I) and "\n![" not in "\n" + body:
+        # a word-only subject gives the child written or spoken work, not a drawing — no cue required.
+        if (n.get("stem") not in WORD_ONLY
+                and not re.search(MAKING, allt, re.I) and "\n![" not in "\n" + body):
             problems["nothing for the hands (draw/colour/cut/paste/trace)"] += 1
             flag(where("make"), "no draw/colour/cut/paste cue anywhere in the note")
         for m in re.finditer(ADULT, allt, re.I):

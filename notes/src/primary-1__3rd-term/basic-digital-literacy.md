@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — STORING OUR WORK
 
-**You will learn to**
-
-• say why we save our work
-
-• name where we save work
-
-• open saved work
-
-**Things to know**
+**Main content**
 
 • We **save** our work so we do not lose it.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — THE INTERNET
 
-**You will learn to**
-
-• say what the internet is
-
-• name what we use it for
-
-• use it when a grown-up is near
-
-**Things to know**
+**Main content**
 
 • The **internet** joins computers all over the world.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — SENDING A MESSAGE
 
-**You will learn to**
-
-• say what a message is
-
-• name ways we send messages
-
-• send a simple message
-
-**Things to know**
+**Main content**
 
 • A **message** is information we send to someone.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — LEARNING SOFTWARE
 
-**You will learn to**
-
-• say what software is
-
-• name learning programs
-
-• use a learning program
-
-**Things to know**
+**Main content**
 
 • **Software** is the programs a computer runs.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — COMPUTERS IN DAILY LIFE
 
-**You will learn to**
-
-• name where we see computers
-
-• say what computers do for us
-
-• value the computer
-
-**Things to know**
+**Main content**
 
 • We see computers in many places.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — PEOPLE WHO WORK WITH COMPUTERS
 
-**You will learn to**
-
-• name computer jobs
-
-• say what each does
-
-• respect all workers
-
-**Things to know**
+**Main content**
 
 • Some people work with computers.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — BEING SAFE ONLINE
 
-**You will learn to**
-
-• say how to be safe online
-
-• name dangers online
-
-• tell a grown-up
-
-**Things to know**
+**Main content**
 
 • We go online only when a grown-up is near.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — CARING FOR OUR DEVICES
 
-**You will learn to**
-
-• say how to care for devices
-
-• name good habits
-
-• keep devices clean
-
-**Things to know**
+**Main content**
 
 • We keep our devices **clean and dry**.
 

@@ -12,14 +12,7 @@ motor-skills weeks for W8–W9.*
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W1 (pp 558–563).*
 
-**You will learn to**
-
-• say what a sport place is
-• name four places where sport is played
-• tell the difference between a facility and an equipment
-• say three things we do to care for the class equipment
-
-**Things to know**
+**Main content**
 
 • A **sport facility** is the **place or the building** where a game is played.
 • A **sport equipment** is the **thing you hold or wear** to play the game.
@@ -68,14 +61,7 @@ Draw a football field with two goals made of stones, and beside it a box holding
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W2 (pp 558–563).*
 
-**You will learn to**
-
-• pass a ball with the inside of the foot
-• dribble the ball close to your feet
-• shoot at a goal
-• name four things a football team wears
-
-**Things to know**
+**Main content**
 
 • Football is played with a **round ball** and **two teams**; the team that puts the ball in the goal wins.
 • **Passing** is kicking the ball to a mate; the **inside of the foot** is the truest pass a child can make.
@@ -122,14 +108,7 @@ Draw a boy kicking a ball with the inside of his foot towards two stones laid on
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W3 (pp 558–563).*
 
-**You will learn to**
-
-• bounce a ball on the spot with one hand
-• pass a ball from the chest with two hands
-• throw a ball towards a hoop
-• say one rule of basketball
-
-**Things to know**
+**Main content**
 
 • Basketball is played with a **big bouncy ball** and **two teams**; the ball is **thrown**, not kicked.
 • The hoop is **raised on a board**, and into it the ball must go to give a point to the team.
@@ -177,14 +156,7 @@ Draw a girl bouncing a big ball with one hand, and a hoop on a board above a low
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W4 (pp 558–563).*
 
-**You will learn to**
-
-• hold a bat the right way
-• serve so the ball bounces twice
-• hit the ball back over the net
-• name three things needed for the game
-
-**Things to know**
+**Main content**
 
 • Table tennis is **like tennis on a table**, and that is how it got its name.
 • It is played by **two children** or by **four**, two on each side of the net.
@@ -233,14 +205,7 @@ Draw a table with a low net across it, a ball above one half, and two children a
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W5 (pp 558–563).*
 
-**You will learn to**
-
-• say what chess is
-• point to the two colours on a board
-• name four chess men
-• say one thing chess teaches a child
-
-**Things to know**
+**Main content**
 
 • **Chess** is a **thinking game** for **two players**; nobody runs and nobody shouts.
 • It is played on a **checkered board** of **light and dark squares**, and each player takes the **light
@@ -290,14 +255,7 @@ Draw a board of sixteen squares, light and dark, with four big men standing on t
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W6 (pp 558–563).*
 
-**You will learn to**
-
-• say what a video game is
-• name two games a small child may play
-• say why play on a screen is limited
-• tell what must come before the screen
-
-**Things to know**
+**Main content**
 
 • A **video game** is a game played on an **electronic thing**: a computer, a tablet, a phone or a box joined
   to the television.
@@ -349,14 +307,7 @@ Draw a tablet lying on a table with two children running past it towards a footb
 
 *Depth: NERDC Primary 1 · PHE · motor skills, moving our body parts (part 1).*
 
-**You will learn to**
-
-• name ten parts of the body
-• move each part by itself
-• stretch the arms, the legs and the back
-• do the actions of a body song
-
-**Things to know**
+**Main content**
 
 • The parts we name: **head, neck, shoulders, chest, back, waist, arms, hands, fingers, legs, feet and toes**.
 • **Nodding** the head means yes; **shaking** it means no; both move the **neck**.
@@ -403,14 +354,7 @@ Draw a child with both arms stretched high above the head, feet flat on the grou
 
 *Depth: NERDC Primary 1 · PHE · motor skills, daily activity movements.*
 
-**You will learn to**
-
-• pick a thing up from the floor the right way
-• carry a light thing safely
-• push and pull without hurting the back
-• go up and down stairs well
-
-**Things to know**
+**Main content**
 
 • To pick up a thing from the floor, **bend the knees** and keep the back near straight — do not fold the back.
 • A thing is held **close to the body** when carrying; the further it is from you, the heavier it feels.

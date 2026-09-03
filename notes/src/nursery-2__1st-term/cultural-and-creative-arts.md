@@ -9,14 +9,7 @@ Weeks 1 to 6, 8 and 9. No note for Week 7 (Mid-Term), 10 (Revision), 11 (Examina
 
 *Depth: NERDC Nursery 3 · Creativity · First Term W1 (pp 564–566).*
 
-**You will learn to**
-
-• know the parts of a car that I can see on paper
-• colour inside the lines without going out
-• choose the colours I want for my car
-• say what a car does for people
-
-**Things to know**
+**Main content**
 
 • A car is a means of transportation: it carries people and things from place to place.
 • The parts of the car on my colouring paper: **body, wheels, windows, doors and headlights**.
@@ -59,14 +52,7 @@ Finish your car: colour the whole outline and add a road, a sky and one tree.
 
 *Depth: NERDC Nursery 3 · Creativity · First Term W4 (pp 564–566).*
 
-**You will learn to**
-
-• press my thumb and my hand on paper to make pictures
-• make a caterpillar, a butterfly, a fish or a flower from prints
-• add details after the paint has dried
-• wash my hands well after the activity
-
-**Things to know**
+**Main content**
 
 • A thumb print is made by dipping the thumb in washable paint or an ink pad and pressing it on paper.
 • Many thumb prints in a line make a **caterpillar**; two joined make a **butterfly**; small ones scattered make a **ladybug on a leaf**; three in a row can make a **fish**.
@@ -110,14 +96,7 @@ Make six more thumb prints on a spare page and turn three of them into animals.
 
 *Depth: NERDC Nursery 3 · Creativity · First Term W8 (pp 564–566).*
 
-**You will learn to**
-
-• colour a character inside its outline
-• keep the body colours the character is known for
-• add a background to my picture
-• colour carefully and neatly to the end
-
-**Things to know**
+**Main content**
 
 • Barney is a **purple dinosaur** in a children's programme; his belly and his back details are **green**.
 • A character picture has an outline — the lines that show where the body, the arms and the legs end.
@@ -160,14 +139,7 @@ Draw one friend standing beside Barney and colour both of them.
 
 *Depth: NERDC Nursery 2 · Creativity · First Term W9 and Nursery 3 · Creativity · First Term W9 (pp 412–414, 564–566).*
 
-**You will learn to**
-
-• name the parts of a pig I am colouring
-• choose the colours a pig can be
-• colour a curved shape neatly
-• say two things we get from farm animals
-
-**Things to know**
+**Main content**
 
 • Parts of a pig: **snout** (the long nose), **curly tail**, **round body**, **small ears** and **hooves**.
 • A pig is a farm animal; it lives in a pen on the farm with goats, sheep and hens.
@@ -211,14 +183,7 @@ Add a fence and a barn behind your pig, then colour the whole page.
 
 *Depth: NERDC Nursery 3 · Creativity · First Term W10 (pp 564–566).*
 
-**You will learn to**
-
-• cut straws into small bead-sized pieces with help
-• thread the pieces onto a string
-• make a pattern that repeats
-• tie a knot so that my necklace does not open
-
-**Things to know**
+**Main content**
 
 • The things I need: **drinking straws cut into small pieces, string or yarn, and scissors**.
 • The straw pieces are as small as beads, so the necklace can lie flat around my neck.
@@ -264,14 +229,7 @@ Wear your necklace or bracelet to school tomorrow and say its pattern out loud i
 
 *Depth: NERDC Nursery 2 · Creativity · First Term W10 and Nursery 3 · Creativity · Second Term W1 (pp 412–414, 568–571).*
 
-**You will learn to**
-
-• name the parts of an umbrella
-• mix bright colours together without fear
-• make stripes, dots or sections on my umbrella
-• colour a curved outline neatly
-
-**Things to know**
+**Main content**
 
 • Parts of an umbrella: the **canopy** (the round top), the **handle**, and the **spokes** inside the canopy.
 • An umbrella keeps rain off us, and it keeps the strong sun off us too.
@@ -315,14 +273,7 @@ Draw an umbrella over two people walking in the rain, and colour it.
 
 *Depth: NERDC Nursery 3 · Creativity · Second Term W2 (pp 568–571).*
 
-**You will learn to**
-
-• use vegetables as stamps
-• know the shape each vegetable makes
-• dip, press and lift without smearing
-• clean up after the activity
-
-**Things to know**
+**Main content**
 
 • Vegetables can be stamps: an **okra cut across prints a star**, a **carrot prints a circle**, a **potato** can be carved into shapes, and **bell pepper, cabbage and celery** print their own patterns.
 • The vegetable is cut for us by a grown-up — we do not use the cutting blade ourselves.
@@ -367,14 +318,7 @@ Make one more print on a spare page and write under it the name of the vegetable
 
 *Depth: NERDC Nursery 3 · Creativity · Second Term W3 (pp 568–571).*
 
-**You will learn to**
-
-• roll, flatten, pinch and coil plasticine
-• build a figure that has several parts
-• mix two colours to make a new one
-• make a scene with more than one object
-
-**Things to know**
+**Main content**
 
 • Four movements with plasticine: **rolling** (a ball or a snake), **flattening** (a pancake), **pinching** (ears, a nose) and **coiling** (a snail's shell, a rope).
 • A figure with parts: a **person** with a head, a body, two arms and two legs; the limbs can be joined loosely so they move.

@@ -8,15 +8,7 @@ and each stream carries its own term paper.
 
 ### WEEK 1 — WEIGHT
 
-**You will learn to**
-
-• say what weight is
-
-• compare weight
-
-• use simple balance
-
-**Things to know**
+**Main content**
 
 • **Weight** tells how heavy or light a thing is.
 
@@ -82,15 +74,7 @@ and each stream carries its own term paper.
 
 ### WEEK 2 — CAPACITY
 
-**You will learn to**
-
-• say what capacity is
-
-• compare capacity
-
-• measure liquids
-
-**Things to know**
+**Main content**
 
 • **Capacity** is how much a container can hold.
 
@@ -156,15 +140,7 @@ and each stream carries its own term paper.
 
 ### WEEK 3 — AREA (INTRODUCTION)
 
-**You will learn to**
-
-• say what area is
-
-• compare area
-
-• count unit squares
-
-**Things to know**
+**Main content**
 
 • **Area** is the size of a flat surface.
 
@@ -230,15 +206,7 @@ and each stream carries its own term paper.
 
 ### WEEK 4 — 2-DIMENSIONAL SHAPES
 
-**You will learn to**
-
-• name 2-dimensional shapes
-
-• draw the shapes
-
-• find shapes around us
-
-**Things to know**
+**Main content**
 
 • **2-dimensional** shapes are flat shapes.
 
@@ -304,15 +272,7 @@ and each stream carries its own term paper.
 
 ### WEEK 5 — 3-DIMENSIONAL SHAPES
 
-**You will learn to**
-
-• name 3-dimensional shapes
-
-• find solid shapes
-
-• compare solid shapes
-
-**Things to know**
+**Main content**
 
 • **3-dimensional** shapes are solid shapes.
 
@@ -378,15 +338,7 @@ and each stream carries its own term paper.
 
 ### WEEK 6 — DATA COLLECTION (EVERYDAY STATISTICS)
 
-**You will learn to**
-
-• collect data
-
-• count and record
-
-• read simple charts
-
-**Things to know**
+**Main content**
 
 • **Data** is information we collect.
 
@@ -452,15 +404,7 @@ and each stream carries its own term paper.
 
 ### WEEK 8 — REVIEW OF GEOMETRY CONCEPTS
 
-**You will learn to**
-
-• review shapes
-
-• name shapes again
-
-• tell 2-D from 3-D
-
-**Things to know**
+**Main content**
 
 • **Geometry** is the study of shapes.
 
@@ -526,15 +470,7 @@ and each stream carries its own term paper.
 
 ### WEEK 9 — APPLIED PROBLEM SOLVING (ALL CONCEPTS)
 
-**You will learn to**
-
-• solve word problems
-
-• use all we have learnt
-
-• think and answer
-
-**Things to know**
+**Main content**
 
 • We can solve **word problems** in maths.
 

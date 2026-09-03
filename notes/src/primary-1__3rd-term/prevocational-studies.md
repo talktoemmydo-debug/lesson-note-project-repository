@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — WORK AT HOME AND IN THE COMMUNITY
 
-**You will learn to**
-
-• name work we do at home
-
-• name work in the community
-
-• help in our work
-
-**Things to know**
+**Main content**
 
 • **Work** is what we do to help and to live well.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — SIMPLE FOOD PREPARATION
 
-**You will learn to**
-
-• name simple foods we prepare
-
-• help to prepare food
-
-• keep food clean
-
-**Things to know**
+**Main content**
 
 • We help to prepare simple **foods**.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — CARE OF CLOTHING
 
-**You will learn to**
-
-• care for our clothes
-
-• wash and keep clothes
-
-• mend simple clothes
-
-**Things to know**
+**Main content**
 
 • We keep our **clothes** clean.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — CRAFTS: MAKING THINGS
 
-**You will learn to**
-
-• name things we make
-
-• make simple crafts
-
-• use materials well
-
-**Things to know**
+**Main content**
 
 • A **craft** is something we make with our hands.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — CARING FOR OUR ENVIRONMENT
 
-**You will learn to**
-
-• care for our environment
-
-• keep it clean
-
-• plant and protect
-
-**Things to know**
+**Main content**
 
 • Our **environment** is the place we live in.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — ANIMALS AND THEIR CARE
 
-**You will learn to**
-
-• name animals we keep
-
-• care for animals
-
-• say what animals give us
-
-**Things to know**
+**Main content**
 
 • We keep animals like **dogs**, **goats**, **chickens** and **cows**.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — SAVING AND SPENDING
 
-**You will learn to**
-
-• say what saving is
-
-• spend money well
-
-• keep money safe
-
-**Things to know**
+**Main content**
 
 • **Saving** is keeping money for later.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — WORK WE MAY DO WHEN WE GROW UP
 
-**You will learn to**
-
-• name jobs people do
-
-• say what we want to be
-
-• learn for our future work
-
-**Things to know**
+**Main content**
 
 • When we grow up, we will do a **work**.
 

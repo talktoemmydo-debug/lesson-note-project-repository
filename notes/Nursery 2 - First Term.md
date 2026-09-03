@@ -22,127 +22,127 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 5 — BODY CARE FOR WOUNDS: MEANING, CAUSES AND TYPES](#week-5-body-care-for-wounds-meaning-causes-and-types) · 7
   - [WEEK 6 — BODY CARE FOR WOUNDS: CARE FOR WOUNDS](#week-6-body-care-for-wounds-care-for-wounds) · 8
   - [WEEK 8 — SICKNESS: DEFINITION, TYPES AND SYMPTOMS, CAUSES AND CARE](#week-8-sickness-definition-types-and-symptoms-causes-and-care) · 9
-  - [WEEK 9 — ROCKS AND SOIL](#week-9-rocks-and-soil) · 11
-- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 13
-  - [WEEK 1 — COLOURING A CAR](#week-1-colouring-a-car) · 13
-  - [WEEK 2 — THUMB PRINT AND HAND PRINT ART](#week-2-thumb-print-and-hand-print-art) · 14
-  - [WEEK 3 — COLOURING BARNEY](#week-3-colouring-barney) · 15
-  - [WEEK 4 — COLOURING A PIG](#week-4-colouring-a-pig) · 16
-  - [WEEK 5 — STRAW JEWELRY MAKING](#week-5-straw-jewelry-making) · 17
-  - [WEEK 6 — COLOURING AN UMBRELLA](#week-6-colouring-an-umbrella) · 18
-  - [WEEK 8 — VEGETABLE PRINT ART](#week-8-vegetable-print-art) · 19
-  - [WEEK 9 — PLASTICINE (ADVANCED)](#week-9-plasticine-advanced) · 20
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 22
-  - [WEEK 1 — GOD THE CREATOR (PART 1)](#week-1-god-the-creator-part-1) · 22
-  - [WEEK 2 — GOD THE CREATOR (PART 2)](#week-2-god-the-creator-part-2) · 22
-  - [WEEK 3 — GOD THE CREATOR (PART 3)](#week-3-god-the-creator-part-3) · 23
-  - [WEEK 4 — GOD, THE GIVER OF GOOD THINGS (PART 1)](#week-4-god-the-giver-of-good-things-part-1) · 24
-  - [WEEK 5 — GOD, THE GIVER OF GOOD THINGS (PART 2)](#week-5-god-the-giver-of-good-things-part-2) · 25
-  - [WEEK 6 — GOD, THE GIVER OF GOOD THINGS (PART 3)](#week-6-god-the-giver-of-good-things-part-3) · 25
-  - [WEEK 8 — GOD'S GIFT OF HIS SON (PART 1)](#week-8-gods-gift-of-his-son-part-1) · 26
-  - [WEEK 9 — GOD'S GIFT OF HIS SON (PART 2)](#week-9-gods-gift-of-his-son-part-2) · 27
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 29
-  - [WEEK 1 — TECHNOLOGY AND DIGITAL DEVICES](#week-1-technology-and-digital-devices) · 29
-  - [WEEK 2 — TYPES OF COMPUTER: DESKTOP, LAPTOP, TABLET](#week-2-types-of-computer-desktop-laptop-tablet) · 30
-  - [WEEK 3 — BASIC PARTS: MONITOR, KEYBOARD, MOUSE, CPU](#week-3-basic-parts-monitor-keyboard-mouse-cpu) · 31
-  - [WEEK 4 — USES OF THE COMPUTER IN DAILY LIFE](#week-4-uses-of-the-computer-in-daily-life) · 32
-  - [WEEK 5 — CARE AND HANDLING OF DEVICES](#week-5-care-and-handling-of-devices) · 33
-  - [WEEK 6 — COMPUTER LAB SAFETY RULES](#week-6-computer-lab-safety-rules) · 34
-  - [WEEK 8 — FROM THE ABACUS TO TODAY'S COMPUTER](#week-8-from-the-abacus-to-todays-computer) · 35
-  - [WEEK 9 — KEY INVENTORS: CHARLES BABBAGE AND ADA LOVELACE](#week-9-key-inventors-charles-babbage-and-ada-lovelace) · 37
-- **[Nigerian History](#nigerian-history)** · 39
-  - [WEEK 1 — MEANING AND IMPORTANCE OF HISTORY (PART 1)](#week-1-meaning-and-importance-of-history-part-1) · 39
-  - [WEEK 2 — MEANING AND IMPORTANCE OF HISTORY (PART 2)](#week-2-meaning-and-importance-of-history-part-2) · 39
-  - [WEEK 3 — PEOPLES AND PLACES IN THE COMMUNITY (PART 1)](#week-3-peoples-and-places-in-the-community-part-1) · 40
-  - [WEEK 4 — PEOPLES AND PLACES IN THE COMMUNITY (PART 2)](#week-4-peoples-and-places-in-the-community-part-2) · 41
-  - [WEEK 5 — PLACES IN THE COMMUNITY (PART 1)](#week-5-places-in-the-community-part-1) · 42
-  - [WEEK 6 — PLACES IN THE COMMUNITY (PART 2)](#week-6-places-in-the-community-part-2) · 43
-  - [WEEK 8 — LIVING TOGETHER IN PEACE](#week-8-living-together-in-peace) · 44
-  - [WEEK 9 — NATIONAL UNITY AND DIVERSITY](#week-9-national-unity-and-diversity) · 45
-- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 46
-  - [WEEK 1 — EXERCISES AND GAMES: IMPORTANCE](#week-1-exercises-and-games-importance) · 46
-  - [WEEK 2 — GAMES: BASIC GAMES](#week-2-games-basic-games) · 47
-  - [WEEK 3 — BODY EXERCISE: STRETCHING, BENDING, RAISING ARMS AND LEGS, SKIPPING, LEAPING AND HOPPING](#week-3-body-exercise-stretching-bending-raising-arms-and-legs-skipping-leaping-and-hopping) · 48
-  - [WEEK 4 — BODY CONDITIONING AND BALANCING](#week-4-body-conditioning-and-balancing) · 49
-  - [WEEK 5 — SIMPLE MOVEMENTS OF PARTS OF THE BODY](#week-5-simple-movements-of-parts-of-the-body) · 50
-  - [WEEK 6 — MANIPULATIVE MOVEMENTS: THROWING AND CATCHING](#week-6-manipulative-movements-throwing-and-catching) · 51
-  - [WEEK 8 — NEURO-MUSCULAR SKILLS: DANCING AND SOMERSAULTING](#week-8-neuro-muscular-skills-dancing-and-somersaulting) · 53
-  - [WEEK 9 — DEVELOPMENT THROUGH SPORT ACTIVITIES: PHYSICAL DEVELOPMENT](#week-9-development-through-sport-activities-physical-development) · 54
-- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 56
-  - [WEEK 1 — MEANING OF AGRICULTURE; IMPORTANCE OF AGRICULTURE TO HUMANS](#week-1-meaning-of-agriculture-importance-of-agriculture-to-humans) · 56
-  - [WEEK 2 — AGRICULTURE IN OUR DAILY LIVES](#week-2-agriculture-in-our-daily-lives) · 57
-  - [WEEK 3 — BASIC FARMING ACTIVITIES](#week-3-basic-farming-activities) · 58
-  - [WEEK 4 — SCOPE OF AGRICULTURE: CROPS](#week-4-scope-of-agriculture-crops) · 59
-  - [WEEK 5 — SCOPE OF AGRICULTURE: ANIMALS](#week-5-scope-of-agriculture-animals) · 60
-  - [WEEK 6 — SCOPE OF AGRICULTURE: FORESTRY](#week-6-scope-of-agriculture-forestry) · 62
-  - [WEEK 8 — SCOPE OF AGRICULTURE: FISHERY](#week-8-scope-of-agriculture-fishery) · 63
-  - [WEEK 9 — AGRICULTURE IN NIGERIA](#week-9-agriculture-in-nigeria) · 64
-- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 66
-  - [WEEK 1 — LEADERSHIP](#week-1-leadership) · 66
-  - [WEEK 2 — LEADERSHIP AT HOME](#week-2-leadership-at-home) · 66
-  - [WEEK 3 — COMMUNITY MOBILIZATION (PART 1)](#week-3-community-mobilization-part-1) · 67
-  - [WEEK 4 — COMMUNITY MOBILIZATION (PART 2)](#week-4-community-mobilization-part-2) · 68
-  - [WEEK 5 — CIVIC RESPONSIBILITIES (PARTS 1 AND 2)](#week-5-civic-responsibilities-parts-1-and-2) · 69
-  - [WEEK 6 — NATIONAL IDENTITY AND SYMBOLS (PART 1)](#week-6-national-identity-and-symbols-part-1) · 70
-  - [WEEK 8 — NATIONAL IDENTITY AND SYMBOLS (PART 2)](#week-8-national-identity-and-symbols-part-2) · 71
-  - [WEEK 9 — PEOPLE, PLACES AND OBJECTS TO RESPECT (PARTS 1 AND 2)](#week-9-people-places-and-objects-to-respect-parts-1-and-2) · 72
-- **[Yoruba](#yoruba)** · 73
-  - [WEEK 1 — Ede: Didaruko nnkan inu yara ikawe / Asa: Ikini ni ile Yoruba / Litireso: Orin keekeekee (imototo, ibawi)](#week-1-ede-didaruko-nnkan-inu-yara-ikawe-asa-ikini-ni-ile-yoruba-litireso-orin-keekeekee-imototo-ibawi) · 73
-  - [WEEK 2 — Ede: Onka ede Yoruba 1-10 / Asa: Iwa rere / Litireso: Orin ikilo fun omode](#week-2-ede-onka-ede-yoruba-1-10-asa-iwa-rere-litireso-orin-ikilo-fun-omode) · 74
-  - [WEEK 3 — Ede: Kika alifabeeti ede Yoruba / Asa: Awon ojo ninu ose / Litireso: Orin idaraya](#week-3-ede-kika-alifabeeti-ede-yoruba-asa-awon-ojo-ninu-ose-litireso-orin-idaraya) · 75
-  - [WEEK 4 — Ede: Isorongbesi laarin akekoo / Asa: Imototo ara eni / Litireso: Orin iwa rere](#week-4-ede-isorongbesi-laarin-akekoo-asa-imototo-ara-eni-litireso-orin-iwa-rere) · 76
-  - [WEEK 5 — Ede: Sise nnkan (oro ase) / Asa: Ojuse ebi ninu idile / Litireso: Orin keekeekee ati ijo](#week-5-ede-sise-nnkan-oro-ase-asa-ojuse-ebi-ninu-idile-litireso-orin-keekeekee-ati-ijo) · 77
-  - [WEEK 6 — Ede: Kika alifabeeti A-GB / Asa: Ikini fun orisirisi igba ati asiko / Litireso: Orin ibawi fun omode](#week-6-ede-kika-alifabeeti-a-gb-asa-ikini-fun-orisirisi-igba-ati-asiko-litireso-orin-ibawi-fun-omode) · 78
-  - [WEEK 8 — Ede: Kiko alifabeeti / Asa: Imototo ayika / Litireso: Ere osupa sise ni ale](#week-8-ede-kiko-alifabeeti-asa-imototo-ayika-litireso-ere-osupa-sise-ni-ale) · 79
-  - [WEEK 9 — Ede: Itesiwaju kika alifabeeti H-Q / Asa: Ikini fun ise (ise abinibi) / Litireso: Ewi keekeekee](#week-9-ede-itesiwaju-kika-alifabeeti-h-q-asa-ikini-fun-ise-ise-abinibi-litireso-ewi-keekeekee) · 80
-  - [WEEK 11 — Exam Preparation](#week-11-exam-preparation) · 81
-- **[Mathematics & English](#mathematics-english)** · 83
-  - [WEEK 1 — VOWELS AND CONSONANTS](#week-1-vowels-and-consonants) · 83
-  - [WEEK 2 — SINGLE SOUNDS: d, a, i, m](#week-2-single-sounds-d-a-i-m) · 84
-  - [WEEK 3 — SIGHT WORDS: You, Me, Her, We](#week-3-sight-words-you-me-her-we) · 85
-  - [WEEK 4 — SIGHT WORDS: I, Go, Car](#week-4-sight-words-i-go-car) · 86
-  - [WEEK 5 — DIGRAPH: th, ck, wh](#week-5-digraph-th-ck-wh) · 87
-  - [WEEK 6 — SIGHT WORDS: The, This, They](#week-6-sight-words-the-this-they) · 89
-  - [WEEK 8 — DIGRAPH: ph, sh, ch](#week-8-digraph-ph-sh-ch) · 90
-  - [WEEK 9 — SIGHT WORDS: Photo, She, Chart · CONSONANT BLENDS: Play, Fly, Greet](#week-9-sight-words-photo-she-chart-consonant-blends-play-fly-greet) · 91
-  - [WEEK 1 — REVIEW OF ALPHABET: Aa – Ff](#week-1-review-of-alphabet-aa-ff) · 92
-  - [WEEK 2 — REVIEW OF ALPHABET: Gg – Ll](#week-2-review-of-alphabet-gg-ll) · 93
-  - [WEEK 3 — REVIEW OF ALPHABET: Mm – Rr](#week-3-review-of-alphabet-mm-rr) · 94
-  - [WEEK 4 — REVIEW OF ALPHABET: Ss – Zz](#week-4-review-of-alphabet-ss-zz) · 95
-  - [WEEK 5 — THREE-LETTER WORDS: CVC PATTERN (Part 1)](#week-5-three-letter-words-cvc-pattern-part-1) · 97
-  - [WEEK 6 — THREE-LETTER WORDS: CVC PATTERN (Part 2)](#week-6-three-letter-words-cvc-pattern-part-2) · 98
-  - [WEEK 8 — THREE-LETTER WORDS: CVC PATTERN (Part 3)](#week-8-three-letter-words-cvc-pattern-part-3) · 99
-  - [WEEK 9 — STORY TELLING AND LETTER WORK INTEGRATION](#week-9-story-telling-and-letter-work-integration) · 100
-  - [WEEK 1 — WHOLE NUMBERS 1–200](#week-1-whole-numbers-1200) · 101
-  - [WEEK 2 — PLACE VALUE](#week-2-place-value) · 102
-  - [WEEK 3 — WRITING NUMBERS IN WORDS](#week-3-writing-numbers-in-words) · 103
-  - [WEEK 4 — WRITING WORDS IN FIGURES](#week-4-writing-words-in-figures) · 104
-  - [WEEK 5 — ADDITION (INTRODUCTION)](#week-5-addition-introduction) · 106
-  - [WEEK 6 — ADDITION](#week-6-addition) · 107
-  - [WEEK 8 — SUBTRACTION (INTRODUCTION)](#week-8-subtraction-introduction) · 108
-  - [WEEK 9 — SUBTRACTION](#week-9-subtraction) · 109
-- **[General Knowledge](#general-knowledge)** · 111
-  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 111
-  - [WEEK 2 — MY FAMILY: MEMBERS AND THEIR ROLES](#week-2-my-family-members-and-their-roles) · 111
-  - [WEEK 3 — MY SCHOOL: PLACES, PEOPLE AND THINGS](#week-3-my-school-places-people-and-things) · 112
-  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 113
-  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 114
-  - [WEEK 6 — COLOURS, SHAPES AND SIZES AROUND ME](#week-6-colours-shapes-and-sizes-around-me) · 114
-  - [WEEK 8 — ANIMALS AND BIRDS AROUND ME](#week-8-animals-and-birds-around-me) · 115
-  - [WEEK 9 — GOOD HABITS: GREETINGS, POLITENESS AND CLEANLINESS](#week-9-good-habits-greetings-politeness-and-cleanliness) · 116
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · First Term)](#examination-practice-basic-science-nursery-2-first-term)** · 118
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-nursery-2-1st-term)** · 120
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 1st Term)](#examination-practice-christian-religious-studies-nursery-2-1st-term)** · 122
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 1st Term)](#examination-practice-basic-digital-literacy-nursery-2-1st-term)** · 124
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY ( · )](#examination-practice-nigerian-history)** · 126
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 1st Term)](#examination-practice-physical-and-health-education-nursery-2-1st-term)** · 129
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 1st Term)](#examination-practice-prevocational-studies-nursery-2-1st-term)** · 132
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-nursery-2-1st-term)** · 134
-- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 1st Term)](#examination-practice-yoruba-nursery-2-1st-term)** · 137
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-1st-term)** · 139
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-1st-term)** · 141
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-numeracy-nursery-2-1st-term)** · 143
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE ( · )](#examination-practice-general-knowledge)** · 145
+  - [WEEK 9 — ROCKS AND SOIL](#week-9-rocks-and-soil) · 10
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 12
+  - [WEEK 1 — COLOURING A CAR](#week-1-colouring-a-car) · 12
+  - [WEEK 2 — THUMB PRINT AND HAND PRINT ART](#week-2-thumb-print-and-hand-print-art) · 13
+  - [WEEK 3 — COLOURING BARNEY](#week-3-colouring-barney) · 14
+  - [WEEK 4 — COLOURING A PIG](#week-4-colouring-a-pig) · 15
+  - [WEEK 5 — STRAW JEWELRY MAKING](#week-5-straw-jewelry-making) · 15
+  - [WEEK 6 — COLOURING AN UMBRELLA](#week-6-colouring-an-umbrella) · 17
+  - [WEEK 8 — VEGETABLE PRINT ART](#week-8-vegetable-print-art) · 18
+  - [WEEK 9 — PLASTICINE (ADVANCED)](#week-9-plasticine-advanced) · 19
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 21
+  - [WEEK 1 — GOD THE CREATOR (PART 1)](#week-1-god-the-creator-part-1) · 21
+  - [WEEK 2 — GOD THE CREATOR (PART 2)](#week-2-god-the-creator-part-2) · 21
+  - [WEEK 3 — GOD THE CREATOR (PART 3)](#week-3-god-the-creator-part-3) · 22
+  - [WEEK 4 — GOD, THE GIVER OF GOOD THINGS (PART 1)](#week-4-god-the-giver-of-good-things-part-1) · 23
+  - [WEEK 5 — GOD, THE GIVER OF GOOD THINGS (PART 2)](#week-5-god-the-giver-of-good-things-part-2) · 23
+  - [WEEK 6 — GOD, THE GIVER OF GOOD THINGS (PART 3)](#week-6-god-the-giver-of-good-things-part-3) · 24
+  - [WEEK 8 — GOD'S GIFT OF HIS SON (PART 1)](#week-8-gods-gift-of-his-son-part-1) · 25
+  - [WEEK 9 — GOD'S GIFT OF HIS SON (PART 2)](#week-9-gods-gift-of-his-son-part-2) · 25
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 27
+  - [WEEK 1 — TECHNOLOGY AND DIGITAL DEVICES](#week-1-technology-and-digital-devices) · 27
+  - [WEEK 2 — TYPES OF COMPUTER: DESKTOP, LAPTOP, TABLET](#week-2-types-of-computer-desktop-laptop-tablet) · 28
+  - [WEEK 3 — BASIC PARTS: MONITOR, KEYBOARD, MOUSE, CPU](#week-3-basic-parts-monitor-keyboard-mouse-cpu) · 29
+  - [WEEK 4 — USES OF THE COMPUTER IN DAILY LIFE](#week-4-uses-of-the-computer-in-daily-life) · 30
+  - [WEEK 5 — CARE AND HANDLING OF DEVICES](#week-5-care-and-handling-of-devices) · 31
+  - [WEEK 6 — COMPUTER LAB SAFETY RULES](#week-6-computer-lab-safety-rules) · 32
+  - [WEEK 8 — FROM THE ABACUS TO TODAY'S COMPUTER](#week-8-from-the-abacus-to-todays-computer) · 33
+  - [WEEK 9 — KEY INVENTORS: CHARLES BABBAGE AND ADA LOVELACE](#week-9-key-inventors-charles-babbage-and-ada-lovelace) · 34
+- **[Nigerian History](#nigerian-history)** · 36
+  - [WEEK 1 — MEANING AND IMPORTANCE OF HISTORY (PART 1)](#week-1-meaning-and-importance-of-history-part-1) · 36
+  - [WEEK 2 — MEANING AND IMPORTANCE OF HISTORY (PART 2)](#week-2-meaning-and-importance-of-history-part-2) · 36
+  - [WEEK 3 — PEOPLES AND PLACES IN THE COMMUNITY (PART 1)](#week-3-peoples-and-places-in-the-community-part-1) · 37
+  - [WEEK 4 — PEOPLES AND PLACES IN THE COMMUNITY (PART 2)](#week-4-peoples-and-places-in-the-community-part-2) · 38
+  - [WEEK 5 — PLACES IN THE COMMUNITY (PART 1)](#week-5-places-in-the-community-part-1) · 39
+  - [WEEK 6 — PLACES IN THE COMMUNITY (PART 2)](#week-6-places-in-the-community-part-2) · 39
+  - [WEEK 8 — LIVING TOGETHER IN PEACE](#week-8-living-together-in-peace) · 40
+  - [WEEK 9 — NATIONAL UNITY AND DIVERSITY](#week-9-national-unity-and-diversity) · 41
+- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 43
+  - [WEEK 1 — EXERCISES AND GAMES: IMPORTANCE](#week-1-exercises-and-games-importance) · 43
+  - [WEEK 2 — GAMES: BASIC GAMES](#week-2-games-basic-games) · 44
+  - [WEEK 3 — BODY EXERCISE: STRETCHING, BENDING, RAISING ARMS AND LEGS, SKIPPING, LEAPING AND HOPPING](#week-3-body-exercise-stretching-bending-raising-arms-and-legs-skipping-leaping-and-hopping) · 45
+  - [WEEK 4 — BODY CONDITIONING AND BALANCING](#week-4-body-conditioning-and-balancing) · 46
+  - [WEEK 5 — SIMPLE MOVEMENTS OF PARTS OF THE BODY](#week-5-simple-movements-of-parts-of-the-body) · 47
+  - [WEEK 6 — MANIPULATIVE MOVEMENTS: THROWING AND CATCHING](#week-6-manipulative-movements-throwing-and-catching) · 48
+  - [WEEK 8 — NEURO-MUSCULAR SKILLS: DANCING AND SOMERSAULTING](#week-8-neuro-muscular-skills-dancing-and-somersaulting) · 49
+  - [WEEK 9 — DEVELOPMENT THROUGH SPORT ACTIVITIES: PHYSICAL DEVELOPMENT](#week-9-development-through-sport-activities-physical-development) · 50
+- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 52
+  - [WEEK 1 — MEANING OF AGRICULTURE; IMPORTANCE OF AGRICULTURE TO HUMANS](#week-1-meaning-of-agriculture-importance-of-agriculture-to-humans) · 52
+  - [WEEK 2 — AGRICULTURE IN OUR DAILY LIVES](#week-2-agriculture-in-our-daily-lives) · 53
+  - [WEEK 3 — BASIC FARMING ACTIVITIES](#week-3-basic-farming-activities) · 54
+  - [WEEK 4 — SCOPE OF AGRICULTURE: CROPS](#week-4-scope-of-agriculture-crops) · 55
+  - [WEEK 5 — SCOPE OF AGRICULTURE: ANIMALS](#week-5-scope-of-agriculture-animals) · 56
+  - [WEEK 6 — SCOPE OF AGRICULTURE: FORESTRY](#week-6-scope-of-agriculture-forestry) · 57
+  - [WEEK 8 — SCOPE OF AGRICULTURE: FISHERY](#week-8-scope-of-agriculture-fishery) · 58
+  - [WEEK 9 — AGRICULTURE IN NIGERIA](#week-9-agriculture-in-nigeria) · 59
+- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 61
+  - [WEEK 1 — LEADERSHIP](#week-1-leadership) · 61
+  - [WEEK 2 — LEADERSHIP AT HOME](#week-2-leadership-at-home) · 61
+  - [WEEK 3 — COMMUNITY MOBILIZATION (PART 1)](#week-3-community-mobilization-part-1) · 62
+  - [WEEK 4 — COMMUNITY MOBILIZATION (PART 2)](#week-4-community-mobilization-part-2) · 63
+  - [WEEK 5 — CIVIC RESPONSIBILITIES (PARTS 1 AND 2)](#week-5-civic-responsibilities-parts-1-and-2) · 64
+  - [WEEK 6 — NATIONAL IDENTITY AND SYMBOLS (PART 1)](#week-6-national-identity-and-symbols-part-1) · 64
+  - [WEEK 8 — NATIONAL IDENTITY AND SYMBOLS (PART 2)](#week-8-national-identity-and-symbols-part-2) · 65
+  - [WEEK 9 — PEOPLE, PLACES AND OBJECTS TO RESPECT (PARTS 1 AND 2)](#week-9-people-places-and-objects-to-respect-parts-1-and-2) · 66
+- **[Yoruba](#yoruba)** · 68
+  - [WEEK 1 — Ede: Didaruko nnkan inu yara ikawe / Asa: Ikini ni ile Yoruba / Litireso: Orin keekeekee (imototo, ibawi)](#week-1-ede-didaruko-nnkan-inu-yara-ikawe-asa-ikini-ni-ile-yoruba-litireso-orin-keekeekee-imototo-ibawi) · 68
+  - [WEEK 2 — Ede: Onka ede Yoruba 1-10 / Asa: Iwa rere / Litireso: Orin ikilo fun omode](#week-2-ede-onka-ede-yoruba-1-10-asa-iwa-rere-litireso-orin-ikilo-fun-omode) · 69
+  - [WEEK 3 — Ede: Kika alifabeeti ede Yoruba / Asa: Awon ojo ninu ose / Litireso: Orin idaraya](#week-3-ede-kika-alifabeeti-ede-yoruba-asa-awon-ojo-ninu-ose-litireso-orin-idaraya) · 70
+  - [WEEK 4 — Ede: Isorongbesi laarin akekoo / Asa: Imototo ara eni / Litireso: Orin iwa rere](#week-4-ede-isorongbesi-laarin-akekoo-asa-imototo-ara-eni-litireso-orin-iwa-rere) · 70
+  - [WEEK 5 — Ede: Sise nnkan (oro ase) / Asa: Ojuse ebi ninu idile / Litireso: Orin keekeekee ati ijo](#week-5-ede-sise-nnkan-oro-ase-asa-ojuse-ebi-ninu-idile-litireso-orin-keekeekee-ati-ijo) · 71
+  - [WEEK 6 — Ede: Kika alifabeeti A-GB / Asa: Ikini fun orisirisi igba ati asiko / Litireso: Orin ibawi fun omode](#week-6-ede-kika-alifabeeti-a-gb-asa-ikini-fun-orisirisi-igba-ati-asiko-litireso-orin-ibawi-fun-omode) · 72
+  - [WEEK 8 — Ede: Kiko alifabeeti / Asa: Imototo ayika / Litireso: Ere osupa sise ni ale](#week-8-ede-kiko-alifabeeti-asa-imototo-ayika-litireso-ere-osupa-sise-ni-ale) · 73
+  - [WEEK 9 — Ede: Itesiwaju kika alifabeeti H-Q / Asa: Ikini fun ise (ise abinibi) / Litireso: Ewi keekeekee](#week-9-ede-itesiwaju-kika-alifabeeti-h-q-asa-ikini-fun-ise-ise-abinibi-litireso-ewi-keekeekee) · 74
+  - [WEEK 11 — Exam Preparation](#week-11-exam-preparation) · 75
+- **[Mathematics & English](#mathematics-english)** · 77
+  - [WEEK 1 — VOWELS AND CONSONANTS](#week-1-vowels-and-consonants) · 77
+  - [WEEK 2 — SINGLE SOUNDS: d, a, i, m](#week-2-single-sounds-d-a-i-m) · 78
+  - [WEEK 3 — SIGHT WORDS: You, Me, Her, We](#week-3-sight-words-you-me-her-we) · 79
+  - [WEEK 4 — SIGHT WORDS: I, Go, Car](#week-4-sight-words-i-go-car) · 80
+  - [WEEK 5 — DIGRAPH: th, ck, wh](#week-5-digraph-th-ck-wh) · 81
+  - [WEEK 6 — SIGHT WORDS: The, This, They](#week-6-sight-words-the-this-they) · 82
+  - [WEEK 8 — DIGRAPH: ph, sh, ch](#week-8-digraph-ph-sh-ch) · 83
+  - [WEEK 9 — SIGHT WORDS: Photo, She, Chart · CONSONANT BLENDS: Play, Fly, Greet](#week-9-sight-words-photo-she-chart-consonant-blends-play-fly-greet) · 84
+  - [WEEK 1 — REVIEW OF ALPHABET: Aa – Ff](#week-1-review-of-alphabet-aa-ff) · 85
+  - [WEEK 2 — REVIEW OF ALPHABET: Gg – Ll](#week-2-review-of-alphabet-gg-ll) · 86
+  - [WEEK 3 — REVIEW OF ALPHABET: Mm – Rr](#week-3-review-of-alphabet-mm-rr) · 87
+  - [WEEK 4 — REVIEW OF ALPHABET: Ss – Zz](#week-4-review-of-alphabet-ss-zz) · 88
+  - [WEEK 5 — THREE-LETTER WORDS: CVC PATTERN (Part 1)](#week-5-three-letter-words-cvc-pattern-part-1) · 89
+  - [WEEK 6 — THREE-LETTER WORDS: CVC PATTERN (Part 2)](#week-6-three-letter-words-cvc-pattern-part-2) · 90
+  - [WEEK 8 — THREE-LETTER WORDS: CVC PATTERN (Part 3)](#week-8-three-letter-words-cvc-pattern-part-3) · 91
+  - [WEEK 9 — STORY TELLING AND LETTER WORK INTEGRATION](#week-9-story-telling-and-letter-work-integration) · 92
+  - [WEEK 1 — WHOLE NUMBERS 1–200](#week-1-whole-numbers-1200) · 93
+  - [WEEK 2 — PLACE VALUE](#week-2-place-value) · 94
+  - [WEEK 3 — WRITING NUMBERS IN WORDS](#week-3-writing-numbers-in-words) · 95
+  - [WEEK 4 — WRITING WORDS IN FIGURES](#week-4-writing-words-in-figures) · 96
+  - [WEEK 5 — ADDITION (INTRODUCTION)](#week-5-addition-introduction) · 97
+  - [WEEK 6 — ADDITION](#week-6-addition) · 98
+  - [WEEK 8 — SUBTRACTION (INTRODUCTION)](#week-8-subtraction-introduction) · 99
+  - [WEEK 9 — SUBTRACTION](#week-9-subtraction) · 100
+- **[General Knowledge](#general-knowledge)** · 102
+  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 102
+  - [WEEK 2 — MY FAMILY: MEMBERS AND THEIR ROLES](#week-2-my-family-members-and-their-roles) · 102
+  - [WEEK 3 — MY SCHOOL: PLACES, PEOPLE AND THINGS](#week-3-my-school-places-people-and-things) · 103
+  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 104
+  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 104
+  - [WEEK 6 — COLOURS, SHAPES AND SIZES AROUND ME](#week-6-colours-shapes-and-sizes-around-me) · 105
+  - [WEEK 8 — ANIMALS AND BIRDS AROUND ME](#week-8-animals-and-birds-around-me) · 106
+  - [WEEK 9 — GOOD HABITS: GREETINGS, POLITENESS AND CLEANLINESS](#week-9-good-habits-greetings-politeness-and-cleanliness) · 106
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · First Term)](#examination-practice-basic-science-nursery-2-first-term)** · 108
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 1st Term)](#examination-practice-cultural-and-creative-arts-nursery-2-1st-term)** · 110
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 1st Term)](#examination-practice-christian-religious-studies-nursery-2-1st-term)** · 112
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 1st Term)](#examination-practice-basic-digital-literacy-nursery-2-1st-term)** · 114
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Nursery 2 · 1st Term)](#examination-practice-nigerian-history-nursery-2-1st-term)** · 116
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 1st Term)](#examination-practice-physical-and-health-education-nursery-2-1st-term)** · 119
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 1st Term)](#examination-practice-prevocational-studies-nursery-2-1st-term)** · 122
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 1st Term)](#examination-practice-social-and-citizenship-studies-nursery-2-1st-term)** · 124
+- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 1st Term)](#examination-practice-yoruba-nursery-2-1st-term)** · 127
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-1st-term)** · 129
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-1st-term)** · 131
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 1st Term)](#examination-practice-mathematics-english-numeracy-nursery-2-1st-term)** · 133
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Nursery 2 · 1st Term)](#examination-practice-general-knowledge-nursery-2-1st-term)** · 135
 
 
 
@@ -159,14 +159,7 @@ Week 12 Closing — those weeks carry no note.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W1 (pp 491–494).*
 
-**You will learn to**
-
-• name the five big parts of my body
-• point to the parts of my head, my trunk and my limbs
-• say what my body parts do
-• know that my body is special and belongs only to me
-
-**Things to know**
+**Main content**
 
 • My body is everything about me — from the top of my head to the tips of my toes.
 • The five big parts of the body are the **head, neck, trunk, arms and legs**.
@@ -214,14 +207,7 @@ Draw your own body in your notebook and label five parts you know.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W2 (pp 491–494).*
 
-**You will learn to**
-
-• say why I must care for my body
-• tell the daily body-care practices in order
-• wash my hands and brush my teeth the right way
-• say how much sleep and rest my body needs
-
-**Things to know**
+**Main content**
 
 • A body that is looked after stays strong, does not itch, does not smell and does not fall sick often.
 • I bathe every day with soap and water.
@@ -269,14 +255,7 @@ Colour the picture of the clean child and cross out the one who is dirty.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W3 (pp 491–494).*
 
-**You will learn to**
-
-• say what first aid is in one line
-• name six things inside a first aid box
-• point to where the box is kept
-• say who may use the things in the box
-
-**Things to know**
+**Main content**
 
 • First aid is the **first help** we give to a person who is hurt or suddenly sick, before the nurse or the doctor comes.
 • The things in the box are kept in a box so that help is ready when it is needed.
@@ -319,14 +298,7 @@ Draw the two things in the box that you have seen at home.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W4 (pp 491–494).*
 
-**You will learn to**
-
-• match each first aid thing to what it is used for
-• say when a grown-up must be called at once
-• say what a thermometer is for
-• stay calm when somebody is hurt
-
-**Things to know**
+**Main content**
 
 • Plasters and band-aids cover **small cuts** and scrapes.
 • A bandage wraps a wound and **supports a sprained** wrist or leg.
@@ -370,14 +342,7 @@ Match with a line: plaster–cut, bandage–wrap, cotton–clean, thermometer–
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W7 (pp 491–494).*
 
-**You will learn to**
-
-• say what a wound is
-• name the causes of wounds at home and at school
-• tell the five types of wounds apart
-• say two ways of preventing wounds
-
-**Things to know**
+**Main content**
 
 • A wound is an injury that **breaks the skin** — where the skin is open, or cut, or has blood on it.
 • If the skin is not broken, it is not a wound.
@@ -426,14 +391,7 @@ Draw one thing that can cause a cut and one thing that can cause a burn.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W8 (pp 491–494).*
 
-**You will learn to**
-
-• put the four steps for a small wound in order
-• say when a grown-up must be called
-• keep the rules about the scab and the bandage
-• know the signs that a wound is going bad
-
-**Things to know**
+**Main content**
 
 • Step one: **wash the hands first**.
 • Step two: **clean the wound with clean water**.
@@ -481,14 +439,7 @@ Number 1 to 4 the pictures of the four steps in your notebook.
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W9 and W10 (pp 491–494) — this
 week takes both NERDC weeks together.*
 
-**You will learn to**
-
-• define sickness in one line
-• name common sicknesses of children and the signs they show
-• say what brings sickness and how to prevent it
-• describe how a sick person is cared for
-
-**Things to know**
+**Main content**
 
 • Sickness (illness) is when the body is **not working properly** and we feel unwell.
 • A well body eats and plays; a sick body is weak and needs rest.
@@ -539,14 +490,7 @@ Draw the four things a sick child needs to get well again and colour them.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Second Term W1 (pp 494–497).*
 
-**You will learn to**
-
-• define a rock and soil in one line each
-• sort stones by size
-• name three uses of rocks
-• tell sandy, clayey and loamy soil apart by touch
-
-**Things to know**
+**Main content**
 
 • A rock is a **hard, solid thing found in nature** on the earth; nobody made it.
 • Some rocks were made when hot liquid from inside the earth (lava) cooled and became hard.
@@ -602,14 +546,7 @@ Weeks 1 to 6, 8 and 9. No note for Week 7 (Mid-Term), 10 (Revision), 11 (Examina
 
 *Depth: NERDC Nursery 3 · Creativity · First Term W1 (pp 564–566).*
 
-**You will learn to**
-
-• know the parts of a car that I can see on paper
-• colour inside the lines without going out
-• choose the colours I want for my car
-• say what a car does for people
-
-**Things to know**
+**Main content**
 
 • A car is a means of transportation: it carries people and things from place to place.
 • The parts of the car on my colouring paper: **body, wheels, windows, doors and headlights**.
@@ -652,14 +589,7 @@ Finish your car: colour the whole outline and add a road, a sky and one tree.
 
 *Depth: NERDC Nursery 3 · Creativity · First Term W4 (pp 564–566).*
 
-**You will learn to**
-
-• press my thumb and my hand on paper to make pictures
-• make a caterpillar, a butterfly, a fish or a flower from prints
-• add details after the paint has dried
-• wash my hands well after the activity
-
-**Things to know**
+**Main content**
 
 • A thumb print is made by dipping the thumb in washable paint or an ink pad and pressing it on paper.
 • Many thumb prints in a line make a **caterpillar**; two joined make a **butterfly**; small ones scattered make a **ladybug on a leaf**; three in a row can make a **fish**.
@@ -703,14 +633,7 @@ Make six more thumb prints on a spare page and turn three of them into animals.
 
 *Depth: NERDC Nursery 3 · Creativity · First Term W8 (pp 564–566).*
 
-**You will learn to**
-
-• colour a character inside its outline
-• keep the body colours the character is known for
-• add a background to my picture
-• colour carefully and neatly to the end
-
-**Things to know**
+**Main content**
 
 • Barney is a **purple dinosaur** in a children's programme; his belly and his back details are **green**.
 • A character picture has an outline — the lines that show where the body, the arms and the legs end.
@@ -753,14 +676,7 @@ Draw one friend standing beside Barney and colour both of them.
 
 *Depth: NERDC Nursery 2 · Creativity · First Term W9 and Nursery 3 · Creativity · First Term W9 (pp 412–414, 564–566).*
 
-**You will learn to**
-
-• name the parts of a pig I am colouring
-• choose the colours a pig can be
-• colour a curved shape neatly
-• say two things we get from farm animals
-
-**Things to know**
+**Main content**
 
 • Parts of a pig: **snout** (the long nose), **curly tail**, **round body**, **small ears** and **hooves**.
 • A pig is a farm animal; it lives in a pen on the farm with goats, sheep and hens.
@@ -804,14 +720,7 @@ Add a fence and a barn behind your pig, then colour the whole page.
 
 *Depth: NERDC Nursery 3 · Creativity · First Term W10 (pp 564–566).*
 
-**You will learn to**
-
-• cut straws into small bead-sized pieces with help
-• thread the pieces onto a string
-• make a pattern that repeats
-• tie a knot so that my necklace does not open
-
-**Things to know**
+**Main content**
 
 • The things I need: **drinking straws cut into small pieces, string or yarn, and scissors**.
 • The straw pieces are as small as beads, so the necklace can lie flat around my neck.
@@ -857,14 +766,7 @@ Wear your necklace or bracelet to school tomorrow and say its pattern out loud i
 
 *Depth: NERDC Nursery 2 · Creativity · First Term W10 and Nursery 3 · Creativity · Second Term W1 (pp 412–414, 568–571).*
 
-**You will learn to**
-
-• name the parts of an umbrella
-• mix bright colours together without fear
-• make stripes, dots or sections on my umbrella
-• colour a curved outline neatly
-
-**Things to know**
+**Main content**
 
 • Parts of an umbrella: the **canopy** (the round top), the **handle**, and the **spokes** inside the canopy.
 • An umbrella keeps rain off us, and it keeps the strong sun off us too.
@@ -908,14 +810,7 @@ Draw an umbrella over two people walking in the rain, and colour it.
 
 *Depth: NERDC Nursery 3 · Creativity · Second Term W2 (pp 568–571).*
 
-**You will learn to**
-
-• use vegetables as stamps
-• know the shape each vegetable makes
-• dip, press and lift without smearing
-• clean up after the activity
-
-**Things to know**
+**Main content**
 
 • Vegetables can be stamps: an **okra cut across prints a star**, a **carrot prints a circle**, a **potato** can be carved into shapes, and **bell pepper, cabbage and celery** print their own patterns.
 • The vegetable is cut for us by a grown-up — we do not use the cutting blade ourselves.
@@ -960,14 +855,7 @@ Make one more print on a spare page and write under it the name of the vegetable
 
 *Depth: NERDC Nursery 3 · Creativity · Second Term W3 (pp 568–571).*
 
-**You will learn to**
-
-• roll, flatten, pinch and coil plasticine
-• build a figure that has several parts
-• mix two colours to make a new one
-• make a scene with more than one object
-
-**Things to know**
+**Main content**
 
 • Four movements with plasticine: **rolling** (a ball or a snake), **flattening** (a pancake), **pinching** (ears, a nose) and **coiling** (a snail's shell, a rope).
 • A figure with parts: a **person** with a head, a body, two arms and two legs; the limbs can be joined loosely so they move.
@@ -1022,14 +910,7 @@ teaches this band two classes earlier, so the Primary 1 list is kept and told as
 
 *Depth: NERDC Primary 1 · CRS · First Term W1 (pp 638–639).*
 
-**You will learn to**
-
-• say who God is in one line
-• tell what God made on the first and the second day
-• name things in God's creation around me
-• thank God for what I see
-
-**Things to know**
+**Main content**
 
 • God is the **Supreme Being**, the **Almighty** — the greatest, and there is nobody greater than Him.
 • God made the world and everything in it.
@@ -1072,14 +953,7 @@ Draw three things God made on the first day and colour the light.
 
 *Depth: NERDC Primary 1 · CRS · First Term W2 (pp 638–639).*
 
-**You will learn to**
-
-• tell what God made on Days 3, 4 and 5
-• name the living things God made
-• sing a creation song
-• care for what God made
-
-**Things to know**
+**Main content**
 
 • **Day 3:** God made the **dry land and the seas**, and He made **grass, plants, trees and flowers**.
 • **Day 4:** God made the **sun** to rule the day, the **moon** to rule the night, and the **stars**.
@@ -1121,14 +995,7 @@ Draw one thing God made on Day 3, one on Day 4 and one on Day 5, and write the d
 
 *Depth: NERDC Primary 1 · CRS · First Term W3 (pp 638–639).*
 
-**You will learn to**
-
-• tell what God made on Days 6 and 7
-• say in one line what it means that we are made in God's image
-• say why rest and worship matter
-• thank God for making me
-
-**Things to know**
+**Main content**
 
 • **Day 6:** God made the **animals of the land** — cattle, creeping things and wild beasts — and then He made **man and woman**.
 • God made people **in His own image**: like God in the way we think, love, speak and choose what is right.
@@ -1172,14 +1039,7 @@ Draw two animals from the story and colour the bigger one.
 
 *Depth: NERDC Primary 1 · CRS · First Term W4 (pp 638–639).*
 
-**You will learn to**
-
-• name the good things God gives us
-• say that life and breath come from God
-• thank God for my family and my home
-• share good things with others
-
-**Things to know**
+**Main content**
 
 • God is the One who gives us good things, and we thank Him for them.
 • God gives us **life and breath** — the fact that I am awake this morning is a gift.
@@ -1222,14 +1082,7 @@ Draw four good things God gives us and colour the one you like best.
 
 *Depth: NERDC Primary 1 · CRS · First Term W7 (pp 638–639).*
 
-**You will learn to**
-
-• name the food, water and clothing God provides
-• say who gives us schools and teachers
-• give thanks before a meal
-• not waste what God has provided
-
-**Things to know**
+**Main content**
 
 • God gives us **food to eat**: fruits (mango, banana, watermelon, orange), vegetables (ewédú, ugu, spinach), rice, yam, beans, cassava and fish.
 • The rain that waters the farm comes from God; the farmer who plants is also God's help.
@@ -1272,14 +1125,7 @@ Draw one good thing you have at home and colour it.
 
 *Depth: NERDC Primary 1 · CRS · First Term W8 (pp 638–639).*
 
-**You will learn to**
-
-• name the good things God gives that we cannot buy
-• say how God protects us
-• thank God in prayer for health, friends and weather
-• ask God for help before doing something risky
-
-**Things to know**
+**Main content**
 
 • God gives us **friends to play with** — a friend is a gift, not something we buy.
 • God gives us **health and strength**: a body that runs, eyes that see, a mouth that speaks.
@@ -1322,14 +1168,7 @@ Draw two hands: one for giving and one for working. Colour the giving hand.
 
 *Depth: NERDC Primary 1 · CRS · First Term W9 (pp 638–639).*
 
-**You will learn to**
-
-• say why God sent Jesus
-• tell the beginning of the birth story
-• name the people in the story
-• say what the angels told the shepherds
-
-**Things to know**
+**Main content**
 
 • **John 3:16** — God loved the world so much that He gave His only Son, so that whoever believes in Him should not perish but have everlasting life.
 • God sent **His Son Jesus** into the world. This is God's greatest gift.
@@ -1370,14 +1209,7 @@ Draw the manger with the baby Jesus, and write "God loved the world" under it.
 
 *Depth: NERDC Primary 1 · CRS · First Term W10 (pp 638–639).*
 
-**You will learn to**
-
-• name the three gifts of the wise men
-• say why God sent Jesus
-• tell what Jesus came to teach
-• say how Christmas is celebrated
-
-**Things to know**
+**Main content**
 
 • **Jesus is God's greatest gift** to us, and a gift is received with thanks.
 • Wise men from the east came following the star, and they brought gifts: **gold, frankincense and myrrh**.
@@ -1429,14 +1261,7 @@ line is pitched as naming, pointing and handling, not reading and writing code.*
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• say what technology means in one line
-• name the digital devices I know
-• point to a computer, a tablet, a phone, a watch and a camera
-• tell which things at home are digital
-
-**Things to know**
+**Main content**
 
 • **Technology** means the smart things people make and use to do work more easily.
 • A **digital device** is a machine that thinks with electricity and shows us things on a screen.
@@ -1483,14 +1308,7 @@ Draw three machines in your house and colour the one that makes the most noise.
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• tell a desktop from a laptop and a tablet
-• say what each type is good for
-• say which parts come with a desktop
-• choose the right computer for the right work
-
-**Things to know**
+**Main content**
 
 • A **desktop** sits on a table and does not move about; it has a separate **monitor, keyboard, mouse** and a **CPU box**.
 • A **laptop** opens and shuts like a book; the screen, the keys and the touchpad are all in it, and it has a battery.
@@ -1534,14 +1352,7 @@ Draw one desktop, one laptop and one tablet, and write one use under each.
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• name the four basic parts of a computer
-• say what each part does
-• point to each part on a real computer
-• put the parts in the right order of work
-
-**Things to know**
+**Main content**
 
 • The four basic parts: **monitor, keyboard, mouse and CPU**.
 • The **monitor** is the screen; it shows what the computer is doing — pictures, letters and numbers.
@@ -1588,14 +1399,7 @@ Draw the four parts of a computer as four shapes on a desk and colour the CPU bo
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828), with the Primary 5
 Third Term "AI in daily life" line kept only as examples of uses.*
 
-**You will learn to**
-
-• say what people use a computer for at work
-• say what I use a tablet for at home
-• name machines in the shop, the bank and the hospital
-• tell the difference between work play and learning on a device
-
-**Things to know**
+**Main content**
 
 • People write letters, draw pictures and keep records on a computer.
 • In the **bank**, a computer counts money and prints the receipt; in the **shop**, the machine that reads the price is a computer.
@@ -1639,14 +1443,7 @@ Write down two ways your family uses a phone or computer for work, and two ways 
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• keep a device clean and dry
-• hold and carry a device with two hands
-• charge a device safely with a grown-up near
-• shut a device the right way
-
-**Things to know**
+**Main content**
 
 • Devices are **expensive and easily spoiled**, so we handle them gently.
 • Keep food and drink away from the keyboard; water inside a device spoils it for good.
@@ -1691,14 +1488,7 @@ Wipe the dust off one device in your house with a soft dry cloth, and tell your 
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• say what a computer lab is
-• state the rules we keep in the lab
-• sit and move correctly in the lab
-• tell the teacher at once when something is wrong
-
-**Things to know**
+**Main content**
 
 • A **computer lab** is the room in the school where many computers are kept for lessons.
 • We **walk** in the lab; we do not run, because a cable or a chair can throw us down.
@@ -1743,14 +1533,7 @@ Write five rules of the computer lab on a sheet and put it on the wall of your n
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W2 (pp 827–828).*
 
-**You will learn to**
-
-• name the first tool people used to count
-• tell how computers changed over time
-• name the five generations in order
-• say what became smaller, faster and cheaper
-
-**Things to know**
+**Main content**
 
 • Long ago people counted with **stones and fingers**, then with the **abacus** — a frame with beads that slide on wires.
 • The abacus is still used in some markets and some schools: beads up means add, beads down means take away.
@@ -1794,14 +1577,7 @@ Draw an abacus with ten beads on one wire and write what you use your fingers fo
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W2 (pp 827–828).*
 
-**You will learn to**
-
-• name the father of the computer
-• say what Ada Lovelace did
-• put the two inventors in their time order
-• say why an idea can be as valuable as a machine
-
-**Things to know**
+**Main content**
 
 • **Charles Babbage** was an Englishman who, about two hundred years ago, designed a machine called the **Analytical Engine**; because of that plan he is called the **father of the computer**.
 • His first machine was called the **Difference Engine**; it was built to work out tables of numbers without mistakes.
@@ -1855,14 +1631,7 @@ band two classes earlier, so the Primary 1 list stands as the floor and is told 
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W1 (pp 649–650).*
 
-**You will learn to**
-
-• say what history is in one line
-• give an example of the past from my own life
-• name the people and things that tell us about the past
-• say one reason we learn history
-
-**Things to know**
+**Main content**
 
 • **History is the story of the past** — of what happened before now.
 • Yesterday is past. Last week is past. Last year is past. This very minute, when it has gone, is past too.
@@ -1908,14 +1677,7 @@ Draw three things that were here before you were born and colour the oldest one.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W2 (pp 649–650).*
 
-**You will learn to**
-
-• say which family I belong to
-• say where my people come from
-• name a lesson the past teaches
-• draw my family tree
-
-**Things to know**
+**Main content**
 
 • History is about **identity**: to which family do I belong? Every family has a name, and my name is part of it.
 • "I am a child of the ______ family." That family name came from my grandfather, and his father before him.
@@ -1958,14 +1720,7 @@ Finish your family tree and write one thing your family is known for under it.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W3 (pp 649–650).*
 
-**You will learn to**
-
-• say what a community is
-• name the people who live around me
-• name the people who help us in the community
-• greet a neighbour well
-
-**Things to know**
+**Main content**
 
 • A **community** is the people and the places around us — the street, the houses, the shops, the church and the mosque, the field where children play.
 • In our community there are **different people**: children, youths, mothers, fathers, grandmothers, teachers, drivers, traders, the watchman.
@@ -2008,14 +1763,7 @@ Draw three people who help people in your community and write one thing each of 
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W4 (pp 649–650).*
 
-**You will learn to**
-
-• name the three major ethnic groups of Nigeria
-• say one thing each group is known for
-• name other groups living in our community
-• say how we treat people of other groups
-
-**Things to know**
+**Main content**
 
 • Nigeria has many peoples. The three **major ethnic groups** are the **Hausa**, the **Igbo** and the **Yoruba**.
 • The **Hausa** are mainly in the **north**; they greet with **"Sannu"**; they eat **tuwo** with soup; the big embroidered robe is the **babban riga**.
@@ -2058,14 +1806,7 @@ Write the names of the three groups and draw one food that any of them eats.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W7 (pp 649–650).*
 
-**You will learn to**
-
-• name the important places in our community
-• say what each place is used for
-• say how we behave in each place
-• tell where help is found in an emergency
-
-**Things to know**
+**Main content**
 
 • Important places: **school, hospital, market, church, mosque, police station, fire station, park and playground**, the motor park, the bank, the post office.
 • The **school** is where we learn; we come on time and we carry our books.
@@ -2108,14 +1849,7 @@ Draw two places in your community and write what each one is used for.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W8 (pp 649–650).*
 
-**You will learn to**
-
-• name the traditional places in our community
-• say who rules in the palace and what he does
-• say what the community hall is used for
-• describe one old thing in our area
-
-**Things to know**
+**Main content**
 
 • Besides the hospital and the market, every town has **old, traditional places**: the **palace**, the **community hall**, and sometimes a **monument**.
 • The **palace** is the home of the **traditional ruler**. In Yorubaland he is the **Oba** (in some towns the Aláàfin, the Deji, the Olú); in the north he is the **Emir**; in Igboland he may be the **Igwe** or the eldest man of the kindred.
@@ -2158,14 +1892,7 @@ Draw the palace or the community hall and write one line about what happens ther
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W9 (pp 649–650).*
 
-**You will learn to**
-
-• say what tolerance means
-• name ways of respecting people of other groups
-• say why we play and learn together
-• give examples of sharing and caring
-
-**Things to know**
+**Main content**
 
 • **Tolerance** means: other people are different from me, and that is all right.
 • Different things about people: their name, their language, their food, their cloth, their place of worship, the way they greet.
@@ -2209,14 +1936,7 @@ Write three ways you will show tolerance in this class next week.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W10 (pp 649–650).*
 
-**You will learn to**
-
-• say that Nigeria is one country with many peoples
-• name the differences among Nigerians
-• describe how our diversity is celebrated
-• identify the Nigerian flag and say what it represents
-
-**Things to know**
+**Main content**
 
 • **Nigeria is one country with many peoples** — more than **two hundred and fifty** groups live inside it.
 • Our differences: **languages** (Hausa, Igbo, Yoruba, Tiv, Nupe, Ijaw and the rest), **foods** (garri, tuwo, fufu, eba, rice), **cloths** (agbádá, babban riga, George wrapper, àdìrè), and **festivals**.
@@ -2266,14 +1986,7 @@ Weeks 1 to 6, 8 and 9. No note for Week 7 (Mid-Term), 10 (Revision), 11 (Examina
 
 *Depth: NERDC Nursery 3 · PHE · First Term W1 (pp 547–551).*
 
-**You will learn to**
-
-• say what exercise means and what a game is
-• name the things exercise does for my body
-• tell why games have rules
-• show that exercise is fun, not a punishment
-
-**Things to know**
+**Main content**
 
 • **Exercise** means the physical activities that make the body move and work.
 • A **game** is an organized activity with rules, usually played for fun and sometimes to win.
@@ -2321,14 +2034,7 @@ Draw yourself playing your favourite game and colour the ball.
 
 *Depth: NERDC Nursery 3 · PHE · First Term W2 (pp 547–551).*
 
-**You will learn to**
-
-• play the basic games of the field
-• keep the balance in the egg-and-spoon race
-• follow the rules of each game
-• play fairly and encourage the others
-
-**Things to know**
+**Main content**
 
 • **Egg and spoon race:** a small ball or bean bag is balanced on a spoon and carried to the line; if it falls, you pick it up and go on from where it fell.
 • The egg-and-spoon game teaches balance and control of the hand.
@@ -2373,14 +2079,7 @@ Draw one of the games and write the rule that you must not forget.
 
 *Depth: NERDC Nursery 3 · PHE · First Term W3 and W4 (pp 547–551) — the school takes both weeks together.*
 
-**You will learn to**
-
-• stretch the neck, arms, back and legs
-• bend and raise the arms and legs in the right form
-• skip with and without a rope
-• leap and hop without falling
-
-**Things to know**
+**Main content**
 
 • **Stretching**: reach for the sky, touch your toes, bend sideways, roll the neck slowly, turn the arms in circles, turn the ankles.
 • Stretching warms the muscles up, keeps us from being hurt, and makes the body bend easily.
@@ -2427,14 +2126,7 @@ Draw one child stretching up tall and one bending down; colour the shoes of both
 
 *Depth: NERDC Nursery 3 · PHE · First Term W7 (pp 547–551).*
 
-**You will learn to**
-
-• say what body conditioning means
-• say what balance is
-• stand on one leg for ten counts
-• play the dance-and-freeze game well
-
-**Things to know**
+**Main content**
 
 • **Body conditioning** means exercises that make the whole body fit and in good control.
 • **Balance** means staying steady without falling.
@@ -2479,14 +2171,7 @@ Draw the mark of ten on the floor and walk heel to toe along it five times witho
 
 *Depth: NERDC Nursery 3 · PHE · First Term W8 (pp 547–551).*
 
-**You will learn to**
-
-• move to the beat of a tambourine
-• walk, jog, run and crawl correctly
-• bend, turn, jump and swing the body parts
-• move safely in a space shared with others
-
-**Things to know**
+**Main content**
 
 • **Tambourine movement**: move when it plays; move **fast** for fast beats, **slow** for slow beats; **freeze** when it stops.
 • Different body parts answer the beat: the hands clap, the feet stamp, the head nods, the trunk twists.
@@ -2533,14 +2218,7 @@ Draw the five parts of your body you move with and colour each one a different c
 
 *Depth: NERDC Nursery 3 · PHE · First Term W9 (pp 547–551).*
 
-**You will learn to**
-
-• say what manipulative movement means
-• throw underhand and overhand
-• catch with two hands at different heights
-• keep the safety rules when throwing
-
-**Things to know**
+**Main content**
 
 • **Manipulative movements** are movements that control and move an object using a body part.
 • They are the skills every sport is built on: throwing, catching, kicking, hitting, bouncing, rolling.
@@ -2587,14 +2265,7 @@ Draw a ball in the air above your two hands and colour the ball.
 
 *Depth: NERDC Nursery 3 · PHE · First Term W10 (dancing) and Nursery 2 · PHE · Second Term W10 (somersaulting), pp 547–551.*
 
-**You will learn to**
-
-• say what a neuro-muscular skill is
-• do simple dance steps with the arms and legs together
-• roll forward on a mat with the chin tucked
-• say why the roll is done only with supervision
-
-**Things to know**
+**Main content**
 
 • **Neuro-muscular** means the working together of the nerves (the brain and its wires) and the muscles to produce movement.
 • A skill of this kind needs timing: the brain says go, the muscles obey, and the body obeys at the right moment.
@@ -2641,14 +2312,7 @@ Draw the pose you dance in and colour the cloth you dance in.
 
 *Depth: NERDC Nursery 3 · PHE · Second Term W1 (pp 552–557).*
 
-**You will learn to**
-
-• name the parts of the body that sport develops
-• say what flexibility, balance and speed mean
-• tell which activity builds which quality
-• say what a child of my age can do
-
-**Things to know**
+**Main content**
 
 • Sports and physical activity help the **whole body develop**, not only the legs.
 • **Flexibility** is the ability to bend and stretch easily; it is improved by stretching exercises.
@@ -2705,14 +2369,7 @@ told here with things a 4–5 year-old can see, touch and name.*
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what agriculture means in one line
-• name the things agriculture gives us
-• tell who a farmer is
-• say why every person needs agriculture
-
-**Things to know**
+**Main content**
 
 • **Agriculture** is the work of growing crops and rearing animals for man to use.
 • A person who does this work is a **farmer**.
@@ -2759,14 +2416,7 @@ Draw a hoe, a cutlass and a basket, then colour the basket.
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• trace a meal from the farm to the table
-• name farm foods taken at breakfast, lunch and dinner
-• say which farm things are used at home besides food
-• tell why we must not waste farm produce
-
-**Things to know**
+**Main content**
 
 • The swallow we eat — rice, yam flour, beans, garri — all came from a farm.
 • The oil in our soup came from the palm fruit; the groundnut in our snack came from the ground.
@@ -2810,14 +2460,7 @@ Draw your last meal and write under each item where on the farm it came from.
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• put the farming activities in order
-• name the tools used at each stage
-• say how crops are cared for
-• tell what happens at harvest time
-
-**Things to know**
+**Main content**
 
 • Farming has an order, and every stage waits for the one before it.
 • **Clearing**: the bush and old sticks are removed from the land with a cutlass.
@@ -2865,14 +2508,7 @@ Draw the four farm jobs in order — clear, plant, water, harvest — and colour
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what crop production means
-• group crops as food, cash and fruit crops
-• name crops grown in our state
-• say which part of a crop we eat
-
-**Things to know**
+**Main content**
 
 • **Crop production** (crop farming) is the branch of agriculture that deals with growing plants for man and animals.
 • **Food crops** are grown to feed the family: rice, yam, maize, cassava, beans, plantain, cocoyam.
@@ -2919,14 +2555,7 @@ Draw four crops you know and colour the yam.
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what animal rearing means
-• name farm animals and their young ones
-• state what each animal gives us
-• say how farm animals are cared for
-
-**Things to know**
+**Main content**
 
 • **Animal rearing** (animal husbandry) is the branch of agriculture that deals with keeping farm animals.
 • Farm animals: **cow, goat, sheep, pig, rabbit, dog, cat**, and the birds we keep — **hen, duck, turkey, guinea fowl**.
@@ -2971,14 +2600,7 @@ Draw a farm animal, its young one, and write two things it gives people.
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what forestry means
-• name trees that give timber and trees that give fruit
-• state the uses of trees
-• say why we plant trees and do not cut them all
-
-**Things to know**
+**Main content**
 
 • **Forestry** is the branch of agriculture that deals with the growing, management and protection of trees and the forest.
 • **Timber trees** give us wood for planks, furniture and building: iroko, mahogany, teak, pine, obeche.
@@ -3023,14 +2645,7 @@ Water one tree or one plant near your house for five days and write what you not
 
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833).*
 
-**You will learn to**
-
-• say what fishery means
-• name fish we eat and where they come from
-• state the tools used in fishing
-• say how fish are kept and prepared for market
-
-**Things to know**
+**Main content**
 
 • **Fishery** is the branch of agriculture that deals with catching or rearing fish and other water animals.
 • **Catch fishing** takes place in the river, the lake and the sea; **fish farming** (aquaculture) keeps fish in a pond or a cage.
@@ -3078,14 +2693,7 @@ Draw a fish, a net and a canoe, and colour the net.
 *Depth: NERDC Primary 4 · Prevocational Studies · First Term W1–W2 (p 833) and Primary 6 ·
 Prevocational Studies · Third Term W9 (p 952) for the sustainable-use lines.*
 
-**You will learn to**
-
-• name the crops Nigeria is known for
-• say where farming is done in the country
-• explain sustainable and organic farming in a child's words
-• say what a pupil can do to protect the environment
-
-**Things to know**
+**Main content**
 
 • Nigeria farms in every part of the country: **groundnut and cotton** in the north, **rice and maize** on the middle belt, **palm produce, cocoa and cassava** in the south, **fish** in the rivers of the south-south.
 • Crops that bring money into Nigeria include **cocoa, groundnut, palm oil, rubber and cashew**.
@@ -3140,14 +2748,7 @@ W1–W2, pp 655–658 — taught here two bands earlier, so every idea is carrie
 
 *Depth: NERDC Primary 1 · SCS · First Term W1 (pp 655–656).*
 
-**You will learn to**
-
-• say what a leader is in one line
-• name the leaders in my life
-• tell the qualities of a good leader
-• say why we need leaders
-
-**Things to know**
+**Main content**
 
 • A **leader** is somebody who guides others and shows them what to do.
 • My leaders are: **father and mother** at home, **the teacher** in class, **the head teacher** in the school, and **the class captain** among the children.
@@ -3192,14 +2793,7 @@ Draw the person who leads in your class and colour the thing they hold.
 
 *Depth: NERDC Primary 1 · SCS · First Term W2 (pp 655–656).*
 
-**You will learn to**
-
-• say who leads in my home
-• state what parents do for the family
-• name other leaders in the family
-• say how I can help at home
-
-**Things to know**
+**Main content**
 
 • **Father and mother** are the leaders of the home; one of them carries the final decision.
 • A parent's duties are to give **food, a place to live, clothes, education, love and protection**.
@@ -3243,14 +2837,7 @@ Draw your own house and colour the door of the room where the family talks.
 
 *Depth: NERDC Primary 1 · SCS · First Term W3 (pp 655–656).*
 
-**You will learn to**
-
-• say what a community is
-• name the kind of community I live in
-• list the people who make up a community
-• name the leaders of our community
-
-**Things to know**
+**Main content**
 
 • A **community** is people living together in one area — a street, a village, a town.
 • My community has **neighbours, shopkeepers, drivers, teachers, nurses, farmers and worshippers**.
@@ -3294,14 +2881,7 @@ Draw five neighbours doing one job together and colour the tools they share.
 
 *Depth: NERDC Primary 1 · SCS · First Term W4 (pp 655–656).*
 
-**You will learn to**
-
-• say what cooperation means
-• name community activities people do together
-• state how communities help one another
-• tell the children's part in the community
-
-**Things to know**
+**Main content**
 
 • **Cooperation** means people working together to finish a job that one person cannot finish alone.
 • Community activities: **clean-up exercise** on the last Saturday, **festivals**, **town hall meetings**, **building a bridge or a classroom**, **watering the school garden**.
@@ -3345,14 +2925,7 @@ Draw the place in your community where people meet and colour the roof.
 
 *Depth: NERDC Primary 1 · SCS · First Term W7 and W8 (pp 655–656) — both weeks in one.*
 
-**You will learn to**
-
-• say what a responsibility is
-• list my duties at home and at school
-• keep my belongings in order
-• treat other people with respect
-
-**Things to know**
+**Main content**
 
 • A **responsibility** is a thing we **must** do, not a thing we may choose to do.
 • At home: cleaning my own room, washing my plate, putting away my clothes, helping with small chores.
@@ -3398,14 +2971,7 @@ Draw three things you do to keep your school clean and colour the one you do mos
 
 *Depth: NERDC Primary 1 · SCS · First Term W9 (pp 655–656).*
 
-**You will learn to**
-
-• say that Nigeria is my country
-• state where Nigeria is
-• describe our national flag
-• say how the flag is treated
-
-**Things to know**
+**Main content**
 
 • **Nigeria is my country**; I am a **Nigerian** and Nigeria is my identity.
 • Nigeria is in the west of the continent of **Africa**; our neighbours are **Benin Republic, Niger, Chad and Cameroon**.
@@ -3448,14 +3014,7 @@ Draw the Nigerian flag with a ruler, colour it correctly, and write "green — w
 
 *Depth: NERDC Primary 1 · SCS · First Term W10 (pp 655–656).*
 
-**You will learn to**
-
-• sing the first stanza of the national anthem
-• describe the coat of arms
-• name our money
-• say when our independence is kept
-
-**Things to know**
+**Main content**
 
 • The **national anthem** is sung standing at school and at national events. First stanza: *"Arise, O compatriots, Nigeria calls you all; To serve her throne, her country, with heart and might…"* (learned as the class is taught it).
 • The **national pledge** is also said at school; we pledge to be faithful and to honour Nigeria.
@@ -3499,14 +3058,7 @@ Draw the Nigerian flag with green at each side and white between them, then colo
 
 *Depth: NERDC Primary 1 · SCS · Second Term W1 and W2 (pp 657–658) — both weeks in one.*
 
-**You will learn to**
-
-• name the people I must respect
-• show respect in four ways
-• behave well in a sacred place
-• treat public places and objects with care
-
-**Things to know**
+**Main content**
 
 • **Elders are respected**: father and mother, grandparents, teachers, community leaders, and every grown person older than me.
 • Ways of showing respect: **greeting them well**, **listening**, **obeying**, and **using their respectful title** (ma, sir, papa, chief, alhaji, pastor, reverend).
@@ -3564,13 +3116,7 @@ child reads the word correctly, and the topic line is left exactly as the school
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 F1 W1.*
 
-**You will learn to**
-
-• name things in the classroom in Yoruba
-• greet an elder the Yoruba way
-• say the words of a small song on cleanliness and respect
-
-**Things to know — Ẹ̀dẹ̀ (naming things in the room)**
+**Main content — Ẹ̀dẹ̀ (naming things in the room)**
 
 • yàrá ìkáwé — the classroom
 • tébèèlì — table · ìgáòkó — chair · pátákó — the board
@@ -3579,7 +3125,7 @@ child reads the word correctly, and the topic line is left exactly as the school
 • Pattern of speech: **"Èyí ni ______."** (This is a ______.)
 • Naming game: I touch a thing and say its Yoruba name; my friend says it back.
 
-**Things to know — Àṣà (greeting in Yorubaland)**
+**Main content — Àṣà (greeting in Yorubaland)**
 
 • In Yorubaland we **greet**; we do not walk past a person in silence.
 • **Ẹ́ káàárọ̀** — good morning · **Ẹ́ káàṣánṣá** — good afternoon · **Ẹ́ káàlẹ̀** — good evening
@@ -3588,7 +3134,7 @@ child reads the word correctly, and the topic line is left exactly as the school
 • When an elder greets me, I stop what I am doing and answer.
 • Greeting is the first lesson of Yoruba manners: **àgànmọ́** (good character).
 
-**Things to know — Lítíréṣọ̀ (the small song)**
+**Main content — Lítíréṣọ̀ (the small song)**
 
 • Orin kékeré — a small song. We sing it twice, then we do the actions.
 • *"Ìmọ̀tọ̀́ tọ́, ìbàwọ̀n rẹ̀;* — cleanliness is right, and respect goes with it;
@@ -3628,13 +3174,7 @@ Draw five things in your classroom and colour them; say each Yoruba name as you 
 
 *Depth: school-generated — three strands as printed for N2 F1 W2.*
 
-**You will learn to**
-
-• count from one to ten in Yoruba
-• name the marks of good character
-• say a small warning song for children
-
-**Things to know — Ẹ̀dẹ̀ (counting 1–10)**
+**Main content — Ẹ̀dẹ̀ (counting 1–10)**
 
 • **ọ̀kan** 1 · **èjì** 2 · **ẹ̀ta** 3 · **ẹ̀rin** 4 · **àárún** 5
 • **ẹ̀fà** 6 · **ẹ̀je** 7 · **ẹ̀jọ** 8 · **ẹ̀sán** 9 · **ẹ̀wá** 10
@@ -3643,7 +3183,7 @@ Draw five things in your classroom and colour them; say each Yoruba name as you 
 • Ask and answer: **"Meloo ni o ní?"** (How many do you have?) — **"Mẹ́ta ni mo ní."** (I have three.)
 • Numbers are used for days, for age and for the market.
 
-**Things to know — Àṣà (good character — ìwà rere)**
+**Main content — Àṣà (good character — ìwà rere)**
 
 • **Ìwà rere** means good character, and it is the greatest wealth of a child.
 • A child of good character: tells the **truth** (òtítọ́), is **kind** (àànú), **shares**, **obeys**, **does not steal**, and **does not lie**.
@@ -3651,7 +3191,7 @@ Draw five things in your classroom and colour them; say each Yoruba name as you 
 • A good child greets, says "Ẹ́ ṣé", and returns what he borrowed.
 • The Yoruba say: **"Ọmọ dé, a wo bí a ṣe ń hùwà"** — when a child arrives, people watch how he behaves.
 
-**Things to know — Lítíréṣọ̀ (warning song — orin ìkìlọ̀)**
+**Main content — Lítíréṣọ̀ (warning song — orin ìkìlọ̀)**
 
 • An **orin ìkìlọ̀** is a song that warns children away from bad things.
 • *"Má ṣe kòrò, kí owó má ṣè sọnù;* — do not be idle, so that your money will not sleep;
@@ -3692,13 +3232,7 @@ Draw ten oranges and colour them while you count them out loud in Yoruba.
 
 *Depth: school-generated — three strands as printed for N2 F1 W3.*
 
-**You will learn to**
-
-• say the Yoruba alphabet in order
-• name the seven days of the week in Yoruba
-• join in a play song with the right actions
-
-**Things to know — Ẹ̀dẹ̀ (the Yoruba alphabet — alifábéẹ̀dẹ̀)**
+**Main content — Ẹ̀dẹ̀ (the Yoruba alphabet — alifábéẹ̀dẹ̀)**
 
 • The Yoruba alphabet has **twenty-five letters: 18 consonants and 7 vowels**.
 • The vowels are: **a, e, ẹ, i, o, ọ, u** — the dots under **ẹ** and **ọ** change the sound.
@@ -3708,7 +3242,7 @@ Draw ten oranges and colour them while you count them out loud in Yoruba.
 • The **ń** (n with a dot) is a nasal sound: ìń ìń — as in "ọ̀nà".
 • Three tones mark the voice: **à** (low), **á** (high), **ā/à** with the middle — and the combination marks, e.g. **ǒ, ǐ, ẹ́**.
 
-**Things to know — Àṣà (the days of the week — àwọn ọjọ́ inú ọ̀ṣẹ̀)**
+**Main content — Àṣà (the days of the week — àwọn ọjọ́ inú ọ̀ṣẹ̀)**
 
 • **Ọjọ́ Àìkú** — Sunday · **Ọjọ́ Ajé** — Monday · **Ọjọ́ Ìṣẹ́gun** — Tuesday
 • **Ọjọ́-rúkú-ọ̀jọ́** — Wednesday · **Ọjọ́ Bọ̀ṣẹ̀** — Thursday · **Ọjọ́ Ẹtì** — Friday · **Ọjọ́ Àbámẹ́ta** — Saturday
@@ -3716,7 +3250,7 @@ Draw ten oranges and colour them while you count them out loud in Yoruba.
 • Our markets have days: Ọjọ́ Àìkú is the day of church and rest; Ọjọ́ Ẹtì is the day of prayer for the Muslims.
 • The names teach history: **Ìṣẹ́gun** (victory), **Bọ̀ṣẹ̀** (the market day of the Ibadan people), **Ẹtì** (Friday).
 
-**Things to know — Lítíréṣọ̀ (play song — orin ìdáráya)**
+**Main content — Lítíréṣọ̀ (play song — orin ìdáráya)**
 
 • **Orin ìdáráya** is a song sung while we play, with actions and a ring of children.
 • *"Yíyí po, a má yí po;* — going round, we turn round;
@@ -3755,13 +3289,7 @@ Copy the twenty-five Yoruba letters into your notebook, and write your own day o
 
 *Depth: school-generated — three strands as printed for N2 F1 W4.*
 
-**You will learn to**
-
-• speak politely to another pupil in Yoruba
-• say the daily acts of keeping the body clean
-• sing a song of good character
-
-**Things to know — Ẹ̀dẹ̀ (polite talk among pupils — ìsọ̀rọ̀ńbẹ̀sọ̀rọ̀)**
+**Main content — Ẹ̀dẹ̀ (polite talk among pupils — ìsọ̀rọ̀ńbẹ̀sọ̀rọ̀)**
 
 • **"ọ̀rọ̀ rẹ̀ dáadáa ni"** — your word is good (a praise of what a friend said).
 • Asking: **"Ẹ̀ jọ̀ọ́, fún mi ní penṣìlì."** — please give me a pencil.
@@ -3770,7 +3298,7 @@ Copy the twenty-five Yoruba letters into your notebook, and write your own day o
 • We do not use rude names; nicknames that pain are not "polite talk".
 • Polite words end in the respectful **"ẹ̀"** when speaking to an elder — ẹ̀ jọ̀ọ́, ẹ́ ṣé, ẹ̀ máàdọ́rùn.
 
-**Things to know — Àṣà (cleanliness of the person — ìmọ̀tọ̀́tọ̀ ara ẹni)**
+**Main content — Àṣà (cleanliness of the person — ìmọ̀tọ̀́tọ̀ ara ẹni)**
 
 • **Ìmọ̀tọ̀́tọ̀ jẹ́ ìlera** — cleanliness is health.
 • Every day: **bìrìkì** (bath), **fífó ẹnu** (washing the mouth), **fífọ́ ọwọ́** (washing the hands).
@@ -3779,7 +3307,7 @@ Copy the twenty-five Yoruba letters into your notebook, and write your own day o
 • Do not eat with dirty hands; wash after the toilet; do not share a toothbrush.
 • A clean child is welcomed everywhere: **"Ọmọ tí ó mọ́, a fiṣọ́ ọwọ́."**
 
-**Things to know — Lítíréṣọ̀ (song of good character — orin ìwà rere)**
+**Main content — Lítíréṣọ̀ (song of good character — orin ìwà rere)**
 
 • *"Ìwà pẹ́, ẹ̀ ṣe é;* — let character be long-lived, do it well;
 • *"àṣìwà kò dára, ọmọ mi o."* — bad character is not good, my child.
@@ -3817,13 +3345,7 @@ Use three polite Yoruba words at home today, and write them down with what you s
 
 *Depth: school-generated — three strands as printed for N2 F1 W5.*
 
-**You will learn to**
-
-• use action words in Yoruba to say what we do
-• state the duties of each member of the family
-• sing a small song and dance to it
-
-**Things to know — Ẹ̀dẹ̀ (action words — ọ̀rọ̀ àṣe)**
+**Main content — Ẹ̀dẹ̀ (action words — ọ̀rọ̀ àṣe)**
 
 • An action word (verb) tells us **what somebody does**.
 • **jẹ** (eat) · **mu** (drink) · ** lọ** (go) · **wá** (come) · **sùn** (sleep)
@@ -3833,7 +3355,7 @@ Use three polite Yoruba words at home today, and write them down with what you s
 • Question form: **"Kí ni o ń ṣe?"** — what are you doing? Answer: **"Mo ń kà á."**
 • Do not mix the two: **jẹ** is for food, **mu** is for drink.
 
-**Things to know — Àṣà (family duties — ojúṣe ẹbí nínú ídílé)**
+**Main content — Àṣà (family duties — ojúṣe ẹbí nínú ídílé)**
 
 • **Bàba** (father): works, provides money, protects the home.
 • **Ìyá** (mother): cooks, buys food, cares for the children, teaches the small ones.
@@ -3842,7 +3364,7 @@ Use three polite Yoruba words at home today, and write them down with what you s
 • Everybody has a duty; when each person does his part, the house is peaceful.
 • **"Ilé kan ṣoṣo ni a ó gbé, iṣẹ́ pípín ni ọwọ́."** — the house is one, the work is shared.
 
-**Things to know — Lítíréṣọ̀ (small song with a dance)**
+**Main content — Lítíréṣọ̀ (small song with a dance)**
 
 • *"Wọ̀ o, wọ̀ o, ọmọdé wọ̀;* — come in, children, come in;
 • *"iṣẹ́ ọwọ́ ni a fi ń jẹun."* — it is the work of the hands that feeds us.
@@ -3881,13 +3403,7 @@ Write five Yoruba action words and use two of them in a sentence each.
 
 *Depth: school-generated — three strands as printed for N2 F1 W6.*
 
-**You will learn to**
-
-• read the Yoruba letters from a to gb
-• greet at different times and on different occasions
-• say a song of respect for children
-
-**Things to know — Ẹ̀dẹ̀ (reading a–gb)**
+**Main content — Ẹ̀dẹ̀ (reading a–gb)**
 
 • The first eight letters of the Yoruba alphabet, in order: **a, b, d, e, ẹ, f, g, gb**.
 • Sound them, do not name them: **a as in àá (baba), b as in bé, d as in dé, e as in ẹnu, ẹ as in ẹ̀jẹ̀, f as in fẹ́, g as in gé, gb as in gbé**.
@@ -3896,7 +3412,7 @@ Write five Yoruba action words and use two of them in a sentence each.
 • Trace the letters in the air with one finger, then on the board, then in your notebook.
 • The dot on **ẹ** matters: **bẹ̀** (to press) and **be** are not the same sound.
 
-**Things to know — Àṣà (greetings for times and occasions)**
+**Main content — Àṣà (greetings for times and occasions)**
 
 • Time greetings: **Ẹ̀ káàárọ̀** (morning), **Ẹ̀ káàṣánṣá** (afternoon), **Ẹ̀ káàlẹ̀** (evening), **Ẹ̀ máàdọ́rùn** (good night).
 • On returning: **Ọ́ dàbọ̀** — and the answer is **"Ọ́ dábọ̀, ààbọ̀."**
@@ -3905,7 +3421,7 @@ Write five Yoruba action words and use two of them in a sentence each.
 • At a festival or naming ceremony: **Odún rere** / **Ẹ̀ káàbọ̀** for the guest.
 • For the sick: **Àlàáfíà ni**? and we bring water, not noise.
 
-**Things to know — Lítíréṣọ̀ (song of respect — orin ìbàwọ̀n)**
+**Main content — Lítíréṣọ̀ (song of respect — orin ìbàwọ̀n)**
 
 • *"Ẹ̀ káàbọ̀, ẹ̀ káàbọ̀; àgbà ń wọlé o."* — welcome, welcome; the elder is entering.
 • *"Ojú rẹ̀ pẹ́, ẹnu rẹ̀ títún;* — his eyes are old, his mouth is still good;
@@ -3944,13 +3460,7 @@ Write the letters a to gb in your notebook and put the eight greetings of the we
 
 *Depth: school-generated — three strands as printed for N2 F1 W8.*
 
-**You will learn to**
-
-• write the Yoruba letters correctly
-• keep the environment clean and say how
-• make and play a moonlight game at night
-
-**Things to know — Ẹ̀dẹ̀ (writing the letters — kíkọ́ alifábé)**
+**Main content — Ẹ̀dẹ̀ (writing the letters — kíkọ́ alifábé)**
 
 • Write on the line: letters sit on it; **b, d, f, g, gb, h, j, k, l** go up, **e, ẹ** stay short.
 • Start from the top and go down, not sideways; go from left to right.
@@ -3960,7 +3470,7 @@ Write the letters a to gb in your notebook and put the eight greetings of the we
 • Use a pencil that is not too blunt; do not press so hard that the paper tears.
 • What is written is read back the next day: writing that cannot be read is not finished work.
 
-**Things to know — Àṣà (cleanliness of the environment — ìmọ̀tọ̀́tọ̀ àyíká)**
+**Main content — Àṣà (cleanliness of the environment — ìmọ̀tọ̀́tọ̀ àyíká)**
 
 • **Àyíká** is everything around us: the house, the compound, the street, the classroom.
 • We keep it clean by: sweeping, putting dirt in the bin, cutting long grass, and keeping the gutter open.
@@ -3969,7 +3479,7 @@ Write the letters a to gb in your notebook and put the eight greetings of the we
 • The toilet is flushed and left as we found it; water is not wasted.
 • The school keeps a clean-up day; the class that cleans is the class that is praised.
 
-**Things to know — Lítíréṣọ̀ (moonlight play — ẹ̀rẹ̀ oòṣùpá ní àlẹ́)**
+**Main content — Lítíréṣọ̀ (moonlight play — ẹ̀rẹ̀ oòṣùpá ní àlẹ́)**
 
 • When the moon is bright, children play outside — that is **ẹ̀rẹ̀ oòṣùpá**.
 • Game: **Ìṣekúṣe** (hide and seek) — one child counts, the others hide; "Wá o, wá o, a ó rí i!"
@@ -4008,13 +3518,7 @@ Sweep one corner of your compound, then write a full line each of a, ẹ, gb and
 
 *Depth: school-generated — three strands as printed for N2 F1 W9.*
 
-**You will learn to**
-
-• read the letters from h up to p
-• greet people at work and name occupations in Yoruba
-• say a small poem with the right feeling
-
-**Things to know — Ẹ̀dẹ̀ (reading on from h — ìtẹ̀síwájú kíkà)**
+**Main content — Ẹ̀dẹ̀ (reading on from h — ìtẹ̀síwájú kíkà)**
 
 • The next letters: **h, i, j, k, l, m, n, ń, o, ọ, p**. (The school's row says H–Q; in the Yoruba alphabet the letters run h to p, for there is no c, q, v, x or z.)
 • Sound each with a vowel: **ha, hi, ho · ja, ji, jo · ka, ki, ko · la, li, lo · ma, mi, mo · na, ni, no**.
@@ -4023,7 +3527,7 @@ Sweep one corner of your compound, then write a full line each of a, ẹ, gb and
 • Read a full line from the chart without pointing, then read it again with pointing.
 • Reading is done aloud, slowly, with the mouth open — not with the eyes only.
 
-**Things to know — Àṣà (greeting at work and occupations — ìkíni fún iṣẹ́)**
+**Main content — Àṣà (greeting at work and occupations — ìkíni fún iṣẹ́)**
 
 • When you meet somebody working, say **"Ọ́ nàṣẹ́"**; the reply is **"A ṣe é, àṣẹ."**
 • To a farmer at the farm: **"Ìṣẹ́ gígba ni"** — a harvesting work.
@@ -4032,7 +3536,7 @@ Sweep one corner of your compound, then write a full line each of a, ẹ, gb and
 • Every work has its own tool: the farmer's hoe, the tailor's machine, the teacher's chalk.
 • We greet a worker so that the work goes well and the person feels respected.
 
-**Things to know — Lítíréṣọ̀ (small poem — ẹ̀wì kékeré)**
+**Main content — Lítíréṣọ̀ (small poem — ẹ̀wì kékeré)**
 
 • A **ẹ̀wì** is spoken, not sung; it is said with the face and the hands.
 • *"Iṣẹ́, iṣẹ́ ni ọ̀rẹ́ ẹni;* — Work, work is a person's friend;
@@ -4073,12 +3577,6 @@ Write the letters H to Q in large shapes and colour the ones you can read aloud.
 ### WEEK 11 — Exam Preparation
 
 *Depth: school-generated revision row; it revises only Weeks 1–9 of this term.*
-
-**You will learn to**
-
-• say everything you learnt this term without looking at the book
-• write the words you must know
-• answer in full Yoruba sentences, not one word
 
 **What to revise — Ẹ̀dẹ̀**
 
@@ -4137,14 +3635,7 @@ Copy the four lists of this week into one page of your exercise book, and read i
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W1 (pp 465–469).*
 
-**You will learn to**
-
-• name the five vowels: a, e, i, o, u
-• say that all the other letters are consonants
-• sort letters into vowels and consonants
-• find the vowels inside a word
-
-**Things to know**
+**Main content**
 
 • Of the **26** letters, **five are vowels: a, e, i, o, u**. Sometimes **y** works as a vowel too (my, fly, happy).
 • The other **twenty-one** letters are **consonants**: b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z.
@@ -4192,14 +3683,7 @@ Draw five little houses for a, e, i, o and u, write one letter on each roof, the
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W2 (pp 465–469).*
 
-**You will learn to**
-
-• say the sounds /d/, /a/, /i/, /m/
-• write the letters d, a, i, m
-• blend these four sounds into real words
-• hear where a sound sits in a word
-
-**Things to know**
+**Main content**
 
 • Four sounds this week: **/d/** as in dog, doll, dad, dig; **/a/** as in apple, ant, cat, mat; **/i/** as in ink, insect, sit, pin; **/m/** as in mum, man, mat, milk.
 • With only four sounds I can already make real words: **dad, mad, dim, aim, amid, man** (with /n/ from before).
@@ -4248,14 +3732,7 @@ Draw a dog, an ant, an insect and a map; write the first sound under each one an
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W3 (pp 465–469).*
 
-**You will learn to**
-
-• read four sight words at once
-• write them correctly
-• say what each one means
-• use them in sentences
-
-**Things to know**
+**Main content**
 
 • A **sight word** is a word I know on sight — I do not sound it out, I read it in one look.
 • This week's four: **you, me, her, we**.
@@ -4303,14 +3780,7 @@ Draw the people in your family, point at yourself, write 'me' under that one and
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W4 (pp 465–469).*
 
-**You will learn to**
-
-• read and write three sight words you have not used yet
-• always write "I" as a capital
-• join new words with the old ones
-• read short sentences
-
-**Things to know**
+**Main content**
 
 • Three new words: **I**, **go**, **car**.
 • **I** is a single letter but it is always a **capital**, wherever it stands: *"I go." "She and I run."*
@@ -4356,14 +3826,7 @@ Write five sentences using any of the seven sight words, and underline every "I"
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W7 (pp 465–469).*
 
-**You will learn to**
-
-• say what a digraph is
-• read and write words with th, ck and wh
-• hear /th/ at the beginning and at the end of words
-• sort words by their digraph
-
-**Things to know**
+**Main content**
 
 • A **digraph** is **two letters that make one sound**: *sh, ch, th, ph, wh, ck*.
 • **th** makes two different sounds: a soft/buzzy one at the start of **the, this, that, with, they**, and a hissy one at the end of **bath, math, three, think, thumb**.
@@ -4410,14 +3873,7 @@ Find five things at home whose names have a digraph in them and write the digrap
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W8 (pp 465–469).*
 
-**You will learn to**
-
-• read and write three new sight words
-• notice the "th" digraph inside them
-• use them in sentences
-• read longer sentences
-
-**Things to know**
+**Main content**
 
 • Three more sight words: **the**, **this**, **they**.
 • All three begin with the **th** digraph I learnt last week — so my eye already knows two letters of each word.
@@ -4465,14 +3921,7 @@ Draw three things in this room you could say 'this' about, and colour two of the
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W9 (pp 465–469).*
 
-**You will learn to**
-
-• read and write words with ph, sh and ch
-• know that ph sounds like f
-• tell the three sounds apart by ear
-• sort words into digraph families
-
-**Things to know**
+**Main content**
 
 • **ph** says **/f/**: **phone, photo, elephant, graph, dolphin**. Strange, but true in most English words.
 • **sh** says **/ʃ/** — the quiet sound a mother makes: **ship, shop, fish, wash, she, shell, brush, shoe**.
@@ -4520,15 +3969,7 @@ Draw a phone, a fish and a child; write the two-letter sound under each and colo
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · First Term W10 (pp 465–469).*
 
-**You will learn to**
-
-• read and write three sight words that carry digraphs
-• say what a consonant blend is
-• read words with pl, fl and gr
-• tell a blend from a digraph
-• read and write sentences using everything I know
-
-**Things to know**
+**Main content**
 
 • Three sight words: **photo** (has **ph**), **she** (has **sh**), **chart** (has **ch**) — my digraph words are now sight words.
 • A **consonant blend** is **two consonants together where I still hear both sounds**: **pl**ay, **fl**y, **gr**eet, **bl**ue, **cl**ap, **fr**og.
@@ -4575,14 +4016,7 @@ Write five sentences using your sight words, and underline every digraph and ble
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W1 (pp 454–457).*
 
-**You will learn to**
-
-• know the letters A to F in big and small form
-• match a capital letter to its small letter
-• say the sound of each letter
-• trace and write Aa to Ff
-
-**Things to know**
+**Main content**
 
 • The alphabet has **26 letters**; I am reviewing the first six: **A a, B b, C c, D d, E e, F f**.
 • A letter has two shapes: **capital** (big) and **small** (lower case). Capitals begin names and sentences.
@@ -4628,14 +4062,7 @@ Find six things at home that begin with A, B, C, D, E, F and write their letters
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W2 (pp 454–457).*
 
-**You will learn to**
-
-• know the letters G to L
-• say the sound of each of them
-• match capitals to small letters
-• write Gg to Ll on the line
-
-**Things to know**
+**Main content**
 
 • **G g, H h, I i, J j, K k, L l** — the next six letters.
 • Sounds: **G** /g/ — goat, gun; **H** /h/ — hat, hen; **I** /i/ — ink, insect; **J** /dʒ/ — jug, jam; **K** /k/ — kite, key; **L** /l/ — lion, lamp.
@@ -4679,14 +4106,7 @@ Write the first letter of your name and your friend's name in capital and small 
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W3 (pp 454–457).*
 
-**You will learn to**
-
-• know the letters M to R
-• say their sounds
-• hear the first sound in a spoken word
-• write Mm to Rr neatly
-
-**Things to know**
+**Main content**
 
 • **M m, N n, O o, P p, Q q, R r**.
 • Sounds: **M** /m/ — mat, man, milk; **N** /n/ — net, nut; **O** /ɒ/ — orange, ox; **P** /p/ — pen, pan; **Q** /kw/ — queen; **R** /r/ — rat, run.
@@ -4732,14 +4152,7 @@ Write the letters M to R in large shapes on one page and colour each letter a di
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W4 (pp 454–457).*
 
-**You will learn to**
-
-• know the last letters S to Z
-• say the sound of each
-• write the whole alphabet in order
-• finish the alphabet review
-
-**Things to know**
+**Main content**
 
 • **S s, T t, U u, V v, W w, X x, Y y, Z z** — the last eight letters.
 • Sounds: **S** /s/ — sun, sock; **T** /t/ — tap, tin; **U** /ʌ/ — umbrella, up; **V** /v/ — van, vat. **W** /w/ — water, wet; **X** /ks/ — box, fox; **Y** /j/ — yam, yes; **Z** /z/ — zebra, zone.
@@ -4784,14 +4197,7 @@ Write the letters S to Z in large shapes and colour only the ones made with stra
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W7 (pp 454–457).*
 
-**You will learn to**
-
-• say what a CVC word is
-• blend three sounds into one word
-• read the -at and -an word families
-• write three-letter words
-
-**Things to know**
+**Main content**
 
 • A **three-letter word** has three sounds: a **consonant**, a **vowel**, a **consonant** — we call it **CVC**.
 • To **blend** means to run the sounds together: **c – a – t** … *cat*. Say it slowly, then fast.
@@ -4836,14 +4242,7 @@ Write five CVC words and draw a small picture for two of them.
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W8 (pp 454–457).*
 
-**You will learn to**
-
-• read the -en, -in and -og families
-• blend words with the short e and short i sounds
-• hear the difference between e and i
-• take dictation of three-letter words
-
-**Things to know**
+**Main content**
 
 • The **-en** family: **pen, hen, ten, men, den, wren**.
 • The **-in** family: **pin, tin, bin, win, fin, sin**.
@@ -4890,14 +4289,7 @@ Draw a cat, a pen and a pot; write the word under each picture and colour the po
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W9 (pp 454–457).*
 
-**You will learn to**
-
-• read the -un, -op and -ug families
-• build words from letter cards
-• read all six word families together
-• write CVC words without help
-
-**Things to know**
+**Main content**
 
 • The **-un** family: **sun, bun, run, fun, gun, spun**.
 • The **-op** family: **top, hop, mop, pop, cop, drop**.
@@ -4942,14 +4334,7 @@ Write one sentence that uses three words from the families you have learnt.
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W10 (pp 454–457).*
 
-**You will learn to**
-
-• listen to a simple story and answer questions on it
-• pick out letters and sounds from story words
-• retell a story in my own words
-• find CVC words inside a story
-
-**Things to know**
+**Main content**
 
 • Listening rules: eyes on the teller, mouth quiet, hands still, and think about what is happening.
 • Our story for the week: **"The Rat and the Sun"** — a rat, a mat, a pot and a hot sun.
@@ -4996,15 +4381,7 @@ Tell a story of your own to your classmate and ask them two questions about it.
 
 *Depth: NERDC Primary 2 · Mathematics · First Term W1 and W2 (pp 675–676); Nursery 3 · Numeracy · Second Term W7.*
 
-**You will learn to**
-
-• count from 1 to 200 without losing my place
-• read and write numbers 1–200 in figures and in words
-• say how many hundreds, tens and units are in a number
-• compare two numbers with >, < and =
-• count in 2s, 3s, 5s and 10s
-
-**Things to know**
+**Main content**
 
 • Counting 1–100 is what I already know; this week we go on to **101, 102 … 200**.
 • **100** is one hundred. **200** is two hundred — it is **two hundreds**, or **twenty tens**.
@@ -5054,14 +4431,7 @@ Draw twenty dots in two rows of ten and colour one whole row.
 
 *Depth: NERDC Nursery 1 · Numeracy · Second Term W2 and Third Term W2 (tens and ones), reinforced by Primary 2 · First Term W1–W2.*
 
-**You will learn to**
-
-• group objects into tens and ones
-• say the tens and ones in a two-digit number
-• use a tens-and-ones chart
-• build a number from its tens and ones
-
-**Things to know**
+**Main content**
 
 • **Ten ones make one ten.** That one sentence is the whole lesson.
 • Tie sticks in bundles of ten: three bundles and four loose sticks = **34**.
@@ -5106,14 +4476,7 @@ Take 40 beans or caps and group them into tens; write how many tens and how many
 
 *Depth: NERDC Primary 2 · Mathematics · First Term W1 (pp 675–676); Nursery 3 · Numeracy · Second Term W1.*
 
-**You will learn to**
-
-• write the names of numbers from 1 to 100 in words
-• spell the tricky number names
-• read a number name and write the figure
-• match figures to words
-
-**Things to know**
+**Main content**
 
 • 1 **one**, 2 **two**, 3 **three**, 4 **four**, 5 **five**, 6 **six**, 7 **seven**, 8 **eight**, 9 **nine**, 10 **ten**.
 • The teens are the hard ones: 11 **eleven**, 12 **twelve**, 13 **thirteen**, 15 **fifteen**, 18 **eighteen**, 20 **twenty**.
@@ -5158,14 +4521,7 @@ Write the number names of your age, your class number and your house number, the
 
 *Depth: NERDC Primary 2 · Mathematics · First Term W1 (pp 675–676).*
 
-**You will learn to**
-
-• turn a number name into figures quickly
-• hear a number and write it
-• not mix up -teen and -ty
-• check what I wrote
-
-**Things to know**
+**Main content**
 
 • "Writing words in figures" is the opposite of last week: **thirty-six → 36**.
 • Say the word in parts: **sixty-three** = sixty (60) + three (3) → **63**.
@@ -5211,14 +4567,7 @@ Write one, two and three in words on three cards, cut the cards out and paste th
 
 *Depth: NERDC Primary 1 · Mathematics · First Term W7 (pp 618–619).*
 
-**You will learn to**
-
-• say that addition means putting together
-• use the signs + and =
-• add within 5 in two formats
-• tell an addition story with objects
-
-**Things to know**
+**Main content**
 
 • **Addition** means **putting together** or **adding more**; the answer is called the **sum** or **total**.
 • The **plus sign (+)** means "and" or "more"; the **equals sign (=)** means "is the same as".
@@ -5263,15 +4612,7 @@ Write two addition sums within 5 from things in your house (cups, spoons, plates
 
 *Depth: NERDC Primary 1 · Mathematics · First Term W8 (pp 618–619); Primary 2 · First Term W7 and W8.*
 
-**You will learn to**
-
-• add within 10 with objects and pictures
-• add two single digits in my head
-• add 2-digit numbers without carrying
-• use a number line to add
-• check an addition with subtraction
-
-**Things to know**
+**Main content**
 
 • **Addition facts to 10** are the things I must know without counting: 6 + 4 = 10, 7 + 3 = 10, 8 + 2 = 10, 9 + 1 = 10.
 • Adding **zero**: 9 + 0 = 9; adding one: 9 + 1 = 10.
@@ -5320,14 +4661,7 @@ Draw four stones in one circle and three in another, join the circles with a plu
 
 *Depth: NERDC Nursery 2 · Numeracy · Third Term W1 (pp 344–347); Primary 1 · Mathematics · First Term W9 (pp 618–619).*
 
-**You will learn to**
-
-• say that subtraction means taking away
-• use the minus sign (−)
-• subtract within 5 with objects and pictures
-• tell what zero does in subtraction
-
-**Things to know**
+**Main content**
 
 • **Subtraction** means **taking away**, **removing**, or finding the **difference** between two numbers.
 • The **minus sign (−)** means "take away"; the answer is called the **difference** or the **remainder**.
@@ -5375,15 +4709,7 @@ Draw seven oranges, cross out two, and colour the five that are left.
 
 *Depth: NERDC Primary 1 · Mathematics · First Term W10 (pp 618–619); Primary 2 · First Term W9 and W10 (pp 675–676).*
 
-**You will learn to**
-
-• subtract within 10 fluently
-• subtract 2-digit numbers without borrowing
-• borrow when the ones are not enough
-• check a subtraction with addition
-• use subtraction with money and with objects
-
-**Things to know**
+**Main content**
 
 • **Subtraction facts within 10**: 10 − 4 = 6, 10 − 7 = 3, 9 − 5 = 4 — these must be quick.
 • Subtracting zero changes nothing: 8 − 0 = 8.
@@ -5440,14 +4766,7 @@ line for line as bullets below.*
 
 *Depth: school breakdown for N2 F1 W1.*
 
-**You will learn to**
-
-• say my full name and my nickname clearly
-• say my age and whether I am a boy or a girl
-• name the parts of my body
-• say which sense I use for each thing
-
-**Things to know**
+**Main content**
 
 • My **full name** has two parts: my first name and my family name — "Adaeze Okafor".
 • My **nickname** is the short name people at home call me — "Ada".
@@ -5490,14 +4809,7 @@ Write your first name five times and draw your face under it.
 
 *Depth: school breakdown for N2 F1 W2.*
 
-**You will learn to**
-
-• name the members of my family and of the extended family
-• say what each member does at home
-• show love and respect to my family
-• use the polite words at home
-
-**Things to know**
+**Main content**
 
 • The members of my family at home: **father, mother, brothers, sisters** — and me.
 • The extended family is bigger: **grandpa, grandma, uncles, aunts, cousins**.
@@ -5539,14 +4851,7 @@ Draw your family and write one word under each person: father, mother, brother, 
 
 *Depth: school breakdown for N2 F1 W3.*
 
-**You will learn to**
-
-• say the name of my school and my class
-• name places in the school and what each is for
-• name the people who work in the school
-• pack and care for my school bag
-
-**Things to know**
+**Main content**
 
 • The name of my school: **______**. My class: **Nursery 2**. I say both out loud.
 • Places in the school: **classroom** (we learn), **playground** (we play), **library** (we read), **toilet** (we freshen up), **office** (the head teacher works).
@@ -5587,14 +4892,7 @@ Colour the school bag and ring the five things that belong inside it.
 
 *Depth: school breakdown for N2 F1 W4.*
 
-**You will learn to**
-
-• name objects in the classroom
-• state the rules we keep in class
-• keep the classroom clean
-• name the colours of things in the room
-
-**Things to know**
+**Main content**
 
 • Objects in the classroom: **table, chair, board, books, pencils, crayons**, plus the duster, the clock and the shelf.
 • Classroom rule one: **raise your hand** before you speak or before you leave your seat.
@@ -5636,14 +4934,7 @@ Colour the classroom picture: the book red, the bag blue, the board green, the c
 
 *Depth: school breakdown for N2 F1 W5.*
 
-**You will learn to**
-
-• name the rooms of my house and what each is for
-• say who lives with me and where I sleep and eat
-• describe my street, village or town
-• use near and far, up and down
-
-**Things to know**
+**Main content**
 
 • Rooms in my house: **sitting room** (visitors sit), **kitchen** (food is cooked), **bedroom** (we sleep), **bathroom** (we bathe).
 • Some houses have a **dining room**, a **veranda**, a **store** and a **compound**.
@@ -5685,14 +4976,7 @@ Draw your house with four rooms and write the name of each room inside it.
 
 *Depth: school breakdown for N2 F1 W6.*
 
-**You will learn to**
-
-• name the colours I can see
-• find circles, squares, triangles and stars in the room
-• compare two things by size
-• name the colours of the Nigerian flag
-
-**Things to know**
+**Main content**
 
 • **Primary colours** (the colours that other colours are mixed from): **red, blue, yellow**.
 • Other colours I know: **black, white, green, brown, orange, purple**.
@@ -5734,14 +5018,7 @@ Colour three circles red, two squares blue and one triangle yellow.
 
 *Depth: school breakdown for N2 F1 W8.*
 
-**You will learn to**
-
-• name domestic animals and the sound each one makes
-• name wild animals I have seen in pictures
-• name birds and say where animals live
-• tell a domestic animal from a wild animal
-
-**Things to know**
+**Main content**
 
 • **Domestic animals** live with people and are looked after: **dog, cat, goat, chicken, cow**, and in some homes, sheep and rabbit.
 • Their sounds: dog — **woof**; cat — **miaow**; goat — **meh**; hen — **koko**; cow — **moo**.
@@ -5785,14 +5062,7 @@ Draw four animals, two that live with people and two that live in the bush.
 
 *Depth: school breakdown for N2 F1 W9.*
 
-**You will learn to**
-
-• greet correctly at morning, afternoon and evening
-• greet an elder before myself
-• use the four magic words
-• keep my body and my uniform clean
-
-**Things to know**
+**Main content**
 
 • Morning (before noon): **"Good morning."** Afternoon: **"Good afternoon."** Evening: **"Good evening."** Bedtime: **"Good night."**
 • **We greet elders first** — the grown person is greeted before a child of my age; it is a duty, not a favour.
@@ -6400,156 +5670,156 @@ Answer in full sentences.
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. Technology means the smart things people make and use to ___
-   A) sleep more soundly
-   B) spend money more quickly
-   C) do work more easily
-   D) walk more slowly
-2. A digital device is a machine that works with ___
-   A) fire and shows things on a wall
-   B) electricity and shows things on a screen
-   C) rope and pulls things up a hill
-   D) water and keeps things in a pot
-3. This one is NOT a digital device ___
-   A) a wooden broom
-   B) a smart watch
+1. A digital device is a machine that works with ___
+   A) water and keeps things in a pot
+   B) fire and shows things on a wall
+   C) electricity and shows things on a screen
+   D) rope and pulls things up a hill
+2. This one is NOT a digital device ___
+   A) a tablet
+   B) a wooden broom
    C) a camera
-   D) a tablet
-4. The device used for taking pictures is a ___
-   A) broom
-   B) kettle
-   C) camera
-   D) fan
-5. A tablet is different from a desktop because it is ___
+   D) a smart watch
+3. The device used for taking pictures is a ___
+   A) camera
+   B) fan
+   C) broom
+   D) kettle
+4. A tablet is different from a desktop because it is ___
    A) made of wood and of cloth
    B) big, heavy and fixed on a table
-   C) sold only inside a bank
-   D) flat, light and touched with the finger
-6. Which computer stays on a table and does not move about?
-   A) A smart watch
-   B) A desktop
-   C) A radio
-   D) A tablet
-7. A machine that opens and shuts like a book, with a battery, is a ___
-   A) laptop
+   C) flat, light and touched with the finger
+   D) sold only inside a bank
+5. A computer is big and has a screen, keys and a ___
+   A) broom
+   B) spoon
+   C) plate
+   D) mouse
+6. A machine that opens and shuts like a book, with a battery, is a ___
+   A) typewriter
+   B) laptop
+   C) television
+   D) desktop
+7. The smallest and lightest computer to carry is the ___
+   A) tablet
    B) desktop
-   C) typewriter
-   D) television
-8. The smallest and lightest computer to carry is the ___
-   A) desktop
-   B) CPU box
    C) printer
-   D) tablet
-9. The part that shows pictures, letters and numbers is the ___
+   D) CPU box
+8. The part that shows pictures, letters and numbers is the ___
    A) keyboard
    B) speaker
-   C) monitor
-   D) mouse
-10. We press keys to put information into the computer with the ___
-   A) printer
-   B) keyboard
-   C) CPU
+   C) mouse
    D) monitor
-11. The right order of work on a computer is ___
-   A) keyboard or mouse, then CPU, then monitor
-   B) CPU, then mouse, then keyboard
-   C) mouse, then monitor, then keyboard
-   D) monitor, then keyboard, then CPU
-12. The machine that puts the picture or letter out on paper is a ___
-   A) scanner
+9. We press keys to put information into the computer with the ___
+   A) monitor
+   B) CPU
+   C) keyboard
+   D) printer
+10. The part held in the hand that moves the arrow on the screen is the ___
+   A) CPU box
    B) mouse
-   C) printer
-   D) monitor
-13. A computer in the bank is used to ___
+   C) speaker
+   D) keyboard
+11. The machine that puts the picture or letter out on paper is a ___
+   A) printer
+   B) mouse
+   C) monitor
+   D) scanner
+12. A computer in the bank is used to ___
    A) cook food for the workers
    B) water the plants outside
-   C) sweep the floor of the hall
-   D) count money and print a receipt
-14. The price of goods in a shop is read by a ___
-   A) radio
-   B) machine that reads the price
-   C) pencil and paper only
-   D) fan
-15. Time on a device should be shared between learning and ___
-   A) play, with a limit on play
-   B) fighting, with a limit
+   C) count money and print a receipt
+   D) sweep the floor of the hall
+13. The price of goods in a shop is read by a ___
+   A) pencil and paper only
+   B) radio
+   C) fan
+   D) machine that reads the price
+14. Time on a device should be shared between learning and ___
+   A) fighting, with a limit
+   B) play, with a limit on play
    C) sleeping, with no limit
    D) cooking, with no limit
-16. A screen is wiped with ___
-   A) a rough washing rag
-   B) sand and water
-   C) a soft, dry cloth
-   D) a wet mop
-17. A laptop should be carried ___
-   A) by its long wire, dragged along
+15. Water inside a device ___
+   A) spoils it for good
+   B) cleans the screen
+   C) makes it faster
+   D) charges the battery
+16. A laptop should be carried ___
+   A) open in only one small hand
    B) with the screen facing downward
-   C) open in only one small hand
-   D) closed in two hands inside a padded bag
-18. The cable is taken out of the socket by holding ___
-   A) the wire, pulled hard
-   B) the plug itself
-   C) the screen
-   D) the chair
-19. Before we switch off, we save the work and ___
-   A) shut the programme, then kill the power
-   B) shake the monitor once or twice
+   C) closed in two hands inside a padded bag
+   D) by its long wire, dragged along
+17. The cable is taken out of the socket by holding ___
+   A) the screen
+   B) the chair
+   C) the wire, pulled hard
+   D) the plug itself
+18. Before we switch off, we save the work and ___
+   A) pull the cable out in a hurry
+   B) shut the programme, then kill the power
    C) take the keyboard right away
-   D) pull the cable out in a hurry
-20. The room in the school where many computers are kept is the ___
-   A) computer chapel
-   B) computer kitchen
+   D) shake the monitor once or twice
+19. The room in the school where many computers are kept is the ___
+   A) computer lab
+   B) computer chapel
    C) computer store
-   D) computer lab
-21. Food and drink in the computer lab are ___
-   A) kept under the chair
-   B) not allowed on the desk
-   C) allowed on every desk
-   D) given to the CPU
-22. If a machine gives smoke or a bad smell, we ___
+   D) computer kitchen
+20. In the lab we move about by ___
+   A) climbing the desks
+   B) running fast
+   C) sliding on the floor
+   D) walking carefully
+21. If a machine gives smoke or a bad smell, we ___
    A) hide it under the desk
-   B) press every key on the keyboard
-   C) leave it and tell the teacher at once
-   D) pour cold water on the machine
-23. Long ago, people counted with stones and with a frame of sliding beads called a(n) ___
-   A) abacus
-   B) laptop
-   C) monitor
-   D) printer
-24. The first machines used parts that glowed and grew hot called ___
-   A) tablets
+   B) leave it and tell the teacher at once
+   C) pour cold water on the machine
+   D) press every key on the keyboard
+22. Long ago, people counted with stones and with a frame of sliding beads called a(n) ___
+   A) printer
+   B) monitor
+   C) abacus
+   D) laptop
+23. The first machines used parts that glowed and grew hot called ___
+   A) vacuum tubes
    B) microchips
-   C) printers
-   D) vacuum tubes
-25. The tiny part that replaced the hot vacuum tube was the ___
-   A) keyboard
-   B) candle
-   C) transistor
-   D) abacus bead
-26. The Englishman who designed the Analytical Engine was ___
-   A) Ada Babbage
-   B) Charles Babbage
-   C) Michael Akinkunmi
-   D) Chukwuemeka Odumegwu
-27. The machine built by Babbage to work out tables of numbers without mistakes was the ___
-   A) Printing press
-   B) Spinning jenny
-   C) Steam engine
-   D) Difference Engine
-28. Babbage's plans could not be built fully because the ___
+   C) tablets
+   D) printers
+24. The tiny part that replaced the hot vacuum tube was the ___
+   A) candle
+   B) abacus bead
+   C) keyboard
+   D) transistor
+25. Computers became ___
+   A) bigger, faster and cheaper
+   B) smaller, slower and dearer
+   C) smaller, faster and cheaper
+   D) bigger, slower and dearer
+26. The machine built by Babbage to work out tables of numbers without mistakes was the ___
+   A) Spinning jenny
+   B) Difference Engine
+   C) Printing press
+   D) Steam engine
+27. Babbage's plans could not be built fully because the ___
    A) the money he had for the metal parts
    B) the numbers he wrote in his log book
-   C) workshop of his day could not make such parts
-   D) the plans he drew on his paper only
-29. A set of written instructions for a machine is called a ___
-   A) programme
-   B) pillow
-   C) parcel
-   D) poster
-30. A computer language was named after ___
-   A) the monitor
-   B) Ada Lovelace
+   C) the plans he drew on his paper only
+   D) workshop of his day could not make such parts
+28. A set of written instructions for a machine is called a ___
+   A) pillow
+   B) poster
+   C) programme
+   D) parcel
+29. A computer language was named after ___
+   A) Ada Lovelace
+   B) the monitor
    C) Babbage's town
    D) the abacus
+30. "A device is a servant, not a ___
+   A) toy
+   B) master
+   C) book
+   D) chair"
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.
@@ -6579,7 +5849,7 @@ Answer in full sentences.
 
 ---
 
-# EXAMINATION PRACTICE — NIGERIAN HISTORY ( · )
+# EXAMINATION PRACTICE — NIGERIAN HISTORY (Nursery 2 · 1st Term)
 
 **Time:** 1 hour · **Total: 50 marks**
 
@@ -6772,156 +6042,156 @@ Answer in full sentences.
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. Exercise means the physical activities that ___
-   A) make us sleep in the day
-   B) keep the body on the chair
-   C) keep the hands still
-   D) make the body move and work
-2. A game is an organised activity with ___
-   A) books, played for class
-   B) rules, played for fun
-   C) money, played for food
-   D) no rule, played for fear
-3. Exercise makes the heart and the ___
-   A) lungs work well
-   B) ears hear better
-   C) hair become thicker
-   D) teeth grow longer
-4. A child who plays and exercises ___
-   A) sleeps all day
+1. A game is an organised activity with ___
+   A) money, played for food
+   B) no rule, played for fear
+   C) books, played for class
+   D) rules, played for fun
+2. Exercise makes the heart and the ___
+   A) hair become thicker
+   B) lungs work well
+   C) teeth grow longer
+   D) ears hear better
+3. A child who plays and exercises ___
+   A) sleeps better at night
    B) cannot sleep at all
    C) stays awake at night
-   D) sleeps better at night
-5. Games teach discipline because I ___
-   A) keep my eyes shut while I run
-   B) wait for my turn and listen for the whistle
-   C) shout at my partner and push in front
-   D) leave the ground before the game ends
-6. Egg and spoon race trains the ___
-   A) ear and the power of hearing
-   B) back and the power of bending
-   C) hand and the sense of balance
-   D) nose and the smell of things
-7. In the egg and spoon game, if the ball falls we ___
-   A) cry and go home
-   B) leave the ground
-   C) throw the spoon away
-   D) pick it up and continue
-8. In a sack race the player ___
+   D) sleeps all day
+4. Games teach discipline because I ___
+   A) leave the ground before the game ends
+   B) shout at my partner and push in front
+   C) keep my eyes shut while I run
+   D) wait for my turn and listen for the whistle
+5. The first thing we do before a game is to ___
+   A) tie both shoes together
+   B) warm up and stretch
+   C) sit down and rest
+   D) eat a full meal
+6. In the egg and spoon game, if the ball falls we ___
+   A) leave the ground
+   B) throw the spoon away
+   C) pick it up and continue
+   D) cry and go home
+7. In a sack race the player ___
    A) carries the sack on the head for a friend
-   B) stands inside a sack and jumps to the line
-   C) runs beside a sack full of sand
-   D) hides inside a big sack at the line
-9. In the three-legged race, the pair must ___
+   B) runs beside a sack full of sand
+   C) hides inside a big sack at the line
+   D) stands inside a sack and jumps to the line
+8. In the three-legged race, the pair must ___
    A) run in opposite directions, fast
-   B) carry one another to the finishing line
-   C) walk as one, with the inside legs tied
-   D) jump over each other's legs twice
-10. Musical chairs and freeze dance are both games of ___
-   A) movement and stopping on a signal
-   B) eating and drinking quickly
-   C) reading and writing neatly
-   D) counting money on a chair
-11. Stretching the body means ___
-   A) holding the breath for a long time
-   B) reaching for the sky and touching the toes
-   C) running to the far gate
-   D) jumping over a deep ditch
-12. Skipping is done with a ___
-   A) sack, jumped inside to the line
-   B) ball, thrown up to a partner
-   C) stick, carried slowly across the ground
-   D) rope, jumping forwards and then backwards
-13. Leaping is a big jump ___
-   A) from both feet onto one mat
-   B) backwards over a rope
-   C) from one foot to the other foot
-   D) sideways on the ground only
-14. The safe way to land from a jump is with ___
-   A) soft, bent knees
-   B) straight, locked knees
-   C) closed eyes
-   D) the head first
-15. Body conditioning means exercises that make the body ___
-   A) heavy and slow
-   B) tall and thin
+   B) walk as one, with the inside legs tied
+   C) jump over each other's legs twice
+   D) carry one another to the finishing line
+9. Musical chairs and freeze dance are both games of ___
+   A) reading and writing neatly
+   B) counting money on a chair
+   C) movement and stopping on a signal
+   D) eating and drinking quickly
+10. Freeze dance means we ___
+   A) dance while the music plays and hold still when it stops
+   B) dance only when the teacher calls out my name
+   C) stand in one place and never move at all
+   D) sit down quietly as the drum begins to sound
+11. Skipping is done with a ___
+   A) ball, thrown up to a partner
+   B) rope, jumping forwards and then backwards
+   C) sack, jumped inside to the line
+   D) stick, carried slowly across the ground
+12. Leaping is a big jump ___
+   A) sideways on the ground only
+   B) from both feet onto one mat
+   C) backwards over a rope
+   D) from one foot to the other foot
+13. The safe way to land from a jump is with ___
+   A) straight, locked knees
+   B) the head first
+   C) soft, bent knees
+   D) closed eyes
+14. Body conditioning means exercises that make the body ___
+   A) fit and in good control
+   B) heavy and slow
    C) warm and sleepy
-   D) fit and in good control
-16. Arms are stretched sideways while balancing because they ___
-   A) help us to hear better
-   B) keep the body very warm
-   C) act like the beam of a scale
-   D) stop the wind from blowing
-17. While balancing on one leg, a good trick is to ___
+   D) tall and thin
+15. Balance means staying ___
+   A) fast without stopping
+   B) soft without moving
+   C) loud without shouting
+   D) steady without falling
+16. While balancing on one leg, a good trick is to ___
    A) close both ears
-   B) count slowly to ten
-   C) shout at a friend
+   B) shout at a friend
+   C) count slowly to ten
    D) hop three times fast
-18. Walking heel to toe on a line drawn on the floor trains the ___
-   A) balance of the body
-   B) grip of the hand
-   C) sight of the eye
-   D) hearing of the ear
-19. Kicking, hitting, bouncing and rolling are ___
-   A) breathing games
-   B) balancing exercises
+17. Walking heel to toe on a line drawn on the floor trains the ___
+   A) sight of the eye
+   B) balance of the body
+   C) hearing of the ear
+   D) grip of the hand
+18. Kicking, hitting, bouncing and rolling are ___
+   A) manipulative movements
+   B) breathing games
    C) resting positions
-   D) manipulative movements
-20. An underhand throw is made with the arm ___
-   A) behind the back
-   B) swinging from behind and low
-   C) above the head and high
-   D) straight down at the ground
-21. The safest object to throw and catch in class is a ___
-   A) bean bag
-   B) piece of wood
-   C) stone
-   D) bottle
-22. Catching is done with ___
-   A) one hand only, with the eyes on the ground
-   B) the head and the two shoulders together
-   C) two hands out, eyes on the object all the way to them
-   D) the knees and the feet of the player
-23. The brain and its wires working with the muscles is called ___
-   A) skin and hair
-   B) bone and joint
-   C) heart and lung
-   D) neuro-muscular
-24. A dance routine is ___
-   A) a single jump done only once in the day
-   B) the same order of steps done again and again
-   C) a slow song with no movement at all
-   D) a game played with a ball and a bat
-25. A forward roll is started from a ___
+   D) balancing exercises
+19. An underhand throw is made with the arm ___
+   A) straight down at the ground
+   B) above the head and high
+   C) behind the back
+   D) swinging from behind and low
+20. In an overhand throw we ___
+   A) turn our back and throw
+   B) step with the foot and throw
+   C) sit on the ground and throw
+   D) close both eyes and throw
+21. Catching is done with ___
+   A) two hands out, eyes on the object all the way to them
+   B) the knees and the feet of the player
+   C) one hand only, with the eyes on the ground
+   D) the head and the two shoulders together
+22. The brain and its wires working with the muscles is called ___
+   A) bone and joint
+   B) skin and hair
+   C) neuro-muscular
+   D) heart and lung
+23. A dance routine is ___
+   A) a slow song with no movement at all
+   B) a single jump done only once in the day
+   C) a game played with a ball and a bat
+   D) the same order of steps done again and again
+24. A forward roll is started from a ___
    A) standing jump, with the legs kicked high
-   B) full run, with the arms swinging fast
-   C) squat, with the two hands placed on the mat
-   D) lying down, with the back flat on the floor
-26. A roll must be done on a mat or soft ground because ___
-   A) a hard floor can hurt the neck and the back
-   B) soft ground is faster for running
-   C) the floor of the class is dusty
-   D) the mat is colourful and clean to look at
-27. Sport develops flexibility, which is the ability to ___
-   A) hear a small sound
-   B) bend and stretch easily
-   C) run a long distance
-   D) count to two hundred
-28. Agility is the ability to ___
+   B) squat, with the two hands placed on the mat
+   C) lying down, with the back flat on the floor
+   D) full run, with the arms swinging fast
+25. Before rolling on the mat, the chin is ___
+   A) lifted to the sky
+   B) hidden under the arm
+   C) tucked to the chest
+   D) turned to the left
+26. Sport develops flexibility, which is the ability to ___
+   A) bend and stretch easily
+   B) count to two hundred
+   C) hear a small sound
+   D) run a long distance
+27. Agility is the ability to ___
    A) lift a heavy bucket
-   B) hold a pose for a long time
-   C) read a long sentence
-   D) move quickly and change direction
-29. Reaction is shown when ___
-   A) the ear hears the clap and the leg starts to run
-   B) the mouth tastes the food we eat at home
-   C) the eye closes slowly at the time for sleep
-   D) the hand holds a pencil on the exercise book
-30. Strength is built by ___
-   A) long sleeping
-   B) eating sweets only
-   C) exercise and play
-   D) sitting and watching
+   B) move quickly and change direction
+   C) hold a pose for a long time
+   D) read a long sentence
+28. Reaction is shown when ___
+   A) the hand holds a pencil on the exercise book
+   B) the eye closes slowly at the time for sleep
+   C) the mouth tastes the food we eat at home
+   D) the ear hears the clap and the leg starts to run
+29. Strength is built by ___
+   A) exercise and play
+   B) sitting and watching
+   C) long sleeping
+   D) eating sweets only
+30. At my age sport is for ___
+   A) winning money for the family
+   B) only the big silver prizes
+   C) learning and growing up fit
+   D) pain and a lot of tiredness
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.
@@ -6958,156 +6228,156 @@ Answer in full sentences.
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. Agriculture is the work of growing crops and ___
-   A) selling goods in the market
-   B) driving buses in the town
-   C) building houses on the land
-   D) rearing animals for man to use
-2. A person who grows crops and rears animals is a ___
-   A) trader only
-   B) driver
-   C) farmer
-   D) watchman
-3. Yam, rice, beans and maize are things agriculture gives us as ___
-   A) food
-   B) books for the school
-   C) cloth
-   D) medicine for the eyes
-4. Cotton grown on a farm is used for making ___
-   A) paper
-   B) cooking oil
-   C) water
-   D) cloth
-5. Wood from the farm and the forest is used for making ___
-   A) cups of glass
+1. A person who grows crops and rears animals is a ___
+   A) driver
+   B) trader only
+   C) watchman
+   D) farmer
+2. Yam, rice, beans and maize are things agriculture gives us as ___
+   A) medicine for the eyes
+   B) cloth
+   C) food
+   D) books for the school
+3. The hen gives us eggs and meat; the cow gives us milk, meat and ___
+   A) hide
+   B) sand
+   C) plastic
+   D) kerosene
+4. Wood from the farm and the forest is used for making ___
+   A) plates of iron
    B) shoes of rubber
-   C) furniture and planks
-   D) plates of iron
-6. Farmers sell their surplus at the ___
-   A) river bank
-   B) market
-   C) school gate
-   D) bus stop only
-7. Garri and yam flour are made from ___
-   A) cassava and yam
-   B) corn and pepper
-   C) cocoa and milk
-   D) rice and beans
-8. The broom we use to sweep is made from the ___
-   A) skin of a goat
+   C) cups of glass
+   D) furniture and planks
+5. Farmers sell their surplus at the ___
+   A) school gate
+   B) bus stop only
+   C) market
+   D) river bank
+6. The oil in our soup came from the ___
+   A) cow's tail
+   B) palm fruit
+   C) garden soil
+   D) river stone
+7. The broom we use to sweep is made from the ___
+   A) midrib of a palm leaf
    B) wheel of a car
    C) bone of a fish
-   D) midrib of a palm leaf
-9. The first farming activity is ___
+   D) skin of a goat
+8. The first farming activity is ___
    A) selling the produce at the market
-   B) clearing the bush and sticks from the land
-   C) washing the hands after work
-   D) cooking the food at home
-10. Rotten leaves and animal droppings added to make the soil rich are ___
-   A) sand and gravel
-   B) manure and chemical only
-   C) manure
-   D) salt and pepper
-11. Keeping birds, grasshoppers and goats away from the farm is ___
-   A) protecting the crop
+   B) washing the hands after work
+   C) cooking the food at home
+   D) clearing the bush and sticks from the land
+9. Turning and breaking the soil with a hoe to make it soft is ___
+   A) weeding
+   B) tilling
+   C) manuring
+   D) harvesting
+10. Keeping birds, grasshoppers and goats away from the farm is ___
+   A) watering the ridge
    B) tilling the soil
-   C) harvesting the yam
-   D) watering the ridge
-12. Gathering yam, maize and rice when they are ripe is ___
-   A) clearing
-   B) harvesting
-   C) planting
+   C) protecting the crop
+   D) harvesting the yam
+11. Gathering yam, maize and rice when they are ripe is ___
+   A) harvesting
+   B) planting
+   C) clearing
    D) weeding
-13. Crops grown to feed the family are called ___
-   A) medicinal crops
-   B) cash crops
-   C) food crops
-   D) timber crops
-14. Cocoa, groundnut, cotton and rubber are grown to be ___
-   A) fed to the animals
-   B) burnt after harvest
-   C) eaten at every meal
-   D) sold and to bring money
-15. Rice, maize, guinea corn and wheat are ___
-   A) grain crops that we call cereals
-   B) soft crops that we call tubers
-   C) yellow crops that we call fruits
-   D) wild crops that we call weeds
-16. The branch of agriculture that keeps farm animals is ___
-   A) the keeping of trees, that is, forestry
-   B) the growing of crops, that is, crop production
-   C) animal rearing, that is, animal husbandry
-   D) the catching of fish, that is, fishery
-17. The young of the goat is called the ___
-   A) lamb
+12. The tools of the small farm are ___
+   A) chalk, duster and desk
+   B) cutlass, hoe, rake and watering can
+   C) spoon, fork, plate and knife
+   D) broom, bucket and washing line
+13. Cocoa, groundnut, cotton and rubber are grown to be ___
+   A) burnt after harvest
+   B) eaten at every meal
+   C) sold and to bring money
+   D) fed to the animals
+14. Rice, maize, guinea corn and wheat are ___
+   A) yellow crops that we call fruits
+   B) wild crops that we call weeds
+   C) soft crops that we call tubers
+   D) grain crops that we call cereals
+15. Beans and groundnut are special because they ___
+   A) make the soil rich as they grow
+   B) need no water at all
+   C) grow only in the forest
+   D) are never eaten at home
+16. The young of the goat is called the ___
+   A) chick
    B) calf
-   C) chick
-   D) kid
-18. The young of the sheep is the ___
+   C) kid
+   D) lamb
+17. The young of the sheep is the ___
    A) foal
-   B) lamb
+   B) kid
    C) piglet
-   D) kid
-19. Sick animals are ___
-   A) left in the sun all day
-   B) given more salt
-   C) kept apart from the rest
-   D) put in the fish pond
-20. The branch of agriculture that deals with trees and the forest is ___
+   D) lamb
+18. An animal needs food, clean water, shade and ___
+   A) a small shoe for its leg
+   B) a clean, safe place for sleeping
+   C) a bell tied to its tail
+   D) a bright television set
+19. The branch of agriculture that deals with trees and the forest is ___
    A) crop production
    B) fishery
-   C) husbandry
-   D) forestry
-21. Iroko, mahogany, teak and pine are trees grown for ___
-   A) honey
-   B) timber
-   C) eggs
-   D) milk
-22. Where all the trees are cut down, the land becomes ___
-   A) dry and washed away
-   B) cooler and deeper
-   C) fuller of fish
-   D) richer and wetter
-23. The branch of agriculture that deals with catching and rearing fish is ___
-   A) crop production
-   B) forestry
-   C) fishery
+   C) forestry
    D) husbandry
-24. Keeping fish in a pond or in a cage is called ___
-   A) fish smoking, that is, drying
-   B) fish farming, that is, aquaculture
-   C) fish counting, that is, numbering
+20. Iroko, mahogany, teak and pine are trees grown for ___
+   A) eggs
+   B) milk
+   C) honey
+   D) timber
+21. Trees hold the soil with their ___
+   A) flowers
+   B) roots
+   C) fruits
+   D) leaves only
+22. The branch of agriculture that deals with catching and rearing fish is ___
+   A) fishery
+   B) husbandry
+   C) crop production
+   D) forestry
+23. Keeping fish in a pond or in a cage is called ___
+   A) fish counting, that is, numbering
+   B) fish smoking, that is, drying
+   C) fish farming, that is, aquaculture
    D) fish selling, that is, trading
-25. The tools of the fisherman are ___
-   A) ruler, pencil and eraser
-   B) kettle, cup and saucer
-   C) cutlass, hoe and watering can
-   D) net, hook and line, basket and canoe
-26. Small fish caught in the net are ___
-   A) thrown back into the water
-   B) dried and kept for a year
-   C) given to the goats
-   D) sold at a higher price
-27. Most food in Nigeria comes from ___
-   A) the market alone
+24. Catfish, tilapia and bonga are foods that give the body ___
+   A) water to swim with
+   B) protein to grow strong
+   C) shade to sit in
+   D) cloth to wear
+25. Small fish caught in the net are ___
+   A) dried and kept for a year
+   B) given to the goats
+   C) sold at a higher price
+   D) thrown back into the water
+26. Most food in Nigeria comes from ___
+   A) small family farms
    B) the office in town
-   C) small family farms
+   C) the market alone
    D) big foreign ships
-28. Cocoa, palm oil, rubber and cashew are crops that bring ___
-   A) rust to the tools
-   B) money into Nigeria
-   C) sand to the farm
-   D) cold to the house
-29. Farming in a way that keeps the land good for our children is ___
+27. Groundnut and cotton are grown mainly in the ___
+   A) islands only
+   B) river banks only
+   C) north of Nigeria
+   D) south-east only
+28. Farming in a way that keeps the land good for our children is ___
    A) market agriculture
-   B) dry agriculture
-   C) quick agriculture
-   D) sustainable agriculture
-30. Organic farming uses ___
-   A) compost, not chemical fertiliser
-   B) only chemical fertiliser
-   C) salt and clean sand
-   D) nothing on the land
+   B) sustainable agriculture
+   C) dry agriculture
+   D) quick agriculture
+29. Organic farming uses ___
+   A) salt and clean sand
+   B) nothing on the land
+   C) only chemical fertiliser
+   D) compost, not chemical fertiliser
+30. Not wasting farm produce means ___
+   A) finishing the food on my plate
+   B) pouring oil down the gutter
+   C) leaving the tap running
+   D) throwing peels on the floor
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.
@@ -7144,156 +6414,156 @@ Answer in full sentences.
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. A leader is somebody who ___
-   A) cooks the food of the family at home
-   B) sells other things to other people
-   C) guides other people and shows them what to do
-   D) drives a car to the market by himself
-2. The leader of my class in school is the ___
-   A) teacher, with the class captain
+1. The leader of my class in school is the ___
+   A) a visitor from town
    B) the watchman at the gate
-   C) the cleaner of the corridor
-   D) a visitor from town
-3. The leader of a street or community is called the ___
-   A) monitor
-   B) baale
-   C) pupil
-   D) prefect
-4. A quality of a good leader is being ___
-   A) silent, far and forgetful
-   B) rude, lazy and greedy
-   C) kind, fair, honest and helpful
-   D) noisy, proud and quick to anger
-5. We need leaders so that people will be ___
+   C) teacher, with the class captain
+   D) the cleaner of the corridor
+2. The leader of a street or community is called the ___
+   A) baale
+   B) prefect
+   C) monitor
+   D) pupil
+3. The leader of a state is the ___
+   A) king only
+   B) governor
+   C) mayor of another town
+   D) chairman
+4. We need leaders so that people will be ___
    A) sent away to another town
    B) left alone, with nothing at all to say
-   C) paid money on every market day
-   D) guided, with order kept and work finished
-6. The leaders of my home are ___
-   A) father and mother
+   C) guided, with order kept and work finished
+   D) paid money on every market day
+5. The leaders of my home are ___
+   A) the pupils of the class
    B) the neighbours only
-   C) the pupils of the class
-   D) the traders at the gate
-7. The advice of the grandparents is heavy because they ___
-   A) are older than everybody else in the street
-   B) have seen more of life, and we answer them with respect
-   C) stay in another state with our relations
-   D) give us money at the end of every single month
-8. When father and mother are away, the smaller children are led by ___
+   C) the traders at the gate
+   D) father and mother
+6. A duty of a parent is to give food, clothes, education, love and ___
+   A) protection
+   B) punishment only
+   C) a motor car
+   D) money for games
+7. When father and mother are away, the smaller children are led by ___
    A) the neighbour's child
-   B) no one at all
-   C) an elder brother or sister
+   B) an elder brother or sister
+   C) no one at all
    D) the family dog
-9. Respect at home begins with small things: answering "yes ma/sir", carrying a bag and ___
-   A) not slamming doors
-   B) dropping plates loudly
-   C) leaving shoes in the passage
-   D) running upstairs
-10. A small settlement is a village; a bigger one is a ___
-   A) state
-   B) country
-   C) ocean
-   D) town
-11. The name of the place I live is said like this: ___
-   A) "I run to ______"
-   B) "I eat at ______"
-   C) "I live in ______"
-   D) "I sleep in ______"
-12. An example of community mobilization is ___
-   A) the heavy rain that falls in the month of June
-   B) the clean-up exercise on the last Saturday of the month
-   C) the closing of the market at high noon
+8. Respect at home begins with small things: answering "yes ma/sir", carrying a bag and ___
+   A) running upstairs
+   B) leaving shoes in the passage
+   C) not slamming doors
+   D) dropping plates loudly
+9. A community is people living together in ___
+   A) one area — a street, a village or a town
+   B) one house with many storeys only
+   C) one market stall on a table
+   D) one class in the school building
+10. The name of the place I live is said like this: ___
+   A) "I eat at ______"
+   B) "I sleep in ______"
+   C) "I run to ______"
+   D) "I live in ______"
+11. An example of community mobilization is ___
+   A) the closing of the market at high noon
+   B) the heavy rain that falls in the month of June
+   C) the clean-up exercise on the last Saturday of the month
    D) the long sleep taken in the afternoon sun
-13. Cooperation means people ___
-   A) fighting one another to finish a job quickly
-   B) paying another person to do the whole job
-   C) waiting at home for the government to do everything
-   D) working together to finish a job one person cannot finish alone
-14. When a neighbour's house falls down, the community brings ___
-   A) sand, blocks and hands
-   B) a full pot of soup
-   C) music and dancing shoes
-   D) a new television set
-15. A strong community gives its people ___
-   A) hunger and thirst
-   B) noise, dust and fear
-   C) safety, unity and progress
-   D) homework and tests
-16. The proverb of cooperation says ___
-   A) money finishes the good work
-   B) one head carries all the load
-   C) slow and slow wins the race
-   D) many hands make the work light
-17. A responsibility is a thing we ___
-   A) must do, and not a thing we may choose to do
-   B) can buy for ourselves at the market
+12. The leaders who meet to plan for the people include the chief, the imam, the pastor and the ___
+   A) trader that sells us food
+   B) chairman of the local government area
+   C) pupil of the school near the market
+   D) driver of the bus at the park
+13. When a neighbour's house falls down, the community brings ___
+   A) a new television set
+   B) music and dancing shoes
+   C) a full pot of soup
+   D) sand, blocks and hands
+14. A strong community gives its people ___
+   A) safety, unity and progress
+   B) hunger and thirst
+   C) homework and tests
+   D) noise, dust and fear
+15. A child's part in the community includes ___
+   A) frightening the old people at the gate
+   B) throwing papers on the wide road
+   C) not littering and keeping the gutters free
+   D) blocking the gutter with soft mud
+16. A responsibility is a thing we ___
+   A) can buy for ourselves at the market
+   B) may forget when we are very busy
    C) give to another child in the class
-   D) may forget when we are very busy
-18. If I lose or spoil a borrowed book, the consequence is that ___
-   A) the book returns itself
-   B) it must be replaced or paid for
-   C) nothing at all happens
-   D) the owner buys two
-19. People of all ages and backgrounds must be respected, including ___
-   A) only the rich ones
-   B) only my own class mate
-   C) only the old ones
-   D) a person with a disability
-20. Polite words we use are please, thank you, sorry and ___
+   D) must do, and not a thing we may choose to do
+17. If I lose or spoil a borrowed book, the consequence is that ___
+   A) it must be replaced or paid for
+   B) the book returns itself
+   C) the owner buys two
+   D) nothing at all happens
+18. Respect for elders is shown by greeting them, listening, obeying and ___
+   A) answering them back with a loud voice
+   B) using their respectful title, such as ma or sir
+   C) calling them by a nick name at the gate
+   D) walking away without saying anything
+19. Polite words we use are please, thank you, sorry and ___
    A) over to you
    B) good night
-   C) excuse me
-   D) mind the gap
-21. Nigeria's neighbours include Benin Republic, Niger, Chad and ___
+   C) mind the gap
+   D) excuse me
+20. Nigeria's neighbours include Benin Republic, Niger, Chad and ___
    A) Egypt
-   B) Cameroon
-   C) Kenya
+   B) Kenya
+   C) Cameroon
    D) Ghana
-22. Our national flag has three vertical parts: ___
-   A) green, white and green
-   B) white, blue and white
-   C) red, gold and green
-   D) green, yellow and red
-23. The white on the Nigerian flag stands for ___
-   A) water
+21. The capital of Nigeria is ___
+   A) Lagos
+   B) Abuja
+   C) Ibadan
+   D) Kano
+22. The white on the Nigerian flag stands for ___
+   A) peace and unity
    B) milk
-   C) peace and unity
+   C) water
    D) morning
-24. Nigeria became independent on the ___
-   A) 1st of January 1960
-   B) 1st of October 1960
-   C) 27th of October 1958
-   D) 29th of May 1999
-25. The first stanza of our anthem begins "Arise, O ___
-   A) compatriots"
-   B) countrymen of Kano
-   C) leaders of the town"
-   D) children at school
-26. The national pledge is said at school to ___
-   A) open the market for the traders
-   B) sing before the match on Friday
-   C) greet the visitors that come to the school
-   D) be faithful to the country and to honour Nigeria
-27. The Y on the shield stands for ___
-   A) the two horses
-   B) the rivers Niger and Benue
+23. Nigeria became independent on the ___
+   A) 29th of May 1999
+   B) 1st of January 1960
+   C) 1st of October 1960
+   D) 27th of October 1958
+24. The flag is flown at half a mast when ___
+   A) school begins in January
+   B) a great person dies
+   C) it is raining hard
+   D) the market is closed
+25. The national pledge is said at school to ___
+   A) be faithful to the country and to honour Nigeria
+   B) greet the visitors that come to the school
+   C) open the market for the traders
+   D) sing before the match on Friday
+26. The Y on the shield stands for ___
+   A) the capital city
+   B) the two horses
    C) the shape of the flag
-   D) the capital city
-28. Independence day is kept with ___
-   A) a long holiday with no programme
-   B) farming competition
-   C) parades and the President's broadcast
-   D) school examinations only
-29. A sacred place like the church or the mosque must be met with ___
-   A) quiet behaviour and proper dress
+   D) the rivers Niger and Benue
+27. Our money is the Naira; its small part is the ___
+   A) sen, and one hundred sen make a naira
+   B) kobo, and one hundred kobo make a Naira
+   C) pesewa, and ten pesewa make a cedi
+   D) bit, and one thousand bits make a naira
+28. A sacred place like the church or the mosque must be met with ___
+   A) loud talking and running
    B) shoes on the altar table
-   C) loud talking and running
+   C) quiet behaviour and proper dress
    D) food and drink in the hall
-30. Objects we respect include the flag, religious books, the elders' belongings and ___
-   A) the broken chair
-   B) other people's slippers
+29. Objects we respect include the flag, religious books, the elders' belongings and ___
+   A) national monuments
+   B) the broken chair
    C) the refuse gutter
-   D) national monuments
+   D) other people's slippers
+30. Writing my name on a monument is wrong because it ___
+   A) makes the old wall look very colourful
+   B) takes a very long time in the afternoon
+   C) will cost me some of my money for the paint
+   D) damages a thing that belongs to the whole country
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.
@@ -7345,11 +6615,11 @@ Choose the correct option and ring the letter.
    B) ìwé
    C) pátákó
    D) bẹ́ẹ̀dì
-4. When I point at a thing and name it, I say ___
-   A) "Ẹ́ ṣé o"
-   B) "Kí ni orúkọ rẹ?"
-   C) "Báwo ni?"
-   D) "Èyí ni ______"
+4. "Ẹlẹ́dọ̀tí" is the thing we use to ___
+   A) clean the floor
+   B) write a letter
+   C) cut a page
+   D) rub out a mistake
 5. "Good morning" in Yoruba is ___
    A) Ẹ̀ káàárọ̀
    B) Ẹ̀ káàlẹ̀
@@ -7360,26 +6630,26 @@ Choose the correct option and ring the letter.
    B) Ẹ̀ káàṣánṣá
    C) Ẹ ṣé
    D) Ẹ̀ káàárọ̀
-7. A boy greets an elder by ___
+7. We greet an elder at night with ___
+   A) Ẹ̀ káàárọ̀
+   B) Àlàáfíà ni
+   C) Ọ́ nàṣẹ́
+   D) Ẹ̀ máàdọ́rùn
+8. A boy greets an elder by ___
    A) ìkúnlẹ̀ (kneeling)
    B) clapping the hands twice
-   C) standing and waving
-   D) ìdòbì (prostration)
-8. A girl greets an elder by ___
-   A) ìdòbì (prostration)
-   B) running to the door
-   C) ìkúnlẹ̀ (kneeling)
-   D) jumping once
-9. When a friend comes back home we say ___
-   A) Ọ́ dàbọ̀
-   B) Ẹ̀ káàlẹ̀
-   C) Ẹ̀ jẹun ni
-   D) Ọ́ nàṣẹ́
-10. "Thank you" in Yoruba is ___
-   A) Kí ni o ń ṣe
-   B) Ẹ ṣé
-   C) Ì jọ̀ọ́ ẹ̀
-   D) Ẹ̀ jọ̀ọ́
+   C) ìdòbì (prostration)
+   D) standing and waving
+9. A girl greets an elder by ___
+   A) ìkúnlẹ̀ (kneeling)
+   B) ìdòbì (prostration)
+   C) jumping once
+   D) running to the door
+10. The reply to "Ọ́ dàbọ̀" is ___
+   A) "Ààbọ̀ ni ọla"
+   B) "Ọ́ dábọ̀, ààbọ̀"
+   C) "Bákan náà"
+   D) "Ẹ ṣé gan-an"
 11. Numbers: the Yoruba word for 5 is ___
    A) ẹ̀fà
    B) ẹ̀jọ
@@ -7390,11 +6660,11 @@ Choose the correct option and ring the letter.
    B) eight
    C) ten
    D) four
-13. "Meloo ni o ní?" is a question that means
-   A) where do you live
-   B) how many do you have
-   C) when did you come
-   D) what is your name
+13. Counting backwards from ẹ̀wá, the next word is ___
+   A) àárún
+   B) ẹ̀sán
+   C) ọ̀kan
+   D) ẹ̀ta
 14. "Mẹ́ta ni mo ní" means ___
    A) I have three
    B) I am three years old
@@ -7405,11 +6675,11 @@ Choose the correct option and ring the letter.
    B) a fine face is everything
    C) speed wins the race
    D) good character is the true beauty
-16. One rule in the warning song is ___
-   A) do not sleep early, so that you will work
-   B) do not run, so that you will not fall
-   C) do not be idle, so that your money will not sleep
-   D) do not sing, so that you will learn
+16. An orin ìkìlọ̀ is a song that ___
+   A) welcomes a newborn baby
+   B) counts the days of the week
+   C) warns children away from bad things
+   D) praises a chief at his gate
 17. The Yoruba alphabet has letters ___
    A) twenty-five in all: 18 consonants and 7 vowels
    B) twenty-four in all: 17 consonants and 7 vowels
@@ -7420,66 +6690,66 @@ Choose the correct option and ring the letter.
    B) a, e, ẹ, i, o, ọ, u
    C) a, b, c, d, e, f, g
    D) e, ẹ, i, o, ọ, u, n
-19. The two letters that are written as pairs are ___
-   A) sh and th
-   B) kp and q
-   C) ch and ph
-   D) gb and ṣ
-20. The dot under ẹ and ọ ___
-   A) changes the sound of the letter
-   B) shows a long pause
-   C) makes the letter silent
-   D) doubles the letter
+19. Which letter is NOT in the Yoruba alphabet?
+   A) d
+   B) b
+   C) ń
+   D) c
+20. The two letters that are written as pairs are ___
+   A) gb and ṣ
+   B) ch and ph
+   C) kp and q
+   D) sh and th
 21. "Ọjọ́ Àìkú" is the day we call ___
    A) Wednesday
    B) Sunday
    C) Saturday
    D) Friday
-22. The seven days of the week end with ___
-   A) Ọjọ́-rúkú-ọ̀jọ́
-   B) Ọjọ́ Ìṣẹ́gun
-   C) Ọjọ́ Àbámẹ́ta
+22. Tuesday in Yoruba is ___
+   A) Ọjọ́ Bọ̀ṣẹ̀
+   B) Ọjọ́ Ajé
+   C) Ọjọ́ Ìṣẹ́gun
+   D) Ọjọ́ Ẹtì
+23. The seven days of the week end with ___
+   A) Ọjọ́ Àbámẹ́ta
+   B) Ọjọ́-rúkú-ọ̀jọ́
+   C) Ọjọ́ Ìṣẹ́gun
    D) Ọjọ́ Àìkú
-23. The first eight letters of the Yoruba alphabet, in order, are ___
-   A) a, b, d, e, ẹ, f, g, gb
+24. The first eight letters of the Yoruba alphabet, in order, are ___
+   A) b, d, f, g, gb, h, j, k
    B) a, b, c, d, e, f, g, h
-   C) b, d, f, g, gb, h, j, k
-   D) a, e, ẹ, i, o, ọ, u, b
-24. The three tones that mark the voice are ___
-   A) high only, with no other tone
-   B) dài, gún and kúkú
-   C) è, é and ẹ
-   D) à (low), á (high) and ā (middle)
-25. Do not mix them up: "mu" is used for ___
-   A) book
-   B) drink
-   C) water only
-   D) food
-26. "Kí ni o ń ṣe?" is asked when we want to know
-   A) who somebody greeted
-   B) where somebody lives
-   C) what somebody is doing
-   D) how old somebody is
-27. The sentence pattern we learnt is ___
-   A) Mo + action + thing
+   C) a, e, ẹ, i, o, ọ, u, b
+   D) a, b, d, e, ẹ, f, g, gb
+25. Action words: "jẹ" means ___
+   A) sleep
+   B) eat
+   C) come
+   D) drink
+26. Do not mix them up: "mu" is used for ___
+   A) water only
+   B) food
+   C) drink
+   D) book
+27. "Kí ni o ń ṣe?" is asked when we want to know
+   A) what somebody is doing
+   B) how old somebody is
+   C) where somebody lives
+   D) who somebody greeted
+28. The sentence pattern we learnt is ___
+   A) Mo + thing + action
    B) Action + Mo + thing
    C) Thing + action + Mo
-   D) Mo + thing + action
-28. "Ọ́ nàṣẹ́" is a greeting for a person who is ___
-   A) just born
+   D) Mo + action + thing
+29. "Ọ́ nàṣẹ́" is a greeting for a person who is ___
+   A) at rest
    B) at school
-   C) at rest
-   D) at work
-29. The Yoruba word for a farmer is ___
+   C) at work
+   D) just born
+30. The Yoruba word for a farmer is ___
    A) ọ̀dẹ̀
-   B) akọ́
-   C) agbẹ̀
+   B) agbẹ̀
+   C) akọ́
    D) alagbe
-30. A ẹ̀wì is different from orin because it is ___
-   A) danced, not spoken
-   B) spoken, not sung
-   C) written, not read
-   D) sung twice, never once
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.
@@ -7516,156 +6786,156 @@ Answer in full sentences.
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. The five vowels are ___
-   A) b, c, d, f, g
-   B) x, y, z, w, q
-   C) a, e, i, o, u
-   D) a, b, c, d, e
-2. Letters that are not vowels are called ___
-   A) names
+1. Letters that are not vowels are called ___
+   A) numbers
    B) sounds
-   C) numbers
-   D) consonants
-3. The vowel in the word "cat" is ___
-   A) a
-   B) t
-   C) none
-   D) c
-4. Which of these words has two vowels?
-   A) cat
-   B) book
+   C) consonants
+   D) names
+2. The vowel in the word "cat" is ___
+   A) t
+   B) none
+   C) c
+   D) a
+3. Which of these words has two vowels?
+   A) book
+   B) dog
    C) pen
-   D) dog
-5. A letter that sometimes works as a vowel is ___
-   A) k
-   B) b
-   C) y
-   D) t
-6. The sound /d/ is the first sound in ___
-   A) owl
-   B) fan
-   C) sun
-   D) dog
-7. The letters d, a, i, m are four ___
-   A) signs in sums
-   B) sounds we learnt to blend
-   C) words we learnt to read
-   D) names of colours
-8. d-i-m spells ___
-   A) dim
-   B) mid
-   C) dam
+   D) cat
+4. A letter that sometimes works as a vowel is ___
+   A) b
+   B) y
+   C) t
+   D) k
+5. The sound /d/ is the first sound in ___
+   A) sun
+   B) owl
+   C) dog
+   D) fan
+6. The letters d, a, i, m are four ___
+   A) words we learnt to read
+   B) signs in sums
+   C) names of colours
+   D) sounds we learnt to blend
+7. d-i-m spells ___
+   A) dam
+   B) dim
+   C) mid
    D) mad
-9. "mum" begins with the sound ___
-   A) /u/
+8. "mum" begins with the sound ___
+   A) /m/
    B) /n/
    C) /a/
-   D) /m/
-10. A sight word is a word that ___
+   D) /u/
+9. A sight word is a word that ___
    A) is always the name of a person
-   B) has no fewer than six letters
-   C) I read at once, without sounding it out
-   D) must be sounded out every single time
-11. The word that points at the person being spoken to is ___
-   A) you
+   B) must be sounded out every single time
+   C) has no fewer than six letters
+   D) I read at once, without sounding it out
+10. The word that points at the person being spoken to is ___
+   A) her
    B) it
-   C) her
+   C) you
    D) me
-12. "We" means ___
-   A) one girl or one woman
-   B) me and other people together
-   C) a thing that I put on
+11. "We" means ___
+   A) me and other people together
+   B) a thing that I put on
+   C) one girl or one woman
    D) only myself, and nobody else
-13. A sight word that is about a girl or a woman is ___
+12. A sight word that is about a girl or a woman is ___
    A) you
-   B) we
-   C) her
-   D) go
-14. The word that is always written big, even in the middle of a sentence, is ___
-   A) go
-   B) car
-   C) a
-   D) I
-15. "car" is a ___
-   A) thing (noun)
-   B) letter
-   C) sound
-   D) doing word (verb)
-16. A sentence I can build from my sight words is ___
-   A) Car this is the
-   B) This is the car
-   C) Is car the this
-   D) This car is the the
-17. The most common word in English is ___
-   A) go
    B) her
-   C) the
+   C) go
+   D) we
+13. The word that is always written big, even in the middle of a sentence, is ___
+   A) go
+   B) a
+   C) I
    D) car
-18. "They" is a word that points to ___
+14. "car" is a ___
+   A) sound
+   B) letter
+   C) doing word (verb)
+   D) thing (noun)
+15. Which sentence is written in the right order?
+   A) I go in the car.
+   B) In car go I.
+   C) Car I in go.
+   D) Go I car in.
+16. The most common word in English is ___
+   A) go
+   B) the
+   C) car
+   D) her
+17. "They" is a word that points to ___
    A) myself and my own name only
-   B) one single thing that is near me
-   C) the place where I sleep at night
-   D) more people or things already spoken of
-19. A digraph is ___
-   A) two letters that make one sound
-   B) a word of six letters
+   B) the place where I sleep at night
+   C) more people or things already spoken of
+   D) one single thing that is near me
+18. A digraph is ___
+   A) a word of six letters
+   B) two sounds in one letter
    C) a capital letter
-   D) two sounds in one letter
-20. The digraph at the end of "duck" is ___
-   A) wh
-   B) ck
-   C) th
-   D) sh
-21. In the word "think", the first sound is ___
-   A) /f/ made with the lips
-   B) /t/ with a hard kick of air
-   C) /s/ drawn out at the end
-   D) /th/ with the voice switched off
-22. The two letters in "what" are ___
+   D) two letters that make one sound
+19. The digraph at the end of "duck" is ___
    A) ck
-   B) ch
+   B) sh
    C) wh
-   D) sh
-23. "ph" is pronounced like ___
-   A) /f/
-   B) /p/
-   C) /v/
-   D) /ph/
-24. The digraph in "much" is ___
-   A) ck
+   D) th
+20. In the word "think", the first sound is ___
+   A) /s/ drawn out at the end
+   B) /th/ with the voice switched off
+   C) /t/ with a hard kick of air
+   D) /f/ made with the lips
+21. The two letters in "what" are ___
+   A) sh
    B) ch
-   C) th
-   D) sh
-25. The correct spelling of the picture-taking machine is ___
-   A) fone
-   B) phoan
-   C) pone
-   D) phone
-26. Photo, she and chart each contain ___
+   C) ck
+   D) wh
+22. "ph" is pronounced like ___
+   A) /v/
+   B) /p/
+   C) /f/
+   D) /ph/
+23. The digraph in "much" is ___
+   A) ch
+   B) sh
+   C) ck
+   D) th
+24. The correct spelling of the picture-taking machine is ___
+   A) pone
+   B) phone
+   C) phoan
+   D) fone
+25. Photo, she and chart each contain ___
    A) a blend
-   B) six letters
-   C) a digraph
-   D) two vowels
-27. In the blend "pl" I hear ___
+   B) two vowels
+   C) six letters
+   D) a digraph
+26. In the blend "pl" I hear ___
    A) the sound /p/ only, with /l/ silent
-   B) both sounds: /p/ and then /l/
-   C) the sound /l/ only, with /p/ silent
-   D) no sound at all
-28. A blend is different from a digraph because in a blend ___
-   A) a vowel replaces them
-   B) only one letter is written
-   C) the letters are silent
-   D) each consonant is still heard
-29. "greet" begins with the blend ___
-   A) gr
+   B) no sound at all
+   C) both sounds: /p/ and then /l/
+   D) the sound /l/ only, with /p/ silent
+27. A blend is different from a digraph because in a blend ___
+   A) the letters are silent
+   B) each consonant is still heard
+   C) a vowel replaces them
+   D) only one letter is written
+28. "greet" begins with the blend ___
+   A) r
    B) ee
    C) g
-   D) r
-30. "fly" begins with the blend ___
-   A) f
+   D) gr
+29. "fly" begins with the blend ___
+   A) fl
    B) ly
-   C) fl
+   C) f
    D) y
+30. My sight words at the end of the term are ___
+   A) four
+   B) twenty-one
+   C) thirteen
+   D) seven
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.
@@ -7888,156 +7158,156 @@ Answer in full sentences.
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. Two hundred is the same as ___
-   A) twenty ones
-   B) two hundred ones and two tens
-   C) twenty tens
-   D) two tens
-2. In the number 163, the digit 6 stands for ___
-   A) six tens
-   B) sixteen units
-   C) six units
+1. In the number 163, the digit 6 stands for ___
+   A) sixteen units
+   B) six units
+   C) six tens
    D) six hundreds
-3. The expanded form of 128 is ___
-   A) 1 + 2 + 8
-   B) 100 + 20 + 8
-   C) 12 + 8
-   D) 100 + 28
-4. Counting in tens from 170, the next number is ___
-   A) 160
-   B) 187
-   C) 180
-   D) 171
-5. The number that is 100 + 40 + 7 is ___
-   A) 147
-   B) 417
-   C) 174
-   D) 107
-6. An even number among these is ___
-   A) 157
-   B) 131
+2. The expanded form of 128 is ___
+   A) 100 + 20 + 8
+   B) 12 + 8
+   C) 100 + 28
+   D) 1 + 2 + 8
+3. Counting in tens from 170, the next number is ___
+   A) 171
+   B) 180
+   C) 187
+   D) 160
+4. The number that is 100 + 40 + 7 is ___
+   A) 417
+   B) 107
+   C) 147
+   D) 174
+5. Which is greater: 189 or 198?
+   A) 198
+   B) they are equal
    C) 189
-   D) 146
-7. In 47, the digit in the ones place is ___
+   D) cannot be told
+6. In 47, the digit in the ones place is ___
    A) 4
    B) 0
-   C) 7
-   D) 47
-8. Seven tens and five ones make ___
-   A) 705
-   B) 75
-   C) 57
+   C) 47
+   D) 7
+7. Seven tens and five ones make ___
+   A) 57
+   B) 705
+   C) 75
    D) 12
-9. Ten ones make ___
-   A) ten hundreds
-   B) one thousand
+8. Ten ones make ___
+   A) one thousand
+   B) one ten
    C) one hundred
-   D) one ten
-10. The number that has 4 tens and 0 ones is ___
-   A) 40
+   D) ten hundreds
+9. The number that has 4 tens and 0 ones is ___
+   A) 44
    B) 14
-   C) 44
-   D) 4
-11. In 77, the first 7 stands for ___
-   A) seven hundred
-   B) seventy-seven
-   C) seventy
-   D) seven
-12. Sixty-five written in words is ___
-   A) "fifty-six"
-   B) "sixty-five"
-   C) "sixty and five"
-   D) "six ten five"
-13. The correct spelling of the number 13 is ___
-   A) thirden
-   B) three-teen
-   C) threeteen
-   D) thirteen
-14. "One hundred and three" in figures is ___
-   A) 103
-   B) 113
-   C) 130
-   D) 300
-15. The figure for forty-nine is ___
-   A) 94
-   B) 40
-   C) 49
-   D) 4
-16. Forty is written in words as ___
-   A) fourty-one
-   B) forty
-   C) fourty
-   D) four-tee
-17. In 25, the digit 2 stands for ___
-   A) two hundred
-   B) five
-   C) two
-   D) twenty
-18. One more than 199 is ___
-   A) 200
-   B) 198
-   C) 201
-   D) 190
-19. Skip counting by twos from 2 gives ___
-   A) 2, 3, 5, 8
-   B) 2, 12, 22, 32
-   C) 2, 4, 6, 8
-   D) 4, 6, 8, 11
-20. Addition means ___
-   A) taking things away
-   B) putting things together
-   C) comparing two numbers
-   D) sharing a cake
-21. In 2 + 3 = 5, the answer 5 is called the ___
-   A) tens
-   B) difference
-   C) place
-   D) sum
-22. 3 + 0 gives ___
-   A) 3
-   B) 30
-   C) 1
-   D) 0
-23. The sum of 6 and 4 is ___
-   A) 2
-   B) 10
-   C) 9
-   D) 12
-24. On a number line, adding means jumping to the ___
-   A) left
-   B) up
-   C) right
-   D) down
-25. 23 + 14 gives ___
-   A) 46
-   B) 47
-   C) 36
-   D) 37
-26. "Five less two" written as a number sentence is ___
-   A) 5 − 2 = 3
-   B) 5 ÷ 2 = 3
-   C) 5 × 2 = 10
-   D) 5 + 2 = 7
-27. The answer in subtraction is called the ___
-   A) sum
-   B) place
-   C) difference
-   D) total
-28. 5 − 5 gives ___
-   A) 10
-   B) 0
-   C) 5
-   D) 1
-29. 10 − 3 is ___
-   A) 7
+   C) 4
+   D) 40
+10. The digit 6 shows six tens in the number ___
+   A) 61
    B) 6
-   C) 8
+   C) 26
+   D) 16
+11. Sixty-five written in words is ___
+   A) "sixty and five"
+   B) "six ten five"
+   C) "sixty-five"
+   D) "fifty-six"
+12. The correct spelling of the number 13 is ___
+   A) threeteen
+   B) thirteen
+   C) thirden
+   D) three-teen
+13. "One hundred and three" in figures is ___
+   A) 113
+   B) 300
+   C) 130
+   D) 103
+14. The figure for forty-nine is ___
+   A) 49
+   B) 40
+   C) 94
+   D) 4
+15. "Seventy-two" in figures is ___
+   A) 27
+   B) 70
+   C) 72
+   D) 17
+16. In 25, the digit 2 stands for ___
+   A) five
+   B) twenty
+   C) two
+   D) two hundred
+17. One more than 199 is ___
+   A) 190
+   B) 201
+   C) 198
+   D) 200
+18. Skip counting by twos from 2 gives ___
+   A) 2, 4, 6, 8
+   B) 2, 3, 5, 8
+   C) 4, 6, 8, 11
+   D) 2, 12, 22, 32
+19. Addition means ___
+   A) taking things away
+   B) comparing two numbers
+   C) putting things together
+   D) sharing a cake
+20. The sign used in addition is ___
+   A) –
+   B) +
+   C) =
+   D) ×
+21. 3 + 0 gives ___
+   A) 30
+   B) 0
+   C) 1
+   D) 3
+22. The sum of 6 and 4 is ___
+   A) 10
+   B) 12
+   C) 2
+   D) 9
+23. On a number line, adding means jumping to the ___
+   A) down
+   B) right
+   C) left
+   D) up
+24. 23 + 14 gives ___
+   A) 46
+   B) 36
+   C) 37
+   D) 47
+25. 48 − 25 gives ___
+   A) 33
+   B) 73
+   C) 63
+   D) 23
+26. The answer in subtraction is called the ___
+   A) difference
+   B) place
+   C) total
+   D) sum
+27. 5 − 5 gives ___
+   A) 5
+   B) 1
+   C) 0
+   D) 10
+28. 10 − 3 is ___
+   A) 8
+   B) 7
+   C) 6
    D) 13
-30. Subtraction is checked by using ___
-   A) counting on fingers only
+29. Subtraction is checked by using ___
+   A) addition
    B) multiplication
-   C) the ruler
-   D) addition
+   C) counting on fingers only
+   D) the ruler
+30. A subtraction story solved by ₦100 − ₦45 leaves ___
+   A) ₦145
+   B) ₦45
+   C) ₦65
+   D) ₦55
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.
@@ -8067,7 +7337,7 @@ Answer in full sentences.
 
 ---
 
-# EXAMINATION PRACTICE — GENERAL KNOWLEDGE ( · )
+# EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Nursery 2 · 1st Term)
 
 **Time:** 1 hour · **Total: 50 marks**
 

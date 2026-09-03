@@ -4,16 +4,7 @@
  "term": "1st Term",
  "objective": [
   {
-   "stem": "A leader is somebody who",
-   "answer": "guides other people and shows them what to do",
-   "distractors": [
-    "sells other things to other people",
-    "drives a car to the market by himself",
-    "cooks the food of the family at home"
-   ]
-  },
-  {
-   "stem": "The leader of my class in school is the",
+   "stem": "The leader of my class in school is the ___",
    "answer": "teacher, with the class captain",
    "distractors": [
     "the watchman at the gate",
@@ -22,7 +13,7 @@
    ]
   },
   {
-   "stem": "The leader of a street or community is called the",
+   "stem": "The leader of a street or community is called the ___",
    "answer": "baale",
    "distractors": [
     "prefect",
@@ -31,16 +22,16 @@
    ]
   },
   {
-   "stem": "A quality of a good leader is being",
-   "answer": "kind, fair, honest and helpful",
+   "stem": "The leader of a state is the ___",
+   "answer": "governor",
    "distractors": [
-    "rude, lazy and greedy",
-    "noisy, proud and quick to anger",
-    "silent, far and forgetful"
+    "chairman",
+    "king only",
+    "mayor of another town"
    ]
   },
   {
-   "stem": "We need leaders so that people will be",
+   "stem": "We need leaders so that people will be ___",
    "answer": "guided, with order kept and work finished",
    "distractors": [
     "left alone, with nothing at all to say",
@@ -49,7 +40,7 @@
    ]
   },
   {
-   "stem": "The leaders of my home are",
+   "stem": "The leaders of my home are ___",
    "answer": "father and mother",
    "distractors": [
     "the neighbours only",
@@ -58,16 +49,16 @@
    ]
   },
   {
-   "stem": "The advice of the grandparents is heavy because they",
-   "answer": "have seen more of life, and we answer them with respect",
+   "stem": "A duty of a parent is to give food, clothes, education, love and ___",
+   "answer": "protection",
    "distractors": [
-    "give us money at the end of every single month",
-    "are older than everybody else in the street",
-    "stay in another state with our relations"
+    "punishment only",
+    "money for games",
+    "a motor car"
    ]
   },
   {
-   "stem": "When father and mother are away, the smaller children are led by",
+   "stem": "When father and mother are away, the smaller children are led by ___",
    "answer": "an elder brother or sister",
    "distractors": [
     "the family dog",
@@ -76,7 +67,7 @@
    ]
   },
   {
-   "stem": "Respect at home begins with small things: answering \"yes ma/sir\", carrying a bag and",
+   "stem": "Respect at home begins with small things: answering \"yes ma/sir\", carrying a bag and ___",
    "answer": "not slamming doors",
    "distractors": [
     "dropping plates loudly",
@@ -85,16 +76,16 @@
    ]
   },
   {
-   "stem": "A small settlement is a village; a bigger one is a",
-   "answer": "town",
+   "stem": "A community is people living together in ___",
+   "answer": "one area — a street, a village or a town",
    "distractors": [
-    "country",
-    "state",
-    "ocean"
+    "one house with many storeys only",
+    "one class in the school building",
+    "one market stall on a table"
    ]
   },
   {
-   "stem": "The name of the place I live is said like this:",
+   "stem": "The name of the place I live is said like this: ___",
    "answer": "\"I live in ______\"",
    "distractors": [
     "\"I sleep in ______\"",
@@ -103,7 +94,7 @@
    ]
   },
   {
-   "stem": "An example of community mobilization is",
+   "stem": "An example of community mobilization is ___",
    "answer": "the clean-up exercise on the last Saturday of the month",
    "distractors": [
     "the long sleep taken in the afternoon sun",
@@ -112,16 +103,16 @@
    ]
   },
   {
-   "stem": "Cooperation means people",
-   "answer": "working together to finish a job one person cannot finish alone",
+   "stem": "The leaders who meet to plan for the people include the chief, the imam, the pastor and the ___",
+   "answer": "chairman of the local government area",
    "distractors": [
-    "fighting one another to finish a job quickly",
-    "paying another person to do the whole job",
-    "waiting at home for the government to do everything"
+    "driver of the bus at the park",
+    "trader that sells us food",
+    "pupil of the school near the market"
    ]
   },
   {
-   "stem": "When a neighbour's house falls down, the community brings",
+   "stem": "When a neighbour's house falls down, the community brings ___",
    "answer": "sand, blocks and hands",
    "distractors": [
     "a new television set",
@@ -130,7 +121,7 @@
    ]
   },
   {
-   "stem": "A strong community gives its people",
+   "stem": "A strong community gives its people ___",
    "answer": "safety, unity and progress",
    "distractors": [
     "noise, dust and fear",
@@ -139,16 +130,16 @@
    ]
   },
   {
-   "stem": "The proverb of cooperation says",
-   "answer": "many hands make the work light",
+   "stem": "A child's part in the community includes ___",
+   "answer": "not littering and keeping the gutters free",
    "distractors": [
-    "one head carries all the load",
-    "money finishes the good work",
-    "slow and slow wins the race"
+    "throwing papers on the wide road",
+    "blocking the gutter with soft mud",
+    "frightening the old people at the gate"
    ]
   },
   {
-   "stem": "A responsibility is a thing we",
+   "stem": "A responsibility is a thing we ___",
    "answer": "must do, and not a thing we may choose to do",
    "distractors": [
     "may forget when we are very busy",
@@ -157,7 +148,7 @@
    ]
   },
   {
-   "stem": "If I lose or spoil a borrowed book, the consequence is that",
+   "stem": "If I lose or spoil a borrowed book, the consequence is that ___",
    "answer": "it must be replaced or paid for",
    "distractors": [
     "nothing at all happens",
@@ -166,16 +157,16 @@
    ]
   },
   {
-   "stem": "People of all ages and backgrounds must be respected, including",
-   "answer": "a person with a disability",
+   "stem": "Respect for elders is shown by greeting them, listening, obeying and ___",
+   "answer": "using their respectful title, such as ma or sir",
    "distractors": [
-    "only the rich ones",
-    "only the old ones",
-    "only my own class mate"
+    "calling them by a nick name at the gate",
+    "answering them back with a loud voice",
+    "walking away without saying anything"
    ]
   },
   {
-   "stem": "Polite words we use are please, thank you, sorry and",
+   "stem": "Polite words we use are please, thank you, sorry and ___",
    "answer": "excuse me",
    "distractors": [
     "over to you",
@@ -184,7 +175,7 @@
    ]
   },
   {
-   "stem": "Nigeria's neighbours include Benin Republic, Niger, Chad and",
+   "stem": "Nigeria's neighbours include Benin Republic, Niger, Chad and ___",
    "answer": "Cameroon",
    "distractors": [
     "Egypt",
@@ -193,16 +184,16 @@
    ]
   },
   {
-   "stem": "Our national flag has three vertical parts:",
-   "answer": "green, white and green",
+   "stem": "The capital of Nigeria is ___",
+   "answer": "Abuja",
    "distractors": [
-    "red, gold and green",
-    "white, blue and white",
-    "green, yellow and red"
+    "Lagos",
+    "Kano",
+    "Ibadan"
    ]
   },
   {
-   "stem": "The white on the Nigerian flag stands for",
+   "stem": "The white on the Nigerian flag stands for ___",
    "answer": "peace and unity",
    "distractors": [
     "water",
@@ -211,7 +202,7 @@
    ]
   },
   {
-   "stem": "Nigeria became independent on the",
+   "stem": "Nigeria became independent on the ___",
    "answer": "1st of October 1960",
    "distractors": [
     "29th of May 1999",
@@ -220,16 +211,16 @@
    ]
   },
   {
-   "stem": "The first stanza of our anthem begins \"Arise, O",
-   "answer": "compatriots\"",
+   "stem": "The flag is flown at half a mast when ___",
+   "answer": "a great person dies",
    "distractors": [
-    "countrymen of Kano",
-    "children at school",
-    "leaders of the town\""
+    "the market is closed",
+    "school begins in January",
+    "it is raining hard"
    ]
   },
   {
-   "stem": "The national pledge is said at school to",
+   "stem": "The national pledge is said at school to ___",
    "answer": "be faithful to the country and to honour Nigeria",
    "distractors": [
     "greet the visitors that come to the school",
@@ -238,7 +229,7 @@
    ]
   },
   {
-   "stem": "The Y on the shield stands for",
+   "stem": "The Y on the shield stands for ___",
    "answer": "the rivers Niger and Benue",
    "distractors": [
     "the shape of the flag",
@@ -247,16 +238,16 @@
    ]
   },
   {
-   "stem": "Independence day is kept with",
-   "answer": "parades and the President's broadcast",
+   "stem": "Our money is the Naira; its small part is the ___",
+   "answer": "kobo, and one hundred kobo make a Naira",
    "distractors": [
-    "a long holiday with no programme",
-    "school examinations only",
-    "farming competition"
+    "pesewa, and ten pesewa make a cedi",
+    "sen, and one hundred sen make a naira",
+    "bit, and one thousand bits make a naira"
    ]
   },
   {
-   "stem": "A sacred place like the church or the mosque must be met with",
+   "stem": "A sacred place like the church or the mosque must be met with ___",
    "answer": "quiet behaviour and proper dress",
    "distractors": [
     "loud talking and running",
@@ -265,12 +256,21 @@
    ]
   },
   {
-   "stem": "Objects we respect include the flag, religious books, the elders' belongings and",
+   "stem": "Objects we respect include the flag, religious books, the elders' belongings and ___",
    "answer": "national monuments",
    "distractors": [
     "the refuse gutter",
     "other people's slippers",
     "the broken chair"
+   ]
+  },
+  {
+   "stem": "Writing my name on a monument is wrong because it ___",
+   "answer": "damages a thing that belongs to the whole country",
+   "distractors": [
+    "will cost me some of my money for the paint",
+    "takes a very long time in the afternoon",
+    "makes the old wall look very colourful"
    ]
   }
  ],

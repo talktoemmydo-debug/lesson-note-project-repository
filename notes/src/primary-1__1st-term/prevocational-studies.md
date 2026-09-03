@@ -14,15 +14,7 @@ note is written for them.
 
 ### WEEK 1 — WHAT IS PRE-VOCATIONAL STUDIES?
 
-**You will learn to**
-
-• say what pre-vocational studies means
-
-• name work we do with our hands
-
-• name simple jobs in the home and on the farm
-
-**Things to know**
+**Main content**
 
 • **Pre-vocational studies** is learning simple work with our hands.
 
@@ -88,15 +80,7 @@ note is written for them.
 
 ### WEEK 2 — SIMPLE FARM TOOLS
 
-**You will learn to**
-
-• name simple farm tools
-
-• say what a simple farm tool does
-
-• handle a simple farm tool with care
-
-**Things to know**
+**Main content**
 
 • **A hoe** is used for digging and weeding.
 
@@ -162,15 +146,7 @@ note is written for them.
 
 ### WEEK 3 — CROPS WE GROW
 
-**You will learn to**
-
-• name crops we grow
-
-• say what crops give us
-
-• care for a growing plant
-
-**Things to know**
+**Main content**
 
 • **A crop** is a plant we grow for food or use.
 
@@ -236,15 +212,7 @@ note is written for them.
 
 ### WEEK 4 — ANIMALS WE KEEP
 
-**You will learn to**
-
-• name animals we keep
-
-• say what animals give us
-
-• care for a domestic animal
-
-**Things to know**
+**Main content**
 
 • **Domestic animals** are animals we keep at home.
 
@@ -310,15 +278,7 @@ note is written for them.
 
 ### WEEK 5 — SIMPLE FOOD PREPARATION
 
-**You will learn to**
-
-• name simple foods we prepare
-
-• say the steps of preparing a simple food
-
-• keep food and hands clean
-
-**Things to know**
+**Main content**
 
 • We prepare simple foods like **pap**, **yam** and **rice**.
 
@@ -384,15 +344,7 @@ note is written for them.
 
 ### WEEK 6 — CLEANLINESS AT HOME
 
-**You will learn to**
-
-• name ways we keep the home clean
-
-• do simple cleaning at home
-
-• keep our things tidy
-
-**Things to know**
+**Main content**
 
 • We **sweep** the floor to remove dirt.
 
@@ -458,15 +410,7 @@ note is written for them.
 
 ### WEEK 8 — SIMPLE CRAFTS
 
-**You will learn to**
-
-• name simple crafts we can make
-
-• make a simple craft with local materials
-
-• care for the things we make
-
-**Things to know**
+**Main content**
 
 • **A craft** is something we make with our hands.
 
@@ -532,15 +476,7 @@ note is written for them.
 
 ### WEEK 9 — WORK SAFELY AND WELL
 
-**You will learn to**
-
-• say how to work safely
-
-• use tools and materials with care
-
-• keep our work place clean
-
-**Things to know**
+**Main content**
 
 • We work carefully and without rushing.
 

@@ -20,8 +20,8 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 3 — TECHNOLOGY: SECURITY GADGETS THAT KEEP US SAFE](#week-3-technology-security-gadgets-that-keep-us-safe) · 5
   - [WEEK 4 — ANIMALS AND THE HOMES THEY LIVE IN](#week-4-animals-and-the-homes-they-live-in) · 6
   - [WEEK 5 — ANIMALS AND THEIR YOUNG ONES](#week-5-animals-and-their-young-ones) · 7
-  - [WEEK 6 — TECHNOLOGY: SIMPLE MACHINES USED IN THE HOME](#week-6-technology-simple-machines-used-in-the-home) · 9
-  - [WEEK 8 — TECHNOLOGY: SIMPLE MACHINES USED IN SCHOOL](#week-8-technology-simple-machines-used-in-school) · 10
+  - [WEEK 6 — TECHNOLOGY: SIMPLE MACHINES USED IN THE HOME](#week-6-technology-simple-machines-used-in-the-home) · 8
+  - [WEEK 8 — TECHNOLOGY: SIMPLE MACHINES USED IN SCHOOL](#week-8-technology-simple-machines-used-in-school) · 9
   - [WEEK 9 — EXPLORING OUR ENVIRONMENT](#week-9-exploring-our-environment) · 11
 - **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 13
   - [WEEK 1 — MAKING CARDS: PAPER THAT CARRIES A MESSAGE](#week-1-making-cards-paper-that-carries-a-message) · 13
@@ -31,118 +31,118 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 5 — MAKING LETTERS AND NUMBERS BEAUTIFUL](#week-5-making-letters-and-numbers-beautiful) · 17
   - [WEEK 6 — COLOURS: THE THREE THAT MAKE THE OTHERS](#week-6-colours-the-three-that-make-the-others) · 18
   - [WEEK 8 — CRAFTS: MAKING THINGS WITH OUR HANDS](#week-8-crafts-making-things-with-our-hands) · 19
-  - [WEEK 9 — DECORATION: MAKING PLAIN THINGS BEAUTIFUL](#week-9-decoration-making-plain-things-beautiful) · 21
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 23
-  - [WEEK 1 — JESUS CHRIST OUR SAVIOUR](#week-1-jesus-christ-our-saviour) · 23
-  - [WEEK 2 — JESUS CALLS US FRIENDS, BROTHERS AND SISTERS](#week-2-jesus-calls-us-friends-brothers-and-sisters) · 24
-  - [WEEK 3 — JESUS COMMANDS US TO LOVE](#week-3-jesus-commands-us-to-love) · 25
-  - [WEEK 4 — JESUS WANTS US TO OBEY GOD'S COMMANDMENTS](#week-4-jesus-wants-us-to-obey-gods-commandments) · 26
-  - [WEEK 5 — THE MEANING OF PRAYER](#week-5-the-meaning-of-prayer) · 27
-  - [WEEK 6 — WHEN TO PRAY](#week-6-when-to-pray) · 28
-  - [WEEK 8 — HOW TO PRAY](#week-8-how-to-pray) · 29
-  - [WEEK 9 — PRAYING EVERY DAY](#week-9-praying-every-day) · 31
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 33
-  - [WEEK 1 — HEADPHONES, AND HOW WE CARE FOR A MACHINE](#week-1-headphones-and-how-we-care-for-a-machine) · 33
-  - [WEEK 2 — THE CPU: THE PART THAT THINKS](#week-2-the-cpu-the-part-that-thinks) · 34
-  - [WEEK 3 — RAM: THE MEMORY THAT HOLDS THINGS A LITTLE WHILE](#week-3-ram-the-memory-that-holds-things-a-little-while) · 35
-  - [WEEK 4 — THE HARD DRIVE: THE BOX THAT KEEPS OUR WORK](#week-4-the-hard-drive-the-box-that-keeps-our-work) · 36
-  - [WEEK 5 — THE MOTHERBOARD: THE FLOOR EVERY PART SITS ON](#week-5-the-motherboard-the-floor-every-part-sits-on) · 37
-  - [WEEK 6 — POWER SUPPLY: THE PART THAT BRINGS THE MACHINE TO LIFE](#week-6-power-supply-the-part-that-brings-the-machine-to-life) · 38
-  - [WEEK 8 — COOLING: HOW A MACHINE KEEPS FROM SWEATING](#week-8-cooling-how-a-machine-keeps-from-sweating) · 39
-  - [WEEK 9 — HOW THE PARTS WORK TOGETHER](#week-9-how-the-parts-work-together) · 40
-- **[Nigerian History](#nigerian-history)** · 42
-  - [WEEK 1 — TRADITIONAL RULERS IN OUR COMMUNITY](#week-1-traditional-rulers-in-our-community) · 42
-  - [WEEK 2 — EMIR, OBA, IGWE: DIFFERENT RULERS IN NIGERIA](#week-2-emir-oba-igwe-different-rulers-in-nigeria) · 43
-  - [WEEK 3 — TRADITIONAL TITLE HOLDERS](#week-3-traditional-title-holders) · 44
-  - [WEEK 4 — BAALE, IYALOJA, OTUNBA: THE WORK OF TITLES](#week-4-baale-iyaloja-otunba-the-work-of-titles) · 45
-  - [WEEK 5 — THE LOCAL GOVERNMENT AND ITS CHAIRPERSON](#week-5-the-local-government-and-its-chairperson) · 46
-  - [WEEK 6 — WHAT A GOOD CHAIRMAN DOES](#week-6-what-a-good-chairman-does) · 47
-  - [WEEK 8 — WHAT MAKES A GOOD LEADER](#week-8-what-makes-a-good-leader) · 48
-  - [WEEK 9 — LEADERSHIP IN MY OWN DAY](#week-9-leadership-in-my-own-day) · 50
-- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 52
-  - [WEEK 1 — PLACES WE PLAY AND THINGS WE PLAY WITH](#week-1-places-we-play-and-things-we-play-with) · 52
-  - [WEEK 2 — FOOTBALL: KICK IT, KEEP IT, SCORE IT](#week-2-football-kick-it-keep-it-score-it) · 53
-  - [WEEK 3 — BASKETBALL: BOUNCE IT AND THROW IT IN](#week-3-basketball-bounce-it-and-throw-it-in) · 54
-  - [WEEK 4 — TABLE TENNIS: THE BALL THAT MUST NOT DROP](#week-4-table-tennis-the-ball-that-must-not-drop) · 55
-  - [WEEK 5 — CHESS: THE GAME PLAYED WITH THE HEAD](#week-5-chess-the-game-played-with-the-head) · 56
-  - [WEEK 6 — VIDEO GAMES: FUN IN LIMITS](#week-6-video-games-fun-in-limits) · 57
-  - [WEEK 8 — MOVING OUR BODY PARTS](#week-8-moving-our-body-parts) · 59
-  - [WEEK 9 — MOVING WELL IN EVERYDAY WORK](#week-9-moving-well-in-everyday-work) · 60
-- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 62
-  - [WEEK 1 — THE TOOLS WE WORK WITH, AND WHERE THEY REST](#week-1-the-tools-we-work-with-and-where-they-rest) · 62
-  - [WEEK 2 — WHAT WE MEAN BY SAFETY](#week-2-what-we-mean-by-safety) · 63
-  - [WEEK 3 — WHY SAFETY MATTERS SO MUCH](#week-3-why-safety-matters-so-much) · 64
-  - [WEEK 4 — WHAT HAPPENS WHEN A TOOL IS MISUSED](#week-4-what-happens-when-a-tool-is-misused) · 65
-  - [WEEK 5 — THE KITCHEN, AND WHY A GROWN-UP IS NEEDED](#week-5-the-kitchen-and-why-a-grown-up-is-needed) · 66
-  - [WEEK 6 — THE RULES WE KEEP WHEN TOOLS ARE ABOUT](#week-6-the-rules-we-keep-when-tools-are-about) · 67
-  - [WEEK 8 — CLOTHES AND THINGS THAT PROTECT THE BODY](#week-8-clothes-and-things-that-protect-the-body) · 69
-  - [WEEK 9 — PUTTING THINGS AWAY, TELLING WHAT IS BROKEN, AND FIRST AID](#week-9-putting-things-away-telling-what-is-broken-and-first-aid) · 70
-- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 72
-  - [WEEK 1 — THE PLACE WE LIVE, AND THE WEATHER THAT CHANGES](#week-1-the-place-we-live-and-the-weather-that-changes) · 72
-  - [WEEK 2 — THE ANIMALS THAT LIVE BY THEMSELVES](#week-2-the-animals-that-live-by-themselves) · 73
-  - [WEEK 3 — THE MONEY WE USE IN NIGERIA](#week-3-the-money-we-use-in-nigeria) · 74
-  - [WEEK 4 — SPENDING WISELY AND SAVING A PART](#week-4-spending-wisely-and-saving-a-part) · 75
-  - [WEEK 5 — BEING A GOOD CITIZEN](#week-5-being-a-good-citizen) · 76
-  - [WEEK 6 — OUR COMMUNITY: THE TOWN AND THE VILLAGE](#week-6-our-community-the-town-and-the-village) · 77
-  - [WEEK 8 — THE LEADERS IN OUR COMMUNITY](#week-8-the-leaders-in-our-community) · 78
-  - [WEEK 9 — THE BIG WORLD WE ARE ALL IN](#week-9-the-big-world-we-are-all-in) · 79
-- **[Yoruba](#yoruba)** · 82
-  - [WEEK 1 — Ede: Sise nnkan (ase oluko) / Asa: Itesiwaju ikini ni orisirisi akoko / Litireso: Orin ere idaraya](#week-1-ede-sise-nnkan-ase-oluko-asa-itesiwaju-ikini-ni-orisirisi-akoko-litireso-orin-ere-idaraya) · 82
-  - [WEEK 2 — Ede: Siso oro onileta po (F+K+F) / Asa: Orisirisi eso ile wa / Litireso: Alo apamo ati alo apagbe](#week-2-ede-siso-oro-onileta-po-fkf-asa-orisirisi-eso-ile-wa-litireso-alo-apamo-ati-alo-apagbe) · 83
-  - [WEEK 3 — Ede: Isorongbesi laarin oluko ati akekoo / Asa: Imototo: ara fifo, enu fifo / Litireso: Orin kiko](#week-3-ede-isorongbesi-laarin-oluko-ati-akekoo-asa-imototo-ara-fifo-enu-fifo-litireso-orin-kiko) · 84
-  - [WEEK 4 — Ede: Onka 21-40 (aropo ati ayokuro) / Asa: Ojo inu ose (itan ojo kookan) / Litireso: Ewi kika](#week-4-ede-onka-21-40-aropo-ati-ayokuro-asa-ojo-inu-ose-itan-ojo-kookan-litireso-ewi-kika) · 85
-  - [WEEK 5 — Ede: Awon awo olorisirisi / Asa: Iwa rere ati iwa ti ko to / Litireso: Ewi: Ise ni oogun ise](#week-5-ede-awon-awo-olorisirisi-asa-iwa-rere-ati-iwa-ti-ko-to-litireso-ewi-ise-ni-oogun-ise) · 86
-  - [WEEK 6 — Ede: Apeko (gbo, ko sile) / Asa: Ojuse ebi: egbon ati aburo / Litireso: Orin iwa (Kini n o fi ole se)](#week-6-ede-apeko-gbo-ko-sile-asa-ojuse-ebi-egbon-ati-aburo-litireso-orin-iwa-kini-n-o-fi-ole-se) · 88
-  - [WEEK 8 — Ede: Akosoro (ka, pe iro, fa koko yo) / Asa: Oge sise ni ile Yoruba / Litireso: Orin kiko (Ori ewe ma paya)](#week-8-ede-akosoro-ka-pe-iro-fa-koko-yo-asa-oge-sise-ni-ile-yoruba-litireso-orin-kiko-ori-ewe-ma-paya) · 89
-  - [WEEK 9 — Ede: Didaruko eya ara / Asa: Oba alade ni ile Yoruba / Litireso: Aroso lori eye](#week-9-ede-didaruko-eya-ara-asa-oba-alade-ni-ile-yoruba-litireso-aroso-lori-eye) · 90
-  - [WEEK 11 — Exam Preparation](#week-11-exam-preparation) · 91
-- **[Mathematics & English](#mathematics-english)** · 93
-  - [WEEK 1 — THE PATTERNS WE ALREADY KNOW: BLENDS, DIGRAPHS, THREE-LETTER SOUNDS](#week-1-the-patterns-we-already-know-blends-digraphs-three-letter-sounds) · 93
-  - [WEEK 2 — NAMING WORDS: THE WORDS THAT CALL THINGS BY NAME](#week-2-naming-words-the-words-that-call-things-by-name) · 94
-  - [WEEK 3 — DOING WORDS: THE WORDS THAT MOVE THE LINE](#week-3-doing-words-the-words-that-move-the-line) · 95
-  - [WEEK 4 — A NAMING WORD AND A DOING WORD MAKE A SENTENCE](#week-4-a-naming-word-and-a-doing-word-make-a-sentence) · 96
-  - [WEEK 5 — LONGER LINES: WHO DOES WHAT, AND WHY](#week-5-longer-lines-who-does-what-and-why) · 98
-  - [WEEK 6 — READING ON OUR OWN, AND SAYING WHAT WE HEARD](#week-6-reading-on-our-own-and-saying-what-we-heard) · 99
-  - [WEEK 8 — WRITING A STORY OF OUR OWN, AND THE WORDS THAT START ONE](#week-8-writing-a-story-of-our-own-and-the-words-that-start-one) · 100
-  - [WEEK 9 — THE WHOLE OF IT ON ONE PAGE](#week-9-the-whole-of-it-on-one-page) · 101
-  - [WEEK 1 — THE WORDS WE KNOW AND THE SENTENCES WE BUILD](#week-1-the-words-we-know-and-the-sentences-we-build) · 103
-  - [WEEK 2 — FIVE-LETTER WORDS AND WORDS LONGER STILL](#week-2-five-letter-words-and-words-longer-still) · 104
-  - [WEEK 3 — TWO WORDS JOINED: COMPOUND WORDS](#week-3-two-words-joined-compound-words) · 105
-  - [WEEK 4 — READING A STORY AND SAYING WHAT YOU HEARD](#week-4-reading-a-story-and-saying-what-you-heard) · 106
-  - [WEEK 5 — WORDS THAT TELL US WHAT A THING IS LIKE](#week-5-words-that-tell-us-what-a-thing-is-like) · 107
-  - [WEEK 6 — ACTION WORDS: THE WORDS THAT MOVE](#week-6-action-words-the-words-that-move) · 108
-  - [WEEK 8 — WRITING A STORY OF OUR OWN](#week-8-writing-a-story-of-our-own) · 109
-  - [WEEK 9 — THE MARKS THAT HELP A READER](#week-9-the-marks-that-help-a-reader) · 111
-  - [WEEK 1 — HALVES AND QUARTERS](#week-1-halves-and-quarters) · 112
-  - [WEEK 2 — LENGTH: HOW LONG IS IT?](#week-2-length-how-long-is-it) · 113
-  - [WEEK 3 — WEIGHT: HEAVY AND LIGHT](#week-3-weight-heavy-and-light) · 114
-  - [WEEK 4 — TIME: THE DAY, THE WEEK AND THE CLOCK](#week-4-time-the-day-the-week-and-the-clock) · 115
-  - [WEEK 5 — SHAPES YOU CAN HOLD: THREE-DIMENSIONAL SHAPES](#week-5-shapes-you-can-hold-three-dimensional-shapes) · 117
-  - [WEEK 6 — FLAT SHAPES: TWO-DIMENSIONAL SHAPES](#week-6-flat-shapes-two-dimensional-shapes) · 118
-  - [WEEK 8 — SHAPES THAT GO ON AND ON: PATTERNS AND SYMMETRY](#week-8-shapes-that-go-on-and-on-patterns-and-symmetry) · 119
-  - [WEEK 9 — COUNTING WHAT THE CLASS SAID: GATHERING INFORMATION](#week-9-counting-what-the-class-said-gathering-information) · 120
-- **[General Knowledge](#general-knowledge)** · 123
-  - [WEEK 1 — MY STATE AND MY TOWN](#week-1-my-state-and-my-town) · 123
-  - [WEEK 2 — WATER AND AIR: WHY THEY MATTER](#week-2-water-and-air-why-they-matter) · 124
-  - [WEEK 3 — THE SKY: SUN, MOON, STARS, DAY AND NIGHT](#week-3-the-sky-sun-moon-stars-day-and-night) · 125
-  - [WEEK 4 — SIMPLE MACHINES AND TOOLS AROUND ME](#week-4-simple-machines-and-tools-around-me) · 125
-  - [WEEK 5 — WE ARE ONE NIGERIA: BIG FAMILY, MANY PEOPLE](#week-5-we-are-one-nigeria-big-family-many-people) · 126
-  - [WEEK 6 — COUNTING, SORTING AND EVERYDAY KNOWLEDGE](#week-6-counting-sorting-and-everyday-knowledge) · 127
-  - [WEEK 8 — PEOPLE WHO DID GREAT THINGS](#week-8-people-who-did-great-things) · 128
-  - [WEEK 9 — END-OF-YEAR QUIZ GAMES AND SHOW AND TELL](#week-9-end-of-year-quiz-games-and-show-and-tell) · 129
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · 3rd Term)](#examination-practice-basic-science-nursery-2-3rd-term)** · 131
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 3rd Term)](#examination-practice-cultural-and-creative-arts-nursery-2-3rd-term)** · 133
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 3rd Term)](#examination-practice-christian-religious-studies-nursery-2-3rd-term)** · 135
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 3rd Term)](#examination-practice-basic-digital-literacy-nursery-2-3rd-term)** · 137
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Nursery 2 · 3rd Term)](#examination-practice-nigerian-history-nursery-2-3rd-term)** · 139
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 3rd Term)](#examination-practice-physical-and-health-education-nursery-2-3rd-term)** · 141
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 3rd Term)](#examination-practice-prevocational-studies-nursery-2-3rd-term)** · 143
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 3rd Term)](#examination-practice-social-and-citizenship-studies-nursery-2-3rd-term)** · 145
-- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 3rd Term)](#examination-practice-yoruba-nursery-2-3rd-term)** · 147
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 3rd Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-3rd-term)** · 149
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 3rd Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-3rd-term)** · 151
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 3rd Term)](#examination-practice-mathematics-english-numeracy-nursery-2-3rd-term)** · 153
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Nursery 2 · 3rd Term)](#examination-practice-general-knowledge-nursery-2-3rd-term)** · 155
+  - [WEEK 9 — DECORATION: MAKING PLAIN THINGS BEAUTIFUL](#week-9-decoration-making-plain-things-beautiful) · 20
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 22
+  - [WEEK 1 — JESUS CHRIST OUR SAVIOUR](#week-1-jesus-christ-our-saviour) · 22
+  - [WEEK 2 — JESUS CALLS US FRIENDS, BROTHERS AND SISTERS](#week-2-jesus-calls-us-friends-brothers-and-sisters) · 23
+  - [WEEK 3 — JESUS COMMANDS US TO LOVE](#week-3-jesus-commands-us-to-love) · 24
+  - [WEEK 4 — JESUS WANTS US TO OBEY GOD'S COMMANDMENTS](#week-4-jesus-wants-us-to-obey-gods-commandments) · 25
+  - [WEEK 5 — THE MEANING OF PRAYER](#week-5-the-meaning-of-prayer) · 26
+  - [WEEK 6 — WHEN TO PRAY](#week-6-when-to-pray) · 27
+  - [WEEK 8 — HOW TO PRAY](#week-8-how-to-pray) · 28
+  - [WEEK 9 — PRAYING EVERY DAY](#week-9-praying-every-day) · 29
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 31
+  - [WEEK 1 — HEADPHONES, AND HOW WE CARE FOR A MACHINE](#week-1-headphones-and-how-we-care-for-a-machine) · 31
+  - [WEEK 2 — THE CPU: THE PART THAT THINKS](#week-2-the-cpu-the-part-that-thinks) · 32
+  - [WEEK 3 — RAM: THE MEMORY THAT HOLDS THINGS A LITTLE WHILE](#week-3-ram-the-memory-that-holds-things-a-little-while) · 33
+  - [WEEK 4 — THE HARD DRIVE: THE BOX THAT KEEPS OUR WORK](#week-4-the-hard-drive-the-box-that-keeps-our-work) · 34
+  - [WEEK 5 — THE MOTHERBOARD: THE FLOOR EVERY PART SITS ON](#week-5-the-motherboard-the-floor-every-part-sits-on) · 35
+  - [WEEK 6 — POWER SUPPLY: THE PART THAT BRINGS THE MACHINE TO LIFE](#week-6-power-supply-the-part-that-brings-the-machine-to-life) · 36
+  - [WEEK 8 — COOLING: HOW A MACHINE KEEPS FROM SWEATING](#week-8-cooling-how-a-machine-keeps-from-sweating) · 37
+  - [WEEK 9 — HOW THE PARTS WORK TOGETHER](#week-9-how-the-parts-work-together) · 38
+- **[Nigerian History](#nigerian-history)** · 40
+  - [WEEK 1 — TRADITIONAL RULERS IN OUR COMMUNITY](#week-1-traditional-rulers-in-our-community) · 40
+  - [WEEK 2 — EMIR, OBA, IGWE: DIFFERENT RULERS IN NIGERIA](#week-2-emir-oba-igwe-different-rulers-in-nigeria) · 41
+  - [WEEK 3 — TRADITIONAL TITLE HOLDERS](#week-3-traditional-title-holders) · 42
+  - [WEEK 4 — BAALE, IYALOJA, OTUNBA: THE WORK OF TITLES](#week-4-baale-iyaloja-otunba-the-work-of-titles) · 43
+  - [WEEK 5 — THE LOCAL GOVERNMENT AND ITS CHAIRPERSON](#week-5-the-local-government-and-its-chairperson) · 44
+  - [WEEK 6 — WHAT A GOOD CHAIRMAN DOES](#week-6-what-a-good-chairman-does) · 45
+  - [WEEK 8 — WHAT MAKES A GOOD LEADER](#week-8-what-makes-a-good-leader) · 46
+  - [WEEK 9 — LEADERSHIP IN MY OWN DAY](#week-9-leadership-in-my-own-day) · 47
+- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 49
+  - [WEEK 1 — PLACES WE PLAY AND THINGS WE PLAY WITH](#week-1-places-we-play-and-things-we-play-with) · 49
+  - [WEEK 2 — FOOTBALL: KICK IT, KEEP IT, SCORE IT](#week-2-football-kick-it-keep-it-score-it) · 50
+  - [WEEK 3 — BASKETBALL: BOUNCE IT AND THROW IT IN](#week-3-basketball-bounce-it-and-throw-it-in) · 51
+  - [WEEK 4 — TABLE TENNIS: THE BALL THAT MUST NOT DROP](#week-4-table-tennis-the-ball-that-must-not-drop) · 52
+  - [WEEK 5 — CHESS: THE GAME PLAYED WITH THE HEAD](#week-5-chess-the-game-played-with-the-head) · 53
+  - [WEEK 6 — VIDEO GAMES: FUN IN LIMITS](#week-6-video-games-fun-in-limits) · 54
+  - [WEEK 8 — MOVING OUR BODY PARTS](#week-8-moving-our-body-parts) · 55
+  - [WEEK 9 — MOVING WELL IN EVERYDAY WORK](#week-9-moving-well-in-everyday-work) · 56
+- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 58
+  - [WEEK 1 — THE TOOLS WE WORK WITH, AND WHERE THEY REST](#week-1-the-tools-we-work-with-and-where-they-rest) · 58
+  - [WEEK 2 — WHAT WE MEAN BY SAFETY](#week-2-what-we-mean-by-safety) · 59
+  - [WEEK 3 — WHY SAFETY MATTERS SO MUCH](#week-3-why-safety-matters-so-much) · 60
+  - [WEEK 4 — WHAT HAPPENS WHEN A TOOL IS MISUSED](#week-4-what-happens-when-a-tool-is-misused) · 61
+  - [WEEK 5 — THE KITCHEN, AND WHY A GROWN-UP IS NEEDED](#week-5-the-kitchen-and-why-a-grown-up-is-needed) · 62
+  - [WEEK 6 — THE RULES WE KEEP WHEN TOOLS ARE ABOUT](#week-6-the-rules-we-keep-when-tools-are-about) · 63
+  - [WEEK 8 — CLOTHES AND THINGS THAT PROTECT THE BODY](#week-8-clothes-and-things-that-protect-the-body) · 64
+  - [WEEK 9 — PUTTING THINGS AWAY, TELLING WHAT IS BROKEN, AND FIRST AID](#week-9-putting-things-away-telling-what-is-broken-and-first-aid) · 65
+- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 67
+  - [WEEK 1 — THE PLACE WE LIVE, AND THE WEATHER THAT CHANGES](#week-1-the-place-we-live-and-the-weather-that-changes) · 67
+  - [WEEK 2 — THE ANIMALS THAT LIVE BY THEMSELVES](#week-2-the-animals-that-live-by-themselves) · 68
+  - [WEEK 3 — THE MONEY WE USE IN NIGERIA](#week-3-the-money-we-use-in-nigeria) · 69
+  - [WEEK 4 — SPENDING WISELY AND SAVING A PART](#week-4-spending-wisely-and-saving-a-part) · 70
+  - [WEEK 5 — BEING A GOOD CITIZEN](#week-5-being-a-good-citizen) · 71
+  - [WEEK 6 — OUR COMMUNITY: THE TOWN AND THE VILLAGE](#week-6-our-community-the-town-and-the-village) · 72
+  - [WEEK 8 — THE LEADERS IN OUR COMMUNITY](#week-8-the-leaders-in-our-community) · 73
+  - [WEEK 9 — THE BIG WORLD WE ARE ALL IN](#week-9-the-big-world-we-are-all-in) · 74
+- **[Yoruba](#yoruba)** · 76
+  - [WEEK 1 — Ede: Sise nnkan (ase oluko) / Asa: Itesiwaju ikini ni orisirisi akoko / Litireso: Orin ere idaraya](#week-1-ede-sise-nnkan-ase-oluko-asa-itesiwaju-ikini-ni-orisirisi-akoko-litireso-orin-ere-idaraya) · 76
+  - [WEEK 2 — Ede: Siso oro onileta po (F+K+F) / Asa: Orisirisi eso ile wa / Litireso: Alo apamo ati alo apagbe](#week-2-ede-siso-oro-onileta-po-fkf-asa-orisirisi-eso-ile-wa-litireso-alo-apamo-ati-alo-apagbe) · 77
+  - [WEEK 3 — Ede: Isorongbesi laarin oluko ati akekoo / Asa: Imototo: ara fifo, enu fifo / Litireso: Orin kiko](#week-3-ede-isorongbesi-laarin-oluko-ati-akekoo-asa-imototo-ara-fifo-enu-fifo-litireso-orin-kiko) · 78
+  - [WEEK 4 — Ede: Onka 21-40 (aropo ati ayokuro) / Asa: Ojo inu ose (itan ojo kookan) / Litireso: Ewi kika](#week-4-ede-onka-21-40-aropo-ati-ayokuro-asa-ojo-inu-ose-itan-ojo-kookan-litireso-ewi-kika) · 79
+  - [WEEK 5 — Ede: Awon awo olorisirisi / Asa: Iwa rere ati iwa ti ko to / Litireso: Ewi: Ise ni oogun ise](#week-5-ede-awon-awo-olorisirisi-asa-iwa-rere-ati-iwa-ti-ko-to-litireso-ewi-ise-ni-oogun-ise) · 80
+  - [WEEK 6 — Ede: Apeko (gbo, ko sile) / Asa: Ojuse ebi: egbon ati aburo / Litireso: Orin iwa (Kini n o fi ole se)](#week-6-ede-apeko-gbo-ko-sile-asa-ojuse-ebi-egbon-ati-aburo-litireso-orin-iwa-kini-n-o-fi-ole-se) · 81
+  - [WEEK 8 — Ede: Akosoro (ka, pe iro, fa koko yo) / Asa: Oge sise ni ile Yoruba / Litireso: Orin kiko (Ori ewe ma paya)](#week-8-ede-akosoro-ka-pe-iro-fa-koko-yo-asa-oge-sise-ni-ile-yoruba-litireso-orin-kiko-ori-ewe-ma-paya) · 82
+  - [WEEK 9 — Ede: Didaruko eya ara / Asa: Oba alade ni ile Yoruba / Litireso: Aroso lori eye](#week-9-ede-didaruko-eya-ara-asa-oba-alade-ni-ile-yoruba-litireso-aroso-lori-eye) · 83
+  - [WEEK 11 — Exam Preparation](#week-11-exam-preparation) · 85
+- **[Mathematics & English](#mathematics-english)** · 87
+  - [WEEK 1 — THE PATTERNS WE ALREADY KNOW: BLENDS, DIGRAPHS, THREE-LETTER SOUNDS](#week-1-the-patterns-we-already-know-blends-digraphs-three-letter-sounds) · 87
+  - [WEEK 2 — NAMING WORDS: THE WORDS THAT CALL THINGS BY NAME](#week-2-naming-words-the-words-that-call-things-by-name) · 88
+  - [WEEK 3 — DOING WORDS: THE WORDS THAT MOVE THE LINE](#week-3-doing-words-the-words-that-move-the-line) · 89
+  - [WEEK 4 — A NAMING WORD AND A DOING WORD MAKE A SENTENCE](#week-4-a-naming-word-and-a-doing-word-make-a-sentence) · 90
+  - [WEEK 5 — LONGER LINES: WHO DOES WHAT, AND WHY](#week-5-longer-lines-who-does-what-and-why) · 91
+  - [WEEK 6 — READING ON OUR OWN, AND SAYING WHAT WE HEARD](#week-6-reading-on-our-own-and-saying-what-we-heard) · 93
+  - [WEEK 8 — WRITING A STORY OF OUR OWN, AND THE WORDS THAT START ONE](#week-8-writing-a-story-of-our-own-and-the-words-that-start-one) · 94
+  - [WEEK 9 — THE WHOLE OF IT ON ONE PAGE](#week-9-the-whole-of-it-on-one-page) · 95
+  - [WEEK 1 — THE WORDS WE KNOW AND THE SENTENCES WE BUILD](#week-1-the-words-we-know-and-the-sentences-we-build) · 96
+  - [WEEK 2 — FIVE-LETTER WORDS AND WORDS LONGER STILL](#week-2-five-letter-words-and-words-longer-still) · 97
+  - [WEEK 3 — TWO WORDS JOINED: COMPOUND WORDS](#week-3-two-words-joined-compound-words) · 98
+  - [WEEK 4 — READING A STORY AND SAYING WHAT YOU HEARD](#week-4-reading-a-story-and-saying-what-you-heard) · 99
+  - [WEEK 5 — WORDS THAT TELL US WHAT A THING IS LIKE](#week-5-words-that-tell-us-what-a-thing-is-like) · 100
+  - [WEEK 6 — ACTION WORDS: THE WORDS THAT MOVE](#week-6-action-words-the-words-that-move) · 101
+  - [WEEK 8 — WRITING A STORY OF OUR OWN](#week-8-writing-a-story-of-our-own) · 102
+  - [WEEK 9 — THE MARKS THAT HELP A READER](#week-9-the-marks-that-help-a-reader) · 103
+  - [WEEK 1 — HALVES AND QUARTERS](#week-1-halves-and-quarters) · 104
+  - [WEEK 2 — LENGTH: HOW LONG IS IT?](#week-2-length-how-long-is-it) · 105
+  - [WEEK 3 — WEIGHT: HEAVY AND LIGHT](#week-3-weight-heavy-and-light) · 106
+  - [WEEK 4 — TIME: THE DAY, THE WEEK AND THE CLOCK](#week-4-time-the-day-the-week-and-the-clock) · 108
+  - [WEEK 5 — SHAPES YOU CAN HOLD: THREE-DIMENSIONAL SHAPES](#week-5-shapes-you-can-hold-three-dimensional-shapes) · 109
+  - [WEEK 6 — FLAT SHAPES: TWO-DIMENSIONAL SHAPES](#week-6-flat-shapes-two-dimensional-shapes) · 110
+  - [WEEK 8 — SHAPES THAT GO ON AND ON: PATTERNS AND SYMMETRY](#week-8-shapes-that-go-on-and-on-patterns-and-symmetry) · 111
+  - [WEEK 9 — COUNTING WHAT THE CLASS SAID: GATHERING INFORMATION](#week-9-counting-what-the-class-said-gathering-information) · 112
+- **[General Knowledge](#general-knowledge)** · 114
+  - [WEEK 1 — MY STATE AND MY TOWN](#week-1-my-state-and-my-town) · 114
+  - [WEEK 2 — WATER AND AIR: WHY THEY MATTER](#week-2-water-and-air-why-they-matter) · 115
+  - [WEEK 3 — THE SKY: SUN, MOON, STARS, DAY AND NIGHT](#week-3-the-sky-sun-moon-stars-day-and-night) · 115
+  - [WEEK 4 — SIMPLE MACHINES AND TOOLS AROUND ME](#week-4-simple-machines-and-tools-around-me) · 116
+  - [WEEK 5 — WE ARE ONE NIGERIA: BIG FAMILY, MANY PEOPLE](#week-5-we-are-one-nigeria-big-family-many-people) · 117
+  - [WEEK 6 — COUNTING, SORTING AND EVERYDAY KNOWLEDGE](#week-6-counting-sorting-and-everyday-knowledge) · 118
+  - [WEEK 8 — PEOPLE WHO DID GREAT THINGS](#week-8-people-who-did-great-things) · 119
+  - [WEEK 9 — END-OF-YEAR QUIZ GAMES AND SHOW AND TELL](#week-9-end-of-year-quiz-games-and-show-and-tell) · 120
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Nursery 2 · 3rd Term)](#examination-practice-basic-science-nursery-2-3rd-term)** · 122
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Nursery 2 · 3rd Term)](#examination-practice-cultural-and-creative-arts-nursery-2-3rd-term)** · 124
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Nursery 2 · 3rd Term)](#examination-practice-christian-religious-studies-nursery-2-3rd-term)** · 126
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Nursery 2 · 3rd Term)](#examination-practice-basic-digital-literacy-nursery-2-3rd-term)** · 128
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Nursery 2 · 3rd Term)](#examination-practice-nigerian-history-nursery-2-3rd-term)** · 130
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Nursery 2 · 3rd Term)](#examination-practice-physical-and-health-education-nursery-2-3rd-term)** · 132
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Nursery 2 · 3rd Term)](#examination-practice-prevocational-studies-nursery-2-3rd-term)** · 134
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Nursery 2 · 3rd Term)](#examination-practice-social-and-citizenship-studies-nursery-2-3rd-term)** · 136
+- **[EXAMINATION PRACTICE — YORUBA (Nursery 2 · 3rd Term)](#examination-practice-yoruba-nursery-2-3rd-term)** · 138
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LANGUAGE DOMAIN) (Nursery 2 · 3rd Term)](#examination-practice-mathematics-english-literacy-language-domain-nursery-2-3rd-term)** · 140
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · LITERACY (LETTER WORK) (Nursery 2 · 3rd Term)](#examination-practice-mathematics-english-literacy-letter-work-nursery-2-3rd-term)** · 142
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · NUMERACY (Nursery 2 · 3rd Term)](#examination-practice-mathematics-english-numeracy-nursery-2-3rd-term)** · 144
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Nursery 2 · 3rd Term)](#examination-practice-general-knowledge-nursery-2-3rd-term)** · 146
 
 
 
@@ -160,14 +160,7 @@ exploring the environment is taken from Primary 1 Basic Science, First Term W1�
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W2 (pp 497–502).*
 
-**You will learn to**
-
-• say why we keep water in a covered container
-• name the containers we store water in at home
-• tell how to keep stored water clean
-• wash a container before I use it
-
-**Things to know**
+**Main content**
 
 • **Water keeps best** in a container that is **clean** and has a **lid**.
 • A lid keeps out **dirt**, **dust**, **flies** and **small insects** that want to fall in.
@@ -217,14 +210,7 @@ Draw the water container in your house with its lid on, then colour the lid the 
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W3 (pp 497–502).*
 
-**You will learn to**
-
-• say what a water-borne disease is
-• name diseases that come from dirty water
-• tell how dirty water makes us sick
-• say how to stop these sicknesses
-
-**Things to know**
+**Main content**
 
 • A **water-borne disease** is a sickness that comes to us from **dirty water** or from water with
   germs in it.
@@ -275,14 +261,7 @@ Draw a glass of clean covered water and a glass with dirt in it, then colour onl
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W4 (pp 497–502).*
 
-**You will learn to**
-
-• say what security means
-• name gadgets that keep people and things safe
-• tell what each gadget does
-• do the right thing when an alarm sounds
-
-**Things to know**
+**Main content**
 
 • **Security** means keeping **people** and **property** safe from thieves, fire and danger.
 • A **security gadget** is a machine or a tool that helps people stay safe.
@@ -331,14 +310,7 @@ Draw the gate of your house with its lock, then colour the gate and draw the key
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W7 (pp 497–502).*
 
-**You will learn to**
-
-• say that animals live in different places
-• name the home of an animal
-• tell a wild home from a home made by people
-• say why an animal needs a home
-
-**Things to know**
+**Main content**
 
 • Every animal has a **home** where it **sleeps, hides its young ones and stays safe**.
 • Names we must know: **dog → kennel**, **chicken → coop**, **cow → shed or barn**, **horse → stable**,
@@ -390,14 +362,7 @@ Draw six animals and their homes on one page, join each animal to its home with 
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W8 (pp 497–502).*
 
-**You will learn to**
-
-• say that animals have young ones
-• name the young one of an animal
-• tell how a parent animal cares for its young
-• match an animal to its young one
-
-**Things to know**
+**Main content**
 
 • A **young one** is the baby of an animal; most young ones **look like their parents**, only smaller.
 • The names we must know: **dog → puppy**, **cat → kitten**, **cow → calf**, **horse → foal**,
@@ -450,14 +415,7 @@ pair on one line of your book.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W9 (pp 497–502).*
 
-**You will learn to**
-
-• say what a machine is
-• name the simple machines used at home
-• tell the work each one does
-• handle a sharp tool safely
-
-**Things to know**
+**Main content**
 
 • A **machine** is anything people make that **makes work easier, faster or better**.
 • A **simple machine** has few parts and is moved by my own strength.
@@ -511,14 +469,7 @@ Draw four tools from your home in a row and colour the two that a child may hold
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W10 (pp 497–502).*
 
-**You will learn to**
-
-• name the simple machines we use in school
-• tell what each one does for me
-• use a sharp machine safely in class
-• keep a school tool in good order
-
-**Things to know**
+**Main content**
 
 • A **pencil sharpener** cuts the wood away so the lead comes out to a point; turn the pencil, not the
   blade.
@@ -571,14 +522,7 @@ Trace the straight edge of your ruler five times to make five lines, then colour
 *Depth: NERDC Primary 1 · Basic Science · First Term W1–2 (pp 624–625), the year's ending look at the
 child's own surroundings.*
 
-**You will learn to**
-
-• say what my environment means
-• name things I see, hear and smell around me
-• describe my classroom, my compound and my street
-• keep the place where I live clean
-
-**Things to know**
+**Main content**
 
 • My **environment** is **everything around me**: the room I sit in, the compound, the street, the
   market, the church or mosque, the stream, the trees and the people.
@@ -644,14 +588,7 @@ Creative Arts · First Term, pp 662–663 (taken two terms ahead, as the pack di
 
 *Depth: NERDC Nursery 3 · Creativity · Third Term W9 (pp 572–575).*
 
-**You will learn to**
-
-• say what a card is used for
-• name four kinds of card
-• fold a paper into a card
-• write or copy a short message inside a card
-
-**Things to know**
+**Main content**
 
 • A **card** is a small piece of stiff paper we **fold** and give to somebody to carry a **message**.
 • A card says what the mouth finds hard to say: **thank you**, **I am sorry**, **well done**, **get
@@ -702,14 +639,7 @@ Fold a paper, draw a cake on the front and copy "Happy birthday" inside it.
 
 *Depth: NERDC Nursery 3 · Creativity · Third Term W10 (pp 572–575).*
 
-**You will learn to**
-
-• splash colour on paper with a brush
-• control where the splash falls
-• stick feathers flat on paper
-• name a picture made with feathers
-
-**Things to know**
+**Main content**
 
 • **Splash art** is colour thrown from a **wet brush** onto paper; the drops make marks no hand could draw.
 • To splash, hold the brush **over** the paper and tap it gently with a finger — never at your neighbour.
@@ -757,14 +687,7 @@ Splash colour on one half of a paper, then paste three feathers on the other hal
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W1 (pp 662–663).*
 
-**You will learn to**
-
-• say what art is
-• name four kinds of art
-• name the materials we use for art
-• say how a picture can show a feeling
-
-**Things to know**
+**Main content**
 
 • **Art** is making something **beautiful** or something that **shows what we feel or think**.
 • Art is all around us: on **cloth**, on **walls**, on **pots**, on **doors**, on the **floor mats**.
@@ -812,14 +735,7 @@ Draw two faces on one paper — one happy, one sad — and colour the happy one 
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W2 (pp 662–663).*
 
-**You will learn to**
-
-• scribble all over a paper and then inside a boundary
-• draw straight, curved and zigzag lines
-• draw a circle, a square and a triangle
-• join dots to finish a picture
-
-**Things to know**
+**Main content**
 
 • **Scribbling** is the hand moving the pencil freely; it makes the hand strong for writing.
 • First we scribble **all over** the paper; then we scribble **only inside** a drawn ring.
@@ -866,14 +782,7 @@ Fill one paper with scribble, then draw a big circle, a square and a triangle in
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W3 (pp 662–663).*
 
-**You will learn to**
-
-• draw a big letter and colour its inside
-• decorate a letter with dots and lines
-• make a pattern using numbers
-• paste paper bits onto a letter
-
-**Things to know**
+**Main content**
 
 • A letter can be **art** as well as writing: we draw it **big** and leave it **hollow** to colour in.
 • To make a hollow letter, trace a big letter twice, once beside itself, then join the tops and the feet.
@@ -920,14 +829,7 @@ Draw the first letter of your name big and hollow, colour inside it, then put do
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W4 and W7 (pp 662–663).*
 
-**You will learn to**
-
-• name the three primary colours
-• name the three secondary colours
-• mix two colours to get a new one
-• point to colours in our surroundings
-
-**Things to know**
+**Main content**
 
 • A **colour** is what makes things look **red**, **blue**, **yellow** or **green** to the eye.
 • The **primary colours** are **red**, **blue** and **yellow**; no two colours can be mixed to make them.
@@ -975,14 +877,7 @@ Colour one leaf green, one orange and one purple, then draw a ring round each co
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W8 (pp 662–663).*
 
-**You will learn to**
-
-• say what a craft is
-• name three kinds of craft
-• fold paper into halves and quarters
-• carry and use scissors safely
-
-**Things to know**
+**Main content**
 
 • A **craft** is a thing we **make with our hands**, usually something we can use or wear.
 • Crafts we know in class: **paper craft**, **clay modelling** and **bead work**.
@@ -1033,14 +928,7 @@ Fold a paper into four quarters, cut one edge into fringes, then open it to see 
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W10 (pp 662–663).*
 
-**You will learn to**
-
-• say what decoration means
-• make a paper flower and a garland
-• draw a border pattern round a picture
-• make a decorated name tag
-
-**Things to know**
+**Main content**
 
 • **Decoration** means making a plain thing **beautiful** by adding colours, patterns or shapes to it.
 • We decorate the **classroom walls**, our **notice board**, our **books**, our **name tags** and the **corners** of a drawing.
@@ -1096,14 +984,7 @@ Week 12 Closing — those weeks carry no note.
 
 *Depth: NERDC Nursery 3 · CRS · Third Term (pp 576–578).*
 
-**You will learn to**
-
-• say what a saviour is
-• tell why Jesus came into the world
-• say what Jesus did for me on the cross
-• tell the Easter story in my own words
-
-**Things to know**
+**Main content**
 
 • A **saviour** is somebody who **saves** us or **rescues** us out of danger.
 • A **sin** is the wrong thing we do — **fighting**, **lying**, **stealing**, refusing to obey.
@@ -1151,14 +1032,7 @@ Draw three hills with a cross on the middle hill, then draw the sun rising behin
 
 *Depth: NERDC Nursery 3 · CRS · Third Term (pp 576–578).*
 
-**You will learn to**
-
-• say what Jesus calls us
-• tell who my brothers and sisters in God's family are
-• show a friend what love looks like
-• say how we prove that we are Jesus' friends
-
-**Things to know**
+**Main content**
 
 • Jesus said, "**You are My friends**" (John 15:15) — He did not call those who follow Him strangers.
 • A **friend** is one who stays near, tells the truth, shares and does not hurt you.
@@ -1205,14 +1079,7 @@ Draw four children holding hands in a ring, then draw a small lamb sitting insid
 
 *Depth: NERDC Nursery 3 · CRS · Third Term (pp 576–578).*
 
-**You will learn to**
-
-• say the greatest commandment of the law
-• tell who my neighbour is
-• show love to God in three ways
-• show love to people by what I do
-
-**Things to know**
+**Main content**
 
 • The **greatest commandment**: **love the Lord your God with all your heart** (Matthew 22:37).
 • The **second** is like it: **love your neighbour as yourself** (Matthew 22:39).
@@ -1260,14 +1127,7 @@ Draw a boy helping a small girl to stand up, then draw two children sharing one 
 
 *Depth: NERDC Primary 2 · CRS · First Term (pp 699–701), and Exodus 20 in child's words.*
 
-**You will learn to**
-
-• say what a commandment is
-• name five of God's rules for living
-• tell why we obey God
-• say who brought God's rules to the people
-
-**Things to know**
+**Main content**
 
 • **God's rules for living are called commandments** — they are not punishments, they are guidance.
 • God gave His rules through **Moses** on the mountain; they were written on **two tables of stone**.
@@ -1314,14 +1174,7 @@ Draw two plain stone tables standing side by side on a mountain, and a small boy
 
 *Depth: NERDC Primary 2 · CRS · First Term W1–2, prayer (pp 699–701).*
 
-**You will learn to**
-
-• say what prayer is
-• name four places I can pray
-• tell who listens when I pray
-• pray in two different ways
-
-**Things to know**
+**Main content**
 
 • **Prayer is talking to God** — with my mouth, or only in my heart where nobody can hear.
 • Prayer is like talking to a **father** or a **friend**: I say what I did, what I need and what I thank for.
@@ -1369,14 +1222,7 @@ Draw a girl kneeling beside her bed with her hands folded, and a bird sitting on
 
 *Depth: NERDC Primary 2 · CRS · First Term W3–4, when to pray (pp 699–701).*
 
-**You will learn to**
-
-• name the special times we pray every day
-• say what we ask God in the morning and at night
-• thank God before a meal
-• tell when else it is good to pray
-
-**Things to know**
+**Main content**
 
 • There is **no wrong time** to pray; we can pray any time we want.
 • In the **morning** we thank God for the night that kept us safe, and we ask for **protection** for the day.
@@ -1424,14 +1270,7 @@ Draw four small pictures in a row: the rising sun, a bowl of food, a school cap 
 
 *Depth: NERDC Primary 2 · CRS · First Term W1–2, how to pray (pp 699–701).*
 
-**You will learn to**
-
-• show three positions we can pray in
-• tell why we fold the hands
-• pray a short prayer with the class
-• say what Jesus did when He prayed
-
-**Things to know**
+**Main content**
 
 • We may pray **standing**, **sitting**, **kneeling** or simply with the **head bowed**.
 • **Kneeling and bowing the head** are ways of showing God honour, not rules that make the prayer work.
@@ -1479,14 +1318,7 @@ Draw three children praying: one standing, one kneeling with the head bowed, one
 
 *Depth: NERDC Primary 2 · CRS · First Term W3–4, keeping on in prayer (pp 699–701).*
 
-**You will learn to**
-
-• keep a daily order of prayer
-• use the pattern Jesus taught
-• pray for four kinds of people
-• tell how God speaks back to my prayer
-
-**Things to know**
+**Main content**
 
 • A **daily order** keeps prayer from being forgotten: **morning**, **before food**, **before school**, **bed**.
 • Jesus taught His friends a pattern: "**Our Father in heaven**, may Your name be honoured; give us our
@@ -1547,14 +1379,7 @@ how the parts work together), with the same pool of input and output devices acr
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W1.*
 
-**You will learn to**
-
-• say what headphones are for
-• wear headphones the right way
-• name two machines that use headphones
-• say three rules for caring for a computer
-
-**Things to know**
+**Main content**
 
 • **Headphones** are two small sound cups on a band; they put sound **into the ears** and nowhere else.
 • We use headphones to hear a story, a song or a lesson **without disturbing the rest of the class**.
@@ -1601,14 +1426,7 @@ Draw a pair of headphones with a band and two round cups, then draw a child wear
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W2.*
 
-**You will learn to**
-
-• say what the CPU is
-• tell what the CPU does for the whole machine
-• name the box where the CPU lives
-• say why we do not open the box
-
-**Things to know**
+**Main content**
 
 • The **CPU** is the part of the computer that **does the thinking**; it is like the **head** of a person.
 • When you press a key, the news runs to the **CPU**, and the CPU decides what the screen will show.
@@ -1655,14 +1473,7 @@ Draw a big box with a small square inside it and dots for the air holes, then dr
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W3.*
 
-**You will learn to**
-
-• say what RAM is for
-• tell how RAM is different from the hard drive
-• say what happens to RAM when power goes off
-• name one thing we do before we lose our work
-
-**Things to know**
+**Main content**
 
 • **RAM** is the computer's **short memory**; it holds what we are working on **just now**.
 • RAM is like **carrying things in both hands**: it is fast, but the hands can hold only so much.
@@ -1709,14 +1520,7 @@ Draw two hands carrying three blocks each, then draw an empty box beside them wi
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W4.*
 
-**You will learn to**
-
-• say what the hard drive keeps
-• tell where our picture and our song are kept
-• name one thing that hurts a hard drive
-• say the word for putting work back into the machine
-
-**Things to know**
+**Main content**
 
 • The **hard drive** is the computer's **keeping box**; what goes in there stays until we take it out.
 • Our **drawing**, our **song** and the **story we wrote** live in the hard drive.
@@ -1763,14 +1567,7 @@ Draw a box with a picture, a note and a song card inside it, then draw a small s
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W5.*
 
-**You will learn to**
-
-• say what a motherboard is
-• name three parts that sit on it
-• tell how parts pass news to one another
-• say why water is the enemy of a board
-
-**Things to know**
+**Main content**
 
 • The **motherboard** is the **big flat board** inside the box that **joins all the parts together**.
 • It is like the **floor of a house**: the CPU, the RAM and the hard drive all sit on it and are connected.
@@ -1817,14 +1614,7 @@ Draw a big flat square board, put three small boxes on it and join them with str
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W6.*
 
-**You will learn to**
-
-• say what a power supply does
-• name where the power for a machine comes from
-• tell how a machine keeps working when light goes off
-• say two safety rules about electricity
-
-**Things to know**
+**Main content**
 
 • The **power supply** is the part inside the box that **takes electricity in** and gives it to the other parts.
 • Without power the CPU cannot think, the screen cannot shine and the fan cannot turn.
@@ -1871,14 +1661,7 @@ Draw a wall socket with a plug in it, a cable running to a box, and a small swit
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W8.*
 
-**You will learn to**
-
-• say why a machine needs cooling
-• point to the places air goes in and out
-• tell where a machine must stand to stay cool
-• name one thing that stops a fan from turning
-
-**Things to know**
+**Main content**
 
 • A machine **works hard**, and hard work makes **heat** — the same way running makes your legs warm.
 • **Too much heat** will spoil the CPU, so the machine has a **cooling fan** inside it.
@@ -1925,14 +1708,7 @@ Draw a box with three lines of holes on one side and a round fan with four blade
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W9.*
 
-**You will learn to**
-
-• tell the story of a letter from the keyboard to the paper
-• name an input device and an output device
-• say what hardware and software mean
-• put three steps of computer work in order
-
-**Things to know**
+**Main content**
 
 • **Input** means things that send news **into** the machine: a **keyboard**, a **mouse**, a
   **microphone**, a **scanner** and a **webcam**.
@@ -1991,14 +1767,7 @@ Local Government Chairperson, and leadership qualities, from the pack's off-by-o
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W1.*
 
-**You will learn to**
-
-• say who a traditional ruler is
-• tell what a ruler does for the community
-• say why we respect the throne
-• name two things a ruler keeps safe for the people
-
-**Things to know**
+**Main content**
 
 • A **traditional ruler** is the head of the people in his area, chosen from the ruling house by the elders.
 • He is **not a man who was voted for** like the chairperson; his family has held the throne for a long time.
@@ -2045,14 +1814,7 @@ Draw a ruler on a stool holding a fly whisk, with two people standing on the oth
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W2.*
 
-**You will learn to**
-
-• name the ruler of the North, the West and the East
-• tell one thing each ruler is known by
-• say that Nigeria has many thrones, not one
-• point to where each ruler's people live
-
-**Things to know**
+**Main content**
 
 • In the **North**, the traditional ruler is called an **Emir**; he is known by his **turban** and his **horse**.
 • In the **Southwest**, the ruler is called an **Oba**; he is known by his **long coral beads** and his **crown**.
@@ -2100,14 +1862,7 @@ Draw three rulers standing side by side: one with a turban, one with a crown and
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W3.*
 
-**You will learn to**
-
-• say what a chief is
-• tell how a person is given a title
-• name two ways a title holder helps
-• say why a title is not a thing we buy
-
-**Things to know**
+**Main content**
 
 • A **title holder** is a man or a woman given an **honourary name** by the ruler, to help govern the people.
 • A **chief** is a title holder who **speaks for a group of families** and answers for them at the palace.
@@ -2154,14 +1909,7 @@ Draw a chief with a cap and a short staff standing in front of a palace door, an
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W4.*
 
-**You will learn to**
-
-• say what a Baale, an Iyaloja and an Otunba do
-• tell how each one helps the community
-• say why the ruler needs helpers
-• name one way each title keeps the town working
-
-**Things to know**
+**Main content**
 
 • The **Baale** is the **father of the compound or the village street**; he is the oldest and settles small quarrels.
 • The **Iyaloja** is the **mother of the market**; she keeps the stalls in order and settles traders' disputes.
@@ -2208,14 +1956,7 @@ Draw a market scene with a woman standing by a stall holding a fan, two children
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W5.*
 
-**You will learn to**
-
-• say what a Local Government is
-• name the head of a Local Government
-• tell how a chairperson comes to office
-• say why we count votes
-
-**Things to know**
+**Main content**
 
 • Nigeria is divided big: **the country**, then **36 states and the FCT**, then **774 Local Governments**.
 • A **Local Government** is the **nearest government to the people** — it is the one that touches your street.
@@ -2263,14 +2004,7 @@ Draw two lines of children in front of a school gate, then draw a table with a b
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W6.*
 
-**You will learn to**
-
-• name four services a chairman provides
-• tell the difference between a ruler and a chairman
-• say what makes a leader good
-• tell how a ruler and a chairman work together
-
-**Things to know**
+**Main content**
 
 • A chairman **builds and mends the roads**, so that our yam and palm oil can reach the town.
 • He **sees to the primary schools** — rooms, benches, books and the teacher's pay.
@@ -2318,14 +2052,7 @@ Draw a road with two holes in it, a man with a shovel mending it, and a boy carr
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W8.*
 
-**You will learn to**
-
-• name five qualities of a good leader
-• tell why a leader must listen
-• say what fairness looks like in my class
-• show responsibility with one small job
-
-**Things to know**
+**Main content**
 
 • A **leader** is anybody who **goes in front** — a ruler, a chairman, a monitor, a mother, the one holding the rope.
 • The first quality is **honesty**: a leader tells the truth even when the truth will bring him trouble.
@@ -2372,14 +2099,7 @@ Draw a monitor standing at the head of a line of four children, one hand up to k
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W9.*
 
-**You will learn to**
-
-• say what a class monitor does
-• tell how a leader leads by example
-• name three ways I can lead today
-• say how a leader shows respect to others
-
-**Things to know**
+**Main content**
 
 • A **class monitor** is a child chosen to **keep order**, to carry a note to the office and to stand at the head of the line.
 • A **prefect** does the same for the whole school; he is a leader **before he is a boss**.
@@ -2437,14 +2157,7 @@ motor-skills weeks for W8–W9.*
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W1 (pp 558–563).*
 
-**You will learn to**
-
-• say what a sport place is
-• name four places where sport is played
-• tell the difference between a facility and an equipment
-• say three things we do to care for the class equipment
-
-**Things to know**
+**Main content**
 
 • A **sport facility** is the **place or the building** where a game is played.
 • A **sport equipment** is the **thing you hold or wear** to play the game.
@@ -2493,14 +2206,7 @@ Draw a football field with two goals made of stones, and beside it a box holding
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W2 (pp 558–563).*
 
-**You will learn to**
-
-• pass a ball with the inside of the foot
-• dribble the ball close to your feet
-• shoot at a goal
-• name four things a football team wears
-
-**Things to know**
+**Main content**
 
 • Football is played with a **round ball** and **two teams**; the team that puts the ball in the goal wins.
 • **Passing** is kicking the ball to a mate; the **inside of the foot** is the truest pass a child can make.
@@ -2547,14 +2253,7 @@ Draw a boy kicking a ball with the inside of his foot towards two stones laid on
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W3 (pp 558–563).*
 
-**You will learn to**
-
-• bounce a ball on the spot with one hand
-• pass a ball from the chest with two hands
-• throw a ball towards a hoop
-• say one rule of basketball
-
-**Things to know**
+**Main content**
 
 • Basketball is played with a **big bouncy ball** and **two teams**; the ball is **thrown**, not kicked.
 • The hoop is **raised on a board**, and into it the ball must go to give a point to the team.
@@ -2602,14 +2301,7 @@ Draw a girl bouncing a big ball with one hand, and a hoop on a board above a low
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W4 (pp 558–563).*
 
-**You will learn to**
-
-• hold a bat the right way
-• serve so the ball bounces twice
-• hit the ball back over the net
-• name three things needed for the game
-
-**Things to know**
+**Main content**
 
 • Table tennis is **like tennis on a table**, and that is how it got its name.
 • It is played by **two children** or by **four**, two on each side of the net.
@@ -2658,14 +2350,7 @@ Draw a table with a low net across it, a ball above one half, and two children a
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W5 (pp 558–563).*
 
-**You will learn to**
-
-• say what chess is
-• point to the two colours on a board
-• name four chess men
-• say one thing chess teaches a child
-
-**Things to know**
+**Main content**
 
 • **Chess** is a **thinking game** for **two players**; nobody runs and nobody shouts.
 • It is played on a **checkered board** of **light and dark squares**, and each player takes the **light
@@ -2715,14 +2400,7 @@ Draw a board of sixteen squares, light and dark, with four big men standing on t
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W6 (pp 558–563).*
 
-**You will learn to**
-
-• say what a video game is
-• name two games a small child may play
-• say why play on a screen is limited
-• tell what must come before the screen
-
-**Things to know**
+**Main content**
 
 • A **video game** is a game played on an **electronic thing**: a computer, a tablet, a phone or a box joined
   to the television.
@@ -2774,14 +2452,7 @@ Draw a tablet lying on a table with two children running past it towards a footb
 
 *Depth: NERDC Primary 1 · PHE · motor skills, moving our body parts (part 1).*
 
-**You will learn to**
-
-• name ten parts of the body
-• move each part by itself
-• stretch the arms, the legs and the back
-• do the actions of a body song
-
-**Things to know**
+**Main content**
 
 • The parts we name: **head, neck, shoulders, chest, back, waist, arms, hands, fingers, legs, feet and toes**.
 • **Nodding** the head means yes; **shaking** it means no; both move the **neck**.
@@ -2828,14 +2499,7 @@ Draw a child with both arms stretched high above the head, feet flat on the grou
 
 *Depth: NERDC Primary 1 · PHE · motor skills, daily activity movements.*
 
-**You will learn to**
-
-• pick a thing up from the floor the right way
-• carry a light thing safely
-• push and pull without hurting the back
-• go up and down stairs well
-
-**Things to know**
+**Main content**
 
 • To pick up a thing from the floor, **bend the knees** and keep the back near straight — do not fold the back.
 • A thing is held **close to the body** when carrying; the further it is from you, the heavier it feels.
@@ -2892,14 +2556,7 @@ storage, and safety on the farm and in the kitchen, from the pack's off-by-one m
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W1.*
 
-**You will learn to**
-
-• name six common farm tools
-• say what each tool is used for
-• tell the difference between a spade and a hoe
-• say where tools rest when work is over
-
-**Things to know**
+**Main content**
 
 • A **spade** digs and lifts soil; a **hoe** opens the ground and clears small weeds; a **cutlass** cuts
   grass and stick.
@@ -2949,14 +2606,7 @@ Draw a wall with a rack on it, then draw a rake, a hoe, a watering can and a bas
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W2.*
 
-**You will learn to**
-
-• say what safety means
-• name three rules we keep on the farm
-• tell why the ground is cleared before work
-• say what we do with a thing that can hurt
-
-**Things to know**
+**Main content**
 
 • **Safety means keeping ourselves and other people from being hurt while we work or play.**
 • Safety is not a thing we wear once; it is the **way we do everything** — walking, carrying, putting down.
@@ -3004,14 +2654,7 @@ Draw two children in a garden, one carrying a small watering can with both hands
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W3.*
 
-**You will learn to**
-
-• say three good things that come from safe work
-• tell what one carelessness can cost
-• name the people who are hurt by our carelessness
-• say why a careful child is trusted with more
-
-**Things to know**
+**Main content**
 
 • Safe work **keeps the body whole** — eyes for reading, hands for holding, legs for running.
 • It **keeps the work going**: a farm with a hurt worker loses days, and a kitchen with a burnt pot loses a meal.
@@ -3057,14 +2700,7 @@ Draw a family working on a small farm plot: a grown-up with a hoe, a boy carryin
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W4.*
 
-**You will learn to**
-
-• name four dangers on a farm or in a home
-• tell what a cracked handle can do
-• say why a hole in the ground is marked
-• tell what we do with a tool that is broken
-
-**Things to know**
+**Main content**
 
 • A **cracked or loose handle** can slip off while the tool is swinging, and the blade goes where nobody
   meant it.
@@ -3115,14 +2751,7 @@ Draw a boy pointing at a hoe with a cracked handle lying on the ground, and besi
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W5.*
 
-**You will learn to**
-
-• say what a kitchen is for
-• name four dangers found in a kitchen
-• tell which jobs need a grown-up
-• say how a child can still help in the kitchen
-
-**Things to know**
+**Main content**
 
 • The **kitchen** is the room where food is kept, washed and **cooked**; it feeds the whole house.
 • Its dangers are quick: **fire, hot water, a hot pot, a sharp knife, a wet floor, and a covered pot that
@@ -3175,14 +2804,7 @@ Draw a woman lifting the lid of a pot on a fire with a cloth in her hand, a girl
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W6.*
 
-**You will learn to**
-
-• state five rules we keep with tools
-• show how a sharp tool is carried
-• say why we watch the space behind us
-• tell how tools are shared in a class
-
-**Things to know**
+**Main content**
 
 • **Never run with a tool**; walk, and keep the blade or the teeth **pointing down**.
 • **Never throw a tool** — even to a friend who is near; it is **put into the hand** and the hand is waited for.
@@ -3231,14 +2853,7 @@ Draw a man carrying a cutlass with its point down and a boy walking behind him w
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W8.*
 
-**You will learn to**
-
-• name four things worn to keep us safe at work
-• say what each one protects
-• tell when they must be worn
-• say how a child dresses for the farm
-
-**Things to know**
+**Main content**
 
 • The things we wear to keep the body safe are called **protective gear**: **gloves, boots, a hat and an
   overall** (the big loose cloth that covers the clothes).
@@ -3287,14 +2902,7 @@ Draw a peg on a wall with a hat, a pair of gloves, an overall and a pair of boot
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W9.*
 
-**You will learn to**
-
-• say how tools and chemicals are stored
-• tell who is told about a broken thing
-• give first aid for a small cut and for a burn
-• say what a store place must keep out
-
-**Things to know**
+**Main content**
 
 • A **store** is a dry place, off the ground, where tools, cans and baskets are kept **with the blade down**
   and the sharp edges in.
@@ -3359,14 +2967,7 @@ from the pack's off-by-one mapping.*
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W1.*
 
-**You will learn to**
-
-• keep the place where we live clean
-• put waste where it belongs and never throw it about
-• name the kinds of weather we know
-• say what we can do when the weather changes too much
-
-**Things to know**
+**Main content**
 
 • A **bin with a cover** is where paper, peels and wrappers go; the ground is not a bin.
 • A **wrapper or a tin left on the ground** is called litter; it makes the place ugly and it can cut a foot.
@@ -3415,14 +3016,7 @@ them; colour the leaves of the tree green.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W2.*
 
-**You will learn to**
-
-• say what wildlife means
-• name animals that live in our forests and grasslands
-• tell where each of them lives
-• say why we do not harm them
-
-**Things to know**
+**Main content**
 
 • **Wildlife** are the animals and birds that live in nature by themselves, in the bush, by the river and on
   the grassland.
@@ -3478,14 +3072,7 @@ flower; colour the leaves and do not hurt anything in the picture.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W3.*
 
-**You will learn to**
-
-• say what money is used for
-• name the money of Nigeria
-• tell a coin from a note
-• say why money has value
-
-**Things to know**
+**Main content**
 
 • **Money** is the thing we use to buy what we need: food, cloth, a pencil and a bus ride.
 • The money of **Nigeria is the naira**, and its mark is the letter **N with two strokes** through it.
@@ -3531,14 +3118,7 @@ and the coins gold.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W4.*
 
-**You will learn to**
-
-• name what money buys for a family
-• tell a need from a want
-• say where money for later is kept
-• say how we behave with money that is not ours
-
-**Things to know**
+**Main content**
 
 • Money buys **food, cloth and shoes**; it pays for **school**, for the **bus**, and now and then for a toy.
 • A **need** is a thing we must have — garri, oil, a uniform. A **want** is a thing that would be nice — a
@@ -3587,14 +3167,7 @@ basket on the ground beside them.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W5.*
 
-**You will learn to**
-
-• say what a citizen is
-• name the rights of a child
-• name the things we must do for others
-• say how a good citizen behaves every day
-
-**Things to know**
+**Main content**
 
 • A **citizen** is a person who belongs to a country; every child born in **Nigeria is a citizen of Nigeria**.
 • A good citizen is a **good person in the place where they live**: they greet, they keep the rules, they help.
@@ -3644,14 +3217,7 @@ has three tall strips of colour and nothing is written on it.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W6.*
 
-**You will learn to**
-
-• say what a community is
-• tell a town from a village
-• name things a village sends to a town
-• say what a community values
-
-**Things to know**
+**Main content**
 
 • A **community** is people living and working together in one place: the houses, the shops, the school, the
   market and the stream.
@@ -3704,14 +3270,7 @@ on the right with two houses and a farm, then draw the road that joins the two.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W8.*
 
-**You will learn to**
-
-• say what a leader does
-• name four kinds of leader we know
-• say the things a good leader is
-• name the ways a child may lead
-
-**Things to know**
+**Main content**
 
 • A **leader** is a person who guides people and **serves** them, not one who only shouts orders.
 • The qualities of a good leader are these: **honest, kind, fair, brave, helpful and a good listener**.
@@ -3765,14 +3324,7 @@ front of her, and a teacher standing at the side, listening.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W9.*
 
-**You will learn to**
-
-• say what we learn about in this subject
-• name the tongues and foods of our own land
-• say why we learn about other countries
-• name two ways we show that we are part of the world
-
-**Things to know**
+**Main content**
 
 • We learn about **people, places and how they live** — our family, our community, our country and the world.
 • Learning about others helps us **know ourselves better** and stops us laughing at what is different.
@@ -3840,13 +3392,7 @@ form, the answer and the meaning — it does not invent the rest.*
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W1.*
 
-**You will learn to**
-
-• do what you hear in Yoruba and say the action back
-• greet at the right time of the day and answer a greeting
-• sing a play song, move with it and stop when it stops
-
-**Things to know — Ẹ̀dẹ̀ (ṣíe nǹkan — the actions the teacher names)**
+**Main content — Ẹ̀dẹ̀ (ṣíe nǹkan — the actions the teacher names)**
 
 • A word that tells us to do a thing is a **command**: **ẹ dú!** (stand), **ẹ jó!** (sit down), **ẹ rìn!** (walk).
 • More commands we use in class every day: **ẹ ka** (read), **ẹ kọ́** (write), **ẹ wo** (look), **ẹ gbọ́** (listen), **ẹ dáhùn** (reply).
@@ -3858,7 +3404,7 @@ form, the answer and the meaning — it does not invent the rest.*
 • We answer in a whole line, not one word: **"Mo ń kà á."** (I am reading it), **"Mo ń kọ́ ọ́."** (I am writing it).
 • New words go in the notebook with the action drawn small beside each — a hand, a book, a foot.
 
-**Things to know — Àṣà (ìtẹ̀síwájú ìkíni — greetings at their times)**
+**Main content — Àṣà (ìtẹ̀síwájú ìkíni — greetings at their times)**
 
 • Morning: **"Ẹ káàárọ̀."** — the answer is **"Ẹ ṣe àárọ̀ rere."**
 • Afternoon: **"Ẹ ká ọ̀sán."** — the answer is **"Ẹ ṣe ọ̀sán rere."**
@@ -3869,7 +3415,7 @@ form, the answer and the meaning — it does not invent the rest.*
 • We greet the first person we meet in the morning, and we greet all of them in turn — nobody is skipped.
 • Time changes, the greeting changes; the respect stays the same.
 
-**Things to know — Lítíréṣọ̀ (orin eré ìdárayá — the play song)**
+**Main content — Lítíréṣọ̀ (orin eré ìdárayá — the play song)**
 
 • A play song is not sung sitting down: it carries the step, the clap and the turn.
 • The leader sings a line; the class **answers the same line back** — that is how a play song is built.
@@ -3909,13 +3455,7 @@ you like best.
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W2.*
 
-**You will learn to**
-
-• say a Yoruba word sound by sound and then say it at once
-• name the fruits our land carries and where they come from
-• tell an àlọ́ àpamọ́ from an àlọ́ àpàgbé
-
-**Things to know — Ẹ̀dẹ̀ (sọ̀rọ̀ onílétà pọ̀ — joining the letters)**
+**Main content — Ẹ̀dẹ̀ (sọ̀rọ̀ onílétà pọ̀ — joining the letters)**
 
 • A Yoruba syllable is short and clean: **à**, **kà**, **rà** — one vowel with one consonant, and the tone rides on it.
 • The school writes the drill **fawẹ̀lì + kọ́nsonantì + fawẹ̀lì**: a vowel, a consonant, a vowel — **ọ + kọ́ = ọkọ́**.
@@ -3926,7 +3466,7 @@ you like best.
 • We count the sounds on our fingers: **à-kà-rá** is three sounds, three fingers up.
 • Every day this week, one new word is joined on the board before we read it.
 
-**Things to know — Àṣà (oríṣiríṣi ẹsọ́ ilé wa — the fruits of our land)**
+**Main content — Àṣà (oríṣiríṣi ẹsọ́ ilé wa — the fruits of our land)**
 
 • **ọ̀gẹ̀dẹ̀** — banana · **áńbà** — mango · **ọ̀pẹ̀** — palm fruit · **bílíbilí** — watermelon · **àmùtì** — pineapple.
 • Ọ̀gẹ̀dẹ̀ and áńbà come from a tree in the compound; ọ̀pẹ̀ comes from the palm and bílíbilí from the ground.
@@ -3935,7 +3475,7 @@ you like best.
 • When a child picks a fruit from a neighbour's tree, he asks first; a Yoruba home shares what it has and gives the first of the season to an elder.
 • Fruits wash before they are eaten, and the peel goes into the bin, not on the path.
 
-**Things to know — Lítíréṣọ̀ (àlọ́ àpamọ́ àti àlọ́ àpàgbé)**
+**Main content — Lítíréṣọ̀ (àlọ́ àpamọ́ àti àlọ́ àpàgbé)**
 
 • An àlọ́ begins with a call and an answer: **"Àlọ́ o!"** — **"Àpamọ́!"**
 • **Àlọ́ àpamọ́** hides a lesson inside it; when it ends, the hearer can say what he learnt.
@@ -3975,13 +3515,7 @@ Write five joined words, and under each one draw the thing it names; colour the 
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W3.*
 
-**You will learn to**
-
-• ask the teacher a question and answer one in a full line
-• keep the body and the mouth clean at the two set times
-• sing a working song with the leader and the answer
-
-**Things to know — Ẹ̀dẹ̀ (íṣọ̀rọ̀ńbẹ̀sí — teacher and pupil talking)**
+**Main content — Ẹ̀dẹ̀ (íṣọ̀rọ̀ńbẹ̀sí — teacher and pupil talking)**
 
 • The pupil opens with respect: **"Báwo ni, olùkọ́?"** — the teacher: **"Ó dára, ọmọ mi."**
 • To ask for a thing: **"Ẹ jọ̀wọ́, fi ìwé sí mi."** — to be given: **"Ẹ ṣé, olùkọ́."**
@@ -3992,7 +3526,7 @@ Write five joined words, and under each one draw the thing it names; colour the 
 • At the end of the talk both say **"À ń ṣé."**
 • When **"Ẹ sí i"** (go on) is said, the next child speaks and the class listens to the end.
 
-**Things to know — Àṣà (ìmọ́tótó: ara fọ́, ẹnu fọ́)**
+**Main content — Àṣà (ìmọ́tótó: ara fọ́, ẹnu fọ́)**
 
 • The body is washed twice a day — **òwúrọ̀** before school and **ìṣẹ́** (evening) before rest.
 • Hands wash with soap before food and after the toilet; the nails are cut short, not bitten.
@@ -4001,7 +3535,7 @@ Write five joined words, and under each one draw the thing it names; colour the 
 • Feet wash and dry before the sandals go on; a wet shoe spoils and the foot itches.
 • Food is covered, the compound is swept, and the water in the bucket is for washing, not for drinking.
 
-**Things to know — Lítíréṣọ̀ (orin kíkó — the carrying song)**
+**Main content — Lítíréṣọ̀ (orin kíkó — the carrying song)**
 
 • A carrying song is sung when hands are busy: it keeps the step of the load and the step of the feet together.
 • One person **leads the line**, everybody else **carries the answer**: "ọ̀wọ́ ọ̀wọ́ — ẹẹ!"
@@ -4039,13 +3573,7 @@ Draw a cup, a brush and a bar of soap in three boxes on one page, and write one 
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W4.*
 
-**You will learn to**
-
-• count from twenty-one to forty in Yoruba
-• name the seven days and say the meaning one day carries
-• read a poem aloud with the voice up and the pause in
-
-**Things to know — Ẹ̀dẹ̀ (oníka 21–40 — àròpọ̀ àti àyọkúrò)**
+**Main content — Ẹ̀dẹ̀ (oníka 21–40 — àròpọ̀ àti àyọkúrò)**
 
 • Twenty is **ogún**; from there we keep adding with **àti**: **ogún àti ọ̀kan** (21), **ogún àti èjì** (22), **ogún àti ẹ̀ta** (23).
 • Thirty has its own name: **ọ̀rúnmọ́lẹ́dógún** — and it is ogún àti ẹ́wàá (20 + 10).
@@ -4056,7 +3584,7 @@ Draw a cup, a brush and a bar of soap in three boxes on one page, and write one 
 • Say the ladder out loud: 21, 22, 23 … 40; then come back down from 40 to 21 without falling.
 • The marks of the number are written small in the notebook: **ogún àti ẹ̀rin = 24**.
 
-**Things to know — Àṣà (ọjọ́ inú ọ̀ṣẹ́ — the story of each day)**
+**Main content — Àṣà (ọjọ́ inú ọ̀ṣẹ́ — the story of each day)**
 
 • **Ọjọ́ Àìkú** — Sunday: the day of thanks and rest; "àìkú" is not-dying, so we sing and we visit.
 • **Ọjọ́ Ayé** — Monday: the day the world opens; market, farm and school all begin again.
@@ -4067,7 +3595,7 @@ Draw a cup, a brush and a bar of soap in three boxes on one page, and write one 
 • **Ọjọ́ Àbámẹ́ta** — Saturday: the day we meet again — compound swept, hair combed, play allowed.
 • Seven days make one ọ̀ṣẹ́; the week has no day we sleep through.
 
-**Things to know — Lítíréṣọ̀ (èwì kíkà — reading a poem out)**
+**Main content — Lítíréṣọ̀ (èwì kíkà — reading a poem out)**
 
 • A poem is not read like a tale: it has room inside it for the breath.
 • One line, one breath; a comma is a stop, a full stop is a rest.
@@ -4107,13 +3635,7 @@ Write 21 to 30 in figures and in Yoruba on one folded sheet, then cut the sheet 
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W5.*
 
-**You will learn to**
-
-• name the colours of things around us in Yoruba
-• tell an ìwà rere from an ìwà tí kò dára
-• say the poem of work with its meaning
-
-**Things to know — Ẹ̀dẹ̀ (àwọ̀ olóríṣiríṣi — the many colours)**
+**Main content — Ẹ̀dẹ̀ (àwọ̀ olóríṣiríṣi — the many colours)**
 
 • **funfun** — white · **dúdú** — black · **púpà** — red · **àwọ̀ ọ̀sàn** — orange · **àwọ̀ ewé** — green · **àwọ̀ òfurufú** — blue.
 • The colour of the leaf is **àwọ̀ ewé** because it is the colour of ẹwẹ̀; the colour of the sky is **àwọ̀ òfurufú**.
@@ -4124,7 +3646,7 @@ Write 21 to 30 in figures and in Yoruba on one folded sheet, then cut the sheet 
 • **àwọ̀ wúnì** is purple, and **fàdákà** is the pale shine of a new coin.
 • The colour comes after the thing: **bọ́ọ̀lù púpà** (a red ball), **ìwé funfun** (a white book).
 
-**Things to know — Àṣà (ìwà rere àti ìwà tí kò dára)**
+**Main content — Àṣà (ìwà rere àti ìwà tí kò dára)**
 
 • **Ìwà rere** is good character: **ọ̀wọ̀** (respect), **ìrẹ̀lẹ̀** (humility), **òtítọ́** (truth), **ìpín** (sharing), **kíkó nǹkan ṣe ní títò** (doing a thing well).
 • **Ìwà tí kò dára** is the bad kind: **èké** (a lie), **ìjìgbe** (taking what is not ours), **ìpaniyaníyàn** (making a child afraid), **àìmọ́tótó** (dirtiness) and **sísọ̀rọ̀ àyò** (tale-bearing).
@@ -4132,7 +3654,7 @@ Write 21 to 30 in figures and in Yoruba on one folded sheet, then cut the sheet 
 • A good act done once is a start; done every day, it becomes ìwà — the character the elders name.
 • When we do wrong, we say **"Ì jẹ́ mi, ẹ̀ṣẹ́ mi ni"** (it is my fault) and put the thing right.
 
-**Things to know — Lítíréṣọ̀ (èwì: ìṣẹ́ ni òògùn ìṣẹ́)**
+**Main content — Lítíréṣọ̀ (èwì: ìṣẹ́ ni òògùn ìṣẹ́)**
 
 • The line the school prints is: **"Iṣẹ́ ni òògùn ìẹ́, tí kò bá ṣiṣẹ́, òògùn wo ló ń lò ó?"**
 • It says: work is the medicine for shame; a child who will not work has no medicine left.
@@ -4170,13 +3692,7 @@ Colour one leaf green, one ball red, one cup white and one sky blue, and write t
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W6.*
 
-**You will learn to**
-
-• listen once, hear the word, and write it down with its marks
-• do the duty of an ẹ̀gbọ́n and the duty of an àbúrò
-• answer the character song's question in a full line
-
-**Things to know — Ẹ̀dẹ̀ (Apeko: gbọ́, kọ́ sílẹ̀ — hear it, write it)**
+**Main content — Ẹ̀dẹ̀ (Apeko: gbọ́, kọ́ sílẹ̀ — hear it, write it)**
 
 • Sit straight, hold the pencil, and keep both hands on the book — that is how the ear opens.
 • The word is said **twice**: the first time we hear it, the second time we catch its marks.
@@ -4187,7 +3703,7 @@ Colour one leaf green, one ball red, one cup white and one sky blue, and write t
 • A wrong word is not rubbed hard: cross it with one clean line and write it again.
 • The last thing is reading our own line back; a missing mark is added before the book goes up.
 
-**Things to know — Àṣà (ojúṣe ẹbí: ẹ̀gbọ́n àti àbúrò)**
+**Main content — Àṣà (ojúṣe ẹbí: ẹ̀gbọ́n àti àbúrò)**
 
 • **Ẹ̀gbọ́n** is the elder sibling; his duty is to lead by the hand, to share what he has, and to be the example.
 • An ẹ̀gbọ́n does not raise his hand on a smaller child; he carries the load and calls the younger one to wash.
@@ -4196,7 +3712,7 @@ Colour one leaf green, one ball red, one cup white and one sky blue, and write t
 • When the parents are away, the ẹ̀gbọ́n keeps the house quiet and the àbúrò keeps the compound clean.
 • The two are one hand: one cannot comb the other's hair alone, and both greet the same elder at the same time.
 
-**Things to know — Lítíréṣọ̀ (orin ìwà: "Kí ni n ń fi ọ̀lẹ̀ ṣe?")**
+**Main content — Lítíréṣọ̀ (orin ìwà: "Kí ni n ń fi ọ̀lẹ̀ ṣe?")**
 
 • The song the school prints is called by its question: **"Kí ni n ń fi ọ̀lẹ̀ ṣe?"** — what do we do with a thief?
 • A character song asks the class something and waits: the answer is the song's other half.
@@ -4234,13 +3750,7 @@ Write the six dictation words with their marks, then draw two hands holding one 
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W8.*
 
-**You will learn to**
-
-• read a hard line slowly, then say it fast without breaking
-• tell the steps of cassava work in a Yoruba home
-• sing the carrying song and answer its line
-
-**Things to know — Ẹ̀dẹ̀ (akọ̀sọ̀rọ̀: kà, sọ ọ́ yarayara, fa kọ́kọ́ yọ)**
+**Main content — Ẹ̀dẹ̀ (akọ̀sọ̀rọ̀: kà, sọ ọ́ yarayara, fa kọ́kọ́ yọ)**
 
 • An **akọ̀sọ̀rọ̀** is a line that is hard on the mouth; we practise it until the mouth is free.
 • Step one: **kà á pẹ́lẹ́** — read it slowly, one word at a time, with the eyes on the board.
@@ -4251,7 +3761,7 @@ Write the six dictation words with their marks, then draw two hands holding one 
 • In **ẹyin ẹyẹ** the first two sounds are alike, and the mouth must not slide them into one.
 • A hard name is said by the whole class slowly once before anybody says it fast.
 
-**Things to know — Àṣà (ọ̀gẹ̀ ṣíṣe ní ilé Yorùbá — cassava work at home)**
+**Main content — Àṣà (ọ̀gẹ̀ ṣíṣe ní ilé Yorùbá — cassava work at home)**
 
 • **Ọ̀gẹ̀** is cassava, and the work of it is the work of the whole house.
 • **A ń wa ọ̀gẹ̀** — we dig it out of the ground, and the long root is cut from the stem.
@@ -4261,7 +3771,7 @@ Write the six dictation words with their marks, then draw two hands holding one 
 • From the same ọ̀gẹ̀ we get **ẹ̀kọ́**, **àmàlà** from the dried chips, and **ẹ̀bà** from gari — nothing of it is thrown away.
 • The work needs the big hands of a grown-up at the fire and at the press; a child carries the basin and counts the cups.
 
-**Things to know — Lítíréṣọ̀ (orin kíkó: "Ori ewe ma paya")**
+**Main content — Lítíréṣọ̀ (orin kíkó: "Ori ewe ma paya")**
 
 • The school prints this carrying song by its first line only — **Orí ẹwẹ̀, má ṣe payà** — so we learn that line and its answer.
 • The leader carries the line; the class carries the answer after him, the way a load is shared by two.
@@ -4299,13 +3809,7 @@ Draw five small boxes and put one cassava step in each box — dug, peeled, wash
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W9.*
 
-**You will learn to**
-
-• name the parts of the body in Yoruba and point to them
-• say who the Oba is and how people greet him
-• make a short àròsọ line about a bird
-
-**Things to know — Ẹ̀dẹ̀ (dídárúkọ̀ ẹ̀yà ara — the parts of the body)**
+**Main content — Ẹ̀dẹ̀ (dídárúkọ̀ ẹ̀yà ara — the parts of the body)**
 
 • **orí** — head · **ojú** — eye · **etí** — ear · **imú** — nose · **ẹnu** — mouth · **ahọ́n** — tongue.
 • **ọwọ́** — hand · **ìka** — finger · **ẹsẹ̀** — leg · **àṣọ̀ ẹsẹ̀** — the shoe · **ọ̀rùn** — neck · **ẹ̀yìn** — back · **ikùn** — stomach.
@@ -4316,7 +3820,7 @@ Draw five small boxes and put one cassava step in each box — dug, peeled, wash
 • **ejín** is the knee and **ìkún ọwọ́** is the elbow; the two of them bend so that we can sit and reach.
 • Most of them come in pairs — ojú méjì, etí méjì, ọwọ́ méjì — and one orí, ẹnu kan.
 
-**Things to know — Àṣà (Òba aláde ní ilẹ̀ Yorùbá — the crowned king)**
+**Main content — Àṣà (Òba aláde ní ilẹ̀ Yorùbá — the crowned king)**
 
 • The **Òba** is the ruler of a Yoruba town, and **àdé** is the beaded crown he wears.
 • The crown's beads hang before his face, so that the king is seen by all and looks on all with patience.
@@ -4326,7 +3830,7 @@ Draw five small boxes and put one cassava step in each box — dug, peeled, wash
 • The Òba does not run a market or settle a small quarrel; he keeps the town together and is the father of it.
 • A child's part is small: when the procession passes, we stand, we do not shout, and we follow with the eyes.
 
-**Things to know — Lítíréṣọ̀ (àròsọ lórí ẹyẹ — a riddle line on a bird)**
+**Main content — Lítíréṣọ̀ (àròsọ lórí ẹyẹ — a riddle line on a bird)**
 
 • An **àròsọ** is a short line said fast, with a thing hidden in it; the class guesses.
 • It begins with a call — **"Àròsọ o!"** — and the answer is **"Jẹ́ kó o!"** (let it come).
@@ -4363,12 +3867,6 @@ Draw a boy from the top of the head to the feet, and write the Yoruba name besid
 ### WEEK 11 — Exam Preparation
 
 *Depth: school-generated revision row; it revises Weeks 1–9 of this term. Week 12 is Closing.*
-
-**You will learn to**
-
-• say everything of this term out loud without looking at the book
-• write the Yoruba words with their dots and their tones
-• answer in a full Yoruba line, not one word
 
 **What to revise — Ẹ̀dẹ̀**
 
@@ -4457,14 +3955,7 @@ we count, from the pack's off-by-one and off-by-two mapping.*
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W1.*
 
-**You will learn to**
-
-• say a word that begins with two consonants run together
-• read words where two letters make one sound
-• read words with three letters held to one sound
-• use the three new sight words in a line of our own
-
-**Things to know**
+**Main content**
 
 • A **blend** is two consonants that keep their own sounds and still run together: **bl**ue, **fl**ag,
   **cl**ap, **gr**een, **pl**ant, **tr**ip, **sk**ip, **st**amp, **sn**ail, **sw**im.
@@ -4518,14 +4009,7 @@ thing in each of three boxes.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W2.*
 
-**You will learn to**
-
-• tell a naming word (a noun) from a word that is not one
-• name people, places, things and animals as nouns
-• put a big letter on a proper name
-• say one thing for many, and more than one thing
-
-**Things to know**
+**Main content**
 
 • A **noun** is a **naming word** — it is the word we call a person, a place, a thing or an animal by.
 • People: **boy, girl, teacher, man, woman**. Places: **school, home, park, shop**. Things: **book, pen,
@@ -4579,14 +4063,7 @@ under each box.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W3.*
 
-**You will learn to**
-
-• find the doing word (the verb) in a line
-• show a doing word with the body
-• say the doing word again when one person is spoken of
-• ask with "What" and answer in a whole line
-
-**Things to know**
+**Main content**
 
 • A **verb** is a **doing word**: it tells what somebody or something does — **run, jump, walk, sit, eat,
   drink, sleep, play, read, write, sing, dance**.
@@ -4636,14 +4113,7 @@ Draw four children in four boxes doing four different things, then write the doi
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W4.*
 
-**You will learn to**
-
-• say the two parts every sentence must have
-• put the right doing word with the right naming word
-• tell who the line is about and what it does
-• build a line that carries three kinds of word at once
-
-**Things to know**
+**Main content**
 
 • A sentence needs **two** things: who or what it is about (the naming word) and what happens
   (the doing word).
@@ -4695,14 +4165,7 @@ picture.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W7.*
 
-**You will learn to**
-
-• build the line who-does-what-to-whom
-• add a describing word and a second thing to a line
-• join two small lines with "and" and give a reason with "because"
-• let a small word stand in for people already named
-
-**Things to know**
+**Main content**
 
 • Grow the sentence to **naming + doing + naming**: **The boy kicks the ball** — who, does what, to what.
 • Add one describing word and the line gets a picture in it: **The big boy kicks the red ball.**
@@ -4754,14 +4217,7 @@ sitting because they are tired — and write one line under each.
 
 *Depth: NERDC Nursery 2 · Literacy (Language Domain) · Third Term W8.*
 
-**You will learn to**
-
-• read a page that carries the patterns we learnt
-• answer the five questions a reader is asked
-• find the naming words and the doing words inside a story
-• say what will happen next before the page is turned
-
-**Things to know**
+**Main content**
 
 • Our page for this week: **"Sam has a small boat. He puts the boat in the water. The wind blows and the boat
   goes fast. Ada claps her hands and runs to the shore."**
@@ -4814,14 +4270,7 @@ Draw our boat page in three boxes — the boat in the water, the wind blowing it
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W9.*
 
-**You will learn to**
-
-• begin a story with the words that open a tale
-• write a beginning, a middle and an end of our own
-• keep "there" and "their" apart
-• read what we wrote to the class
-
-**Things to know**
+**Main content**
 
 • Stories often open with the old door-word: **"Once upon a time…"** and **once** is our sight word for that.
 • Three lines make a story: what was the start, what happened, how it ended.
@@ -4873,14 +4322,7 @@ each box.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W10.*
 
-**You will learn to**
-
-• read a page that mixes every pattern we learnt
-• say what kind of word each word in a line is
-• write a clean page with the marks in their places
-• look back over your own work and mend what is wrong
-
-**Things to know**
+**Main content**
 
 • Our last page carries all of it at once: **"Kemi finds a little black cat under a bench. She takes it home
   and gives it milk. The cat drinks, jumps up and sleeps upon her bed."**
@@ -4936,14 +4378,7 @@ both to the class.
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W1.*
 
-**You will learn to**
-
-• read the sight words we learnt, without stopping
-• put words in a line and read the whole sentence out
-• begin a sentence big, leave room between words, and end with a full stop
-• match a sentence to the picture it tells about
-
-**Things to know**
+**Main content**
 
 • A **sight word** is a word we know at once, the way we know a face: **I, a, the, is, am, and, it, in, at,
   on, he, she, we, me, my, to, go, no, up, can**.
@@ -4993,14 +4428,7 @@ Draw one picture of what you do in the morning, then write one sentence about it
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W2.*
 
-**You will learn to**
-
-• count the letters in a word on your fingers
-• put five sounds together and say the word
-• read words where two consonants or two letters go together
-• use a long word in a sentence of your own
-
-**Things to know**
+**Main content**
 
 • **plant** has five letters: **p-l-a-n-t**; we say the five sounds and join them at once.
 • Words can begin with **two consonants joined**: **pl**ant, **br**ush, **st**amp, **st**and, **dr**ink,
@@ -5049,14 +4477,7 @@ Draw the five things — a plant, a brush, a stamp, a cup to drink from and a bo
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W3.*
 
-**You will learn to**
-
-• say the two small words inside a big word
-• join two words to make a new one
-• part a joined word and say what each part meant
-• read a line that carries a joined word
-
-**Things to know**
+**Main content**
 
 • Two words can hold hands and become **one word**: this is a **compound word**.
 • **sun + set = sunset** — the time the sun goes down; **rain + bow = rainbow** — the colour band after rain.
@@ -5107,14 +4528,7 @@ Draw a sunset with a rainbow over it, a ball at the foot of a child, and a bed i
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W4.*
 
-**You will learn to**
-
-• read a short story of words we already know
-• say who is in the story and where it happens
-• tell what happened first, next and last
-• answer with a whole line, not one word
-
-**Things to know**
+**Main content**
 
 • A story has three parts: the **beginning**, the **middle** and the **end**.
 • The **characters** are the people or animals the story is about; the **setting** is where and when it
@@ -5164,14 +4578,7 @@ Draw our hen story in three boxes — beginning, middle and end — and put a nu
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W7 (Nursery floor).*
 
-**You will learn to**
-
-• use a colour word before a thing
-• say how big, how tall or how long a thing is
-• use words for how a thing feels or is
-• put one describing word in each of two sentences
-
-**Things to know**
+**Main content**
 
 • A word that tells us what a thing is **like** is a **describing word**.
 • Colour words: **red, blue, green, yellow, black, white, brown, pink, orange, purple**.
@@ -5218,14 +4625,7 @@ Draw a big dog and a small dog, a tall tree and a short tree, and a snail with a
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W8 (Nursery floor).*
 
-**You will learn to**
-
-• name the words that tell what somebody does
-• show an action word with the body
-• put an action word in a sentence about yourself
-• match the action in a picture to its word
-
-**Things to know**
+**Main content**
 
 • A word that tells what somebody or something **does** is an **action word**.
 • Our first list: **run, jump, walk, sit, stand, eat, drink, sleep, play, read, write, draw**.
@@ -5274,14 +4674,7 @@ the action word for each.
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W9.*
 
-**You will learn to**
-
-• look at three pictures and say the story they hold
-• write a beginning, a middle and an end
-• use the sight words we know inside our lines
-• read our story to the class
-
-**Things to know**
+**Main content**
 
 • A story we write ourselves can be **three lines long** — that is already a story.
 • First line: **who** and **where**. Second line: **what happened**. Third line: **how it ended**.
@@ -5330,14 +4723,7 @@ Draw three boxes and tell your own story in them, then write one line of words u
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W10.*
 
-**You will learn to**
-
-• begin a sentence and a name with a big letter
-• put a full stop where a sentence ends
-• use a question mark and an exclamation mark rightly
-• leave the right room between words so the page is neat
-
-**Things to know**
+**Main content**
 
 • A **big letter** (a capital) begins every sentence: **"The dog runs."**
 • A name takes a big letter too: **Ada**, **Tunde**, **Bola**, **Musa**, and the name of our own town.
@@ -5385,14 +4771,7 @@ line with a dot under it.
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W1, held down to the Nursery floor.*
 
-**You will learn to**
-
-• share two things equally between two friends
-• say what half of a thing is
-• find half of a shape and shade it
-• fold a shape into four equal parts and say the name of one part
-
-**Things to know**
+**Main content**
 
 • **Equal** means the parts are the same size; two parts of different sizes are **not** halves.
 • When one orange is shared between two children so that both get the same, each one has **half** — written
@@ -5442,14 +4821,7 @@ and shade half of each one.
 
 *Depth: NERDC Nursery 3 · Numeracy · Third Term W7 and Primary 1 · Mathematics · Third Term W2.*
 
-**You will learn to**
-
-• say which of two things is longer or shorter
-• measure with the body: the hand span and the foot
-• measure with a pencil, a stick or a piece of thread
-• put three things in order from the shortest to the longest
-
-**Things to know**
+**Main content**
 
 • **Length** is how long a thing is from one end to the other.
 • We compare before we measure: this strap is **longer**, that one is **shorter**, and two may be **the same
@@ -5504,14 +4876,7 @@ crayon, a pencil and a stick in a row from the shortest to the longest.
 
 *Depth: NERDC Nursery 2 · Numeracy · Third Term W8, with Primary 1 · Mathematics · Third Term W3.*
 
-**You will learn to**
-
-• say which of two things is heavier or lighter
-• sort things into heavy, middle and light
-• compare weights with a hanger balance
-• know that a big thing is not always the heavier thing
-
-**Things to know**
+**Main content**
 
 • **Weight** is how heavy a thing is — how hard your hand has to work to lift it.
 • We say **heavier**, **lighter**, **the heaviest**, **the lightest**, and **the same weight**.
@@ -5565,14 +4930,7 @@ lower; then colour the blocks.
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W4, with Primary 2 · Mathematics · Second Term W9–W10.*
 
-**You will learn to**
-
-• say the parts of the day and the days of the week in order
-• use yesterday, today and tomorrow rightly
-• name the parts of a clock and read the hour on it
-• say what o'clock and half past look like on the clock face
-
-**Things to know**
+**Main content**
 
 • The day has parts: **morning**, **midday**, **afternoon**, **evening** and **night**.
 • The week has **seven days**: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
@@ -5627,14 +4985,7 @@ hand on 9 with the long hand straight up. Then draw three things you do at that 
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W7.*
 
-**You will learn to**
-
-• name five shapes that take up room
-• count the flat faces, the edges and the corners of a box
-• sort shapes into the ones that roll and the ones that stack
-• find these shapes in the house and the class
-
-**Things to know**
+**Main content**
 
 • A shape you can **hold** takes up room; we call it a **three-dimensional** shape.
 • A **cube** has six flat faces and every face is a square; a die and a small carton of sugar are cubes.
@@ -5689,14 +5040,7 @@ Set a cube, a ball, a tin and a cap on the desk, look at them, then draw all fou
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W8.*
 
-**You will learn to**
-
-• name five flat shapes
-• count the sides and the corners of each
-• draw a square, a rectangle and a triangle with a ruler
-• find flat shapes on the things about us
-
-**Things to know**
+**Main content**
 
 • A **flat shape** lies on a surface; it has length and width but nothing to hold.
 • A **triangle** has **three sides** and **three corners**; a **square** has four equal sides and four corners.
@@ -5746,14 +5090,7 @@ of them into one new shape.
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W9.*
 
-**You will learn to**
-
-• say the next thing in a pattern of shapes
-• make a pattern of your own with shapes and colours
-• find the flat shape inside a shape you can hold
-• tell a line of symmetry on a folded paper
-
-**Things to know**
+**Main content**
 
 • A **pattern** is things repeated in the same order, so that we can say what comes next.
 • In **square, circle, square, circle**, the part that repeats is two shapes; the next is **square**.
@@ -5806,14 +5143,7 @@ draw the line of symmetry on the square part.
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W10.*
 
-**You will learn to**
-
-• ask a question and write down the answers
-• record counts with strokes that are easy to add up
-• put the answers into a simple table
-• read a picture chart and a block chart of the class
-
-**Things to know**
+**Main content**
 
 • We **gather** a thing by asking and counting, and then we put the answers in order so that the question is answered.
 • First the question, small and clear: **"Which fruit do you like best — mango, banana or orange?"**
@@ -5878,14 +5208,7 @@ one Nigeria, counting and sorting, the people of great works, and the end-of-yea
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W1.*
 
-**You will learn to**
-
-• say the name of my state and the town where I live
-• put my state on the map of Nigeria, in a big first look
-• name the famous things of my state: its food, its festivals and its places
-• draw a picture map of my town with the five places we all know
-
-**Things to know**
+**Main content**
 
 • A **state** is a big piece of the country with its own head; Nigeria has **thirty-six states** and one
   capital territory, and the capital territory is called **Abuja**.
@@ -5936,14 +5259,7 @@ road, and the stream running past behind them; colour the roads.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W2.*
 
-**You will learn to**
-
-• name where water comes from and what we use it for
-• say why air matters even though we cannot see it
-• keep water clean and not waste it
-• do three small tests with water and air
-
-**Things to know**
+**Main content**
 
 • Water comes to us from the **rain**, the **tap**, the **well**, the **stream** and the **river**.
 • We use water to **drink**, to **bath**, to **cook**, to **wash** cloth and plates, and to give the **plants**.
@@ -5990,14 +5306,7 @@ bottle top and a bit of cloth — then ring the ones you think will float.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W3.*
 
-**You will learn to**
-
-• say what the sun gives us and when it is up
-• name what we see in the sky at night
-• tell the parts of the day in order
-• sort things into the day and the night
-
-**Things to know**
+**Main content**
 
 • The **sun** gives us **light** and **warmth**; it is the reason the day is bright.
 • The **daytime** is when we work, learn and play; the **night** is when the world rests and we sleep.
@@ -6044,14 +5353,7 @@ moon, three stars and three things we do at night.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W4.*
 
-**You will learn to**
-
-• name the tools we use at home and at school
-• say what each tool is for
-• tell which things have wheels and what a wheel does
-• say how a simple machine takes work off our hands
-
-**Things to know**
+**Main content**
 
 • Tools at home: **spoon** for eating, **fork** for holding food, **knife** for cutting, **broom** for the
   floor, **rake** for the yard, **bucket** for water.
@@ -6104,14 +5406,7 @@ scissors, then match the tools to their work with a line.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W5.*
 
-**You will learn to**
-
-• say that Nigeria is one country of many peoples
-• name foods and tongues that are different among us
-• treat every person with the same respect
-• take part in the class celebration of one Nigeria
-
-**Things to know**
+**Main content**
 
 • Nigeria is **one country** made of **many peoples**; all of us are **Nigerians**.
 • The country took its name from the **river Niger** that runs through it; the Niger and the **Benue** are the
@@ -6164,14 +5459,7 @@ holding one food of their people.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W6.*
 
-**You will learn to**
-
-• count things about us from one to twenty
-• sort things by size, colour, shape and kind
-• say the days of the week and the routine of a day
-• play the sorting games of the class
-
-**Things to know**
+**Main content**
 
 • Counting is done with the **finger on the thing**: one bottle top, two bottle tops … twenty bottle tops, and
   then we put them in **two lines of ten**.
@@ -6222,14 +5510,7 @@ one and "vegetable" on the other, then draw three things of each kind inside.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W8.*
 
-**You will learn to**
-
-• name the work-a-day people who keep a town going
-• hear two stories of people of the past
-• say what a hero does that a child can do too
-• tell the class who you want to be when you grow up
-
-**Things to know**
+**Main content**
 
 • The **farmer** rises before the sun and the whole town eats because of that work.
 • The **teacher**, the **nurse**, the **driver**, the **cleaner**, the **seller** and the **guard** are the
@@ -6281,14 +5562,7 @@ one thing that person carries; colour the whole drawing.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W9.*
 
-**You will learn to**
-
-• answer quiz questions about what we have learnt all year
-• play "Who am I?" and "Where does it live?"
-• stand and show one thing to the class
-• say what we are going to do next year
-
-**Things to know**
+**Main content**
 
 • The quiz cards of this year carry five pictures: the **flag**, an **animal**, a **colour**, a **food** and a
   **helper**.

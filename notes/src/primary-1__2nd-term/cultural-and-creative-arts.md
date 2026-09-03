@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — COLOUR
 
-**You will learn to**
-
-• name the primary colours
-
-• name the secondary colours
-
-• mix colours
-
-**Things to know**
+**Main content**
 
 • The **primary colours** are red, blue and yellow.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — DRAWING AND COLOURING
 
-**You will learn to**
-
-• draw simple objects
-
-• colour a drawing neatly
-
-• use art tools well
-
-**Things to know**
+**Main content**
 
 • **Drawing** is making a picture with lines.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — MODELLING
 
-**You will learn to**
-
-• say what modelling is
-
-• mould with clay
-
-• make simple shapes
-
-**Things to know**
+**Main content**
 
 • **Modelling** is making shapes with soft material.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — CRAFT WORK
 
-**You will learn to**
-
-• say what craft work is
-
-• weave and fold
-
-• make a simple craft
-
-**Things to know**
+**Main content**
 
 • **Craft work** is making things with our hands.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — MUSIC AND SONGS
 
-**You will learn to**
-
-• sing simple songs
-
-• say what music is
-
-• keep time when we sing
-
-**Things to know**
+**Main content**
 
 • **Music** is sound that is pleasing to hear.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — MUSICAL INSTRUMENTS
 
-**You will learn to**
-
-• name local musical instruments
-
-• say how each is played
-
-• play a simple beat
-
-**Things to know**
+**Main content**
 
 • A **musical instrument** makes music.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — DANCE AND MOVEMENT
 
-**You will learn to**
-
-• move to music
-
-• name dance steps
-
-• dance in our culture
-
-**Things to know**
+**Main content**
 
 • **Dance** is moving the body to music.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — DRAMA AND ROLE PLAY
 
-**You will learn to**
-
-• say what drama is
-
-• act out a simple story
-
-• play a role
-
-**Things to know**
+**Main content**
 
 • **Drama** is acting out a story.
 

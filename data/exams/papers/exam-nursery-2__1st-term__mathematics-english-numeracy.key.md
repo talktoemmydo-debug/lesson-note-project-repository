@@ -7,9 +7,9 @@
 
 **Sections B & C (marking guide)**
 
-31. 5 tens and 8 ones
+31. 5; tens; and; 8; ones
 32. 100 + 40 + 7; 1 hundred, 4 tens, 7 ones
-33. twenty, forty, one hundred
+33. twenty; forty; one hundred
 34. 50; 35
 35. 34; 27
 36. count back with subtraction; add again the other way round; use the number line

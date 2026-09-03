@@ -16,7 +16,7 @@ already drawn and filed for an exempt subject stay where they are — nothing is
 
 ## How a sweep turn runs
 
-1. Take the top unfinished row and read that file's `### WEEK` heads plus its `**You will learn to**`
+1. Take the top unfinished row and read that file's `### WEEK` heads plus its `**Main content**`
    bullets — the plate draws the **scene** the note teaches.
 2. Every writing surface in the drawing is blank: no letters, no words, no numbers, no drawn punctuation;
    a clock gets twelve marks and no numerals; a full stop is one small solid round dot.  People are drawn

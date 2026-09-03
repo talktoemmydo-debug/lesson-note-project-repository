@@ -1,7 +1,7 @@
 
 ---
 
-# EXAMINATION PRACTICE — NIGERIAN HISTORY ( · )
+# EXAMINATION PRACTICE — NIGERIAN HISTORY (Nursery 2 · 1st Term)
 
 **Time:** 1 hour · **Total: 50 marks**
 

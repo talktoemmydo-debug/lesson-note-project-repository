@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — FRIENDS AND NEIGHBOURS
 
-**You will learn to**
-
-• say who a friend is
-
-• say who a neighbour is
-
-• live well with friends and neighbours
-
-**Things to know**
+**Main content**
 
 • A **friend** is someone I like and play with.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — THE EXTENDED FAMILY
 
-**You will learn to**
-
-• name the extended family
-
-• say how they are related
-
-• love the extended family
-
-**Things to know**
+**Main content**
 
 • The **extended family** is the bigger family.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — COMMUNITY LEADERS
 
-**You will learn to**
-
-• name leaders in the community
-
-• say what leaders do
-
-• respect our leaders
-
-**Things to know**
+**Main content**
 
 • A **leader** is a person who guides others.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — OUR COUNTRY, NIGERIA
 
-**You will learn to**
-
-• say what a country is
-
-• name things about Nigeria
-
-• love my country
-
-**Things to know**
+**Main content**
 
 • A **country** is a land with its own people and government.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — RIGHTS AND DUTIES OF A CHILD
 
-**You will learn to**
-
-• say what a right is
-
-• say what a duty is
-
-• do my duty
-
-**Things to know**
+**Main content**
 
 • A **right** is something I ought to have.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — HONESTY
 
-**You will learn to**
-
-• say what honesty is
-
-• tell the truth
-
-• be honest at home and school
-
-**Things to know**
+**Main content**
 
 • **Honesty** means telling the truth.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — OBEDIENCE AND RESPECT
 
-**You will learn to**
-
-• say what obedience is
-
-• say what respect is
-
-• obey and respect
-
-**Things to know**
+**Main content**
 
 • **Obedience** is doing what I am told.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — CARING FOR PUBLIC PROPERTY
 
-**You will learn to**
-
-• say what public property is
-
-• name public property
-
-• care for public property
-
-**Things to know**
+**Main content**
 
 • **Public property** is a thing that belongs to everyone.
 

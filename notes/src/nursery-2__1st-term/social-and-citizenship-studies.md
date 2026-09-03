@@ -10,14 +10,7 @@ W1–W2, pp 655–658 — taught here two bands earlier, so every idea is carrie
 
 *Depth: NERDC Primary 1 · SCS · First Term W1 (pp 655–656).*
 
-**You will learn to**
-
-• say what a leader is in one line
-• name the leaders in my life
-• tell the qualities of a good leader
-• say why we need leaders
-
-**Things to know**
+**Main content**
 
 • A **leader** is somebody who guides others and shows them what to do.
 • My leaders are: **father and mother** at home, **the teacher** in class, **the head teacher** in the school, and **the class captain** among the children.
@@ -62,14 +55,7 @@ Draw the person who leads in your class and colour the thing they hold.
 
 *Depth: NERDC Primary 1 · SCS · First Term W2 (pp 655–656).*
 
-**You will learn to**
-
-• say who leads in my home
-• state what parents do for the family
-• name other leaders in the family
-• say how I can help at home
-
-**Things to know**
+**Main content**
 
 • **Father and mother** are the leaders of the home; one of them carries the final decision.
 • A parent's duties are to give **food, a place to live, clothes, education, love and protection**.
@@ -113,14 +99,7 @@ Draw your own house and colour the door of the room where the family talks.
 
 *Depth: NERDC Primary 1 · SCS · First Term W3 (pp 655–656).*
 
-**You will learn to**
-
-• say what a community is
-• name the kind of community I live in
-• list the people who make up a community
-• name the leaders of our community
-
-**Things to know**
+**Main content**
 
 • A **community** is people living together in one area — a street, a village, a town.
 • My community has **neighbours, shopkeepers, drivers, teachers, nurses, farmers and worshippers**.
@@ -164,14 +143,7 @@ Draw five neighbours doing one job together and colour the tools they share.
 
 *Depth: NERDC Primary 1 · SCS · First Term W4 (pp 655–656).*
 
-**You will learn to**
-
-• say what cooperation means
-• name community activities people do together
-• state how communities help one another
-• tell the children's part in the community
-
-**Things to know**
+**Main content**
 
 • **Cooperation** means people working together to finish a job that one person cannot finish alone.
 • Community activities: **clean-up exercise** on the last Saturday, **festivals**, **town hall meetings**, **building a bridge or a classroom**, **watering the school garden**.
@@ -215,14 +187,7 @@ Draw the place in your community where people meet and colour the roof.
 
 *Depth: NERDC Primary 1 · SCS · First Term W7 and W8 (pp 655–656) — both weeks in one.*
 
-**You will learn to**
-
-• say what a responsibility is
-• list my duties at home and at school
-• keep my belongings in order
-• treat other people with respect
-
-**Things to know**
+**Main content**
 
 • A **responsibility** is a thing we **must** do, not a thing we may choose to do.
 • At home: cleaning my own room, washing my plate, putting away my clothes, helping with small chores.
@@ -268,14 +233,7 @@ Draw three things you do to keep your school clean and colour the one you do mos
 
 *Depth: NERDC Primary 1 · SCS · First Term W9 (pp 655–656).*
 
-**You will learn to**
-
-• say that Nigeria is my country
-• state where Nigeria is
-• describe our national flag
-• say how the flag is treated
-
-**Things to know**
+**Main content**
 
 • **Nigeria is my country**; I am a **Nigerian** and Nigeria is my identity.
 • Nigeria is in the west of the continent of **Africa**; our neighbours are **Benin Republic, Niger, Chad and Cameroon**.
@@ -318,14 +276,7 @@ Draw the Nigerian flag with a ruler, colour it correctly, and write "green — w
 
 *Depth: NERDC Primary 1 · SCS · First Term W10 (pp 655–656).*
 
-**You will learn to**
-
-• sing the first stanza of the national anthem
-• describe the coat of arms
-• name our money
-• say when our independence is kept
-
-**Things to know**
+**Main content**
 
 • The **national anthem** is sung standing at school and at national events. First stanza: *"Arise, O compatriots, Nigeria calls you all; To serve her throne, her country, with heart and might…"* (learned as the class is taught it).
 • The **national pledge** is also said at school; we pledge to be faithful and to honour Nigeria.
@@ -369,14 +320,7 @@ Draw the Nigerian flag with green at each side and white between them, then colo
 
 *Depth: NERDC Primary 1 · SCS · Second Term W1 and W2 (pp 657–658) — both weeks in one.*
 
-**You will learn to**
-
-• name the people I must respect
-• show respect in four ways
-• behave well in a sacred place
-• treat public places and objects with care
-
-**Things to know**
+**Main content**
 
 • **Elders are respected**: father and mother, grandparents, teachers, community leaders, and every grown person older than me.
 • Ways of showing respect: **greeting them well**, **listening**, **obeying**, and **using their respectful title** (ma, sir, papa, chief, alhaji, pastor, reverend).

@@ -10,14 +10,7 @@ Week 12 Closing — those weeks carry no note.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W1 (pp 491–494).*
 
-**You will learn to**
-
-• name the five big parts of my body
-• point to the parts of my head, my trunk and my limbs
-• say what my body parts do
-• know that my body is special and belongs only to me
-
-**Things to know**
+**Main content**
 
 • My body is everything about me — from the top of my head to the tips of my toes.
 • The five big parts of the body are the **head, neck, trunk, arms and legs**.
@@ -65,14 +58,7 @@ Draw your own body in your notebook and label five parts you know.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W2 (pp 491–494).*
 
-**You will learn to**
-
-• say why I must care for my body
-• tell the daily body-care practices in order
-• wash my hands and brush my teeth the right way
-• say how much sleep and rest my body needs
-
-**Things to know**
+**Main content**
 
 • A body that is looked after stays strong, does not itch, does not smell and does not fall sick often.
 • I bathe every day with soap and water.
@@ -120,14 +106,7 @@ Colour the picture of the clean child and cross out the one who is dirty.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W3 (pp 491–494).*
 
-**You will learn to**
-
-• say what first aid is in one line
-• name six things inside a first aid box
-• point to where the box is kept
-• say who may use the things in the box
-
-**Things to know**
+**Main content**
 
 • First aid is the **first help** we give to a person who is hurt or suddenly sick, before the nurse or the doctor comes.
 • The things in the box are kept in a box so that help is ready when it is needed.
@@ -170,14 +149,7 @@ Draw the two things in the box that you have seen at home.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W4 (pp 491–494).*
 
-**You will learn to**
-
-• match each first aid thing to what it is used for
-• say when a grown-up must be called at once
-• say what a thermometer is for
-• stay calm when somebody is hurt
-
-**Things to know**
+**Main content**
 
 • Plasters and band-aids cover **small cuts** and scrapes.
 • A bandage wraps a wound and **supports a sprained** wrist or leg.
@@ -221,14 +193,7 @@ Match with a line: plaster–cut, bandage–wrap, cotton–clean, thermometer–
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W7 (pp 491–494).*
 
-**You will learn to**
-
-• say what a wound is
-• name the causes of wounds at home and at school
-• tell the five types of wounds apart
-• say two ways of preventing wounds
-
-**Things to know**
+**Main content**
 
 • A wound is an injury that **breaks the skin** — where the skin is open, or cut, or has blood on it.
 • If the skin is not broken, it is not a wound.
@@ -277,14 +242,7 @@ Draw one thing that can cause a cut and one thing that can cause a burn.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W8 (pp 491–494).*
 
-**You will learn to**
-
-• put the four steps for a small wound in order
-• say when a grown-up must be called
-• keep the rules about the scab and the bandage
-• know the signs that a wound is going bad
-
-**Things to know**
+**Main content**
 
 • Step one: **wash the hands first**.
 • Step two: **clean the wound with clean water**.
@@ -332,14 +290,7 @@ Number 1 to 4 the pictures of the four steps in your notebook.
 *Depth: NERDC Nursery 3 · Basic Science and Technology · First Term W9 and W10 (pp 491–494) — this
 week takes both NERDC weeks together.*
 
-**You will learn to**
-
-• define sickness in one line
-• name common sicknesses of children and the signs they show
-• say what brings sickness and how to prevent it
-• describe how a sick person is cared for
-
-**Things to know**
+**Main content**
 
 • Sickness (illness) is when the body is **not working properly** and we feel unwell.
 • A well body eats and plays; a sick body is weak and needs rest.
@@ -390,14 +341,7 @@ Draw the four things a sick child needs to get well again and colour them.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Second Term W1 (pp 494–497).*
 
-**You will learn to**
-
-• define a rock and soil in one line each
-• sort stones by size
-• name three uses of rocks
-• tell sandy, clayey and loamy soil apart by touch
-
-**Things to know**
+**Main content**
 
 • A rock is a **hard, solid thing found in nature** on the earth; nobody made it.
 • Some rocks were made when hot liquid from inside the earth (lava) cooled and became hard.

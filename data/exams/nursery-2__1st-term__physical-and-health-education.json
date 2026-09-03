@@ -4,16 +4,7 @@
  "term": "1st Term",
  "objective": [
   {
-   "stem": "Exercise means the physical activities that",
-   "answer": "make the body move and work",
-   "distractors": [
-    "keep the body on the chair",
-    "make us sleep in the day",
-    "keep the hands still"
-   ]
-  },
-  {
-   "stem": "A game is an organised activity with",
+   "stem": "A game is an organised activity with ___",
    "answer": "rules, played for fun",
    "distractors": [
     "no rule, played for fear",
@@ -22,7 +13,7 @@
    ]
   },
   {
-   "stem": "Exercise makes the heart and the",
+   "stem": "Exercise makes the heart and the ___",
    "answer": "lungs work well",
    "distractors": [
     "ears hear better",
@@ -31,7 +22,7 @@
    ]
   },
   {
-   "stem": "A child who plays and exercises",
+   "stem": "A child who plays and exercises ___",
    "answer": "sleeps better at night",
    "distractors": [
     "cannot sleep at all",
@@ -40,7 +31,7 @@
    ]
   },
   {
-   "stem": "Games teach discipline because I",
+   "stem": "Games teach discipline because I ___",
    "answer": "wait for my turn and listen for the whistle",
    "distractors": [
     "shout at my partner and push in front",
@@ -49,16 +40,16 @@
    ]
   },
   {
-   "stem": "Egg and spoon race trains the",
-   "answer": "hand and the sense of balance",
+   "stem": "The first thing we do before a game is to ___",
+   "answer": "warm up and stretch",
    "distractors": [
-    "ear and the power of hearing",
-    "nose and the smell of things",
-    "back and the power of bending"
+    "sit down and rest",
+    "eat a full meal",
+    "tie both shoes together"
    ]
   },
   {
-   "stem": "In the egg and spoon game, if the ball falls we",
+   "stem": "In the egg and spoon game, if the ball falls we ___",
    "answer": "pick it up and continue",
    "distractors": [
     "leave the ground",
@@ -67,7 +58,7 @@
    ]
   },
   {
-   "stem": "In a sack race the player",
+   "stem": "In a sack race the player ___",
    "answer": "stands inside a sack and jumps to the line",
    "distractors": [
     "runs beside a sack full of sand",
@@ -76,7 +67,7 @@
    ]
   },
   {
-   "stem": "In the three-legged race, the pair must",
+   "stem": "In the three-legged race, the pair must ___",
    "answer": "walk as one, with the inside legs tied",
    "distractors": [
     "jump over each other's legs twice",
@@ -85,7 +76,7 @@
    ]
   },
   {
-   "stem": "Musical chairs and freeze dance are both games of",
+   "stem": "Musical chairs and freeze dance are both games of ___",
    "answer": "movement and stopping on a signal",
    "distractors": [
     "eating and drinking quickly",
@@ -94,16 +85,16 @@
    ]
   },
   {
-   "stem": "Stretching the body means",
-   "answer": "reaching for the sky and touching the toes",
+   "stem": "Freeze dance means we ___",
+   "answer": "dance while the music plays and hold still when it stops",
    "distractors": [
-    "holding the breath for a long time",
-    "running to the far gate",
-    "jumping over a deep ditch"
+    "dance only when the teacher calls out my name",
+    "stand in one place and never move at all",
+    "sit down quietly as the drum begins to sound"
    ]
   },
   {
-   "stem": "Skipping is done with a",
+   "stem": "Skipping is done with a ___",
    "answer": "rope, jumping forwards and then backwards",
    "distractors": [
     "ball, thrown up to a partner",
@@ -112,7 +103,7 @@
    ]
   },
   {
-   "stem": "Leaping is a big jump",
+   "stem": "Leaping is a big jump ___",
    "answer": "from one foot to the other foot",
    "distractors": [
     "from both feet onto one mat",
@@ -121,7 +112,7 @@
    ]
   },
   {
-   "stem": "The safe way to land from a jump is with",
+   "stem": "The safe way to land from a jump is with ___",
    "answer": "soft, bent knees",
    "distractors": [
     "straight, locked knees",
@@ -130,7 +121,7 @@
    ]
   },
   {
-   "stem": "Body conditioning means exercises that make the body",
+   "stem": "Body conditioning means exercises that make the body ___",
    "answer": "fit and in good control",
    "distractors": [
     "heavy and slow",
@@ -139,16 +130,16 @@
    ]
   },
   {
-   "stem": "Arms are stretched sideways while balancing because they",
-   "answer": "act like the beam of a scale",
+   "stem": "Balance means staying ___",
+   "answer": "steady without falling",
    "distractors": [
-    "keep the body very warm",
-    "help us to hear better",
-    "stop the wind from blowing"
+    "fast without stopping",
+    "loud without shouting",
+    "soft without moving"
    ]
   },
   {
-   "stem": "While balancing on one leg, a good trick is to",
+   "stem": "While balancing on one leg, a good trick is to ___",
    "answer": "count slowly to ten",
    "distractors": [
     "shout at a friend",
@@ -157,7 +148,7 @@
    ]
   },
   {
-   "stem": "Walking heel to toe on a line drawn on the floor trains the",
+   "stem": "Walking heel to toe on a line drawn on the floor trains the ___",
    "answer": "balance of the body",
    "distractors": [
     "hearing of the ear",
@@ -166,7 +157,7 @@
    ]
   },
   {
-   "stem": "Kicking, hitting, bouncing and rolling are",
+   "stem": "Kicking, hitting, bouncing and rolling are ___",
    "answer": "manipulative movements",
    "distractors": [
     "balancing exercises",
@@ -175,7 +166,7 @@
    ]
   },
   {
-   "stem": "An underhand throw is made with the arm",
+   "stem": "An underhand throw is made with the arm ___",
    "answer": "swinging from behind and low",
    "distractors": [
     "above the head and high",
@@ -184,16 +175,16 @@
    ]
   },
   {
-   "stem": "The safest object to throw and catch in class is a",
-   "answer": "bean bag",
+   "stem": "In an overhand throw we ___",
+   "answer": "step with the foot and throw",
    "distractors": [
-    "stone",
-    "bottle",
-    "piece of wood"
+    "sit on the ground and throw",
+    "turn our back and throw",
+    "close both eyes and throw"
    ]
   },
   {
-   "stem": "Catching is done with",
+   "stem": "Catching is done with ___",
    "answer": "two hands out, eyes on the object all the way to them",
    "distractors": [
     "one hand only, with the eyes on the ground",
@@ -202,7 +193,7 @@
    ]
   },
   {
-   "stem": "The brain and its wires working with the muscles is called",
+   "stem": "The brain and its wires working with the muscles is called ___",
    "answer": "neuro-muscular",
    "distractors": [
     "bone and joint",
@@ -211,7 +202,7 @@
    ]
   },
   {
-   "stem": "A dance routine is",
+   "stem": "A dance routine is ___",
    "answer": "the same order of steps done again and again",
    "distractors": [
     "a single jump done only once in the day",
@@ -220,7 +211,7 @@
    ]
   },
   {
-   "stem": "A forward roll is started from a",
+   "stem": "A forward roll is started from a ___",
    "answer": "squat, with the two hands placed on the mat",
    "distractors": [
     "standing jump, with the legs kicked high",
@@ -229,16 +220,16 @@
    ]
   },
   {
-   "stem": "A roll must be done on a mat or soft ground because",
-   "answer": "a hard floor can hurt the neck and the back",
+   "stem": "Before rolling on the mat, the chin is ___",
+   "answer": "tucked to the chest",
    "distractors": [
-    "the mat is colourful and clean to look at",
-    "the floor of the class is dusty",
-    "soft ground is faster for running"
+    "lifted to the sky",
+    "turned to the left",
+    "hidden under the arm"
    ]
   },
   {
-   "stem": "Sport develops flexibility, which is the ability to",
+   "stem": "Sport develops flexibility, which is the ability to ___",
    "answer": "bend and stretch easily",
    "distractors": [
     "run a long distance",
@@ -247,7 +238,7 @@
    ]
   },
   {
-   "stem": "Agility is the ability to",
+   "stem": "Agility is the ability to ___",
    "answer": "move quickly and change direction",
    "distractors": [
     "hold a pose for a long time",
@@ -256,7 +247,7 @@
    ]
   },
   {
-   "stem": "Reaction is shown when",
+   "stem": "Reaction is shown when ___",
    "answer": "the ear hears the clap and the leg starts to run",
    "distractors": [
     "the eye closes slowly at the time for sleep",
@@ -265,12 +256,21 @@
    ]
   },
   {
-   "stem": "Strength is built by",
+   "stem": "Strength is built by ___",
    "answer": "exercise and play",
    "distractors": [
     "long sleeping",
     "eating sweets only",
     "sitting and watching"
+   ]
+  },
+  {
+   "stem": "At my age sport is for ___",
+   "answer": "learning and growing up fit",
+   "distractors": [
+    "winning money for the family",
+    "only the big silver prizes",
+    "pain and a lot of tiredness"
    ]
   }
  ],

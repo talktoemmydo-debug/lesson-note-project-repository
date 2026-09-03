@@ -68,7 +68,10 @@ if __name__ == "__main__":
          lambda c, o: "" if c == 0 else o.splitlines()[-1], ["manifest", "FAIL"])
     gate("notes     — the house shape, the register, nothing that prints an answer",
          ["tools/polish_audit.py", "--class", cls, "--term", term, "--list", "0"],
-         lambda c, o: "" if "0 to fix" in o else keep(o, r"\d+ to fix"), ["notes   :"])
+         # NOT `"0 to fix" in o`: that substring also sits inside "20 to fix", "30 to fix", "100 to fix",
+         # so any count ending in zero passed the gate while the notes were still dirty.  Found 3 Sep 2026
+         # on Nursery 2 First Term, which read ALL CLEAR at 20 to fix.  Anchor the zero to a word start.
+         lambda c, o: "" if re.search(r"(?<![\d])0 to fix", o) else keep(o, r"\d+ to fix"), ["notes   :"])
     srcdir = ROOT / "data/exams/src"
     if srcdir.exists():
         srcs = sorted(srcdir.glob(f"{slug}__{term.lower().replace(chr(32), chr(45))}__*.txt"))
@@ -79,7 +82,7 @@ if __name__ == "__main__":
              ["tools/sheet_check.py", "--class", cls, "--term", term],
              lambda c, o: "" if c == 0 else keep(o, r"PROBLEM|needs|!!"), ["all sheets"])
         gate("sheets    — no right option is the long one a child could guess",
-             ["tools/sheet_lint.py"], lambda c, o: "" if re.search(r"re-balance: 0", o) else "lines to re-balance", [])
+             ["tools/sheet_lint.py"], lambda c, o: "" if re.search(r"re-balance: (?![1-9])0", o) else "lines to re-balance", [])
         for f in sorted((ROOT / "data/exams").glob(f"{slug}__{term.lower().replace(chr(32), chr(45))}__*.json")):
             gate(f"papers    — {f.stem.split('__')[-1]} balanced and re-lettered",
                  ["tools/make_exam.py", str(f.relative_to(ROOT)), "--seed", "0", "--strict"],

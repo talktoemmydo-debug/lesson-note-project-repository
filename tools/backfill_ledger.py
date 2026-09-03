@@ -3,7 +3,7 @@
 
 The ledger is never typed by hand.  It runs `tools/img_import.py --check`, reads the
 `X of Y notes carry a plate` lines it prints, subtracts the subjects the owner freed
-from pictures (see `EXEMPT` — five word-only subjects, in every term), and lays the rest out as a queue
+from pictures (see `EXEMPT` — seven word-only subjects, in every term), and lays the rest out as a queue
 with the term's own line on it.  Run it at the start of a sweep turn and again at the end.
 """
 from __future__ import annotations
@@ -18,7 +18,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 EXEMPT = {"yoruba", "general-knowledge", "nigerian-history",     # owner's word, 2 Sep 2026:
           "social-and-citizenship-studies",                       #   these subjects carry no art
-          "christian-religious-studies"}                          #   "CRS does not need images"
+          "christian-religious-studies",                          #   "CRS does not need images"
+          "mathematics-english-mathematics",                      # owner's word, 3 Sep 2026: maths and
+          "mathematics-english-english-language"}                 #   english are word-only too
 TERM_ORDER = {"2nd-term": 0, "1st-term": 1, "3rd-term": 2}
 TERM_PRETTY = {"1st-term": "First Term", "2nd-term": "Second Term", "3rd-term": "Third Term"}
 LINE = re.compile(r"plates\s+: (\d+(?:st|nd|rd)-term)/([a-z0-9-]+): (\d+) of (\d+) notes carry a plate")
@@ -74,7 +76,7 @@ def main() -> int:
         "",
         "## How a sweep turn runs",
         "",
-        "1. Take the top unfinished row and read that file's `### WEEK` heads plus its `**You will learn to**`",
+        "1. Take the top unfinished row and read that file's `### WEEK` heads plus its `**Main content**`",
         "   bullets — the plate draws the **scene** the note teaches.",
         "2. Every writing surface in the drawing is blank: no letters, no words, no numbers, no drawn punctuation;",
         "   a clock gets twelve marks and no numerals; a full stop is one small solid round dot.  People are drawn",

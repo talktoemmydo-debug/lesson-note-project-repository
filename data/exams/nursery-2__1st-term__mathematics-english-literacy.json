@@ -4,7 +4,7 @@
  "term": "1st Term",
  "objective": [
   {
-   "stem": "The English alphabet has letters",
+   "stem": "The English alphabet has letters ___",
    "answer": "26",
    "distractors": [
     "24",
@@ -13,7 +13,7 @@
    ]
   },
   {
-   "stem": "The small letter of \"B\" is",
+   "stem": "The small letter of \"B\" is ___",
    "answer": "b",
    "distractors": [
     "d",
@@ -22,7 +22,7 @@
    ]
   },
   {
-   "stem": "The letters A, B, C, D, E, F are called the",
+   "stem": "The letters A, B, C, D, E, F are called the ___",
    "answer": "first six letters of the alphabet",
    "distractors": [
     "last six letters of the alphabet",
@@ -31,7 +31,7 @@
    ]
   },
   {
-   "stem": "The sound made by the letter C in \"cat\" is",
+   "stem": "The sound made by the letter C in \"cat\" is ___",
    "answer": "/k/",
    "distractors": [
     "/s/",
@@ -49,7 +49,7 @@
    ]
   },
   {
-   "stem": "The letter that begins \"egg\" is",
+   "stem": "The letter that begins \"egg\" is ___",
    "answer": "E",
    "distractors": [
     "A",
@@ -58,7 +58,7 @@
    ]
   },
   {
-   "stem": "The pair that matches correctly is",
+   "stem": "The pair that matches correctly is ___",
    "answer": "Hh",
    "distractors": [
     "Ha",
@@ -67,7 +67,7 @@
    ]
   },
   {
-   "stem": "The letter that begins \"lion\" is",
+   "stem": "The letter that begins \"lion\" is ___",
    "answer": "L",
    "distractors": [
     "R",
@@ -76,7 +76,7 @@
    ]
   },
   {
-   "stem": "Both G and K can be heard in",
+   "stem": "Both G and K can be heard in ___",
    "answer": "goat and kite",
    "distractors": [
     "hat and jam",
@@ -85,7 +85,7 @@
    ]
   },
   {
-   "stem": "Mm, Nn, Oo, Pp, Qq, Rr are letters we reviewed in",
+   "stem": "Mm, Nn, Oo, Pp, Qq, Rr are letters we reviewed in ___",
    "answer": "Week 3",
    "distractors": [
     "Week 1",
@@ -94,7 +94,7 @@
    ]
   },
   {
-   "stem": "The letter that always needs a \"u\" after it is",
+   "stem": "The letter that always needs a \"u\" after it is ___",
    "answer": "q",
    "distractors": [
     "p",
@@ -112,7 +112,7 @@
    ]
   },
   {
-   "stem": "The last eight letters of the alphabet are",
+   "stem": "The last eight letters of the alphabet are ___",
    "answer": "s, t, u, v, w, x, y, z",
    "distractors": [
     "a, b, c, d, e, f, g, h",
@@ -121,7 +121,7 @@
    ]
   },
   {
-   "stem": "The letter X in \"fox\" says",
+   "stem": "The letter X in \"fox\" says ___",
    "answer": "/ks/",
    "distractors": [
     "/z/",
@@ -130,7 +130,7 @@
    ]
   },
   {
-   "stem": "A CVC word is a word made of",
+   "stem": "A CVC word is a word made of ___",
    "answer": "consonant, vowel, consonant",
    "distractors": [
     "three vowels together",
@@ -139,7 +139,7 @@
    ]
   },
   {
-   "stem": "The word made by c-a-t is",
+   "stem": "The word made by c-a-t is ___",
    "answer": "cat",
    "distractors": [
     "cut",
@@ -157,7 +157,7 @@
    ]
   },
   {
-   "stem": "The word that rhymes with \"pen\" is",
+   "stem": "The word that rhymes with \"pen\" is ___",
    "answer": "ten",
    "distractors": [
     "tin",
@@ -166,7 +166,7 @@
    ]
   },
   {
-   "stem": "The middle sound in \"pan\" is",
+   "stem": "The middle sound in \"pan\" is ___",
    "answer": "/a/",
    "distractors": [
     "/e/",
@@ -175,7 +175,7 @@
    ]
   },
   {
-   "stem": "p-e-n spells",
+   "stem": "p-e-n spells ___",
    "answer": "pen",
    "distractors": [
     "pin",
@@ -184,7 +184,7 @@
    ]
   },
   {
-   "stem": "\"dog\" belongs to the word family",
+   "stem": "\"dog\" belongs to the word family ___",
    "answer": "-og",
    "distractors": [
     "-en",
@@ -193,7 +193,7 @@
    ]
   },
   {
-   "stem": "The sounds b-u-g make the word",
+   "stem": "The sounds b-u-g make the word ___",
    "answer": "bug",
    "distractors": [
     "big",
@@ -202,7 +202,7 @@
    ]
   },
   {
-   "stem": "sun, bun, run and fun all belong to the family",
+   "stem": "sun, bun, run and fun all belong to the family ___",
    "answer": "-un",
    "distractors": [
     "-op",
@@ -211,7 +211,7 @@
    ]
   },
   {
-   "stem": "The word that means the highest place and rhymes with \"hop\" is",
+   "stem": "The word that means the highest place and rhymes with \"hop\" is ___",
    "answer": "top",
    "distractors": [
     "mop",
@@ -220,7 +220,7 @@
    ]
   },
   {
-   "stem": "bug, hug, mug and rug belong to the family",
+   "stem": "bug, hug, mug and rug belong to the family ___",
    "answer": "-ug",
    "distractors": [
     "-un",
@@ -229,7 +229,7 @@
    ]
   },
   {
-   "stem": "The question that asks about a person is",
+   "stem": "The question that asks about a person is ___",
    "answer": "who",
    "distractors": [
     "what",
@@ -238,7 +238,7 @@
    ]
   },
   {
-   "stem": "A story is told in this order",
+   "stem": "A story is told in this order ___",
    "answer": "beginning, middle and end",
    "distractors": [
     "end, middle and beginning",
@@ -247,7 +247,7 @@
    ]
   },
   {
-   "stem": "The lesson a story teaches is called the",
+   "stem": "The lesson a story teaches is called the ___",
    "answer": "moral",
    "distractors": [
     "cover",
@@ -256,7 +256,7 @@
    ]
   },
   {
-   "stem": "In class we listen to a story with",
+   "stem": "In class we listen to a story with ___",
    "answer": "eyes on the teller and the mouth kept quiet",
    "distractors": [
     "hands up and the feet running about",
@@ -265,7 +265,7 @@
    ]
   },
   {
-   "stem": "Changing the first sound of \"cat\" to \"h\" gives",
+   "stem": "Changing the first sound of \"cat\" to \"h\" gives ___",
    "answer": "hat",
    "distractors": [
     "hit",
@@ -278,7 +278,12 @@
   {
    "stem": "Write the first six letters of the alphabet in small letters. ",
    "points": [
-    "a b c d e f"
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
    ]
   },
   {
@@ -304,7 +309,13 @@
   {
    "stem": "Write the -at family — any four words. ",
    "points": [
-    "cat bat rat mat hat sat fat"
+    "cat",
+    "bat",
+    "rat",
+    "mat",
+    "hat",
+    "sat",
+    "fat"
    ]
   },
   {
@@ -317,13 +328,20 @@
   {
    "stem": "Name three letters that go below the line when we write them. ",
    "points": [
-    "g j p q y"
+    "g",
+    "j",
+    "p",
+    "q",
+    "y"
    ]
   },
   {
    "stem": "Read this sentence and say the CVC words in it: \"The big bug sat on the log.\" ",
    "points": [
-    "big bug sat log"
+    "big",
+    "bug",
+    "sat",
+    "log"
    ]
   },
   {
@@ -338,7 +356,14 @@
   {
    "stem": "Write the last eight letters of the alphabet. ",
    "points": [
-    "s t u v w x y z"
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z"
    ]
   },
   {

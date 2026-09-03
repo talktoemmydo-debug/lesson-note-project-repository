@@ -13,15 +13,7 @@ bottle caps rather than with written work only.*
 
 *Depth: NERDC Primary 2 · Mathematics · First Term W1 and W2 (pp 675–676); Nursery 3 · Numeracy · Second Term W7.*
 
-**You will learn to**
-
-• count from 1 to 200 without losing my place
-• read and write numbers 1–200 in figures and in words
-• say how many hundreds, tens and units are in a number
-• compare two numbers with >, < and =
-• count in 2s, 3s, 5s and 10s
-
-**Things to know**
+**Main content**
 
 • Counting 1–100 is what I already know; this week we go on to **101, 102 … 200**.
 • **100** is one hundred. **200** is two hundred — it is **two hundreds**, or **twenty tens**.
@@ -71,14 +63,7 @@ Draw twenty dots in two rows of ten and colour one whole row.
 
 *Depth: NERDC Nursery 1 · Numeracy · Second Term W2 and Third Term W2 (tens and ones), reinforced by Primary 2 · First Term W1–W2.*
 
-**You will learn to**
-
-• group objects into tens and ones
-• say the tens and ones in a two-digit number
-• use a tens-and-ones chart
-• build a number from its tens and ones
-
-**Things to know**
+**Main content**
 
 • **Ten ones make one ten.** That one sentence is the whole lesson.
 • Tie sticks in bundles of ten: three bundles and four loose sticks = **34**.
@@ -123,14 +108,7 @@ Take 40 beans or caps and group them into tens; write how many tens and how many
 
 *Depth: NERDC Primary 2 · Mathematics · First Term W1 (pp 675–676); Nursery 3 · Numeracy · Second Term W1.*
 
-**You will learn to**
-
-• write the names of numbers from 1 to 100 in words
-• spell the tricky number names
-• read a number name and write the figure
-• match figures to words
-
-**Things to know**
+**Main content**
 
 • 1 **one**, 2 **two**, 3 **three**, 4 **four**, 5 **five**, 6 **six**, 7 **seven**, 8 **eight**, 9 **nine**, 10 **ten**.
 • The teens are the hard ones: 11 **eleven**, 12 **twelve**, 13 **thirteen**, 15 **fifteen**, 18 **eighteen**, 20 **twenty**.
@@ -175,14 +153,7 @@ Write the number names of your age, your class number and your house number, the
 
 *Depth: NERDC Primary 2 · Mathematics · First Term W1 (pp 675–676).*
 
-**You will learn to**
-
-• turn a number name into figures quickly
-• hear a number and write it
-• not mix up -teen and -ty
-• check what I wrote
-
-**Things to know**
+**Main content**
 
 • "Writing words in figures" is the opposite of last week: **thirty-six → 36**.
 • Say the word in parts: **sixty-three** = sixty (60) + three (3) → **63**.
@@ -228,14 +199,7 @@ Write one, two and three in words on three cards, cut the cards out and paste th
 
 *Depth: NERDC Primary 1 · Mathematics · First Term W7 (pp 618–619).*
 
-**You will learn to**
-
-• say that addition means putting together
-• use the signs + and =
-• add within 5 in two formats
-• tell an addition story with objects
-
-**Things to know**
+**Main content**
 
 • **Addition** means **putting together** or **adding more**; the answer is called the **sum** or **total**.
 • The **plus sign (+)** means "and" or "more"; the **equals sign (=)** means "is the same as".
@@ -280,15 +244,7 @@ Write two addition sums within 5 from things in your house (cups, spoons, plates
 
 *Depth: NERDC Primary 1 · Mathematics · First Term W8 (pp 618–619); Primary 2 · First Term W7 and W8.*
 
-**You will learn to**
-
-• add within 10 with objects and pictures
-• add two single digits in my head
-• add 2-digit numbers without carrying
-• use a number line to add
-• check an addition with subtraction
-
-**Things to know**
+**Main content**
 
 • **Addition facts to 10** are the things I must know without counting: 6 + 4 = 10, 7 + 3 = 10, 8 + 2 = 10, 9 + 1 = 10.
 • Adding **zero**: 9 + 0 = 9; adding one: 9 + 1 = 10.
@@ -337,14 +293,7 @@ Draw four stones in one circle and three in another, join the circles with a plu
 
 *Depth: NERDC Nursery 2 · Numeracy · Third Term W1 (pp 344–347); Primary 1 · Mathematics · First Term W9 (pp 618–619).*
 
-**You will learn to**
-
-• say that subtraction means taking away
-• use the minus sign (−)
-• subtract within 5 with objects and pictures
-• tell what zero does in subtraction
-
-**Things to know**
+**Main content**
 
 • **Subtraction** means **taking away**, **removing**, or finding the **difference** between two numbers.
 • The **minus sign (−)** means "take away"; the answer is called the **difference** or the **remainder**.
@@ -392,15 +341,7 @@ Draw seven oranges, cross out two, and colour the five that are left.
 
 *Depth: NERDC Primary 1 · Mathematics · First Term W10 (pp 618–619); Primary 2 · First Term W9 and W10 (pp 675–676).*
 
-**You will learn to**
-
-• subtract within 10 fluently
-• subtract 2-digit numbers without borrowing
-• borrow when the ones are not enough
-• check a subtraction with addition
-• use subtraction with money and with objects
-
-**Things to know**
+**Main content**
 
 • **Subtraction facts within 10**: 10 − 4 = 6, 10 − 7 = 3, 9 − 5 = 4 — these must be quick.
 • Subtracting zero changes nothing: 8 − 0 = 8.

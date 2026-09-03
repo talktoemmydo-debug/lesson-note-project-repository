@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — OUR WORLD: THE SEVEN CONTINENTS
 
-**You will learn to**
-
-• name the seven continents
-
-• say what a continent is
-
-• know our continent
-
-**Things to know**
+**Main content**
 
 • The **world** is made up of big lands called **continents**.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — OUR WORLD: THE FIVE OCEANS
 
-**You will learn to**
-
-• name the five oceans
-
-• say what an ocean is
-
-• know our ocean
-
-**Things to know**
+**Main content**
 
 • The world has big bodies of **salt water** called **oceans**.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — COUNTRIES AND CAPITALS: AFRICA
 
-**You will learn to**
-
-• name African countries
-
-• name their capitals
-
-• know our neighbours
-
-**Things to know**
+**Main content**
 
 • **Africa** has many **countries**.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — COUNTRIES AND CAPITALS: THE WORLD
 
-**You will learn to**
-
-• name countries in the world
-
-• name their capitals
-
-• know the world
-
-**Things to know**
+**Main content**
 
 • The world has many **countries**.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — NIGERIAN CULTURE: LANGUAGES, DRESS AND FESTIVALS
 
-**You will learn to**
-
-• name Nigerian languages
-
-• name our dresses and festivals
-
-• value our culture
-
-**Things to know**
+**Main content**
 
 • Nigeria has many **languages**.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — THE HUMAN BODY AND HEALTHY HABITS
 
-**You will learn to**
-
-• name parts of the body
-
-• name healthy habits
-
-• care for the body
-
-**Things to know**
+**Main content**
 
 • The **human body** has many parts.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — PLANTS, ANIMALS AND THEIR HABITATS
 
-**You will learn to**
-
-• name plants and animals
-
-• name their habitats
-
-• care for them
-
-**Things to know**
+**Main content**
 
 • A **habitat** is where a plant or animal lives.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — TECHNOLOGY AROUND US
 
-**You will learn to**
-
-• name technology around us
-
-• say how we use it
-
-• use technology well
-
-**Things to know**
+**Main content**
 
 • **Technology** is the tools and machines we use.
 

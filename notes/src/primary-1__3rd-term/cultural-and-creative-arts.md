@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — PATTERNS AND DESIGN
 
-**You will learn to**
-
-• say what a pattern is
-
-• make simple patterns
-
-• use patterns in art
-
-**Things to know**
+**Main content**
 
 • A **pattern** is a design that repeats.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — PRINTMAKING
 
-**You will learn to**
-
-• say what printmaking is
-
-• make a simple print
-
-• use objects to print
-
-**Things to know**
+**Main content**
 
 • **Printmaking** is making a picture by pressing.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — WEAVING AND BASKETRY
 
-**You will learn to**
-
-• say what weaving is
-
-• weave with paper or straw
-
-• make a simple basket or mat
-
-**Things to know**
+**Main content**
 
 • **Weaving** is crossing strands over and under.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — POTTERY AND CLAY WORK
 
-**You will learn to**
-
-• say what pottery is
-
-• mould with clay
-
-• make a simple pot
-
-**Things to know**
+**Main content**
 
 • **Pottery** is making things from clay.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — FOLK SONGS AND RHYMES
 
-**You will learn to**
-
-• sing folk songs
-
-• say what a folk song is
-
-• enjoy our songs
-
-**Things to know**
+**Main content**
 
 • A **folk song** is a song of our people.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — CULTURAL DANCES
 
-**You will learn to**
-
-• name cultural dances
-
-• dance a cultural dance
-
-• respect our dances
-
-**Things to know**
+**Main content**
 
 • A **cultural dance** is a dance of our people.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — PUPPETRY AND MASQUERADE
 
-**You will learn to**
-
-• say what a puppet is
-
-• say what a masquerade is
-
-• enjoy puppet and masquerade shows
-
-**Things to know**
+**Main content**
 
 • A **puppet** is a doll we move to act a story.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — OUR CULTURAL HERITAGE
 
-**You will learn to**
-
-• say what cultural heritage is
-
-• name parts of our heritage
-
-• value our heritage
-
-**Things to know**
+**Main content**
 
 • **Cultural heritage** is what our people pass down to us.
 

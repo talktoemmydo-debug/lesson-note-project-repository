@@ -12,14 +12,7 @@ is printed here is the minimum extent of depth to reach.*
 
 *Depth: NERDC Nursery 3 · PHE · Second Term W2 (pp 552–557).*
 
-**You will learn to**
-
-• name the feelings that come when I play
-• tell the good feelings from the hard ones
-• say how a game helps me manage my feelings
-• play on after losing without becoming wild
-
-**Things to know**
+**Main content**
 
 • **Emotions** are the feelings of the heart: joy, fear, anger, pride, disappointment.
 • Games and sports move my feelings; that is one reason play teaches more than the leg.
@@ -68,14 +61,7 @@ Draw two children sharing one ball and colour the ball.
 
 *Depth: NERDC Nursery 3 · PHE · Second Term W3 (pp 552–557).*
 
-**You will learn to**
-
-• play with others toward one goal
-• name the ten social things a game teaches
-• take turns at leading and at following
-• welcome a new player into my game
-
-**Things to know**
+**Main content**
 
 • **Social development** is learning to live and work with other people; a game is a small town with rules.
 • **Cooperation** is working together and helping a team-mate when his line fails.
@@ -125,14 +111,7 @@ Draw the team you played with and colour every shirt a different colour.
 
 *Depth: NERDC Nursery 3 · PHE · Second Term W4 (pp 552–557).*
 
-**You will learn to**
-
-• stand at attention
-• march on the spot and march forward in time
-• turn left, right and about on command
-• say why we march
-
-**Things to know**
+**Main content**
 
 • **Marching** is organized walking in rhythm and in a formation — the feet step, the arms swing, everybody moves as one.
 • **At attention**: heels together, toes a little apart, body straight, arms at the sides, eyes front, mouth quiet, chest up.
@@ -183,14 +162,7 @@ Draw six children marching one behind the other and colour their shoes.
 
 *Depth: NERDC Nursery 3 · PHE · Second Term W7 (Swinging and Twisting) and W8 (Jumping and Bending), pp 552–557 — the school keeps both in one week.*
 
-**You will learn to**
-
-• swing arms and legs with control
-• twist the trunk from side to side
-• jump on two feet and land soft
-• bend forward, sideways and down
-
-**Things to know**
+**Main content**
 
 • **Swinging** moves a body part back and forth, or round and round, without leaving the ground.
 • **Arm swings**: forward and back, side to side, big circles front and big circles back; both arms together, then one after the other.
@@ -242,14 +214,7 @@ Draw yourself jumping in the air and colour the shoes you jumped in.
 
 *Depth: NERDC Nursery 3 · PHE · Second Term W9 (pp 552–557).*
 
-**You will learn to**
-
-• say what neuromuscular means
-• climb steps, a low ladder and a frame with control
-• place my hands and feet before I move my weight
-• say the safety rules of climbing
-
-**Things to know**
+**Main content**
 
 • **Neuromuscular** means **the nerves (brain and messages) working with the muscles**: the eye sees, the brain decides, the muscle moves, and the body keeps balance.
 • **Climbing** is moving the body up or over something using hands and feet together.
@@ -300,14 +265,7 @@ Draw a ladder and colour the rung your hand reaches highest.
 
 *Depth: NERDC Nursery 3 · PHE · Second Term W10 (pp 552–557).*
 
-**You will learn to**
-
-• run a short race straight to the line
-• take the standing and the crouching start
-• run a race in pairs with a partner
-• keep the rules and the spirit of the race
-
-**Things to know**
+**Main content**
 
 • A **track event** is a race run on a marked path called the **track**; on the day of the sports fete we run in our **lane** and do not cross into another child's.
 • Our short distance is the **25-metre race** — about the length of the class hall laid flat.
@@ -355,14 +313,7 @@ Time yourself over ten long steps on a safe ground three times, and write which 
 
 *Depth: NERDC Nursery 3 · PHE · Second Term W11 (pp 552–557).*
 
-**You will learn to**
-
-• say what posture means
-• sit, stand, read and sleep well
-• tell what bad posture does to the body
-• keep a straight back when I write
-
-**Things to know**
+**Main content**
 
 • **Posture** is the position in which I hold my body when I sit, stand, move or rest.
 • **Good sitting posture**: back against the chair, bottom well back, both **feet flat on the floor**, back straight, shoulders relaxed, head level and not pushed forward.
@@ -413,14 +364,7 @@ Draw one child sitting straight and one bending over; colour the one with good p
 
 *Depth: NERDC Nursery 3 · PHE · Third Term W1 (pp 558–563).*
 
-**You will learn to**
-
-• say what an indoor game is
-• name games we can play inside
-• play Ludo, puzzles and simple card games well
-• balance indoor play with outdoor play
-
-**Things to know**
+**Main content**
 
 • An **indoor game** is a game played **inside a building**, in a room or a hall, that needs **little space** and makes **little noise**.
 • We play indoor games when the **weather is bad**: rain, too much sun, or a harmattan so dusty that running would hurt the chest.

@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — KÍKÀ (COUNTING)
 
-**You will learn to**
-
-• count in Yoruba to 20
-
-• say numbers in Yoruba
-
-• count things
-
-**Things to know**
+**Main content**
 
 • We can count in **Yoruba** from 1 to 20.
 
@@ -82,15 +74,7 @@ written for them.
 
 ### WEEK 2 — ÀWỌ̀ (COLOURS)
 
-**You will learn to**
-
-• name colours in Yoruba
-
-• say the colour of things
-
-• use colours
-
-**Things to know**
+**Main content**
 
 • **Colours** in Yoruba are **àwọ̀**.
 
@@ -156,15 +140,7 @@ written for them.
 
 ### WEEK 3 — Ẹ̀YÀ ARA (PARTS OF THE BODY)
 
-**You will learn to**
-
-• name parts of the body in Yoruba
-
-• say what each part does
-
-• care for the body
-
-**Things to know**
+**Main content**
 
 • The parts of the body in Yoruba are **ẹ̀yà ara**.
 
@@ -228,15 +204,7 @@ written for them.
 
 ### WEEK 4 — OÚNJẸ (FOOD)
 
-**You will learn to**
-
-• name foods in Yoruba
-
-• say what we eat
-
-• eat good food
-
-**Things to know**
+**Main content**
 
 • We eat different **foods** (oúnjẹ).
 
@@ -302,15 +270,7 @@ written for them.
 
 ### WEEK 5 — ẸRANKO (ANIMALS)
 
-**You will learn to**
-
-• name animals in Yoruba
-
-• say what animals do
-
-• care for animals
-
-**Things to know**
+**Main content**
 
 • Animals in Yoruba are **ẹranko**.
 
@@ -374,15 +334,7 @@ written for them.
 
 ### WEEK 6 — ILÉ ÀTI OHUN ÈLÒ (HOME AND THINGS)
 
-**You will learn to**
-
-• name parts of the home in Yoruba
-
-• name things at home
-
-• care for our home
-
-**Things to know**
+**Main content**
 
 • The **home** in Yoruba is **ilé**.
 
@@ -448,15 +400,7 @@ written for them.
 
 ### WEEK 8 — ORIN (SONGS)
 
-**You will learn to**
-
-• sing Yoruba songs
-
-• name songs we sing
-
-• sing with joy
-
-**Things to know**
+**Main content**
 
 • **Songs** (orin) are words we sing.
 
@@ -520,15 +464,7 @@ written for them.
 
 ### WEEK 9 — ÌTÀN (STORIES)
 
-**You will learn to**
-
-• listen to stories
-
-• tell simple stories
-
-• learn from stories
-
-**Things to know**
+**Main content**
 
 • A **story** (ìtàn) tells us about people and events.
 
@@ -592,15 +528,7 @@ written for them.
 
 ### WEEK 11 — ÀTÚNWÒ (REVISION)
 
-**You will learn to**
-
-• revise what we learnt
-
-• practise counting and colours
-
-• prepare for the paper
-
-**Things to know**
+**Main content**
 
 • This week we **revise** our Yoruba work.
 

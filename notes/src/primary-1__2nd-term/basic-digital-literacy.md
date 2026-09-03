@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — THE DESKTOP AND ICONS
 
-**You will learn to**
-
-• name the parts of the computer screen
-
-• say what an icon is
-
-• point to items on the desktop
-
-**Things to know**
+**Main content**
 
 • The first screen we see is the **desktop**.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — USING THE MOUSE
 
-**You will learn to**
-
-• hold the mouse the right way
-
-• move the pointer
-
-• click and drag
-
-**Things to know**
+**Main content**
 
 • The **mouse** moves the pointer on the screen.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — THE KEYBOARD: LETTER AND NUMBER KEYS
 
-**You will learn to**
-
-• name the parts of the keyboard
-
-• find the letter keys
-
-• find the number keys
-
-**Things to know**
+**Main content**
 
 • The **keyboard** has keys we press to type.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — TYPING SIMPLE WORDS
 
-**You will learn to**
-
-• type my name
-
-• type simple words
-
-• use the space and enter keys
-
-**Things to know**
+**Main content**
 
 • We type by pressing the letter keys.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — OPENING AND CLOSING A PROGRAM
 
-**You will learn to**
-
-• open a program
-
-• close a program
-
-• save my work
-
-**Things to know**
+**Main content**
 
 • We **open** a program by clicking its icon.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — DRAWING WITH THE COMPUTER
 
-**You will learn to**
-
-• open a drawing program
-
-• draw with the tools
-
-• colour a picture
-
-**Things to know**
+**Main content**
 
 • A **drawing program** lets us paint on the screen.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — LEARNING WITH THE COMPUTER
 
-**You will learn to**
-
-• name ways the computer helps us learn
-
-• use a learning program
-
-• play and learn
-
-**Things to know**
+**Main content**
 
 • The computer helps us to **learn**.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — SAFE HABITS WITH THE COMPUTER
 
-**You will learn to**
-
-• say how to use the computer safely
-
-• name good habits
-
-• care for the computer
-
-**Things to know**
+**Main content**
 
 • We use the computer with a **grown-up** near.
 

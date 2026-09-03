@@ -8,15 +8,7 @@ and each stream carries its own term paper.
 
 ### WEEK 1 — WHOLE NUMBERS UP TO 999 (PART 1)
 
-**You will learn to**
-
-• count up to 999
-
-• say place value
-
-• read big numbers
-
-**Things to know**
+**Main content**
 
 • We can count **whole numbers** up to 999.
 
@@ -82,15 +74,7 @@ and each stream carries its own term paper.
 
 ### WEEK 2 — WHOLE NUMBERS UP TO 999 (PART 2)
 
-**You will learn to**
-
-• read numbers up to 999
-
-• write numbers in words
-
-• write words in figures
-
-**Things to know**
+**Main content**
 
 • We can **read** numbers up to 999.
 
@@ -156,15 +140,7 @@ and each stream carries its own term paper.
 
 ### WEEK 3 — WHOLE NUMBERS UP TO 999 (PART 3)
 
-**You will learn to**
-
-• compare numbers
-
-• order numbers
-
-• say which is bigger
-
-**Things to know**
+**Main content**
 
 • We can **compare** numbers up to 999.
 
@@ -230,15 +206,7 @@ and each stream carries its own term paper.
 
 ### WEEK 4 — FRACTIONS (PART 1)
 
-**You will learn to**
-
-• say what a fraction is
-
-• name a half
-
-• show a half
-
-**Things to know**
+**Main content**
 
 • A **fraction** is a part of a whole.
 
@@ -304,15 +272,7 @@ and each stream carries its own term paper.
 
 ### WEEK 5 — FRACTIONS (PART 2)
 
-**You will learn to**
-
-• name a quarter
-
-• name a third
-
-• show simple fractions
-
-**Things to know**
+**Main content**
 
 • A **quarter** is one of four equal parts.
 
@@ -378,15 +338,7 @@ and each stream carries its own term paper.
 
 ### WEEK 6 — FRACTIONS (PART 3)
 
-**You will learn to**
-
-• show fractions of shapes
-
-• name the fraction
-
-• colour fractions
-
-**Things to know**
+**Main content**
 
 • We can show fractions of **shapes**.
 
@@ -452,15 +404,7 @@ and each stream carries its own term paper.
 
 ### WEEK 8 — FRACTIONS (PART 4)
 
-**You will learn to**
-
-• find fractions of a collection
-
-• share things fairly
-
-• use fractions
-
-**Things to know**
+**Main content**
 
 • We can find fractions of a **collection** of things.
 

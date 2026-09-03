@@ -21,119 +21,119 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 4 — HEALTH AND CLEANLINESS](#week-4-health-and-cleanliness) · 5
   - [WEEK 5 — WATER](#week-5-water) · 5
   - [WEEK 6 — WEATHER AND SEASONS](#week-6-weather-and-seasons) · 6
-  - [WEEK 8 — LIGHT AND SOUND](#week-8-light-and-sound) · 7
+  - [WEEK 8 — LIGHT AND SOUND](#week-8-light-and-sound) · 6
   - [WEEK 9 — THE SUN, MOON AND STARS](#week-9-the-sun-moon-and-stars) · 7
-- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 9
-  - [WEEK 1 — COLOUR](#week-1-colour) · 9
-  - [WEEK 2 — DRAWING AND COLOURING](#week-2-drawing-and-colouring) · 9
-  - [WEEK 3 — MODELLING](#week-3-modelling) · 10
-  - [WEEK 4 — CRAFT WORK](#week-4-craft-work) · 11
-  - [WEEK 5 — MUSIC AND SONGS](#week-5-music-and-songs) · 11
-  - [WEEK 6 — MUSICAL INSTRUMENTS](#week-6-musical-instruments) · 12
-  - [WEEK 8 — DANCE AND MOVEMENT](#week-8-dance-and-movement) · 13
-  - [WEEK 9 — DRAMA AND ROLE PLAY](#week-9-drama-and-role-play) · 13
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 15
-  - [WEEK 1 — THE BIRTH OF JESUS](#week-1-the-birth-of-jesus) · 15
-  - [WEEK 2 — THE SHEPHERDS AND THE WISE MEN](#week-2-the-shepherds-and-the-wise-men) · 15
-  - [WEEK 3 — JESUS AS A BOY](#week-3-jesus-as-a-boy) · 16
-  - [WEEK 4 — THE BAPTISM OF JESUS](#week-4-the-baptism-of-jesus) · 17
-  - [WEEK 5 — THE TEMPTATION OF JESUS](#week-5-the-temptation-of-jesus) · 17
-  - [WEEK 6 — JESUS CALLS THE FIRST DISCIPLES](#week-6-jesus-calls-the-first-disciples) · 18
-  - [WEEK 8 — JESUS TURNS WATER INTO WINE](#week-8-jesus-turns-water-into-wine) · 19
-  - [WEEK 9 — JESUS LOVES THE CHILDREN](#week-9-jesus-loves-the-children) · 19
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 21
-  - [WEEK 1 — THE DESKTOP AND ICONS](#week-1-the-desktop-and-icons) · 21
-  - [WEEK 2 — USING THE MOUSE](#week-2-using-the-mouse) · 21
-  - [WEEK 3 — THE KEYBOARD: LETTER AND NUMBER KEYS](#week-3-the-keyboard-letter-and-number-keys) · 22
-  - [WEEK 4 — TYPING SIMPLE WORDS](#week-4-typing-simple-words) · 23
-  - [WEEK 5 — OPENING AND CLOSING A PROGRAM](#week-5-opening-and-closing-a-program) · 23
-  - [WEEK 6 — DRAWING WITH THE COMPUTER](#week-6-drawing-with-the-computer) · 24
-  - [WEEK 8 — LEARNING WITH THE COMPUTER](#week-8-learning-with-the-computer) · 25
-  - [WEEK 9 — SAFE HABITS WITH THE COMPUTER](#week-9-safe-habits-with-the-computer) · 25
-- **[Nigerian History](#nigerian-history)** · 27
-  - [WEEK 1 — NIGERIAN HEROES AND HEROINES](#week-1-nigerian-heroes-and-heroines) · 27
-  - [WEEK 2 — TRADITIONAL RULERS](#week-2-traditional-rulers) · 27
-  - [WEEK 3 — NIGERIAN FESTIVALS](#week-3-nigerian-festivals) · 28
-  - [WEEK 4 — NIGERIAN CRAFTS](#week-4-nigerian-crafts) · 29
-  - [WEEK 5 — NIGERIAN MUSIC AND DANCE](#week-5-nigerian-music-and-dance) · 29
-  - [WEEK 6 — NIGERIAN FOOD AND DRESS](#week-6-nigerian-food-and-dress) · 30
-  - [WEEK 8 — OUR NEIGHBOURS](#week-8-our-neighbours) · 31
-  - [WEEK 9 — NIGERIAN NATIONAL SYMBOLS](#week-9-nigerian-national-symbols) · 31
-- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 33
-  - [WEEK 1 — JUMPING](#week-1-jumping) · 33
-  - [WEEK 2 — THROWING AND CATCHING](#week-2-throwing-and-catching) · 33
-  - [WEEK 3 — BALL GAMES](#week-3-ball-games) · 34
-  - [WEEK 4 — GYMNASTICS AND MOVEMENT](#week-4-gymnastics-and-movement) · 35
-  - [WEEK 5 — REST AND SLEEP](#week-5-rest-and-sleep) · 35
-  - [WEEK 6 — FOOD AND NUTRITION](#week-6-food-and-nutrition) · 36
-  - [WEEK 8 — SAFETY IN PLAY](#week-8-safety-in-play) · 37
-  - [WEEK 9 — THE VALUE OF EXERCISE](#week-9-the-value-of-exercise) · 37
-- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 39
-  - [WEEK 1 — PLANTING A GARDEN](#week-1-planting-a-garden) · 39
-  - [WEEK 2 — CARING FOR CROPS](#week-2-caring-for-crops) · 39
-  - [WEEK 3 — ANIMALS AND THEIR YOUNG](#week-3-animals-and-their-young) · 40
-  - [WEEK 4 — PREPARING MORE FOODS](#week-4-preparing-more-foods) · 41
-  - [WEEK 5 — KEEPING THE SCHOOL CLEAN](#week-5-keeping-the-school-clean) · 41
-  - [WEEK 6 — REUSING WASTE](#week-6-reusing-waste) · 42
-  - [WEEK 8 — SIMPLE SEWING](#week-8-simple-sewing) · 43
-  - [WEEK 9 — JOBS IN THE COMMUNITY](#week-9-jobs-in-the-community) · 43
-- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 45
-  - [WEEK 1 — FRIENDS AND NEIGHBOURS](#week-1-friends-and-neighbours) · 45
-  - [WEEK 2 — THE EXTENDED FAMILY](#week-2-the-extended-family) · 45
-  - [WEEK 3 — COMMUNITY LEADERS](#week-3-community-leaders) · 46
-  - [WEEK 4 — OUR COUNTRY, NIGERIA](#week-4-our-country-nigeria) · 47
-  - [WEEK 5 — RIGHTS AND DUTIES OF A CHILD](#week-5-rights-and-duties-of-a-child) · 47
-  - [WEEK 6 — HONESTY](#week-6-honesty) · 48
-  - [WEEK 8 — OBEDIENCE AND RESPECT](#week-8-obedience-and-respect) · 49
-  - [WEEK 9 — CARING FOR PUBLIC PROPERTY](#week-9-caring-for-public-property) · 49
-- **[Yoruba](#yoruba)** · 51
-  - [WEEK 1 — NỌ́MBÀ 11-20 (NUMBERS 11-20)](#week-1-nọmbà-11-20-numbers-11-20) · 51
-  - [WEEK 2 — AṢỌ (CLOTHES)](#week-2-aṣọ-clothes) · 51
-  - [WEEK 3 — ILÉ-Ẹ̀KỌ́ (SCHOOL)](#week-3-ilé-ẹkọ-school) · 52
-  - [WEEK 4 — ỌJÀ (MARKET)](#week-4-ọjà-market) · 53
-  - [WEEK 5 — ÌLÚ (TOWN)](#week-5-ìlú-town) · 53
-  - [WEEK 6 — IṢẸ́ (ACTIONS)](#week-6-iṣẹ-actions) · 54
-  - [WEEK 8 — OJU ỌJỌ́ (WEATHER)](#week-8-oju-ọjọ-weather) · 55
-  - [WEEK 9 — ÈSO (FRUITS)](#week-9-èso-fruits) · 55
-  - [WEEK 11 — OHUN ÈLÒ ILÉ (THINGS IN THE HOME)](#week-11-ohun-èlò-ilé-things-in-the-home) · 56
-- **[Mathematics & English](#mathematics-english)** · 58
-  - [WEEK 1 — LISTENING TO AND TELLING STORIES](#week-1-listening-to-and-telling-stories) · 58
-  - [WEEK 2 — PHONICS PRACTICE: CONSONANT CLUSTERS AND WORD BUILDING](#week-2-phonics-practice-consonant-clusters-and-word-building) · 58
-  - [WEEK 3 — COMPREHENSION II: SHORT PASSAGES AND RHYMES](#week-3-comprehension-ii-short-passages-and-rhymes) · 59
-  - [WEEK 4 — USING PLURALS OF NOUNS](#week-4-using-plurals-of-nouns) · 60
-  - [WEEK 5 — FLUENCY AND READING ALOUD](#week-5-fluency-and-reading-aloud) · 60
-  - [WEEK 6 — SONGS, RHYMES AND ORAL GAMES](#week-6-songs-rhymes-and-oral-games) · 61
-  - [WEEK 8 — INTRODUCING ADVERBS](#week-8-introducing-adverbs) · 62
-  - [WEEK 9 — PHONICS: CONSONANT DIGRAPHS ch, sh, th, wh, ph](#week-9-phonics-consonant-digraphs-ch-sh-th-wh-ph) · 62
-  - [WEEK 1 — MULTIPLICATION (PART 1)](#week-1-multiplication-part-1) · 63
-  - [WEEK 2 — MULTIPLICATION (PART 2)](#week-2-multiplication-part-2) · 64
-  - [WEEK 3 — OPEN SENTENCES](#week-3-open-sentences) · 64
-  - [WEEK 4 — MONEY (PART 1)](#week-4-money-part-1) · 65
-  - [WEEK 5 — MONEY (PART 2)](#week-5-money-part-2) · 66
-  - [WEEK 6 — LENGTH](#week-6-length) · 66
-  - [WEEK 8 — TIME (PART 1)](#week-8-time-part-1) · 67
-  - [WEEK 9 — TIME (PART 2)](#week-9-time-part-2) · 68
-- **[General Knowledge](#general-knowledge)** · 69
-  - [WEEK 1 — MY FRIENDS](#week-1-my-friends) · 69
-  - [WEEK 2 — DAYS AND MONTHS](#week-2-days-and-months) · 69
-  - [WEEK 3 — TIME AND THE CLOCK](#week-3-time-and-the-clock) · 70
-  - [WEEK 4 — WEATHER AND SEASONS](#week-4-weather-and-seasons) · 71
-  - [WEEK 5 — PLANTS AND ANIMALS AROUND US](#week-5-plants-and-animals-around-us) · 71
-  - [WEEK 6 — FOOD AND NUTRITION](#week-6-food-and-nutrition-1) · 36
-  - [WEEK 8 — SAFETY AT HOME AND ON THE ROAD](#week-8-safety-at-home-and-on-the-road) · 73
-  - [WEEK 9 — OUR FESTIVALS](#week-9-our-festivals) · 73
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 2nd Term)](#examination-practice-basic-science-primary-1-2nd-term)** · 75
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-1-2nd-term)** · 77
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 2nd Term)](#examination-practice-christian-religious-studies-primary-1-2nd-term)** · 79
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-1-2nd-term)** · 81
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 2nd Term)](#examination-practice-nigerian-history-primary-1-2nd-term)** · 83
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 2nd Term)](#examination-practice-physical-and-health-education-primary-1-2nd-term)** · 85
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 2nd Term)](#examination-practice-prevocational-studies-primary-1-2nd-term)** · 87
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 2nd Term)](#examination-practice-social-and-citizenship-studies-primary-1-2nd-term)** · 89
-- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 2nd Term)](#examination-practice-yoruba-primary-1-2nd-term)** · 91
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 2nd Term)](#examination-practice-mathematics-english-english-language-primary-1-2nd-term)** · 93
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 2nd Term)](#examination-practice-mathematics-english-mathematics-primary-1-2nd-term)** · 95
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 2nd Term)](#examination-practice-general-knowledge-primary-1-2nd-term)** · 97
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
+  - [WEEK 1 — COLOUR](#week-1-colour) · 8
+  - [WEEK 2 — DRAWING AND COLOURING](#week-2-drawing-and-colouring) · 8
+  - [WEEK 3 — MODELLING](#week-3-modelling) · 9
+  - [WEEK 4 — CRAFT WORK](#week-4-craft-work) · 9
+  - [WEEK 5 — MUSIC AND SONGS](#week-5-music-and-songs) · 10
+  - [WEEK 6 — MUSICAL INSTRUMENTS](#week-6-musical-instruments) · 11
+  - [WEEK 8 — DANCE AND MOVEMENT](#week-8-dance-and-movement) · 11
+  - [WEEK 9 — DRAMA AND ROLE PLAY](#week-9-drama-and-role-play) · 12
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 13
+  - [WEEK 1 — THE BIRTH OF JESUS](#week-1-the-birth-of-jesus) · 13
+  - [WEEK 2 — THE SHEPHERDS AND THE WISE MEN](#week-2-the-shepherds-and-the-wise-men) · 13
+  - [WEEK 3 — JESUS AS A BOY](#week-3-jesus-as-a-boy) · 14
+  - [WEEK 4 — THE BAPTISM OF JESUS](#week-4-the-baptism-of-jesus) · 14
+  - [WEEK 5 — THE TEMPTATION OF JESUS](#week-5-the-temptation-of-jesus) · 15
+  - [WEEK 6 — JESUS CALLS THE FIRST DISCIPLES](#week-6-jesus-calls-the-first-disciples) · 16
+  - [WEEK 8 — JESUS TURNS WATER INTO WINE](#week-8-jesus-turns-water-into-wine) · 16
+  - [WEEK 9 — JESUS LOVES THE CHILDREN](#week-9-jesus-loves-the-children) · 17
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 18
+  - [WEEK 1 — THE DESKTOP AND ICONS](#week-1-the-desktop-and-icons) · 18
+  - [WEEK 2 — USING THE MOUSE](#week-2-using-the-mouse) · 18
+  - [WEEK 3 — THE KEYBOARD: LETTER AND NUMBER KEYS](#week-3-the-keyboard-letter-and-number-keys) · 19
+  - [WEEK 4 — TYPING SIMPLE WORDS](#week-4-typing-simple-words) · 19
+  - [WEEK 5 — OPENING AND CLOSING A PROGRAM](#week-5-opening-and-closing-a-program) · 20
+  - [WEEK 6 — DRAWING WITH THE COMPUTER](#week-6-drawing-with-the-computer) · 21
+  - [WEEK 8 — LEARNING WITH THE COMPUTER](#week-8-learning-with-the-computer) · 21
+  - [WEEK 9 — SAFE HABITS WITH THE COMPUTER](#week-9-safe-habits-with-the-computer) · 22
+- **[Nigerian History](#nigerian-history)** · 23
+  - [WEEK 1 — NIGERIAN HEROES AND HEROINES](#week-1-nigerian-heroes-and-heroines) · 23
+  - [WEEK 2 — TRADITIONAL RULERS](#week-2-traditional-rulers) · 23
+  - [WEEK 3 — NIGERIAN FESTIVALS](#week-3-nigerian-festivals) · 24
+  - [WEEK 4 — NIGERIAN CRAFTS](#week-4-nigerian-crafts) · 24
+  - [WEEK 5 — NIGERIAN MUSIC AND DANCE](#week-5-nigerian-music-and-dance) · 25
+  - [WEEK 6 — NIGERIAN FOOD AND DRESS](#week-6-nigerian-food-and-dress) · 26
+  - [WEEK 8 — OUR NEIGHBOURS](#week-8-our-neighbours) · 26
+  - [WEEK 9 — NIGERIAN NATIONAL SYMBOLS](#week-9-nigerian-national-symbols) · 27
+- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 28
+  - [WEEK 1 — JUMPING](#week-1-jumping) · 28
+  - [WEEK 2 — THROWING AND CATCHING](#week-2-throwing-and-catching) · 28
+  - [WEEK 3 — BALL GAMES](#week-3-ball-games) · 29
+  - [WEEK 4 — GYMNASTICS AND MOVEMENT](#week-4-gymnastics-and-movement) · 29
+  - [WEEK 5 — REST AND SLEEP](#week-5-rest-and-sleep) · 30
+  - [WEEK 6 — FOOD AND NUTRITION](#week-6-food-and-nutrition) · 31
+  - [WEEK 8 — SAFETY IN PLAY](#week-8-safety-in-play) · 31
+  - [WEEK 9 — THE VALUE OF EXERCISE](#week-9-the-value-of-exercise) · 32
+- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 33
+  - [WEEK 1 — PLANTING A GARDEN](#week-1-planting-a-garden) · 33
+  - [WEEK 2 — CARING FOR CROPS](#week-2-caring-for-crops) · 33
+  - [WEEK 3 — ANIMALS AND THEIR YOUNG](#week-3-animals-and-their-young) · 34
+  - [WEEK 4 — PREPARING MORE FOODS](#week-4-preparing-more-foods) · 34
+  - [WEEK 5 — KEEPING THE SCHOOL CLEAN](#week-5-keeping-the-school-clean) · 35
+  - [WEEK 6 — REUSING WASTE](#week-6-reusing-waste) · 36
+  - [WEEK 8 — SIMPLE SEWING](#week-8-simple-sewing) · 36
+  - [WEEK 9 — JOBS IN THE COMMUNITY](#week-9-jobs-in-the-community) · 37
+- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 38
+  - [WEEK 1 — FRIENDS AND NEIGHBOURS](#week-1-friends-and-neighbours) · 38
+  - [WEEK 2 — THE EXTENDED FAMILY](#week-2-the-extended-family) · 38
+  - [WEEK 3 — COMMUNITY LEADERS](#week-3-community-leaders) · 39
+  - [WEEK 4 — OUR COUNTRY, NIGERIA](#week-4-our-country-nigeria) · 39
+  - [WEEK 5 — RIGHTS AND DUTIES OF A CHILD](#week-5-rights-and-duties-of-a-child) · 40
+  - [WEEK 6 — HONESTY](#week-6-honesty) · 41
+  - [WEEK 8 — OBEDIENCE AND RESPECT](#week-8-obedience-and-respect) · 41
+  - [WEEK 9 — CARING FOR PUBLIC PROPERTY](#week-9-caring-for-public-property) · 42
+- **[Yoruba](#yoruba)** · 43
+  - [WEEK 1 — NỌ́MBÀ 11-20 (NUMBERS 11-20)](#week-1-nọmbà-11-20-numbers-11-20) · 43
+  - [WEEK 2 — AṢỌ (CLOTHES)](#week-2-aṣọ-clothes) · 43
+  - [WEEK 3 — ILÉ-Ẹ̀KỌ́ (SCHOOL)](#week-3-ilé-ẹkọ-school) · 44
+  - [WEEK 4 — ỌJÀ (MARKET)](#week-4-ọjà-market) · 44
+  - [WEEK 5 — ÌLÚ (TOWN)](#week-5-ìlú-town) · 45
+  - [WEEK 6 — IṢẸ́ (ACTIONS)](#week-6-iṣẹ-actions) · 46
+  - [WEEK 8 — OJU ỌJỌ́ (WEATHER)](#week-8-oju-ọjọ-weather) · 46
+  - [WEEK 9 — ÈSO (FRUITS)](#week-9-èso-fruits) · 47
+  - [WEEK 11 — OHUN ÈLÒ ILÉ (THINGS IN THE HOME)](#week-11-ohun-èlò-ilé-things-in-the-home) · 47
+- **[Mathematics & English](#mathematics-english)** · 49
+  - [WEEK 1 — LISTENING TO AND TELLING STORIES](#week-1-listening-to-and-telling-stories) · 49
+  - [WEEK 2 — PHONICS PRACTICE: CONSONANT CLUSTERS AND WORD BUILDING](#week-2-phonics-practice-consonant-clusters-and-word-building) · 49
+  - [WEEK 3 — COMPREHENSION II: SHORT PASSAGES AND RHYMES](#week-3-comprehension-ii-short-passages-and-rhymes) · 50
+  - [WEEK 4 — USING PLURALS OF NOUNS](#week-4-using-plurals-of-nouns) · 50
+  - [WEEK 5 — FLUENCY AND READING ALOUD](#week-5-fluency-and-reading-aloud) · 51
+  - [WEEK 6 — SONGS, RHYMES AND ORAL GAMES](#week-6-songs-rhymes-and-oral-games) · 52
+  - [WEEK 8 — INTRODUCING ADVERBS](#week-8-introducing-adverbs) · 52
+  - [WEEK 9 — PHONICS: CONSONANT DIGRAPHS ch, sh, th, wh, ph](#week-9-phonics-consonant-digraphs-ch-sh-th-wh-ph) · 53
+  - [WEEK 1 — MULTIPLICATION (PART 1)](#week-1-multiplication-part-1) · 53
+  - [WEEK 2 — MULTIPLICATION (PART 2)](#week-2-multiplication-part-2) · 54
+  - [WEEK 3 — OPEN SENTENCES](#week-3-open-sentences) · 55
+  - [WEEK 4 — MONEY (PART 1)](#week-4-money-part-1) · 55
+  - [WEEK 5 — MONEY (PART 2)](#week-5-money-part-2) · 56
+  - [WEEK 6 — LENGTH](#week-6-length) · 56
+  - [WEEK 8 — TIME (PART 1)](#week-8-time-part-1) · 57
+  - [WEEK 9 — TIME (PART 2)](#week-9-time-part-2) · 58
+- **[General Knowledge](#general-knowledge)** · 59
+  - [WEEK 1 — MY FRIENDS](#week-1-my-friends) · 59
+  - [WEEK 2 — DAYS AND MONTHS](#week-2-days-and-months) · 59
+  - [WEEK 3 — TIME AND THE CLOCK](#week-3-time-and-the-clock) · 60
+  - [WEEK 4 — WEATHER AND SEASONS](#week-4-weather-and-seasons) · 61
+  - [WEEK 5 — PLANTS AND ANIMALS AROUND US](#week-5-plants-and-animals-around-us) · 61
+  - [WEEK 6 — FOOD AND NUTRITION](#week-6-food-and-nutrition-1) · 31
+  - [WEEK 8 — SAFETY AT HOME AND ON THE ROAD](#week-8-safety-at-home-and-on-the-road) · 62
+  - [WEEK 9 — OUR FESTIVALS](#week-9-our-festivals) · 63
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 2nd Term)](#examination-practice-basic-science-primary-1-2nd-term)** · 64
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 2nd Term)](#examination-practice-cultural-and-creative-arts-primary-1-2nd-term)** · 66
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 2nd Term)](#examination-practice-christian-religious-studies-primary-1-2nd-term)** · 68
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 2nd Term)](#examination-practice-basic-digital-literacy-primary-1-2nd-term)** · 70
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 2nd Term)](#examination-practice-nigerian-history-primary-1-2nd-term)** · 72
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 2nd Term)](#examination-practice-physical-and-health-education-primary-1-2nd-term)** · 74
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 2nd Term)](#examination-practice-prevocational-studies-primary-1-2nd-term)** · 76
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 2nd Term)](#examination-practice-social-and-citizenship-studies-primary-1-2nd-term)** · 78
+- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 2nd Term)](#examination-practice-yoruba-primary-1-2nd-term)** · 80
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 2nd Term)](#examination-practice-mathematics-english-english-language-primary-1-2nd-term)** · 82
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 2nd Term)](#examination-practice-mathematics-english-mathematics-primary-1-2nd-term)** · 84
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 2nd Term)](#examination-practice-general-knowledge-primary-1-2nd-term)** · 86
 
 
 
@@ -152,15 +152,7 @@ written for them.
 
 ### WEEK 1 — PLANTS
 
-**You will learn to**
-
-• name the parts of a plant
-
-• say what each part does
-
-• care for a plant
-
-**Things to know**
+**Main content**
 
 • A **plant** is a living thing that grows in the soil.
 
@@ -226,15 +218,7 @@ written for them.
 
 ### WEEK 2 — ANIMALS
 
-**You will learn to**
-
-• name domestic and wild animals
-
-• say where animals live
-
-• be kind to animals
-
-**Things to know**
+**Main content**
 
 • An **animal** is a living thing that can move.
 
@@ -300,15 +284,7 @@ written for them.
 
 ### WEEK 3 — OUR SENSE ORGANS
 
-**You will learn to**
-
-• name the five sense organs
-
-• say what each sense organ does
-
-• care for our sense organs
-
-**Things to know**
+**Main content**
 
 • We have **five senses**: sight, hearing, smell, taste and touch.
 
@@ -374,15 +350,7 @@ written for them.
 
 ### WEEK 4 — HEALTH AND CLEANLINESS
 
-**You will learn to**
-
-• say how to keep the body clean
-
-• name ways germs spread
-
-• keep ourselves healthy
-
-**Things to know**
+**Main content**
 
 • **Germs** are tiny things that can make us sick.
 
@@ -448,15 +416,7 @@ written for them.
 
 ### WEEK 5 — WATER
 
-**You will learn to**
-
-• say where we get water
-
-• name the uses of water
-
-• keep water clean
-
-**Things to know**
+**Main content**
 
 • **Water** is a liquid we drink and use every day.
 
@@ -522,15 +482,7 @@ written for them.
 
 ### WEEK 6 — WEATHER AND SEASONS
 
-**You will learn to**
-
-• name the types of weather
-
-• say what we do in each weather
-
-• name the seasons
-
-**Things to know**
+**Main content**
 
 • **Weather** is how the air is on a day.
 
@@ -596,15 +548,7 @@ written for them.
 
 ### WEEK 8 — LIGHT AND SOUND
 
-**You will learn to**
-
-• name sources of light
-
-• name sources of sound
-
-• care for our eyes and ears
-
-**Things to know**
+**Main content**
 
 • **Light** helps us to see.
 
@@ -670,15 +614,7 @@ written for them.
 
 ### WEEK 9 — THE SUN, MOON AND STARS
 
-**You will learn to**
-
-• name the sun, moon and stars
-
-• say when we see them
-
-• tell day from night
-
-**Things to know**
+**Main content**
 
 • The **sun** is a big ball of light and heat.
 
@@ -756,15 +692,7 @@ written for them.
 
 ### WEEK 1 — COLOUR
 
-**You will learn to**
-
-• name the primary colours
-
-• name the secondary colours
-
-• mix colours
-
-**Things to know**
+**Main content**
 
 • The **primary colours** are red, blue and yellow.
 
@@ -830,15 +758,7 @@ written for them.
 
 ### WEEK 2 — DRAWING AND COLOURING
 
-**You will learn to**
-
-• draw simple objects
-
-• colour a drawing neatly
-
-• use art tools well
-
-**Things to know**
+**Main content**
 
 • **Drawing** is making a picture with lines.
 
@@ -904,15 +824,7 @@ written for them.
 
 ### WEEK 3 — MODELLING
 
-**You will learn to**
-
-• say what modelling is
-
-• mould with clay
-
-• make simple shapes
-
-**Things to know**
+**Main content**
 
 • **Modelling** is making shapes with soft material.
 
@@ -978,15 +890,7 @@ written for them.
 
 ### WEEK 4 — CRAFT WORK
 
-**You will learn to**
-
-• say what craft work is
-
-• weave and fold
-
-• make a simple craft
-
-**Things to know**
+**Main content**
 
 • **Craft work** is making things with our hands.
 
@@ -1052,15 +956,7 @@ written for them.
 
 ### WEEK 5 — MUSIC AND SONGS
 
-**You will learn to**
-
-• sing simple songs
-
-• say what music is
-
-• keep time when we sing
-
-**Things to know**
+**Main content**
 
 • **Music** is sound that is pleasing to hear.
 
@@ -1126,15 +1022,7 @@ written for them.
 
 ### WEEK 6 — MUSICAL INSTRUMENTS
 
-**You will learn to**
-
-• name local musical instruments
-
-• say how each is played
-
-• play a simple beat
-
-**Things to know**
+**Main content**
 
 • A **musical instrument** makes music.
 
@@ -1200,15 +1088,7 @@ written for them.
 
 ### WEEK 8 — DANCE AND MOVEMENT
 
-**You will learn to**
-
-• move to music
-
-• name dance steps
-
-• dance in our culture
-
-**Things to know**
+**Main content**
 
 • **Dance** is moving the body to music.
 
@@ -1274,15 +1154,7 @@ written for them.
 
 ### WEEK 9 — DRAMA AND ROLE PLAY
 
-**You will learn to**
-
-• say what drama is
-
-• act out a simple story
-
-• play a role
-
-**Things to know**
+**Main content**
 
 • **Drama** is acting out a story.
 
@@ -1360,15 +1232,7 @@ written for them.
 
 ### WEEK 1 — THE BIRTH OF JESUS
 
-**You will learn to**
-
-• tell the story of the birth of Jesus
-
-• name where Jesus was born
-
-• thank God for Jesus
-
-**Things to know**
+**Main content**
 
 • An angel told **Mary** that she would have a baby.
 
@@ -1434,15 +1298,7 @@ written for them.
 
 ### WEEK 2 — THE SHEPHERDS AND THE WISE MEN
 
-**You will learn to**
-
-• tell how the shepherds heard the news
-
-• tell about the wise men
-
-• give to Jesus as they did
-
-**Things to know**
+**Main content**
 
 • **Shepherds** were watching their sheep at night.
 
@@ -1508,15 +1364,7 @@ written for them.
 
 ### WEEK 3 — JESUS AS A BOY
 
-**You will learn to**
-
-• tell how Jesus grew as a boy
-
-• say how Jesus obeyed
-
-• obey as Jesus did
-
-**Things to know**
+**Main content**
 
 • Jesus grew up in **Nazareth**.
 
@@ -1582,15 +1430,7 @@ written for them.
 
 ### WEEK 4 — THE BAPTISM OF JESUS
 
-**You will learn to**
-
-• tell the story of the baptism of Jesus
-
-• name who baptised Jesus
-
-• say what happened
-
-**Things to know**
+**Main content**
 
 • **John the Baptist** baptised people in the river.
 
@@ -1656,15 +1496,7 @@ written for them.
 
 ### WEEK 5 — THE TEMPTATION OF JESUS
 
-**You will learn to**
-
-• tell how the devil tempted Jesus
-
-• say how Jesus answered
-
-• resist doing wrong
-
-**Things to know**
+**Main content**
 
 • Jesus went into the **wilderness** and did not eat for forty days.
 
@@ -1730,15 +1562,7 @@ written for them.
 
 ### WEEK 6 — JESUS CALLS THE FIRST DISCIPLES
 
-**You will learn to**
-
-• tell how Jesus called his first disciples
-
-• name some disciples
-
-• follow Jesus as they did
-
-**Things to know**
+**Main content**
 
 • A **disciple** is a person who follows and learns from Jesus.
 
@@ -1804,15 +1628,7 @@ written for them.
 
 ### WEEK 8 — JESUS TURNS WATER INTO WINE
 
-**You will learn to**
-
-• tell the story of the wedding at Cana
-
-• say what Jesus did
-
-• know that Jesus can help
-
-**Things to know**
+**Main content**
 
 • Jesus and his mother went to a **wedding** at **Cana**.
 
@@ -1878,15 +1694,7 @@ written for them.
 
 ### WEEK 9 — JESUS LOVES THE CHILDREN
 
-**You will learn to**
-
-• tell how Jesus loved the children
-
-• say how Jesus welcomed them
-
-• love others as Jesus did
-
-**Things to know**
+**Main content**
 
 • People brought their **children** to Jesus.
 
@@ -1964,15 +1772,7 @@ written for them.
 
 ### WEEK 1 — THE DESKTOP AND ICONS
 
-**You will learn to**
-
-• name the parts of the computer screen
-
-• say what an icon is
-
-• point to items on the desktop
-
-**Things to know**
+**Main content**
 
 • The first screen we see is the **desktop**.
 
@@ -2038,15 +1838,7 @@ written for them.
 
 ### WEEK 2 — USING THE MOUSE
 
-**You will learn to**
-
-• hold the mouse the right way
-
-• move the pointer
-
-• click and drag
-
-**Things to know**
+**Main content**
 
 • The **mouse** moves the pointer on the screen.
 
@@ -2112,15 +1904,7 @@ written for them.
 
 ### WEEK 3 — THE KEYBOARD: LETTER AND NUMBER KEYS
 
-**You will learn to**
-
-• name the parts of the keyboard
-
-• find the letter keys
-
-• find the number keys
-
-**Things to know**
+**Main content**
 
 • The **keyboard** has keys we press to type.
 
@@ -2186,15 +1970,7 @@ written for them.
 
 ### WEEK 4 — TYPING SIMPLE WORDS
 
-**You will learn to**
-
-• type my name
-
-• type simple words
-
-• use the space and enter keys
-
-**Things to know**
+**Main content**
 
 • We type by pressing the letter keys.
 
@@ -2260,15 +2036,7 @@ written for them.
 
 ### WEEK 5 — OPENING AND CLOSING A PROGRAM
 
-**You will learn to**
-
-• open a program
-
-• close a program
-
-• save my work
-
-**Things to know**
+**Main content**
 
 • We **open** a program by clicking its icon.
 
@@ -2334,15 +2102,7 @@ written for them.
 
 ### WEEK 6 — DRAWING WITH THE COMPUTER
 
-**You will learn to**
-
-• open a drawing program
-
-• draw with the tools
-
-• colour a picture
-
-**Things to know**
+**Main content**
 
 • A **drawing program** lets us paint on the screen.
 
@@ -2408,15 +2168,7 @@ written for them.
 
 ### WEEK 8 — LEARNING WITH THE COMPUTER
 
-**You will learn to**
-
-• name ways the computer helps us learn
-
-• use a learning program
-
-• play and learn
-
-**Things to know**
+**Main content**
 
 • The computer helps us to **learn**.
 
@@ -2482,15 +2234,7 @@ written for them.
 
 ### WEEK 9 — SAFE HABITS WITH THE COMPUTER
 
-**You will learn to**
-
-• say how to use the computer safely
-
-• name good habits
-
-• care for the computer
-
-**Things to know**
+**Main content**
 
 • We use the computer with a **grown-up** near.
 
@@ -2568,15 +2312,7 @@ written for them.
 
 ### WEEK 1 — NIGERIAN HEROES AND HEROINES
 
-**You will learn to**
-
-• say who a hero is
-
-• name Nigerian heroes and heroines
-
-• learn from their good deeds
-
-**Things to know**
+**Main content**
 
 • A **hero** is a person who does brave and good things.
 
@@ -2642,15 +2378,7 @@ written for them.
 
 ### WEEK 2 — TRADITIONAL RULERS
 
-**You will learn to**
-
-• say who a traditional ruler is
-
-• name titles of traditional rulers
-
-• respect our rulers
-
-**Things to know**
+**Main content**
 
 • A **traditional ruler** is a leader of a town or people.
 
@@ -2716,15 +2444,7 @@ written for them.
 
 ### WEEK 3 — NIGERIAN FESTIVALS
 
-**You will learn to**
-
-• say what a festival is
-
-• name Nigerian festivals
-
-• respect our festivals
-
-**Things to know**
+**Main content**
 
 • A **festival** is a special time of celebration.
 
@@ -2790,15 +2510,7 @@ written for them.
 
 ### WEEK 4 — NIGERIAN CRAFTS
 
-**You will learn to**
-
-• say what a craft is
-
-• name Nigerian crafts
-
-• value our crafts
-
-**Things to know**
+**Main content**
 
 • A **craft** is something made with the hands.
 
@@ -2864,15 +2576,7 @@ written for them.
 
 ### WEEK 5 — NIGERIAN MUSIC AND DANCE
 
-**You will learn to**
-
-• name Nigerian musical instruments
-
-• name Nigerian dances
-
-• enjoy our music
-
-**Things to know**
+**Main content**
 
 • Nigeria has many kinds of music.
 
@@ -2938,15 +2642,7 @@ written for them.
 
 ### WEEK 6 — NIGERIAN FOOD AND DRESS
 
-**You will learn to**
-
-• name Nigerian foods
-
-• name Nigerian clothes
-
-• value our food and dress
-
-**Things to know**
+**Main content**
 
 • Nigeria has many kinds of food.
 
@@ -3012,15 +2708,7 @@ written for them.
 
 ### WEEK 8 — OUR NEIGHBOURS
 
-**You will learn to**
-
-• name countries near Nigeria
-
-• say who our neighbours are
-
-• live well with our neighbours
-
-**Things to know**
+**Main content**
 
 • Nigeria is in **West Africa**.
 
@@ -3086,15 +2774,7 @@ written for them.
 
 ### WEEK 9 — NIGERIAN NATIONAL SYMBOLS
 
-**You will learn to**
-
-• name Nigerian national symbols
-
-• say what each symbol means
-
-• respect our symbols
-
-**Things to know**
+**Main content**
 
 • **National symbols** stand for our country.
 
@@ -3172,15 +2852,7 @@ written for them.
 
 ### WEEK 1 — JUMPING
 
-**You will learn to**
-
-• jump with both feet
-
-• jump far and jump high
-
-• land safely
-
-**Things to know**
+**Main content**
 
 • **Jumping** is pushing the body off the ground.
 
@@ -3246,15 +2918,7 @@ written for them.
 
 ### WEEK 2 — THROWING AND CATCHING
 
-**You will learn to**
-
-• throw a ball
-
-• catch a ball
-
-• throw and catch with a friend
-
-**Things to know**
+**Main content**
 
 • **Throwing** is sending a ball away with the hand.
 
@@ -3320,15 +2984,7 @@ written for them.
 
 ### WEEK 3 — BALL GAMES
 
-**You will learn to**
-
-• name ball games
-
-• kick and control a ball
-
-• play as a team
-
-**Things to know**
+**Main content**
 
 • A **ball game** is a game played with a ball.
 
@@ -3394,15 +3050,7 @@ written for them.
 
 ### WEEK 4 — GYMNASTICS AND MOVEMENT
 
-**You will learn to**
-
-• roll and balance
-
-• move the body in different ways
-
-• do simple gymnastics
-
-**Things to know**
+**Main content**
 
 • **Gymnastics** is moving the body in skillful ways.
 
@@ -3468,15 +3116,7 @@ written for them.
 
 ### WEEK 5 — REST AND SLEEP
 
-**You will learn to**
-
-• say why we rest
-
-• say why we sleep
-
-• rest and sleep well
-
-**Things to know**
+**Main content**
 
 • **Rest** is taking it easy after work or play.
 
@@ -3542,15 +3182,7 @@ written for them.
 
 ### WEEK 6 — FOOD AND NUTRITION
 
-**You will learn to**
-
-• name the food we eat
-
-• say why we eat good food
-
-• eat to be strong
-
-**Things to know**
+**Main content**
 
 • **Food** gives us energy and helps us grow.
 
@@ -3616,15 +3248,7 @@ written for them.
 
 ### WEEK 8 — SAFETY IN PLAY
 
-**You will learn to**
-
-• say how to play safely
-
-• name dangers in play
-
-• avoid rough play
-
-**Things to know**
+**Main content**
 
 • We play to be happy and strong.
 
@@ -3690,15 +3314,7 @@ written for them.
 
 ### WEEK 9 — THE VALUE OF EXERCISE
 
-**You will learn to**
-
-• say what exercise is
-
-• name the good things exercise does
-
-• exercise every day
-
-**Things to know**
+**Main content**
 
 • **Exercise** is activity that moves the body.
 
@@ -3776,15 +3392,7 @@ written for them.
 
 ### WEEK 1 — PLANTING A GARDEN
 
-**You will learn to**
-
-• say what a garden is
-
-• plant a seed
-
-• care for a young plant
-
-**Things to know**
+**Main content**
 
 • A **garden** is a place where we grow plants.
 
@@ -3850,15 +3458,7 @@ written for them.
 
 ### WEEK 2 — CARING FOR CROPS
 
-**You will learn to**
-
-• say how to care for crops
-
-• weed and water
-
-• protect crops
-
-**Things to know**
+**Main content**
 
 • We **water** crops so they do not dry.
 
@@ -3924,15 +3524,7 @@ written for them.
 
 ### WEEK 3 — ANIMALS AND THEIR YOUNG
 
-**You will learn to**
-
-• name animals and their young
-
-• care for young animals
-
-• say what animals give us
-
-**Things to know**
+**Main content**
 
 • Animals have **young ones**.
 
@@ -3998,15 +3590,7 @@ written for them.
 
 ### WEEK 4 — PREPARING MORE FOODS
 
-**You will learn to**
-
-• prepare simple foods
-
-• prepare a fruit plate
-
-• keep food clean
-
-**Things to know**
+**Main content**
 
 • We can prepare **fruits** like banana, orange and mango.
 
@@ -4072,15 +3656,7 @@ written for them.
 
 ### WEEK 5 — KEEPING THE SCHOOL CLEAN
 
-**You will learn to**
-
-• say how to keep the school clean
-
-• do simple cleaning at school
-
-• keep our class tidy
-
-**Things to know**
+**Main content**
 
 • We **sweep** the classroom floor.
 
@@ -4146,15 +3722,7 @@ written for them.
 
 ### WEEK 6 — REUSING WASTE
 
-**You will learn to**
-
-• say what waste is
-
-• name things we can reuse
-
-• make something from waste
-
-**Things to know**
+**Main content**
 
 • **Waste** is a thing we no longer need.
 
@@ -4220,15 +3788,7 @@ written for them.
 
 ### WEEK 8 — SIMPLE SEWING
 
-**You will learn to**
-
-• say what sewing is
-
-• use a needle and thread
-
-• mend a simple thing
-
-**Things to know**
+**Main content**
 
 • **Sewing** is joining cloth with a needle and thread.
 
@@ -4294,15 +3854,7 @@ written for them.
 
 ### WEEK 9 — JOBS IN THE COMMUNITY
 
-**You will learn to**
-
-• name jobs in the community
-
-• say what each job does
-
-• respect all workers
-
-**Things to know**
+**Main content**
 
 • People do different **jobs** in the community.
 
@@ -4380,15 +3932,7 @@ written for them.
 
 ### WEEK 1 — FRIENDS AND NEIGHBOURS
 
-**You will learn to**
-
-• say who a friend is
-
-• say who a neighbour is
-
-• live well with friends and neighbours
-
-**Things to know**
+**Main content**
 
 • A **friend** is someone I like and play with.
 
@@ -4454,15 +3998,7 @@ written for them.
 
 ### WEEK 2 — THE EXTENDED FAMILY
 
-**You will learn to**
-
-• name the extended family
-
-• say how they are related
-
-• love the extended family
-
-**Things to know**
+**Main content**
 
 • The **extended family** is the bigger family.
 
@@ -4528,15 +4064,7 @@ written for them.
 
 ### WEEK 3 — COMMUNITY LEADERS
 
-**You will learn to**
-
-• name leaders in the community
-
-• say what leaders do
-
-• respect our leaders
-
-**Things to know**
+**Main content**
 
 • A **leader** is a person who guides others.
 
@@ -4602,15 +4130,7 @@ written for them.
 
 ### WEEK 4 — OUR COUNTRY, NIGERIA
 
-**You will learn to**
-
-• say what a country is
-
-• name things about Nigeria
-
-• love my country
-
-**Things to know**
+**Main content**
 
 • A **country** is a land with its own people and government.
 
@@ -4676,15 +4196,7 @@ written for them.
 
 ### WEEK 5 — RIGHTS AND DUTIES OF A CHILD
 
-**You will learn to**
-
-• say what a right is
-
-• say what a duty is
-
-• do my duty
-
-**Things to know**
+**Main content**
 
 • A **right** is something I ought to have.
 
@@ -4750,15 +4262,7 @@ written for them.
 
 ### WEEK 6 — HONESTY
 
-**You will learn to**
-
-• say what honesty is
-
-• tell the truth
-
-• be honest at home and school
-
-**Things to know**
+**Main content**
 
 • **Honesty** means telling the truth.
 
@@ -4824,15 +4328,7 @@ written for them.
 
 ### WEEK 8 — OBEDIENCE AND RESPECT
 
-**You will learn to**
-
-• say what obedience is
-
-• say what respect is
-
-• obey and respect
-
-**Things to know**
+**Main content**
 
 • **Obedience** is doing what I am told.
 
@@ -4898,15 +4394,7 @@ written for them.
 
 ### WEEK 9 — CARING FOR PUBLIC PROPERTY
 
-**You will learn to**
-
-• say what public property is
-
-• name public property
-
-• care for public property
-
-**Things to know**
+**Main content**
 
 • **Public property** is a thing that belongs to everyone.
 
@@ -4984,15 +4472,7 @@ written for them.
 
 ### WEEK 1 — NỌ́MBÀ 11-20 (NUMBERS 11-20)
 
-**You will learn to**
-
-• count from 11 to 20 in Yoruba
-
-• say the Yoruba word for each number
-
-• count things around me
-
-**Things to know**
+**Main content**
 
 • **Mọ́kànlá** means eleven (11).
 
@@ -5058,15 +4538,7 @@ written for them.
 
 ### WEEK 2 — AṢỌ (CLOTHES)
 
-**You will learn to**
-
-• name clothes in Yoruba
-
-• say what each Yoruba word means
-
-• keep my clothes clean
-
-**Things to know**
+**Main content**
 
 • **Aṣọ** means clothes.
 
@@ -5132,15 +4604,7 @@ written for them.
 
 ### WEEK 3 — ILÉ-Ẹ̀KỌ́ (SCHOOL)
 
-**You will learn to**
-
-• name things at school in Yoruba
-
-• name each thing at the market in Yoruba
-
-• love my school
-
-**Things to know**
+**Main content**
 
 • **Ilé-ẹ̀kọ́** means school.
 
@@ -5206,15 +4670,7 @@ written for them.
 
 ### WEEK 4 — ỌJÀ (MARKET)
 
-**You will learn to**
-
-• name things at the market in Yoruba
-
-• give the Yoruba name for each place
-
-• go to the market with a grown-up
-
-**Things to know**
+**Main content**
 
 • **Ọjà** means market.
 
@@ -5280,15 +4736,7 @@ written for them.
 
 ### WEEK 5 — ÌLÚ (TOWN)
 
-**You will learn to**
-
-• name places in the town in Yoruba
-
-• say each action in Yoruba
-
-• love my town
-
-**Things to know**
+**Main content**
 
 • **Ìlú** means town.
 
@@ -5354,15 +4802,7 @@ written for them.
 
 ### WEEK 6 — IṢẸ́ (ACTIONS)
 
-**You will learn to**
-
-• name actions in Yoruba
-
-• say each weather word in Yoruba
-
-• act out the words
-
-**Things to know**
+**Main content**
 
 • **Iṣẹ́** means work or action.
 
@@ -5428,15 +4868,7 @@ written for them.
 
 ### WEEK 8 — OJU ỌJỌ́ (WEATHER)
 
-**You will learn to**
-
-• name the weather in Yoruba
-
-• name each fruit in Yoruba
-
-• dress for the weather
-
-**Things to know**
+**Main content**
 
 • **Ojú ọjọ́** means weather.
 
@@ -5502,15 +4934,7 @@ written for them.
 
 ### WEEK 9 — ÈSO (FRUITS)
 
-**You will learn to**
-
-• name fruits in Yoruba
-
-• say the Yoruba name for each thing
-
-• eat fruit to be strong
-
-**Things to know**
+**Main content**
 
 • **Èso** means fruit.
 
@@ -5576,15 +5000,7 @@ written for them.
 
 ### WEEK 11 — OHUN ÈLÒ ILÉ (THINGS IN THE HOME)
 
-**You will learn to**
-
-• name things in the home in Yoruba
-
-• say the Yoruba word for each
-
-• keep my home clean
-
-**Things to know**
+**Main content**
 
 • **Ohun èlò ilé** means things we use in the home.
 
@@ -5655,15 +5071,7 @@ written for them.
 
 ### WEEK 1 — LISTENING TO AND TELLING STORIES
 
-**You will learn to**
-
-• listen to a story with care
-
-• tell a story in my own words
-
-• say the parts of a story
-
-**Things to know**
+**Main content**
 
 • A **story** tells us about people and events.
 
@@ -5729,15 +5137,7 @@ written for them.
 
 ### WEEK 2 — PHONICS PRACTICE: CONSONANT CLUSTERS AND WORD BUILDING
 
-**You will learn to**
-
-• read words with consonant clusters
-
-• build words from sounds
-
-• spell cluster words
-
-**Things to know**
+**Main content**
 
 • A **consonant cluster** is two or three consonants together, each keeping its sound.
 
@@ -5803,15 +5203,7 @@ written for them.
 
 ### WEEK 3 — COMPREHENSION II: SHORT PASSAGES AND RHYMES
 
-**You will learn to**
-
-• read a short passage
-
-• answer questions about it
-
-• enjoy rhymes
-
-**Things to know**
+**Main content**
 
 • A **passage** is a short piece of writing.
 
@@ -5877,15 +5269,7 @@ written for them.
 
 ### WEEK 4 — USING PLURALS OF NOUNS
 
-**You will learn to**
-
-• say what a plural is
-
-• make the plural of a noun
-
-• use plurals in a sentence
-
-**Things to know**
+**Main content**
 
 • A **noun** is a naming word.
 
@@ -5951,15 +5335,7 @@ written for them.
 
 ### WEEK 5 — FLUENCY AND READING ALOUD
 
-**You will learn to**
-
-• read aloud clearly
-
-• read with the right speed
-
-• read short paragraphs
-
-**Things to know**
+**Main content**
 
 • **Reading aloud** is reading so others can hear.
 
@@ -6025,15 +5401,7 @@ written for them.
 
 ### WEEK 6 — SONGS, RHYMES AND ORAL GAMES
 
-**You will learn to**
-
-• sing songs and rhymes
-
-• play oral games
-
-• say rhymes with actions
-
-**Things to know**
+**Main content**
 
 • A **song** has words we sing.
 
@@ -6099,15 +5467,7 @@ written for them.
 
 ### WEEK 8 — INTRODUCING ADVERBS
 
-**You will learn to**
-
-• say what an adverb is
-
-• name adverbs
-
-• use adverbs in a sentence
-
-**Things to know**
+**Main content**
 
 • An **adverb** tells us more about an action.
 
@@ -6173,15 +5533,7 @@ written for them.
 
 ### WEEK 9 — PHONICS: CONSONANT DIGRAPHS ch, sh, th, wh, ph
 
-**You will learn to**
-
-• know the digraphs ch, sh, th, wh, ph
-
-• read words with these digraphs
-
-• say the sound of each
-
-**Things to know**
+**Main content**
 
 • A **digraph** is two letters that make one new sound.
 
@@ -6247,15 +5599,7 @@ written for them.
 
 ### WEEK 1 — MULTIPLICATION (PART 1)
 
-**You will learn to**
-
-• say what multiplication means
-
-• multiply small numbers
-
-• use the times sign
-
-**Things to know**
+**Main content**
 
 • **Multiplication** means adding the same number again and again.
 
@@ -6321,15 +5665,7 @@ written for them.
 
 ### WEEK 2 — MULTIPLICATION (PART 2)
 
-**You will learn to**
-
-• multiply bigger numbers
-
-• use the times tables of 2, 3 and 5
-
-• solve multiplication sums
-
-**Things to know**
+**Main content**
 
 • We can multiply bigger numbers.
 
@@ -6395,15 +5731,7 @@ written for them.
 
 ### WEEK 3 — OPEN SENTENCES
 
-**You will learn to**
-
-• say what an open sentence is
-
-• find the missing number
-
-• fill in the box
-
-**Things to know**
+**Main content**
 
 • An **open sentence** has a missing number.
 
@@ -6469,15 +5797,7 @@ written for them.
 
 ### WEEK 4 — MONEY (PART 1)
 
-**You will learn to**
-
-• name Nigerian coins and notes
-
-• say the value of money
-
-• count money
-
-**Things to know**
+**Main content**
 
 • **Money** is what we use to buy things.
 
@@ -6543,15 +5863,7 @@ written for them.
 
 ### WEEK 5 — MONEY (PART 2)
 
-**You will learn to**
-
-• add money
-
-• give change
-
-• solve money problems
-
-**Things to know**
+**Main content**
 
 • We can **add** money to find the total.
 
@@ -6617,15 +5929,7 @@ written for them.
 
 ### WEEK 6 — LENGTH
 
-**You will learn to**
-
-• say what length is
-
-• measure length
-
-• compare long and short
-
-**Things to know**
+**Main content**
 
 • **Length** is how long a thing is.
 
@@ -6691,15 +5995,7 @@ written for them.
 
 ### WEEK 8 — TIME (PART 1)
 
-**You will learn to**
-
-• read the clock
-
-• tell the time on the hour
-
-• name the days
-
-**Things to know**
+**Main content**
 
 • A **clock** tells us the time.
 
@@ -6765,15 +6061,7 @@ written for them.
 
 ### WEEK 9 — TIME (PART 2)
 
-**You will learn to**
-
-• tell the time to the half hour
-
-• say the days and months
-
-• plan my day
-
-**Things to know**
+**Main content**
 
 • When the long hand is on 6, it is **half past** the hour.
 
@@ -6851,15 +6139,7 @@ written for them.
 
 ### WEEK 1 — MY FRIENDS
 
-**You will learn to**
-
-• say who a friend is
-
-• name how to be a good friend
-
-• play well with friends
-
-**Things to know**
+**Main content**
 
 • A **friend** is someone I like and play with.
 
@@ -6925,15 +6205,7 @@ written for them.
 
 ### WEEK 2 — DAYS AND MONTHS
 
-**You will learn to**
-
-• name the days of the week
-
-• name the months of the year
-
-• say today's day and month
-
-**Things to know**
+**Main content**
 
 • There are **seven** days in a week.
 
@@ -6999,15 +6271,7 @@ written for them.
 
 ### WEEK 3 — TIME AND THE CLOCK
 
-**You will learn to**
-
-• say what a clock does
-
-• tell the time on the hour
-
-• name parts of the day
-
-**Things to know**
+**Main content**
 
 • A **clock** tells us the time.
 
@@ -7073,15 +6337,7 @@ written for them.
 
 ### WEEK 4 — WEATHER AND SEASONS
 
-**You will learn to**
-
-• name the types of weather
-
-• name the seasons
-
-• dress for the weather
-
-**Things to know**
+**Main content**
 
 • **Weather** is how the air is on a day.
 
@@ -7147,15 +6403,7 @@ written for them.
 
 ### WEEK 5 — PLANTS AND ANIMALS AROUND US
 
-**You will learn to**
-
-• name plants around us
-
-• name animals around us
-
-• care for plants and animals
-
-**Things to know**
+**Main content**
 
 • **Plants** grow in the soil.
 
@@ -7221,15 +6469,7 @@ written for them.
 
 ### WEEK 6 — FOOD AND NUTRITION
 
-**You will learn to**
-
-• name the food we eat
-
-• say why we eat
-
-• eat a balanced meal
-
-**Things to know**
+**Main content**
 
 • **Food** is what we eat to live and grow.
 
@@ -7295,15 +6535,7 @@ written for them.
 
 ### WEEK 8 — SAFETY AT HOME AND ON THE ROAD
 
-**You will learn to**
-
-• say how to be safe at home
-
-• say how to be safe on the road
-
-• avoid danger
-
-**Things to know**
+**Main content**
 
 • **Safety** means keeping away from harm.
 
@@ -7369,15 +6601,7 @@ written for them.
 
 ### WEEK 9 — OUR FESTIVALS
 
-**You will learn to**
-
-• say what a festival is
-
-• name festivals in Nigeria
-
-• respect our culture
-
-**Things to know**
+**Main content**
 
 • A **festival** is a special time of celebration.
 

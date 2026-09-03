@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — TRANSPORTATION
 
-**You will learn to**
-
-• say what transportation is
-
-• name means of transport
-
-• travel safely
-
-**Things to know**
+**Main content**
 
 • **Transportation** is moving people and goods from place to place.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — COMMUNICATION
 
-**You will learn to**
-
-• say what communication is
-
-• name ways we communicate
-
-• use communication well
-
-**Things to know**
+**Main content**
 
 • **Communication** is sharing information with others.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — MONEY AND TRADE
 
-**You will learn to**
-
-• say what money is
-
-• say what trade is
-
-• use money well
-
-**Things to know**
+**Main content**
 
 • **Money** is what we use to buy and sell.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — NATURAL RESOURCES
 
-**You will learn to**
-
-• say what natural resources are
-
-• name natural resources
-
-• use them with care
-
-**Things to know**
+**Main content**
 
 • **Natural resources** are things from nature we use.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — TECHNOLOGY AROUND US
 
-**You will learn to**
-
-• say what technology is
-
-• name simple technology
-
-• use technology well
-
-**Things to know**
+**Main content**
 
 • **Technology** is tools and machines that help us work.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — RULES AND LAWS
 
-**You will learn to**
-
-• say what a rule is
-
-• name rules at home and school
-
-• obey rules
-
-**Things to know**
+**Main content**
 
 • A **rule** tells us what to do and not to do.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — BEING A RESPONSIBLE CHILD
 
-**You will learn to**
-
-• say what responsibility is
-
-• name my duties
-
-• do my duties well
-
-**Things to know**
+**Main content**
 
 • **Responsibility** is doing what I ought to do.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — OUR NEIGHBOURS AND THE WORLD
 
-**You will learn to**
-
-• name countries near Nigeria
-
-• say who our neighbours are
-
-• live well with others
-
-**Things to know**
+**Main content**
 
 • Nigeria is in **West Africa**.
 

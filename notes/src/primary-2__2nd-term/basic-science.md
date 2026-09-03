@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — AIR IN MOTION
 
-**You will learn to**
-
-• say what moving air is
-
-• name what moving air does
-
-• use moving air
-
-**Things to know**
+**Main content**
 
 • **Air** is all around us.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — QUALITY OF WATER
 
-**You will learn to**
-
-• say what clean water is
-
-• tell clean from dirty water
-
-• keep water clean
-
-**Things to know**
+**Main content**
 
 • **Clean water** is water that is safe to use.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — USES OF WATER
 
-**You will learn to**
-
-• name uses of water
-
-• say why water is important
-
-• use water well
-
-**Things to know**
+**Main content**
 
 • **Water** is important for life.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — PLANTS I
 
-**You will learn to**
-
-• name parts of a plant
-
-• say what each part does
-
-• care for plants
-
-**Things to know**
+**Main content**
 
 • **Plants** are living things.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — PLANTS II
 
-**You will learn to**
-
-• name types of plants
-
-• say how plants grow
-
-• use plants
-
-**Things to know**
+**Main content**
 
 • There are many **types** of plants.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — ANIMALS
 
-**You will learn to**
-
-• name animals
-
-• tell where animals live
-
-• say what animals give us
-
-**Things to know**
+**Main content**
 
 • **Animals** are living things.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — FORMS OF TECHNOLOGY
 
-**You will learn to**
-
-• say what technology is
-
-• name simple technologies
-
-• use technology well
-
-**Things to know**
+**Main content**
 
 • **Technology** is the tools and machines we use to do work.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — FORMS OF TECHNOLOGY: LIGHT
 
-**You will learn to**
-
-• name sources of light
-
-• say how we use light
-
-• care for light sources
-
-**Things to know**
+**Main content**
 
 • **Light** helps us to see.
 

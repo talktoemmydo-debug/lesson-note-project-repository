@@ -1,7 +1,7 @@
 # General Knowledge — term paper (converted from the spec; edit here and re-run spec_from_lines.py)
 subject: General Knowledge
-class: 
-term: 
+class: Nursery 2
+term: 1st Term
 
 [objective]
 When somebody asks who you are, the first thing you say is your ___ || name || shoe size || class only || father's work
@@ -10,7 +10,7 @@ We hear the bell of the school with our ___ || ears || hair || nose || fingers
 If you are four years old you say: I am ___ || four years old || ten years old || one year old || forty years old
 Your father's father is your ___ || grandpa || cousin || nephew || brother
 When a teacher gives you a book you say ___ || thank you || go away || sorry only || excuse me
-In my family, the work of the house is done by || everybody helping one another || the father alone in the house || only the smallest child in the house || a visitor who comes from the town
+In my family, the work of the house is done by ___ || everybody helping one another || the father alone in the house || only the smallest child in the house || a visitor who comes from the town
 Where can we borrow and read story books in school? || the library || the playground || the toilet || the kitchen
 The head of the school is the ___ || head teacher || school nurse || pupil in Jss 1 || caretaker
 Which one of these should NOT be inside your school bag? || a cooking pot || a pencil || a book || a crayon
@@ -33,7 +33,7 @@ When you must pass in front of an elder you say ___ || excuse me || go away || m
 How many times a day should we brush our teeth? || twice — morning and night || four times in a night || never at all || once a week
 In our culture, the person we greet first is ___ || an elder || our own friend of the same age || a small baby || a dog
 People say that the first school of a child is ___ || the home || the church || the market || the barber shop
-We wash our hands || before eating and after the toilet || only once in the whole week || only before sleeping at night || only after we bathe in the morning
+We wash our hands ___ || before eating and after the toilet || only once in the whole week || only before sleeping at night || only after we bathe in the morning
 
 [subobjective]
 Name seven parts of the body you can point to. :: head | eyes | ears | nose | mouth | hands | legs

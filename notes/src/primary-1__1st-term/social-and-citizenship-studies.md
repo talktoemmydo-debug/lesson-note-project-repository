@@ -13,15 +13,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 1 — MYSELF AND MY IDENTITY
 
-**You will learn to**
-
-• say who I am
-
-• name things that make me who I am
-
-• respect myself and others
-
-**Things to know**
+**Main content**
 
 • **Identity** is who I am.
 
@@ -87,15 +79,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 2 — MY FAMILY
 
-**You will learn to**
-
-• name the members of my family
-
-• say what each member does
-
-• live well with my family
-
-**Things to know**
+**Main content**
 
 • A **family** is a group of people who are related.
 
@@ -161,15 +145,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 3 — MY COMMUNITY
 
-**You will learn to**
-
-• say what a community is
-
-• name people in my community
-
-• live well in my community
-
-**Things to know**
+**Main content**
 
 • A **community** is a place where people live together.
 
@@ -235,15 +211,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 4 — OUR CULTURE
 
-**You will learn to**
-
-• say what culture means
-
-• name parts of our culture
-
-• respect our culture
-
-**Things to know**
+**Main content**
 
 • **Culture** is the way of life of a group of people.
 
@@ -309,15 +277,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 5 — GOOD VALUES AND MANNERS
 
-**You will learn to**
-
-• name good values
-
-• show good manners
-
-• tell good from bad behaviour
-
-**Things to know**
+**Main content**
 
 • **Values** are the good things we believe in.
 
@@ -383,15 +343,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 6 — BEING A GOOD CITIZEN
 
-**You will learn to**
-
-• say what a citizen is
-
-• name duties of a good citizen
-
-• do my duty at home and school
-
-**Things to know**
+**Main content**
 
 • A **citizen** is a person who belongs to a country.
 
@@ -457,15 +409,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 8 — OUR ENVIRONMENT
 
-**You will learn to**
-
-• say what the environment is
-
-• name parts of our environment
-
-• care for our environment
-
-**Things to know**
+**Main content**
 
 • The **environment** is all that is around us.
 
@@ -531,15 +475,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 9 — LIVING TOGETHER IN PEACE
 
-**You will learn to**
-
-• say how to live well with others
-
-• name ways we keep peace
-
-• settle a simple quarrel
-
-**Things to know**
+**Main content**
 
 • We live with family, friends and neighbours.
 

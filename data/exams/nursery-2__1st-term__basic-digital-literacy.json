@@ -4,16 +4,7 @@
  "term": "1st Term",
  "objective": [
   {
-   "stem": "Technology means the smart things people make and use to",
-   "answer": "do work more easily",
-   "distractors": [
-    "spend money more quickly",
-    "sleep more soundly",
-    "walk more slowly"
-   ]
-  },
-  {
-   "stem": "A digital device is a machine that works with",
+   "stem": "A digital device is a machine that works with ___",
    "answer": "electricity and shows things on a screen",
    "distractors": [
     "fire and shows things on a wall",
@@ -22,7 +13,7 @@
    ]
   },
   {
-   "stem": "This one is NOT a digital device",
+   "stem": "This one is NOT a digital device ___",
    "answer": "a wooden broom",
    "distractors": [
     "a tablet",
@@ -31,7 +22,7 @@
    ]
   },
   {
-   "stem": "The device used for taking pictures is a",
+   "stem": "The device used for taking pictures is a ___",
    "answer": "camera",
    "distractors": [
     "kettle",
@@ -40,7 +31,7 @@
    ]
   },
   {
-   "stem": "A tablet is different from a desktop because it is",
+   "stem": "A tablet is different from a desktop because it is ___",
    "answer": "flat, light and touched with the finger",
    "distractors": [
     "big, heavy and fixed on a table",
@@ -49,16 +40,16 @@
    ]
   },
   {
-   "stem": "Which computer stays on a table and does not move about?",
-   "answer": "A desktop",
+   "stem": "A computer is big and has a screen, keys and a ___",
+   "answer": "mouse",
    "distractors": [
-    "A tablet",
-    "A smart watch",
-    "A radio"
+    "spoon",
+    "plate",
+    "broom"
    ]
   },
   {
-   "stem": "A machine that opens and shuts like a book, with a battery, is a",
+   "stem": "A machine that opens and shuts like a book, with a battery, is a ___",
    "answer": "laptop",
    "distractors": [
     "desktop",
@@ -67,7 +58,7 @@
    ]
   },
   {
-   "stem": "The smallest and lightest computer to carry is the",
+   "stem": "The smallest and lightest computer to carry is the ___",
    "answer": "tablet",
    "distractors": [
     "desktop",
@@ -76,7 +67,7 @@
    ]
   },
   {
-   "stem": "The part that shows pictures, letters and numbers is the",
+   "stem": "The part that shows pictures, letters and numbers is the ___",
    "answer": "monitor",
    "distractors": [
     "keyboard",
@@ -85,7 +76,7 @@
    ]
   },
   {
-   "stem": "We press keys to put information into the computer with the",
+   "stem": "We press keys to put information into the computer with the ___",
    "answer": "keyboard",
    "distractors": [
     "monitor",
@@ -94,16 +85,16 @@
    ]
   },
   {
-   "stem": "The right order of work on a computer is",
-   "answer": "keyboard or mouse, then CPU, then monitor",
+   "stem": "The part held in the hand that moves the arrow on the screen is the ___",
+   "answer": "mouse",
    "distractors": [
-    "monitor, then keyboard, then CPU",
-    "CPU, then mouse, then keyboard",
-    "mouse, then monitor, then keyboard"
+    "keyboard",
+    "CPU box",
+    "speaker"
    ]
   },
   {
-   "stem": "The machine that puts the picture or letter out on paper is a",
+   "stem": "The machine that puts the picture or letter out on paper is a ___",
    "answer": "printer",
    "distractors": [
     "scanner",
@@ -112,7 +103,7 @@
    ]
   },
   {
-   "stem": "A computer in the bank is used to",
+   "stem": "A computer in the bank is used to ___",
    "answer": "count money and print a receipt",
    "distractors": [
     "cook food for the workers",
@@ -121,7 +112,7 @@
    ]
   },
   {
-   "stem": "The price of goods in a shop is read by a",
+   "stem": "The price of goods in a shop is read by a ___",
    "answer": "machine that reads the price",
    "distractors": [
     "pencil and paper only",
@@ -130,7 +121,7 @@
    ]
   },
   {
-   "stem": "Time on a device should be shared between learning and",
+   "stem": "Time on a device should be shared between learning and ___",
    "answer": "play, with a limit on play",
    "distractors": [
     "sleeping, with no limit",
@@ -139,16 +130,16 @@
    ]
   },
   {
-   "stem": "A screen is wiped with",
-   "answer": "a soft, dry cloth",
+   "stem": "Water inside a device ___",
+   "answer": "spoils it for good",
    "distractors": [
-    "a rough washing rag",
-    "a wet mop",
-    "sand and water"
+    "makes it faster",
+    "cleans the screen",
+    "charges the battery"
    ]
   },
   {
-   "stem": "A laptop should be carried",
+   "stem": "A laptop should be carried ___",
    "answer": "closed in two hands inside a padded bag",
    "distractors": [
     "open in only one small hand",
@@ -157,7 +148,7 @@
    ]
   },
   {
-   "stem": "The cable is taken out of the socket by holding",
+   "stem": "The cable is taken out of the socket by holding ___",
    "answer": "the plug itself",
    "distractors": [
     "the wire, pulled hard",
@@ -166,7 +157,7 @@
    ]
   },
   {
-   "stem": "Before we switch off, we save the work and",
+   "stem": "Before we switch off, we save the work and ___",
    "answer": "shut the programme, then kill the power",
    "distractors": [
     "pull the cable out in a hurry",
@@ -175,7 +166,7 @@
    ]
   },
   {
-   "stem": "The room in the school where many computers are kept is the",
+   "stem": "The room in the school where many computers are kept is the ___",
    "answer": "computer lab",
    "distractors": [
     "computer kitchen",
@@ -184,16 +175,16 @@
    ]
   },
   {
-   "stem": "Food and drink in the computer lab are",
-   "answer": "not allowed on the desk",
+   "stem": "In the lab we move about by ___",
+   "answer": "walking carefully",
    "distractors": [
-    "allowed on every desk",
-    "given to the CPU",
-    "kept under the chair"
+    "running fast",
+    "sliding on the floor",
+    "climbing the desks"
    ]
   },
   {
-   "stem": "If a machine gives smoke or a bad smell, we",
+   "stem": "If a machine gives smoke or a bad smell, we ___",
    "answer": "leave it and tell the teacher at once",
    "distractors": [
     "pour cold water on the machine",
@@ -202,7 +193,7 @@
    ]
   },
   {
-   "stem": "Long ago, people counted with stones and with a frame of sliding beads called a(n)",
+   "stem": "Long ago, people counted with stones and with a frame of sliding beads called a(n) ___",
    "answer": "abacus",
    "distractors": [
     "laptop",
@@ -211,7 +202,7 @@
    ]
   },
   {
-   "stem": "The first machines used parts that glowed and grew hot called",
+   "stem": "The first machines used parts that glowed and grew hot called ___",
    "answer": "vacuum tubes",
    "distractors": [
     "microchips",
@@ -220,7 +211,7 @@
    ]
   },
   {
-   "stem": "The tiny part that replaced the hot vacuum tube was the",
+   "stem": "The tiny part that replaced the hot vacuum tube was the ___",
    "answer": "transistor",
    "distractors": [
     "abacus bead",
@@ -229,16 +220,16 @@
    ]
   },
   {
-   "stem": "The Englishman who designed the Analytical Engine was",
-   "answer": "Charles Babbage",
+   "stem": "Computers became ___",
+   "answer": "smaller, faster and cheaper",
    "distractors": [
-    "Michael Akinkunmi",
-    "Chukwuemeka Odumegwu",
-    "Ada Babbage"
+    "bigger, slower and dearer",
+    "smaller, slower and dearer",
+    "bigger, faster and cheaper"
    ]
   },
   {
-   "stem": "The machine built by Babbage to work out tables of numbers without mistakes was the",
+   "stem": "The machine built by Babbage to work out tables of numbers without mistakes was the ___",
    "answer": "Difference Engine",
    "distractors": [
     "Printing press",
@@ -247,7 +238,7 @@
    ]
   },
   {
-   "stem": "Babbage's plans could not be built fully because the",
+   "stem": "Babbage's plans could not be built fully because the ___",
    "answer": "workshop of his day could not make such parts",
    "distractors": [
     "the money he had for the metal parts",
@@ -256,7 +247,7 @@
    ]
   },
   {
-   "stem": "A set of written instructions for a machine is called a",
+   "stem": "A set of written instructions for a machine is called a ___",
    "answer": "programme",
    "distractors": [
     "pillow",
@@ -265,12 +256,21 @@
    ]
   },
   {
-   "stem": "A computer language was named after",
+   "stem": "A computer language was named after ___",
    "answer": "Ada Lovelace",
    "distractors": [
     "the monitor",
     "Babbage's town",
     "the abacus"
+   ]
+  },
+  {
+   "stem": "\"A device is a servant, not a ___",
+   "answer": "master",
+   "distractors": [
+    "toy",
+    "book",
+    "chair\""
    ]
   }
  ],
@@ -305,7 +305,15 @@
   {
    "stem": "Say what each of these is used for: monitor and CPU. ",
    "points": [
-    "the monitor shows work; the CPU does the thinking"
+    "the",
+    "monitor",
+    "shows",
+    "work;",
+    "the",
+    "CPU",
+    "does",
+    "the",
+    "thinking"
    ]
   },
   {

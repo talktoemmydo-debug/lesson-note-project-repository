@@ -4,48 +4,36 @@ class: Nursery 2
 term: 1st Term
 
 [objective]
-Exercise means the physical activities that || make the body move and work || keep the body on the chair || make us sleep in the day || keep the hands still
-A game is an organised activity with || rules, played for fun || no rule, played for fear || money, played for food || books, played for class
-Exercise makes the heart and the || lungs work well || ears hear better || teeth grow longer || hair become thicker
-Playing keeps a child from becoming || too heavy || too tall || too quiet || too clean
-A child who plays and exercises || sleeps better at night || cannot sleep at all || sleeps all day || stays awake at night
-Games teach discipline because I || wait for my turn and listen for the whistle || shout at my partner and push in front || leave the ground before the game ends || keep my eyes shut while I run
-The first thing we do before a game is to || warm up and stretch || sit down and rest || eat a full meal || tie both shoes together
-Egg and spoon race trains the || hand and the sense of balance || ear and the power of hearing || nose and the smell of things || back and the power of bending
-In the egg and spoon game, if the ball falls we || pick it up and continue || leave the ground || cry and go home || throw the spoon away
-In a sack race the player || stands inside a sack and jumps to the line || runs beside a sack full of sand || carries the sack on the head for a friend || hides inside a big sack at the line
-The blindfold game teaches || trust, and listening, and knowing where things are || fear, and a loud voice, and running about || speed, and a long leg, and jumping high || writing, and a clean hand, and reading fast
-In the three-legged race, the pair must || walk as one, with the inside legs tied || jump over each other's legs twice || run in opposite directions, fast || carry one another to the finishing line
-Musical chairs and freeze dance are both games of || movement and stopping on a signal || eating and drinking quickly || reading and writing neatly || counting money on a chair
-Freeze dance means we || dance while the music plays and hold still when it stops || dance only when the teacher calls out my name || stand in one place and never move at all || sit down quietly as the drum begins to sound
-Stretching the body means || reaching for the sky and touching the toes || holding the breath for a long time || running to the far gate || jumping over a deep ditch
-Skipping is done with a || rope, jumping forwards and then backwards || ball, thrown up to a partner || sack, jumped inside to the line || stick, carried slowly across the ground
-Leaping is a big jump || from one foot to the other foot || from both feet onto one mat || sideways on the ground only || backwards over a rope
-Hopping is done || on one foot only || on both hands only || with a rope in the hand || on the knees like a goat
-The safe way to land from a jump is with || soft, bent knees || straight, locked knees || closed eyes || the head first
-Body conditioning means exercises that make the body || fit and in good control || heavy and slow || warm and sleepy || tall and thin
-Balance means staying || steady without falling || fast without stopping || loud without shouting || soft without moving
-Arms are stretched sideways while balancing because they || act like the beam of a scale || keep the body very warm || help us to hear better || stop the wind from blowing
-While balancing on one leg, a good trick is to || count slowly to ten || shout at a friend || close both ears || hop three times fast
-Walking heel to toe on a line drawn on the floor trains the || balance of the body || hearing of the ear || sight of the eye || grip of the hand
-Manipulative movements are those that || control and move an object with a body part || move the head and the neck only || stretch the muscles of the legs || keep the whole body still on the floor
-Kicking, hitting, bouncing and rolling are || manipulative movements || balancing exercises || resting positions || breathing games
-An underhand throw is made with the arm || swinging from behind and low || above the head and high || behind the back || straight down at the ground
-In an overhand throw we || step with the foot and throw || sit on the ground and throw || turn our back and throw || close both eyes and throw
-The safest object to throw and catch in class is a || bean bag || stone || bottle || piece of wood
-Catching is done with || two hands out, eyes on the object all the way to them || one hand only, with the eyes on the ground || the head and the two shoulders together || the knees and the feet of the player
-The brain and its wires working with the muscles is called || neuro-muscular || bone and joint || skin and hair || heart and lung
-Dancing is moving the body to || music or rhythm || a sleeping song || silence and stillness || a story book only
-A dance routine is || the same order of steps done again and again || a single jump done only once in the day || a slow song with no movement at all || a game played with a ball and a bat
-A forward roll is started from a || squat, with the two hands placed on the mat || standing jump, with the legs kicked high || lying down, with the back flat on the floor || full run, with the arms swinging fast
-Before rolling on the mat, the chin is || tucked to the chest || lifted to the sky || turned to the left || hidden under the arm
-A roll must be done on a mat or soft ground because || a hard floor can hurt the neck and the back || the mat is colourful and clean to look at || the floor of the class is dusty || soft ground is faster for running
-Sport develops flexibility, which is the ability to || bend and stretch easily || run a long distance || hear a small sound || count to two hundred
-Agility is the ability to || move quickly and change direction || hold a pose for a long time || lift a heavy bucket || read a long sentence
-Coordination means using || different parts of the body together and smoothly || only one part of the body, and very hard || the hands only, for writing one line || the voice only, for shouting a word
-Reaction is shown when || the ear hears the clap and the leg starts to run || the eye closes slowly at the time for sleep || the hand holds a pencil on the exercise book || the mouth tastes the food we eat at home
-Strength is built by || exercise and play || long sleeping || eating sweets only || sitting and watching
-At my age sport is for || learning and growing up fit || winning money for the family || only the big silver prizes || pain and a lot of tiredness
+A game is an organised activity with ___ || rules, played for fun || no rule, played for fear || money, played for food || books, played for class
+Exercise makes the heart and the ___ || lungs work well || ears hear better || teeth grow longer || hair become thicker
+A child who plays and exercises ___ || sleeps better at night || cannot sleep at all || sleeps all day || stays awake at night
+Games teach discipline because I ___ || wait for my turn and listen for the whistle || shout at my partner and push in front || leave the ground before the game ends || keep my eyes shut while I run
+The first thing we do before a game is to ___ || warm up and stretch || sit down and rest || eat a full meal || tie both shoes together
+In the egg and spoon game, if the ball falls we ___ || pick it up and continue || leave the ground || cry and go home || throw the spoon away
+In a sack race the player ___ || stands inside a sack and jumps to the line || runs beside a sack full of sand || carries the sack on the head for a friend || hides inside a big sack at the line
+In the three-legged race, the pair must ___ || walk as one, with the inside legs tied || jump over each other's legs twice || run in opposite directions, fast || carry one another to the finishing line
+Musical chairs and freeze dance are both games of ___ || movement and stopping on a signal || eating and drinking quickly || reading and writing neatly || counting money on a chair
+Freeze dance means we ___ || dance while the music plays and hold still when it stops || dance only when the teacher calls out my name || stand in one place and never move at all || sit down quietly as the drum begins to sound
+Skipping is done with a ___ || rope, jumping forwards and then backwards || ball, thrown up to a partner || sack, jumped inside to the line || stick, carried slowly across the ground
+Leaping is a big jump ___ || from one foot to the other foot || from both feet onto one mat || sideways on the ground only || backwards over a rope
+The safe way to land from a jump is with ___ || soft, bent knees || straight, locked knees || closed eyes || the head first
+Body conditioning means exercises that make the body ___ || fit and in good control || heavy and slow || warm and sleepy || tall and thin
+Balance means staying ___ || steady without falling || fast without stopping || loud without shouting || soft without moving
+While balancing on one leg, a good trick is to ___ || count slowly to ten || shout at a friend || close both ears || hop three times fast
+Walking heel to toe on a line drawn on the floor trains the ___ || balance of the body || hearing of the ear || sight of the eye || grip of the hand
+Kicking, hitting, bouncing and rolling are ___ || manipulative movements || balancing exercises || resting positions || breathing games
+An underhand throw is made with the arm ___ || swinging from behind and low || above the head and high || behind the back || straight down at the ground
+In an overhand throw we ___ || step with the foot and throw || sit on the ground and throw || turn our back and throw || close both eyes and throw
+Catching is done with ___ || two hands out, eyes on the object all the way to them || one hand only, with the eyes on the ground || the head and the two shoulders together || the knees and the feet of the player
+The brain and its wires working with the muscles is called ___ || neuro-muscular || bone and joint || skin and hair || heart and lung
+A dance routine is ___ || the same order of steps done again and again || a single jump done only once in the day || a slow song with no movement at all || a game played with a ball and a bat
+A forward roll is started from a ___ || squat, with the two hands placed on the mat || standing jump, with the legs kicked high || lying down, with the back flat on the floor || full run, with the arms swinging fast
+Before rolling on the mat, the chin is ___ || tucked to the chest || lifted to the sky || turned to the left || hidden under the arm
+Sport develops flexibility, which is the ability to ___ || bend and stretch easily || run a long distance || hear a small sound || count to two hundred
+Agility is the ability to ___ || move quickly and change direction || hold a pose for a long time || lift a heavy bucket || read a long sentence
+Reaction is shown when ___ || the ear hears the clap and the leg starts to run || the eye closes slowly at the time for sleep || the hand holds a pencil on the exercise book || the mouth tastes the food we eat at home
+Strength is built by ___ || exercise and play || long sleeping || eating sweets only || sitting and watching
+At my age sport is for ___ || learning and growing up fit || winning money for the family || only the big silver prizes || pain and a lot of tiredness
 
 [subobjective]
 Mention four things exercise and games do for the body. :: strong and healthy body | growth | muscles and bones | heart and lungs | energy

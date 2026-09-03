@@ -18,13 +18,40 @@ Weeks 1 to 6, 8 and 9. Week 7 is Mid-Term Break, …  ← prose, says which week
 
 *Depth: NERDC Nursery 3 · <subject> · <term> W<n> (pp …).*
 
-**You will learn to**         • one line per objective, lower case, no full stop, bullet `•`
-**Things to know**            • the content, bolding the term being defined, always factual
+**Main content**              • the content, bolding the term being defined, always factual
 **Let us talk**               1. numbered questions the class answers aloud, in the child's language
 **Words for my notebook**     • 4–8 words with a one-line meaning each
 **Worksheet**                 1.–7. exam-style items for THIS lesson (see below)
 **My own work**               one thing the child does alone, at home, no adult involved
 ```
+
+### How deep a note goes — the class ladder (owner, 3 Sep 2026)
+
+Notes get fuller as the class goes up. `**Main content**` bullets, then `**Words for my notebook**` lines:
+
+| class | Main content | Words for my notebook |
+| --- | --- | --- |
+| Nursery 2 | 8–12 | 1–4 |
+| Primary 1 | 10–14 | 2–5 |
+| Primary 2 | 14–22 | 3–6 |
+| Primary 3 | 16–24 | 3–7 |
+| Primary 4 | 18–26 | 4–8 |
+
+The table lives in `DEPTH` (`tools/polish_audit.py`) — change it there, never in prose. Falling **short** of
+the floor is a **defect** (`too thin: <block> has n items (class floor m)`); running past the ceiling is only
+`shape:` and stays advisory. Nursery 2 stays short on purpose.
+
+Two things changed on 3 Sep 2026 and are not negotiable:
+
+* **`**Things to know**` is now `**Main content**`** (a revision week says `**What to revise**`; a Yoruba week
+  keeps its strand suffix, `**Main content — Ẹ̀dẹ̀ (…)**`).
+* **The `**You will learn to**` objective block is deleted.** A note opens straight into `**Main content**`.
+  The term paper's `[objective]` section is a different thing and is **unchanged** — papers stay 30/10/5.
+
+Maths and English carry **more worked examples per topic** — more sums, more sentences, more things to copy
+and try. `**My own work**` grows up from Primary 2: a labelled diagram, chart, table, plan, map, graph or
+written product, not a teddy bear. The seven word-only subjects (Yoruba, GK, Nigerian History, SCS, CRS,
+Mathematics, English) carry no plate and no drawing task at all.
 
 * 105 notes per term; every heading is `### WEEK n — TITLE`, all caps after the dash. `sticky()` in the
   page model assumes that form; the Contents is generated from it.
@@ -81,7 +108,7 @@ leave it. Each part starts on a fresh page; the Contents carries a page number p
 ## Three rules that bit me while authoring Third Term, now gates
 
 * **Never bold a worksheet option.** Bolding the right one prints the answer in the child's book. Bold the
-  term in the stem, or in "Things to know" — never after an `A)`. `polish_audit.py` refuses it.
+  term in the stem, or in "Main content" — never after an `A)`. `polish_audit.py` refuses it.
 * **`**Worksheet**` is a header line, asterisks and all.** Drop them and the block silently disappears
   from the assembler's view (`check_worksheets.py` reports `n=0`, which is how it was caught).
 * **A note must not sound like a mark scheme.** "solution", "marks", "answer", "the teacher guides" and

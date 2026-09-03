@@ -10,14 +10,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · CRS · First Term W1 (Mark 4:35–41).*
 
-**You will learn to**
-
-• tell the story of Jesus calming the storm
-• say what the disciples did when they were afraid
-• say what Jesus said to the wind and the sea
-• know that Jesus has power over nature
-
-**Things to know**
+**Main content**
 
 • Jesus and his disciples were in a **boat** on the sea when a big storm came.
 • The disciples were **afraid** because the boat was filling with water.
@@ -58,14 +51,7 @@ Draw the boat and the big waves, then draw the sea when it became calm.
 
 *Depth: NERDC Primary 1 · CRS · First Term W2 (Matthew 14:22–33).*
 
-**You will learn to**
-
-• tell the story of Jesus walking on water
-• say why the disciples were frightened
-• say what happened to Peter
-• know that Jesus tells us not to be afraid
-
-**Things to know**
+**Main content**
 
 • The disciples were in a boat at **night** and Jesus was on land praying.
 • Jesus **walked on the water** toward the boat, and the disciples thought it was a ghost.
@@ -106,14 +92,7 @@ Draw the boat at night and Jesus walking on the water.
 
 *Depth: NERDC Primary 1 · CRS · First Term W3 (John 6:1–14).*
 
-**You will learn to**
-
-• tell the story of Jesus feeding five thousand people
-• say what the boy had
-• say what Jesus did before sharing the food
-• know that Jesus cares for our needs
-
-**Things to know**
+**Main content**
 
 • Many people followed Jesus to hear him teach, and they became **hungry**.
 • A **boy** had **five loaves** of bread and **two fish**.
@@ -154,14 +133,7 @@ Draw the five loaves and the two fish the boy shared.
 
 *Depth: NERDC Primary 1 · CRS · First Term W4 (Matthew 8:1–4).*
 
-**You will learn to**
-
-• tell the story of Jesus healing the man with leprosy
-• say what the man said to Jesus
-• say what Jesus did
-• know that Jesus has power over disease
-
-**Things to know**
+**Main content**
 
 • A man with **leprosy**, a bad skin disease, came to Jesus.
 • The man said, "Lord, if you are willing, you can make me **clean**."
@@ -202,14 +174,7 @@ Draw the man kneeling before Jesus and then standing up well.
 
 *Depth: NERDC Primary 1 · CRS · First Term W5 (Mark 2:1–12).*
 
-**You will learn to**
-
-• tell the story of the paralyzed man and his four friends
-• say how the friends brought the man to Jesus
-• say what Jesus told the man
-• know that good friends help one another
-
-**Things to know**
+**Main content**
 
 • A **paralyzed** man could not walk, and four friends carried him to Jesus.
 • The house was too **crowded**, so the friends made a hole in the **roof** and lowered their friend down.
@@ -250,14 +215,7 @@ Draw the man picking up his mat and walking home.
 
 *Depth: NERDC Primary 1 · CRS · First Term W6 (Mark 5:21–43).*
 
-**You will learn to**
-
-• tell the story of Jairus and his daughter
-• say what Jesus told Jairus not to lose
-• say what Jesus did for the girl
-• know that Jesus has power over death
-
-**Things to know**
+**Main content**
 
 • **Jairus** was a synagogue leader whose daughter was very **sick**.
 • While Jesus was going to her, news came that the girl had **died**.
@@ -298,14 +256,7 @@ Draw Jairus and his daughter standing together, glad and well.
 
 *Depth: NERDC Primary 1 · CRS · First Term W8 (John 11:1–44).*
 
-**You will learn to**
-
-• tell the story of Lazarus
-• say how long Lazarus had been in the tomb
-• say what Jesus said about himself
-• know that Jesus is the resurrection and the life
-
-**Things to know**
+**Main content**
 
 • **Lazarus** was a friend of Jesus, and he became very sick and **died**.
 • He was buried in a **tomb** for **four days**.
@@ -346,14 +297,7 @@ Draw Lazarus walking out of the tomb, alive.
 
 *Depth: NERDC Primary 1 · CRS · First Term W9 (Matthew 21:12–13).*
 
-**You will learn to**
-
-• tell the story of Jesus cleansing the temple
-• say what was wrong in the temple
-• say what Jesus called the temple
-• know that Jesus stands against wrong doing
-
-**Things to know**
+**Main content**
 
 • People were **buying and selling** in God's temple and cheating others.
 • Jesus was **angry** at the wrong behaviour in God's house.

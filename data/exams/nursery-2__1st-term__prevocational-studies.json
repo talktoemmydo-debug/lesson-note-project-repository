@@ -4,16 +4,7 @@
  "term": "1st Term",
  "objective": [
   {
-   "stem": "Agriculture is the work of growing crops and",
-   "answer": "rearing animals for man to use",
-   "distractors": [
-    "selling goods in the market",
-    "driving buses in the town",
-    "building houses on the land"
-   ]
-  },
-  {
-   "stem": "A person who grows crops and rears animals is a",
+   "stem": "A person who grows crops and rears animals is a ___",
    "answer": "farmer",
    "distractors": [
     "driver",
@@ -22,7 +13,7 @@
    ]
   },
   {
-   "stem": "Yam, rice, beans and maize are things agriculture gives us as",
+   "stem": "Yam, rice, beans and maize are things agriculture gives us as ___",
    "answer": "food",
    "distractors": [
     "cloth",
@@ -31,16 +22,16 @@
    ]
   },
   {
-   "stem": "Cotton grown on a farm is used for making",
-   "answer": "cloth",
+   "stem": "The hen gives us eggs and meat; the cow gives us milk, meat and ___",
+   "answer": "hide",
    "distractors": [
-    "paper",
-    "water",
-    "cooking oil"
+    "plastic",
+    "kerosene",
+    "sand"
    ]
   },
   {
-   "stem": "Wood from the farm and the forest is used for making",
+   "stem": "Wood from the farm and the forest is used for making ___",
    "answer": "furniture and planks",
    "distractors": [
     "plates of iron",
@@ -49,7 +40,7 @@
    ]
   },
   {
-   "stem": "Farmers sell their surplus at the",
+   "stem": "Farmers sell their surplus at the ___",
    "answer": "market",
    "distractors": [
     "river bank",
@@ -58,16 +49,16 @@
    ]
   },
   {
-   "stem": "Garri and yam flour are made from",
-   "answer": "cassava and yam",
+   "stem": "The oil in our soup came from the ___",
+   "answer": "palm fruit",
    "distractors": [
-    "rice and beans",
-    "cocoa and milk",
-    "corn and pepper"
+    "cow's tail",
+    "garden soil",
+    "river stone"
    ]
   },
   {
-   "stem": "The broom we use to sweep is made from the",
+   "stem": "The broom we use to sweep is made from the ___",
    "answer": "midrib of a palm leaf",
    "distractors": [
     "skin of a goat",
@@ -76,7 +67,7 @@
    ]
   },
   {
-   "stem": "The first farming activity is",
+   "stem": "The first farming activity is ___",
    "answer": "clearing the bush and sticks from the land",
    "distractors": [
     "selling the produce at the market",
@@ -85,16 +76,16 @@
    ]
   },
   {
-   "stem": "Rotten leaves and animal droppings added to make the soil rich are",
-   "answer": "manure",
+   "stem": "Turning and breaking the soil with a hoe to make it soft is ___",
+   "answer": "tilling",
    "distractors": [
-    "manure and chemical only",
-    "sand and gravel",
-    "salt and pepper"
+    "weeding",
+    "harvesting",
+    "manuring"
    ]
   },
   {
-   "stem": "Keeping birds, grasshoppers and goats away from the farm is",
+   "stem": "Keeping birds, grasshoppers and goats away from the farm is ___",
    "answer": "protecting the crop",
    "distractors": [
     "tilling the soil",
@@ -103,7 +94,7 @@
    ]
   },
   {
-   "stem": "Gathering yam, maize and rice when they are ripe is",
+   "stem": "Gathering yam, maize and rice when they are ripe is ___",
    "answer": "harvesting",
    "distractors": [
     "planting",
@@ -112,16 +103,16 @@
    ]
   },
   {
-   "stem": "Crops grown to feed the family are called",
-   "answer": "food crops",
+   "stem": "The tools of the small farm are ___",
+   "answer": "cutlass, hoe, rake and watering can",
    "distractors": [
-    "cash crops",
-    "timber crops",
-    "medicinal crops"
+    "spoon, fork, plate and knife",
+    "broom, bucket and washing line",
+    "chalk, duster and desk"
    ]
   },
   {
-   "stem": "Cocoa, groundnut, cotton and rubber are grown to be",
+   "stem": "Cocoa, groundnut, cotton and rubber are grown to be ___",
    "answer": "sold and to bring money",
    "distractors": [
     "eaten at every meal",
@@ -130,7 +121,7 @@
    ]
   },
   {
-   "stem": "Rice, maize, guinea corn and wheat are",
+   "stem": "Rice, maize, guinea corn and wheat are ___",
    "answer": "grain crops that we call cereals",
    "distractors": [
     "soft crops that we call tubers",
@@ -139,16 +130,16 @@
    ]
   },
   {
-   "stem": "The branch of agriculture that keeps farm animals is",
-   "answer": "animal rearing, that is, animal husbandry",
+   "stem": "Beans and groundnut are special because they ___",
+   "answer": "make the soil rich as they grow",
    "distractors": [
-    "the growing of crops, that is, crop production",
-    "the catching of fish, that is, fishery",
-    "the keeping of trees, that is, forestry"
+    "need no water at all",
+    "grow only in the forest",
+    "are never eaten at home"
    ]
   },
   {
-   "stem": "The young of the goat is called the",
+   "stem": "The young of the goat is called the ___",
    "answer": "kid",
    "distractors": [
     "calf",
@@ -157,7 +148,7 @@
    ]
   },
   {
-   "stem": "The young of the sheep is the",
+   "stem": "The young of the sheep is the ___",
    "answer": "lamb",
    "distractors": [
     "kid",
@@ -166,16 +157,16 @@
    ]
   },
   {
-   "stem": "Sick animals are",
-   "answer": "kept apart from the rest",
+   "stem": "An animal needs food, clean water, shade and ___",
+   "answer": "a clean, safe place for sleeping",
    "distractors": [
-    "given more salt",
-    "left in the sun all day",
-    "put in the fish pond"
+    "a bright television set",
+    "a small shoe for its leg",
+    "a bell tied to its tail"
    ]
   },
   {
-   "stem": "The branch of agriculture that deals with trees and the forest is",
+   "stem": "The branch of agriculture that deals with trees and the forest is ___",
    "answer": "forestry",
    "distractors": [
     "fishery",
@@ -184,7 +175,7 @@
    ]
   },
   {
-   "stem": "Iroko, mahogany, teak and pine are trees grown for",
+   "stem": "Iroko, mahogany, teak and pine are trees grown for ___",
    "answer": "timber",
    "distractors": [
     "milk",
@@ -193,16 +184,16 @@
    ]
   },
   {
-   "stem": "Where all the trees are cut down, the land becomes",
-   "answer": "dry and washed away",
+   "stem": "Trees hold the soil with their ___",
+   "answer": "roots",
    "distractors": [
-    "richer and wetter",
-    "cooler and deeper",
-    "fuller of fish"
+    "leaves only",
+    "fruits",
+    "flowers"
    ]
   },
   {
-   "stem": "The branch of agriculture that deals with catching and rearing fish is",
+   "stem": "The branch of agriculture that deals with catching and rearing fish is ___",
    "answer": "fishery",
    "distractors": [
     "forestry",
@@ -211,7 +202,7 @@
    ]
   },
   {
-   "stem": "Keeping fish in a pond or in a cage is called",
+   "stem": "Keeping fish in a pond or in a cage is called ___",
    "answer": "fish farming, that is, aquaculture",
    "distractors": [
     "fish smoking, that is, drying",
@@ -220,16 +211,16 @@
    ]
   },
   {
-   "stem": "The tools of the fisherman are",
-   "answer": "net, hook and line, basket and canoe",
+   "stem": "Catfish, tilapia and bonga are foods that give the body ___",
+   "answer": "protein to grow strong",
    "distractors": [
-    "cutlass, hoe and watering can",
-    "ruler, pencil and eraser",
-    "kettle, cup and saucer"
+    "water to swim with",
+    "cloth to wear",
+    "shade to sit in"
    ]
   },
   {
-   "stem": "Small fish caught in the net are",
+   "stem": "Small fish caught in the net are ___",
    "answer": "thrown back into the water",
    "distractors": [
     "sold at a higher price",
@@ -238,7 +229,7 @@
    ]
   },
   {
-   "stem": "Most food in Nigeria comes from",
+   "stem": "Most food in Nigeria comes from ___",
    "answer": "small family farms",
    "distractors": [
     "big foreign ships",
@@ -247,16 +238,16 @@
    ]
   },
   {
-   "stem": "Cocoa, palm oil, rubber and cashew are crops that bring",
-   "answer": "money into Nigeria",
+   "stem": "Groundnut and cotton are grown mainly in the ___",
+   "answer": "north of Nigeria",
    "distractors": [
-    "cold to the house",
-    "sand to the farm",
-    "rust to the tools"
+    "south-east only",
+    "river banks only",
+    "islands only"
    ]
   },
   {
-   "stem": "Farming in a way that keeps the land good for our children is",
+   "stem": "Farming in a way that keeps the land good for our children is ___",
    "answer": "sustainable agriculture",
    "distractors": [
     "quick agriculture",
@@ -265,12 +256,21 @@
    ]
   },
   {
-   "stem": "Organic farming uses",
+   "stem": "Organic farming uses ___",
    "answer": "compost, not chemical fertiliser",
    "distractors": [
     "only chemical fertiliser",
     "nothing on the land",
     "salt and clean sand"
+   ]
+  },
+  {
+   "stem": "Not wasting farm produce means ___",
+   "answer": "finishing the food on my plate",
+   "distractors": [
+    "pouring oil down the gutter",
+    "throwing peels on the floor",
+    "leaving the tap running"
    ]
   }
  ],

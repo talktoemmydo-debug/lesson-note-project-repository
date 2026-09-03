@@ -12,14 +12,7 @@ written at Nursery 2 language with the Primary 1 content kept whole.*
 
 *Depth: NERDC Primary 1 · CRS · Second Term W1 (pp 640–641).*
 
-**You will learn to**
-
-• say that God is my Father in heaven
-• tell how God loves and cares for me
-• name the good things God gives me every day
-• say how a father on earth is different from God
-
-**Things to know**
+**Main content**
 
 • A **father** in the family is the man who owns the house, works and takes care of the children.
 • **God is my Father in heaven** — He is not in the house, He is in heaven, but He still keeps me and gives me all good things.
@@ -68,14 +61,7 @@ Draw your own home and colour the window that is lit in the evening.
 
 *Depth: NERDC Primary 1 · CRS · Second Term W2 (pp 640–641).*
 
-**You will learn to**
-
-• say that prayer is talking to God
-• tell God everything I need
-• say sorry when I do wrong
-• begin the Lord's Prayer
-
-**Things to know**
+**Main content**
 
 • **Prayer is talking to God.** It does not need big words; it can be whispered, and God hears it.
 • God **hears** every prayer, even the one said in the heart with no sound at all.
@@ -124,14 +110,7 @@ Draw one good thing God gives you every day and colour it.
 
 *Depth: NERDC Primary 1 · CRS · Second Term W3 (pp 640–641).*
 
-**You will learn to**
-
-• say that we are all children of God
-• know that God knows me well
-• say that I am never alone
-• trust God when I am afraid
-
-**Things to know**
+**Main content**
 
 • All of us in this class are **children of God** — that makes us brothers and sisters.
 • God **calls me to call Him "Father"**; a servant says master, a child says Father.
@@ -180,14 +159,7 @@ Draw a family sitting together and colour the shirt of the one who takes care of
 
 *Depth: NERDC Primary 1 · CRS · Second Term W4 (Part 1) and W7 (Part 2), pp 640–641 — the school puts two parts in one week.*
 
-**You will learn to**
-
-• pray in the morning, at the table and at night
-• thank God and ask Him for help
-• obey and respect those who keep me
-• be kind to the children in my house
-
-**Things to know**
+**Main content**
 
 • Part 1 is about **prayer**; Part 2 is about **obedience**.
 • Praying every day: **morning prayer** before I leave the bed, **meal prayer** before I eat, **night prayer** before I sleep.
@@ -237,14 +209,7 @@ Draw two things you do because you are a child of God, and colour the one you di
 
 *Depth: NERDC Primary 1 · CRS · Second Term W8 (Part 3) and W9 (Part 4), pp 640–641 — the school puts two parts in one week.*
 
-**You will learn to**
-
-• speak the truth when a lie would pay me
-• share my things and play nicely
-• forgive those who hurt me
-• worship God in the church on the Lord's day
-
-**Things to know**
+**Main content**
 
 • Part 3 is about **living with people**; Part 4 is about **worship**.
 • Be **truthful and honest**: do not tell lies, do not take what is not yours, do not hide a broken thing and say the cat did it.
@@ -294,14 +259,7 @@ Draw a hand that helps and a hand that hurts; colour the helping hand.
 
 *Depth: NERDC Primary 1 · CRS · Second Term W10 (Part 5, pp 640–641) — care for what God created.*
 
-**You will learn to**
-
-• take care of the things God made
-• be kind to animals
-• keep plants and trees from destruction
-• keep my environment clean
-
-**Things to know**
+**Main content**
 
 • God made the world and He said it was **very good**; so what I break, I break from His hands.
 • **Kindness to animals**: give water to the dog, do not tie the goat's leg too tight, do not stone the cat, do not take the bird's eggs for fun.
@@ -348,14 +306,7 @@ Water one plant every day this week and pick five things from the ground around 
 
 *Depth: NERDC Primary 1 · CRS · Third Term W1 (pp 642–643).*
 
-**You will learn to**
-
-• say who Jesus is
-• know that Jesus shows us what God is like
-• name two miracles of Jesus
-• say that Jesus teaches us about God's love
-
-**Things to know**
+**Main content**
 
 • **Jesus is the Son of God** who came to earth as a baby in Bethlehem, born of Mary.
 • Jesus came to **show us God**: nobody has seen God, but when we look at Jesus we see what God is like.
@@ -402,14 +353,7 @@ Write or draw one miracle of Jesus and one line under it on what the miracle tel
 
 *Depth: NERDC Primary 1 · CRS · Third Term W2 (pp 642–643).*
 
-**You will learn to**
-
-• say that Jesus was a teacher
-• explain what a parable is
-• tell how Jesus was kind to everybody
-• know that Jesus loves children
-
-**Things to know**
+**Main content**
 
 • Jesus was a **teacher**; people called Him **Rabbi**, which means master teacher.
 • Jesus taught mostly by **stories** called **parables** — a simple story with a deep lesson in it.

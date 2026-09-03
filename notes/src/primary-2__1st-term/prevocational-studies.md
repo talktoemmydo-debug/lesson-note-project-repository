@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — WORK AT HOME AND SCHOOL
 
-**You will learn to**
-
-• name work we do at home
-
-• name work we do at school
-
-• help in our work
-
-**Things to know**
+**Main content**
 
 • **Work** is what we do to help and to live well.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — TOOLS WE USE
 
-**You will learn to**
-
-• name tools we use
-
-• say what each tool does
-
-• use tools with care
-
-**Things to know**
+**Main content**
 
 • **Tools** are things we use to do work.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — FARM WORK
 
-**You will learn to**
-
-• name farm work
-
-• say what we grow
-
-• help on the farm
-
-**Things to know**
+**Main content**
 
 • **Farming** is growing crops and keeping animals.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — CARE OF OUR THINGS
 
-**You will learn to**
-
-• care for our things
-
-• keep things well
-
-• not spoil things
-
-**Things to know**
+**Main content**
 
 • We care for the things we have.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — FOOD PREPARATION
 
-**You will learn to**
-
-• name simple foods we prepare
-
-• help to prepare food
-
-• keep food clean
-
-**Things to know**
+**Main content**
 
 • We help to prepare simple **foods**.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — CLOTHING AND DRESSING
 
-**You will learn to**
-
-• name our clothes
-
-• care for our clothes
-
-• dress well
-
-**Things to know**
+**Main content**
 
 • **Clothing** is what we wear on the body.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — CARING FOR OUR ENVIRONMENT
 
-**You will learn to**
-
-• care for our environment
-
-• keep it clean
-
-• plant and protect
-
-**Things to know**
+**Main content**
 
 • Our **environment** is the place we live in.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — SAVING AND SHARING
 
-**You will learn to**
-
-• say what saving is
-
-• share with others
-
-• use things well
-
-**Things to know**
+**Main content**
 
 • **Saving** is keeping things for later.
 

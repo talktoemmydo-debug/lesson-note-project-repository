@@ -1,7 +1,7 @@
 # Nigerian History — term paper (converted from the spec; edit here and re-run spec_from_lines.py)
 subject: Nigerian History
-class: 
-term: 
+class: Nursery 2
+term: 1st Term
 
 [objective]
 History is the story of ___ || what happened in the past || what will happen tomorrow || how to count money || what we eat today

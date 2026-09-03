@@ -11,14 +11,7 @@ extent of what to reach.*
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · Second Term W1 (pp 458–464).*
 
-**You will learn to**
-
-• blend three sounds into a word and read it
-• read and write the word families -at, -an, -en, -in, -og, -un, -op
-• match each word to its picture
-• write words as they are said to me
-
-**Things to know**
+**Main content**
 
 • **CVC** means **consonant – vowel – consonant**: three letters, one vowel in the middle — **c a t**, **p e n**, **b e d**.
 • Blending is saying the sounds and running them together: **"c… a… t… cat"** — never say the letter names ("see-ay-tee"), say the **sounds** (/k/-/æ/-/t/).
@@ -72,14 +65,7 @@ Choose one word family and write six words in it; under the last one, draw the t
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · Second Term W2 (pp 458–464).*
 
-**You will learn to**
-
-• read four-letter words that end in two consonants
-• blend the ending -nd, -nt and -st
-• write CVCC words from a picture
-• say what the last two letters do to the word
-
-**Things to know**
+**Main content**
 
 • A **CVCC** word has **four letters**: consonant, vowel, consonant, consonant — the last two consonants stand together at the **end**: **hand**, **tent**, **nest**.
 • We already know three-letter words; here we **add one more sound at the tail** — that is all that changes.
@@ -127,14 +113,7 @@ Find five things at home whose names end in two consonants, write their words an
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · Second Term W3 (pp 458–464).*
 
-**You will learn to**
-
-• read the ending families -mp, -nk and -ft
-• blend four sounds in a new word without stopping
-• read a sentence full of CVCC words
-• write four-letter words from my own speaking
-
-**Things to know**
+**Main content**
 
 • The **-mp** family: **jump · lamp · camp · bump · damp · stamp** — after the **m**, the lips close again for the **p**; that is why -mp looks like two lips sounds together.
 • The **-nk** family: **bank · tank · pink · sink · wink · bunk** — the nose sound **n** slides into the **k**; say "nk" without a vowel between.
@@ -185,14 +164,7 @@ Draw a hand, a lamp and a tent; colour the one that keeps you warm at night.
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · Second Term W4 (pp 458–464).*
 
-**You will learn to**
-
-• read words that start with two consonants
-• say the **l** blends and the **r** blends
-• blend a consonant cluster without putting a sound between
-• write CCVC words
-
-**Things to know**
+**Main content**
 
 • A **CCVC** word has **two consonants at the front** and then a vowel and a consonant: **blu-e → blue**, **flag**, **drum**, **tree**.
 • Two consonants that run together are called a **blend**; a blend is still said **sound by sound**, fast — not "buh-lag" but /bl/ag.
@@ -244,14 +216,7 @@ Make two columns in your book: l-blends and r-blends. Write four words under eac
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · Second Term W7 (pp 458–464).*
 
-**You will learn to**
-
-• say what a sight word is
-• read ten sight words at once without blending
-• use the words in a simple sentence
-• play the flash-card and memory games with them
-
-**Things to know**
+**Main content**
 
 • A **sight word** is a word we see **so often** that we know it by its **shape**, the way we know a face — we do not blend it.
 • Why not blend? Because many of them break the rules: **"the"** is not "t-h-e" said fast; we just **know** it.
@@ -302,14 +267,7 @@ Cut ten small cards, write one sight word on each, and play the memory game with
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · Second Term W8 (pp 458–464).*
 
-**You will learn to**
-
-• learn ten more sight words
-• read them quickly in a game of bingo
-• put sight words together with CVC words to make a sentence
-• write sentences that begin with a big letter
-
-**Things to know**
+**Main content**
 
 • The ten new words: **he · she · we · me · my · to · go · no · up · can**.
 • **he** is for a boy or a man · **she** is for a girl or a woman · **we** is me and you together · **me** is me when somebody does something to me: "Give it to **me**."
@@ -360,14 +318,7 @@ Cut four letters out of an old newsprint and paste them in your book beside your
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · Second Term W9 (pp 458–464).*
 
-**You will learn to**
-
-• say what a sentence is
-• read simple sentences with the right stops
-• begin with a capital letter and end with a full stop
-• write my own three-line sentences
-
-**Things to know**
+**Main content**
 
 • A **sentence** is a group of words that makes **one complete sense**: "The cat sat on the mat" tells me a whole thing — a **who** and a **what he did**.
 • Two things a sentence must have: a **name of a thing or person** (who/what) and **what about it** (did/is/saw) — "cat the on" is a heap of words, not a sentence.
@@ -417,14 +368,7 @@ Draw one picture for the sentence you wrote best and colour it.
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · Second Term W10 (pp 458–464).*
 
-**You will learn to**
-
-• say what rhyming is and hear it in a word
-• group words into families by their ending sound
-• make up my own rhyme
-• tell why rhyming helps me read
-
-**Things to know**
+**Main content**
 
 • Two words **rhyme** when they sound the **same at the end** — the beginning is different: **cat / hat**, **pen / ten**.
 • **cat, bat, rat** are one **word family**: they share the **-at**; the first letter changes, the tail sound stays.

@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — JESUS TEACHES US TO LOVE
 
-**You will learn to**
-
-• say what Jesus taught about love
-
-• love God and others
-
-• show love every day
-
-**Things to know**
+**Main content**
 
 • Jesus taught us to **love**.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — THE PARABLE OF THE GOOD SAMARITAN
 
-**You will learn to**
-
-• tell the story of the Good Samaritan
-
-• say who a neighbour is
-
-• help anyone in need
-
-**Things to know**
+**Main content**
 
 • A **parable** is a story that teaches a lesson.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — THE PARABLE OF THE LOST SHEEP
 
-**You will learn to**
-
-• tell the story of the lost sheep
-
-• say what the story teaches
-
-• know that God loves us
-
-**Things to know**
+**Main content**
 
 • A shepherd had **one hundred** sheep.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — THE LORD'S PRAYER
 
-**You will learn to**
-
-• say the Lord's Prayer
-
-• say what each part means
-
-• pray to God
-
-**Things to know**
+**Main content**
 
 • Jesus taught his disciples to **pray**.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — JESUS IS ARRESTED
 
-**You will learn to**
-
-• tell how Jesus was arrested
-
-• say who betrayed Jesus
-
-• know that Jesus obeyed God
-
-**Things to know**
+**Main content**
 
 • Jesus went to a garden called **Gethsemane** to pray.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — THE DEATH OF JESUS
 
-**You will learn to**
-
-• tell how Jesus died
-
-• say why Jesus died
-
-• thank Jesus for his love
-
-**Things to know**
+**Main content**
 
 • The rulers handed Jesus to be **crucified**.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — JESUS RISES AGAIN
 
-**You will learn to**
-
-• tell how Jesus rose again
-
-• say what the resurrection means
-
-• rejoice that Jesus lives
-
-**Things to know**
+**Main content**
 
 • On the **third day**, women went to the tomb.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — JESUS SENDS HIS DISCIPLES
 
-**You will learn to**
-
-• tell how Jesus sent his disciples
-
-• say what he told them to do
-
-• share the good news
-
-**Things to know**
+**Main content**
 
 • After he rose, Jesus met his disciples.
 

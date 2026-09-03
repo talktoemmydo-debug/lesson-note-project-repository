@@ -11,14 +11,7 @@ the articles printed here are the minimum extent of what to reach.*
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Second Term W1 (pp 470–474).*
 
-**You will learn to**
-
-• name and form all the capital letters A–Z
-• say the three times a capital letter must be used
-• write my own name and my friends' names rightly
-• tell the capital and the small partner of each letter
-
-**Things to know**
+**Main content**
 
 • Letters come in two sizes: **capitals (big letters)** and **small letters (lower case)** — A is the capital of a, Q of q.
 • Our alphabet has **26 capitals**; the Yoruba alphabet has 25 letters and no c, q, v, x or z, so those five capitals are only for English words.
@@ -66,14 +59,7 @@ Write five names of people, three names of places, the day you were born on and 
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Second Term W2 (pp 470–474).*
 
-**You will learn to**
-
-• read, write and use the words **one**, **we** and **some**
-• say what each word means with my hands
-• read short sentences made of these three words
-• know that "one" is a number and a word at once
-
-**Things to know**
+**Main content**
 
 • Three new sight words: **one · we · some** — read them with the eye, not by blending.
 • **one** = 1 — it is a **word and a number** at the same time: "I have **one** bag." It also means *a single one*: "**One** day I will be big."
@@ -122,14 +108,7 @@ Find one thing, then some things, in your own bag; write one sentence about each
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Second Term W3 (pp 470–474).*
 
-**You will learn to**
-
-• see two same consonants together in a word
-• say and read words with bb, dd, gg, ll, mm, nn, pp, rr, ss, tt, zz
-• know that a double consonant is one sound, written twice
-• spell the double letter without forgetting it
-
-**Things to know**
+**Main content**
 
 • A **double consonant** is **the same consonant letter written twice together**: ra**bb**it, la**dd**er, o**ff**, e**gg**, be**ll**.
 • The twelve to look for: **bb · dd · ff · gg · ll · mm · nn · pp · rr · ss · tt · zz**.
@@ -178,14 +157,7 @@ Draw an egg, a comb and a lamp; write the double letter under each picture, then
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Second Term W4 (pp 470–474).*
 
-**You will learn to**
-
-• read and write **egg · add · ink · comb**
-• see the double consonant inside two of them
-• say why the **b** in "comb" is not sounded
-• put all four words into sentences
-
-**Things to know**
+**Main content**
 
 • The four words: **egg** (what the hen lays) · **add** (to put together — the maths word) · **ink** (the black liquid in a pen) · **comb** (the thing for the hair; and a hive of bees is also a comb).
 • **egg** has **gg** and **add** has **dd** — the double consonants of last week are now living inside words I must know whole.
@@ -234,14 +206,7 @@ Draw one thing for each of your four sight words and colour the four pictures.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Second Term W7 (pp 470–474).*
 
-**You will learn to**
-
-• say the long **a** sound and the three ways it is spelled
-• say the long **e** sound and the two ways it is spelled
-• choose the right spelling by where the sound sits in the word
-• read and write the word families rain/train and tree/see
-
-**Things to know**
+**Main content**
 
 • **Alternative spellings** = the **same sound** written in **different ways**; English does this a lot, and it is why spelling must be learnt, not only sounded out.
 • The **long a** sound is the letter's **own name**: /eɪ/ — as in "day".
@@ -291,14 +256,7 @@ Draw the sky on a bright day and the rain on a wet day; colour only the bright o
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Second Term W8 (pp 470–474).*
 
-**You will learn to**
-
-• write the long **i** sound in three ways
-• use **oi / oy** and **ou / ow** by where they sit in the word
-• read and write the sight words **be, was, like, here**
-• spell new words by choosing the right pattern
-
-**Things to know**
+**Main content**
 
 • The **long i** sound is the letter's own name: /aɪ/ — as in "I".
 • Three coats for it: **igh** (h**igh**, n**igh**t, l**igh**t, r**igh**t, f**igh**t) · **y** (m**y**, fl**y**, cr**y**, tr**y**, sh**y**, b**y**) · **ie** (t**ie**, p**ie**, l**ie**, d**ie**).
@@ -347,14 +305,7 @@ Draw a high hill and a small bird on it, then colour the bird.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Second Term W9 (pp 470–474).*
 
-**You will learn to**
-
-• say what a trigraph is
-• read the trigraphs **are, air, tch** and **ure**
-• know that **are** and **air** make the same sound
-• read the sight words **hair, match, pure** inside real words
-
-**Things to know**
+**Main content**
 
 • A **digraph** is **two** letters making **one** sound (sh, ch, ee, gh); a **trigraph** is **three** letters making **one** sound — **are, air, tch, ure**.
 • **are** says /eə/ — the same sound as **air**: c**are**, sh**are**, d**are**, b**are**, squ**are** · h**air**, f**air**, p**air**, ch**air**, st**air**s.
@@ -401,14 +352,7 @@ Cut three cards and write a trigraph on each (air, tch, ure); put a letter or tw
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Second Term W10 (pp 470–474).*
 
-**You will learn to**
-
-• choose **a**, **an** or **some** before a thing
-• know the six sight words: **there, live, four, do, they, give**
-• read and write sentences that use both
-• say why **an** goes before a vowel **sound**
-
-**Things to know**
+**Main content**
 
 • An **article** is the little word that stands before a thing to tell us how we mean it: **a**, **an** and **some**.
 • **a** goes before a word that begins with a **consonant sound**: **a** cat · **a** dog · **a** book · **a** ball · **a** university (the **u** here says /j/, a consonant sound, so **a** is right).

@@ -12,14 +12,7 @@ line for line as bullets below.*
 
 *Depth: school-generated — the school's own subtopic list for N2 S2 W1.*
 
-**You will learn to**
-
-• name the helpers of my community and what each one does
-• say where each helper works
-• tell why each helper is important to me
-• say thank you to a helper in words and in behaviour
-
-**Things to know**
+**Main content**
 
 • Helpers in my community: **doctor, nurse, teacher, police officer, firefighter, tailor, farmer**, and beside them the **driver, cleaner, water-seller, shopkeeper, mason, barber, welder, midwife**.
 • What each one does: the **doctor** treats the sick · the **nurse** gives the medicine and cleans the wound · the **teacher** teaches reading, counting and good manners · the **police officer** keeps us from thieves and stops the road · the **firefighter** puts out fire · the **tailor** sews our cloth · the **farmer** grows the food we eat.
@@ -62,14 +55,7 @@ Draw three helpers and write under each what he or she does; then greet one help
 
 *Depth: school-generated — the school's own subtopic list for N2 S2 W2.*
 
-**You will learn to**
-
-• say that my country is Nigeria and that I am a Nigerian
-• name the colours of the flag and what they mean
-• point to our country on a picture
-• know our money is the Naira
-
-**Things to know**
+**Main content**
 
 • My country's name is **Nigeria**; my state is **Lagos** (or the state written on my bag), and the country is made of **36 states and the FCT**.
 • Saying it out loud: **"My name is ____. I am a Nigerian."** — a name and a country are the two things I carry first.
@@ -115,14 +101,7 @@ Colour a flag of your own drawing: two green bands, one white band, and under it
 
 *Depth: school-generated — the school's own subtopic list for N2 S2 W3.*
 
-**You will learn to**
-
-• name the foods of Nigeria and the dishes they become
-• tell the clothes we wear, everyday and traditional
-• name the festivals we celebrate and what happens at them
-• share food and say what music and dance do at a festival
-
-**Things to know**
+**Main content**
 
 • Foods we grow and eat: **rice, yam, beans, plantain, cassava, maize, groundnut** and the fruits **orange, mango, banana, watermelon, pineapple, agbalumọ̀**.
 • Nigerian dishes: **jollof rice, fried rice, coconut rice, pounded yam, eba, amala, tuwo, akara, moi-moi, egg soup, vegetable (ewédú) soup, egusi soup, pepper soup, suya, kosai, pap and bread**.
@@ -166,14 +145,7 @@ Write the name of one Nigerian food and one Nigerian cloth; then, with somebody 
 
 *Depth: school-generated — the school's own subtopic list for N2 S2 W4.*
 
-**You will learn to**
-
-• name the kinds of day by the look of the sky
-• tell the rainy season from the dry season in Nigeria
-• choose clothes for the weather
-• keep the class weather chart for a week
-
-**Things to know**
+**Main content**
 
 • A day is **sunny** (the sun is out, the sky clear, the ground hot), **cloudy** (the sky is covered, the sun hides), **rainy** (water falls from the cloud), **windy** (the air moves and the trees bend).
 • Weather is what the sky is doing **today**; season is the weather that comes **again at the same time each year**.
@@ -217,14 +189,7 @@ Fill one week of a weather chart of your own: each morning look at the sky, draw
 
 *Depth: school-generated — the school's own subtopic list for N2 S2 W5.*
 
-**You will learn to**
-
-• name the plants in my environment
-• say the four parts of a plant and what each does
-• name the fruits and vegetables I eat
-• water a plant and watch it grow
-
-**Things to know**
+**Main content**
 
 • Plants in my environment: **trees** (mango, iroko, oil palm, neem, flame tree), **flowers** (hibiscus, rose), **grass** (the lawn and the roadside), **vegetables** (ugu, waterleaf, spinach, tomatoes, pepper).
 • A plant is not only big things: the small green thing at the wall's foot is a plant too, and it has all four parts.
@@ -269,14 +234,7 @@ Keep your tin plant for one week: water it in the morning, count the leaves on F
 
 *Depth: school-generated — the school's own subtopic list for N2 S2 W6.*
 
-**You will learn to**
-
-• name the five senses and the organ of each
-• use the senses to know a thing safely
-• keep away from the dangers of the home
-• cross the road the right way and know the stranger rule
-
-**Things to know**
+**Main content**
 
 • The five **senses** and their **organs**: **sight — eyes** · **hearing — ears** · **smell — nose** · **taste — tongue** · **touch/feel — skin (hands)**.
 • What each tells me: the eye tells **colour and shape**; the ear tells **sound and direction**; the nose tells **smell** (a good soup, a gas leak). The tongue tells **taste** — sweet, sour, bitter, salty; the skin tells **hot, cold, rough, smooth, sharp, pain**.
@@ -321,14 +279,7 @@ Look round your house and write two safe things and two unsafe things you can se
 
 *Depth: school-generated — the school's own subtopic list for N2 S2 W8.*
 
-**You will learn to**
-
-• name farm animals in Nigeria and what they give us
-• put each animal in the home we build for it
-• name our national bird and the king of animals
-• match an animal to its sound and to its home
-
-**Things to know**
+**Main content**
 
 • Farm animals and their uses: **goat** (meat and milk, and it eats the weeds round the house), **cow** (milk, meat, and its dung makes the farm ground rich), **chicken** (eggs and meat. And its feathers), **sheep** (wool and meat), **pig** (meat), **rabbit** (meat and fur), and beside them the **duck** (eggs) and the **guinea fowl** (eggs and meat — the common protein of the north).
 • What each gives: **eggs** from bird and fowl · **milk** from the cow and the goat · **meat** from nearly all of them · **hide and leather** from the cow and goat · **wool** from the sheep · **manure** from all of them for the farm.
@@ -371,14 +322,7 @@ Draw four animals and draw their homes beside them, then write the sound of two 
 
 *Depth: school-generated — the school's own subtopic list for N2 S2 W9.*
 
-**You will learn to**
-
-• sing Nigerian nursery rhymes and a lullaby
-• listen to a folktale and say what it teaches
-• hear the first lines of our anthem
-• retell a story in my own words in the circle
-
-**Things to know**
+**Main content**
 
 • A **nursery rhyme** is a small song with a game in it: *"Two two two, eye eye eye"* type action songs, *"Àlọ́, àlọ́! Àlọ́ ni!"* and the counting songs we clap.
 • A **lullaby** is the song a mother sings to make a child sleep; it is soft, slow, and it names the child: *"Sleep, my little one; the sun has gone; the bird is in the tree; sleep, sleep, sleep."*

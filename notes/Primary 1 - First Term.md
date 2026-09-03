@@ -18,122 +18,122 @@ Each lesson ends with a worksheet and a piece of my own work; each subject ends 
   - [WEEK 1 — THE ROAD AND ROAD SAFETY](#week-1-the-road-and-road-safety) · 3
   - [WEEK 2 — MY ENVIRONMENT AND COLOURS](#week-2-my-environment-and-colours) · 3
   - [WEEK 3 — SHAPES I](#week-3-shapes-i) · 4
-  - [WEEK 4 — SHAPES II](#week-4-shapes-ii) · 5
+  - [WEEK 4 — SHAPES II](#week-4-shapes-ii) · 4
   - [WEEK 5 — LIVING THINGS](#week-5-living-things) · 5
-  - [WEEK 6 — NON-LIVING THINGS](#week-6-non-living-things) · 6
-  - [WEEK 8 — AIR AND WIND](#week-8-air-and-wind) · 7
+  - [WEEK 6 — NON-LIVING THINGS](#week-6-non-living-things) · 5
+  - [WEEK 8 — AIR AND WIND](#week-8-air-and-wind) · 6
   - [WEEK 9 — SOIL](#week-9-soil) · 7
-- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 9
-  - [WEEK 1 — LINES IN ART](#week-1-lines-in-art) · 9
-  - [WEEK 2 — SHAPES AND SIZES](#week-2-shapes-and-sizes) · 9
-  - [WEEK 3 — TEXTURE](#week-3-texture) · 10
-  - [WEEK 4 — ART MATERIALS AND TOOLS](#week-4-art-materials-and-tools) · 11
-  - [WEEK 5 — OUR NIGERIAN CULTURE](#week-5-our-nigerian-culture) · 11
-  - [WEEK 6 — NAMING CEREMONIES](#week-6-naming-ceremonies) · 12
-  - [WEEK 8 — BODY BEAUTIFICATION](#week-8-body-beautification) · 12
-  - [WEEK 9 — PERFORMING ARTS](#week-9-performing-arts) · 13
-- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 15
-  - [WEEK 1 — JESUS CALMS THE STORM](#week-1-jesus-calms-the-storm) · 15
-  - [WEEK 2 — JESUS WALKS ON WATER](#week-2-jesus-walks-on-water) · 15
-  - [WEEK 3 — JESUS FEEDS FIVE THOUSAND](#week-3-jesus-feeds-five-thousand) · 16
-  - [WEEK 4 — JESUS HEALS THE SICK](#week-4-jesus-heals-the-sick) · 17
-  - [WEEK 5 — THE PARALYZED MAN AND HIS FRIENDS](#week-5-the-paralyzed-man-and-his-friends) · 17
-  - [WEEK 6 — JESUS RAISES JAIRUS' DAUGHTER](#week-6-jesus-raises-jairus-daughter) · 18
-  - [WEEK 8 — JESUS RAISES LAZARUS](#week-8-jesus-raises-lazarus) · 18
-  - [WEEK 9 — JESUS CLEANSES THE TEMPLE](#week-9-jesus-cleanses-the-temple) · 19
-- **[Basic Digital Literacy](#basic-digital-literacy)** · 21
-  - [WEEK 1 — DIGITAL DEVICES AROUND US](#week-1-digital-devices-around-us) · 21
-  - [WEEK 2 — THE FOUR BASIC PARTS](#week-2-the-four-basic-parts) · 21
-  - [WEEK 3 — CARING FOR DEVICES AND LAB RULES](#week-3-caring-for-devices-and-lab-rules) · 22
-  - [WEEK 4 — FROM THE ABACUS TO TODAY](#week-4-from-the-abacus-to-today) · 23
-  - [WEEK 5 — THE TWO GREAT INVENTORS](#week-5-the-two-great-inventors) · 23
-  - [WEEK 6 — HARDWARE AND SOFTWARE](#week-6-hardware-and-software) · 24
-  - [WEEK 8 — INPUT DEVICES: KEYBOARD AND MOUSE](#week-8-input-devices-keyboard-and-mouse) · 25
-  - [WEEK 9 — OUTPUT DEVICES AND THE MICROPHONE](#week-9-output-devices-and-the-microphone) · 25
-- **[Nigerian History](#nigerian-history)** · 27
-  - [WEEK 1 — WHAT IS HISTORY?](#week-1-what-is-history) · 27
-  - [WEEK 2 — SOURCES OF HISTORY](#week-2-sources-of-history) · 27
-  - [WEEK 3 — MY OWN HISTORY](#week-3-my-own-history) · 28
-  - [WEEK 4 — EARLY PEOPLE IN NIGERIA](#week-4-early-people-in-nigeria) · 29
-  - [WEEK 5 — HOW PEOPLE CAME TO NIGERIA](#week-5-how-people-came-to-nigeria) · 29
-  - [WEEK 6 — THE MAJOR ETHNIC GROUPS](#week-6-the-major-ethnic-groups) · 30
-  - [WEEK 8 — EARLY KINGDOMS AND EMPIRES](#week-8-early-kingdoms-and-empires) · 30
-  - [WEEK 9 — TRADITIONAL OCCUPATIONS](#week-9-traditional-occupations) · 31
-- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 33
-  - [WEEK 1 — RUNNING AND THE 50M DASH](#week-1-running-and-the-50m-dash) · 33
-  - [WEEK 2 — THE SHUTTLE RUN](#week-2-the-shuttle-run) · 33
-  - [WEEK 3 — OUR LOCAL GAMES](#week-3-our-local-games) · 34
-  - [WEEK 4 — RUNNING WITH A GOOD POSTURE](#week-4-running-with-a-good-posture) · 34
-  - [WEEK 5 — TOILET HYGIENE AND HANDWASHING](#week-5-toilet-hygiene-and-handwashing) · 35
-  - [WEEK 6 — PERSONAL HYGIENE](#week-6-personal-hygiene) · 36
-  - [WEEK 8 — CARING FOR MY BODY](#week-8-caring-for-my-body) · 36
-  - [WEEK 9 — KEEPING OUR ENVIRONMENT CLEAN](#week-9-keeping-our-environment-clean) · 37
-- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 38
-  - [WEEK 1 — WHAT IS PRE-VOCATIONAL STUDIES?](#week-1-what-is-pre-vocational-studies) · 38
-  - [WEEK 2 — SIMPLE FARM TOOLS](#week-2-simple-farm-tools) · 38
-  - [WEEK 3 — CROPS WE GROW](#week-3-crops-we-grow) · 39
-  - [WEEK 4 — ANIMALS WE KEEP](#week-4-animals-we-keep) · 40
-  - [WEEK 5 — SIMPLE FOOD PREPARATION](#week-5-simple-food-preparation) · 40
-  - [WEEK 6 — CLEANLINESS AT HOME](#week-6-cleanliness-at-home) · 41
-  - [WEEK 8 — SIMPLE CRAFTS](#week-8-simple-crafts) · 42
-  - [WEEK 9 — WORK SAFELY AND WELL](#week-9-work-safely-and-well) · 42
-- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 44
-  - [WEEK 1 — MYSELF AND MY IDENTITY](#week-1-myself-and-my-identity) · 44
-  - [WEEK 2 — MY FAMILY](#week-2-my-family) · 44
-  - [WEEK 3 — MY COMMUNITY](#week-3-my-community) · 45
-  - [WEEK 4 — OUR CULTURE](#week-4-our-culture) · 46
-  - [WEEK 5 — GOOD VALUES AND MANNERS](#week-5-good-values-and-manners) · 46
-  - [WEEK 6 — BEING A GOOD CITIZEN](#week-6-being-a-good-citizen) · 47
-  - [WEEK 8 — OUR ENVIRONMENT](#week-8-our-environment) · 48
-  - [WEEK 9 — LIVING TOGETHER IN PEACE](#week-9-living-together-in-peace) · 48
-- **[Yoruba](#yoruba)** · 50
-  - [WEEK 1 — KÍKI (GREETINGS)](#week-1-kíki-greetings) · 50
-  - [WEEK 2 — ẸBÍ MI (MY FAMILY)](#week-2-ẹbí-mi-my-family) · 50
-  - [WEEK 3 — ARA MI (MY BODY)](#week-3-ara-mi-my-body) · 51
-  - [WEEK 4 — NỌ́MBÀ (NUMBERS 1-10)](#week-4-nọmbà-numbers-1-10) · 52
-  - [WEEK 5 — ÀWỌ̀ (COLOURS)](#week-5-àwọ-colours) · 52
-  - [WEEK 6 — ỌJỌ́ Ọ̀SẸ̀ (DAYS OF THE WEEK)](#week-6-ọjọ-ọsẹ-days-of-the-week) · 53
-  - [WEEK 8 — ILÉ MI (MY HOME)](#week-8-ilé-mi-my-home) · 54
-  - [WEEK 9 — ẸRANKO (ANIMALS)](#week-9-ẹranko-animals) · 54
-  - [WEEK 11 — OÚNJẸ (FOOD)](#week-11-oúnjẹ-food) · 55
-- **[Mathematics & English](#mathematics-english)** · 57
-  - [WEEK 1 — PHONEMIC AWARENESS I: IDENTIFYING AND PRODUCING SOUNDS](#week-1-phonemic-awareness-i-identifying-and-producing-sounds) · 57
-  - [WEEK 2 — USING SOUNDS TO SPELL AND PRONOUNCE WORDS](#week-2-using-sounds-to-spell-and-pronounce-words) · 57
-  - [WEEK 3 — COMPREHENSION I: SHORT STORIES AND RHYMES](#week-3-comprehension-i-short-stories-and-rhymes) · 58
-  - [WEEK 4 — ADJECTIVES: DESCRIBING WORDS](#week-4-adjectives-describing-words) · 59
-  - [WEEK 5 — PHONICS II: CONSONANT BLENDS AND DIGRAPHS](#week-5-phonics-ii-consonant-blends-and-digraphs) · 59
-  - [WEEK 6 — LISTENING AND SPEAKING: ASKING AND ANSWERING QUESTIONS](#week-6-listening-and-speaking-asking-and-answering-questions) · 60
-  - [WEEK 8 — SIMPLE PRESENT AND PAST TENSE OF COMMON VERBS](#week-8-simple-present-and-past-tense-of-common-verbs) · 61
-  - [WEEK 9 — PHONEMIC AWARENESS II: SOUND PATTERNS AND WORD FAMILIES](#week-9-phonemic-awareness-ii-sound-patterns-and-word-families) · 61
-  - [WEEK 1 — WHOLE NUMBERS 1 TO 100](#week-1-whole-numbers-1-to-100) · 62
-  - [WEEK 2 — WHOLE NUMBERS 101 TO 9000](#week-2-whole-numbers-101-to-9000) · 63
-  - [WEEK 3 — FRACTIONS (PART 1)](#week-3-fractions-part-1) · 63
-  - [WEEK 4 — FRACTIONS (PART 2)](#week-4-fractions-part-2) · 64
-  - [WEEK 5 — ADDITION (PART 1)](#week-5-addition-part-1) · 65
-  - [WEEK 6 — ADDITION (PART 2)](#week-6-addition-part-2) · 65
-  - [WEEK 8 — SUBTRACTION (PART 1)](#week-8-subtraction-part-1) · 66
-  - [WEEK 9 — SUBTRACTION (PART 2)](#week-9-subtraction-part-2) · 67
-- **[General Knowledge](#general-knowledge)** · 68
-  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 68
-  - [WEEK 2 — MY FAMILY AND THEIR ROLES](#week-2-my-family-and-their-roles) · 68
-  - [WEEK 3 — MY SCHOOL: PLACES AND PEOPLE](#week-3-my-school-places-and-people) · 69
-  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 70
-  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 70
-  - [WEEK 6 — COMMUNITY HELPERS](#week-6-community-helpers) · 71
-  - [WEEK 8 — MY COUNTRY, NIGERIA](#week-8-my-country-nigeria) · 71
-  - [WEEK 9 — BEING A GOOD CITIZEN](#week-9-being-a-good-citizen) · 72
-- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 74
-- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-1-1st-term)** · 76
-- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 78
-- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 80
-- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 1st Term)](#examination-practice-nigerian-history-primary-1-1st-term)** · 82
-- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 1st Term)](#examination-practice-physical-and-health-education-primary-1-1st-term)** · 84
-- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 1st Term)](#examination-practice-prevocational-studies-primary-1-1st-term)** · 86
-- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-1-1st-term)** · 88
-- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 1st Term)](#examination-practice-yoruba-primary-1-1st-term)** · 90
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 1st Term)](#examination-practice-mathematics-english-english-language-primary-1-1st-term)** · 92
-- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 1st Term)](#examination-practice-mathematics-english-mathematics-primary-1-1st-term)** · 94
-- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 1st Term)](#examination-practice-general-knowledge-primary-1-1st-term)** · 96
+- **[Cultural and Creative Arts (CCA)](#cultural-and-creative-arts-cca)** · 8
+  - [WEEK 1 — LINES IN ART](#week-1-lines-in-art) · 8
+  - [WEEK 2 — SHAPES AND SIZES](#week-2-shapes-and-sizes) · 8
+  - [WEEK 3 — TEXTURE](#week-3-texture) · 9
+  - [WEEK 4 — ART MATERIALS AND TOOLS](#week-4-art-materials-and-tools) · 9
+  - [WEEK 5 — OUR NIGERIAN CULTURE](#week-5-our-nigerian-culture) · 10
+  - [WEEK 6 — NAMING CEREMONIES](#week-6-naming-ceremonies) · 10
+  - [WEEK 8 — BODY BEAUTIFICATION](#week-8-body-beautification) · 11
+  - [WEEK 9 — PERFORMING ARTS](#week-9-performing-arts) · 12
+- **[Christian Religious Studies (CRS)](#christian-religious-studies-crs)** · 13
+  - [WEEK 1 — JESUS CALMS THE STORM](#week-1-jesus-calms-the-storm) · 13
+  - [WEEK 2 — JESUS WALKS ON WATER](#week-2-jesus-walks-on-water) · 13
+  - [WEEK 3 — JESUS FEEDS FIVE THOUSAND](#week-3-jesus-feeds-five-thousand) · 14
+  - [WEEK 4 — JESUS HEALS THE SICK](#week-4-jesus-heals-the-sick) · 14
+  - [WEEK 5 — THE PARALYZED MAN AND HIS FRIENDS](#week-5-the-paralyzed-man-and-his-friends) · 15
+  - [WEEK 6 — JESUS RAISES JAIRUS' DAUGHTER](#week-6-jesus-raises-jairus-daughter) · 15
+  - [WEEK 8 — JESUS RAISES LAZARUS](#week-8-jesus-raises-lazarus) · 16
+  - [WEEK 9 — JESUS CLEANSES THE TEMPLE](#week-9-jesus-cleanses-the-temple) · 16
+- **[Basic Digital Literacy](#basic-digital-literacy)** · 18
+  - [WEEK 1 — DIGITAL DEVICES AROUND US](#week-1-digital-devices-around-us) · 18
+  - [WEEK 2 — THE FOUR BASIC PARTS](#week-2-the-four-basic-parts) · 18
+  - [WEEK 3 — CARING FOR DEVICES AND LAB RULES](#week-3-caring-for-devices-and-lab-rules) · 19
+  - [WEEK 4 — FROM THE ABACUS TO TODAY](#week-4-from-the-abacus-to-today) · 19
+  - [WEEK 5 — THE TWO GREAT INVENTORS](#week-5-the-two-great-inventors) · 20
+  - [WEEK 6 — HARDWARE AND SOFTWARE](#week-6-hardware-and-software) · 21
+  - [WEEK 8 — INPUT DEVICES: KEYBOARD AND MOUSE](#week-8-input-devices-keyboard-and-mouse) · 21
+  - [WEEK 9 — OUTPUT DEVICES AND THE MICROPHONE](#week-9-output-devices-and-the-microphone) · 22
+- **[Nigerian History](#nigerian-history)** · 23
+  - [WEEK 1 — WHAT IS HISTORY?](#week-1-what-is-history) · 23
+  - [WEEK 2 — SOURCES OF HISTORY](#week-2-sources-of-history) · 23
+  - [WEEK 3 — MY OWN HISTORY](#week-3-my-own-history) · 24
+  - [WEEK 4 — EARLY PEOPLE IN NIGERIA](#week-4-early-people-in-nigeria) · 24
+  - [WEEK 5 — HOW PEOPLE CAME TO NIGERIA](#week-5-how-people-came-to-nigeria) · 25
+  - [WEEK 6 — THE MAJOR ETHNIC GROUPS](#week-6-the-major-ethnic-groups) · 25
+  - [WEEK 8 — EARLY KINGDOMS AND EMPIRES](#week-8-early-kingdoms-and-empires) · 26
+  - [WEEK 9 — TRADITIONAL OCCUPATIONS](#week-9-traditional-occupations) · 27
+- **[Physical and Health Education (PHE)](#physical-and-health-education-phe)** · 28
+  - [WEEK 1 — RUNNING AND THE 50M DASH](#week-1-running-and-the-50m-dash) · 28
+  - [WEEK 2 — THE SHUTTLE RUN](#week-2-the-shuttle-run) · 28
+  - [WEEK 3 — OUR LOCAL GAMES](#week-3-our-local-games) · 29
+  - [WEEK 4 — RUNNING WITH A GOOD POSTURE](#week-4-running-with-a-good-posture) · 29
+  - [WEEK 5 — TOILET HYGIENE AND HANDWASHING](#week-5-toilet-hygiene-and-handwashing) · 30
+  - [WEEK 6 — PERSONAL HYGIENE](#week-6-personal-hygiene) · 30
+  - [WEEK 8 — CARING FOR MY BODY](#week-8-caring-for-my-body) · 31
+  - [WEEK 9 — KEEPING OUR ENVIRONMENT CLEAN](#week-9-keeping-our-environment-clean) · 31
+- **[Prevocational Studies (PVS)](#prevocational-studies-pvs)** · 33
+  - [WEEK 1 — WHAT IS PRE-VOCATIONAL STUDIES?](#week-1-what-is-pre-vocational-studies) · 33
+  - [WEEK 2 — SIMPLE FARM TOOLS](#week-2-simple-farm-tools) · 33
+  - [WEEK 3 — CROPS WE GROW](#week-3-crops-we-grow) · 34
+  - [WEEK 4 — ANIMALS WE KEEP](#week-4-animals-we-keep) · 35
+  - [WEEK 5 — SIMPLE FOOD PREPARATION](#week-5-simple-food-preparation) · 35
+  - [WEEK 6 — CLEANLINESS AT HOME](#week-6-cleanliness-at-home) · 36
+  - [WEEK 8 — SIMPLE CRAFTS](#week-8-simple-crafts) · 36
+  - [WEEK 9 — WORK SAFELY AND WELL](#week-9-work-safely-and-well) · 37
+- **[Social and Citizenship Studies (SCS)](#social-and-citizenship-studies-scs)** · 38
+  - [WEEK 1 — MYSELF AND MY IDENTITY](#week-1-myself-and-my-identity) · 38
+  - [WEEK 2 — MY FAMILY](#week-2-my-family) · 38
+  - [WEEK 3 — MY COMMUNITY](#week-3-my-community) · 39
+  - [WEEK 4 — OUR CULTURE](#week-4-our-culture) · 40
+  - [WEEK 5 — GOOD VALUES AND MANNERS](#week-5-good-values-and-manners) · 40
+  - [WEEK 6 — BEING A GOOD CITIZEN](#week-6-being-a-good-citizen) · 41
+  - [WEEK 8 — OUR ENVIRONMENT](#week-8-our-environment) · 41
+  - [WEEK 9 — LIVING TOGETHER IN PEACE](#week-9-living-together-in-peace) · 42
+- **[Yoruba](#yoruba)** · 43
+  - [WEEK 1 — KÍKI (GREETINGS)](#week-1-kíki-greetings) · 43
+  - [WEEK 2 — ẸBÍ MI (MY FAMILY)](#week-2-ẹbí-mi-my-family) · 43
+  - [WEEK 3 — ARA MI (MY BODY)](#week-3-ara-mi-my-body) · 44
+  - [WEEK 4 — NỌ́MBÀ (NUMBERS 1-10)](#week-4-nọmbà-numbers-1-10) · 44
+  - [WEEK 5 — ÀWỌ̀ (COLOURS)](#week-5-àwọ-colours) · 45
+  - [WEEK 6 — ỌJỌ́ Ọ̀SẸ̀ (DAYS OF THE WEEK)](#week-6-ọjọ-ọsẹ-days-of-the-week) · 46
+  - [WEEK 8 — ILÉ MI (MY HOME)](#week-8-ilé-mi-my-home) · 46
+  - [WEEK 9 — ẸRANKO (ANIMALS)](#week-9-ẹranko-animals) · 47
+  - [WEEK 11 — OÚNJẸ (FOOD)](#week-11-oúnjẹ-food) · 47
+- **[Mathematics & English](#mathematics-english)** · 49
+  - [WEEK 1 — PHONEMIC AWARENESS I: IDENTIFYING AND PRODUCING SOUNDS](#week-1-phonemic-awareness-i-identifying-and-producing-sounds) · 49
+  - [WEEK 2 — USING SOUNDS TO SPELL AND PRONOUNCE WORDS](#week-2-using-sounds-to-spell-and-pronounce-words) · 49
+  - [WEEK 3 — COMPREHENSION I: SHORT STORIES AND RHYMES](#week-3-comprehension-i-short-stories-and-rhymes) · 50
+  - [WEEK 4 — ADJECTIVES: DESCRIBING WORDS](#week-4-adjectives-describing-words) · 50
+  - [WEEK 5 — PHONICS II: CONSONANT BLENDS AND DIGRAPHS](#week-5-phonics-ii-consonant-blends-and-digraphs) · 51
+  - [WEEK 6 — LISTENING AND SPEAKING: ASKING AND ANSWERING QUESTIONS](#week-6-listening-and-speaking-asking-and-answering-questions) · 52
+  - [WEEK 8 — SIMPLE PRESENT AND PAST TENSE OF COMMON VERBS](#week-8-simple-present-and-past-tense-of-common-verbs) · 52
+  - [WEEK 9 — PHONEMIC AWARENESS II: SOUND PATTERNS AND WORD FAMILIES](#week-9-phonemic-awareness-ii-sound-patterns-and-word-families) · 53
+  - [WEEK 1 — WHOLE NUMBERS 1 TO 100](#week-1-whole-numbers-1-to-100) · 53
+  - [WEEK 2 — WHOLE NUMBERS 101 TO 9000](#week-2-whole-numbers-101-to-9000) · 54
+  - [WEEK 3 — FRACTIONS (PART 1)](#week-3-fractions-part-1) · 55
+  - [WEEK 4 — FRACTIONS (PART 2)](#week-4-fractions-part-2) · 55
+  - [WEEK 5 — ADDITION (PART 1)](#week-5-addition-part-1) · 56
+  - [WEEK 6 — ADDITION (PART 2)](#week-6-addition-part-2) · 56
+  - [WEEK 8 — SUBTRACTION (PART 1)](#week-8-subtraction-part-1) · 57
+  - [WEEK 9 — SUBTRACTION (PART 2)](#week-9-subtraction-part-2) · 58
+- **[General Knowledge](#general-knowledge)** · 59
+  - [WEEK 1 — MYSELF: MY NAME, MY AGE AND MY BODY](#week-1-myself-my-name-my-age-and-my-body) · 59
+  - [WEEK 2 — MY FAMILY AND THEIR ROLES](#week-2-my-family-and-their-roles) · 59
+  - [WEEK 3 — MY SCHOOL: PLACES AND PEOPLE](#week-3-my-school-places-and-people) · 60
+  - [WEEK 4 — MY CLASSROOM: RULES AND MATERIALS](#week-4-my-classroom-rules-and-materials) · 60
+  - [WEEK 5 — MY HOME AND MY NEIGHBOURHOOD](#week-5-my-home-and-my-neighbourhood) · 61
+  - [WEEK 6 — COMMUNITY HELPERS](#week-6-community-helpers) · 61
+  - [WEEK 8 — MY COUNTRY, NIGERIA](#week-8-my-country-nigeria) · 62
+  - [WEEK 9 — BEING A GOOD CITIZEN](#week-9-being-a-good-citizen) · 62
+- **[EXAMINATION PRACTICE — BASIC SCIENCE (Primary 1 · 1st Term)](#examination-practice-basic-science-primary-1-1st-term)** · 64
+- **[EXAMINATION PRACTICE — CULTURAL AND CREATIVE ARTS (Primary 1 · 1st Term)](#examination-practice-cultural-and-creative-arts-primary-1-1st-term)** · 66
+- **[EXAMINATION PRACTICE — CHRISTIAN RELIGIOUS STUDIES (Primary 1 · 1st Term)](#examination-practice-christian-religious-studies-primary-1-1st-term)** · 68
+- **[EXAMINATION PRACTICE — BASIC DIGITAL LITERACY (Primary 1 · 1st Term)](#examination-practice-basic-digital-literacy-primary-1-1st-term)** · 70
+- **[EXAMINATION PRACTICE — NIGERIAN HISTORY (Primary 1 · 1st Term)](#examination-practice-nigerian-history-primary-1-1st-term)** · 72
+- **[EXAMINATION PRACTICE — PHYSICAL AND HEALTH EDUCATION (Primary 1 · 1st Term)](#examination-practice-physical-and-health-education-primary-1-1st-term)** · 74
+- **[EXAMINATION PRACTICE — PREVOCATIONAL STUDIES (Primary 1 · 1st Term)](#examination-practice-prevocational-studies-primary-1-1st-term)** · 76
+- **[EXAMINATION PRACTICE — SOCIAL AND CITIZENSHIP STUDIES (Primary 1 · 1st Term)](#examination-practice-social-and-citizenship-studies-primary-1-1st-term)** · 78
+- **[EXAMINATION PRACTICE — YORUBA (Primary 1 · 1st Term)](#examination-practice-yoruba-primary-1-1st-term)** · 80
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · ENGLISH LANGUAGE (Primary 1 · 1st Term)](#examination-practice-mathematics-english-english-language-primary-1-1st-term)** · 82
+- **[EXAMINATION PRACTICE — MATHEMATICS & ENGLISH · MATHEMATICS (Primary 1 · 1st Term)](#examination-practice-mathematics-english-mathematics-primary-1-1st-term)** · 84
+- **[EXAMINATION PRACTICE — GENERAL KNOWLEDGE (Primary 1 · 1st Term)](#examination-practice-general-knowledge-primary-1-1st-term)** · 86
 
 
 
@@ -150,14 +150,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W1 (surroundings: road).*
 
-**You will learn to**
-
-• point to a road in my community
-• tell a tarred road from an untarred road and a pathway
-• say what a road is used for
-• cross the road the safe way
-
-**Things to know**
+**Main content**
 
 • A **road** is the way that vehicles and people move from place to place.
 • A **tarred road** is smooth and black because tar was put on it.
@@ -199,14 +192,7 @@ Draw the road near my house and put one car and one person walking on it.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W2 (environment and colour).*
 
-**You will learn to**
-
-• say what the environment is
-• name things I see in my environment
-• tell the primary colours
-• sort things by their colour
-
-**Things to know**
+**Main content**
 
 • The **environment** is everything around us at home and at school.
 • In my environment I see trees, houses, people, animals and the sky.
@@ -247,14 +233,7 @@ Look around my room at home and draw two things I see, then colour them.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W3 (basic shapes).*
 
-**You will learn to**
-
-• name the circle, square, triangle and rectangle
-• say how many corners a shape has
-• find shapes in my environment
-• trace and draw basic shapes
-
-**Things to know**
+**Main content**
 
 • A **circle** is round like a ball or a wheel and has no corners.
 • A **square** has four equal sides and four corners.
@@ -295,14 +274,7 @@ Find three shapes in my house and draw each one in my notebook.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W4 (more shapes and solids).*
 
-**You will learn to**
-
-• name the oval, diamond, star and heart
-• compare shapes that are big and small
-• make a picture using shapes
-• know a ball, a box and a tin as solid shapes
-
-**Things to know**
+**Main content**
 
 • An **oval** is like a circle that was stretched, like an egg.
 • A **star** has five points and we see it in the night sky.
@@ -343,14 +315,7 @@ Use shapes to draw a house: a square for the walls and a triangle for the roof.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W5 (living things).*
 
-**You will learn to**
-
-• say what a living thing is
-• tell the things living things do
-• name living things at home and on the farm
-• say what living things need to live
-
-**Things to know**
+**Main content**
 
 • **Living things** are things that have life, like humans, animals and plants.
 • Living things **move**, **eat**, **grow** and **breathe**.
@@ -391,14 +356,7 @@ Water one plant at home and watch it for a week, then draw it.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W6 (non-living things).*
 
-**You will learn to**
-
-• say what a non-living thing is
-• tell non-living things from living things
-• name natural and man-made non-living things
-• say how non-living things help us
-
-**Things to know**
+**Main content**
 
 • **Non-living things** do not eat, grow, breathe or move on their own.
 • A stone, water, air, a chair and a book are non-living things.
@@ -439,14 +397,7 @@ Look around my home and draw two non-living things I use every day.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W8 (surroundings: air).*
 
-**You will learn to**
-
-• say what air is
-• feel air by blowing and fanning
-• tell the uses of air
-• say what wind is
-
-**Things to know**
+**Main content**
 
 • **Air** is all around us; we cannot see it but we can feel it.
 • We feel air when we blow, wave or fan.
@@ -487,14 +438,7 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W9 (surroundings: soil).*
 
-**You will learn to**
-
-• say what soil is
-• tell where we find soil
-• name the types of soil by look
-• say the uses of soil
-
-**Things to know**
+**Main content**
 
 • **Soil** is the top part of the ground where plants grow.
 • We find soil on the ground, in gardens, on farms and in flower pots.
@@ -544,14 +488,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · CCA · First Term W1 (lines).*
 
-**You will learn to**
-
-• say what a line is in art
-• tell straight lines from curved and zigzag lines
-• draw straight and curved lines
-• make a picture using lines only
-
-**Things to know**
+**Main content**
 
 • A **line** is a mark that joins two points; it can be straight or curved.
 • A **straight line** can lie flat (horizontal), stand up (vertical) or slant (diagonal).
@@ -592,14 +529,7 @@ Fill my page with three different lines and colour between them.
 
 *Depth: NERDC Primary 1 · CCA · First Term W2 (shapes and sizes).*
 
-**You will learn to**
-
-• name the basic shapes
-• find shapes in my environment
-• compare things that are big and small
-• make a picture using shapes
-
-**Things to know**
+**Main content**
 
 • The basic shapes are the **circle**, **square**, **triangle**, **rectangle** and **oval**.
 • A wheel is a circle, a door is a rectangle and an egg is an oval.
@@ -640,14 +570,7 @@ Cut or draw three shapes and paste them to make a picture.
 
 *Depth: NERDC Primary 1 · CCA · First Term W3 (texture).*
 
-**You will learn to**
-
-• say what texture means
-• tell rough things from smooth and soft things
-• make texture with dots and scribbles
-• do a rubbing to show texture
-
-**Things to know**
+**Main content**
 
 • **Texture** is how a thing feels when we touch it.
 • A stone feels **hard**, a feather feels **soft**, and sandpaper feels **rough**.
@@ -688,14 +611,7 @@ Touch three things at home and draw one face for each: happy for soft, surprised
 
 *Depth: NERDC Primary 1 · CCA · First Term W4 (materials and tools).*
 
-**You will learn to**
-
-• name the materials we use in art
-• tell drawing tools from colouring and cutting tools
-• use scissors and glue safely
-• keep my art tools tidy
-
-**Things to know**
+**Main content**
 
 • We draw with a **pencil**, a **pen** or **charcoal**.
 • We colour with **crayons**, **coloured pencils**, **paints** and **markers**.
@@ -736,14 +652,7 @@ Draw my art box and put three tools inside it.
 
 *Depth: NERDC Primary 1 · CCA · First Term W5 (introduction to culture).*
 
-**You will learn to**
-
-• say what culture means
-• name the big ethnic groups in Nigeria
-• name the things that make up culture
-• be proud of my culture
-
-**Things to know**
+**Main content**
 
 • **Culture** is the way of life of a people: what they eat, wear, speak and celebrate.
 • Nigeria has many **ethnic groups**; the big three are **Hausa**, **Igbo** and **Yoruba**.
@@ -784,14 +693,7 @@ Draw the food my people eat at a festival.
 
 *Depth: NERDC Primary 1 · CCA · First Term W6 (ceremonies: naming).*
 
-**You will learn to**
-
-• say what a ceremony is
-• tell what happens at a naming ceremony
-• name things used at a naming ceremony
-• know that ceremonies welcome a baby
-
-**Things to know**
+**Main content**
 
 • A **ceremony** is a special celebration that a people keep.
 • A **naming ceremony** welcomes a new baby into the family and gives the baby a name.
@@ -832,14 +734,7 @@ Draw a naming ceremony with the family gathered round the baby.
 
 *Depth: NERDC Primary 1 · CCA · First Term W8 (body beautification).*
 
-**You will learn to**
-
-• say what body beautification means
-• name ways people beautify the body in our cultures
-• name things people wear as decoration
-• know that our decorations are part of culture
-
-**Things to know**
+**Main content**
 
 • **Body beautification** is making the body look fine in our own way.
 • People make **hairstyles** like threading and cornrows.
@@ -880,14 +775,7 @@ Draw a girl with beads and bangles on, ready for a festival.
 
 *Depth: NERDC Primary 1 · CCA · First Term W9 (performing arts).*
 
-**You will learn to**
-
-• say what performing arts are
-• name the kinds of performing arts
-• sing a rhyme or act a small part
-• know that performing arts teach and entertain
-
-**Things to know**
+**Main content**
 
 • **Performing arts** are arts we show with our body and voice: acting, dancing, singing and storytelling.
 • We learn **rhymes**, **folktales** and **songs**.
@@ -936,14 +824,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · CRS · First Term W1 (Mark 4:35–41).*
 
-**You will learn to**
-
-• tell the story of Jesus calming the storm
-• say what the disciples did when they were afraid
-• say what Jesus said to the wind and the sea
-• know that Jesus has power over nature
-
-**Things to know**
+**Main content**
 
 • Jesus and his disciples were in a **boat** on the sea when a big storm came.
 • The disciples were **afraid** because the boat was filling with water.
@@ -984,14 +865,7 @@ Draw the boat and the big waves, then draw the sea when it became calm.
 
 *Depth: NERDC Primary 1 · CRS · First Term W2 (Matthew 14:22–33).*
 
-**You will learn to**
-
-• tell the story of Jesus walking on water
-• say why the disciples were frightened
-• say what happened to Peter
-• know that Jesus tells us not to be afraid
-
-**Things to know**
+**Main content**
 
 • The disciples were in a boat at **night** and Jesus was on land praying.
 • Jesus **walked on the water** toward the boat, and the disciples thought it was a ghost.
@@ -1032,14 +906,7 @@ Draw the boat at night and Jesus walking on the water.
 
 *Depth: NERDC Primary 1 · CRS · First Term W3 (John 6:1–14).*
 
-**You will learn to**
-
-• tell the story of Jesus feeding five thousand people
-• say what the boy had
-• say what Jesus did before sharing the food
-• know that Jesus cares for our needs
-
-**Things to know**
+**Main content**
 
 • Many people followed Jesus to hear him teach, and they became **hungry**.
 • A **boy** had **five loaves** of bread and **two fish**.
@@ -1080,14 +947,7 @@ Draw the five loaves and the two fish the boy shared.
 
 *Depth: NERDC Primary 1 · CRS · First Term W4 (Matthew 8:1–4).*
 
-**You will learn to**
-
-• tell the story of Jesus healing the man with leprosy
-• say what the man said to Jesus
-• say what Jesus did
-• know that Jesus has power over disease
-
-**Things to know**
+**Main content**
 
 • A man with **leprosy**, a bad skin disease, came to Jesus.
 • The man said, "Lord, if you are willing, you can make me **clean**."
@@ -1128,14 +988,7 @@ Draw the man kneeling before Jesus and then standing up well.
 
 *Depth: NERDC Primary 1 · CRS · First Term W5 (Mark 2:1–12).*
 
-**You will learn to**
-
-• tell the story of the paralyzed man and his four friends
-• say how the friends brought the man to Jesus
-• say what Jesus told the man
-• know that good friends help one another
-
-**Things to know**
+**Main content**
 
 • A **paralyzed** man could not walk, and four friends carried him to Jesus.
 • The house was too **crowded**, so the friends made a hole in the **roof** and lowered their friend down.
@@ -1176,14 +1029,7 @@ Draw the man picking up his mat and walking home.
 
 *Depth: NERDC Primary 1 · CRS · First Term W6 (Mark 5:21–43).*
 
-**You will learn to**
-
-• tell the story of Jairus and his daughter
-• say what Jesus told Jairus not to lose
-• say what Jesus did for the girl
-• know that Jesus has power over death
-
-**Things to know**
+**Main content**
 
 • **Jairus** was a synagogue leader whose daughter was very **sick**.
 • While Jesus was going to her, news came that the girl had **died**.
@@ -1224,14 +1070,7 @@ Draw Jairus and his daughter standing together, glad and well.
 
 *Depth: NERDC Primary 1 · CRS · First Term W8 (John 11:1–44).*
 
-**You will learn to**
-
-• tell the story of Lazarus
-• say how long Lazarus had been in the tomb
-• say what Jesus said about himself
-• know that Jesus is the resurrection and the life
-
-**Things to know**
+**Main content**
 
 • **Lazarus** was a friend of Jesus, and he became very sick and **died**.
 • He was buried in a **tomb** for **four days**.
@@ -1272,14 +1111,7 @@ Draw Lazarus walking out of the tomb, alive.
 
 *Depth: NERDC Primary 1 · CRS · First Term W9 (Matthew 21:12–13).*
 
-**You will learn to**
-
-• tell the story of Jesus cleansing the temple
-• say what was wrong in the temple
-• say what Jesus called the temple
-• know that Jesus stands against wrong doing
-
-**Things to know**
+**Main content**
 
 • People were **buying and selling** in God's temple and cheating others.
 • Jesus was **angry** at the wrong behaviour in God's house.
@@ -1328,14 +1160,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W1 (technology and devices).*
 
-**You will learn to**
-
-• say what technology means in one line
-• name the digital devices I know
-• point to a computer, a tablet, a phone, a watch and a camera
-• tell which things at home are digital
-
-**Things to know**
+**Main content**
 
 • **Technology** is the smart things people make and use to do work more easily.
 • A **digital device** is a machine that works with electricity and shows things on a screen.
@@ -1376,14 +1201,7 @@ Draw one digital device I have seen and colour its screen grey.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W2 (parts of a computer).*
 
-**You will learn to**
-
-• name the four basic parts of a computer
-• say what each part does
-• point to each part on a real computer
-• put the parts in the right order of work
-
-**Things to know**
+**Main content**
 
 • The **monitor** shows pictures, letters and numbers like a television.
 • The **keyboard** has keys we press to put information into the computer.
@@ -1424,14 +1242,7 @@ Draw the four basic parts of a computer in my notebook.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W3 (care and safety).*
 
-**You will learn to**
-
-• keep a device clean and dry
-• hold and carry a device with two hands
-• shut a device the right way
-• keep the rules of the computer lab
-
-**Things to know**
+**Main content**
 
 • Water and food spoil a device, so we keep them far away from it.
 • We carry a laptop or tablet with **two hands** and never by its wire.
@@ -1472,14 +1283,7 @@ Draw myself cleaning a screen with a soft, dry cloth.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W4 (how computers changed).*
 
-**You will learn to**
-
-• name the first tool people used to count
-• tell how computers changed over time
-• say what became smaller, faster and cheaper
-• know the five generations in order
-
-**Things to know**
+**Main content**
 
 • The **abacus** is an old frame with beads on wires that people used to count.
 • Computers began big and slow and became **smaller, faster and cheaper**.
@@ -1519,14 +1323,7 @@ Draw an abacus and a modern phone side by side.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W5 (Babbage and Lovelace).*
 
-**You will learn to**
-
-• name the father of the computer
-• say what Ada Lovelace did
-• put the two inventors in their time order
-• say why an idea can be as valuable as a machine
-
-**Things to know**
+**Main content**
 
 • **Charles Babbage** designed a machine called the **Analytical Engine**, so he is called the father of the computer.
 • **Ada Lovelace** wrote the first set of instructions for his machine; she is the first **programmer**.
@@ -1566,14 +1363,7 @@ Draw Charles Babbage's thinking machine with wheels and gears.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W6 (hardware vs software).*
 
-**You will learn to**
-
-• say what hardware means
-• say what software means
-• sort things into hardware and software
-• know that we can touch hardware but not software
-
-**Things to know**
+**Main content**
 
 • **Hardware** is the parts of a computer that we can touch and see, like the keyboard and the mouse.
 • **Software** is the sets of instructions that tell the computer what to do; we cannot touch it.
@@ -1613,14 +1403,7 @@ Draw two things I can touch (hardware) and write the name of one app.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W8 (input devices).*
 
-**You will learn to**
-
-• say what an input device is
-• use the keyboard and the mouse to give information
-• click, scroll and drag with the mouse
-• care for the keyboard and the mouse
-
-**Things to know**
+**Main content**
 
 • An **input device** puts information into the computer, like the keyboard and the mouse.
 • The keyboard has letters in the **QWERTY** order and special keys like Enter and Caps Lock.
@@ -1661,14 +1444,7 @@ Draw a keyboard and circle the Enter key.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W9 (output devices and microphone).*
 
-**You will learn to**
-
-• say what an output device is
-• name the devices that bring information out
-• say what a microphone does
-• sort devices into input and output
-
-**Things to know**
+**Main content**
 
 • An **output device** brings information out of the computer, like the monitor, the printer and the speakers.
 • The **printer** puts our picture or letter onto paper.
@@ -1717,14 +1493,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W1.*
 
-**You will learn to**
-
-• say what history means
-• know that history tells us about the past
-• say why we study history
-• tell one old story I have heard
-
-**Things to know**
+**Main content**
 
 • **History** is the story of things that happened long ago.
 • History tells us about the **people who lived before us** and what they did.
@@ -1765,14 +1534,7 @@ Draw myself sitting and listening to an old story.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W2.*
 
-**You will learn to**
-
-• say what a source of history is
-• name the three sources of history
-• tell where we get old stories from
-• know that old things teach us about the past
-
-**Things to know**
+**Main content**
 
 • A **source** is a place where we get history from.
 • **Oral sources** are stories, songs and poems told by elders by mouth.
@@ -1813,14 +1575,7 @@ Draw one old thing at home that tells a story of the past.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W3.*
 
-**You will learn to**
-
-• say that everyone has a history
-• tell the day I was born and my name
-• say how I have grown from a baby
-• know my family's home town
-
-**Things to know**
+**Main content**
 
 • **Everyone has a history**, from the day they were born.
 • My history begins with my **birth** and the **name** I was given.
@@ -1861,14 +1616,7 @@ Draw a picture of myself on one of my birthdays.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W4.*
 
-**You will learn to**
-
-• say that people lived in Nigeria long ago
-• tell how early people got their food
-• say what early people used fire for
-• know that early people made simple tools
-
-**Things to know**
+**Main content**
 
 • Long ago, **people lived in Nigeria** before there were towns like today.
 • Early people **hunted animals** and **gathered fruits and vegetables** for food.
@@ -1909,14 +1657,7 @@ Draw a cave and a fire like early people used.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W5.*
 
-**You will learn to**
-
-• say what migration means
-• tell why people moved from place to place
-• know the name of a very old Nigerian people
-• say where people settled in Nigeria
-
-**Things to know**
+**Main content**
 
 • **Migration** is when people move from one place to live in another.
 • People moved to find **food**, **water** and **safety**.
@@ -1957,14 +1698,7 @@ Draw a family arriving at a new place to settle.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W6.*
 
-**You will learn to**
-
-• say that Nigeria has many ethnic groups
-• name the three major ethnic groups
-• tell where each major group mostly lives
-• respect all the peoples of Nigeria
-
-**Things to know**
+**Main content**
 
 • Nigeria has many **ethnic groups** with different languages and ways.
 • The three major groups are the **Hausa-Fulani**, the **Igbo** and the **Yoruba**.
@@ -2005,14 +1739,7 @@ Draw the map idea of Nigeria with three friends from the North, East and West.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W8.*
 
-**You will learn to**
-
-• say what a kingdom is
-• name old kingdoms and empires in Nigeria
-• tell who rules a kingdom
-• know that our land had great kingdoms long ago
-
-**Things to know**
+**Main content**
 
 • A **kingdom** is a place ruled by a **king** or a **queen**.
 • The **Kanem-Bornu Empire** was in the North; the **Oyo Empire** was in Yoruba land.
@@ -2053,14 +1780,7 @@ Draw a crown and a staff like a king's.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W9.*
 
-**You will learn to**
-
-• say what an occupation is
-• name the work people did long ago
-• match each work to its tool
-• know that farming was the main work
-
-**Things to know**
+**Main content**
 
 • An **occupation** is the work a person does to live.
 • Long ago people did **farming**, **fishing**, **hunting**, **trading** and **crafts**.
@@ -2109,14 +1829,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · PHE · First Term W1 (athletics: running).*
 
-**You will learn to**
-
-• tell running from walking
-• run with a good posture
-• warm up before I run
-• run the 50-metre dash
-
-**Things to know**
+**Main content**
 
 • **Running** is faster than walking; in running, both feet leave the ground for a moment.
 • A good runner keeps the body **slightly forward**, swings the arms and looks ahead.
@@ -2157,14 +1870,7 @@ Draw myself running in a straight line with arms swinging.
 
 *Depth: NERDC Primary 1 · PHE · First Term W2 (shuttle run).*
 
-**You will learn to**
-
-• say what a shuttle run is
-• run to a point, turn and run back
-• build speed and balance
-• take turns and play fair
-
-**Things to know**
+**Main content**
 
 • A **shuttle run** is running back and forth between two points.
 • We mark two points; we run to the far point, **turn** and run back.
@@ -2205,14 +1911,7 @@ Draw a shuttle run course with two markers and me turning.
 
 *Depth: NERDC Primary 1 · PHE · First Term W3 (local games).*
 
-**You will learn to**
-
-• say what local games are
-• name Nigerian local games
-• play suwe and ten-ten
-• take turns and play safely
-
-**Things to know**
+**Main content**
 
 • **Local games** are the traditional games our people play.
 • **Suwe** is a hopping game played on a drawn pattern of squares.
@@ -2253,14 +1952,7 @@ Draw children playing a local game I like.
 
 *Depth: NERDC Primary 1 · PHE · First Term W4 (running technique).*
 
-**You will learn to**
-
-• hold my body well when I run
-• lift my knees and land on the balls of my feet
-• swing my arms the right way
-• breathe well when I run
-
-**Things to know**
+**Main content**
 
 • When I run, my body leans **slightly forward** and my eyes look ahead.
 • I **lift my knees** and I land on the **balls of my feet**, not on my heels.
@@ -2301,14 +1993,7 @@ Draw myself running with a good posture.
 
 *Depth: NERDC Primary 1 · PHE · First Term W5 (toilet hygiene).*
 
-**You will learn to**
-
-• say why we use the toilet
-• use the toilet the right way
-• keep the toilet clean
-• wash my hands after the toilet
-
-**Things to know**
+**Main content**
 
 • We use the toilet to pass waste and to keep our bodies clean.
 • Types of toilets are the **water closet**, the **pit toilet** and the **squatting toilet**.
@@ -2349,14 +2034,7 @@ Draw the steps of washing my hands: wet, soap, scrub, rinse, dry.
 
 *Depth: NERDC Primary 1 · PHE · First Term W6 (personal hygiene).*
 
-**You will learn to**
-
-• say what personal hygiene means
-• bathe and brush my teeth daily
-• wear clean clothes
-• keep my hair and nails clean
-
-**Things to know**
+**Main content**
 
 • **Personal hygiene** is keeping my own body clean every day.
 • I **bathe** daily, in the morning or evening, with soap and water.
@@ -2397,14 +2075,7 @@ Draw myself brushing my teeth in the morning.
 
 *Depth: NERDC Primary 1 · PHE · First Term W8 (body care).*
 
-**You will learn to**
-
-• keep my nails clean and trimmed
-• clean my ears and nose the right way
-• wash my body every day
-• know that a clean body is a healthy body
-
-**Things to know**
+**Main content**
 
 • I keep my **nails** clean and short so dirt does not hide under them.
 • I clean my **ears** carefully and my **nose** by blowing gently into a tissue.
@@ -2445,14 +2116,7 @@ Draw myself with clean hands and short nails.
 
 *Depth: NERDC Primary 1 · PHE · First Term W9 (keeping our surroundings clean).*
 
-**You will learn to**
-
-• say what it means to keep our surroundings clean
-• put waste in the dustbin
-• sweep and tidy my surroundings
-• keep the classroom and home clean
-
-**Things to know**
+**Main content**
 
 • **Keeping our surroundings clean** is keeping our home, school and community free of dirt and rubbish.
 • We put waste in the **dustbin** and we do not litter.
@@ -2505,15 +2169,7 @@ note is written for them.
 
 ### WEEK 1 — WHAT IS PRE-VOCATIONAL STUDIES?
 
-**You will learn to**
-
-• say what pre-vocational studies means
-
-• name work we do with our hands
-
-• name simple jobs in the home and on the farm
-
-**Things to know**
+**Main content**
 
 • **Pre-vocational studies** is learning simple work with our hands.
 
@@ -2579,15 +2235,7 @@ note is written for them.
 
 ### WEEK 2 — SIMPLE FARM TOOLS
 
-**You will learn to**
-
-• name simple farm tools
-
-• say what a simple farm tool does
-
-• handle a simple farm tool with care
-
-**Things to know**
+**Main content**
 
 • **A hoe** is used for digging and weeding.
 
@@ -2653,15 +2301,7 @@ note is written for them.
 
 ### WEEK 3 — CROPS WE GROW
 
-**You will learn to**
-
-• name crops we grow
-
-• say what crops give us
-
-• care for a growing plant
-
-**Things to know**
+**Main content**
 
 • **A crop** is a plant we grow for food or use.
 
@@ -2727,15 +2367,7 @@ note is written for them.
 
 ### WEEK 4 — ANIMALS WE KEEP
 
-**You will learn to**
-
-• name animals we keep
-
-• say what animals give us
-
-• care for a domestic animal
-
-**Things to know**
+**Main content**
 
 • **Domestic animals** are animals we keep at home.
 
@@ -2801,15 +2433,7 @@ note is written for them.
 
 ### WEEK 5 — SIMPLE FOOD PREPARATION
 
-**You will learn to**
-
-• name simple foods we prepare
-
-• say the steps of preparing a simple food
-
-• keep food and hands clean
-
-**Things to know**
+**Main content**
 
 • We prepare simple foods like **pap**, **yam** and **rice**.
 
@@ -2875,15 +2499,7 @@ note is written for them.
 
 ### WEEK 6 — CLEANLINESS AT HOME
 
-**You will learn to**
-
-• name ways we keep the home clean
-
-• do simple cleaning at home
-
-• keep our things tidy
-
-**Things to know**
+**Main content**
 
 • We **sweep** the floor to remove dirt.
 
@@ -2949,15 +2565,7 @@ note is written for them.
 
 ### WEEK 8 — SIMPLE CRAFTS
 
-**You will learn to**
-
-• name simple crafts we can make
-
-• make a simple craft with local materials
-
-• care for the things we make
-
-**Things to know**
+**Main content**
 
 • **A craft** is something we make with our hands.
 
@@ -3023,15 +2631,7 @@ note is written for them.
 
 ### WEEK 9 — WORK SAFELY AND WELL
 
-**You will learn to**
-
-• say how to work safely
-
-• use tools and materials with care
-
-• keep our work place clean
-
-**Things to know**
+**Main content**
 
 • We work carefully and without rushing.
 
@@ -3110,15 +2710,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 1 — MYSELF AND MY IDENTITY
 
-**You will learn to**
-
-• say who I am
-
-• name things that make me who I am
-
-• respect myself and others
-
-**Things to know**
+**Main content**
 
 • **Identity** is who I am.
 
@@ -3184,15 +2776,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 2 — MY FAMILY
 
-**You will learn to**
-
-• name the members of my family
-
-• say what each member does
-
-• live well with my family
-
-**Things to know**
+**Main content**
 
 • A **family** is a group of people who are related.
 
@@ -3258,15 +2842,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 3 — MY COMMUNITY
 
-**You will learn to**
-
-• say what a community is
-
-• name people in my community
-
-• live well in my community
-
-**Things to know**
+**Main content**
 
 • A **community** is a place where people live together.
 
@@ -3332,15 +2908,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 4 — OUR CULTURE
 
-**You will learn to**
-
-• say what culture means
-
-• name parts of our culture
-
-• respect our culture
-
-**Things to know**
+**Main content**
 
 • **Culture** is the way of life of a group of people.
 
@@ -3406,15 +2974,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 5 — GOOD VALUES AND MANNERS
 
-**You will learn to**
-
-• name good values
-
-• show good manners
-
-• tell good from bad behaviour
-
-**Things to know**
+**Main content**
 
 • **Values** are the good things we believe in.
 
@@ -3480,15 +3040,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 6 — BEING A GOOD CITIZEN
 
-**You will learn to**
-
-• say what a citizen is
-
-• name duties of a good citizen
-
-• do my duty at home and school
-
-**Things to know**
+**Main content**
 
 • A **citizen** is a person who belongs to a country.
 
@@ -3554,15 +3106,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 8 — OUR ENVIRONMENT
 
-**You will learn to**
-
-• say what the environment is
-
-• name parts of our environment
-
-• care for our environment
-
-**Things to know**
+**Main content**
 
 • The **environment** is all that is around us.
 
@@ -3628,15 +3172,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 9 — LIVING TOGETHER IN PEACE
 
-**You will learn to**
-
-• say how to live well with others
-
-• name ways we keep peace
-
-• settle a simple quarrel
-
-**Things to know**
+**Main content**
 
 • We live with family, friends and neighbours.
 
@@ -3715,15 +3251,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 1 — KÍKI (GREETINGS)
 
-**You will learn to**
-
-• greet in Yoruba
-
-• say the right greeting for the time of day
-
-• greet with respect
-
-**Things to know**
+**Main content**
 
 • **Ẹ kú àárọ̀** means good morning.
 
@@ -3789,15 +3317,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 2 — ẸBÍ MI (MY FAMILY)
 
-**You will learn to**
-
-• name my family in Yoruba
-
-• say the Yoruba word for each member
-
-• love my family
-
-**Things to know**
+**Main content**
 
 • **Ẹbí** means family.
 
@@ -3863,15 +3383,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 3 — ARA MI (MY BODY)
 
-**You will learn to**
-
-• name the parts of my body in Yoruba
-
-• say the Yoruba word for each part
-
-• keep my body clean
-
-**Things to know**
+**Main content**
 
 • **Orí** means head.
 
@@ -3937,15 +3449,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 4 — NỌ́MBÀ (NUMBERS 1-10)
 
-**You will learn to**
-
-• count from 1 to 10 in Yoruba
-
-• say the Yoruba word for each number
-
-• count things around me
-
-**Things to know**
+**Main content**
 
 • **Ọ̀kan** means one (1).
 
@@ -4011,15 +3515,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 5 — ÀWỌ̀ (COLOURS)
 
-**You will learn to**
-
-• name colours in Yoruba
-
-• say the Yoruba word for each colour
-
-• find colours around me
-
-**Things to know**
+**Main content**
 
 • **Pupa** means red.
 
@@ -4085,15 +3581,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 6 — ỌJỌ́ Ọ̀SẸ̀ (DAYS OF THE WEEK)
 
-**You will learn to**
-
-• name the days of the week in Yoruba
-
-• say today's day in Yoruba
-
-• know the order of the days
-
-**Things to know**
+**Main content**
 
 • **Ọjọ́ Àìkú** means Sunday.
 
@@ -4159,15 +3647,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 8 — ILÉ MI (MY HOME)
 
-**You will learn to**
-
-• name things in the home in Yoruba
-
-• say the Yoruba word for each thing
-
-• keep my home clean
-
-**Things to know**
+**Main content**
 
 • **Ilé** means house or home.
 
@@ -4233,15 +3713,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 9 — ẸRANKO (ANIMALS)
 
-**You will learn to**
-
-• name animals in Yoruba
-
-• say the Yoruba word for each animal
-
-• be kind to animals
-
-**Things to know**
+**Main content**
 
 • **Ajá** means dog.
 
@@ -4307,15 +3779,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 11 — OÚNJẸ (FOOD)
 
-**You will learn to**
-
-• name foods in Yoruba
-
-• say the Yoruba word for each food
-
-• thank God for our food
-
-**Things to know**
+**Main content**
 
 • **Oúnjẹ** means food.
 
@@ -4386,15 +3850,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 1 — PHONEMIC AWARENESS I: IDENTIFYING AND PRODUCING SOUNDS
 
-**You will learn to**
-
-• hear the sounds in words
-
-• say the first sound of a word
-
-• produce the sound of a letter
-
-**Things to know**
+**Main content**
 
 • Every word is made of **sounds**.
 
@@ -4460,15 +3916,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 2 — USING SOUNDS TO SPELL AND PRONOUNCE WORDS
 
-**You will learn to**
-
-• blend sounds to read a word
-
-• spell a word by its sounds
-
-• pronounce words correctly
-
-**Things to know**
+**Main content**
 
 • We put sounds together to read a word. This is **blending**.
 
@@ -4534,15 +3982,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 3 — COMPREHENSION I: SHORT STORIES AND RHYMES
 
-**You will learn to**
-
-• listen to a short story
-
-• answer questions about a story
-
-• say what a rhyme is
-
-**Things to know**
+**Main content**
 
 • A **story** tells us about people and events.
 
@@ -4608,15 +4048,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 4 — ADJECTIVES: DESCRIBING WORDS
 
-**You will learn to**
-
-• say what a describing word is
-
-• use describing words
-
-• describe people and things
-
-**Things to know**
+**Main content**
 
 • A **describing word** tells us more about a noun.
 
@@ -4682,15 +4114,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 5 — PHONICS II: CONSONANT BLENDS AND DIGRAPHS
 
-**You will learn to**
-
-• know consonant blends
-
-• know digraphs
-
-• read words with blends and digraphs
-
-**Things to know**
+**Main content**
 
 • A **blend** is two or three consonants said together, each keeping its sound.
 
@@ -4756,15 +4180,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 6 — LISTENING AND SPEAKING: ASKING AND ANSWERING QUESTIONS
 
-**You will learn to**
-
-• ask simple questions
-
-• answer questions
-
-• listen and speak clearly
-
-**Things to know**
+**Main content**
 
 • We ask questions to find out things.
 
@@ -4830,15 +4246,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 8 — SIMPLE PRESENT AND PAST TENSE OF COMMON VERBS
 
-**You will learn to**
-
-• say what tense means
-
-• use the present tense
-
-• use the past tense
-
-**Things to know**
+**Main content**
 
 • **Tense** tells us when an action happens.
 
@@ -4904,15 +4312,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 9 — PHONEMIC AWARENESS II: SOUND PATTERNS AND WORD FAMILIES
 
-**You will learn to**
-
-• hear sound patterns in words
-
-• name word families
-
-• read words in a family
-
-**Things to know**
+**Main content**
 
 • A **word family** is a group of words that end the same way.
 
@@ -4978,15 +4378,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 1 — WHOLE NUMBERS 1 TO 100
 
-**You will learn to**
-
-• count and write whole numbers from 1 to 100
-
-• read numbers from 1 to 100
-
-• count objects up to 100
-
-**Things to know**
+**Main content**
 
 • We count 1, 2, 3, 4, 5 and keep going to 100.
 
@@ -5052,15 +4444,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 2 — WHOLE NUMBERS 101 TO 9000
 
-**You will learn to**
-
-• count and write numbers from 101 to 9000
-
-• read big numbers
-
-• say the place value of a figure
-
-**Things to know**
+**Main content**
 
 • After 100 comes **101**.
 
@@ -5126,15 +4510,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 3 — FRACTIONS (PART 1)
 
-**You will learn to**
-
-• say what a fraction is
-
-• name a half
-
-• share a thing into halves
-
-**Things to know**
+**Main content**
 
 • A **fraction** is a part of a whole.
 
@@ -5200,15 +4576,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 4 — FRACTIONS (PART 2)
 
-**You will learn to**
-
-• name a quarter
-
-• share a thing into quarters
-
-• compare a half and a quarter
-
-**Things to know**
+**Main content**
 
 • When we share a thing into **4 equal parts**, each part is a **quarter**.
 
@@ -5274,15 +4642,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 5 — ADDITION (PART 1)
 
-**You will learn to**
-
-• add small whole numbers
-
-• use the plus sign
-
-• solve addition sums up to 20
-
-**Things to know**
+**Main content**
 
 • **Addition** means putting together.
 
@@ -5348,15 +4708,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 6 — ADDITION (PART 2)
 
-**You will learn to**
-
-• add bigger whole numbers
-
-• add two-digit numbers
-
-• solve addition sums up to 100
-
-**Things to know**
+**Main content**
 
 • We can add numbers up to 100.
 
@@ -5422,15 +4774,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 8 — SUBTRACTION (PART 1)
 
-**You will learn to**
-
-• subtract small whole numbers
-
-• use the minus sign
-
-• solve subtraction sums up to 20
-
-**Things to know**
+**Main content**
 
 • **Subtraction** means taking away.
 
@@ -5496,15 +4840,7 @@ revision and the end-of-term paper, so no note is written for them.
 
 ### WEEK 9 — SUBTRACTION (PART 2)
 
-**You will learn to**
-
-• subtract bigger whole numbers
-
-• subtract two-digit numbers
-
-• solve subtraction sums up to 100
-
-**Things to know**
+**Main content**
 
 • We can subtract numbers up to 100.
 
@@ -5580,14 +4916,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: school breakdown for P1 F1 W1.*
 
-**You will learn to**
-
-• say my full name and my age
-• name the parts of my body
-• say what each part of my body does
-• know that I am a special person
-
-**Things to know**
+**Main content**
 
 • My **name** is what people call me; my **age** is how many years I am.
 • My body has a **head**, a **trunk**, two **arms** and two **legs**.
@@ -5628,14 +4957,7 @@ Draw my face and put in my eyes, ears, nose and mouth.
 
 *Depth: school breakdown for P1 F1 W2.*
 
-**You will learn to**
-
-• name the members of my family
-• say what each member does in the family
-• tell how I help my family
-• know that a family loves and helps one another
-
-**Things to know**
+**Main content**
 
 • A **family** is the group of people I live with: father, mother, brothers and sisters.
 • My **father** works and takes care of the family; my **mother** cares for the home and the children.
@@ -5676,14 +4998,7 @@ Draw my father, my mother and me standing together.
 
 *Depth: school breakdown for P1 F1 W3.*
 
-**You will learn to**
-
-• name the places in my school
-• name the people in my school
-• say what each person in the school does
-• keep my school clean
-
-**Things to know**
+**Main content**
 
 • My school has a **classroom**, an **office**, a **playground** and **toilets**.
 • The **headteacher** leads the school; the **teacher** teaches us in the class.
@@ -5724,14 +5039,7 @@ Draw my teacher at the board in my classroom.
 
 *Depth: school breakdown for P1 F1 W4.*
 
-**You will learn to**
-
-• name the things in my classroom
-• keep the rules of the classroom
-• care for my books and pencils
-• sit and listen well in class
-
-**Things to know**
+**Main content**
 
 • My classroom has a **board**, **desks**, **chairs** and **books**.
 • We keep classroom rules: we **raise our hand** to speak, we **listen** when the teacher talks, and we **walk**, not run, in the class.
@@ -5772,14 +5080,7 @@ Draw my classroom and put a bin in the corner.
 
 *Depth: school breakdown for P1 F1 W5.*
 
-**You will learn to**
-
-• describe my home and my street
-• name the people near my home
-• say how we keep the neighbourhood clean
-• be friendly and safe near my home
-
-**Things to know**
+**Main content**
 
 • My **home** is where I live with my family; my **street** is the road near my house.
 • My **neighbours** are the people who live near my home.
@@ -5820,14 +5121,7 @@ Draw my compound and put in one thing that keeps it clean.
 
 *Depth: school breakdown for P1 F1 W6.*
 
-**You will learn to**
-
-• name the helpers in my community
-• say what each helper does
-• thank the helpers for their work
-• know that every work is important
-
-**Things to know**
+**Main content**
 
 • A **community** is the people who live together in one place.
 • The **doctor** and the **nurse** care for the sick; the **teacher** teaches; the **police officer** keeps us safe.
@@ -5868,14 +5162,7 @@ Draw one helper in my community and the tool they use.
 
 *Depth: school breakdown for P1 F1 W8.*
 
-**You will learn to**
-
-• say the name of my country
-• describe the Nigerian flag
-• say what the colours of the flag mean
-• know that Nigeria is my country
-
-**Things to know**
+**Main content**
 
 • My country is **Nigeria**; it is called the Giant of Africa.
 • The Nigerian flag has **three bands**: green, white and green.
@@ -5916,14 +5203,7 @@ Draw the Nigerian flag and colour the bands the right way.
 
 *Depth: school breakdown for P1 F1 W9.*
 
-**You will learn to**
-
-• say what a citizen is
-• tell the things a good citizen does
-• greet elders and be polite
-• keep my country clean and peaceful
-
-**Things to know**
+**Main content**
 
 • A **citizen** is a person who belongs to a country; I am a Nigerian citizen.
 • A **good citizen** obeys the rules, tells the truth and helps others.

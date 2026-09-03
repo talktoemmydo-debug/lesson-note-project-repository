@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — THE BIRTH OF JESUS
 
-**You will learn to**
-
-• tell the story of the birth of Jesus
-
-• name where Jesus was born
-
-• thank God for Jesus
-
-**Things to know**
+**Main content**
 
 • An angel told **Mary** that she would have a baby.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — THE SHEPHERDS AND THE WISE MEN
 
-**You will learn to**
-
-• tell how the shepherds heard the news
-
-• tell about the wise men
-
-• give to Jesus as they did
-
-**Things to know**
+**Main content**
 
 • **Shepherds** were watching their sheep at night.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — JESUS AS A BOY
 
-**You will learn to**
-
-• tell how Jesus grew as a boy
-
-• say how Jesus obeyed
-
-• obey as Jesus did
-
-**Things to know**
+**Main content**
 
 • Jesus grew up in **Nazareth**.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — THE BAPTISM OF JESUS
 
-**You will learn to**
-
-• tell the story of the baptism of Jesus
-
-• name who baptised Jesus
-
-• say what happened
-
-**Things to know**
+**Main content**
 
 • **John the Baptist** baptised people in the river.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — THE TEMPTATION OF JESUS
 
-**You will learn to**
-
-• tell how the devil tempted Jesus
-
-• say how Jesus answered
-
-• resist doing wrong
-
-**Things to know**
+**Main content**
 
 • Jesus went into the **wilderness** and did not eat for forty days.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — JESUS CALLS THE FIRST DISCIPLES
 
-**You will learn to**
-
-• tell how Jesus called his first disciples
-
-• name some disciples
-
-• follow Jesus as they did
-
-**Things to know**
+**Main content**
 
 • A **disciple** is a person who follows and learns from Jesus.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — JESUS TURNS WATER INTO WINE
 
-**You will learn to**
-
-• tell the story of the wedding at Cana
-
-• say what Jesus did
-
-• know that Jesus can help
-
-**Things to know**
+**Main content**
 
 • Jesus and his mother went to a **wedding** at **Cana**.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — JESUS LOVES THE CHILDREN
 
-**You will learn to**
-
-• tell how Jesus loved the children
-
-• say how Jesus welcomed them
-
-• love others as Jesus did
-
-**Things to know**
+**Main content**
 
 • People brought their **children** to Jesus.
 

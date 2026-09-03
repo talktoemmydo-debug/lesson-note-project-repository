@@ -12,14 +12,7 @@ from the pack's off-by-one mapping.*
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W1.*
 
-**You will learn to**
-
-• keep the place where we live clean
-• put waste where it belongs and never throw it about
-• name the kinds of weather we know
-• say what we can do when the weather changes too much
-
-**Things to know**
+**Main content**
 
 • A **bin with a cover** is where paper, peels and wrappers go; the ground is not a bin.
 • A **wrapper or a tin left on the ground** is called litter; it makes the place ugly and it can cut a foot.
@@ -68,14 +61,7 @@ them; colour the leaves of the tree green.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W2.*
 
-**You will learn to**
-
-• say what wildlife means
-• name animals that live in our forests and grasslands
-• tell where each of them lives
-• say why we do not harm them
-
-**Things to know**
+**Main content**
 
 • **Wildlife** are the animals and birds that live in nature by themselves, in the bush, by the river and on
   the grassland.
@@ -131,14 +117,7 @@ flower; colour the leaves and do not hurt anything in the picture.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W3.*
 
-**You will learn to**
-
-• say what money is used for
-• name the money of Nigeria
-• tell a coin from a note
-• say why money has value
-
-**Things to know**
+**Main content**
 
 • **Money** is the thing we use to buy what we need: food, cloth, a pencil and a bus ride.
 • The money of **Nigeria is the naira**, and its mark is the letter **N with two strokes** through it.
@@ -184,14 +163,7 @@ and the coins gold.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W4.*
 
-**You will learn to**
-
-• name what money buys for a family
-• tell a need from a want
-• say where money for later is kept
-• say how we behave with money that is not ours
-
-**Things to know**
+**Main content**
 
 • Money buys **food, cloth and shoes**; it pays for **school**, for the **bus**, and now and then for a toy.
 • A **need** is a thing we must have — garri, oil, a uniform. A **want** is a thing that would be nice — a
@@ -240,14 +212,7 @@ basket on the ground beside them.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W5.*
 
-**You will learn to**
-
-• say what a citizen is
-• name the rights of a child
-• name the things we must do for others
-• say how a good citizen behaves every day
-
-**Things to know**
+**Main content**
 
 • A **citizen** is a person who belongs to a country; every child born in **Nigeria is a citizen of Nigeria**.
 • A good citizen is a **good person in the place where they live**: they greet, they keep the rules, they help.
@@ -297,14 +262,7 @@ has three tall strips of colour and nothing is written on it.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W6.*
 
-**You will learn to**
-
-• say what a community is
-• tell a town from a village
-• name things a village sends to a town
-• say what a community values
-
-**Things to know**
+**Main content**
 
 • A **community** is people living and working together in one place: the houses, the shops, the school, the
   market and the stream.
@@ -357,14 +315,7 @@ on the right with two houses and a farm, then draw the road that joins the two.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W8.*
 
-**You will learn to**
-
-• say what a leader does
-• name four kinds of leader we know
-• say the things a good leader is
-• name the ways a child may lead
-
-**Things to know**
+**Main content**
 
 • A **leader** is a person who guides people and **serves** them, not one who only shouts orders.
 • The qualities of a good leader are these: **honest, kind, fair, brave, helpful and a good listener**.
@@ -418,14 +369,7 @@ front of her, and a teacher standing at the side, listening.
 
 *Depth: NERDC Nursery 3 · Social and Citizenship Studies · Third Term W9.*
 
-**You will learn to**
-
-• say what we learn about in this subject
-• name the tongues and foods of our own land
-• say why we learn about other countries
-• name two ways we show that we are part of the world
-
-**Things to know**
+**Main content**
 
 • We learn about **people, places and how they live** — our family, our community, our country and the world.
 • Learning about others helps us **know ourselves better** and stops us laughing at what is different.

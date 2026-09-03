@@ -10,14 +10,7 @@ families printed here are the minimum extent of what to reach.*
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W1 (pp 454–457).*
 
-**You will learn to**
-
-• know the letters A to F in big and small form
-• match a capital letter to its small letter
-• say the sound of each letter
-• trace and write Aa to Ff
-
-**Things to know**
+**Main content**
 
 • The alphabet has **26 letters**; I am reviewing the first six: **A a, B b, C c, D d, E e, F f**.
 • A letter has two shapes: **capital** (big) and **small** (lower case). Capitals begin names and sentences.
@@ -63,14 +56,7 @@ Find six things at home that begin with A, B, C, D, E, F and write their letters
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W2 (pp 454–457).*
 
-**You will learn to**
-
-• know the letters G to L
-• say the sound of each of them
-• match capitals to small letters
-• write Gg to Ll on the line
-
-**Things to know**
+**Main content**
 
 • **G g, H h, I i, J j, K k, L l** — the next six letters.
 • Sounds: **G** /g/ — goat, gun; **H** /h/ — hat, hen; **I** /i/ — ink, insect; **J** /dʒ/ — jug, jam; **K** /k/ — kite, key; **L** /l/ — lion, lamp.
@@ -114,14 +100,7 @@ Write the first letter of your name and your friend's name in capital and small 
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W3 (pp 454–457).*
 
-**You will learn to**
-
-• know the letters M to R
-• say their sounds
-• hear the first sound in a spoken word
-• write Mm to Rr neatly
-
-**Things to know**
+**Main content**
 
 • **M m, N n, O o, P p, Q q, R r**.
 • Sounds: **M** /m/ — mat, man, milk; **N** /n/ — net, nut; **O** /ɒ/ — orange, ox; **P** /p/ — pen, pan; **Q** /kw/ — queen; **R** /r/ — rat, run.
@@ -167,14 +146,7 @@ Write the letters M to R in large shapes on one page and colour each letter a di
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W4 (pp 454–457).*
 
-**You will learn to**
-
-• know the last letters S to Z
-• say the sound of each
-• write the whole alphabet in order
-• finish the alphabet review
-
-**Things to know**
+**Main content**
 
 • **S s, T t, U u, V v, W w, X x, Y y, Z z** — the last eight letters.
 • Sounds: **S** /s/ — sun, sock; **T** /t/ — tap, tin; **U** /ʌ/ — umbrella, up; **V** /v/ — van, vat. **W** /w/ — water, wet; **X** /ks/ — box, fox; **Y** /j/ — yam, yes; **Z** /z/ — zebra, zone.
@@ -219,14 +191,7 @@ Write the letters S to Z in large shapes and colour only the ones made with stra
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W7 (pp 454–457).*
 
-**You will learn to**
-
-• say what a CVC word is
-• blend three sounds into one word
-• read the -at and -an word families
-• write three-letter words
-
-**Things to know**
+**Main content**
 
 • A **three-letter word** has three sounds: a **consonant**, a **vowel**, a **consonant** — we call it **CVC**.
 • To **blend** means to run the sounds together: **c – a – t** … *cat*. Say it slowly, then fast.
@@ -271,14 +236,7 @@ Write five CVC words and draw a small picture for two of them.
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W8 (pp 454–457).*
 
-**You will learn to**
-
-• read the -en, -in and -og families
-• blend words with the short e and short i sounds
-• hear the difference between e and i
-• take dictation of three-letter words
-
-**Things to know**
+**Main content**
 
 • The **-en** family: **pen, hen, ten, men, den, wren**.
 • The **-in** family: **pin, tin, bin, win, fin, sin**.
@@ -325,14 +283,7 @@ Draw a cat, a pen and a pot; write the word under each picture and colour the po
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W9 (pp 454–457).*
 
-**You will learn to**
-
-• read the -un, -op and -ug families
-• build words from letter cards
-• read all six word families together
-• write CVC words without help
-
-**Things to know**
+**Main content**
 
 • The **-un** family: **sun, bun, run, fun, gun, spun**.
 • The **-op** family: **top, hop, mop, pop, cop, drop**.
@@ -377,14 +328,7 @@ Write one sentence that uses three words from the families you have learnt.
 
 *Depth: NERDC Nursery 3 · Literacy (Letter Work) · First Term W10 (pp 454–457).*
 
-**You will learn to**
-
-• listen to a simple story and answer questions on it
-• pick out letters and sounds from story words
-• retell a story in my own words
-• find CVC words inside a story
-
-**Things to know**
+**Main content**
 
 • Listening rules: eyes on the teller, mouth quiet, hands still, and think about what is happening.
 • Our story for the week: **"The Rat and the Sun"** — a rat, a mat, a pot and a hot sun.

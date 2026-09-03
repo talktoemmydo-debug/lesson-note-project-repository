@@ -9,14 +9,7 @@ Weeks 1 to 6, 8 and 9. No note for Week 7 (Mid-Term), 10 (Revision), 11 (Examina
 
 *Depth: NERDC Nursery 3 · PHE · First Term W1 (pp 547–551).*
 
-**You will learn to**
-
-• say what exercise means and what a game is
-• name the things exercise does for my body
-• tell why games have rules
-• show that exercise is fun, not a punishment
-
-**Things to know**
+**Main content**
 
 • **Exercise** means the physical activities that make the body move and work.
 • A **game** is an organized activity with rules, usually played for fun and sometimes to win.
@@ -64,14 +57,7 @@ Draw yourself playing your favourite game and colour the ball.
 
 *Depth: NERDC Nursery 3 · PHE · First Term W2 (pp 547–551).*
 
-**You will learn to**
-
-• play the basic games of the field
-• keep the balance in the egg-and-spoon race
-• follow the rules of each game
-• play fairly and encourage the others
-
-**Things to know**
+**Main content**
 
 • **Egg and spoon race:** a small ball or bean bag is balanced on a spoon and carried to the line; if it falls, you pick it up and go on from where it fell.
 • The egg-and-spoon game teaches balance and control of the hand.
@@ -116,14 +102,7 @@ Draw one of the games and write the rule that you must not forget.
 
 *Depth: NERDC Nursery 3 · PHE · First Term W3 and W4 (pp 547–551) — the school takes both weeks together.*
 
-**You will learn to**
-
-• stretch the neck, arms, back and legs
-• bend and raise the arms and legs in the right form
-• skip with and without a rope
-• leap and hop without falling
-
-**Things to know**
+**Main content**
 
 • **Stretching**: reach for the sky, touch your toes, bend sideways, roll the neck slowly, turn the arms in circles, turn the ankles.
 • Stretching warms the muscles up, keeps us from being hurt, and makes the body bend easily.
@@ -170,14 +149,7 @@ Draw one child stretching up tall and one bending down; colour the shoes of both
 
 *Depth: NERDC Nursery 3 · PHE · First Term W7 (pp 547–551).*
 
-**You will learn to**
-
-• say what body conditioning means
-• say what balance is
-• stand on one leg for ten counts
-• play the dance-and-freeze game well
-
-**Things to know**
+**Main content**
 
 • **Body conditioning** means exercises that make the whole body fit and in good control.
 • **Balance** means staying steady without falling.
@@ -222,14 +194,7 @@ Draw the mark of ten on the floor and walk heel to toe along it five times witho
 
 *Depth: NERDC Nursery 3 · PHE · First Term W8 (pp 547–551).*
 
-**You will learn to**
-
-• move to the beat of a tambourine
-• walk, jog, run and crawl correctly
-• bend, turn, jump and swing the body parts
-• move safely in a space shared with others
-
-**Things to know**
+**Main content**
 
 • **Tambourine movement**: move when it plays; move **fast** for fast beats, **slow** for slow beats; **freeze** when it stops.
 • Different body parts answer the beat: the hands clap, the feet stamp, the head nods, the trunk twists.
@@ -276,14 +241,7 @@ Draw the five parts of your body you move with and colour each one a different c
 
 *Depth: NERDC Nursery 3 · PHE · First Term W9 (pp 547–551).*
 
-**You will learn to**
-
-• say what manipulative movement means
-• throw underhand and overhand
-• catch with two hands at different heights
-• keep the safety rules when throwing
-
-**Things to know**
+**Main content**
 
 • **Manipulative movements** are movements that control and move an object using a body part.
 • They are the skills every sport is built on: throwing, catching, kicking, hitting, bouncing, rolling.
@@ -330,14 +288,7 @@ Draw a ball in the air above your two hands and colour the ball.
 
 *Depth: NERDC Nursery 3 · PHE · First Term W10 (dancing) and Nursery 2 · PHE · Second Term W10 (somersaulting), pp 547–551.*
 
-**You will learn to**
-
-• say what a neuro-muscular skill is
-• do simple dance steps with the arms and legs together
-• roll forward on a mat with the chin tucked
-• say why the roll is done only with supervision
-
-**Things to know**
+**Main content**
 
 • **Neuro-muscular** means the working together of the nerves (the brain and its wires) and the muscles to produce movement.
 • A skill of this kind needs timing: the brain says go, the muscles obey, and the body obeys at the right moment.
@@ -384,14 +335,7 @@ Draw the pose you dance in and colour the cloth you dance in.
 
 *Depth: NERDC Nursery 3 · PHE · Second Term W1 (pp 552–557).*
 
-**You will learn to**
-
-• name the parts of the body that sport develops
-• say what flexibility, balance and speed mean
-• tell which activity builds which quality
-• say what a child of my age can do
-
-**Things to know**
+**Main content**
 
 • Sports and physical activity help the **whole body develop**, not only the legs.
 • **Flexibility** is the ability to bend and stretch easily; it is improved by stretching exercises.

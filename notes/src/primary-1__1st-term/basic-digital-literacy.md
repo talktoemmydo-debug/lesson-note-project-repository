@@ -10,14 +10,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W1 (technology and devices).*
 
-**You will learn to**
-
-• say what technology means in one line
-• name the digital devices I know
-• point to a computer, a tablet, a phone, a watch and a camera
-• tell which things at home are digital
-
-**Things to know**
+**Main content**
 
 • **Technology** is the smart things people make and use to do work more easily.
 • A **digital device** is a machine that works with electricity and shows things on a screen.
@@ -58,14 +51,7 @@ Draw one digital device I have seen and colour its screen grey.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W2 (parts of a computer).*
 
-**You will learn to**
-
-• name the four basic parts of a computer
-• say what each part does
-• point to each part on a real computer
-• put the parts in the right order of work
-
-**Things to know**
+**Main content**
 
 • The **monitor** shows pictures, letters and numbers like a television.
 • The **keyboard** has keys we press to put information into the computer.
@@ -106,14 +92,7 @@ Draw the four basic parts of a computer in my notebook.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W3 (care and safety).*
 
-**You will learn to**
-
-• keep a device clean and dry
-• hold and carry a device with two hands
-• shut a device the right way
-• keep the rules of the computer lab
-
-**Things to know**
+**Main content**
 
 • Water and food spoil a device, so we keep them far away from it.
 • We carry a laptop or tablet with **two hands** and never by its wire.
@@ -154,14 +133,7 @@ Draw myself cleaning a screen with a soft, dry cloth.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W4 (how computers changed).*
 
-**You will learn to**
-
-• name the first tool people used to count
-• tell how computers changed over time
-• say what became smaller, faster and cheaper
-• know the five generations in order
-
-**Things to know**
+**Main content**
 
 • The **abacus** is an old frame with beads on wires that people used to count.
 • Computers began big and slow and became **smaller, faster and cheaper**.
@@ -201,14 +173,7 @@ Draw an abacus and a modern phone side by side.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W5 (Babbage and Lovelace).*
 
-**You will learn to**
-
-• name the father of the computer
-• say what Ada Lovelace did
-• put the two inventors in their time order
-• say why an idea can be as valuable as a machine
-
-**Things to know**
+**Main content**
 
 • **Charles Babbage** designed a machine called the **Analytical Engine**, so he is called the father of the computer.
 • **Ada Lovelace** wrote the first set of instructions for his machine; she is the first **programmer**.
@@ -248,14 +213,7 @@ Draw Charles Babbage's thinking machine with wheels and gears.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W6 (hardware vs software).*
 
-**You will learn to**
-
-• say what hardware means
-• say what software means
-• sort things into hardware and software
-• know that we can touch hardware but not software
-
-**Things to know**
+**Main content**
 
 • **Hardware** is the parts of a computer that we can touch and see, like the keyboard and the mouse.
 • **Software** is the sets of instructions that tell the computer what to do; we cannot touch it.
@@ -295,14 +253,7 @@ Draw two things I can touch (hardware) and write the name of one app.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W8 (input devices).*
 
-**You will learn to**
-
-• say what an input device is
-• use the keyboard and the mouse to give information
-• click, scroll and drag with the mouse
-• care for the keyboard and the mouse
-
-**Things to know**
+**Main content**
 
 • An **input device** puts information into the computer, like the keyboard and the mouse.
 • The keyboard has letters in the **QWERTY** order and special keys like Enter and Caps Lock.
@@ -343,14 +294,7 @@ Draw a keyboard and circle the Enter key.
 
 *Depth: NERDC Primary 1 · Basic Digital Literacy · First Term W9 (output devices and microphone).*
 
-**You will learn to**
-
-• say what an output device is
-• name the devices that bring information out
-• say what a microphone does
-• sort devices into input and output
-
-**Things to know**
+**Main content**
 
 • An **output device** brings information out of the computer, like the monitor, the printer and the speakers.
 • The **printer** puts our picture or letter onto paper.

@@ -8,156 +8,156 @@
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. The five vowels are ___
-   A) b, c, d, f, g
-   B) x, y, z, w, q
-   C) a, e, i, o, u
-   D) a, b, c, d, e
-2. Letters that are not vowels are called ___
-   A) names
+1. Letters that are not vowels are called ___
+   A) numbers
    B) sounds
-   C) numbers
-   D) consonants
-3. The vowel in the word "cat" is ___
-   A) a
-   B) t
-   C) none
-   D) c
-4. Which of these words has two vowels?
-   A) cat
-   B) book
+   C) consonants
+   D) names
+2. The vowel in the word "cat" is ___
+   A) t
+   B) none
+   C) c
+   D) a
+3. Which of these words has two vowels?
+   A) book
+   B) dog
    C) pen
-   D) dog
-5. A letter that sometimes works as a vowel is ___
-   A) k
-   B) b
-   C) y
-   D) t
-6. The sound /d/ is the first sound in ___
-   A) owl
-   B) fan
-   C) sun
-   D) dog
-7. The letters d, a, i, m are four ___
-   A) signs in sums
-   B) sounds we learnt to blend
-   C) words we learnt to read
-   D) names of colours
-8. d-i-m spells ___
-   A) dim
-   B) mid
-   C) dam
+   D) cat
+4. A letter that sometimes works as a vowel is ___
+   A) b
+   B) y
+   C) t
+   D) k
+5. The sound /d/ is the first sound in ___
+   A) sun
+   B) owl
+   C) dog
+   D) fan
+6. The letters d, a, i, m are four ___
+   A) words we learnt to read
+   B) signs in sums
+   C) names of colours
+   D) sounds we learnt to blend
+7. d-i-m spells ___
+   A) dam
+   B) dim
+   C) mid
    D) mad
-9. "mum" begins with the sound ___
-   A) /u/
+8. "mum" begins with the sound ___
+   A) /m/
    B) /n/
    C) /a/
-   D) /m/
-10. A sight word is a word that ___
+   D) /u/
+9. A sight word is a word that ___
    A) is always the name of a person
-   B) has no fewer than six letters
-   C) I read at once, without sounding it out
-   D) must be sounded out every single time
-11. The word that points at the person being spoken to is ___
-   A) you
+   B) must be sounded out every single time
+   C) has no fewer than six letters
+   D) I read at once, without sounding it out
+10. The word that points at the person being spoken to is ___
+   A) her
    B) it
-   C) her
+   C) you
    D) me
-12. "We" means ___
-   A) one girl or one woman
-   B) me and other people together
-   C) a thing that I put on
+11. "We" means ___
+   A) me and other people together
+   B) a thing that I put on
+   C) one girl or one woman
    D) only myself, and nobody else
-13. A sight word that is about a girl or a woman is ___
+12. A sight word that is about a girl or a woman is ___
    A) you
-   B) we
-   C) her
-   D) go
-14. The word that is always written big, even in the middle of a sentence, is ___
-   A) go
-   B) car
-   C) a
-   D) I
-15. "car" is a ___
-   A) thing (noun)
-   B) letter
-   C) sound
-   D) doing word (verb)
-16. A sentence I can build from my sight words is ___
-   A) Car this is the
-   B) This is the car
-   C) Is car the this
-   D) This car is the the
-17. The most common word in English is ___
-   A) go
    B) her
-   C) the
+   C) go
+   D) we
+13. The word that is always written big, even in the middle of a sentence, is ___
+   A) go
+   B) a
+   C) I
    D) car
-18. "They" is a word that points to ___
+14. "car" is a ___
+   A) sound
+   B) letter
+   C) doing word (verb)
+   D) thing (noun)
+15. Which sentence is written in the right order?
+   A) I go in the car.
+   B) In car go I.
+   C) Car I in go.
+   D) Go I car in.
+16. The most common word in English is ___
+   A) go
+   B) the
+   C) car
+   D) her
+17. "They" is a word that points to ___
    A) myself and my own name only
-   B) one single thing that is near me
-   C) the place where I sleep at night
-   D) more people or things already spoken of
-19. A digraph is ___
-   A) two letters that make one sound
-   B) a word of six letters
+   B) the place where I sleep at night
+   C) more people or things already spoken of
+   D) one single thing that is near me
+18. A digraph is ___
+   A) a word of six letters
+   B) two sounds in one letter
    C) a capital letter
-   D) two sounds in one letter
-20. The digraph at the end of "duck" is ___
-   A) wh
-   B) ck
-   C) th
-   D) sh
-21. In the word "think", the first sound is ___
-   A) /f/ made with the lips
-   B) /t/ with a hard kick of air
-   C) /s/ drawn out at the end
-   D) /th/ with the voice switched off
-22. The two letters in "what" are ___
+   D) two letters that make one sound
+19. The digraph at the end of "duck" is ___
    A) ck
-   B) ch
+   B) sh
    C) wh
-   D) sh
-23. "ph" is pronounced like ___
-   A) /f/
-   B) /p/
-   C) /v/
-   D) /ph/
-24. The digraph in "much" is ___
-   A) ck
+   D) th
+20. In the word "think", the first sound is ___
+   A) /s/ drawn out at the end
+   B) /th/ with the voice switched off
+   C) /t/ with a hard kick of air
+   D) /f/ made with the lips
+21. The two letters in "what" are ___
+   A) sh
    B) ch
-   C) th
-   D) sh
-25. The correct spelling of the picture-taking machine is ___
-   A) fone
-   B) phoan
-   C) pone
-   D) phone
-26. Photo, she and chart each contain ___
+   C) ck
+   D) wh
+22. "ph" is pronounced like ___
+   A) /v/
+   B) /p/
+   C) /f/
+   D) /ph/
+23. The digraph in "much" is ___
+   A) ch
+   B) sh
+   C) ck
+   D) th
+24. The correct spelling of the picture-taking machine is ___
+   A) pone
+   B) phone
+   C) phoan
+   D) fone
+25. Photo, she and chart each contain ___
    A) a blend
-   B) six letters
-   C) a digraph
-   D) two vowels
-27. In the blend "pl" I hear ___
+   B) two vowels
+   C) six letters
+   D) a digraph
+26. In the blend "pl" I hear ___
    A) the sound /p/ only, with /l/ silent
-   B) both sounds: /p/ and then /l/
-   C) the sound /l/ only, with /p/ silent
-   D) no sound at all
-28. A blend is different from a digraph because in a blend ___
-   A) a vowel replaces them
-   B) only one letter is written
-   C) the letters are silent
-   D) each consonant is still heard
-29. "greet" begins with the blend ___
-   A) gr
+   B) no sound at all
+   C) both sounds: /p/ and then /l/
+   D) the sound /l/ only, with /p/ silent
+27. A blend is different from a digraph because in a blend ___
+   A) the letters are silent
+   B) each consonant is still heard
+   C) a vowel replaces them
+   D) only one letter is written
+28. "greet" begins with the blend ___
+   A) r
    B) ee
    C) g
-   D) r
-30. "fly" begins with the blend ___
-   A) f
+   D) gr
+29. "fly" begins with the blend ___
+   A) fl
    B) ly
-   C) fl
+   C) f
    D) y
+30. My sight words at the end of the term are ___
+   A) four
+   B) twenty-one
+   C) thirteen
+   D) seven
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.

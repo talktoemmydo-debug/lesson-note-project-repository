@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — NỌ́MBÀ 11-20 (NUMBERS 11-20)
 
-**You will learn to**
-
-• count from 11 to 20 in Yoruba
-
-• say the Yoruba word for each number
-
-• count things around me
-
-**Things to know**
+**Main content**
 
 • **Mọ́kànlá** means eleven (11).
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — AṢỌ (CLOTHES)
 
-**You will learn to**
-
-• name clothes in Yoruba
-
-• say what each Yoruba word means
-
-• keep my clothes clean
-
-**Things to know**
+**Main content**
 
 • **Aṣọ** means clothes.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — ILÉ-Ẹ̀KỌ́ (SCHOOL)
 
-**You will learn to**
-
-• name things at school in Yoruba
-
-• name each thing at the market in Yoruba
-
-• love my school
-
-**Things to know**
+**Main content**
 
 • **Ilé-ẹ̀kọ́** means school.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — ỌJÀ (MARKET)
 
-**You will learn to**
-
-• name things at the market in Yoruba
-
-• give the Yoruba name for each place
-
-• go to the market with a grown-up
-
-**Things to know**
+**Main content**
 
 • **Ọjà** means market.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — ÌLÚ (TOWN)
 
-**You will learn to**
-
-• name places in the town in Yoruba
-
-• say each action in Yoruba
-
-• love my town
-
-**Things to know**
+**Main content**
 
 • **Ìlú** means town.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — IṢẸ́ (ACTIONS)
 
-**You will learn to**
-
-• name actions in Yoruba
-
-• say each weather word in Yoruba
-
-• act out the words
-
-**Things to know**
+**Main content**
 
 • **Iṣẹ́** means work or action.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — OJU ỌJỌ́ (WEATHER)
 
-**You will learn to**
-
-• name the weather in Yoruba
-
-• name each fruit in Yoruba
-
-• dress for the weather
-
-**Things to know**
+**Main content**
 
 • **Ojú ọjọ́** means weather.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — ÈSO (FRUITS)
 
-**You will learn to**
-
-• name fruits in Yoruba
-
-• say the Yoruba name for each thing
-
-• eat fruit to be strong
-
-**Things to know**
+**Main content**
 
 • **Èso** means fruit.
 
@@ -604,15 +540,7 @@ written for them.
 
 ### WEEK 11 — OHUN ÈLÒ ILÉ (THINGS IN THE HOME)
 
-**You will learn to**
-
-• name things in the home in Yoruba
-
-• say the Yoruba word for each
-
-• keep my home clean
-
-**Things to know**
+**Main content**
 
 • **Ohun èlò ilé** means things we use in the home.
 

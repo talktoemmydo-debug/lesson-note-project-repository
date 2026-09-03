@@ -13,14 +13,7 @@ For the money week, the value of the naira follows what is true in Nigeria as at
 
 *Depth: NERDC Primary 1 · Mathematics · Second Term W1 (pp 620–621).*
 
-**You will learn to**
-
-• count on from ten to twenty and back
-• read, recognise and write the numbers 11 to 20
-• say which digit is the tens and which is the ones
-• put eleven numbers in order
-
-**Things to know**
+**Main content**
 
 • Last term we counted to ten (**1–10**); this term the door opens to **11–20**, and after it the numbers run on to **99**.
 • **11** is not "one one" said twice — it is **one ten and one more**; 12 is **one ten and two**; up to **19 = one ten and nine**; then **20 = two tens** with no one left over.
@@ -68,14 +61,7 @@ Collect twenty small things, tie ten into one bundle with a thread, and write ho
 
 *Depth: NERDC Primary 1 · Mathematics · Second Term W2 (pp 620–621).*
 
-**You will learn to**
-
-• count on from twenty to fifty
-• skip count in tens up to fifty
-• read and write the numbers 21 to 50
-• compare two numbers within fifty
-
-**Things to know**
+**Main content**
 
 • The twenties come next: 20, 21, 22 … 29, then **30 = three tens**.
 • After 29 the **tens digit changes** and the ones goes back to 0 — that is the hinge; the same happens at 39, 49 and every ten after.
@@ -121,14 +107,7 @@ Draw a number line from 20 to 50 and mark 25, 30, 35 and 40 on it; then write on
 
 *Depth: NERDC Primary 1 · Mathematics · Second Term W3 (pp 620–621).*
 
-**You will learn to**
-
-• count on from fifty to ninety-nine
-• skip count by tens up to ninety and beyond
-• say the tens and the ones of any number to ninety-nine
-• arrange numbers from 1 to 99 up and down
-
-**Things to know**
+**Main content**
 
 • The fifties, sixties, seventies, eighties and nineties: **51 … 60 … 70 … 80 … 90 … 99**.
 • One hundred is the next door: **100 = ten tens** — it is the first number with **three digits** (1, 0, 0).
@@ -176,14 +155,7 @@ Draw thirty shells in rows of ten, then colour every row you can count.
 
 *Depth: NERDC Primary 1 · Mathematics · Second Term W4 (pp 620–621).*
 
-**You will learn to**
-
-• use the signs >, < and =
-• put numbers in ascending and descending order
-• say before, after and between
-• read a number line from 0 to 99
-
-**Things to know**
+**Main content**
 
 • **Greater than ( > )** means the left side is bigger: **72 > 69**.
 • **Less than ( < )** means the left side is smaller: **45 < 50**.
@@ -230,14 +202,7 @@ Write five two-digit numbers on cards, put them in ascending order on the table,
 
 *Depth: NERDC Primary 1 · Mathematics · Second Term W7 (pp 620–621).*
 
-**You will learn to**
-
-• add within 20 without regrouping
-• take away within 20 without regrouping
-• answer a word problem with two numbers in it
-• do quick mental sums
-
-**Things to know**
+**Main content**
 
 • **Addition ( + )** means **putting together**; the answer is the **sum**: 7 + 5 = 12.
 • **Subtraction ( − )** means **taking away** or **finding the difference**: 12 − 5 = 7.
@@ -286,14 +251,7 @@ Draw nine stones and take four away; colour the stones that are left.
 
 *Depth: NERDC Primary 1 · Mathematics · Second Term W8 (pp 620–621).*
 
-**You will learn to**
-
-• find the missing number in an addition sentence
-• use objects to hunt for the missing addend
-• fill the gap in a number sentence within 10 and within 20
-• check my answer by putting it back
-
-**Things to know**
+**Main content**
 
 • A **number sentence** is maths written with numbers and signs: 3 + 4 = 7.
 • An **open sentence** has a **gap** in it — a box **□**, a bracket **( )**, or a blank line — and the gap is a number we must find: **3 + □ = 5**.
@@ -343,14 +301,7 @@ Draw an empty box for the missing number, write a number in it and colour the bo
 
 *Depth: NERDC Primary 1 · Mathematics · Second Term W9 (pp 620–621).*
 
-**You will learn to**
-
-• find the missing number in a subtraction sentence
-• tell the difference between the two kinds of gap
-• mix addition and subtraction gaps in one page
-• solve a problem that hides one number
-
-**Things to know**
+**Main content**
 
 • A subtraction open sentence: **5 − □ = 2** — the box is what was **taken away**.
 • The other kind: **□ − 4 = 6** — the box is the number we **started with**; to find it we go **back up** with addition: 6 + 4 = 10, so □ = 10.
@@ -399,14 +350,7 @@ Draw two plates with stones on them and colour the plate that makes your sentenc
 
 *Depth: NERDC Primary 1 · Mathematics · Second Term W10 (pp 620–621), with the value of the naira as it stands in Nigeria in 2026.*
 
-**You will learn to**
-
-• name the coins and notes of Nigeria
-• say how much each is worth
-• count money up to ₦50
-• buy and sell in the market game without change mistakes
-
-**Things to know**
+**Main content**
 
 • Our money is the **naira**, written with the sign **₦**; its small part is the **kobo** (100 kobo = ₦1).
 • Coins the scheme begins us with: **₦1 and ₦2** — round, metal, they ring on the table; **the ₦1 and ₦2 coins are still our money, but they are not seen every day now**.

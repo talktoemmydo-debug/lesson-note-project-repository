@@ -11,14 +11,7 @@ line is pitched as naming, pointing and handling, not reading and writing code.*
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• say what technology means in one line
-• name the digital devices I know
-• point to a computer, a tablet, a phone, a watch and a camera
-• tell which things at home are digital
-
-**Things to know**
+**Main content**
 
 • **Technology** means the smart things people make and use to do work more easily.
 • A **digital device** is a machine that thinks with electricity and shows us things on a screen.
@@ -65,14 +58,7 @@ Draw three machines in your house and colour the one that makes the most noise.
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• tell a desktop from a laptop and a tablet
-• say what each type is good for
-• say which parts come with a desktop
-• choose the right computer for the right work
-
-**Things to know**
+**Main content**
 
 • A **desktop** sits on a table and does not move about; it has a separate **monitor, keyboard, mouse** and a **CPU box**.
 • A **laptop** opens and shuts like a book; the screen, the keys and the touchpad are all in it, and it has a battery.
@@ -116,14 +102,7 @@ Draw one desktop, one laptop and one tablet, and write one use under each.
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• name the four basic parts of a computer
-• say what each part does
-• point to each part on a real computer
-• put the parts in the right order of work
-
-**Things to know**
+**Main content**
 
 • The four basic parts: **monitor, keyboard, mouse and CPU**.
 • The **monitor** is the screen; it shows what the computer is doing — pictures, letters and numbers.
@@ -170,14 +149,7 @@ Draw the four parts of a computer as four shapes on a desk and colour the CPU bo
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828), with the Primary 5
 Third Term "AI in daily life" line kept only as examples of uses.*
 
-**You will learn to**
-
-• say what people use a computer for at work
-• say what I use a tablet for at home
-• name machines in the shop, the bank and the hospital
-• tell the difference between work play and learning on a device
-
-**Things to know**
+**Main content**
 
 • People write letters, draw pictures and keep records on a computer.
 • In the **bank**, a computer counts money and prints the receipt; in the **shop**, the machine that reads the price is a computer.
@@ -221,14 +193,7 @@ Write down two ways your family uses a phone or computer for work, and two ways 
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• keep a device clean and dry
-• hold and carry a device with two hands
-• charge a device safely with a grown-up near
-• shut a device the right way
-
-**Things to know**
+**Main content**
 
 • Devices are **expensive and easily spoiled**, so we handle them gently.
 • Keep food and drink away from the keyboard; water inside a device spoils it for good.
@@ -273,14 +238,7 @@ Wipe the dust off one device in your house with a soft dry cloth, and tell your 
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W1 (pp 827–828).*
 
-**You will learn to**
-
-• say what a computer lab is
-• state the rules we keep in the lab
-• sit and move correctly in the lab
-• tell the teacher at once when something is wrong
-
-**Things to know**
+**Main content**
 
 • A **computer lab** is the room in the school where many computers are kept for lessons.
 • We **walk** in the lab; we do not run, because a cable or a chair can throw us down.
@@ -325,14 +283,7 @@ Write five rules of the computer lab on a sheet and put it on the wall of your n
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W2 (pp 827–828).*
 
-**You will learn to**
-
-• name the first tool people used to count
-• tell how computers changed over time
-• name the five generations in order
-• say what became smaller, faster and cheaper
-
-**Things to know**
+**Main content**
 
 • Long ago people counted with **stones and fingers**, then with the **abacus** — a frame with beads that slide on wires.
 • The abacus is still used in some markets and some schools: beads up means add, beads down means take away.
@@ -376,14 +327,7 @@ Draw an abacus with ten beads on one wire and write what you use your fingers fo
 
 *Depth: NERDC Primary 4 · Basic Digital Literacy · First Term W2 (pp 827–828).*
 
-**You will learn to**
-
-• name the father of the computer
-• say what Ada Lovelace did
-• put the two inventors in their time order
-• say why an idea can be as valuable as a machine
-
-**Things to know**
+**Main content**
 
 • **Charles Babbage** was an Englishman who, about two hundred years ago, designed a machine called the **Analytical Engine**; because of that plan he is called the **father of the computer**.
 • His first machine was called the **Difference Engine**; it was built to work out tables of numbers without mistakes.

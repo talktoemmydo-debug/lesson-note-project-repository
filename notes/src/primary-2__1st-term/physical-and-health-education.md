@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — THE BODY AND MOVEMENT
 
-**You will learn to**
-
-• name parts of the body used in movement
-
-• move the body well
-
-• care for the body
-
-**Things to know**
+**Main content**
 
 • Our **body** moves in many ways.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — LOCOMOTOR MOVEMENTS
 
-**You will learn to**
-
-• name locomotor movements
-
-• do locomotor movements
-
-• move from place to place
-
-**Things to know**
+**Main content**
 
 • **Locomotor movements** move us from one place to another.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — NON-LOCOMOTOR MOVEMENTS
 
-**You will learn to**
-
-• name non-locomotor movements
-
-• do non-locomotor movements
-
-• move in one place
-
-**Things to know**
+**Main content**
 
 • **Non-locomotor movements** are done in **one place**.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — GAMES AND SPORTS
 
-**You will learn to**
-
-• name games and sports
-
-• play games with rules
-
-• enjoy games
-
-**Things to know**
+**Main content**
 
 • **Games** and **sports** are activities we play.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — PERSONAL HYGIENE
 
-**You will learn to**
-
-• keep the body clean
-
-• name ways to be clean
-
-• prevent sickness
-
-**Things to know**
+**Main content**
 
 • **Hygiene** means keeping clean to stay well.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — FOOD AND NUTRITION
 
-**You will learn to**
-
-• name food groups
-
-• eat a balanced diet
-
-• know why food matters
-
-**Things to know**
+**Main content**
 
 • **Food** gives us energy and helps us grow.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — SAFETY AND SIMPLE FIRST AID
 
-**You will learn to**
-
-• keep safe from harm
-
-• give simple first aid
-
-• call for help
-
-**Things to know**
+**Main content**
 
 • **Safety** means being free from harm.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — REST AND SLEEP
 
-**You will learn to**
-
-• say why we rest
-
-• know how much to sleep
-
-• rest well
-
-**Things to know**
+**Main content**
 
 • **Rest** is taking it easy after work or play.
 

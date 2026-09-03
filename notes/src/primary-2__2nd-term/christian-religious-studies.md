@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — GOD SPEAKS TO US
 
-**You will learn to**
-
-• say how God speaks to us
-
-• listen to God
-
-• obey God's word
-
-**Things to know**
+**Main content**
 
 • **God** speaks to us in many ways.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — WE ARE CHILDREN OF ONE FATHER
 
-**You will learn to**
-
-• say that God is our Father
-
-• love one another
-
-• live as brothers and sisters
-
-**Things to know**
+**Main content**
 
 • **God** is the Father of us all.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — GOD CALLS US FOR A PURPOSE
 
-**You will learn to**
-
-• say that God calls us
-
-• name people God called
-
-• answer God's call
-
-**Things to know**
+**Main content**
 
 • God **calls** us to do His work.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — GOD GIVES HIS LAW TO US
 
-**You will learn to**
-
-• say what God's law is
-
-• name God's commandments
-
-• obey God's law
-
-**Things to know**
+**Main content**
 
 • God gave His **law** to His people.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — GOD REVEALS HIMSELF TO US (PART 1)
 
-**You will learn to**
-
-• say what it means for God to reveal Himself
-
-• name how God reveals Himself
-
-• know God's names
-
-**Things to know**
+**Main content**
 
 • God **reveals** Himself — He shows us who He is.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — GOD REVEALS HIMSELF TO US (PART 2)
 
-**You will learn to**
-
-• know more names of God
-
-• say what God does
-
-• trust God
-
-**Things to know**
+**Main content**
 
 • God reveals Himself through His **works**.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — JESUS' POWER TO FORGIVE SINS
 
-**You will learn to**
-
-• say that Jesus forgives sins
-
-• tell how Jesus forgave
-
-• ask for forgiveness
-
-**Things to know**
+**Main content**
 
 • **Sin** is doing what is wrong.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — JESUS LOVES ALL PEOPLE
 
-**You will learn to**
-
-• say that Jesus loves all
-
-• tell how Jesus loved
-
-• love all people
-
-**Things to know**
+**Main content**
 
 • **Jesus** loves **all** people.
 

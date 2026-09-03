@@ -8,15 +8,7 @@ speaking; present and past tense; sound patterns and word families).*
 
 ### WEEK 1 — PHONEMIC AWARENESS I: IDENTIFYING AND PRODUCING SOUNDS
 
-**You will learn to**
-
-• hear the sounds in words
-
-• say the first sound of a word
-
-• produce the sound of a letter
-
-**Things to know**
+**Main content**
 
 • Every word is made of **sounds**.
 
@@ -82,15 +74,7 @@ speaking; present and past tense; sound patterns and word families).*
 
 ### WEEK 2 — USING SOUNDS TO SPELL AND PRONOUNCE WORDS
 
-**You will learn to**
-
-• blend sounds to read a word
-
-• spell a word by its sounds
-
-• pronounce words correctly
-
-**Things to know**
+**Main content**
 
 • We put sounds together to read a word. This is **blending**.
 
@@ -156,15 +140,7 @@ speaking; present and past tense; sound patterns and word families).*
 
 ### WEEK 3 — COMPREHENSION I: SHORT STORIES AND RHYMES
 
-**You will learn to**
-
-• listen to a short story
-
-• answer questions about a story
-
-• say what a rhyme is
-
-**Things to know**
+**Main content**
 
 • A **story** tells us about people and events.
 
@@ -230,15 +206,7 @@ speaking; present and past tense; sound patterns and word families).*
 
 ### WEEK 4 — ADJECTIVES: DESCRIBING WORDS
 
-**You will learn to**
-
-• say what a describing word is
-
-• use describing words
-
-• describe people and things
-
-**Things to know**
+**Main content**
 
 • A **describing word** tells us more about a noun.
 
@@ -304,15 +272,7 @@ speaking; present and past tense; sound patterns and word families).*
 
 ### WEEK 5 — PHONICS II: CONSONANT BLENDS AND DIGRAPHS
 
-**You will learn to**
-
-• know consonant blends
-
-• know digraphs
-
-• read words with blends and digraphs
-
-**Things to know**
+**Main content**
 
 • A **blend** is two or three consonants said together, each keeping its sound.
 
@@ -378,15 +338,7 @@ speaking; present and past tense; sound patterns and word families).*
 
 ### WEEK 6 — LISTENING AND SPEAKING: ASKING AND ANSWERING QUESTIONS
 
-**You will learn to**
-
-• ask simple questions
-
-• answer questions
-
-• listen and speak clearly
-
-**Things to know**
+**Main content**
 
 • We ask questions to find out things.
 
@@ -452,15 +404,7 @@ speaking; present and past tense; sound patterns and word families).*
 
 ### WEEK 8 — SIMPLE PRESENT AND PAST TENSE OF COMMON VERBS
 
-**You will learn to**
-
-• say what tense means
-
-• use the present tense
-
-• use the past tense
-
-**Things to know**
+**Main content**
 
 • **Tense** tells us when an action happens.
 
@@ -526,15 +470,7 @@ speaking; present and past tense; sound patterns and word families).*
 
 ### WEEK 9 — PHONEMIC AWARENESS II: SOUND PATTERNS AND WORD FAMILIES
 
-**You will learn to**
-
-• hear sound patterns in words
-
-• name word families
-
-• read words in a family
-
-**Things to know**
+**Main content**
 
 • A **word family** is a group of words that end the same way.
 

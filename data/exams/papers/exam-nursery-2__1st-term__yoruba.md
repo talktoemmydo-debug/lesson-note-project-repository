@@ -23,11 +23,11 @@ Choose the correct option and ring the letter.
    B) ìwé
    C) pátákó
    D) bẹ́ẹ̀dì
-4. When I point at a thing and name it, I say ___
-   A) "Ẹ́ ṣé o"
-   B) "Kí ni orúkọ rẹ?"
-   C) "Báwo ni?"
-   D) "Èyí ni ______"
+4. "Ẹlẹ́dọ̀tí" is the thing we use to ___
+   A) clean the floor
+   B) write a letter
+   C) cut a page
+   D) rub out a mistake
 5. "Good morning" in Yoruba is ___
    A) Ẹ̀ káàárọ̀
    B) Ẹ̀ káàlẹ̀
@@ -38,26 +38,26 @@ Choose the correct option and ring the letter.
    B) Ẹ̀ káàṣánṣá
    C) Ẹ ṣé
    D) Ẹ̀ káàárọ̀
-7. A boy greets an elder by ___
+7. We greet an elder at night with ___
+   A) Ẹ̀ káàárọ̀
+   B) Àlàáfíà ni
+   C) Ọ́ nàṣẹ́
+   D) Ẹ̀ máàdọ́rùn
+8. A boy greets an elder by ___
    A) ìkúnlẹ̀ (kneeling)
    B) clapping the hands twice
-   C) standing and waving
-   D) ìdòbì (prostration)
-8. A girl greets an elder by ___
-   A) ìdòbì (prostration)
-   B) running to the door
-   C) ìkúnlẹ̀ (kneeling)
-   D) jumping once
-9. When a friend comes back home we say ___
-   A) Ọ́ dàbọ̀
-   B) Ẹ̀ káàlẹ̀
-   C) Ẹ̀ jẹun ni
-   D) Ọ́ nàṣẹ́
-10. "Thank you" in Yoruba is ___
-   A) Kí ni o ń ṣe
-   B) Ẹ ṣé
-   C) Ì jọ̀ọ́ ẹ̀
-   D) Ẹ̀ jọ̀ọ́
+   C) ìdòbì (prostration)
+   D) standing and waving
+9. A girl greets an elder by ___
+   A) ìkúnlẹ̀ (kneeling)
+   B) ìdòbì (prostration)
+   C) jumping once
+   D) running to the door
+10. The reply to "Ọ́ dàbọ̀" is ___
+   A) "Ààbọ̀ ni ọla"
+   B) "Ọ́ dábọ̀, ààbọ̀"
+   C) "Bákan náà"
+   D) "Ẹ ṣé gan-an"
 11. Numbers: the Yoruba word for 5 is ___
    A) ẹ̀fà
    B) ẹ̀jọ
@@ -68,11 +68,11 @@ Choose the correct option and ring the letter.
    B) eight
    C) ten
    D) four
-13. "Meloo ni o ní?" is a question that means
-   A) where do you live
-   B) how many do you have
-   C) when did you come
-   D) what is your name
+13. Counting backwards from ẹ̀wá, the next word is ___
+   A) àárún
+   B) ẹ̀sán
+   C) ọ̀kan
+   D) ẹ̀ta
 14. "Mẹ́ta ni mo ní" means ___
    A) I have three
    B) I am three years old
@@ -83,11 +83,11 @@ Choose the correct option and ring the letter.
    B) a fine face is everything
    C) speed wins the race
    D) good character is the true beauty
-16. One rule in the warning song is ___
-   A) do not sleep early, so that you will work
-   B) do not run, so that you will not fall
-   C) do not be idle, so that your money will not sleep
-   D) do not sing, so that you will learn
+16. An orin ìkìlọ̀ is a song that ___
+   A) welcomes a newborn baby
+   B) counts the days of the week
+   C) warns children away from bad things
+   D) praises a chief at his gate
 17. The Yoruba alphabet has letters ___
    A) twenty-five in all: 18 consonants and 7 vowels
    B) twenty-four in all: 17 consonants and 7 vowels
@@ -98,66 +98,66 @@ Choose the correct option and ring the letter.
    B) a, e, ẹ, i, o, ọ, u
    C) a, b, c, d, e, f, g
    D) e, ẹ, i, o, ọ, u, n
-19. The two letters that are written as pairs are ___
-   A) sh and th
-   B) kp and q
-   C) ch and ph
-   D) gb and ṣ
-20. The dot under ẹ and ọ ___
-   A) changes the sound of the letter
-   B) shows a long pause
-   C) makes the letter silent
-   D) doubles the letter
+19. Which letter is NOT in the Yoruba alphabet?
+   A) d
+   B) b
+   C) ń
+   D) c
+20. The two letters that are written as pairs are ___
+   A) gb and ṣ
+   B) ch and ph
+   C) kp and q
+   D) sh and th
 21. "Ọjọ́ Àìkú" is the day we call ___
    A) Wednesday
    B) Sunday
    C) Saturday
    D) Friday
-22. The seven days of the week end with ___
-   A) Ọjọ́-rúkú-ọ̀jọ́
-   B) Ọjọ́ Ìṣẹ́gun
-   C) Ọjọ́ Àbámẹ́ta
+22. Tuesday in Yoruba is ___
+   A) Ọjọ́ Bọ̀ṣẹ̀
+   B) Ọjọ́ Ajé
+   C) Ọjọ́ Ìṣẹ́gun
+   D) Ọjọ́ Ẹtì
+23. The seven days of the week end with ___
+   A) Ọjọ́ Àbámẹ́ta
+   B) Ọjọ́-rúkú-ọ̀jọ́
+   C) Ọjọ́ Ìṣẹ́gun
    D) Ọjọ́ Àìkú
-23. The first eight letters of the Yoruba alphabet, in order, are ___
-   A) a, b, d, e, ẹ, f, g, gb
+24. The first eight letters of the Yoruba alphabet, in order, are ___
+   A) b, d, f, g, gb, h, j, k
    B) a, b, c, d, e, f, g, h
-   C) b, d, f, g, gb, h, j, k
-   D) a, e, ẹ, i, o, ọ, u, b
-24. The three tones that mark the voice are ___
-   A) high only, with no other tone
-   B) dài, gún and kúkú
-   C) è, é and ẹ
-   D) à (low), á (high) and ā (middle)
-25. Do not mix them up: "mu" is used for ___
-   A) book
-   B) drink
-   C) water only
-   D) food
-26. "Kí ni o ń ṣe?" is asked when we want to know
-   A) who somebody greeted
-   B) where somebody lives
-   C) what somebody is doing
-   D) how old somebody is
-27. The sentence pattern we learnt is ___
-   A) Mo + action + thing
+   C) a, e, ẹ, i, o, ọ, u, b
+   D) a, b, d, e, ẹ, f, g, gb
+25. Action words: "jẹ" means ___
+   A) sleep
+   B) eat
+   C) come
+   D) drink
+26. Do not mix them up: "mu" is used for ___
+   A) water only
+   B) food
+   C) drink
+   D) book
+27. "Kí ni o ń ṣe?" is asked when we want to know
+   A) what somebody is doing
+   B) how old somebody is
+   C) where somebody lives
+   D) who somebody greeted
+28. The sentence pattern we learnt is ___
+   A) Mo + thing + action
    B) Action + Mo + thing
    C) Thing + action + Mo
-   D) Mo + thing + action
-28. "Ọ́ nàṣẹ́" is a greeting for a person who is ___
-   A) just born
+   D) Mo + action + thing
+29. "Ọ́ nàṣẹ́" is a greeting for a person who is ___
+   A) at rest
    B) at school
-   C) at rest
-   D) at work
-29. The Yoruba word for a farmer is ___
+   C) at work
+   D) just born
+30. The Yoruba word for a farmer is ___
    A) ọ̀dẹ̀
-   B) akọ́
-   C) agbẹ̀
+   B) agbẹ̀
+   C) akọ́
    D) alagbe
-30. A ẹ̀wì is different from orin because it is ___
-   A) danced, not spoken
-   B) spoken, not sung
-   C) written, not read
-   D) sung twice, never once
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.

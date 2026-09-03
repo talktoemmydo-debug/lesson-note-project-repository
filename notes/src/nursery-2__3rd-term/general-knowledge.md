@@ -12,14 +12,7 @@ one Nigeria, counting and sorting, the people of great works, and the end-of-yea
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W1.*
 
-**You will learn to**
-
-• say the name of my state and the town where I live
-• put my state on the map of Nigeria, in a big first look
-• name the famous things of my state: its food, its festivals and its places
-• draw a picture map of my town with the five places we all know
-
-**Things to know**
+**Main content**
 
 • A **state** is a big piece of the country with its own head; Nigeria has **thirty-six states** and one
   capital territory, and the capital territory is called **Abuja**.
@@ -70,14 +63,7 @@ road, and the stream running past behind them; colour the roads.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W2.*
 
-**You will learn to**
-
-• name where water comes from and what we use it for
-• say why air matters even though we cannot see it
-• keep water clean and not waste it
-• do three small tests with water and air
-
-**Things to know**
+**Main content**
 
 • Water comes to us from the **rain**, the **tap**, the **well**, the **stream** and the **river**.
 • We use water to **drink**, to **bath**, to **cook**, to **wash** cloth and plates, and to give the **plants**.
@@ -124,14 +110,7 @@ bottle top and a bit of cloth — then ring the ones you think will float.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W3.*
 
-**You will learn to**
-
-• say what the sun gives us and when it is up
-• name what we see in the sky at night
-• tell the parts of the day in order
-• sort things into the day and the night
-
-**Things to know**
+**Main content**
 
 • The **sun** gives us **light** and **warmth**; it is the reason the day is bright.
 • The **daytime** is when we work, learn and play; the **night** is when the world rests and we sleep.
@@ -178,14 +157,7 @@ moon, three stars and three things we do at night.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W4.*
 
-**You will learn to**
-
-• name the tools we use at home and at school
-• say what each tool is for
-• tell which things have wheels and what a wheel does
-• say how a simple machine takes work off our hands
-
-**Things to know**
+**Main content**
 
 • Tools at home: **spoon** for eating, **fork** for holding food, **knife** for cutting, **broom** for the
   floor, **rake** for the yard, **bucket** for water.
@@ -238,14 +210,7 @@ scissors, then match the tools to their work with a line.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W5.*
 
-**You will learn to**
-
-• say that Nigeria is one country of many peoples
-• name foods and tongues that are different among us
-• treat every person with the same respect
-• take part in the class celebration of one Nigeria
-
-**Things to know**
+**Main content**
 
 • Nigeria is **one country** made of **many peoples**; all of us are **Nigerians**.
 • The country took its name from the **river Niger** that runs through it; the Niger and the **Benue** are the
@@ -298,14 +263,7 @@ holding one food of their people.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W6.*
 
-**You will learn to**
-
-• count things about us from one to twenty
-• sort things by size, colour, shape and kind
-• say the days of the week and the routine of a day
-• play the sorting games of the class
-
-**Things to know**
+**Main content**
 
 • Counting is done with the **finger on the thing**: one bottle top, two bottle tops … twenty bottle tops, and
   then we put them in **two lines of ten**.
@@ -356,14 +314,7 @@ one and "vegetable" on the other, then draw three things of each kind inside.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W8.*
 
-**You will learn to**
-
-• name the work-a-day people who keep a town going
-• hear two stories of people of the past
-• say what a hero does that a child can do too
-• tell the class who you want to be when you grow up
-
-**Things to know**
+**Main content**
 
 • The **farmer** rises before the sun and the whole town eats because of that work.
 • The **teacher**, the **nurse**, the **driver**, the **cleaner**, the **seller** and the **guard** are the
@@ -415,14 +366,7 @@ one thing that person carries; colour the whole drawing.
 
 *Depth: NERDC Nursery 3 · General Knowledge · Third Term W9.*
 
-**You will learn to**
-
-• answer quiz questions about what we have learnt all year
-• play "Who am I?" and "Where does it live?"
-• stand and show one thing to the class
-• say what we are going to do next year
-
-**Things to know**
+**Main content**
 
 • The quiz cards of this year carry five pictures: the **flag**, an **animal**, a **colour**, a **food** and a
   **helper**.

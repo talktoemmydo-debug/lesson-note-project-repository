@@ -8,156 +8,156 @@
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. Exercise means the physical activities that ___
-   A) make us sleep in the day
-   B) keep the body on the chair
-   C) keep the hands still
-   D) make the body move and work
-2. A game is an organised activity with ___
-   A) books, played for class
-   B) rules, played for fun
-   C) money, played for food
-   D) no rule, played for fear
-3. Exercise makes the heart and the ___
-   A) lungs work well
-   B) ears hear better
-   C) hair become thicker
-   D) teeth grow longer
-4. A child who plays and exercises ___
-   A) sleeps all day
+1. A game is an organised activity with ___
+   A) money, played for food
+   B) no rule, played for fear
+   C) books, played for class
+   D) rules, played for fun
+2. Exercise makes the heart and the ___
+   A) hair become thicker
+   B) lungs work well
+   C) teeth grow longer
+   D) ears hear better
+3. A child who plays and exercises ___
+   A) sleeps better at night
    B) cannot sleep at all
    C) stays awake at night
-   D) sleeps better at night
-5. Games teach discipline because I ___
-   A) keep my eyes shut while I run
-   B) wait for my turn and listen for the whistle
-   C) shout at my partner and push in front
-   D) leave the ground before the game ends
-6. Egg and spoon race trains the ___
-   A) ear and the power of hearing
-   B) back and the power of bending
-   C) hand and the sense of balance
-   D) nose and the smell of things
-7. In the egg and spoon game, if the ball falls we ___
-   A) cry and go home
-   B) leave the ground
-   C) throw the spoon away
-   D) pick it up and continue
-8. In a sack race the player ___
+   D) sleeps all day
+4. Games teach discipline because I ___
+   A) leave the ground before the game ends
+   B) shout at my partner and push in front
+   C) keep my eyes shut while I run
+   D) wait for my turn and listen for the whistle
+5. The first thing we do before a game is to ___
+   A) tie both shoes together
+   B) warm up and stretch
+   C) sit down and rest
+   D) eat a full meal
+6. In the egg and spoon game, if the ball falls we ___
+   A) leave the ground
+   B) throw the spoon away
+   C) pick it up and continue
+   D) cry and go home
+7. In a sack race the player ___
    A) carries the sack on the head for a friend
-   B) stands inside a sack and jumps to the line
-   C) runs beside a sack full of sand
-   D) hides inside a big sack at the line
-9. In the three-legged race, the pair must ___
+   B) runs beside a sack full of sand
+   C) hides inside a big sack at the line
+   D) stands inside a sack and jumps to the line
+8. In the three-legged race, the pair must ___
    A) run in opposite directions, fast
-   B) carry one another to the finishing line
-   C) walk as one, with the inside legs tied
-   D) jump over each other's legs twice
-10. Musical chairs and freeze dance are both games of ___
-   A) movement and stopping on a signal
-   B) eating and drinking quickly
-   C) reading and writing neatly
-   D) counting money on a chair
-11. Stretching the body means ___
-   A) holding the breath for a long time
-   B) reaching for the sky and touching the toes
-   C) running to the far gate
-   D) jumping over a deep ditch
-12. Skipping is done with a ___
-   A) sack, jumped inside to the line
-   B) ball, thrown up to a partner
-   C) stick, carried slowly across the ground
-   D) rope, jumping forwards and then backwards
-13. Leaping is a big jump ___
-   A) from both feet onto one mat
-   B) backwards over a rope
-   C) from one foot to the other foot
-   D) sideways on the ground only
-14. The safe way to land from a jump is with ___
-   A) soft, bent knees
-   B) straight, locked knees
-   C) closed eyes
-   D) the head first
-15. Body conditioning means exercises that make the body ___
-   A) heavy and slow
-   B) tall and thin
+   B) walk as one, with the inside legs tied
+   C) jump over each other's legs twice
+   D) carry one another to the finishing line
+9. Musical chairs and freeze dance are both games of ___
+   A) reading and writing neatly
+   B) counting money on a chair
+   C) movement and stopping on a signal
+   D) eating and drinking quickly
+10. Freeze dance means we ___
+   A) dance while the music plays and hold still when it stops
+   B) dance only when the teacher calls out my name
+   C) stand in one place and never move at all
+   D) sit down quietly as the drum begins to sound
+11. Skipping is done with a ___
+   A) ball, thrown up to a partner
+   B) rope, jumping forwards and then backwards
+   C) sack, jumped inside to the line
+   D) stick, carried slowly across the ground
+12. Leaping is a big jump ___
+   A) sideways on the ground only
+   B) from both feet onto one mat
+   C) backwards over a rope
+   D) from one foot to the other foot
+13. The safe way to land from a jump is with ___
+   A) straight, locked knees
+   B) the head first
+   C) soft, bent knees
+   D) closed eyes
+14. Body conditioning means exercises that make the body ___
+   A) fit and in good control
+   B) heavy and slow
    C) warm and sleepy
-   D) fit and in good control
-16. Arms are stretched sideways while balancing because they ___
-   A) help us to hear better
-   B) keep the body very warm
-   C) act like the beam of a scale
-   D) stop the wind from blowing
-17. While balancing on one leg, a good trick is to ___
+   D) tall and thin
+15. Balance means staying ___
+   A) fast without stopping
+   B) soft without moving
+   C) loud without shouting
+   D) steady without falling
+16. While balancing on one leg, a good trick is to ___
    A) close both ears
-   B) count slowly to ten
-   C) shout at a friend
+   B) shout at a friend
+   C) count slowly to ten
    D) hop three times fast
-18. Walking heel to toe on a line drawn on the floor trains the ___
-   A) balance of the body
-   B) grip of the hand
-   C) sight of the eye
-   D) hearing of the ear
-19. Kicking, hitting, bouncing and rolling are ___
-   A) breathing games
-   B) balancing exercises
+17. Walking heel to toe on a line drawn on the floor trains the ___
+   A) sight of the eye
+   B) balance of the body
+   C) hearing of the ear
+   D) grip of the hand
+18. Kicking, hitting, bouncing and rolling are ___
+   A) manipulative movements
+   B) breathing games
    C) resting positions
-   D) manipulative movements
-20. An underhand throw is made with the arm ___
-   A) behind the back
-   B) swinging from behind and low
-   C) above the head and high
-   D) straight down at the ground
-21. The safest object to throw and catch in class is a ___
-   A) bean bag
-   B) piece of wood
-   C) stone
-   D) bottle
-22. Catching is done with ___
-   A) one hand only, with the eyes on the ground
-   B) the head and the two shoulders together
-   C) two hands out, eyes on the object all the way to them
-   D) the knees and the feet of the player
-23. The brain and its wires working with the muscles is called ___
-   A) skin and hair
-   B) bone and joint
-   C) heart and lung
-   D) neuro-muscular
-24. A dance routine is ___
-   A) a single jump done only once in the day
-   B) the same order of steps done again and again
-   C) a slow song with no movement at all
-   D) a game played with a ball and a bat
-25. A forward roll is started from a ___
+   D) balancing exercises
+19. An underhand throw is made with the arm ___
+   A) straight down at the ground
+   B) above the head and high
+   C) behind the back
+   D) swinging from behind and low
+20. In an overhand throw we ___
+   A) turn our back and throw
+   B) step with the foot and throw
+   C) sit on the ground and throw
+   D) close both eyes and throw
+21. Catching is done with ___
+   A) two hands out, eyes on the object all the way to them
+   B) the knees and the feet of the player
+   C) one hand only, with the eyes on the ground
+   D) the head and the two shoulders together
+22. The brain and its wires working with the muscles is called ___
+   A) bone and joint
+   B) skin and hair
+   C) neuro-muscular
+   D) heart and lung
+23. A dance routine is ___
+   A) a slow song with no movement at all
+   B) a single jump done only once in the day
+   C) a game played with a ball and a bat
+   D) the same order of steps done again and again
+24. A forward roll is started from a ___
    A) standing jump, with the legs kicked high
-   B) full run, with the arms swinging fast
-   C) squat, with the two hands placed on the mat
-   D) lying down, with the back flat on the floor
-26. A roll must be done on a mat or soft ground because ___
-   A) a hard floor can hurt the neck and the back
-   B) soft ground is faster for running
-   C) the floor of the class is dusty
-   D) the mat is colourful and clean to look at
-27. Sport develops flexibility, which is the ability to ___
-   A) hear a small sound
-   B) bend and stretch easily
-   C) run a long distance
-   D) count to two hundred
-28. Agility is the ability to ___
+   B) squat, with the two hands placed on the mat
+   C) lying down, with the back flat on the floor
+   D) full run, with the arms swinging fast
+25. Before rolling on the mat, the chin is ___
+   A) lifted to the sky
+   B) hidden under the arm
+   C) tucked to the chest
+   D) turned to the left
+26. Sport develops flexibility, which is the ability to ___
+   A) bend and stretch easily
+   B) count to two hundred
+   C) hear a small sound
+   D) run a long distance
+27. Agility is the ability to ___
    A) lift a heavy bucket
-   B) hold a pose for a long time
-   C) read a long sentence
-   D) move quickly and change direction
-29. Reaction is shown when ___
-   A) the ear hears the clap and the leg starts to run
-   B) the mouth tastes the food we eat at home
-   C) the eye closes slowly at the time for sleep
-   D) the hand holds a pencil on the exercise book
-30. Strength is built by ___
-   A) long sleeping
-   B) eating sweets only
-   C) exercise and play
-   D) sitting and watching
+   B) move quickly and change direction
+   C) hold a pose for a long time
+   D) read a long sentence
+28. Reaction is shown when ___
+   A) the hand holds a pencil on the exercise book
+   B) the eye closes slowly at the time for sleep
+   C) the mouth tastes the food we eat at home
+   D) the ear hears the clap and the leg starts to run
+29. Strength is built by ___
+   A) exercise and play
+   B) sitting and watching
+   C) long sleeping
+   D) eating sweets only
+30. At my age sport is for ___
+   A) winning money for the family
+   B) only the big silver prizes
+   C) learning and growing up fit
+   D) pain and a lot of tiredness
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.

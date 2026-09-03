@@ -8,15 +8,7 @@ and each stream carries its own term paper.
 
 ### WEEK 1 — MULTIPLICATION (PART 1)
 
-**You will learn to**
-
-• say what multiplication means
-
-• multiply small numbers
-
-• use the times sign
-
-**Things to know**
+**Main content**
 
 • **Multiplication** means adding the same number again and again.
 
@@ -82,15 +74,7 @@ and each stream carries its own term paper.
 
 ### WEEK 2 — MULTIPLICATION (PART 2)
 
-**You will learn to**
-
-• multiply bigger numbers
-
-• use the times tables of 2, 3 and 5
-
-• solve multiplication sums
-
-**Things to know**
+**Main content**
 
 • We can multiply bigger numbers.
 
@@ -156,15 +140,7 @@ and each stream carries its own term paper.
 
 ### WEEK 3 — OPEN SENTENCES
 
-**You will learn to**
-
-• say what an open sentence is
-
-• find the missing number
-
-• fill in the box
-
-**Things to know**
+**Main content**
 
 • An **open sentence** has a missing number.
 
@@ -230,15 +206,7 @@ and each stream carries its own term paper.
 
 ### WEEK 4 — MONEY (PART 1)
 
-**You will learn to**
-
-• name Nigerian coins and notes
-
-• say the value of money
-
-• count money
-
-**Things to know**
+**Main content**
 
 • **Money** is what we use to buy things.
 
@@ -304,15 +272,7 @@ and each stream carries its own term paper.
 
 ### WEEK 5 — MONEY (PART 2)
 
-**You will learn to**
-
-• add money
-
-• give change
-
-• solve money problems
-
-**Things to know**
+**Main content**
 
 • We can **add** money to find the total.
 
@@ -378,15 +338,7 @@ and each stream carries its own term paper.
 
 ### WEEK 6 — LENGTH
 
-**You will learn to**
-
-• say what length is
-
-• measure length
-
-• compare long and short
-
-**Things to know**
+**Main content**
 
 • **Length** is how long a thing is.
 
@@ -452,15 +404,7 @@ and each stream carries its own term paper.
 
 ### WEEK 8 — TIME (PART 1)
 
-**You will learn to**
-
-• read the clock
-
-• tell the time on the hour
-
-• name the days
-
-**Things to know**
+**Main content**
 
 • A **clock** tells us the time.
 
@@ -526,15 +470,7 @@ and each stream carries its own term paper.
 
 ### WEEK 9 — TIME (PART 2)
 
-**You will learn to**
-
-• tell the time to the half hour
-
-• say the days and months
-
-• plan my day
-
-**Things to know**
+**Main content**
 
 • When the long hand is on 6, it is **half past** the hour.
 

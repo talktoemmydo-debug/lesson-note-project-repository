@@ -11,14 +11,7 @@ storage, and safety on the farm and in the kitchen, from the pack's off-by-one m
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W1.*
 
-**You will learn to**
-
-• name six common farm tools
-• say what each tool is used for
-• tell the difference between a spade and a hoe
-• say where tools rest when work is over
-
-**Things to know**
+**Main content**
 
 • A **spade** digs and lifts soil; a **hoe** opens the ground and clears small weeds; a **cutlass** cuts
   grass and stick.
@@ -68,14 +61,7 @@ Draw a wall with a rack on it, then draw a rake, a hoe, a watering can and a bas
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W2.*
 
-**You will learn to**
-
-• say what safety means
-• name three rules we keep on the farm
-• tell why the ground is cleared before work
-• say what we do with a thing that can hurt
-
-**Things to know**
+**Main content**
 
 • **Safety means keeping ourselves and other people from being hurt while we work or play.**
 • Safety is not a thing we wear once; it is the **way we do everything** — walking, carrying, putting down.
@@ -123,14 +109,7 @@ Draw two children in a garden, one carrying a small watering can with both hands
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W3.*
 
-**You will learn to**
-
-• say three good things that come from safe work
-• tell what one carelessness can cost
-• name the people who are hurt by our carelessness
-• say why a careful child is trusted with more
-
-**Things to know**
+**Main content**
 
 • Safe work **keeps the body whole** — eyes for reading, hands for holding, legs for running.
 • It **keeps the work going**: a farm with a hurt worker loses days, and a kitchen with a burnt pot loses a meal.
@@ -176,14 +155,7 @@ Draw a family working on a small farm plot: a grown-up with a hoe, a boy carryin
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W4.*
 
-**You will learn to**
-
-• name four dangers on a farm or in a home
-• tell what a cracked handle can do
-• say why a hole in the ground is marked
-• tell what we do with a tool that is broken
-
-**Things to know**
+**Main content**
 
 • A **cracked or loose handle** can slip off while the tool is swinging, and the blade goes where nobody
   meant it.
@@ -234,14 +206,7 @@ Draw a boy pointing at a hoe with a cracked handle lying on the ground, and besi
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W5.*
 
-**You will learn to**
-
-• say what a kitchen is for
-• name four dangers found in a kitchen
-• tell which jobs need a grown-up
-• say how a child can still help in the kitchen
-
-**Things to know**
+**Main content**
 
 • The **kitchen** is the room where food is kept, washed and **cooked**; it feeds the whole house.
 • Its dangers are quick: **fire, hot water, a hot pot, a sharp knife, a wet floor, and a covered pot that
@@ -294,14 +259,7 @@ Draw a woman lifting the lid of a pot on a fire with a cloth in her hand, a girl
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W6.*
 
-**You will learn to**
-
-• state five rules we keep with tools
-• show how a sharp tool is carried
-• say why we watch the space behind us
-• tell how tools are shared in a class
-
-**Things to know**
+**Main content**
 
 • **Never run with a tool**; walk, and keep the blade or the teeth **pointing down**.
 • **Never throw a tool** — even to a friend who is near; it is **put into the hand** and the hand is waited for.
@@ -350,14 +308,7 @@ Draw a man carrying a cutlass with its point down and a boy walking behind him w
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W8.*
 
-**You will learn to**
-
-• name four things worn to keep us safe at work
-• say what each one protects
-• tell when they must be worn
-• say how a child dresses for the farm
-
-**Things to know**
+**Main content**
 
 • The things we wear to keep the body safe are called **protective gear**: **gloves, boots, a hat and an
   overall** (the big loose cloth that covers the clothes).
@@ -406,14 +357,7 @@ Draw a peg on a wall with a hat, a pair of gloves, an overall and a pair of boot
 
 *Depth: NERDC Nursery 3 · Prevocational Studies · Third Term W9.*
 
-**You will learn to**
-
-• say how tools and chemicals are stored
-• tell who is told about a broken thing
-• give first aid for a small cut and for a burn
-• say what a store place must keep out
-
-**Things to know**
+**Main content**
 
 • A **store** is a dry place, off the ground, where tools, cans and baskets are kept **with the blade down**
   and the sharp edges in.

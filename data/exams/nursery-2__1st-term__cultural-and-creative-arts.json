@@ -4,7 +4,7 @@
  "term": "1st Term",
  "objective": [
   {
-   "stem": "The drawing of a car has these four parts",
+   "stem": "The drawing of a car has these four parts ___",
    "answer": "body, windows, two wheels and a headlight",
    "distractors": [
     "wings, feathers, a beak and a tail",
@@ -22,7 +22,7 @@
    ]
   },
   {
-   "stem": "We use crayons to",
+   "stem": "We use crayons to ___",
    "answer": "colour inside the lines of a drawing",
    "distractors": [
     "wash the grease off our hands",
@@ -31,7 +31,7 @@
    ]
   },
   {
-   "stem": "Paint is kept in a",
+   "stem": "Paint is kept in a ___",
    "answer": "small tin or can",
    "distractors": [
     "big cooking pot",
@@ -40,7 +40,7 @@
    ]
   },
   {
-   "stem": "Before we paint, the surface must be",
+   "stem": "Before we paint, the surface must be ___",
    "answer": "clean and dry",
    "distractors": [
     "wet and muddy",
@@ -49,7 +49,7 @@
    ]
   },
   {
-   "stem": "Thumb-printing is done with the",
+   "stem": "Thumb-printing is done with the ___",
    "answer": "thumb of the hand",
    "distractors": [
     "knee of the leg",
@@ -58,7 +58,7 @@
    ]
   },
   {
-   "stem": "The pattern made by pressing a thumb on paper is called a",
+   "stem": "The pattern made by pressing a thumb on paper is called a ___",
    "answer": "thumb print",
    "distractors": [
     "hand shake drawing",
@@ -67,7 +67,7 @@
    ]
   },
   {
-   "stem": "A Barney is a character we",
+   "stem": "A Barney is a character we ___",
    "answer": "draw and colour",
    "distractors": [
     "eat",
@@ -76,7 +76,7 @@
    ]
   },
   {
-   "stem": "The lines that show where a drawing ends are called",
+   "stem": "The lines that show where a drawing ends are called ___",
    "answer": "outlines",
    "distractors": [
     "deep shadows",
@@ -85,7 +85,7 @@
    ]
   },
   {
-   "stem": "In \"Barney's environment\" we colour the things",
+   "stem": "In \"Barney's environment\" we colour the things ___",
    "answer": "around Barney — his home and his friends",
    "distractors": [
     "only the inside of Barney's big mouth",
@@ -94,7 +94,7 @@
    ]
   },
   {
-   "stem": "A pig has a short tail that is",
+   "stem": "A pig has a short tail that is ___",
    "answer": "curly like a spring",
    "distractors": [
     "feathered like a bird",
@@ -103,7 +103,7 @@
    ]
   },
   {
-   "stem": "The foot of a pig is called a",
+   "stem": "The foot of a pig is called a ___",
    "answer": "trotter",
    "distractors": [
     "paw with claws",
@@ -112,7 +112,7 @@
    ]
   },
   {
-   "stem": "The pig, goat and cow are drawn in our lesson because they are",
+   "stem": "The pig, goat and cow are drawn in our lesson because they are ___",
    "answer": "animals kept at home",
    "distractors": [
     "wild animals of the bush",
@@ -121,7 +121,7 @@
    ]
   },
   {
-   "stem": "Strands of dried grass or wheat used for making jewellery are",
+   "stem": "Strands of dried grass or wheat used for making jewellery are ___",
    "answer": "straw",
    "distractors": [
     "stones",
@@ -130,7 +130,7 @@
    ]
   },
   {
-   "stem": "A craft pattern that goes red, blue, red, blue is called a",
+   "stem": "A craft pattern that goes red, blue, red, blue is called a ___",
    "answer": "repeating pattern",
    "distractors": [
     "one-off pattern",
@@ -148,7 +148,7 @@
    ]
   },
   {
-   "stem": "An umbrella protects us from",
+   "stem": "An umbrella protects us from ___",
    "answer": "falling rain and hot sunshine",
    "distractors": [
     "the snake in the bush",
@@ -157,7 +157,7 @@
    ]
   },
   {
-   "stem": "The strong cloth stretched over an umbrella is called the",
+   "stem": "The strong cloth stretched over an umbrella is called the ___",
    "answer": "canopy",
    "distractors": [
     "carrying handle",
@@ -166,7 +166,7 @@
    ]
   },
   {
-   "stem": "The frame of wire that holds the canopy is called the",
+   "stem": "The frame of wire that holds the canopy is called the ___",
    "answer": "skeleton",
    "distractors": [
     "soft pillow",
@@ -175,7 +175,7 @@
    ]
   },
   {
-   "stem": "Vegetable printing uses",
+   "stem": "Vegetable printing uses ___",
    "answer": "the cut surface of an okra",
    "distractors": [
     "only a painting brush",
@@ -184,7 +184,7 @@
    ]
   },
   {
-   "stem": "Before printing with a vegetable, we spread paint on a",
+   "stem": "Before printing with a vegetable, we spread paint on a ___",
    "answer": "flat tray or plate",
    "distractors": [
     "bucket of water",
@@ -193,7 +193,7 @@
    ]
   },
   {
-   "stem": "The print left by an okra looks like",
+   "stem": "The print left by an okra looks like ___",
    "answer": "a little star or a flower",
    "distractors": [
     "a long straight road",
@@ -202,7 +202,7 @@
    ]
   },
   {
-   "stem": "Plasticine, which we mould with our hands, is a soft",
+   "stem": "Plasticine, which we mould with our hands, is a soft ___",
    "answer": "coloured clay",
    "distractors": [
     "sweet red fruit",
@@ -211,7 +211,7 @@
    ]
   },
   {
-   "stem": "A small ball and a rolled snake-like piece are the first",
+   "stem": "A small ball and a rolled snake-like piece are the first ___",
    "answer": "shapes for modelling",
    "distractors": [
     "songs for singing",
@@ -220,7 +220,7 @@
    ]
   },
   {
-   "stem": "To join two pieces of plasticine we",
+   "stem": "To join two pieces of plasticine we ___",
    "answer": "press them hard together",
    "distractors": [
     "blow air on them",
@@ -229,7 +229,7 @@
    ]
   },
   {
-   "stem": "Keeping paint off your uniform while you work is part of",
+   "stem": "Keeping paint off your uniform while you work is part of ___",
    "answer": "taking good care of materials and tools",
    "distractors": [
     "wasting the paint and materials",
@@ -238,7 +238,7 @@
    ]
   },
   {
-   "stem": "A drawing that shows a thing as it really looks is made with",
+   "stem": "A drawing that shows a thing as it really looks is made with ___",
    "answer": "patience and careful shading",
    "distractors": [
     "only a long ruler",
@@ -247,7 +247,7 @@
    ]
   },
   {
-   "stem": "The noise dance we do with simple instruments keeps the body",
+   "stem": "The noise dance we do with simple instruments keeps the body ___",
    "answer": "moving the feet and hands in time with the beat",
    "distractors": [
     "sitting completely still on the chair",
@@ -265,7 +265,7 @@
    ]
   },
   {
-   "stem": "A good artist at the end of an art lesson",
+   "stem": "A good artist at the end of an art lesson ___",
    "answer": "washes the brush and lays the work out to dry",
    "distractors": [
     "leaves the wet paint pot on the floor",

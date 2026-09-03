@@ -8,15 +8,7 @@ listening and grammar; speaking and writing; reading and grammar part 2; writing
 
 ### WEEK 1 — REVISION AND REVIEW OF YEAR ONE'S WORK
 
-**You will learn to**
-
-• review what we learnt in Year One
-
-• read simple words
-
-• write simple words
-
-**Things to know**
+**Main content**
 
 • In Year One we learnt the **alphabet**.
 
@@ -82,15 +74,7 @@ listening and grammar; speaking and writing; reading and grammar part 2; writing
 
 ### WEEK 2 — READING AND GRAMMAR (PART 1)
 
-**You will learn to**
-
-• read simple sentences
-
-• name nouns
-
-• use nouns
-
-**Things to know**
+**Main content**
 
 • We read simple **sentences**.
 
@@ -156,15 +140,7 @@ listening and grammar; speaking and writing; reading and grammar part 2; writing
 
 ### WEEK 3 — SPEAKING AND GRAMMAR
 
-**You will learn to**
-
-• speak clearly
-
-• use verbs
-
-• make sentences
-
-**Things to know**
+**Main content**
 
 • We **speak** English with care.
 
@@ -230,15 +206,7 @@ listening and grammar; speaking and writing; reading and grammar part 2; writing
 
 ### WEEK 4 — READING COMPREHENSION AND WRITING
 
-**You will learn to**
-
-• read and understand
-
-• answer questions
-
-• write sentences
-
-**Things to know**
+**Main content**
 
 • **Comprehension** means understanding what we read.
 
@@ -304,15 +272,7 @@ listening and grammar; speaking and writing; reading and grammar part 2; writing
 
 ### WEEK 5 — LISTENING AND GRAMMAR
 
-**You will learn to**
-
-• listen with care
-
-• name adjectives
-
-• describe things
-
-**Things to know**
+**Main content**
 
 • We **listen** with care and attention.
 
@@ -378,15 +338,7 @@ listening and grammar; speaking and writing; reading and grammar part 2; writing
 
 ### WEEK 6 — SPEAKING AND WRITING
 
-**You will learn to**
-
-• speak in sentences
-
-• write sentences
-
-• use capital letters and full stops
-
-**Things to know**
+**Main content**
 
 • We **speak** in full sentences.
 
@@ -452,15 +404,7 @@ listening and grammar; speaking and writing; reading and grammar part 2; writing
 
 ### WEEK 8 — READING AND GRAMMAR (PART 2)
 
-**You will learn to**
-
-• read longer passages
-
-• use pronouns
-
-• answer questions
-
-**Things to know**
+**Main content**
 
 • We read **longer** passages now.
 
@@ -526,15 +470,7 @@ listening and grammar; speaking and writing; reading and grammar part 2; writing
 
 ### WEEK 9 — WRITING AND HANDWRITING
 
-**You will learn to**
-
-• write neatly
-
-• form letters well
-
-• write short compositions
-
-**Things to know**
+**Main content**
 
 • **Handwriting** is how we write with a pen or pencil.
 

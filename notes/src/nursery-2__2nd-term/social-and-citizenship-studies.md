@@ -13,14 +13,7 @@ minimum extent of depth and is told in Nursery 2 language.*
 
 *Depth: NERDC Primary 1 · SCS · Second Term W3 (pp 657–658).*
 
-**You will learn to**
-
-• say what marriage is
-• name the kinds of marriage ceremony we have in Nigeria
-• say that marriage brings a family
-• name the duties of a husband and a wife
-
-**Things to know**
+**Main content**
 
 • **Marriage** is the day a man and a woman are joined to live together as **husband and wife**, before their families and before the law.
 • Marriage is the **beginning of a family**: the house, the children and the name all start from it.
@@ -65,14 +58,7 @@ Draw a wedding scene with the bride and groom in their cultural cloth, and write
 
 *Depth: NERDC Primary 1 · SCS · Second Term W4 (pp 657–658).*
 
-**You will learn to**
-
-• say what parenting means
-• name what parents must give a child
-• tell what makes a good parent
-• say what the child owes back
-
-**Things to know**
+**Main content**
 
 • **Parenting** is the work of raising a child — feeding, keeping, teaching and loving until the child can stand alone.
 • A **parent** is a father, a mother, or the person who stands in their place; **guardian** is the grown-up who keeps a child that is not their own.
@@ -119,14 +105,7 @@ Draw two things that keep your home tidy and colour them.
 
 *Depth: NERDC Primary 1 · SCS · Second Term W7 (pp 657–658), with NERDC Nursery 2 · Social Habits · First Term W2 (pp 379–382) for the same topic in our own band.*
 
-**You will learn to**
-
-• name the work of each person in my family
-• say what a father and a mother do
-• say what my own role is as a child
-• tell the work of grandparents, uncles and aunts
-
-**Things to know**
+**Main content**
 
 • A **family** is the group of people who live together and keep one another: father, mother and children, and often the grandparents.
 • **Father's role**: he **provides** (work, money, food, school fees), **protects** the house, **guides and teaches** the children, and **plays with** them.
@@ -171,14 +150,7 @@ List the members of your family and write one duty each of them carries; then wr
 
 *Depth: NERDC Primary 1 · SCS · Second Term W8 (Culture Part 1) and W9 (Culture Part 2), pp 657–658 — the school keeps both parts in one week.*
 
-**You will learn to**
-
-• say what culture is
-• name the elements of culture
-• tell the dress, food and greeting of our people
-• say how our culture is kept
-
-**Things to know**
+**Main content**
 
 • **Culture** is **the way of life of a people**: what they speak, eat, wear, greet, marry, bury, sing and celebrate.
 • Culture is learnt, not born with: we catch it from the home, the street and the elders.
@@ -224,14 +196,7 @@ Write or draw four things your family keeps from its culture: the language you s
 
 *Depth: NERDC Primary 1 · SCS · Second Term W10 (pp 657–658).*
 
-**You will learn to**
-
-• say that Nigeria is our country and where it is
-• name the states and the capital
-• name our languages and religions
-• say our national motto and know my own state
-
-**Things to know**
+**Main content**
 
 • **Nigeria is our country**; it is in **West Africa**, and it faces the sea in the south — the **Atlantic (Bight of Benin)**.
 • Nigeria's neighbours: **Benin Republic** on the west, **Niger** on the north, **Chad** on the north-east, **Cameroon** on the east.
@@ -277,14 +242,7 @@ Write the name of your state, its capital, your local government and one thing t
 
 *Depth: NERDC Primary 1 · SCS · Third Term W1 (pp 659–661).*
 
-**You will learn to**
-
-• say what an attitude is and what a value is
-• tell a good attitude from a bad one
-• name the core values of Nigeria
-• show honesty and hard work in class
-
-**Things to know**
+**Main content**
 
 • An **attitude** is how I **think and feel** about a thing, and how that shows in what I do.
 • A **value** is what I hold to be **important and right** — the thing I will not sell.
@@ -332,14 +290,7 @@ Draw one kind thing you did this week and colour it.
 
 *Depth: NERDC Primary 1 · SCS · Third Term W2 (Part 1) and W3 (Part 2), pp 659–661 — the school keeps both in one week.*
 
-**You will learn to**
-
-• say what danger is and name its kinds
-• tell who can help me and when to run to them
-• keep calm, speak clearly and give my name and place
-• keep safe from strangers
-
-**Things to know**
+**Main content**
 
 • **Danger** is any situation that can **harm** us — the body, the eyes, the breath or the life.
 • Kinds of danger a child meets: **fire, road accidents, getting lost, strangers, bad weather (storm, flood, lightning), deep water, electric wire, sharp objects, poison, a mad dog**.
@@ -388,14 +339,7 @@ Draw a telephone with the three digits you may dial in danger, and colour the ph
 
 *Depth: NERDC Primary 1 · SCS · Third Term W4 (Secure Environment Part 1, pp 659–661).*
 
-**You will learn to**
-
-• say what a secure environment is
-• name the things that make a place safe
-• find the dangers around my home and school
-• report a danger I see
-
-**Things to know**
+**Main content**
 
 • A **secure environment** is a place where people are **safe from harm** — body, property and feelings all protected.
 • Things that make a place secure: **a fence and a gate, locks on doors, lights that work at night, a watchman or security guard, a dog that is known, windows with bars, and neighbours who know one another.**

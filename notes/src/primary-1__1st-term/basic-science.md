@@ -10,14 +10,7 @@ Closing: no lesson is written for a week the school keeps for those.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W1 (surroundings: road).*
 
-**You will learn to**
-
-• point to a road in my community
-• tell a tarred road from an untarred road and a pathway
-• say what a road is used for
-• cross the road the safe way
-
-**Things to know**
+**Main content**
 
 • A **road** is the way that vehicles and people move from place to place.
 • A **tarred road** is smooth and black because tar was put on it.
@@ -59,14 +52,7 @@ Draw the road near my house and put one car and one person walking on it.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W2 (environment and colour).*
 
-**You will learn to**
-
-• say what the environment is
-• name things I see in my environment
-• tell the primary colours
-• sort things by their colour
-
-**Things to know**
+**Main content**
 
 • The **environment** is everything around us at home and at school.
 • In my environment I see trees, houses, people, animals and the sky.
@@ -107,14 +93,7 @@ Look around my room at home and draw two things I see, then colour them.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W3 (basic shapes).*
 
-**You will learn to**
-
-• name the circle, square, triangle and rectangle
-• say how many corners a shape has
-• find shapes in my environment
-• trace and draw basic shapes
-
-**Things to know**
+**Main content**
 
 • A **circle** is round like a ball or a wheel and has no corners.
 • A **square** has four equal sides and four corners.
@@ -155,14 +134,7 @@ Find three shapes in my house and draw each one in my notebook.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W4 (more shapes and solids).*
 
-**You will learn to**
-
-• name the oval, diamond, star and heart
-• compare shapes that are big and small
-• make a picture using shapes
-• know a ball, a box and a tin as solid shapes
-
-**Things to know**
+**Main content**
 
 • An **oval** is like a circle that was stretched, like an egg.
 • A **star** has five points and we see it in the night sky.
@@ -203,14 +175,7 @@ Use shapes to draw a house: a square for the walls and a triangle for the roof.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W5 (living things).*
 
-**You will learn to**
-
-• say what a living thing is
-• tell the things living things do
-• name living things at home and on the farm
-• say what living things need to live
-
-**Things to know**
+**Main content**
 
 • **Living things** are things that have life, like humans, animals and plants.
 • Living things **move**, **eat**, **grow** and **breathe**.
@@ -251,14 +216,7 @@ Water one plant at home and watch it for a week, then draw it.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W6 (non-living things).*
 
-**You will learn to**
-
-• say what a non-living thing is
-• tell non-living things from living things
-• name natural and man-made non-living things
-• say how non-living things help us
-
-**Things to know**
+**Main content**
 
 • **Non-living things** do not eat, grow, breathe or move on their own.
 • A stone, water, air, a chair and a book are non-living things.
@@ -299,14 +257,7 @@ Look around my home and draw two non-living things I use every day.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W8 (surroundings: air).*
 
-**You will learn to**
-
-• say what air is
-• feel air by blowing and fanning
-• tell the uses of air
-• say what wind is
-
-**Things to know**
+**Main content**
 
 • **Air** is all around us; we cannot see it but we can feel it.
 • We feel air when we blow, wave or fan.
@@ -347,14 +298,7 @@ Blow on my hand and draw what I used to feel the air, like a fan or a balloon.
 
 *Depth: NERDC Primary 1 · Basic Science · First Term W9 (surroundings: soil).*
 
-**You will learn to**
-
-• say what soil is
-• tell where we find soil
-• name the types of soil by look
-• say the uses of soil
-
-**Things to know**
+**Main content**
 
 • **Soil** is the top part of the ground where plants grow.
 • We find soil on the ground, in gardens, on farms and in flower pots.

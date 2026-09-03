@@ -5,49 +5,45 @@ class: Nursery 2
 term: 1st Term
 
 [objective]
-The five vowels are || a, e, i, o, u || b, c, d, f, g || a, b, c, d, e || x, y, z, w, q
-Letters that are not vowels are called || consonants || numbers || names || sounds
-The vowel in the word "cat" is || a || c || t || none
+Letters that are not vowels are called ___ || consonants || numbers || names || sounds
+The vowel in the word "cat" is ___ || a || c || t || none
 Which of these words has two vowels? || book || cat || dog || pen
-A letter that sometimes works as a vowel is || y || b || k || t
-The sound /d/ is the first sound in || dog || owl || sun || fan
-The letters d, a, i, m are four || sounds we learnt to blend || words we learnt to read || names of colours || signs in sums
-d-i-m spells || dim || mid || mad || dam
-The letter among our four sounds that is written with a dot on top is || i || d || m || a
-"mum" begins with the sound || /m/ || /n/ || /u/ || /a/
-A sight word is a word that || I read at once, without sounding it out || must be sounded out every single time || is always the name of a person || has no fewer than six letters
-The word that points at the person being spoken to is || you || me || her || it
-"We" means || me and other people together || only myself, and nobody else || one girl or one woman || a thing that I put on
-A sight word that is about a girl or a woman is || her || we || you || go
-The word that is always written big, even in the middle of a sentence, is || I || a || go || car
-"car" is a || thing (noun) || doing word (verb) || sound || letter
+A letter that sometimes works as a vowel is ___ || y || b || k || t
+The sound /d/ is the first sound in ___ || dog || owl || sun || fan
+The letters d, a, i, m are four ___ || sounds we learnt to blend || words we learnt to read || names of colours || signs in sums
+d-i-m spells ___ || dim || mid || mad || dam
+"mum" begins with the sound ___ || /m/ || /n/ || /u/ || /a/
+A sight word is a word that ___ || I read at once, without sounding it out || must be sounded out every single time || is always the name of a person || has no fewer than six letters
+The word that points at the person being spoken to is ___ || you || me || her || it
+"We" means ___ || me and other people together || only myself, and nobody else || one girl or one woman || a thing that I put on
+A sight word that is about a girl or a woman is ___ || her || we || you || go
+The word that is always written big, even in the middle of a sentence, is ___ || I || a || go || car
+"car" is a ___ || thing (noun) || doing word (verb) || sound || letter
 Which sentence is written in the right order? || I go in the car. || Go I car in. || Car I in go. || In car go I.
-A sentence I can build from my sight words is || This is the car || Is car the this || Car this is the || This car is the the
-The most common word in English is || the || car || go || her
-"They" is a word that points to || more people or things already spoken of || one single thing that is near me || myself and my own name only || the place where I sleep at night
-A digraph is || two letters that make one sound || two sounds in one letter || a word of six letters || a capital letter
-The digraph at the end of "duck" is || ck || th || sh || wh
-In the word "think", the first sound is || /th/ with the voice switched off || /t/ with a hard kick of air || /f/ made with the lips || /s/ drawn out at the end
-The two letters in "what" are || wh || ch || sh || ck
-"ph" is pronounced like || /f/ || /p/ || /ph/ || /v/
-Which of these words carries the digraph "sh"? || ship || soap || step || chat
-The digraph in "much" is || ch || sh || th || ck
-The correct spelling of the picture-taking machine is || phone || fone || phoan || pone
-Photo, she and chart each contain || a digraph || a blend || two vowels || six letters
-In the blend "pl" I hear || both sounds: /p/ and then /l/ || the sound /p/ only, with /l/ silent || the sound /l/ only, with /p/ silent || no sound at all
-A blend is different from a digraph because in a blend || each consonant is still heard || the letters are silent || a vowel replaces them || only one letter is written
-"greet" begins with the blend || gr || g || r || ee
-"fly" begins with the blend || fl || f || y || ly
-My sight words at the end of the term are || thirteen || four || seven || twenty-one
+The most common word in English is ___ || the || car || go || her
+"They" is a word that points to ___ || more people or things already spoken of || one single thing that is near me || myself and my own name only || the place where I sleep at night
+A digraph is ___ || two letters that make one sound || two sounds in one letter || a word of six letters || a capital letter
+The digraph at the end of "duck" is ___ || ck || th || sh || wh
+In the word "think", the first sound is ___ || /th/ with the voice switched off || /t/ with a hard kick of air || /f/ made with the lips || /s/ drawn out at the end
+The two letters in "what" are ___ || wh || ch || sh || ck
+"ph" is pronounced like ___ || /f/ || /p/ || /ph/ || /v/
+The digraph in "much" is ___ || ch || sh || th || ck
+The correct spelling of the picture-taking machine is ___ || phone || fone || phoan || pone
+Photo, she and chart each contain ___ || a digraph || a blend || two vowels || six letters
+In the blend "pl" I hear ___ || both sounds: /p/ and then /l/ || the sound /p/ only, with /l/ silent || the sound /l/ only, with /p/ silent || no sound at all
+A blend is different from a digraph because in a blend ___ || each consonant is still heard || the letters are silent || a vowel replaces them || only one letter is written
+"greet" begins with the blend ___ || gr || g || r || ee
+"fly" begins with the blend ___ || fl || f || y || ly
+My sight words at the end of the term are ___ || thirteen || four || seven || twenty-one
 
 [subobjective]
 Write the five vowels and say how many consonants there are. :: a e i o u | 21 consonants
 Count the vowels in the word "banana" and say which they are. :: three of them | a, a, a
 Blend these and write the words: d-a-d, m-a-n, s-u-n. :: dad | man | sun
-Read and copy: "I see her car." and "They go with them." :: correct copying of both sentences
+Read and copy: "I see her car." and "They go with them." :: correct | copying | of | both | sentences
 Name the four sight words learnt in Week 3 and the three learnt in Week 6. :: you, me, her, we | the, this, they
 Underline every digraph in this line: "They took the black clock home." :: th (they, the) | ck (black, clock)
-Write two words each with th, ck, wh, ph, sh and ch. :: any correct pairs: this/think, back/duck, what/when, phone/photo, ship/fish, chair/much
+Write two words each with th, ck, wh, ph, sh and ch. :: any correct pairs: this/think | back/duck | what/when | phone/photo | ship/fish | chair/much
 Name the three blends of Week 9 and one word for each. :: pl — play | fl — fly | gr — greet
 Say a sentence using "this" and a sentence using "they". :: This is the fan. | They see me. (any correct use)
 Mention two rules for reading a sentence well. :: read aloud, slowly | mouth open, left to right | go back to the word you did not know

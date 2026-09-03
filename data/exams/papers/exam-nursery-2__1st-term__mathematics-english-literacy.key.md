@@ -7,15 +7,15 @@
 
 **Sections B & C (marking guide)**
 
-31. a b c d e f
+31. a; b; c; d; e; f
 32. apple; ball or bat; cat or cup; dog or doll
 33. m mat; n net; o orange; p pen; q queen; r rat
-34. cat bat rat mat hat sat fat
+34. cat; bat; rat; mat; hat; sat; fat
 35. pen hen ten men; pin tin bin win fin
-36. g j p q y
-37. big bug sat log
+36. g; j; p; q; y
+37. big; bug; sat; log
 38. the rat; the mat and the sun; outside in the yard; the rat found shade
-39. s t u v w x y z
+39. s; t; u; v; w; x; y; z
 40. /ʃ/; /tʃ/; /θ/ or /ð/; /f/; /w/; /k/
 41. 
 42. 

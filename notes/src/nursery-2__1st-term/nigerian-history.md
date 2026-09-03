@@ -10,14 +10,7 @@ band two classes earlier, so the Primary 1 list stands as the floor and is told 
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W1 (pp 649–650).*
 
-**You will learn to**
-
-• say what history is in one line
-• give an example of the past from my own life
-• name the people and things that tell us about the past
-• say one reason we learn history
-
-**Things to know**
+**Main content**
 
 • **History is the story of the past** — of what happened before now.
 • Yesterday is past. Last week is past. Last year is past. This very minute, when it has gone, is past too.
@@ -63,14 +56,7 @@ Draw three things that were here before you were born and colour the oldest one.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W2 (pp 649–650).*
 
-**You will learn to**
-
-• say which family I belong to
-• say where my people come from
-• name a lesson the past teaches
-• draw my family tree
-
-**Things to know**
+**Main content**
 
 • History is about **identity**: to which family do I belong? Every family has a name, and my name is part of it.
 • "I am a child of the ______ family." That family name came from my grandfather, and his father before him.
@@ -113,14 +99,7 @@ Finish your family tree and write one thing your family is known for under it.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W3 (pp 649–650).*
 
-**You will learn to**
-
-• say what a community is
-• name the people who live around me
-• name the people who help us in the community
-• greet a neighbour well
-
-**Things to know**
+**Main content**
 
 • A **community** is the people and the places around us — the street, the houses, the shops, the church and the mosque, the field where children play.
 • In our community there are **different people**: children, youths, mothers, fathers, grandmothers, teachers, drivers, traders, the watchman.
@@ -163,14 +142,7 @@ Draw three people who help people in your community and write one thing each of 
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W4 (pp 649–650).*
 
-**You will learn to**
-
-• name the three major ethnic groups of Nigeria
-• say one thing each group is known for
-• name other groups living in our community
-• say how we treat people of other groups
-
-**Things to know**
+**Main content**
 
 • Nigeria has many peoples. The three **major ethnic groups** are the **Hausa**, the **Igbo** and the **Yoruba**.
 • The **Hausa** are mainly in the **north**; they greet with **"Sannu"**; they eat **tuwo** with soup; the big embroidered robe is the **babban riga**.
@@ -213,14 +185,7 @@ Write the names of the three groups and draw one food that any of them eats.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W7 (pp 649–650).*
 
-**You will learn to**
-
-• name the important places in our community
-• say what each place is used for
-• say how we behave in each place
-• tell where help is found in an emergency
-
-**Things to know**
+**Main content**
 
 • Important places: **school, hospital, market, church, mosque, police station, fire station, park and playground**, the motor park, the bank, the post office.
 • The **school** is where we learn; we come on time and we carry our books.
@@ -263,14 +228,7 @@ Draw two places in your community and write what each one is used for.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W8 (pp 649–650).*
 
-**You will learn to**
-
-• name the traditional places in our community
-• say who rules in the palace and what he does
-• say what the community hall is used for
-• describe one old thing in our area
-
-**Things to know**
+**Main content**
 
 • Besides the hospital and the market, every town has **old, traditional places**: the **palace**, the **community hall**, and sometimes a **monument**.
 • The **palace** is the home of the **traditional ruler**. In Yorubaland he is the **Oba** (in some towns the Aláàfin, the Deji, the Olú); in the north he is the **Emir**; in Igboland he may be the **Igwe** or the eldest man of the kindred.
@@ -313,14 +271,7 @@ Draw the palace or the community hall and write one line about what happens ther
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W9 (pp 649–650).*
 
-**You will learn to**
-
-• say what tolerance means
-• name ways of respecting people of other groups
-• say why we play and learn together
-• give examples of sharing and caring
-
-**Things to know**
+**Main content**
 
 • **Tolerance** means: other people are different from me, and that is all right.
 • Different things about people: their name, their language, their food, their cloth, their place of worship, the way they greet.
@@ -364,14 +315,7 @@ Write three ways you will show tolerance in this class next week.
 
 *Depth: NERDC Primary 1 · Nigerian History · First Term W10 (pp 649–650).*
 
-**You will learn to**
-
-• say that Nigeria is one country with many peoples
-• name the differences among Nigerians
-• describe how our diversity is celebrated
-• identify the Nigerian flag and say what it represents
-
-**Things to know**
+**Main content**
 
 • **Nigeria is one country with many peoples** — more than **two hundred and fifty** groups live inside it.
 • Our differences: **languages** (Hausa, Igbo, Yoruba, Tiv, Nupe, Ijaw and the rest), **foods** (garri, tuwo, fufu, eba, rice), **cloths** (agbádá, babban riga, George wrapper, àdìrè), and **festivals**.

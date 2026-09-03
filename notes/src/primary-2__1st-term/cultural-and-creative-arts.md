@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — ART: DRAWING AND PAINTING
 
-**You will learn to**
-
-• draw simple pictures
-
-• paint with colours
-
-• use art tools
-
-**Things to know**
+**Main content**
 
 • **Art** is making pictures and beautiful things.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — COLOURS
 
-**You will learn to**
-
-• name primary colours
-
-• name secondary colours
-
-• mix colours
-
-**Things to know**
+**Main content**
 
 • **Colours** make things beautiful.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — CRAFT AND MODELLING
 
-**You will learn to**
-
-• make simple crafts
-
-• model with clay
-
-• use craft materials
-
-**Things to know**
+**Main content**
 
 • A **craft** is something we make with our hands.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — MUSIC AND SINGING
 
-**You will learn to**
-
-• sing songs
-
-• name musical sounds
-
-• enjoy music
-
-**Things to know**
+**Main content**
 
 • **Music** is the sound we make with our voice or instruments.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — DANCE
 
-**You will learn to**
-
-• dance to music
-
-• name types of dance
-
-• move the body well
-
-**Things to know**
+**Main content**
 
 • **Dance** is moving the body to music.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — DRAMA AND ROLE PLAY
 
-**You will learn to**
-
-• act out stories
-
-• play roles
-
-• enjoy drama
-
-**Things to know**
+**Main content**
 
 • **Drama** is acting out a story.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — LOCAL CRAFTS
 
-**You will learn to**
-
-• name local crafts
-
-• say how they are made
-
-• value our crafts
-
-**Things to know**
+**Main content**
 
 • **Local crafts** are things our people make.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — OUR CULTURE
 
-**You will learn to**
-
-• say what culture is
-
-• name parts of our culture
-
-• respect our culture
-
-**Things to know**
+**Main content**
 
 • **Culture** is the way of life of a people.
 

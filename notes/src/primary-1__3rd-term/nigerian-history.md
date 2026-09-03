@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — NIGERIA'S INDEPENDENCE
 
-**You will learn to**
-
-• say what independence is
-
-• say when Nigeria became independent
-
-• rejoice in our freedom
-
-**Things to know**
+**Main content**
 
 • **Independence** is freedom to rule ourselves.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — OUR FIRST LEADERS
 
-**You will learn to**
-
-• name Nigeria's first leaders
-
-• say what they did
-
-• respect our leaders
-
-**Things to know**
+**Main content**
 
 • **Nnamdi Azikiwe** was Nigeria's first President.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — UNITY IN DIVERSITY
 
-**You will learn to**
-
-• say what unity in diversity means
-
-• name Nigeria's ethnic groups
-
-• live in unity
-
-**Things to know**
+**Main content**
 
 • Nigeria has many **ethnic groups**.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — NIGERIAN LANGUAGES
 
-**You will learn to**
-
-• name major Nigerian languages
-
-• say why we have many languages
-
-• respect all languages
-
-**Things to know**
+**Main content**
 
 • Nigeria has many **languages**.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — TRADITIONAL RELIGION AND BELIEFS
 
-**You will learn to**
-
-• say what traditional religion is
-
-• name some traditional beliefs
-
-• respect all religions
-
-**Things to know**
+**Main content**
 
 • **Traditional religion** is the old way our people worshipped.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — TRADE IN THE PAST
 
-**You will learn to**
-
-• say how people traded in the past
-
-• name things they traded
-
-• know the value of trade
-
-**Things to know**
+**Main content**
 
 • In the past, people **traded** by barter.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — NIGERIA TODAY
 
-**You will learn to**
-
-• say what Nigeria is like today
-
-• name things Nigeria has
-
-• love my country
-
-**Things to know**
+**Main content**
 
 • Nigeria is a great country in **West Africa**.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — BEING A GOOD NIGERIAN
 
-**You will learn to**
-
-• say how to be a good Nigerian
-
-• name duties of a good Nigerian
-
-• serve my country
-
-**Things to know**
+**Main content**
 
 • A good Nigerian loves his or her **country**.
 

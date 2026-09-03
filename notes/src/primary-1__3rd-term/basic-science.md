@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — ENERGY AROUND US
 
-**You will learn to**
-
-• say what energy is
-
-• name sources of energy
-
-• say what energy does
-
-**Things to know**
+**Main content**
 
 • **Energy** is the power to do work.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — PUSH AND PULL
 
-**You will learn to**
-
-• say what a push is
-
-• say what a pull is
-
-• push and pull objects
-
-**Things to know**
+**Main content**
 
 • A **push** moves a thing away from us.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — SIMPLE MACHINES
 
-**You will learn to**
-
-• say what a simple machine is
-
-• name simple machines
-
-• use simple machines
-
-**Things to know**
+**Main content**
 
 • A **machine** is a tool that makes work easier.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — GROWTH AND CHANGE
 
-**You will learn to**
-
-• say how living things grow
-
-• name the stages of growth
-
-• care for my growth
-
-**Things to know**
+**Main content**
 
 • Living things **grow** and change.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — ELECTRICITY AND SAFETY
 
-**You will learn to**
-
-• say what electricity does
-
-• name things that use electricity
-
-• be safe with electricity
-
-**Things to know**
+**Main content**
 
 • **Electricity** gives energy to many things.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — MAGNETS
 
-**You will learn to**
-
-• say what a magnet is
-
-• say what a magnet attracts
-
-• use a magnet
-
-**Things to know**
+**Main content**
 
 • A **magnet** is a thing that pulls some metals.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — WASTE AND RECYCLING
 
-**You will learn to**
-
-• say what waste is
-
-• name ways to handle waste
-
-• reuse and recycle
-
-**Things to know**
+**Main content**
 
 • **Waste** is a thing we no longer need.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — CARING FOR OUR ENVIRONMENT
 
-**You will learn to**
-
-• say what the environment is
-
-• name ways to care for it
-
-• keep our environment clean
-
-**Things to know**
+**Main content**
 
 • The **environment** is all that is around us.
 

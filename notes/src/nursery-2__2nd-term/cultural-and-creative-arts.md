@@ -11,14 +11,7 @@ Week 12 Closing — those weeks carry no note.
 
 *Depth: NERDC Nursery 2 · Creativity · Second Term W4 (pp 415–417); Nursery 3 · Creativity · Second Term W4 (pp 568–571).*
 
-**You will learn to**
-
-• say what a fan is for
-• cut and fold a fan from cardboard or thick paper
-• fix a handle to my fan
-• decorate my fan with a pattern I made myself
-
-**Things to know**
+**Main content**
 
 • A **fan** is a flat thing we move to and fro so that air comes to us — it keeps us **cool**.
 • Two kinds we can make: the **paddle fan** (one flat piece with a handle) and the **folding fan** (paper folded like a fan and joined at one end).
@@ -66,14 +59,7 @@ Wave-test your fan at home on a hot afternoon and write one line about whether i
 
 *Depth: NERDC Nursery 3 · Creativity · Second Term W7 (pp 568–571).*
 
-**You will learn to**
-
-• splash paint on paper in a controlled way
-• wear my apron and cover my table first
-• mix two colours and watch a third appear
-• say what abstract art means
-
-**Things to know**
+**Main content**
 
 • **Colour splash (splatter) art** is made by throwing small drops of paint on paper — not by drawing lines.
 • Before paint touches anything: **apron on, table covered, sleeves up**; paint that dries on cloth is very hard to remove.
@@ -120,14 +106,7 @@ Make one splash picture on a small sheet that says "rainy day" and one that says
 
 *Depth: NERDC Nursery 2 · Creativity · Second Term W8 (pp 415–417); Nursery 3 · Second Term W8 (pp 568–571).*
 
-**You will learn to**
-
-• draw or trace the body of a hedgehog
-• make spikes with a fork and with paper strips
-• colour the animal brown or grey
-• put my hedgehog in a home of leaves and grass
-
-**Things to know**
+**Main content**
 
 • A **hedgehog** is a small animal with a **round body, a pointed nose, short legs and many spikes** on its back.
 • It rolls into a ball of spikes when it is frightened; the soft front is what it keeps safe.
@@ -174,14 +153,7 @@ Make a second hedgehog in the same size from only paper (no paint), then compare
 
 *Depth: NERDC Nursery 2 · Creativity · Second Term W9 (Paper Collage, pp 415–417) and Third Term W1 (Friendship Tree, pp 418–420) — the school keeps both in one week, so this note takes both.*
 
-**You will learn to**
-
-• tear and cut coloured paper into small pieces
-• stick the pieces inside a drawn shape
-• make a tree that carries the names of my friends
-• say what patience does for my work
-
-**Things to know**
+**Main content**
 
 • A **collage** is a picture made by **sticking pieces of material** on a surface.
 • Tearing gives soft, feathered edges; cutting gives hard, straight edges — good pictures use both.
@@ -228,14 +200,7 @@ Cut five small pieces of paper and make a house on a fresh sheet with them: roof
 
 *Depth: NERDC Nursery 2 · Creativity · Third Term W2 (pp 418–420); Nursery 3 · Second Term W11 (pp 568–571).*
 
-**You will learn to**
-
-• thread beads in a pattern
-• make a necklace, a bracelet and a ring
-• match colours that look good together
-• keep small things away from the mouth
-
-**Things to know**
+**Main content**
 
 • **Jewellery** is the ornament people wear: necklace, bracelet, ring, anklet and bead for the wrist.
 • Safe materials: **big beads, painted pasta shells, buttons, paper beads, pieces of straw, thread or yarn**.
@@ -282,14 +247,7 @@ Make one bracelet for somebody at home from the last of your beads, and say what
 
 *Depth: NERDC Nursery 3 · Creativity · Third Term W2 (pp 572–575).*
 
-**You will learn to**
-
-• cut shapes from craft foam
-• glue foam on paper in layers
-• tell a flat collage from a 3D one
-• say why a soft material is fun to build with
-
-**Things to know**
+**Main content**
 
 • A **foam collage** is a picture made by sticking **cut pieces of foam or soft rubber** on paper.
 • Foam comes in **craft foam sheets**, in old **slippers**, in **sponge** and in the packing foam things are sold in.
@@ -336,14 +294,7 @@ Cut three foam shapes and build an animal with them on a card — two shapes mus
 
 *Depth: NERDC Nursery 2 · Creativity · Third Term W4 (pp 418–420); Nursery 3 · Third Term W3 (pp 572–575).*
 
-**You will learn to**
-
-• put glue only where the sand must stick
-• sprinkle sand and shake off the extra
-• use sand of different colours
-• say what texture a sand picture has
-
-**Things to know**
+**Main content**
 
 • A **sand collage** is a picture with parts of it covered in sand, so that it feels **rough and grainy**.
 • Steps: draw the picture → paint glue on one small area at a time → **sprinkle** sand over it → **shake off** what did not stick → let it dry.
@@ -390,14 +341,7 @@ Collect a little sand at home, dry it on paper in the sun, and use it to fill on
 
 *Depth: NERDC Nursery 2 · Creativity · Third Term W8 (pp 418–420); Nursery 3 · Third Term W8 (pp 572–575).*
 
-**You will learn to**
-
-• roll paper into a cone
-• fix the cone so that it keeps its shape
-• decorate my hat with ribbons, stars and colour
-• wear my hat in the class parade
-
-**Things to know**
+**Main content**
 
 • A **cone hat** is a hat that comes to a point at the top, like a party hat or the cap of a fishing net.
 • Roll a **fan-shaped piece** of cardboard: the wide arc becomes the bottom, the point becomes the top.

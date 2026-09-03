@@ -12,14 +12,7 @@ the marks that end a sentence, from the pack's off-by-one mapping.*
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W1.*
 
-**You will learn to**
-
-• read the sight words we learnt, without stopping
-• put words in a line and read the whole sentence out
-• begin a sentence big, leave room between words, and end with a full stop
-• match a sentence to the picture it tells about
-
-**Things to know**
+**Main content**
 
 • A **sight word** is a word we know at once, the way we know a face: **I, a, the, is, am, and, it, in, at,
   on, he, she, we, me, my, to, go, no, up, can**.
@@ -69,14 +62,7 @@ Draw one picture of what you do in the morning, then write one sentence about it
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W2.*
 
-**You will learn to**
-
-• count the letters in a word on your fingers
-• put five sounds together and say the word
-• read words where two consonants or two letters go together
-• use a long word in a sentence of your own
-
-**Things to know**
+**Main content**
 
 • **plant** has five letters: **p-l-a-n-t**; we say the five sounds and join them at once.
 • Words can begin with **two consonants joined**: **pl**ant, **br**ush, **st**amp, **st**and, **dr**ink,
@@ -125,14 +111,7 @@ Draw the five things — a plant, a brush, a stamp, a cup to drink from and a bo
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W3.*
 
-**You will learn to**
-
-• say the two small words inside a big word
-• join two words to make a new one
-• part a joined word and say what each part meant
-• read a line that carries a joined word
-
-**Things to know**
+**Main content**
 
 • Two words can hold hands and become **one word**: this is a **compound word**.
 • **sun + set = sunset** — the time the sun goes down; **rain + bow = rainbow** — the colour band after rain.
@@ -183,14 +162,7 @@ Draw a sunset with a rainbow over it, a ball at the foot of a child, and a bed i
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W4.*
 
-**You will learn to**
-
-• read a short story of words we already know
-• say who is in the story and where it happens
-• tell what happened first, next and last
-• answer with a whole line, not one word
-
-**Things to know**
+**Main content**
 
 • A story has three parts: the **beginning**, the **middle** and the **end**.
 • The **characters** are the people or animals the story is about; the **setting** is where and when it
@@ -240,14 +212,7 @@ Draw our hen story in three boxes — beginning, middle and end — and put a nu
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W7 (Nursery floor).*
 
-**You will learn to**
-
-• use a colour word before a thing
-• say how big, how tall or how long a thing is
-• use words for how a thing feels or is
-• put one describing word in each of two sentences
-
-**Things to know**
+**Main content**
 
 • A word that tells us what a thing is **like** is a **describing word**.
 • Colour words: **red, blue, green, yellow, black, white, brown, pink, orange, purple**.
@@ -294,14 +259,7 @@ Draw a big dog and a small dog, a tall tree and a short tree, and a snail with a
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W8 (Nursery floor).*
 
-**You will learn to**
-
-• name the words that tell what somebody does
-• show an action word with the body
-• put an action word in a sentence about yourself
-• match the action in a picture to its word
-
-**Things to know**
+**Main content**
 
 • A word that tells what somebody or something **does** is an **action word**.
 • Our first list: **run, jump, walk, sit, stand, eat, drink, sleep, play, read, write, draw**.
@@ -350,14 +308,7 @@ the action word for each.
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W9.*
 
-**You will learn to**
-
-• look at three pictures and say the story they hold
-• write a beginning, a middle and an end
-• use the sight words we know inside our lines
-• read our story to the class
-
-**Things to know**
+**Main content**
 
 • A story we write ourselves can be **three lines long** — that is already a story.
 • First line: **who** and **where**. Second line: **what happened**. Third line: **how it ended**.
@@ -406,14 +357,7 @@ Draw three boxes and tell your own story in them, then write one line of words u
 
 *Depth: NERDC Nursery 3 · Literacy · Third Term W10.*
 
-**You will learn to**
-
-• begin a sentence and a name with a big letter
-• put a full stop where a sentence ends
-• use a question mark and an exclamation mark rightly
-• leave the right room between words so the page is neat
-
-**Things to know**
+**Main content**
 
 • A **big letter** (a capital) begins every sentence: **"The dog runs."**
 • A name takes a big letter too: **Ada**, **Tunde**, **Bola**, **Musa**, and the name of our own town.

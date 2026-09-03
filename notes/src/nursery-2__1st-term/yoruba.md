@@ -14,13 +14,7 @@ child reads the word correctly, and the topic line is left exactly as the school
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 F1 W1.*
 
-**You will learn to**
-
-• name things in the classroom in Yoruba
-• greet an elder the Yoruba way
-• say the words of a small song on cleanliness and respect
-
-**Things to know — Ẹ̀dẹ̀ (naming things in the room)**
+**Main content — Ẹ̀dẹ̀ (naming things in the room)**
 
 • yàrá ìkáwé — the classroom
 • tébèèlì — table · ìgáòkó — chair · pátákó — the board
@@ -29,7 +23,7 @@ child reads the word correctly, and the topic line is left exactly as the school
 • Pattern of speech: **"Èyí ni ______."** (This is a ______.)
 • Naming game: I touch a thing and say its Yoruba name; my friend says it back.
 
-**Things to know — Àṣà (greeting in Yorubaland)**
+**Main content — Àṣà (greeting in Yorubaland)**
 
 • In Yorubaland we **greet**; we do not walk past a person in silence.
 • **Ẹ́ káàárọ̀** — good morning · **Ẹ́ káàṣánṣá** — good afternoon · **Ẹ́ káàlẹ̀** — good evening
@@ -38,7 +32,7 @@ child reads the word correctly, and the topic line is left exactly as the school
 • When an elder greets me, I stop what I am doing and answer.
 • Greeting is the first lesson of Yoruba manners: **àgànmọ́** (good character).
 
-**Things to know — Lítíréṣọ̀ (the small song)**
+**Main content — Lítíréṣọ̀ (the small song)**
 
 • Orin kékeré — a small song. We sing it twice, then we do the actions.
 • *"Ìmọ̀tọ̀́ tọ́, ìbàwọ̀n rẹ̀;* — cleanliness is right, and respect goes with it;
@@ -78,13 +72,7 @@ Draw five things in your classroom and colour them; say each Yoruba name as you 
 
 *Depth: school-generated — three strands as printed for N2 F1 W2.*
 
-**You will learn to**
-
-• count from one to ten in Yoruba
-• name the marks of good character
-• say a small warning song for children
-
-**Things to know — Ẹ̀dẹ̀ (counting 1–10)**
+**Main content — Ẹ̀dẹ̀ (counting 1–10)**
 
 • **ọ̀kan** 1 · **èjì** 2 · **ẹ̀ta** 3 · **ẹ̀rin** 4 · **àárún** 5
 • **ẹ̀fà** 6 · **ẹ̀je** 7 · **ẹ̀jọ** 8 · **ẹ̀sán** 9 · **ẹ̀wá** 10
@@ -93,7 +81,7 @@ Draw five things in your classroom and colour them; say each Yoruba name as you 
 • Ask and answer: **"Meloo ni o ní?"** (How many do you have?) — **"Mẹ́ta ni mo ní."** (I have three.)
 • Numbers are used for days, for age and for the market.
 
-**Things to know — Àṣà (good character — ìwà rere)**
+**Main content — Àṣà (good character — ìwà rere)**
 
 • **Ìwà rere** means good character, and it is the greatest wealth of a child.
 • A child of good character: tells the **truth** (òtítọ́), is **kind** (àànú), **shares**, **obeys**, **does not steal**, and **does not lie**.
@@ -101,7 +89,7 @@ Draw five things in your classroom and colour them; say each Yoruba name as you 
 • A good child greets, says "Ẹ́ ṣé", and returns what he borrowed.
 • The Yoruba say: **"Ọmọ dé, a wo bí a ṣe ń hùwà"** — when a child arrives, people watch how he behaves.
 
-**Things to know — Lítíréṣọ̀ (warning song — orin ìkìlọ̀)**
+**Main content — Lítíréṣọ̀ (warning song — orin ìkìlọ̀)**
 
 • An **orin ìkìlọ̀** is a song that warns children away from bad things.
 • *"Má ṣe kòrò, kí owó má ṣè sọnù;* — do not be idle, so that your money will not sleep;
@@ -142,13 +130,7 @@ Draw ten oranges and colour them while you count them out loud in Yoruba.
 
 *Depth: school-generated — three strands as printed for N2 F1 W3.*
 
-**You will learn to**
-
-• say the Yoruba alphabet in order
-• name the seven days of the week in Yoruba
-• join in a play song with the right actions
-
-**Things to know — Ẹ̀dẹ̀ (the Yoruba alphabet — alifábéẹ̀dẹ̀)**
+**Main content — Ẹ̀dẹ̀ (the Yoruba alphabet — alifábéẹ̀dẹ̀)**
 
 • The Yoruba alphabet has **twenty-five letters: 18 consonants and 7 vowels**.
 • The vowels are: **a, e, ẹ, i, o, ọ, u** — the dots under **ẹ** and **ọ** change the sound.
@@ -158,7 +140,7 @@ Draw ten oranges and colour them while you count them out loud in Yoruba.
 • The **ń** (n with a dot) is a nasal sound: ìń ìń — as in "ọ̀nà".
 • Three tones mark the voice: **à** (low), **á** (high), **ā/à** with the middle — and the combination marks, e.g. **ǒ, ǐ, ẹ́**.
 
-**Things to know — Àṣà (the days of the week — àwọn ọjọ́ inú ọ̀ṣẹ̀)**
+**Main content — Àṣà (the days of the week — àwọn ọjọ́ inú ọ̀ṣẹ̀)**
 
 • **Ọjọ́ Àìkú** — Sunday · **Ọjọ́ Ajé** — Monday · **Ọjọ́ Ìṣẹ́gun** — Tuesday
 • **Ọjọ́-rúkú-ọ̀jọ́** — Wednesday · **Ọjọ́ Bọ̀ṣẹ̀** — Thursday · **Ọjọ́ Ẹtì** — Friday · **Ọjọ́ Àbámẹ́ta** — Saturday
@@ -166,7 +148,7 @@ Draw ten oranges and colour them while you count them out loud in Yoruba.
 • Our markets have days: Ọjọ́ Àìkú is the day of church and rest; Ọjọ́ Ẹtì is the day of prayer for the Muslims.
 • The names teach history: **Ìṣẹ́gun** (victory), **Bọ̀ṣẹ̀** (the market day of the Ibadan people), **Ẹtì** (Friday).
 
-**Things to know — Lítíréṣọ̀ (play song — orin ìdáráya)**
+**Main content — Lítíréṣọ̀ (play song — orin ìdáráya)**
 
 • **Orin ìdáráya** is a song sung while we play, with actions and a ring of children.
 • *"Yíyí po, a má yí po;* — going round, we turn round;
@@ -205,13 +187,7 @@ Copy the twenty-five Yoruba letters into your notebook, and write your own day o
 
 *Depth: school-generated — three strands as printed for N2 F1 W4.*
 
-**You will learn to**
-
-• speak politely to another pupil in Yoruba
-• say the daily acts of keeping the body clean
-• sing a song of good character
-
-**Things to know — Ẹ̀dẹ̀ (polite talk among pupils — ìsọ̀rọ̀ńbẹ̀sọ̀rọ̀)**
+**Main content — Ẹ̀dẹ̀ (polite talk among pupils — ìsọ̀rọ̀ńbẹ̀sọ̀rọ̀)**
 
 • **"ọ̀rọ̀ rẹ̀ dáadáa ni"** — your word is good (a praise of what a friend said).
 • Asking: **"Ẹ̀ jọ̀ọ́, fún mi ní penṣìlì."** — please give me a pencil.
@@ -220,7 +196,7 @@ Copy the twenty-five Yoruba letters into your notebook, and write your own day o
 • We do not use rude names; nicknames that pain are not "polite talk".
 • Polite words end in the respectful **"ẹ̀"** when speaking to an elder — ẹ̀ jọ̀ọ́, ẹ́ ṣé, ẹ̀ máàdọ́rùn.
 
-**Things to know — Àṣà (cleanliness of the person — ìmọ̀tọ̀́tọ̀ ara ẹni)**
+**Main content — Àṣà (cleanliness of the person — ìmọ̀tọ̀́tọ̀ ara ẹni)**
 
 • **Ìmọ̀tọ̀́tọ̀ jẹ́ ìlera** — cleanliness is health.
 • Every day: **bìrìkì** (bath), **fífó ẹnu** (washing the mouth), **fífọ́ ọwọ́** (washing the hands).
@@ -229,7 +205,7 @@ Copy the twenty-five Yoruba letters into your notebook, and write your own day o
 • Do not eat with dirty hands; wash after the toilet; do not share a toothbrush.
 • A clean child is welcomed everywhere: **"Ọmọ tí ó mọ́, a fiṣọ́ ọwọ́."**
 
-**Things to know — Lítíréṣọ̀ (song of good character — orin ìwà rere)**
+**Main content — Lítíréṣọ̀ (song of good character — orin ìwà rere)**
 
 • *"Ìwà pẹ́, ẹ̀ ṣe é;* — let character be long-lived, do it well;
 • *"àṣìwà kò dára, ọmọ mi o."* — bad character is not good, my child.
@@ -267,13 +243,7 @@ Use three polite Yoruba words at home today, and write them down with what you s
 
 *Depth: school-generated — three strands as printed for N2 F1 W5.*
 
-**You will learn to**
-
-• use action words in Yoruba to say what we do
-• state the duties of each member of the family
-• sing a small song and dance to it
-
-**Things to know — Ẹ̀dẹ̀ (action words — ọ̀rọ̀ àṣe)**
+**Main content — Ẹ̀dẹ̀ (action words — ọ̀rọ̀ àṣe)**
 
 • An action word (verb) tells us **what somebody does**.
 • **jẹ** (eat) · **mu** (drink) · ** lọ** (go) · **wá** (come) · **sùn** (sleep)
@@ -283,7 +253,7 @@ Use three polite Yoruba words at home today, and write them down with what you s
 • Question form: **"Kí ni o ń ṣe?"** — what are you doing? Answer: **"Mo ń kà á."**
 • Do not mix the two: **jẹ** is for food, **mu** is for drink.
 
-**Things to know — Àṣà (family duties — ojúṣe ẹbí nínú ídílé)**
+**Main content — Àṣà (family duties — ojúṣe ẹbí nínú ídílé)**
 
 • **Bàba** (father): works, provides money, protects the home.
 • **Ìyá** (mother): cooks, buys food, cares for the children, teaches the small ones.
@@ -292,7 +262,7 @@ Use three polite Yoruba words at home today, and write them down with what you s
 • Everybody has a duty; when each person does his part, the house is peaceful.
 • **"Ilé kan ṣoṣo ni a ó gbé, iṣẹ́ pípín ni ọwọ́."** — the house is one, the work is shared.
 
-**Things to know — Lítíréṣọ̀ (small song with a dance)**
+**Main content — Lítíréṣọ̀ (small song with a dance)**
 
 • *"Wọ̀ o, wọ̀ o, ọmọdé wọ̀;* — come in, children, come in;
 • *"iṣẹ́ ọwọ́ ni a fi ń jẹun."* — it is the work of the hands that feeds us.
@@ -331,13 +301,7 @@ Write five Yoruba action words and use two of them in a sentence each.
 
 *Depth: school-generated — three strands as printed for N2 F1 W6.*
 
-**You will learn to**
-
-• read the Yoruba letters from a to gb
-• greet at different times and on different occasions
-• say a song of respect for children
-
-**Things to know — Ẹ̀dẹ̀ (reading a–gb)**
+**Main content — Ẹ̀dẹ̀ (reading a–gb)**
 
 • The first eight letters of the Yoruba alphabet, in order: **a, b, d, e, ẹ, f, g, gb**.
 • Sound them, do not name them: **a as in àá (baba), b as in bé, d as in dé, e as in ẹnu, ẹ as in ẹ̀jẹ̀, f as in fẹ́, g as in gé, gb as in gbé**.
@@ -346,7 +310,7 @@ Write five Yoruba action words and use two of them in a sentence each.
 • Trace the letters in the air with one finger, then on the board, then in your notebook.
 • The dot on **ẹ** matters: **bẹ̀** (to press) and **be** are not the same sound.
 
-**Things to know — Àṣà (greetings for times and occasions)**
+**Main content — Àṣà (greetings for times and occasions)**
 
 • Time greetings: **Ẹ̀ káàárọ̀** (morning), **Ẹ̀ káàṣánṣá** (afternoon), **Ẹ̀ káàlẹ̀** (evening), **Ẹ̀ máàdọ́rùn** (good night).
 • On returning: **Ọ́ dàbọ̀** — and the answer is **"Ọ́ dábọ̀, ààbọ̀."**
@@ -355,7 +319,7 @@ Write five Yoruba action words and use two of them in a sentence each.
 • At a festival or naming ceremony: **Odún rere** / **Ẹ̀ káàbọ̀** for the guest.
 • For the sick: **Àlàáfíà ni**? and we bring water, not noise.
 
-**Things to know — Lítíréṣọ̀ (song of respect — orin ìbàwọ̀n)**
+**Main content — Lítíréṣọ̀ (song of respect — orin ìbàwọ̀n)**
 
 • *"Ẹ̀ káàbọ̀, ẹ̀ káàbọ̀; àgbà ń wọlé o."* — welcome, welcome; the elder is entering.
 • *"Ojú rẹ̀ pẹ́, ẹnu rẹ̀ títún;* — his eyes are old, his mouth is still good;
@@ -394,13 +358,7 @@ Write the letters a to gb in your notebook and put the eight greetings of the we
 
 *Depth: school-generated — three strands as printed for N2 F1 W8.*
 
-**You will learn to**
-
-• write the Yoruba letters correctly
-• keep the environment clean and say how
-• make and play a moonlight game at night
-
-**Things to know — Ẹ̀dẹ̀ (writing the letters — kíkọ́ alifábé)**
+**Main content — Ẹ̀dẹ̀ (writing the letters — kíkọ́ alifábé)**
 
 • Write on the line: letters sit on it; **b, d, f, g, gb, h, j, k, l** go up, **e, ẹ** stay short.
 • Start from the top and go down, not sideways; go from left to right.
@@ -410,7 +368,7 @@ Write the letters a to gb in your notebook and put the eight greetings of the we
 • Use a pencil that is not too blunt; do not press so hard that the paper tears.
 • What is written is read back the next day: writing that cannot be read is not finished work.
 
-**Things to know — Àṣà (cleanliness of the environment — ìmọ̀tọ̀́tọ̀ àyíká)**
+**Main content — Àṣà (cleanliness of the environment — ìmọ̀tọ̀́tọ̀ àyíká)**
 
 • **Àyíká** is everything around us: the house, the compound, the street, the classroom.
 • We keep it clean by: sweeping, putting dirt in the bin, cutting long grass, and keeping the gutter open.
@@ -419,7 +377,7 @@ Write the letters a to gb in your notebook and put the eight greetings of the we
 • The toilet is flushed and left as we found it; water is not wasted.
 • The school keeps a clean-up day; the class that cleans is the class that is praised.
 
-**Things to know — Lítíréṣọ̀ (moonlight play — ẹ̀rẹ̀ oòṣùpá ní àlẹ́)**
+**Main content — Lítíréṣọ̀ (moonlight play — ẹ̀rẹ̀ oòṣùpá ní àlẹ́)**
 
 • When the moon is bright, children play outside — that is **ẹ̀rẹ̀ oòṣùpá**.
 • Game: **Ìṣekúṣe** (hide and seek) — one child counts, the others hide; "Wá o, wá o, a ó rí i!"
@@ -458,13 +416,7 @@ Sweep one corner of your compound, then write a full line each of a, ẹ, gb and
 
 *Depth: school-generated — three strands as printed for N2 F1 W9.*
 
-**You will learn to**
-
-• read the letters from h up to p
-• greet people at work and name occupations in Yoruba
-• say a small poem with the right feeling
-
-**Things to know — Ẹ̀dẹ̀ (reading on from h — ìtẹ̀síwájú kíkà)**
+**Main content — Ẹ̀dẹ̀ (reading on from h — ìtẹ̀síwájú kíkà)**
 
 • The next letters: **h, i, j, k, l, m, n, ń, o, ọ, p**. (The school's row says H–Q; in the Yoruba alphabet the letters run h to p, for there is no c, q, v, x or z.)
 • Sound each with a vowel: **ha, hi, ho · ja, ji, jo · ka, ki, ko · la, li, lo · ma, mi, mo · na, ni, no**.
@@ -473,7 +425,7 @@ Sweep one corner of your compound, then write a full line each of a, ẹ, gb and
 • Read a full line from the chart without pointing, then read it again with pointing.
 • Reading is done aloud, slowly, with the mouth open — not with the eyes only.
 
-**Things to know — Àṣà (greeting at work and occupations — ìkíni fún iṣẹ́)**
+**Main content — Àṣà (greeting at work and occupations — ìkíni fún iṣẹ́)**
 
 • When you meet somebody working, say **"Ọ́ nàṣẹ́"**; the reply is **"A ṣe é, àṣẹ."**
 • To a farmer at the farm: **"Ìṣẹ́ gígba ni"** — a harvesting work.
@@ -482,7 +434,7 @@ Sweep one corner of your compound, then write a full line each of a, ẹ, gb and
 • Every work has its own tool: the farmer's hoe, the tailor's machine, the teacher's chalk.
 • We greet a worker so that the work goes well and the person feels respected.
 
-**Things to know — Lítíréṣọ̀ (small poem — ẹ̀wì kékeré)**
+**Main content — Lítíréṣọ̀ (small poem — ẹ̀wì kékeré)**
 
 • A **ẹ̀wì** is spoken, not sung; it is said with the face and the hands.
 • *"Iṣẹ́, iṣẹ́ ni ọ̀rẹ́ ẹni;* — Work, work is a person's friend;
@@ -523,12 +475,6 @@ Write the letters H to Q in large shapes and colour the ones you can read aloud.
 ### WEEK 11 — Exam Preparation
 
 *Depth: school-generated revision row; it revises only Weeks 1–9 of this term.*
-
-**You will learn to**
-
-• say everything you learnt this term without looking at the book
-• write the words you must know
-• answer in full Yoruba sentences, not one word
 
 **What to revise — Ẹ̀dẹ̀**
 

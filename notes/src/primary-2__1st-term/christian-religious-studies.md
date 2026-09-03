@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — GOD THE CREATOR
 
-**You will learn to**
-
-• say that God created all things
-
-• name things God created
-
-• thank God for creation
-
-**Things to know**
+**Main content**
 
 • **God** created the heaven and the earth.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — GOD'S LOVE FOR US
 
-**You will learn to**
-
-• say that God loves us
-
-• show God's love
-
-• love one another
-
-**Things to know**
+**Main content**
 
 • **God loves** every one of us.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — THE BIBLE, GOD'S WORD
 
-**You will learn to**
-
-• say what the Bible is
-
-• handle the Bible well
-
-• listen to God's word
-
-**Things to know**
+**Main content**
 
 • The **Bible** is the holy book of Christians.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — PRAYER
 
-**You will learn to**
-
-• say what prayer is
-
-• pray to God
-
-• know when to pray
-
-**Things to know**
+**Main content**
 
 • **Prayer** is talking to God.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — ADAM AND EVE
 
-**You will learn to**
-
-• tell the story of Adam and Eve
-
-• say what they did wrong
-
-• learn to obey God
-
-**Things to know**
+**Main content**
 
 • **Adam** was the first man God created.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — NOAH'S ARK
 
-**You will learn to**
-
-• tell the story of Noah
-
-• say why God saved Noah
-
-• learn to obey God
-
-**Things to know**
+**Main content**
 
 • **Noah** was a good man who obeyed God.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — ABRAHAM, THE FATHER OF FAITH
 
-**You will learn to**
-
-• tell the story of Abraham
-
-• say what faith is
-
-• trust God
-
-**Things to know**
+**Main content**
 
 • **Abraham** is called the father of **faith**.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — JOSEPH AND GOD'S CARE
 
-**You will learn to**
-
-• tell the story of Joseph
-
-• say how God cared for Joseph
-
-• trust God's care
-
-**Things to know**
+**Main content**
 
 • **Joseph** was a young man who loved God.
 

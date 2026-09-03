@@ -12,14 +12,7 @@ and the names, dates and deeds below are kept exactly as the scheme sets them.*
 
 *Depth: NERDC Primary 1 · Nigerian History · Second Term W1 (pp 651–652).*
 
-**You will learn to**
-
-• say what a hero and a heroine are
-• name the qualities that make a hero
-• tell bravery, kindness and selfless service in my words
-• name people who help others in our community
-
-**Things to know**
+**Main content**
 
 • A **hero** is a person we admire because of what he **does for others**; a **heroine** is a woman who does the same.
 • A hero is not somebody with power over people; a hero is somebody with **hands out to people**.
@@ -67,14 +60,7 @@ Draw one person who helps your community and colour the cloth they wear.
 
 *Depth: NERDC Primary 1 · Nigerian History · Second Term W2 (pp 651–652).*
 
-**You will learn to**
-
-• name the local heroes of our community
-• say what each helper does for us
-• tell why teachers, nurses and drivers are heroes
-• say that everyday heroes are heroes too
-
-**Things to know**
+**Main content**
 
 • A **local hero** is a person who serves the people near us; we can see them, greet them and thank them.
 • **Teachers** are heroes: they give knowledge away every day, mark books after class, and stay with a child who has not understood.
@@ -119,14 +105,7 @@ Draw two heroes of our community and write under each what he or she does for us
 
 *Depth: NERDC Primary 1 · Nigerian History · Second Term W3 (pp 651–652).*
 
-**You will learn to**
-
-• say what a national hero is
-• name **Herbert Macaulay** and what he did
-• say why he is called the father of Nigerian nationalism
-• tell his story in four sentences
-
-**Things to know**
+**Main content**
 
 • A **national hero** is a person whose work was for the **whole country**, not for one family or one town.
 • **Herbert Samuel Johnson Macaulay** was born in Lagos in **1864** and died in **1946**.
@@ -172,14 +151,7 @@ Copy his name and dates in your book and write one line on what you would do for
 
 *Depth: NERDC Primary 1 · Nigerian History · Second Term W4 (pp 651–652).*
 
-**You will learn to**
-
-• name **Nnamdi Azikiwe** and his praise-name
-• say that he was the first President of Nigeria
-• tell how he loved education and Nigeria
-• take three lessons from his life
-
-**Things to know**
+**Main content**
 
 • **Nnamdi Azikiwe** was born in **1904** in Onitsha land and died in **1996**.
 • People called him **"Zik of Africa"** — a name the whole continent knew.
@@ -226,14 +198,7 @@ Draw the flag of Nigeria with green at each side and white in the middle, then c
 
 *Depth: NERDC Primary 1 · Nigerian History · Second Term W7 (pp 651–652).*
 
-**You will learn to**
-
-• say what a heroine is
-• tell the story of **Queen Amina of Zazzau**
-• name the things she built and won
-• say that women can be heroes too
-
-**Things to know**
+**Main content**
 
 • A **heroine** is a woman whose bravery and work people remember; Nigeria has many.
 • **Queen Amina** ruled **Zazzau** — the city we now call **Zaria** — in the old Hausa land, long ago (she is placed by historians about the **1500s**).
@@ -278,14 +243,7 @@ Draw a city wall with a gate and write under it: "Queen Amina of Zazzau built wa
 
 *Depth: NERDC Primary 1 · Nigerian History · Second Term W8 (pp 651–652).*
 
-**You will learn to**
-
-• tell the story of **Funmilayo Ransome-Kuti**
-• say how she helped women
-• name **Margaret Ekpo** and her work
-• name other notable Nigerian women
-
-**Things to know**
+**Main content**
 
 • **Funmilayo Ransome-Kuti** (1900–1978) was a teacher from Abeokuta and one of Nigeria's greatest women.
 • She led the **Abeokuta Women's Union** — thousands of market women who were angry that unfair taxes were put on them.
@@ -332,14 +290,7 @@ Draw one heroine you learned about this week and colour the thing she carried.
 
 *Depth: NERDC Primary 1 · Nigerian History · Second Term W9 (pp 651–652).*
 
-**You will learn to**
-
-• say what selfless service is
-• help others without expecting a reward
-• be kind to my classmates and friends
-• share what I have
-
-**Things to know**
+**Main content**
 
 • **Selfless service** is working for somebody's good while you **look after their need, not your own gain**.
 • The test of it: if nobody pays you and nobody thanks you, do you still do it?
@@ -384,14 +335,7 @@ Keep a tick-box for five days: one unasked helpful thing each day, and write on 
 
 *Depth: NERDC Primary 1 · Nigerian History · Second Term W10 (pp 651–652).*
 
-**You will learn to**
-
-• volunteer to help in the community
-• keep our environment clean
-• help elderly people
-• say what a good citizen does
-
-**Things to know**
+**Main content**
 
 • To **volunteer** is to put your hand up and say "I will do it" before anybody asks you.
 • Service in the community: the class sweeps the street in front of the school, clears the gutter, plants and waters seedlings, picks plastic from the field.

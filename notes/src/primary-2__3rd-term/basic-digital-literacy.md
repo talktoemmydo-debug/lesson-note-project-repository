@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — PHISHING AWARENESS
 
-**You will learn to**
-
-• say what phishing is
-
-• spot a fake message
-
-• tell a grown-up
-
-**Things to know**
+**Main content**
 
 • **Phishing** is a trick to steal our information.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — CYBERBULLYING
 
-**You will learn to**
-
-• say what cyberbullying is
-
-• know it is wrong
-
-• get help
-
-**Things to know**
+**Main content**
 
 • **Cyberbullying** is using a phone or computer to be unkind.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — INCLUSIVITY IN DIGITAL CONTENT
 
-**You will learn to**
-
-• say what inclusivity means
-
-• include everyone
-
-• make content for all
-
-**Things to know**
+**Main content**
 
 • **Inclusivity** means including everyone.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — BASICS OF PROGRAMMING
 
-**You will learn to**
-
-• say what programming is
-
-• give instructions
-
-• follow steps
-
-**Things to know**
+**Main content**
 
 • **Programming** is telling a computer what to do.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — INTRODUCTION TO SCRATCH
 
-**You will learn to**
-
-• say what Scratch is
-
-• name the parts of Scratch
-
-• move a character
-
-**Things to know**
+**Main content**
 
 • **Scratch** is a place where we make programs.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — CODING WITH SCRATCH (PART 1)
 
-**You will learn to**
-
-• put blocks together
-
-• make the sprite move
-
-• make the sprite talk
-
-**Things to know**
+**Main content**
 
 • We **drag** blocks to the work area.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — CODING WITH SCRATCH (PART 2)
 
-**You will learn to**
-
-• use more blocks
-
-• turn the sprite
-
-• repeat actions
-
-**Things to know**
+**Main content**
 
 • We can make the sprite **turn**.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — SEQUENCE IN PROGRAMMING
 
-**You will learn to**
-
-• say what sequence is
-
-• put steps in order
-
-• fix the wrong order
-
-**Things to know**
+**Main content**
 
 • **Sequence** means the order of steps.
 

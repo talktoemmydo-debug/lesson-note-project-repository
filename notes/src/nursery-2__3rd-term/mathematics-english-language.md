@@ -12,14 +12,7 @@ of ours and then the whole of it in one page, from the pack's off-by-one mapping
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W1.*
 
-**You will learn to**
-
-• say a word that begins with two consonants run together
-• read words where two letters make one sound
-• read words with three letters held to one sound
-• use the three new sight words in a line of our own
-
-**Things to know**
+**Main content**
 
 • A **blend** is two consonants that keep their own sounds and still run together: **bl**ue, **fl**ag,
   **cl**ap, **gr**een, **pl**ant, **tr**ip, **sk**ip, **st**amp, **sn**ail, **sw**im.
@@ -73,14 +66,7 @@ thing in each of three boxes.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W2.*
 
-**You will learn to**
-
-• tell a naming word (a noun) from a word that is not one
-• name people, places, things and animals as nouns
-• put a big letter on a proper name
-• say one thing for many, and more than one thing
-
-**Things to know**
+**Main content**
 
 • A **noun** is a **naming word** — it is the word we call a person, a place, a thing or an animal by.
 • People: **boy, girl, teacher, man, woman**. Places: **school, home, park, shop**. Things: **book, pen,
@@ -134,14 +120,7 @@ under each box.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W3.*
 
-**You will learn to**
-
-• find the doing word (the verb) in a line
-• show a doing word with the body
-• say the doing word again when one person is spoken of
-• ask with "What" and answer in a whole line
-
-**Things to know**
+**Main content**
 
 • A **verb** is a **doing word**: it tells what somebody or something does — **run, jump, walk, sit, eat,
   drink, sleep, play, read, write, sing, dance**.
@@ -191,14 +170,7 @@ Draw four children in four boxes doing four different things, then write the doi
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W4.*
 
-**You will learn to**
-
-• say the two parts every sentence must have
-• put the right doing word with the right naming word
-• tell who the line is about and what it does
-• build a line that carries three kinds of word at once
-
-**Things to know**
+**Main content**
 
 • A sentence needs **two** things: who or what it is about (the naming word) and what happens
   (the doing word).
@@ -250,14 +222,7 @@ picture.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W7.*
 
-**You will learn to**
-
-• build the line who-does-what-to-whom
-• add a describing word and a second thing to a line
-• join two small lines with "and" and give a reason with "because"
-• let a small word stand in for people already named
-
-**Things to know**
+**Main content**
 
 • Grow the sentence to **naming + doing + naming**: **The boy kicks the ball** — who, does what, to what.
 • Add one describing word and the line gets a picture in it: **The big boy kicks the red ball.**
@@ -309,14 +274,7 @@ sitting because they are tired — and write one line under each.
 
 *Depth: NERDC Nursery 2 · Literacy (Language Domain) · Third Term W8.*
 
-**You will learn to**
-
-• read a page that carries the patterns we learnt
-• answer the five questions a reader is asked
-• find the naming words and the doing words inside a story
-• say what will happen next before the page is turned
-
-**Things to know**
+**Main content**
 
 • Our page for this week: **"Sam has a small boat. He puts the boat in the water. The wind blows and the boat
   goes fast. Ada claps her hands and runs to the shore."**
@@ -369,14 +327,7 @@ Draw our boat page in three boxes — the boat in the water, the wind blowing it
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W9.*
 
-**You will learn to**
-
-• begin a story with the words that open a tale
-• write a beginning, a middle and an end of our own
-• keep "there" and "their" apart
-• read what we wrote to the class
-
-**Things to know**
+**Main content**
 
 • Stories often open with the old door-word: **"Once upon a time…"** and **once** is our sight word for that.
 • Three lines make a story: what was the start, what happened, how it ended.
@@ -428,14 +379,7 @@ each box.
 
 *Depth: NERDC Nursery 3 · Literacy (Language Domain) · Third Term W10.*
 
-**You will learn to**
-
-• read a page that mixes every pattern we learnt
-• say what kind of word each word in a line is
-• write a clean page with the marks in their places
-• look back over your own work and mend what is wrong
-
-**Things to know**
+**Main content**
 
 • Our last page carries all of it at once: **"Kemi finds a little black cat under a bench. She takes it home
   and gives it milk. The cat drinks, jumps up and sleeps upon her bed."**

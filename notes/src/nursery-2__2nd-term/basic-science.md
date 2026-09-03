@@ -11,14 +11,7 @@ Third Term W1 for water purification.*
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Second Term W2 (pp 494–497).*
 
-**You will learn to**
-
-• say what food is
-• give reasons why people eat
-• name the three main meals of the day
-• say which foods come from plants and which come from animals
-
-**Things to know**
+**Main content**
 
 • **Food** is anything we eat or drink that gives the body energy and helps it to grow.
 • We eat to get **energy** for work and for play.
@@ -67,14 +60,7 @@ Draw the plate you ate from this morning: the plant food on one side, the animal
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Second Term W4 (pp 494–497).*
 
-**You will learn to**
-
-• say what a living thing is
-• name the signs of life
-• sort things into living and non-living
-• observe living things around me
-
-**Things to know**
+**Main content**
 
 • **Living things are things that have life.**
 • Living things: people, animals, birds, fish, insects and plants.
@@ -122,14 +108,7 @@ Look around your house and write down four living things and four non-living thi
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Second Term W7 (pp 494–497).*
 
-**You will learn to**
-
-• say what growth means
-• tell the young one of common animals
-• put a life cycle in order
-• say what animals need to grow
-
-**Things to know**
+**Main content**
 
 • **Growth** is a change from small to big over a long time — not a thing that happens in one day.
 • An animal's **life cycle** is the order of its growing: baby → young → adult.
@@ -176,14 +155,7 @@ Draw the life cycle of a hen in four boxes and write the stage under each box.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Second Term W8 (pp 494–497).*
 
-**You will learn to**
-
-• tell the stages of a plant's life
-• name what a plant needs to grow
-• plant a seed and care for it
-• say what changes as a plant grows
-
-**Things to know**
+**Main content**
 
 • A plant grows from a **seed** into a **mature plant**, and that plant makes **new seeds** again.
 • The order is: **seed → germination → seedling → young plant → mature plant → flowers → fruits → seeds**.
@@ -232,15 +204,7 @@ Draw a seed, a small seedling and a tall plant in a row, and colour only the tal
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Second Term W9 (pp 494–497).*
 
-**You will learn to**
-
-• say what water is used for and where it comes from
-• tell clean water from dirty water
-• define transportation
-• name means of transport on land, water and air
-• keep safe while travelling
-
-**Things to know**
+**Main content**
 
 • **Water** is used for drinking, cooking, bathing, washing, farming and for animals; living things cannot live long without it.
 • Sources of water: **rain, river, stream, well, borehole and the tap**.
@@ -287,14 +251,7 @@ Count the vehicles that pass your street for five minutes and write down how man
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Second Term W10 (pp 494–497).*
 
-**You will learn to**
-
-• say what bones are and where they are
-• name the big bones of the body
-• tell what bones do for us
-• say how to keep bones strong
-
-**Things to know**
+**Main content**
 
 • **Bones** are the hard parts inside the body; all the bones together are the **skeleton**.
 • Without bones the body would fall down like a sack of water.
@@ -341,14 +298,7 @@ Count and write the number of bones you can feel in your own fingers, then draw 
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Second Term W11 (pp 494–497).*
 
-**You will learn to**
-
-• say what technology means
-• name the things people use every day because of technology
-• tell what a mobile phone is used for
-• keep myself safe with a phone
-
-**Things to know**
+**Main content**
 
 • **Technology** means the tools and machines people make to do work more easily.
 • Old way, new way: we once carried water in a clay pot; now we have a tap and a pump.
@@ -394,14 +344,7 @@ Write the name of five machines at home and say one thing each of them does for 
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W1 (pp 497–502) — the school places this week in the second term.*
 
-**You will learn to**
-
-• say why dirty water must be made clean
-• name the ways of purifying water
-• put the steps of cleaning water in order
-• say why we drink only clean water
-
-**Things to know**
+**Main content**
 
 • **Purification of water** means making dirty water clean and safe to drink.
 • We purify water to **remove the dirt**, to **kill the germs**, and to **keep away the diseases** that come from bad water.

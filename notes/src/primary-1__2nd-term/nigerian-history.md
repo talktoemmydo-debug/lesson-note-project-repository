@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — NIGERIAN HEROES AND HEROINES
 
-**You will learn to**
-
-• say who a hero is
-
-• name Nigerian heroes and heroines
-
-• learn from their good deeds
-
-**Things to know**
+**Main content**
 
 • A **hero** is a person who does brave and good things.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — TRADITIONAL RULERS
 
-**You will learn to**
-
-• say who a traditional ruler is
-
-• name titles of traditional rulers
-
-• respect our rulers
-
-**Things to know**
+**Main content**
 
 • A **traditional ruler** is a leader of a town or people.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — NIGERIAN FESTIVALS
 
-**You will learn to**
-
-• say what a festival is
-
-• name Nigerian festivals
-
-• respect our festivals
-
-**Things to know**
+**Main content**
 
 • A **festival** is a special time of celebration.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — NIGERIAN CRAFTS
 
-**You will learn to**
-
-• say what a craft is
-
-• name Nigerian crafts
-
-• value our crafts
-
-**Things to know**
+**Main content**
 
 • A **craft** is something made with the hands.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — NIGERIAN MUSIC AND DANCE
 
-**You will learn to**
-
-• name Nigerian musical instruments
-
-• name Nigerian dances
-
-• enjoy our music
-
-**Things to know**
+**Main content**
 
 • Nigeria has many kinds of music.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — NIGERIAN FOOD AND DRESS
 
-**You will learn to**
-
-• name Nigerian foods
-
-• name Nigerian clothes
-
-• value our food and dress
-
-**Things to know**
+**Main content**
 
 • Nigeria has many kinds of food.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — OUR NEIGHBOURS
 
-**You will learn to**
-
-• name countries near Nigeria
-
-• say who our neighbours are
-
-• live well with our neighbours
-
-**Things to know**
+**Main content**
 
 • Nigeria is in **West Africa**.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — NIGERIAN NATIONAL SYMBOLS
 
-**You will learn to**
-
-• name Nigerian national symbols
-
-• say what each symbol means
-
-• respect our symbols
-
-**Things to know**
+**Main content**
 
 • **National symbols** stand for our country.
 

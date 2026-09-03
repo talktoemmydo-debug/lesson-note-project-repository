@@ -8,156 +8,156 @@
 ## Section A — Objective (30 marks)
 Choose the correct option and ring the letter.
 
-1. A leader is somebody who ___
-   A) cooks the food of the family at home
-   B) sells other things to other people
-   C) guides other people and shows them what to do
-   D) drives a car to the market by himself
-2. The leader of my class in school is the ___
-   A) teacher, with the class captain
+1. The leader of my class in school is the ___
+   A) a visitor from town
    B) the watchman at the gate
-   C) the cleaner of the corridor
-   D) a visitor from town
-3. The leader of a street or community is called the ___
-   A) monitor
-   B) baale
-   C) pupil
-   D) prefect
-4. A quality of a good leader is being ___
-   A) silent, far and forgetful
-   B) rude, lazy and greedy
-   C) kind, fair, honest and helpful
-   D) noisy, proud and quick to anger
-5. We need leaders so that people will be ___
+   C) teacher, with the class captain
+   D) the cleaner of the corridor
+2. The leader of a street or community is called the ___
+   A) baale
+   B) prefect
+   C) monitor
+   D) pupil
+3. The leader of a state is the ___
+   A) king only
+   B) governor
+   C) mayor of another town
+   D) chairman
+4. We need leaders so that people will be ___
    A) sent away to another town
    B) left alone, with nothing at all to say
-   C) paid money on every market day
-   D) guided, with order kept and work finished
-6. The leaders of my home are ___
-   A) father and mother
+   C) guided, with order kept and work finished
+   D) paid money on every market day
+5. The leaders of my home are ___
+   A) the pupils of the class
    B) the neighbours only
-   C) the pupils of the class
-   D) the traders at the gate
-7. The advice of the grandparents is heavy because they ___
-   A) are older than everybody else in the street
-   B) have seen more of life, and we answer them with respect
-   C) stay in another state with our relations
-   D) give us money at the end of every single month
-8. When father and mother are away, the smaller children are led by ___
+   C) the traders at the gate
+   D) father and mother
+6. A duty of a parent is to give food, clothes, education, love and ___
+   A) protection
+   B) punishment only
+   C) a motor car
+   D) money for games
+7. When father and mother are away, the smaller children are led by ___
    A) the neighbour's child
-   B) no one at all
-   C) an elder brother or sister
+   B) an elder brother or sister
+   C) no one at all
    D) the family dog
-9. Respect at home begins with small things: answering "yes ma/sir", carrying a bag and ___
-   A) not slamming doors
-   B) dropping plates loudly
-   C) leaving shoes in the passage
-   D) running upstairs
-10. A small settlement is a village; a bigger one is a ___
-   A) state
-   B) country
-   C) ocean
-   D) town
-11. The name of the place I live is said like this: ___
-   A) "I run to ______"
-   B) "I eat at ______"
-   C) "I live in ______"
-   D) "I sleep in ______"
-12. An example of community mobilization is ___
-   A) the heavy rain that falls in the month of June
-   B) the clean-up exercise on the last Saturday of the month
-   C) the closing of the market at high noon
+8. Respect at home begins with small things: answering "yes ma/sir", carrying a bag and ___
+   A) running upstairs
+   B) leaving shoes in the passage
+   C) not slamming doors
+   D) dropping plates loudly
+9. A community is people living together in ___
+   A) one area — a street, a village or a town
+   B) one house with many storeys only
+   C) one market stall on a table
+   D) one class in the school building
+10. The name of the place I live is said like this: ___
+   A) "I eat at ______"
+   B) "I sleep in ______"
+   C) "I run to ______"
+   D) "I live in ______"
+11. An example of community mobilization is ___
+   A) the closing of the market at high noon
+   B) the heavy rain that falls in the month of June
+   C) the clean-up exercise on the last Saturday of the month
    D) the long sleep taken in the afternoon sun
-13. Cooperation means people ___
-   A) fighting one another to finish a job quickly
-   B) paying another person to do the whole job
-   C) waiting at home for the government to do everything
-   D) working together to finish a job one person cannot finish alone
-14. When a neighbour's house falls down, the community brings ___
-   A) sand, blocks and hands
-   B) a full pot of soup
-   C) music and dancing shoes
-   D) a new television set
-15. A strong community gives its people ___
-   A) hunger and thirst
-   B) noise, dust and fear
-   C) safety, unity and progress
-   D) homework and tests
-16. The proverb of cooperation says ___
-   A) money finishes the good work
-   B) one head carries all the load
-   C) slow and slow wins the race
-   D) many hands make the work light
-17. A responsibility is a thing we ___
-   A) must do, and not a thing we may choose to do
-   B) can buy for ourselves at the market
+12. The leaders who meet to plan for the people include the chief, the imam, the pastor and the ___
+   A) trader that sells us food
+   B) chairman of the local government area
+   C) pupil of the school near the market
+   D) driver of the bus at the park
+13. When a neighbour's house falls down, the community brings ___
+   A) a new television set
+   B) music and dancing shoes
+   C) a full pot of soup
+   D) sand, blocks and hands
+14. A strong community gives its people ___
+   A) safety, unity and progress
+   B) hunger and thirst
+   C) homework and tests
+   D) noise, dust and fear
+15. A child's part in the community includes ___
+   A) frightening the old people at the gate
+   B) throwing papers on the wide road
+   C) not littering and keeping the gutters free
+   D) blocking the gutter with soft mud
+16. A responsibility is a thing we ___
+   A) can buy for ourselves at the market
+   B) may forget when we are very busy
    C) give to another child in the class
-   D) may forget when we are very busy
-18. If I lose or spoil a borrowed book, the consequence is that ___
-   A) the book returns itself
-   B) it must be replaced or paid for
-   C) nothing at all happens
-   D) the owner buys two
-19. People of all ages and backgrounds must be respected, including ___
-   A) only the rich ones
-   B) only my own class mate
-   C) only the old ones
-   D) a person with a disability
-20. Polite words we use are please, thank you, sorry and ___
+   D) must do, and not a thing we may choose to do
+17. If I lose or spoil a borrowed book, the consequence is that ___
+   A) it must be replaced or paid for
+   B) the book returns itself
+   C) the owner buys two
+   D) nothing at all happens
+18. Respect for elders is shown by greeting them, listening, obeying and ___
+   A) answering them back with a loud voice
+   B) using their respectful title, such as ma or sir
+   C) calling them by a nick name at the gate
+   D) walking away without saying anything
+19. Polite words we use are please, thank you, sorry and ___
    A) over to you
    B) good night
-   C) excuse me
-   D) mind the gap
-21. Nigeria's neighbours include Benin Republic, Niger, Chad and ___
+   C) mind the gap
+   D) excuse me
+20. Nigeria's neighbours include Benin Republic, Niger, Chad and ___
    A) Egypt
-   B) Cameroon
-   C) Kenya
+   B) Kenya
+   C) Cameroon
    D) Ghana
-22. Our national flag has three vertical parts: ___
-   A) green, white and green
-   B) white, blue and white
-   C) red, gold and green
-   D) green, yellow and red
-23. The white on the Nigerian flag stands for ___
-   A) water
+21. The capital of Nigeria is ___
+   A) Lagos
+   B) Abuja
+   C) Ibadan
+   D) Kano
+22. The white on the Nigerian flag stands for ___
+   A) peace and unity
    B) milk
-   C) peace and unity
+   C) water
    D) morning
-24. Nigeria became independent on the ___
-   A) 1st of January 1960
-   B) 1st of October 1960
-   C) 27th of October 1958
-   D) 29th of May 1999
-25. The first stanza of our anthem begins "Arise, O ___
-   A) compatriots"
-   B) countrymen of Kano
-   C) leaders of the town"
-   D) children at school
-26. The national pledge is said at school to ___
-   A) open the market for the traders
-   B) sing before the match on Friday
-   C) greet the visitors that come to the school
-   D) be faithful to the country and to honour Nigeria
-27. The Y on the shield stands for ___
-   A) the two horses
-   B) the rivers Niger and Benue
+23. Nigeria became independent on the ___
+   A) 29th of May 1999
+   B) 1st of January 1960
+   C) 1st of October 1960
+   D) 27th of October 1958
+24. The flag is flown at half a mast when ___
+   A) school begins in January
+   B) a great person dies
+   C) it is raining hard
+   D) the market is closed
+25. The national pledge is said at school to ___
+   A) be faithful to the country and to honour Nigeria
+   B) greet the visitors that come to the school
+   C) open the market for the traders
+   D) sing before the match on Friday
+26. The Y on the shield stands for ___
+   A) the capital city
+   B) the two horses
    C) the shape of the flag
-   D) the capital city
-28. Independence day is kept with ___
-   A) a long holiday with no programme
-   B) farming competition
-   C) parades and the President's broadcast
-   D) school examinations only
-29. A sacred place like the church or the mosque must be met with ___
-   A) quiet behaviour and proper dress
+   D) the rivers Niger and Benue
+27. Our money is the Naira; its small part is the ___
+   A) sen, and one hundred sen make a naira
+   B) kobo, and one hundred kobo make a Naira
+   C) pesewa, and ten pesewa make a cedi
+   D) bit, and one thousand bits make a naira
+28. A sacred place like the church or the mosque must be met with ___
+   A) loud talking and running
    B) shoes on the altar table
-   C) loud talking and running
+   C) quiet behaviour and proper dress
    D) food and drink in the hall
-30. Objects we respect include the flag, religious books, the elders' belongings and ___
-   A) the broken chair
-   B) other people's slippers
+29. Objects we respect include the flag, religious books, the elders' belongings and ___
+   A) national monuments
+   B) the broken chair
    C) the refuse gutter
-   D) national monuments
+   D) other people's slippers
+30. Writing my name on a monument is wrong because it ___
+   A) makes the old wall look very colourful
+   B) takes a very long time in the afternoon
+   C) will cost me some of my money for the paint
+   D) damages a thing that belongs to the whole country
 
 ## Section B — Sub-objective (10 marks)
 Answer briefly.

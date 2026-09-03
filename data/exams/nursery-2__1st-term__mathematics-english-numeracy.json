@@ -4,16 +4,7 @@
  "term": "1st Term",
  "objective": [
   {
-   "stem": "Two hundred is the same as",
-   "answer": "twenty tens",
-   "distractors": [
-    "two tens",
-    "two hundred ones and two tens",
-    "twenty ones"
-   ]
-  },
-  {
-   "stem": "In the number 163, the digit 6 stands for",
+   "stem": "In the number 163, the digit 6 stands for ___",
    "answer": "six tens",
    "distractors": [
     "six hundreds",
@@ -22,7 +13,7 @@
    ]
   },
   {
-   "stem": "The expanded form of 128 is",
+   "stem": "The expanded form of 128 is ___",
    "answer": "100 + 20 + 8",
    "distractors": [
     "1 + 2 + 8",
@@ -31,7 +22,7 @@
    ]
   },
   {
-   "stem": "Counting in tens from 170, the next number is",
+   "stem": "Counting in tens from 170, the next number is ___",
    "answer": "180",
    "distractors": [
     "171",
@@ -40,7 +31,7 @@
    ]
   },
   {
-   "stem": "The number that is 100 + 40 + 7 is",
+   "stem": "The number that is 100 + 40 + 7 is ___",
    "answer": "147",
    "distractors": [
     "174",
@@ -49,16 +40,16 @@
    ]
   },
   {
-   "stem": "An even number among these is",
-   "answer": "146",
+   "stem": "Which is greater: 189 or 198?",
+   "answer": "198",
    "distractors": [
-    "157",
     "189",
-    "131"
+    "they are equal",
+    "cannot be told"
    ]
   },
   {
-   "stem": "In 47, the digit in the ones place is",
+   "stem": "In 47, the digit in the ones place is ___",
    "answer": "7",
    "distractors": [
     "4",
@@ -67,7 +58,7 @@
    ]
   },
   {
-   "stem": "Seven tens and five ones make",
+   "stem": "Seven tens and five ones make ___",
    "answer": "75",
    "distractors": [
     "57",
@@ -76,7 +67,7 @@
    ]
   },
   {
-   "stem": "Ten ones make",
+   "stem": "Ten ones make ___",
    "answer": "one ten",
    "distractors": [
     "one hundred",
@@ -85,7 +76,7 @@
    ]
   },
   {
-   "stem": "The number that has 4 tens and 0 ones is",
+   "stem": "The number that has 4 tens and 0 ones is ___",
    "answer": "40",
    "distractors": [
     "4",
@@ -94,16 +85,16 @@
    ]
   },
   {
-   "stem": "In 77, the first 7 stands for",
-   "answer": "seventy",
+   "stem": "The digit 6 shows six tens in the number ___",
+   "answer": "61",
    "distractors": [
-    "seven",
-    "seven hundred",
-    "seventy-seven"
+    "16",
+    "26",
+    "6"
    ]
   },
   {
-   "stem": "Sixty-five written in words is",
+   "stem": "Sixty-five written in words is ___",
    "answer": "\"sixty-five\"",
    "distractors": [
     "\"fifty-six\"",
@@ -112,7 +103,7 @@
    ]
   },
   {
-   "stem": "The correct spelling of the number 13 is",
+   "stem": "The correct spelling of the number 13 is ___",
    "answer": "thirteen",
    "distractors": [
     "threeteen",
@@ -121,7 +112,7 @@
    ]
   },
   {
-   "stem": "\"One hundred and three\" in figures is",
+   "stem": "\"One hundred and three\" in figures is ___",
    "answer": "103",
    "distractors": [
     "130",
@@ -130,7 +121,7 @@
    ]
   },
   {
-   "stem": "The figure for forty-nine is",
+   "stem": "The figure for forty-nine is ___",
    "answer": "49",
    "distractors": [
     "94",
@@ -139,16 +130,16 @@
    ]
   },
   {
-   "stem": "Forty is written in words as",
-   "answer": "forty",
+   "stem": "\"Seventy-two\" in figures is ___",
+   "answer": "72",
    "distractors": [
-    "fourty",
-    "four-tee",
-    "fourty-one"
+    "27",
+    "70",
+    "17"
    ]
   },
   {
-   "stem": "In 25, the digit 2 stands for",
+   "stem": "In 25, the digit 2 stands for ___",
    "answer": "twenty",
    "distractors": [
     "two",
@@ -157,7 +148,7 @@
    ]
   },
   {
-   "stem": "One more than 199 is",
+   "stem": "One more than 199 is ___",
    "answer": "200",
    "distractors": [
     "198",
@@ -166,7 +157,7 @@
    ]
   },
   {
-   "stem": "Skip counting by twos from 2 gives",
+   "stem": "Skip counting by twos from 2 gives ___",
    "answer": "2, 4, 6, 8",
    "distractors": [
     "2, 3, 5, 8",
@@ -175,7 +166,7 @@
    ]
   },
   {
-   "stem": "Addition means",
+   "stem": "Addition means ___",
    "answer": "putting things together",
    "distractors": [
     "taking things away",
@@ -184,16 +175,16 @@
    ]
   },
   {
-   "stem": "In 2 + 3 = 5, the answer 5 is called the",
-   "answer": "sum",
+   "stem": "The sign used in addition is ___",
+   "answer": "+",
    "distractors": [
-    "difference",
-    "tens",
-    "place"
+    "–",
+    "=",
+    "×"
    ]
   },
   {
-   "stem": "3 + 0 gives",
+   "stem": "3 + 0 gives ___",
    "answer": "3",
    "distractors": [
     "0",
@@ -202,7 +193,7 @@
    ]
   },
   {
-   "stem": "The sum of 6 and 4 is",
+   "stem": "The sum of 6 and 4 is ___",
    "answer": "10",
    "distractors": [
     "9",
@@ -211,7 +202,7 @@
    ]
   },
   {
-   "stem": "On a number line, adding means jumping to the",
+   "stem": "On a number line, adding means jumping to the ___",
    "answer": "right",
    "distractors": [
     "left",
@@ -220,7 +211,7 @@
    ]
   },
   {
-   "stem": "23 + 14 gives",
+   "stem": "23 + 14 gives ___",
    "answer": "37",
    "distractors": [
     "46",
@@ -229,16 +220,16 @@
    ]
   },
   {
-   "stem": "\"Five less two\" written as a number sentence is",
-   "answer": "5 − 2 = 3",
+   "stem": "48 − 25 gives ___",
+   "answer": "23",
    "distractors": [
-    "5 + 2 = 7",
-    "5 × 2 = 10",
-    "5 ÷ 2 = 3"
+    "33",
+    "63",
+    "73"
    ]
   },
   {
-   "stem": "The answer in subtraction is called the",
+   "stem": "The answer in subtraction is called the ___",
    "answer": "difference",
    "distractors": [
     "sum",
@@ -247,7 +238,7 @@
    ]
   },
   {
-   "stem": "5 − 5 gives",
+   "stem": "5 − 5 gives ___",
    "answer": "0",
    "distractors": [
     "5",
@@ -256,7 +247,7 @@
    ]
   },
   {
-   "stem": "10 − 3 is",
+   "stem": "10 − 3 is ___",
    "answer": "7",
    "distractors": [
     "6",
@@ -265,12 +256,21 @@
    ]
   },
   {
-   "stem": "Subtraction is checked by using",
+   "stem": "Subtraction is checked by using ___",
    "answer": "addition",
    "distractors": [
     "multiplication",
     "counting on fingers only",
     "the ruler"
+   ]
+  },
+  {
+   "stem": "A subtraction story solved by ₦100 − ₦45 leaves ___",
+   "answer": "₦55",
+   "distractors": [
+    "₦45",
+    "₦145",
+    "₦65"
    ]
   }
  ],
@@ -278,7 +278,11 @@
   {
    "stem": "Write the tens and ones in the number 58. ",
    "points": [
-    "5 tens and 8 ones"
+    "5",
+    "tens",
+    "and",
+    "8",
+    "ones"
    ]
   },
   {
@@ -291,7 +295,9 @@
   {
    "stem": "Write these in words: 20, 40 and 100. ",
    "points": [
-    "twenty, forty, one hundred"
+    "twenty",
+    "forty",
+    "one hundred"
    ]
   },
   {

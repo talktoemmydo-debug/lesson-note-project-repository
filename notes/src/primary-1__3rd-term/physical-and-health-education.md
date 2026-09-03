@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — BALANCE AND COORDINATION
 
-**You will learn to**
-
-• balance the body
-
-• move with coordination
-
-• do balance activities
-
-**Things to know**
+**Main content**
 
 • **Balance** is staying steady without falling.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — BALL SKILLS: STRIKING AND KICKING
 
-**You will learn to**
-
-• strike a ball
-
-• kick a ball
-
-• control a ball
-
-**Things to know**
+**Main content**
 
 • We can **strike** a ball with the hand.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — RELAY RACES
 
-**You will learn to**
-
-• say what a relay race is
-
-• run in a relay
-
-• pass the baton
-
-**Things to know**
+**Main content**
 
 • A **relay race** is a race in teams.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — WATER SAFETY
 
-**You will learn to**
-
-• say how to be safe near water
-
-• name dangers near water
-
-• swim with a grown-up
-
-**Things to know**
+**Main content**
 
 • Water can be dangerous if we are not careful.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — SIMPLE FIRST AID
 
-**You will learn to**
-
-• say what first aid is
-
-• give simple first aid
-
-• call for help
-
-**Things to know**
+**Main content**
 
 • **First aid** is the first help we give to someone hurt.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — CARE OF MY TEETH AND SKIN
 
-**You will learn to**
-
-• care for my teeth
-
-• care for my skin
-
-• keep clean every day
-
-**Things to know**
+**Main content**
 
 • We brush our **teeth** every morning and night.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — SAYING NO TO HARMFUL THINGS
 
-**You will learn to**
-
-• say no to harmful things
-
-• name things that harm us
-
-• choose what is good
-
-**Things to know**
+**Main content**
 
 • Some things can **harm** our body.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — FITNESS AND GAMES
 
-**You will learn to**
-
-• say what fitness is
-
-• name games that keep us fit
-
-• play games every day
-
-**Things to know**
+**Main content**
 
 • **Fitness** means the body is strong and well.
 

@@ -11,14 +11,7 @@ line for line as bullets below.*
 
 *Depth: school breakdown for N2 F1 W1.*
 
-**You will learn to**
-
-• say my full name and my nickname clearly
-• say my age and whether I am a boy or a girl
-• name the parts of my body
-• say which sense I use for each thing
-
-**Things to know**
+**Main content**
 
 • My **full name** has two parts: my first name and my family name — "Adaeze Okafor".
 • My **nickname** is the short name people at home call me — "Ada".
@@ -61,14 +54,7 @@ Write your first name five times and draw your face under it.
 
 *Depth: school breakdown for N2 F1 W2.*
 
-**You will learn to**
-
-• name the members of my family and of the extended family
-• say what each member does at home
-• show love and respect to my family
-• use the polite words at home
-
-**Things to know**
+**Main content**
 
 • The members of my family at home: **father, mother, brothers, sisters** — and me.
 • The extended family is bigger: **grandpa, grandma, uncles, aunts, cousins**.
@@ -110,14 +96,7 @@ Draw your family and write one word under each person: father, mother, brother, 
 
 *Depth: school breakdown for N2 F1 W3.*
 
-**You will learn to**
-
-• say the name of my school and my class
-• name places in the school and what each is for
-• name the people who work in the school
-• pack and care for my school bag
-
-**Things to know**
+**Main content**
 
 • The name of my school: **______**. My class: **Nursery 2**. I say both out loud.
 • Places in the school: **classroom** (we learn), **playground** (we play), **library** (we read), **toilet** (we freshen up), **office** (the head teacher works).
@@ -158,14 +137,7 @@ Colour the school bag and ring the five things that belong inside it.
 
 *Depth: school breakdown for N2 F1 W4.*
 
-**You will learn to**
-
-• name objects in the classroom
-• state the rules we keep in class
-• keep the classroom clean
-• name the colours of things in the room
-
-**Things to know**
+**Main content**
 
 • Objects in the classroom: **table, chair, board, books, pencils, crayons**, plus the duster, the clock and the shelf.
 • Classroom rule one: **raise your hand** before you speak or before you leave your seat.
@@ -207,14 +179,7 @@ Colour the classroom picture: the book red, the bag blue, the board green, the c
 
 *Depth: school breakdown for N2 F1 W5.*
 
-**You will learn to**
-
-• name the rooms of my house and what each is for
-• say who lives with me and where I sleep and eat
-• describe my street, village or town
-• use near and far, up and down
-
-**Things to know**
+**Main content**
 
 • Rooms in my house: **sitting room** (visitors sit), **kitchen** (food is cooked), **bedroom** (we sleep), **bathroom** (we bathe).
 • Some houses have a **dining room**, a **veranda**, a **store** and a **compound**.
@@ -256,14 +221,7 @@ Draw your house with four rooms and write the name of each room inside it.
 
 *Depth: school breakdown for N2 F1 W6.*
 
-**You will learn to**
-
-• name the colours I can see
-• find circles, squares, triangles and stars in the room
-• compare two things by size
-• name the colours of the Nigerian flag
-
-**Things to know**
+**Main content**
 
 • **Primary colours** (the colours that other colours are mixed from): **red, blue, yellow**.
 • Other colours I know: **black, white, green, brown, orange, purple**.
@@ -305,14 +263,7 @@ Colour three circles red, two squares blue and one triangle yellow.
 
 *Depth: school breakdown for N2 F1 W8.*
 
-**You will learn to**
-
-• name domestic animals and the sound each one makes
-• name wild animals I have seen in pictures
-• name birds and say where animals live
-• tell a domestic animal from a wild animal
-
-**Things to know**
+**Main content**
 
 • **Domestic animals** live with people and are looked after: **dog, cat, goat, chicken, cow**, and in some homes, sheep and rabbit.
 • Their sounds: dog — **woof**; cat — **miaow**; goat — **meh**; hen — **koko**; cow — **moo**.
@@ -356,14 +307,7 @@ Draw four animals, two that live with people and two that live in the bush.
 
 *Depth: school breakdown for N2 F1 W9.*
 
-**You will learn to**
-
-• greet correctly at morning, afternoon and evening
-• greet an elder before myself
-• use the four magic words
-• keep my body and my uniform clean
-
-**Things to know**
+**Main content**
 
 • Morning (before noon): **"Good morning."** Afternoon: **"Good afternoon."** Evening: **"Good evening."** Bedtime: **"Good night."**
 • **We greet elders first** — the grown person is greeted before a child of my age; it is a duty, not a favour.

@@ -11,14 +11,7 @@ Local Government Chairperson, and leadership qualities, from the pack's off-by-o
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W1.*
 
-**You will learn to**
-
-• say who a traditional ruler is
-• tell what a ruler does for the community
-• say why we respect the throne
-• name two things a ruler keeps safe for the people
-
-**Things to know**
+**Main content**
 
 • A **traditional ruler** is the head of the people in his area, chosen from the ruling house by the elders.
 • He is **not a man who was voted for** like the chairperson; his family has held the throne for a long time.
@@ -65,14 +58,7 @@ Draw a ruler on a stool holding a fly whisk, with two people standing on the oth
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W2.*
 
-**You will learn to**
-
-• name the ruler of the North, the West and the East
-• tell one thing each ruler is known by
-• say that Nigeria has many thrones, not one
-• point to where each ruler's people live
-
-**Things to know**
+**Main content**
 
 • In the **North**, the traditional ruler is called an **Emir**; he is known by his **turban** and his **horse**.
 • In the **Southwest**, the ruler is called an **Oba**; he is known by his **long coral beads** and his **crown**.
@@ -120,14 +106,7 @@ Draw three rulers standing side by side: one with a turban, one with a crown and
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W3.*
 
-**You will learn to**
-
-• say what a chief is
-• tell how a person is given a title
-• name two ways a title holder helps
-• say why a title is not a thing we buy
-
-**Things to know**
+**Main content**
 
 • A **title holder** is a man or a woman given an **honourary name** by the ruler, to help govern the people.
 • A **chief** is a title holder who **speaks for a group of families** and answers for them at the palace.
@@ -174,14 +153,7 @@ Draw a chief with a cap and a short staff standing in front of a palace door, an
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W4.*
 
-**You will learn to**
-
-• say what a Baale, an Iyaloja and an Otunba do
-• tell how each one helps the community
-• say why the ruler needs helpers
-• name one way each title keeps the town working
-
-**Things to know**
+**Main content**
 
 • The **Baale** is the **father of the compound or the village street**; he is the oldest and settles small quarrels.
 • The **Iyaloja** is the **mother of the market**; she keeps the stalls in order and settles traders' disputes.
@@ -228,14 +200,7 @@ Draw a market scene with a woman standing by a stall holding a fan, two children
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W5.*
 
-**You will learn to**
-
-• say what a Local Government is
-• name the head of a Local Government
-• tell how a chairperson comes to office
-• say why we count votes
-
-**Things to know**
+**Main content**
 
 • Nigeria is divided big: **the country**, then **36 states and the FCT**, then **774 Local Governments**.
 • A **Local Government** is the **nearest government to the people** — it is the one that touches your street.
@@ -283,14 +248,7 @@ Draw two lines of children in front of a school gate, then draw a table with a b
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W6.*
 
-**You will learn to**
-
-• name four services a chairman provides
-• tell the difference between a ruler and a chairman
-• say what makes a leader good
-• tell how a ruler and a chairman work together
-
-**Things to know**
+**Main content**
 
 • A chairman **builds and mends the roads**, so that our yam and palm oil can reach the town.
 • He **sees to the primary schools** — rooms, benches, books and the teacher's pay.
@@ -338,14 +296,7 @@ Draw a road with two holes in it, a man with a shovel mending it, and a boy carr
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W8.*
 
-**You will learn to**
-
-• name five qualities of a good leader
-• tell why a leader must listen
-• say what fairness looks like in my class
-• show responsibility with one small job
-
-**Things to know**
+**Main content**
 
 • A **leader** is anybody who **goes in front** — a ruler, a chairman, a monitor, a mother, the one holding the rope.
 • The first quality is **honesty**: a leader tells the truth even when the truth will bring him trouble.
@@ -392,14 +343,7 @@ Draw a monitor standing at the head of a line of four children, one hand up to k
 
 *Depth: NERDC Nursery 3 · Nigerian History · Third Term W9.*
 
-**You will learn to**
-
-• say what a class monitor does
-• tell how a leader leads by example
-• name three ways I can lead today
-• say how a leader shows respect to others
-
-**Things to know**
+**Main content**
 
 • A **class monitor** is a child chosen to **keep order**, to carry a note to the office and to stand at the head of the line.
 • A **prefect** does the same for the whole school; he is a leader **before he is a boss**.

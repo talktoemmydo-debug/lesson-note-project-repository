@@ -10,10 +10,10 @@
 31. a e i o u; 21 consonants
 32. three of them; a, a, a
 33. dad; man; sun
-34. correct copying of both sentences
+34. correct; copying; of; both; sentences
 35. you, me, her, we; the, this, they
 36. th (they, the); ck (black, clock)
-37. any correct pairs: this/think, back/duck, what/when, phone/photo, ship/fish, chair/much
+37. any correct pairs: this/think; back/duck; what/when; phone/photo; ship/fish; chair/much
 38. pl — play; fl — fly; gr — greet
 39. This is the fan.; They see me. (any correct use)
 40. read aloud, slowly; mouth open, left to right; go back to the word you did not know

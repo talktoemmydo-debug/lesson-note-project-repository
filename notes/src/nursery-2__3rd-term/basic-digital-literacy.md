@@ -12,14 +12,7 @@ how the parts work together), with the same pool of input and output devices acr
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W1.*
 
-**You will learn to**
-
-• say what headphones are for
-• wear headphones the right way
-• name two machines that use headphones
-• say three rules for caring for a computer
-
-**Things to know**
+**Main content**
 
 • **Headphones** are two small sound cups on a band; they put sound **into the ears** and nowhere else.
 • We use headphones to hear a story, a song or a lesson **without disturbing the rest of the class**.
@@ -66,14 +59,7 @@ Draw a pair of headphones with a band and two round cups, then draw a child wear
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W2.*
 
-**You will learn to**
-
-• say what the CPU is
-• tell what the CPU does for the whole machine
-• name the box where the CPU lives
-• say why we do not open the box
-
-**Things to know**
+**Main content**
 
 • The **CPU** is the part of the computer that **does the thinking**; it is like the **head** of a person.
 • When you press a key, the news runs to the **CPU**, and the CPU decides what the screen will show.
@@ -120,14 +106,7 @@ Draw a big box with a small square inside it and dots for the air holes, then dr
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W3.*
 
-**You will learn to**
-
-• say what RAM is for
-• tell how RAM is different from the hard drive
-• say what happens to RAM when power goes off
-• name one thing we do before we lose our work
-
-**Things to know**
+**Main content**
 
 • **RAM** is the computer's **short memory**; it holds what we are working on **just now**.
 • RAM is like **carrying things in both hands**: it is fast, but the hands can hold only so much.
@@ -174,14 +153,7 @@ Draw two hands carrying three blocks each, then draw an empty box beside them wi
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W4.*
 
-**You will learn to**
-
-• say what the hard drive keeps
-• tell where our picture and our song are kept
-• name one thing that hurts a hard drive
-• say the word for putting work back into the machine
-
-**Things to know**
+**Main content**
 
 • The **hard drive** is the computer's **keeping box**; what goes in there stays until we take it out.
 • Our **drawing**, our **song** and the **story we wrote** live in the hard drive.
@@ -228,14 +200,7 @@ Draw a box with a picture, a note and a song card inside it, then draw a small s
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W5.*
 
-**You will learn to**
-
-• say what a motherboard is
-• name three parts that sit on it
-• tell how parts pass news to one another
-• say why water is the enemy of a board
-
-**Things to know**
+**Main content**
 
 • The **motherboard** is the **big flat board** inside the box that **joins all the parts together**.
 • It is like the **floor of a house**: the CPU, the RAM and the hard drive all sit on it and are connected.
@@ -282,14 +247,7 @@ Draw a big flat square board, put three small boxes on it and join them with str
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W6.*
 
-**You will learn to**
-
-• say what a power supply does
-• name where the power for a machine comes from
-• tell how a machine keeps working when light goes off
-• say two safety rules about electricity
-
-**Things to know**
+**Main content**
 
 • The **power supply** is the part inside the box that **takes electricity in** and gives it to the other parts.
 • Without power the CPU cannot think, the screen cannot shine and the fan cannot turn.
@@ -336,14 +294,7 @@ Draw a wall socket with a plug in it, a cable running to a box, and a small swit
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W8.*
 
-**You will learn to**
-
-• say why a machine needs cooling
-• point to the places air goes in and out
-• tell where a machine must stand to stay cool
-• name one thing that stops a fan from turning
-
-**Things to know**
+**Main content**
 
 • A machine **works hard**, and hard work makes **heat** — the same way running makes your legs warm.
 • **Too much heat** will spoil the CPU, so the machine has a **cooling fan** inside it.
@@ -390,14 +341,7 @@ Draw a box with three lines of holes on one side and a round fan with four blade
 
 *Depth: NERDC Nursery 3 · Basic Digital Literacy · Third Term W9.*
 
-**You will learn to**
-
-• tell the story of a letter from the keyboard to the paper
-• name an input device and an output device
-• say what hardware and software mean
-• put three steps of computer work in order
-
-**Things to know**
+**Main content**
 
 • **Input** means things that send news **into** the machine: a **keyboard**, a **mouse**, a
   **microphone**, a **scanner** and a **webcam**.

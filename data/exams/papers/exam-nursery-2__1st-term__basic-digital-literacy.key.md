@@ -10,7 +10,7 @@
 31. computer; tablet; smartphone; smart watch; camera
 32. calls; photographs; plays music
 33. monitor; keyboard; mouse; CPU
-34. the monitor shows work; the CPU does the thinking
+34. the; monitor; shows; work;; the; CPU; does; the; thinking
 35. bank; hospital; school; shop; home
 36. keep food and drink away; wipe with a soft dry cloth; carry with two hands; do not drop or hit it
 37. walk, do not run; no food or drink on the desk; do not touch cables or sockets

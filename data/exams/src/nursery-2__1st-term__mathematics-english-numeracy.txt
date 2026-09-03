@@ -5,47 +5,41 @@ class: Nursery 2
 term: 1st Term
 
 [objective]
-Two hundred is the same as || twenty tens || two tens || two hundred ones and two tens || twenty ones
-In the number 163, the digit 6 stands for || six tens || six hundreds || six units || sixteen units
-The expanded form of 128 is || 100 + 20 + 8 || 1 + 2 + 8 || 100 + 28 || 12 + 8
-Counting in tens from 170, the next number is || 180 || 171 || 160 || 187
-The number that is 100 + 40 + 7 is || 147 || 174 || 417 || 107
+In the number 163, the digit 6 stands for ___ || six tens || six hundreds || six units || sixteen units
+The expanded form of 128 is ___ || 100 + 20 + 8 || 1 + 2 + 8 || 100 + 28 || 12 + 8
+Counting in tens from 170, the next number is ___ || 180 || 171 || 160 || 187
+The number that is 100 + 40 + 7 is ___ || 147 || 174 || 417 || 107
 Which is greater: 189 or 198? || 198 || 189 || they are equal || cannot be told
-An even number among these is || 146 || 157 || 189 || 131
-In 47, the digit in the ones place is || 7 || 4 || 47 || 0
-Seven tens and five ones make || 75 || 57 || 12 || 705
-Ten ones make || one ten || one hundred || ten hundreds || one thousand
-The number that has 4 tens and 0 ones is || 40 || 4 || 44 || 14
-The digit 6 shows six tens in the number || 61 || 16 || 26 || 6
-In 77, the first 7 stands for || seventy || seven || seven hundred || seventy-seven
-Sixty-five written in words is || "sixty-five" || "fifty-six" || "sixty and five" || "six ten five"
-The correct spelling of the number 13 is || thirteen || threeteen || thirden || three-teen
-"One hundred and three" in figures is || 103 || 130 || 113 || 300
-The figure for forty-nine is || 49 || 94 || 40 || 4
-"Seventy-two" in figures is || 72 || 27 || 70 || 17
-Forty is written in words as || forty || fourty || four-tee || fourty-one
-In 25, the digit 2 stands for || twenty || two || two hundred || five
-One more than 199 is || 200 || 198 || 190 || 201
-Skip counting by twos from 2 gives || 2, 4, 6, 8 || 2, 3, 5, 8 || 2, 12, 22, 32 || 4, 6, 8, 11
-Addition means || putting things together || taking things away || comparing two numbers || sharing a cake
-The sign used in addition is || + || – || = || ×
-In 2 + 3 = 5, the answer 5 is called the || sum || difference || tens || place
-3 + 0 gives || 3 || 0 || 30 || 1
-The sum of 6 and 4 is || 10 || 9 || 12 || 2
-On a number line, adding means jumping to the || right || left || up || down
-23 + 14 gives || 37 || 46 || 36 || 47
-48 − 25 gives || 23 || 33 || 63 || 73
-"Five less two" written as a number sentence is || 5 − 2 = 3 || 5 + 2 = 7 || 5 × 2 = 10 || 5 ÷ 2 = 3
-The answer in subtraction is called the || difference || sum || total || place
-5 − 5 gives || 0 || 5 || 10 || 1
-10 − 3 is || 7 || 6 || 8 || 13
-Subtraction is checked by using || addition || multiplication || counting on fingers only || the ruler
-A subtraction story solved by ₦100 − ₦45 leaves || ₦55 || ₦45 || ₦145 || ₦65
+In 47, the digit in the ones place is ___ || 7 || 4 || 47 || 0
+Seven tens and five ones make ___ || 75 || 57 || 12 || 705
+Ten ones make ___ || one ten || one hundred || ten hundreds || one thousand
+The number that has 4 tens and 0 ones is ___ || 40 || 4 || 44 || 14
+The digit 6 shows six tens in the number ___ || 61 || 16 || 26 || 6
+Sixty-five written in words is ___ || "sixty-five" || "fifty-six" || "sixty and five" || "six ten five"
+The correct spelling of the number 13 is ___ || thirteen || threeteen || thirden || three-teen
+"One hundred and three" in figures is ___ || 103 || 130 || 113 || 300
+The figure for forty-nine is ___ || 49 || 94 || 40 || 4
+"Seventy-two" in figures is ___ || 72 || 27 || 70 || 17
+In 25, the digit 2 stands for ___ || twenty || two || two hundred || five
+One more than 199 is ___ || 200 || 198 || 190 || 201
+Skip counting by twos from 2 gives ___ || 2, 4, 6, 8 || 2, 3, 5, 8 || 2, 12, 22, 32 || 4, 6, 8, 11
+Addition means ___ || putting things together || taking things away || comparing two numbers || sharing a cake
+The sign used in addition is ___ || + || – || = || ×
+3 + 0 gives ___ || 3 || 0 || 30 || 1
+The sum of 6 and 4 is ___ || 10 || 9 || 12 || 2
+On a number line, adding means jumping to the ___ || right || left || up || down
+23 + 14 gives ___ || 37 || 46 || 36 || 47
+48 − 25 gives ___ || 23 || 33 || 63 || 73
+The answer in subtraction is called the ___ || difference || sum || total || place
+5 − 5 gives ___ || 0 || 5 || 10 || 1
+10 − 3 is ___ || 7 || 6 || 8 || 13
+Subtraction is checked by using ___ || addition || multiplication || counting on fingers only || the ruler
+A subtraction story solved by ₦100 − ₦45 leaves ___ || ₦55 || ₦45 || ₦145 || ₦65
 
 [subobjective]
-Write the tens and ones in the number 58. :: 5 tens and 8 ones
+Write the tens and ones in the number 58. :: 5 | tens | and | 8 | ones
 Write 147 in expanded form and say what each digit stands for. :: 100 + 40 + 7 | 1 hundred, 4 tens, 7 ones
-Write these in words: 20, 40 and 100. :: twenty, forty, one hundred
+Write these in words: 20, 40 and 100. :: twenty | forty | one hundred
 Add: 20 + 30 and 28 + 7. :: 50 | 35
 Subtract: 57 − 23 and 42 − 15. :: 34 | 27
 Mention two ways to check an addition sum. :: count back with subtraction | add again the other way round | use the number line

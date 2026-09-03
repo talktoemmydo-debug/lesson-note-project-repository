@@ -7,8 +7,8 @@
 
 **Sections B & C (marking guide)**
 
-31. light; sky; land and plants; sun, moon, stars; fish and birds; man and animals
-32. plants and dry land; lights in the sky
+31. light; sky; land and plants; sun; moon; stars; fish and birds; man and animals
+32. plants; and; dry; land;; lights; in; the; sky
 33. to make it holy; to set an example; to enjoy what He made
 34. food; water; clothes; shelter; schools and teachers; our body
 35. before meals; in songs; by prayer; by sharing

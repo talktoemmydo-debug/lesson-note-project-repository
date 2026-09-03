@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — THE FAMILY
 
-**You will learn to**
-
-• say what a family is
-
-• name members of a family
-
-• love our family
-
-**Things to know**
+**Main content**
 
 • A **family** is a group of people related to one another.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — OUR COMMUNITY
 
-**You will learn to**
-
-• say what a community is
-
-• name people in our community
-
-• love our community
-
-**Things to know**
+**Main content**
 
 • A **community** is a group of people living in one place.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — RULES AND REGULATIONS
 
-**You will learn to**
-
-• say what rules are
-
-• name rules at home and school
-
-• obey rules
-
-**Things to know**
+**Main content**
 
 • **Rules** are what we must do or not do.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — OUR RIGHTS AND DUTIES
 
-**You will learn to**
-
-• name our rights
-
-• name our duties
-
-• do our duties
-
-**Things to know**
+**Main content**
 
 • A **right** is something we are free to have or do.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — RESPECT AND HONESTY
 
-**You will learn to**
-
-• show respect
-
-• be honest
-
-• tell the truth
-
-**Things to know**
+**Main content**
 
 • **Respect** is showing honour to others.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — LIVING TOGETHER IN PEACE
 
-**You will learn to**
-
-• live in peace with others
-
-• share and care
-
-• settle quarrels well
-
-**Things to know**
+**Main content**
 
 • **Peace** is living without fighting.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — OUR CULTURE AND CUSTOMS
 
-**You will learn to**
-
-• say what culture is
-
-• name our customs
-
-• respect our culture
-
-**Things to know**
+**Main content**
 
 • **Culture** is the way of life of a people.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — CARING FOR OUR COMMUNITY
 
-**You will learn to**
-
-• care for our community
-
-• keep it clean and safe
-
-• help one another
-
-**Things to know**
+**Main content**
 
 • Our **community** is the people and place we live with.
 
@@ -604,15 +540,7 @@ written for them.
 
 ### WEEK 12 — BEING A GOOD CITIZEN
 
-**You will learn to**
-
-• say what a good citizen is
-
-• do things a good citizen does
-
-• love our country
-
-**Things to know**
+**Main content**
 
 • A **good citizen** loves and helps their country.
 

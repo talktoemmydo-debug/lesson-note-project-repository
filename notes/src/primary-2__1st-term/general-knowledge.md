@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — STATES AND CAPITALS I: NORTH-CENTRAL AND NORTH-WEST
 
-**You will learn to**
-
-• name states in the North-Central and North-West
-
-• name their capitals
-
-• know our country's states
-
-**Things to know**
+**Main content**
 
 • Nigeria has **36 states** and the **FCT** (Federal Capital Territory).
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — STATES AND CAPITALS II: NORTH-EAST AND SOUTH-SOUTH
 
-**You will learn to**
-
-• name states in the North-East and South-South
-
-• name their capitals
-
-• know more states
-
-**Things to know**
+**Main content**
 
 • **North-East** states include **Borno**, **Bauchi**, **Adamawa** and **Yobe**.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — STATES AND CAPITALS III: SOUTH-EAST, SOUTH-WEST AND FCT
 
-**You will learn to**
-
-• name states in the South-East and South-West
-
-• name the FCT and its capital
-
-• know all the zones
-
-**Things to know**
+**Main content**
 
 • **South-East** states include **Anambra**, **Enugu**, **Imo**, **Abia** and **Ebonyi**.
 
@@ -232,15 +208,7 @@ written for them.
 
 ### WEEK 4 — HOW WE ARE GOVERNED: LOCAL, STATE, FEDERAL
 
-**You will learn to**
-
-• name the levels of government
-
-• say what each level does
-
-• know our leaders
-
-**Things to know**
+**Main content**
 
 • Nigeria has **three** levels of government.
 
@@ -306,15 +274,7 @@ written for them.
 
 ### WEEK 5 — OUR LEADERS TODAY (CURRENT AFFAIRS I)
 
-**You will learn to**
-
-• name our leaders today
-
-• say what they do
-
-• follow current affairs
-
-**Things to know**
+**Main content**
 
 • Our **leaders** are the people who rule us today.
 
@@ -380,15 +340,7 @@ written for them.
 
 ### WEEK 6 — NATIONAL SYMBOLS II: MEANINGS AND PROPER USE
 
-**You will learn to**
-
-• name our national symbols
-
-• say what they mean
-
-• use them well
-
-**Things to know**
+**Main content**
 
 • **National symbols** are signs of our country.
 
@@ -454,15 +406,7 @@ written for them.
 
 ### WEEK 8 — NIGERIAN HISTORY II: COLONIAL ERA AND INDEPENDENCE
 
-**You will learn to**
-
-• say what the colonial era was
-
-• say when Nigeria became independent
-
-• know our history
-
-**Things to know**
+**Main content**
 
 • Long ago, **Britain** ruled Nigeria.
 
@@ -528,15 +472,7 @@ written for them.
 
 ### WEEK 9 — NIGERIAN HEROES: WHO THEY WERE AND WHAT THEY DID
 
-**You will learn to**
-
-• name Nigerian heroes
-
-• say what they did
-
-• learn from them
-
-**Things to know**
+**Main content**
 
 • **Heroes** are people who did great things for Nigeria.
 

@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — LIVING AND NON-LIVING THINGS
 
-**You will learn to**
-
-• tell living from non-living things
-
-• name living things
-
-• name non-living things
-
-**Things to know**
+**Main content**
 
 • **Living things** are things that have life.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — PLANTS AROUND US
 
-**You will learn to**
-
-• name parts of a plant
-
-• name types of plants
-
-• care for plants
-
-**Things to know**
+**Main content**
 
 • **Plants** are living things.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — ANIMALS AROUND US
 
-**You will learn to**
-
-• name animals
-
-• tell where animals live
-
-• care for animals
-
-**Things to know**
+**Main content**
 
 • **Animals** are living things.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — THE HUMAN BODY
 
-**You will learn to**
-
-• name parts of the body
-
-• say what each part does
-
-• care for the body
-
-**Things to know**
+**Main content**
 
 • The **human body** has many parts.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — OUR SENSES
 
-**You will learn to**
-
-• name the five senses
-
-• say what each sense does
-
-• care for our sense organs
-
-**Things to know**
+**Main content**
 
 • We have **five** senses.
 
@@ -384,15 +344,7 @@ written for them.
 
 ### WEEK 6 — HEALTH AND CLEANLINESS
 
-**You will learn to**
-
-• keep the body clean
-
-• name ways to be healthy
-
-• prevent sickness
-
-**Things to know**
+**Main content**
 
 • **Health** means the body is well and not sick.
 
@@ -458,15 +410,7 @@ written for them.
 
 ### WEEK 8 — AIR AND WATER
 
-**You will learn to**
-
-• say what air is
-
-• say what water is
-
-• use air and water well
-
-**Things to know**
+**Main content**
 
 • **Air** is all around us.
 
@@ -532,15 +476,7 @@ written for them.
 
 ### WEEK 9 — WEATHER AND SEASONS
 
-**You will learn to**
-
-• name types of weather
-
-• name the seasons
-
-• dress for the weather
-
-**Things to know**
+**Main content**
 
 • **Weather** is how the air is at a time.
 

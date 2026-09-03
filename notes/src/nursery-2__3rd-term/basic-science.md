@@ -11,14 +11,7 @@ exploring the environment is taken from Primary 1 Basic Science, First Term W1�
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W2 (pp 497–502).*
 
-**You will learn to**
-
-• say why we keep water in a covered container
-• name the containers we store water in at home
-• tell how to keep stored water clean
-• wash a container before I use it
-
-**Things to know**
+**Main content**
 
 • **Water keeps best** in a container that is **clean** and has a **lid**.
 • A lid keeps out **dirt**, **dust**, **flies** and **small insects** that want to fall in.
@@ -68,14 +61,7 @@ Draw the water container in your house with its lid on, then colour the lid the 
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W3 (pp 497–502).*
 
-**You will learn to**
-
-• say what a water-borne disease is
-• name diseases that come from dirty water
-• tell how dirty water makes us sick
-• say how to stop these sicknesses
-
-**Things to know**
+**Main content**
 
 • A **water-borne disease** is a sickness that comes to us from **dirty water** or from water with
   germs in it.
@@ -126,14 +112,7 @@ Draw a glass of clean covered water and a glass with dirt in it, then colour onl
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W4 (pp 497–502).*
 
-**You will learn to**
-
-• say what security means
-• name gadgets that keep people and things safe
-• tell what each gadget does
-• do the right thing when an alarm sounds
-
-**Things to know**
+**Main content**
 
 • **Security** means keeping **people** and **property** safe from thieves, fire and danger.
 • A **security gadget** is a machine or a tool that helps people stay safe.
@@ -182,14 +161,7 @@ Draw the gate of your house with its lock, then colour the gate and draw the key
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W7 (pp 497–502).*
 
-**You will learn to**
-
-• say that animals live in different places
-• name the home of an animal
-• tell a wild home from a home made by people
-• say why an animal needs a home
-
-**Things to know**
+**Main content**
 
 • Every animal has a **home** where it **sleeps, hides its young ones and stays safe**.
 • Names we must know: **dog → kennel**, **chicken → coop**, **cow → shed or barn**, **horse → stable**,
@@ -241,14 +213,7 @@ Draw six animals and their homes on one page, join each animal to its home with 
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W8 (pp 497–502).*
 
-**You will learn to**
-
-• say that animals have young ones
-• name the young one of an animal
-• tell how a parent animal cares for its young
-• match an animal to its young one
-
-**Things to know**
+**Main content**
 
 • A **young one** is the baby of an animal; most young ones **look like their parents**, only smaller.
 • The names we must know: **dog → puppy**, **cat → kitten**, **cow → calf**, **horse → foal**,
@@ -301,14 +266,7 @@ pair on one line of your book.
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W9 (pp 497–502).*
 
-**You will learn to**
-
-• say what a machine is
-• name the simple machines used at home
-• tell the work each one does
-• handle a sharp tool safely
-
-**Things to know**
+**Main content**
 
 • A **machine** is anything people make that **makes work easier, faster or better**.
 • A **simple machine** has few parts and is moved by my own strength.
@@ -362,14 +320,7 @@ Draw four tools from your home in a row and colour the two that a child may hold
 
 *Depth: NERDC Nursery 3 · Basic Science and Technology · Third Term W10 (pp 497–502).*
 
-**You will learn to**
-
-• name the simple machines we use in school
-• tell what each one does for me
-• use a sharp machine safely in class
-• keep a school tool in good order
-
-**Things to know**
+**Main content**
 
 • A **pencil sharpener** cuts the wood away so the lead comes out to a point; turn the pencil, not the
   blade.
@@ -422,14 +373,7 @@ Trace the straight edge of your ruler five times to make five lines, then colour
 *Depth: NERDC Primary 1 · Basic Science · First Term W1–2 (pp 624–625), the year's ending look at the
 child's own surroundings.*
 
-**You will learn to**
-
-• say what my environment means
-• name things I see, hear and smell around me
-• describe my classroom, my compound and my street
-• keep the place where I live clean
-
-**Things to know**
+**Main content**
 
 • My **environment** is **everything around me**: the room I sit in, the compound, the street, the
   market, the church or mosque, the stream, the trees and the people.

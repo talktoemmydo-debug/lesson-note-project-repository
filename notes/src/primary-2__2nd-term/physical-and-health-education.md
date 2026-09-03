@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — SAFETY EDUCATION: ROAD SAFETY
 
-**You will learn to**
-
-• say what road safety is
-
-• cross the road well
-
-• obey road rules
-
-**Things to know**
+**Main content**
 
 • **Road safety** means being safe on the road.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — SAFETY EDUCATION: PERSONAL SAFETY AND EMERGENCY NUMBERS
 
-**You will learn to**
-
-• keep ourselves safe
-
-• know emergency numbers
-
-• call for help
-
-**Things to know**
+**Main content**
 
 • **Personal safety** means keeping ourselves safe.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — INTRODUCTION TO PHYSICAL EDUCATION
 
-**You will learn to**
-
-• say what physical education is
-
-• name what we do in PHE
-
-• enjoy PHE
-
-**Things to know**
+**Main content**
 
 • **Physical education** (PHE) is learning about the body and movement.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — MOVING OUR BODY PARTS (PART 1)
 
-**You will learn to**
-
-• move the arms
-
-• move the legs
-
-• move the head
-
-**Things to know**
+**Main content**
 
 • Our **body parts** move in different ways.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — MOVING OUR BODY PARTS (PART 2)
 
-**You will learn to**
-
-• bend the body
-
-• stretch the body
-
-• balance the body
-
-**Things to know**
+**Main content**
 
 • We **bend** our body down.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — ATHLETICS I: RUNNING
 
-**You will learn to**
-
-• run well
-
-• name types of running
-
-• enjoy running
-
-**Things to know**
+**Main content**
 
 • **Athletics** are sports like running and jumping.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — ATHLETICS II: JUMPING
 
-**You will learn to**
-
-• jump well
-
-• name types of jumping
-
-• enjoy jumping
-
-**Things to know**
+**Main content**
 
 • **Jumping** is pushing off the ground with the feet.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — BALL GAMES I: INTRODUCTION
 
-**You will learn to**
-
-• say what ball games are
-
-• name ball games
-
-• use a ball
-
-**Things to know**
+**Main content**
 
 • **Ball games** are games played with a ball.
 

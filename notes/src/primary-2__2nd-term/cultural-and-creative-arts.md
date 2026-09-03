@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — CREATING DRAMA FROM STORIES
 
-**You will learn to**
-
-• make a drama from a story
-
-• choose a story
-
-• plan the drama
-
-**Things to know**
+**Main content**
 
 • We can make a **drama** from a story.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — STAGING A DRAMA
 
-**You will learn to**
-
-• act out a drama
-
-• use voice and body
-
-• enjoy the drama
-
-**Things to know**
+**Main content**
 
 • **Staging** a drama means acting it out.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — TRADITIONAL FABRICS AND THEIR ORIGINS
 
-**You will learn to**
-
-• name traditional fabrics
-
-• say where they come from
-
-• value our fabrics
-
-**Things to know**
+**Main content**
 
 • **Fabrics** are cloths we use for dresses.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — TRADITIONAL DRESSES
 
-**You will learn to**
-
-• name traditional dresses
-
-• say when we wear them
-
-• respect our dress
-
-**Things to know**
+**Main content**
 
 • **Traditional dress** is the clothing of our people.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — TRADITIONAL FASHION ACCESSORIES
 
-**You will learn to**
-
-• name traditional accessories
-
-• say how we use them
-
-• value our accessories
-
-**Things to know**
+**Main content**
 
 • **Accessories** are things we add to our dress.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — MAKING SIMPLE ACCESSORIES
 
-**You will learn to**
-
-• make simple accessories
-
-• use simple materials
-
-• create with care
-
-**Things to know**
+**Main content**
 
 • We can make **simple accessories**.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — MAKING SIMPLE ACCESSORIES (CONTINUED)
 
-**You will learn to**
-
-• make more accessories
-
-• decorate our work
-
-• share what we make
-
-**Things to know**
+**Main content**
 
 • We can make more **accessories**.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — CULTURAL DAY PREPARATION
 
-**You will learn to**
-
-• prepare for cultural day
-
-• plan what to show
-
-• enjoy our culture
-
-**Things to know**
+**Main content**
 
 • **Cultural day** is a special day to show our culture.
 

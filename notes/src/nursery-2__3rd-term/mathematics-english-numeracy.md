@@ -12,14 +12,7 @@ we count, from the pack's off-by-one and off-by-two mapping.*
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W1, held down to the Nursery floor.*
 
-**You will learn to**
-
-• share two things equally between two friends
-• say what half of a thing is
-• find half of a shape and shade it
-• fold a shape into four equal parts and say the name of one part
-
-**Things to know**
+**Main content**
 
 • **Equal** means the parts are the same size; two parts of different sizes are **not** halves.
 • When one orange is shared between two children so that both get the same, each one has **half** — written
@@ -69,14 +62,7 @@ and shade half of each one.
 
 *Depth: NERDC Nursery 3 · Numeracy · Third Term W7 and Primary 1 · Mathematics · Third Term W2.*
 
-**You will learn to**
-
-• say which of two things is longer or shorter
-• measure with the body: the hand span and the foot
-• measure with a pencil, a stick or a piece of thread
-• put three things in order from the shortest to the longest
-
-**Things to know**
+**Main content**
 
 • **Length** is how long a thing is from one end to the other.
 • We compare before we measure: this strap is **longer**, that one is **shorter**, and two may be **the same
@@ -131,14 +117,7 @@ crayon, a pencil and a stick in a row from the shortest to the longest.
 
 *Depth: NERDC Nursery 2 · Numeracy · Third Term W8, with Primary 1 · Mathematics · Third Term W3.*
 
-**You will learn to**
-
-• say which of two things is heavier or lighter
-• sort things into heavy, middle and light
-• compare weights with a hanger balance
-• know that a big thing is not always the heavier thing
-
-**Things to know**
+**Main content**
 
 • **Weight** is how heavy a thing is — how hard your hand has to work to lift it.
 • We say **heavier**, **lighter**, **the heaviest**, **the lightest**, and **the same weight**.
@@ -192,14 +171,7 @@ lower; then colour the blocks.
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W4, with Primary 2 · Mathematics · Second Term W9–W10.*
 
-**You will learn to**
-
-• say the parts of the day and the days of the week in order
-• use yesterday, today and tomorrow rightly
-• name the parts of a clock and read the hour on it
-• say what o'clock and half past look like on the clock face
-
-**Things to know**
+**Main content**
 
 • The day has parts: **morning**, **midday**, **afternoon**, **evening** and **night**.
 • The week has **seven days**: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
@@ -254,14 +226,7 @@ hand on 9 with the long hand straight up. Then draw three things you do at that 
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W7.*
 
-**You will learn to**
-
-• name five shapes that take up room
-• count the flat faces, the edges and the corners of a box
-• sort shapes into the ones that roll and the ones that stack
-• find these shapes in the house and the class
-
-**Things to know**
+**Main content**
 
 • A shape you can **hold** takes up room; we call it a **three-dimensional** shape.
 • A **cube** has six flat faces and every face is a square; a die and a small carton of sugar are cubes.
@@ -316,14 +281,7 @@ Set a cube, a ball, a tin and a cap on the desk, look at them, then draw all fou
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W8.*
 
-**You will learn to**
-
-• name five flat shapes
-• count the sides and the corners of each
-• draw a square, a rectangle and a triangle with a ruler
-• find flat shapes on the things about us
-
-**Things to know**
+**Main content**
 
 • A **flat shape** lies on a surface; it has length and width but nothing to hold.
 • A **triangle** has **three sides** and **three corners**; a **square** has four equal sides and four corners.
@@ -373,14 +331,7 @@ of them into one new shape.
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W9.*
 
-**You will learn to**
-
-• say the next thing in a pattern of shapes
-• make a pattern of your own with shapes and colours
-• find the flat shape inside a shape you can hold
-• tell a line of symmetry on a folded paper
-
-**Things to know**
+**Main content**
 
 • A **pattern** is things repeated in the same order, so that we can say what comes next.
 • In **square, circle, square, circle**, the part that repeats is two shapes; the next is **square**.
@@ -433,14 +384,7 @@ draw the line of symmetry on the square part.
 
 *Depth: NERDC Primary 1 · Mathematics · Third Term W10.*
 
-**You will learn to**
-
-• ask a question and write down the answers
-• record counts with strokes that are easy to add up
-• put the answers into a simple table
-• read a picture chart and a block chart of the class
-
-**Things to know**
+**Main content**
 
 • We **gather** a thing by asking and counting, and then we put the answers in order so that the question is answered.
 • First the question, small and clear: **"Which fruit do you like best — mango, banana or orange?"**

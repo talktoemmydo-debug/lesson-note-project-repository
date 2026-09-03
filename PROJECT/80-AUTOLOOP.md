@@ -171,6 +171,41 @@ counting pass left behind:
 * **Christian Religious Studies carries no plates either, in any term** — owner, 2 Sep 2026: *"CRS does not need
   images."* Five of the thirteen subjects are now word-only (Yoruba, General Knowledge, Nigerian History, Social &
   Citizenship Studies, CRS). Any CRS plates already filed stay where they are; the exemption only stops new debt.
+* **Mathematics and English are word-only too** — owner, 3 Sep 2026: *"include Maths, English, Nigerian History,
+  SCS, among the list of word only subjects, no drawings."* Seven subjects now carry no art: Yoruba, General
+  Knowledge, Nigerian History, Social & Citizenship Studies, CRS, Mathematics, English. Held in `EXEMPT`
+  (`tools/backfill_ledger.py`) and mirrored in `WORD_ONLY` (`tools/polish_audit.py`), which also waives the
+  "nothing for the hands" check for them — a word-only subject gives the child **written or spoken** work, not a
+  drawing. Any plates already filed stay where they are.
+
+### The 3 Sep 2026 house-shape change (owner's instruction, applies from Primary 2 upward)
+
+> *"The lesson notes ought to become more elaborate as we move towards the upper classes… The 'things to know'
+> section, ought to now be 'main content'. You can do away with the objective sections. Also, include Maths,
+> English, Nigerian History, SCS, among the list of word only subjects, no drawings. The drawings henceforth
+> should be more mature than being something like a teddy bear. Give more examples in Maths and English per
+> topic."*
+
+* **`**Things to know**` is now `**Main content**`.** Every one of the 825 authored notes was migrated on
+  3 Sep 2026 (825 objective blocks dropped, 867 content heads renamed — the 54 above 825 are Yoruba's three
+  strands per week). A revision week still says `**What to revise**`; a Yoruba week still carries its strand
+  suffix (`**Main content — Ẹ̀dẹ̀ (…)**`). Both tools accept the old name so a half-migrated tree keeps building.
+* **The `**You will learn to**` objective block is gone.** A note now opens straight into `**Main content**`.
+  This is the *note* objective block. The **`[objective]` section of a term paper is untouched** — the 30/10/5
+  paper shape is unchanged and stays a gate.
+* **Depth runs on a ladder, and the floor is enforced.** `DEPTH` in `tools/polish_audit.py`: Nursery 2 8-12
+  bullets, Primary 1 10-14, Primary 2 14-22, Primary 3 16-24, Primary 4 18-26 (words for the notebook scale with
+  it). Falling **short** of the floor is a **defect** (`too thin:`), not a style note; running long stays
+  advisory. Nursery 2 keeps short notes by design — it is a four-year-old's book.
+* **Maths and English get more worked examples per topic.** Not more prose — more *examples*: more sums, more
+  sentences, more items the child can copy and try.
+* **Drawings grow up.** No teddy-bear prompts. A Primary 2+ `**My own work**` asks for a labelled diagram, a
+  chart, a table, a plan, a map, a graph, a pattern or a written product — the kind of thing the subject
+  actually produces. Nursery keeps its colouring.
+* **Existing work is expanded in place, not deleted.** The Primary 2 topics come straight from
+  `data/curriculum_master.json` and its 24 papers are validated (30/10/5, stems provably answerable from the
+  notes), so deepening means growing `**Main content**` and re-running the gates — never throwing the subject away.
+
 * `polish_audit` counts **hard-wrapped lines**, not sentences, in a `p` block — and the `---` that closes a
   note is counted too. So a `**My own work**` or `**Words for my notebook**` block of **two** source lines is the
   safe house shape; three can tip it over the 1–3 ceiling on the last block of a note.
@@ -186,7 +221,9 @@ the turn's report.  A blocked question is a reason to choose conservatively, not
 ## 6. Done means
 
 * **subject**: 8 (or 9) notes at `0 to fix`, one 30/10/5 paper at `exploitable-longest: 0` with `sheet_lint`
-  0, and **one plate on every note**, all four verified by `gates.py`.
+  0, and **one plate on every note** — except the seven word-only subjects, which carry none, all verified by
+  `gates.py`. `0 to fix` now includes the depth floor: a Primary 2 note with fewer than 14 `**Main content**`
+  bullets is *not* done, it is `too thin`.
 * **term**: `build_term_doc --strict` passes with `rule checks: all clear`, `book_pages --audit` CLEAN with
   every Contents number agreeing, `img_import --check` CLEAN, 13/13 papers rendered — and then the teacher's
   copy for that term.

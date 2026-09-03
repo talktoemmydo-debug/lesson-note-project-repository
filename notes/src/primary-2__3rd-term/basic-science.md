@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — CHANGE IN NATURE
 
-**You will learn to**
-
-• say what change is
-
-• name changes in nature
-
-• notice change around us
-
-**Things to know**
+**Main content**
 
 • A **change** is when something becomes different.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — CHANGE IN PLANTS
 
-**You will learn to**
-
-• say how plants change
-
-• name the stages of a plant
-
-• care for plants
-
-**Things to know**
+**Main content**
 
 • Plants **change** as they grow.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — CHANGE IN ANIMALS
 
-**You will learn to**
-
-• say how animals change
-
-• name young animals
-
-• care for animals
-
-**Things to know**
+**Main content**
 
 • Animals **change** as they grow.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — WATER IN OUR ENVIRONMENT
 
-**You will learn to**
-
-• say where water is
-
-• name uses of water
-
-• keep water clean
-
-**Things to know**
+**Main content**
 
 • **Water** is all around us.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — THE MOUTH, TEETH AND TONGUE
 
-**You will learn to**
-
-• name the parts of the mouth
-
-• say what each part does
-
-• care for the mouth
-
-**Things to know**
+**Main content**
 
 • The **mouth** helps us eat and speak.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — THE TEETH
 
-**You will learn to**
-
-• name the kinds of teeth
-
-• say what teeth do
-
-• care for the teeth
-
-**Things to know**
+**Main content**
 
 • We have **two sets** of teeth.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — NON-LIVING THINGS: ROCKS
 
-**You will learn to**
-
-• say what a rock is
-
-• name kinds of rocks
-
-• tell rocks from living things
-
-**Things to know**
+**Main content**
 
 • A **rock** is a non-living thing.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — LIVING AND NON-LIVING THINGS
 
-**You will learn to**
-
-• tell living from non-living
-
-• name properties of each
-
-• give examples
-
-**Things to know**
+**Main content**
 
 • **Living things** are alive.
 

@@ -16,13 +16,7 @@ form, the answer and the meaning — it does not invent the rest.*
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W1.*
 
-**You will learn to**
-
-• do what you hear in Yoruba and say the action back
-• greet at the right time of the day and answer a greeting
-• sing a play song, move with it and stop when it stops
-
-**Things to know — Ẹ̀dẹ̀ (ṣíe nǹkan — the actions the teacher names)**
+**Main content — Ẹ̀dẹ̀ (ṣíe nǹkan — the actions the teacher names)**
 
 • A word that tells us to do a thing is a **command**: **ẹ dú!** (stand), **ẹ jó!** (sit down), **ẹ rìn!** (walk).
 • More commands we use in class every day: **ẹ ka** (read), **ẹ kọ́** (write), **ẹ wo** (look), **ẹ gbọ́** (listen), **ẹ dáhùn** (reply).
@@ -34,7 +28,7 @@ form, the answer and the meaning — it does not invent the rest.*
 • We answer in a whole line, not one word: **"Mo ń kà á."** (I am reading it), **"Mo ń kọ́ ọ́."** (I am writing it).
 • New words go in the notebook with the action drawn small beside each — a hand, a book, a foot.
 
-**Things to know — Àṣà (ìtẹ̀síwájú ìkíni — greetings at their times)**
+**Main content — Àṣà (ìtẹ̀síwájú ìkíni — greetings at their times)**
 
 • Morning: **"Ẹ káàárọ̀."** — the answer is **"Ẹ ṣe àárọ̀ rere."**
 • Afternoon: **"Ẹ ká ọ̀sán."** — the answer is **"Ẹ ṣe ọ̀sán rere."**
@@ -45,7 +39,7 @@ form, the answer and the meaning — it does not invent the rest.*
 • We greet the first person we meet in the morning, and we greet all of them in turn — nobody is skipped.
 • Time changes, the greeting changes; the respect stays the same.
 
-**Things to know — Lítíréṣọ̀ (orin eré ìdárayá — the play song)**
+**Main content — Lítíréṣọ̀ (orin eré ìdárayá — the play song)**
 
 • A play song is not sung sitting down: it carries the step, the clap and the turn.
 • The leader sings a line; the class **answers the same line back** — that is how a play song is built.
@@ -85,13 +79,7 @@ you like best.
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W2.*
 
-**You will learn to**
-
-• say a Yoruba word sound by sound and then say it at once
-• name the fruits our land carries and where they come from
-• tell an àlọ́ àpamọ́ from an àlọ́ àpàgbé
-
-**Things to know — Ẹ̀dẹ̀ (sọ̀rọ̀ onílétà pọ̀ — joining the letters)**
+**Main content — Ẹ̀dẹ̀ (sọ̀rọ̀ onílétà pọ̀ — joining the letters)**
 
 • A Yoruba syllable is short and clean: **à**, **kà**, **rà** — one vowel with one consonant, and the tone rides on it.
 • The school writes the drill **fawẹ̀lì + kọ́nsonantì + fawẹ̀lì**: a vowel, a consonant, a vowel — **ọ + kọ́ = ọkọ́**.
@@ -102,7 +90,7 @@ you like best.
 • We count the sounds on our fingers: **à-kà-rá** is three sounds, three fingers up.
 • Every day this week, one new word is joined on the board before we read it.
 
-**Things to know — Àṣà (oríṣiríṣi ẹsọ́ ilé wa — the fruits of our land)**
+**Main content — Àṣà (oríṣiríṣi ẹsọ́ ilé wa — the fruits of our land)**
 
 • **ọ̀gẹ̀dẹ̀** — banana · **áńbà** — mango · **ọ̀pẹ̀** — palm fruit · **bílíbilí** — watermelon · **àmùtì** — pineapple.
 • Ọ̀gẹ̀dẹ̀ and áńbà come from a tree in the compound; ọ̀pẹ̀ comes from the palm and bílíbilí from the ground.
@@ -111,7 +99,7 @@ you like best.
 • When a child picks a fruit from a neighbour's tree, he asks first; a Yoruba home shares what it has and gives the first of the season to an elder.
 • Fruits wash before they are eaten, and the peel goes into the bin, not on the path.
 
-**Things to know — Lítíréṣọ̀ (àlọ́ àpamọ́ àti àlọ́ àpàgbé)**
+**Main content — Lítíréṣọ̀ (àlọ́ àpamọ́ àti àlọ́ àpàgbé)**
 
 • An àlọ́ begins with a call and an answer: **"Àlọ́ o!"** — **"Àpamọ́!"**
 • **Àlọ́ àpamọ́** hides a lesson inside it; when it ends, the hearer can say what he learnt.
@@ -151,13 +139,7 @@ Write five joined words, and under each one draw the thing it names; colour the 
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W3.*
 
-**You will learn to**
-
-• ask the teacher a question and answer one in a full line
-• keep the body and the mouth clean at the two set times
-• sing a working song with the leader and the answer
-
-**Things to know — Ẹ̀dẹ̀ (íṣọ̀rọ̀ńbẹ̀sí — teacher and pupil talking)**
+**Main content — Ẹ̀dẹ̀ (íṣọ̀rọ̀ńbẹ̀sí — teacher and pupil talking)**
 
 • The pupil opens with respect: **"Báwo ni, olùkọ́?"** — the teacher: **"Ó dára, ọmọ mi."**
 • To ask for a thing: **"Ẹ jọ̀wọ́, fi ìwé sí mi."** — to be given: **"Ẹ ṣé, olùkọ́."**
@@ -168,7 +150,7 @@ Write five joined words, and under each one draw the thing it names; colour the 
 • At the end of the talk both say **"À ń ṣé."**
 • When **"Ẹ sí i"** (go on) is said, the next child speaks and the class listens to the end.
 
-**Things to know — Àṣà (ìmọ́tótó: ara fọ́, ẹnu fọ́)**
+**Main content — Àṣà (ìmọ́tótó: ara fọ́, ẹnu fọ́)**
 
 • The body is washed twice a day — **òwúrọ̀** before school and **ìṣẹ́** (evening) before rest.
 • Hands wash with soap before food and after the toilet; the nails are cut short, not bitten.
@@ -177,7 +159,7 @@ Write five joined words, and under each one draw the thing it names; colour the 
 • Feet wash and dry before the sandals go on; a wet shoe spoils and the foot itches.
 • Food is covered, the compound is swept, and the water in the bucket is for washing, not for drinking.
 
-**Things to know — Lítíréṣọ̀ (orin kíkó — the carrying song)**
+**Main content — Lítíréṣọ̀ (orin kíkó — the carrying song)**
 
 • A carrying song is sung when hands are busy: it keeps the step of the load and the step of the feet together.
 • One person **leads the line**, everybody else **carries the answer**: "ọ̀wọ́ ọ̀wọ́ — ẹẹ!"
@@ -215,13 +197,7 @@ Draw a cup, a brush and a bar of soap in three boxes on one page, and write one 
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W4.*
 
-**You will learn to**
-
-• count from twenty-one to forty in Yoruba
-• name the seven days and say the meaning one day carries
-• read a poem aloud with the voice up and the pause in
-
-**Things to know — Ẹ̀dẹ̀ (oníka 21–40 — àròpọ̀ àti àyọkúrò)**
+**Main content — Ẹ̀dẹ̀ (oníka 21–40 — àròpọ̀ àti àyọkúrò)**
 
 • Twenty is **ogún**; from there we keep adding with **àti**: **ogún àti ọ̀kan** (21), **ogún àti èjì** (22), **ogún àti ẹ̀ta** (23).
 • Thirty has its own name: **ọ̀rúnmọ́lẹ́dógún** — and it is ogún àti ẹ́wàá (20 + 10).
@@ -232,7 +208,7 @@ Draw a cup, a brush and a bar of soap in three boxes on one page, and write one 
 • Say the ladder out loud: 21, 22, 23 … 40; then come back down from 40 to 21 without falling.
 • The marks of the number are written small in the notebook: **ogún àti ẹ̀rin = 24**.
 
-**Things to know — Àṣà (ọjọ́ inú ọ̀ṣẹ́ — the story of each day)**
+**Main content — Àṣà (ọjọ́ inú ọ̀ṣẹ́ — the story of each day)**
 
 • **Ọjọ́ Àìkú** — Sunday: the day of thanks and rest; "àìkú" is not-dying, so we sing and we visit.
 • **Ọjọ́ Ayé** — Monday: the day the world opens; market, farm and school all begin again.
@@ -243,7 +219,7 @@ Draw a cup, a brush and a bar of soap in three boxes on one page, and write one 
 • **Ọjọ́ Àbámẹ́ta** — Saturday: the day we meet again — compound swept, hair combed, play allowed.
 • Seven days make one ọ̀ṣẹ́; the week has no day we sleep through.
 
-**Things to know — Lítíréṣọ̀ (èwì kíkà — reading a poem out)**
+**Main content — Lítíréṣọ̀ (èwì kíkà — reading a poem out)**
 
 • A poem is not read like a tale: it has room inside it for the breath.
 • One line, one breath; a comma is a stop, a full stop is a rest.
@@ -283,13 +259,7 @@ Write 21 to 30 in figures and in Yoruba on one folded sheet, then cut the sheet 
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W5.*
 
-**You will learn to**
-
-• name the colours of things around us in Yoruba
-• tell an ìwà rere from an ìwà tí kò dára
-• say the poem of work with its meaning
-
-**Things to know — Ẹ̀dẹ̀ (àwọ̀ olóríṣiríṣi — the many colours)**
+**Main content — Ẹ̀dẹ̀ (àwọ̀ olóríṣiríṣi — the many colours)**
 
 • **funfun** — white · **dúdú** — black · **púpà** — red · **àwọ̀ ọ̀sàn** — orange · **àwọ̀ ewé** — green · **àwọ̀ òfurufú** — blue.
 • The colour of the leaf is **àwọ̀ ewé** because it is the colour of ẹwẹ̀; the colour of the sky is **àwọ̀ òfurufú**.
@@ -300,7 +270,7 @@ Write 21 to 30 in figures and in Yoruba on one folded sheet, then cut the sheet 
 • **àwọ̀ wúnì** is purple, and **fàdákà** is the pale shine of a new coin.
 • The colour comes after the thing: **bọ́ọ̀lù púpà** (a red ball), **ìwé funfun** (a white book).
 
-**Things to know — Àṣà (ìwà rere àti ìwà tí kò dára)**
+**Main content — Àṣà (ìwà rere àti ìwà tí kò dára)**
 
 • **Ìwà rere** is good character: **ọ̀wọ̀** (respect), **ìrẹ̀lẹ̀** (humility), **òtítọ́** (truth), **ìpín** (sharing), **kíkó nǹkan ṣe ní títò** (doing a thing well).
 • **Ìwà tí kò dára** is the bad kind: **èké** (a lie), **ìjìgbe** (taking what is not ours), **ìpaniyaníyàn** (making a child afraid), **àìmọ́tótó** (dirtiness) and **sísọ̀rọ̀ àyò** (tale-bearing).
@@ -308,7 +278,7 @@ Write 21 to 30 in figures and in Yoruba on one folded sheet, then cut the sheet 
 • A good act done once is a start; done every day, it becomes ìwà — the character the elders name.
 • When we do wrong, we say **"Ì jẹ́ mi, ẹ̀ṣẹ́ mi ni"** (it is my fault) and put the thing right.
 
-**Things to know — Lítíréṣọ̀ (èwì: ìṣẹ́ ni òògùn ìṣẹ́)**
+**Main content — Lítíréṣọ̀ (èwì: ìṣẹ́ ni òògùn ìṣẹ́)**
 
 • The line the school prints is: **"Iṣẹ́ ni òògùn ìẹ́, tí kò bá ṣiṣẹ́, òògùn wo ló ń lò ó?"**
 • It says: work is the medicine for shame; a child who will not work has no medicine left.
@@ -346,13 +316,7 @@ Colour one leaf green, one ball red, one cup white and one sky blue, and write t
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W6.*
 
-**You will learn to**
-
-• listen once, hear the word, and write it down with its marks
-• do the duty of an ẹ̀gbọ́n and the duty of an àbúrò
-• answer the character song's question in a full line
-
-**Things to know — Ẹ̀dẹ̀ (Apeko: gbọ́, kọ́ sílẹ̀ — hear it, write it)**
+**Main content — Ẹ̀dẹ̀ (Apeko: gbọ́, kọ́ sílẹ̀ — hear it, write it)**
 
 • Sit straight, hold the pencil, and keep both hands on the book — that is how the ear opens.
 • The word is said **twice**: the first time we hear it, the second time we catch its marks.
@@ -363,7 +327,7 @@ Colour one leaf green, one ball red, one cup white and one sky blue, and write t
 • A wrong word is not rubbed hard: cross it with one clean line and write it again.
 • The last thing is reading our own line back; a missing mark is added before the book goes up.
 
-**Things to know — Àṣà (ojúṣe ẹbí: ẹ̀gbọ́n àti àbúrò)**
+**Main content — Àṣà (ojúṣe ẹbí: ẹ̀gbọ́n àti àbúrò)**
 
 • **Ẹ̀gbọ́n** is the elder sibling; his duty is to lead by the hand, to share what he has, and to be the example.
 • An ẹ̀gbọ́n does not raise his hand on a smaller child; he carries the load and calls the younger one to wash.
@@ -372,7 +336,7 @@ Colour one leaf green, one ball red, one cup white and one sky blue, and write t
 • When the parents are away, the ẹ̀gbọ́n keeps the house quiet and the àbúrò keeps the compound clean.
 • The two are one hand: one cannot comb the other's hair alone, and both greet the same elder at the same time.
 
-**Things to know — Lítíréṣọ̀ (orin ìwà: "Kí ni n ń fi ọ̀lẹ̀ ṣe?")**
+**Main content — Lítíréṣọ̀ (orin ìwà: "Kí ni n ń fi ọ̀lẹ̀ ṣe?")**
 
 • The song the school prints is called by its question: **"Kí ni n ń fi ọ̀lẹ̀ ṣe?"** — what do we do with a thief?
 • A character song asks the class something and waits: the answer is the song's other half.
@@ -410,13 +374,7 @@ Write the six dictation words with their marks, then draw two hands holding one 
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W8.*
 
-**You will learn to**
-
-• read a hard line slowly, then say it fast without breaking
-• tell the steps of cassava work in a Yoruba home
-• sing the carrying song and answer its line
-
-**Things to know — Ẹ̀dẹ̀ (akọ̀sọ̀rọ̀: kà, sọ ọ́ yarayara, fa kọ́kọ́ yọ)**
+**Main content — Ẹ̀dẹ̀ (akọ̀sọ̀rọ̀: kà, sọ ọ́ yarayara, fa kọ́kọ́ yọ)**
 
 • An **akọ̀sọ̀rọ̀** is a line that is hard on the mouth; we practise it until the mouth is free.
 • Step one: **kà á pẹ́lẹ́** — read it slowly, one word at a time, with the eyes on the board.
@@ -427,7 +385,7 @@ Write the six dictation words with their marks, then draw two hands holding one 
 • In **ẹyin ẹyẹ** the first two sounds are alike, and the mouth must not slide them into one.
 • A hard name is said by the whole class slowly once before anybody says it fast.
 
-**Things to know — Àṣà (ọ̀gẹ̀ ṣíṣe ní ilé Yorùbá — cassava work at home)**
+**Main content — Àṣà (ọ̀gẹ̀ ṣíṣe ní ilé Yorùbá — cassava work at home)**
 
 • **Ọ̀gẹ̀** is cassava, and the work of it is the work of the whole house.
 • **A ń wa ọ̀gẹ̀** — we dig it out of the ground, and the long root is cut from the stem.
@@ -437,7 +395,7 @@ Write the six dictation words with their marks, then draw two hands holding one 
 • From the same ọ̀gẹ̀ we get **ẹ̀kọ́**, **àmàlà** from the dried chips, and **ẹ̀bà** from gari — nothing of it is thrown away.
 • The work needs the big hands of a grown-up at the fire and at the press; a child carries the basin and counts the cups.
 
-**Things to know — Lítíréṣọ̀ (orin kíkó: "Ori ewe ma paya")**
+**Main content — Lítíréṣọ̀ (orin kíkó: "Ori ewe ma paya")**
 
 • The school prints this carrying song by its first line only — **Orí ẹwẹ̀, má ṣe payà** — so we learn that line and its answer.
 • The leader carries the line; the class carries the answer after him, the way a load is shared by two.
@@ -475,13 +433,7 @@ Draw five small boxes and put one cassava step in each box — dug, peeled, wash
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 T3 W9.*
 
-**You will learn to**
-
-• name the parts of the body in Yoruba and point to them
-• say who the Oba is and how people greet him
-• make a short àròsọ line about a bird
-
-**Things to know — Ẹ̀dẹ̀ (dídárúkọ̀ ẹ̀yà ara — the parts of the body)**
+**Main content — Ẹ̀dẹ̀ (dídárúkọ̀ ẹ̀yà ara — the parts of the body)**
 
 • **orí** — head · **ojú** — eye · **etí** — ear · **imú** — nose · **ẹnu** — mouth · **ahọ́n** — tongue.
 • **ọwọ́** — hand · **ìka** — finger · **ẹsẹ̀** — leg · **àṣọ̀ ẹsẹ̀** — the shoe · **ọ̀rùn** — neck · **ẹ̀yìn** — back · **ikùn** — stomach.
@@ -492,7 +444,7 @@ Draw five small boxes and put one cassava step in each box — dug, peeled, wash
 • **ejín** is the knee and **ìkún ọwọ́** is the elbow; the two of them bend so that we can sit and reach.
 • Most of them come in pairs — ojú méjì, etí méjì, ọwọ́ méjì — and one orí, ẹnu kan.
 
-**Things to know — Àṣà (Òba aláde ní ilẹ̀ Yorùbá — the crowned king)**
+**Main content — Àṣà (Òba aláde ní ilẹ̀ Yorùbá — the crowned king)**
 
 • The **Òba** is the ruler of a Yoruba town, and **àdé** is the beaded crown he wears.
 • The crown's beads hang before his face, so that the king is seen by all and looks on all with patience.
@@ -502,7 +454,7 @@ Draw five small boxes and put one cassava step in each box — dug, peeled, wash
 • The Òba does not run a market or settle a small quarrel; he keeps the town together and is the father of it.
 • A child's part is small: when the procession passes, we stand, we do not shout, and we follow with the eyes.
 
-**Things to know — Lítíréṣọ̀ (àròsọ lórí ẹyẹ — a riddle line on a bird)**
+**Main content — Lítíréṣọ̀ (àròsọ lórí ẹyẹ — a riddle line on a bird)**
 
 • An **àròsọ** is a short line said fast, with a thing hidden in it; the class guesses.
 • It begins with a call — **"Àròsọ o!"** — and the answer is **"Jẹ́ kó o!"** (let it come).
@@ -539,12 +491,6 @@ Draw a boy from the top of the head to the feet, and write the Yoruba name besid
 ### WEEK 11 — Exam Preparation
 
 *Depth: school-generated revision row; it revises Weeks 1–9 of this term. Week 12 is Closing.*
-
-**You will learn to**
-
-• say everything of this term out loud without looking at the book
-• write the Yoruba words with their dots and their tones
-• answer in a full Yoruba line, not one word
 
 **What to revise — Ẹ̀dẹ̀**
 

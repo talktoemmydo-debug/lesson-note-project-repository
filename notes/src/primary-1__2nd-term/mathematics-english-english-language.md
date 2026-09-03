@@ -8,15 +8,7 @@ aloud; songs and rhymes; adverbs; consonant digraphs).*
 
 ### WEEK 1 — LISTENING TO AND TELLING STORIES
 
-**You will learn to**
-
-• listen to a story with care
-
-• tell a story in my own words
-
-• say the parts of a story
-
-**Things to know**
+**Main content**
 
 • A **story** tells us about people and events.
 
@@ -82,15 +74,7 @@ aloud; songs and rhymes; adverbs; consonant digraphs).*
 
 ### WEEK 2 — PHONICS PRACTICE: CONSONANT CLUSTERS AND WORD BUILDING
 
-**You will learn to**
-
-• read words with consonant clusters
-
-• build words from sounds
-
-• spell cluster words
-
-**Things to know**
+**Main content**
 
 • A **consonant cluster** is two or three consonants together, each keeping its sound.
 
@@ -156,15 +140,7 @@ aloud; songs and rhymes; adverbs; consonant digraphs).*
 
 ### WEEK 3 — COMPREHENSION II: SHORT PASSAGES AND RHYMES
 
-**You will learn to**
-
-• read a short passage
-
-• answer questions about it
-
-• enjoy rhymes
-
-**Things to know**
+**Main content**
 
 • A **passage** is a short piece of writing.
 
@@ -230,15 +206,7 @@ aloud; songs and rhymes; adverbs; consonant digraphs).*
 
 ### WEEK 4 — USING PLURALS OF NOUNS
 
-**You will learn to**
-
-• say what a plural is
-
-• make the plural of a noun
-
-• use plurals in a sentence
-
-**Things to know**
+**Main content**
 
 • A **noun** is a naming word.
 
@@ -304,15 +272,7 @@ aloud; songs and rhymes; adverbs; consonant digraphs).*
 
 ### WEEK 5 — FLUENCY AND READING ALOUD
 
-**You will learn to**
-
-• read aloud clearly
-
-• read with the right speed
-
-• read short paragraphs
-
-**Things to know**
+**Main content**
 
 • **Reading aloud** is reading so others can hear.
 
@@ -378,15 +338,7 @@ aloud; songs and rhymes; adverbs; consonant digraphs).*
 
 ### WEEK 6 — SONGS, RHYMES AND ORAL GAMES
 
-**You will learn to**
-
-• sing songs and rhymes
-
-• play oral games
-
-• say rhymes with actions
-
-**Things to know**
+**Main content**
 
 • A **song** has words we sing.
 
@@ -452,15 +404,7 @@ aloud; songs and rhymes; adverbs; consonant digraphs).*
 
 ### WEEK 8 — INTRODUCING ADVERBS
 
-**You will learn to**
-
-• say what an adverb is
-
-• name adverbs
-
-• use adverbs in a sentence
-
-**Things to know**
+**Main content**
 
 • An **adverb** tells us more about an action.
 
@@ -526,15 +470,7 @@ aloud; songs and rhymes; adverbs; consonant digraphs).*
 
 ### WEEK 9 — PHONICS: CONSONANT DIGRAPHS ch, sh, th, wh, ph
 
-**You will learn to**
-
-• know the digraphs ch, sh, th, wh, ph
-
-• read words with these digraphs
-
-• say the sound of each
-
-**Things to know**
+**Main content**
 
 • A **digraph** is two letters that make one new sound.
 

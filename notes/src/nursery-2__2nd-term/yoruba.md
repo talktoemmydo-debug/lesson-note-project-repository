@@ -15,13 +15,7 @@ child reads the word correctly, and the topic line is left exactly as the school
 
 *Depth: school-generated — three strands as printed in the master corpus for N2 S2 W1.*
 
-**You will learn to**
-
-• name the things around the school in Yoruba
-• name the animals a Yoruba family keeps and what they are for
-• sing the song of the child who knows his mother's face
-
-**Things to know — Ẹ̀dẹ̀ (naming things around the school — dídárúkọ̀ nǹkan ayíká ilé-ìwé)**
+**Main content — Ẹ̀dẹ̀ (naming things around the school — dídárúkọ̀ nǹkan ayíká ilé-ìwé)**
 
 • Last term we named things **in** the room; this term we go **round the school**.
 • **òde ilé-ìwé** — the school compound · **pápá ìdaráya** — the playground · **_ilé ìwẹ̀** (tóílẹ̀tì) — the toilet
@@ -32,7 +26,7 @@ child reads the word correctly, and the topic line is left exactly as the school
 • Ask and answer: **"Kí ni èyí?"** — **"Èyí ni ..."** · **"Níbo ni ... wà?"** — **"Ó wà ní ..."**
 • Spelling of the new words goes in the notebook with one drawing beside each.
 
-**Things to know — Àṣà (the animals of Yorubaland — ẹranko ìsìn ní ilẹ̀ Yorùbá)**
+**Main content — Àṣà (the animals of Yorubaland — ẹranko ìsìn ní ilẹ̀ Yorùbá)**
 
 • The school's row prints **eran osin**: **ẹranko ìsìn** — the animals a Yoruba family keeps for the rite, the feast and the honouring of a guest.
 • **ewúrẹ́** — goat · **àdìẹ** — fowl · **ọ̀wọ́ọ̀n** — ram · **àgbo** — sheep · **màlúù** — cow · **àyẹ̀yẹ́** — pigeon · **ẹranko ilé** — the animals a house keeps.
@@ -42,7 +36,7 @@ child reads the word correctly, and the topic line is left exactly as the school
 • We are kind to the animals of the house: water before sun, food at the set time, no tying of legs too tight, no beating.
 • Some animals are **not** for eating or keeping: ẹ̀kùn (leopard), ẹ̀jọ́ (python), àlùkò (owl) — in Yoruba tradition they belong to the bush and to ìṣẹ́̀gun, and the child keeps away.
 
-**Things to know — Lítíréṣọ̀ (the song the school names: Orin akomoniwa)**
+**Main content — Lítíréṣọ̀ (the song the school names: Orin akomoniwa)**
 
 • The row prints the song by its first words, as the school writes it elsewhere: **"Ọmọ tó mọ ìyá rẹ̀ lójú"**.
 • *Ọmọ tó mọ ìyá rẹ̀ lójú, á mọ́ bàbá rẹ̀ lójú;* — a child who knows his mother's face will know his father's face too;
@@ -82,13 +76,7 @@ Walk once round the school, write six Yoruba names of things you saw, and under 
 
 *Depth: school-generated — three strands as printed for N2 S2 W2.*
 
-**You will learn to**
-
-• read the letters h to q again, better than last term
-• name the food of our home in Yoruba
-• say a poem on giving honour to an elder
-
-**Things to know — Ẹ̀dẹ̀ (reading the letters H–Q — kíkà alífábéètì)**
+**Main content — Ẹ̀dẹ̀ (reading the letters H–Q — kíkà alífábéètì)**
 
 • We met these letters in Week 9 of last term; this week we read them **backwards, forwards and out of order**.
 • The line: **h · i · j · k · l · m · n · ń · o · ọ · p** — the row says H–Q, and in the Yoruba alphabet the letters in that range are h, i, j, k, l, m, n, o, p, for **there is no c, q, v, x or z** in Yoruba writing.
@@ -97,7 +85,7 @@ Walk once round the school, write six Yoruba names of things you saw, and under 
 • The tricky pair: **o** (oral) and **ọ** (closed) — **òdo** (river) is not **ọ̀dọ́** (young); say both and hear the mouth change.
 • Reading rule: eyes on the line, mouth open, one breath per word, no pointing with the finger at the end of the week.
 
-**Things to know — Àṣà (the food of our home — oúnjẹ ilé wa)**
+**Main content — Àṣà (the food of our home — oúnjẹ ilé wa)**
 
 • The food of the Yoruba home is pounded and wrapped: **ìyan** (pounded yam) · **àmàlà** (yam-flour) · **èbà** (garri) · **ẹ̀̀kọ́** (cassava mash, èkọ́) · **túwò** (grain swallow).
 • Soups that go with them: **ẹ̀fẹ́** (leaf soup) · **ègúsí** (melon seed) · **ẹ̀wẹ̀dú** (beans pudding soup) · **ògọ́rò** · **árasá** (for the little one).
@@ -108,7 +96,7 @@ Walk once round the school, write six Yoruba names of things you saw, and under 
 • Before a big meal the family says **"Ẹ̀ jẹun, ọmọ mi"**; the child answers **"Ọ́ ńlẹ̀, ìyá/bàbá."**
 • Our own food is not lesser food: the child who knows the name of his food knows the name of his people.
 
-**Things to know — Lítíréṣọ̀ (saying a poem on honour for elders — èwì kíkà: ìbọ̀wọ̀ fún àgbà)**
+**Main content — Lítíréṣọ̀ (saying a poem on honour for elders — èwì kíkà: ìbọ̀wọ̀ fún àgbà)**
 
 • A **ẹ̀wì** is chanted, not read; it goes with the head and the hands.
 • *Àgbà kìí rí nǹkan ṣe,* — an elder never sees a thing done wrongly
@@ -152,13 +140,7 @@ Draw three foods your family eats and colour them.
 
 *Depth: school-generated — three strands as printed for N2 S2 W3.*
 
-**You will learn to**
-
-• count from eleven to twenty in Yoruba
-• name the games we play and the words we say while playing
-• begin the telling of àlọ́, with its call and its answer
-
-**Things to know — Ẹ̀dẹ̀ (counting 11–20 — ìkà 11–20)**
+**Main content — Ẹ̀dẹ̀ (counting 11–20 — ìkà 11–20)**
 
 • From ten (**ẹ́wọ́/ogún** is twenty) we go up with **-lá**, which means "above ten":
 • 11 **ọ̀kànlá** · 12 **èjìlá** · 13 **ẹ̀tálá** · 14 **ẹ̀rìnlá** · 15 **àárúnlá**
@@ -169,7 +151,7 @@ Draw three foods your family eats and colour them.
 • Ask and answer: **"Ogún ló nǐ?"** — **"Bẹ́ẹ̀ni, ogún ni."** (Do you have twenty? — Yes, I have twenty.)
 • Use the numbers on things: 12 chalks, 15 bottle tops, 20 steps from the gate to the door.
 
-**Things to know — Àṣà (games — eré ìdárayá)**
+**Main content — Àṣà (games — eré ìdárayá)**
 
 • **Eré ìdárayá** means games that make the body happy and strong.
 • Games with words in Yoruba: **"Kìké"** (hopscotch) · **"Aro"** (the clapping game, "aro, aro ko lẹ́sẹ̀") · **"Ṣégbé-ṣégbé"** (a counting-out rhyme) · **"Tẹ̀gbẹ̀tẹ̀"** (hide and seek) · **"Igí àti eré"**.
@@ -178,7 +160,7 @@ Draw three foods your family eats and colour them.
 • Rule of the Yoruba game: the one who is caught becomes "it" without crying; the winner carries nobody's bag.
 • The body of the player: knees bend, hands free, head up, the shout is for cheering and not for insulting.
 
-**Things to know — Lítíréṣọ̀ (the telling of àlọ́ — àlọ́ pípá: apamo àti apagbe)**
+**Main content — Lítíréṣọ̀ (the telling of àlọ́ — àlọ́ pípá: apamo àti apagbe)**
 
 • An **àlọ́** is a story made for children, and it is **told** (àlọ́ **pípá**), not read.
 • The teller opens with a call; the row prints two of them: **"Àlọ́ àpámọ̀"** and **"Àlọ́ àpágbé"**. The class answers with the same breath.
@@ -221,13 +203,7 @@ Draw the game you play at break time and colour the ball or the rope.
 
 *Depth: school-generated — three strands as printed for N2 S2 W4.*
 
-**You will learn to**
-
-• read and name the letters p to y
-• say what an ọmọlúàbí is
-• sing the song of the good child with the right actions
-
-**Things to know — Ẹ̀dẹ̀ (the letters P–Y — alífábéètì p sí y)**
+**Main content — Ẹ̀dẹ̀ (the letters P–Y — alífábéètì p sí y)**
 
 • The last of the letters: **p · r · s · ṣ · t · ì · w · y**.
 • Say each with the vowels: **pa pe pọ pi po pọ · ra re rọ ri ro rọ · sa sọ ṣa ṣe ṣọ · ta te tọ ti to tọ · wa wọ wi wo wọ · ya yọ ye yi yo yọ**.
@@ -237,7 +213,7 @@ Draw the game you play at break time and colour the ball or the rope.
 • Write the whole alphabet from a to y in one line, then the seven vowels under it: **a e ẹ i o ọ u**.
 • End of the week test: read any line on the chart from p to y without stopping at the dots.
 
-**Things to know — Àṣà (the child of good character — ìwà ọmọlúàbí)**
+**Main content — Àṣà (the child of good character — ìwà ọmọlúàbí)**
 
 • **Ọmọlúàbí** is a child brought up well: **ọmọ + ilé + àgbà** — the child of the elder's house, the one people point at and say "that one is well brought up".
 • Marks of an ọmọlúàbí: he **greets**, he **does not lie**, he **does not steal**, he **shares**, he **respects the elder and the younger**, he **keeps his word**, and he **works before he plays**.
@@ -247,7 +223,7 @@ Draw the game you play at break time and colour the ball or the rope.
 • A ọmọlúàbí in our class: raises the hand, does not laugh at a wrong answer, picks the paper that is not his, returns the pencil.
 • We name one ọmọlúàbí each morning — and it is not always the same child.
 
-**Things to know — Lítíréṣọ̀ (a song to sing — orin kíkọ́: ọmọ rere)**
+**Main content — Lítíréṣọ̀ (a song to sing — orin kíkọ́: ọmọ rere)**
 
 • A song with an action is learnt faster than a song with only the mouth.
 • *Ọmọ rere, ọmọ ilé wa,* — a good child, the child of our home;
@@ -290,13 +266,7 @@ Draw one polite thing you did this week and colour it.
 
 *Depth: school-generated — three strands as printed for N2 S2 W5.*
 
-**You will learn to**
-
-• match the big letter and the small letter, all the way from A to Y
-• say the duties of the family in order
-• sing a song on the parent and clap the beat
-
-**Things to know — Ẹ̀dẹ̀ (capital and small letters, A–Y — lẹ́tà nlá àti kékeré)**
+**Main content — Ẹ̀dẹ̀ (capital and small letters, A–Y — lẹ́tà nlá àti kékeré)**
 
 • The **big letter (lẹ́tà nlá)** is used at the beginning of a name and at the start of a sentence: **Ọ̀lú, Àṣẹ̀, Mo, Bí**.
 • The **small letter** is for the rest of the word: **ọ̀lú, àṣẹ̀, mo, bí**.
@@ -307,7 +277,7 @@ Draw one polite thing you did this week and colour it.
 • Game: I write my own name with the first letter big; then I write it small; then I write my father's name and my town with big first letters.
 • A letter that is written well sits on the line and does not fall below it.
 
-**Things to know — Àṣà (the duties of the family — iṣẹ́ ẹbí àti ìdílé)**
+**Main content — Àṣà (the duties of the family — iṣẹ́ ẹbí àti ìdílé)**
 
 • A **dílé** (family) is the people of one house; an **ẹbí** is the wider family — father's brothers and mothers' sisters, the cousins and the grandmothers.
 • Duties of the **father (bàbá)**: **ìpèsè** (providing), **ààbò** (protection), **ìnáwó** (paying for what the house needs).
@@ -317,7 +287,7 @@ Draw one polite thing you did this week and colour it.
 • A family where each one carries his own load does not tire; where one carries all, he falls.
 • We name our duties in Yoruba with the verb first: **Mo ń fọ aṣọ** (I wash cloth) · **Mo ń ta omi** (I fetch water) · **Mo ń kọ̀wé** (I write).
 
-**Things to know — Lítíréṣọ̀ (a song on the parent — orin kíkọ́ lórí òbí)**
+**Main content — Lítíréṣọ̀ (a song on the parent — orin kíkọ́ lórí òbí)**
 
 • The song: *Ìyá ọwọ́, Bàbá ọwọ́,* — honour to mother, honour to father;
 • *ọwọ́ méjèèjì ló ń gbé wa sókè.* — it is both hands together that lift us up.
@@ -357,13 +327,7 @@ Write five duties you and your family carry at home, each sentence beginning wit
 
 *Depth: school-generated — three strands as printed for N2 S2 W6.*
 
-**You will learn to**
-
-• say Yoruba words and their opposites
-• greet people when the community gathers
-• tell a short àlọ́ àpágbé with the class answering
-
-**Things to know — Ẹ̀dẹ̀ (words and their opposites — ọ̀rọ̀ àti ìdàkejì)**
+**Main content — Ẹ̀dẹ̀ (words and their opposites — ọ̀rọ̀ àti ìdàkejì)**
 
 • An **opposite (ìdàkejì)** is the word on the other side: big and small, hot and cold.
 • Pairs to say in one breath: **ńlá — kékeré** (big — small) · **gígùn — kúkúrú** (tall — short) · **jìnnà — súnmọ́** (far — near) · **òkè — ìsàlẹ̀** (up — down)
@@ -373,7 +337,7 @@ Write five duties you and your family carry at home, each sentence beginning wit
 • Use the pair in a sentence: **Òkò rẹ̀ ńlá, ṣùgbọ́n àǹfààní rẹ̀ kékeré** — his body is big, but his sense is small (a playful line the class laughs at).
 • A pair is learnt better when the two words are said **together, back to back**, ten times in a line.
 
-**Things to know — Àṣà (greeting at a gathering — ìkíini ní àṣíkò ìṣẹ̀jọ́)**
+**Main content — Àṣà (greeting at a gathering — ìkíini ní àṣíkò ìṣẹ̀jọ́)**
 
 • An **àṣẹjọ (ìṣẹ̀jọ́)** is a meeting of the people: the class assembly, the ward meeting, the family gathering, the church or mosque after service.
 • When we come into a gathering we say: **"Ẹ̀ káàbọ̀, ẹ̀ nı́ káàárọ̀"** — and the gathering answers **"Ẹ̀ nı́ kaàárọ̀, ọmọ mi."**
@@ -383,7 +347,7 @@ Write five duties you and your family carry at home, each sentence beginning wit
 • Words to keep at a meeting: **"Ẹ̀ ṣé fún àǹfààní"** (thank you for the chance to speak) · **"Ẹ̀ jọ̀wọ́ ẹ̀ máà gbà mí"** (please receive me) · **"Ẹ̀ ṣé, ẹ̀ jọ̀wọ́."**
 • After the meeting, we greet the ones we did not see: **"Ṣé ẹ̀ rí mi lójú ìjọ̀"?** — and the answer is **"Ìméjì"**.
 
-**Things to know — Lítíréṣọ̀ (àlọ́ àpágbé)**
+**Main content — Lítíréṣọ̀ (àlọ́ àpágbé)**
 
 • **Àpágbé** is the family of àlọ́ told to **carry the listener away** into the story — it begins with a nonsense charm so that the ears open.
 • Call: **"Àlọ́ àpágbé!"** — Answer: **"Àpágbé lójú, ẹ̀ ṣé!"**
@@ -424,13 +388,7 @@ Draw one big thing and one small thing beside it, then colour the small one.
 
 *Depth: school-generated — three strands as printed for N2 S2 W8.*
 
-**You will learn to**
-
-• pronounce the vowels and the consonants the right way
-• say what ọ̀rẹ̀ẹ́-ránpẹ́ (kindness) looks like
-• say a fast tongue rhyme on the dog with a sharp sound
-
-**Things to know — Ẹ̀dẹ̀ (saying the sounds — pípe ìró ẹ̀dẹ̀: fawẹ̀lì àti kọ́nsọ́nàǹtì)**
+**Main content — Ẹ̀dẹ̀ (saying the sounds — pípe ìró ẹ̀dẹ̀: fawẹ̀lì àti kọ́nsọ́nàǹtì)**
 
 • **Fawẹ̀lì** (vowels) are the sounds the mouth makes open, with no lip or tongue stopping them: **a · e · ẹ · i · o · ọ · u** — seven of them.
 • Say them long and short: **á à, é ẹ̀** — the mark of the tone changes the word, so the mouth must not be lazy.
@@ -441,7 +399,7 @@ Draw one big thing and one small thing beside it, then colour the small one.
 • Practice: put the hand on the throat — **m, n, ń, gb** buzz; **s, ṣ, f, t** do not. That is how to tell the sounds apart when you cannot see.
 • Reading a sound means writing it: I say a word slowly, and I put a tick for each sound I hear.
 
-**Things to know — Àṣà (kindness — ọ̀rẹ̀ẹ́-ránpẹ́)**
+**Main content — Àṣà (kindness — ọ̀rẹ̀ẹ́-ránpẹ́)**
 
 • **Ọ̀rẹ̀ẹ́-ránpẹ́** is the kindness that helps and expects nothing back; it is the best mark of **ìwà rere**.
 • Kindness has hands and a mouth: it **carries**, **shares**, **feeds**, **forgives**, and it **speaks gently**.
@@ -451,7 +409,7 @@ Draw one big thing and one small thing beside it, then colour the small one.
 • Kindness to the animals too: the dog at the gate is given water, the goat is not beaten with a stick.
 • The test of kindness: do it **once** when it is seen, and **twice** when it is not.
 
-**Things to know — Lítíréṣọ̀ (a fast rhyme on the dog — àròsọ olóró gẹ́lẹ́ lórí ajá)**
+**Main content — Lítíréṣọ̀ (a fast rhyme on the dog — àròsọ olóró gẹ́lẹ́ lórí ajá)**
 
 • An **àròsọ** is a rhyme of hard, sharp sounds said as fast as possible; it trains the mouth, not the memory only.
 • The one on the dog:
@@ -493,12 +451,6 @@ Practise the dog rhyme three times a day for four days and write down on which d
 ### WEEK 9 — Ede: Atunyewo alifabeeti ati onka 1-20 / Asa: Atunyewo ikini, ounje, eran osin / Litireso: Atunyewo orin, ewi ati alo
 
 *Depth: school-generated — a revision row; the school prints no new topic for this week.*
-
-**You will learn to**
-
-• say the whole alphabet, forwards, backwards and out of order
-• count one to twenty without stopping
-• greet, name foods and animals, and put the term's songs in order
 
 **What to revise — Ẹ̀dẹ̀ (letters and numbers)**
 
@@ -556,12 +508,6 @@ Copy the three revision lists onto one page, read it aloud tomorrow morning, and
 ### WEEK 11 — Exam Preparation
 
 *Depth: school-generated revision row; it revises Weeks 1–9 of this term. The school keeps Week 12 for the examination itself and Week 13 for Closing.*
-
-**You will learn to**
-
-• say everything you learnt this term without looking at the book
-• write the Yoruba words you must know with their dots and marks
-• answer in full Yoruba sentences, not one word
 
 **What to revise — Ẹ̀dẹ̀**
 

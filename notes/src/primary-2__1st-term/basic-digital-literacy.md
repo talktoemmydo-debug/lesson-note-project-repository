@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — THE COMPUTER
 
-**You will learn to**
-
-• say what a computer is
-
-• name parts of a computer
-
-• say what a computer does
-
-**Things to know**
+**Main content**
 
 • A **computer** is a machine that takes in information and gives out results.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — COMPUTER HARDWARE
 
-**You will learn to**
-
-• say what hardware is
-
-• name hardware parts
-
-• tell input from output
-
-**Things to know**
+**Main content**
 
 • **Hardware** is the parts of a computer we can **see and touch**.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — COMPUTER SOFTWARE
 
-**You will learn to**
-
-• say what software is
-
-• name types of software
-
-• tell software from hardware
-
-**Things to know**
+**Main content**
 
 • **Software** is the set of instructions that tell the computer what to do.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — USES OF COMPUTERS
 
-**You will learn to**
-
-• name uses of computers
-
-• say where computers are used
-
-• use a computer well
-
-**Things to know**
+**Main content**
 
 • Computers are used in many places.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — THE COMPUTER ROOM
 
-**You will learn to**
-
-• behave well in the computer room
-
-• name computer room rules
-
-• keep the room clean
-
-**Things to know**
+**Main content**
 
 • The **computer room** is where we use computers at school.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 7 — THE KEYBOARD
 
-**You will learn to**
-
-• name parts of the keyboard
-
-• use the keyboard
-
-• type letters and numbers
-
-**Things to know**
+**Main content**
 
 • The **keyboard** is an input device with keys.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — THE MOUSE
 
-**You will learn to**
-
-• name parts of the mouse
-
-• use the mouse
-
-• point and click
-
-**Things to know**
+**Main content**
 
 • The **mouse** is an input device.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — CARE OF THE COMPUTER
 
-**You will learn to**
-
-• care for the computer
-
-• name ways to keep it safe
-
-• use it well
-
-**Things to know**
+**Main content**
 
 • We care for the computer so it lasts long.
 

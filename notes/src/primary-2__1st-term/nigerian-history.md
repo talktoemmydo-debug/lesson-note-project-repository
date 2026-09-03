@@ -12,15 +12,7 @@ written for them.
 
 ### WEEK 1 — NIGERIA AS A COUNTRY
 
-**You will learn to**
-
-• say what Nigeria is
-
-• name things about Nigeria
-
-• love our country
-
-**Things to know**
+**Main content**
 
 • **Nigeria** is our country.
 
@@ -86,15 +78,7 @@ written for them.
 
 ### WEEK 2 — OUR PEOPLE AND CULTURE
 
-**You will learn to**
-
-• name our people
-
-• say what culture is
-
-• respect our culture
-
-**Things to know**
+**Main content**
 
 • Nigeria has many **people** and **tribes**.
 
@@ -160,15 +144,7 @@ written for them.
 
 ### WEEK 3 — EARLY NIGERIAN COMMUNITIES
 
-**You will learn to**
-
-• name early Nigerian communities
-
-• say how they lived
-
-• know our past
-
-**Things to know**
+**Main content**
 
 • Long ago, people lived in **communities**.
 
@@ -234,15 +210,7 @@ written for them.
 
 ### WEEK 4 — TRADITIONAL RULERS
 
-**You will learn to**
-
-• name traditional rulers
-
-• say what they do
-
-• respect our rulers
-
-**Things to know**
+**Main content**
 
 • **Traditional rulers** are the chiefs of our people.
 
@@ -308,15 +276,7 @@ written for them.
 
 ### WEEK 5 — TRADITIONS AND FESTIVALS
 
-**You will learn to**
-
-• name our traditions
-
-• name our festivals
-
-• enjoy our culture
-
-**Things to know**
+**Main content**
 
 • **Traditions** are the things our people always do.
 
@@ -382,15 +342,7 @@ written for them.
 
 ### WEEK 6 — TRADE IN THE PAST
 
-**You will learn to**
-
-• say how people traded in the past
-
-• name things traded
-
-• know our past trade
-
-**Things to know**
+**Main content**
 
 • Long ago, people **traded** to get what they needed.
 
@@ -456,15 +408,7 @@ written for them.
 
 ### WEEK 8 — COLONIAL RULE
 
-**You will learn to**
-
-• say what colonial rule was
-
-• say how the British came
-
-• know our history
-
-**Things to know**
+**Main content**
 
 • Long ago, **Britain** came to Nigeria.
 
@@ -530,15 +474,7 @@ written for them.
 
 ### WEEK 9 — NIGERIA'S INDEPENDENCE
 
-**You will learn to**
-
-• say when Nigeria became independent
-
-• say what independence means
-
-• celebrate our freedom
-
-**Things to know**
+**Main content**
 
 • Nigerians worked hard for **independence**.
 

@@ -11,14 +11,7 @@ Creative Arts · First Term, pp 662–663 (taken two terms ahead, as the pack di
 
 *Depth: NERDC Nursery 3 · Creativity · Third Term W9 (pp 572–575).*
 
-**You will learn to**
-
-• say what a card is used for
-• name four kinds of card
-• fold a paper into a card
-• write or copy a short message inside a card
-
-**Things to know**
+**Main content**
 
 • A **card** is a small piece of stiff paper we **fold** and give to somebody to carry a **message**.
 • A card says what the mouth finds hard to say: **thank you**, **I am sorry**, **well done**, **get
@@ -69,14 +62,7 @@ Fold a paper, draw a cake on the front and copy "Happy birthday" inside it.
 
 *Depth: NERDC Nursery 3 · Creativity · Third Term W10 (pp 572–575).*
 
-**You will learn to**
-
-• splash colour on paper with a brush
-• control where the splash falls
-• stick feathers flat on paper
-• name a picture made with feathers
-
-**Things to know**
+**Main content**
 
 • **Splash art** is colour thrown from a **wet brush** onto paper; the drops make marks no hand could draw.
 • To splash, hold the brush **over** the paper and tap it gently with a finger — never at your neighbour.
@@ -124,14 +110,7 @@ Splash colour on one half of a paper, then paste three feathers on the other hal
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W1 (pp 662–663).*
 
-**You will learn to**
-
-• say what art is
-• name four kinds of art
-• name the materials we use for art
-• say how a picture can show a feeling
-
-**Things to know**
+**Main content**
 
 • **Art** is making something **beautiful** or something that **shows what we feel or think**.
 • Art is all around us: on **cloth**, on **walls**, on **pots**, on **doors**, on the **floor mats**.
@@ -179,14 +158,7 @@ Draw two faces on one paper — one happy, one sad — and colour the happy one 
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W2 (pp 662–663).*
 
-**You will learn to**
-
-• scribble all over a paper and then inside a boundary
-• draw straight, curved and zigzag lines
-• draw a circle, a square and a triangle
-• join dots to finish a picture
-
-**Things to know**
+**Main content**
 
 • **Scribbling** is the hand moving the pencil freely; it makes the hand strong for writing.
 • First we scribble **all over** the paper; then we scribble **only inside** a drawn ring.
@@ -233,14 +205,7 @@ Fill one paper with scribble, then draw a big circle, a square and a triangle in
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W3 (pp 662–663).*
 
-**You will learn to**
-
-• draw a big letter and colour its inside
-• decorate a letter with dots and lines
-• make a pattern using numbers
-• paste paper bits onto a letter
-
-**Things to know**
+**Main content**
 
 • A letter can be **art** as well as writing: we draw it **big** and leave it **hollow** to colour in.
 • To make a hollow letter, trace a big letter twice, once beside itself, then join the tops and the feet.
@@ -287,14 +252,7 @@ Draw the first letter of your name big and hollow, colour inside it, then put do
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W4 and W7 (pp 662–663).*
 
-**You will learn to**
-
-• name the three primary colours
-• name the three secondary colours
-• mix two colours to get a new one
-• point to colours in our surroundings
-
-**Things to know**
+**Main content**
 
 • A **colour** is what makes things look **red**, **blue**, **yellow** or **green** to the eye.
 • The **primary colours** are **red**, **blue** and **yellow**; no two colours can be mixed to make them.
@@ -342,14 +300,7 @@ Colour one leaf green, one orange and one purple, then draw a ring round each co
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W8 (pp 662–663).*
 
-**You will learn to**
-
-• say what a craft is
-• name three kinds of craft
-• fold paper into halves and quarters
-• carry and use scissors safely
-
-**Things to know**
+**Main content**
 
 • A **craft** is a thing we **make with our hands**, usually something we can use or wear.
 • Crafts we know in class: **paper craft**, **clay modelling** and **bead work**.
@@ -400,14 +351,7 @@ Fold a paper into four quarters, cut one edge into fringes, then open it to see 
 
 *Depth: NERDC Primary 1 · Cultural and Creative Arts · First Term W10 (pp 662–663).*
 
-**You will learn to**
-
-• say what decoration means
-• make a paper flower and a garland
-• draw a border pattern round a picture
-• make a decorated name tag
-
-**Things to know**
+**Main content**
 
 • **Decoration** means making a plain thing **beautiful** by adding colours, patterns or shapes to it.
 • We decorate the **classroom walls**, our **notice board**, our **books**, our **name tags** and the **corners** of a drawing.
