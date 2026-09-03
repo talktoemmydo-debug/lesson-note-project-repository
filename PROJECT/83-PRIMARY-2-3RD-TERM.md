@@ -12,7 +12,7 @@ follow the scheme topics below. 98 teaching weeks in total.
 | --- | --- | --- | --- |
 | 1 | basic-science | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=7 B=8 C=7 D=8) · sheet_lint 0 · polish 0-to-fix · gates ok |
 | 2 | basic-digital-literacy | 1-6, 8, 9 | ✅ 8 notes · paper ✅ (30/10/5, A=8 B=7 C=7 D=8) · sheet_lint 0 · polish 0-to-fix · gates ok |
-| 3 | christian-religious-studies | 1-6, 8, 9 | — |
+| 3 | christian-religious-studies | 1-6, 8, 9 | ⚠️ authored + committed (note, paper, 30/10/5, make_exam A=8 B=8 C=7 D=7) but **not gate-clear**: written before the 3 Sep depth ladder, so all 8 notes are `too thin` for Primary 2 (10-12 bullets vs floor 14). Deepen before marking done. |
 | 4 | cultural-and-creative-arts | 1-6, 8, 9 | — |
 | 5 | general-knowledge | 1-6, 8, 9 | — |
 | 6 | nigerian-history | 1-6, 8, 9 | — |
@@ -45,3 +45,32 @@ Plate exemptions (Yoruba, GK, Nigerian History, SCS, CRS) carry no plates — `t
 | --- | --- |
 | Pupil copy | — |
 | Teacher copy | — |
+
+## Resume here — the deepening queue (owner's rule change, 3 Sep 2026)
+
+`**Things to know**` is now `**Main content**`, the `**You will learn to**` objective block is deleted, and
+`polish_audit`'s `DEPTH` ladder is enforced as a **defect**: Nursery 2 8-12 bullets, Primary 1 10-14,
+**Primary 2 14-22**, Primary 3 16-24, Primary 4 18-26. All 825 notes were migrated; **306 are now `too thin`**
+and the notes gate fails on 7 of 9 class-terms until they are grown. Deepen in place — never delete a
+subject whose paper is already validated.
+
+| class-term | notes to deepen |
+| --- | --- |
+| Primary 2 · 2nd Term | 98 |
+| Primary 2 · 1st Term | 97 |
+| Primary 1 · 1st Term | 56 |
+| Primary 2 · 3rd Term | 24 |
+| Nursery 2 · 1st Term | 20 |
+| Primary 1 · 3rd Term | 6 |
+| Nursery 2 · 2nd Term | 5 |
+| **total** | **306** |
+
+Clean today: Nursery 2 · 3rd Term and Primary 1 · 2nd Term (`gates: ALL CLEAR`).
+
+Maths and English need **more worked examples per topic**, not more prose. From Primary 2 up, `**My own work**`
+asks for a labelled diagram, chart, table, plan, map, graph or written product — no teddy bears. Seven
+subjects are word-only and carry no plate and no drawing task: Yoruba, GK, Nigerian History, SCS, CRS,
+Mathematics, English.
+
+Then finish this term's remaining subjects (4-11), rebuild the Primary 2 Third Term books, and carry the same
+ladder into Primary 3 and Primary 4.
