@@ -1,0 +1,404 @@
+{
+ "subject": "Basic Science",
+ "class": "Nursery 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "Food is anything we eat or drink that gives the body ___",
+   "answer": "energy and help to grow",
+   "distractors": [
+    "only a full belly and nothing else",
+    "a bad smell and colour",
+    "work for our hands only"
+   ]
+  },
+  {
+   "stem": "The meal we take in the morning before coming to school is ___",
+   "answer": "breakfast",
+   "distractors": [
+    "dinner",
+    "lunch",
+    "supper"
+   ]
+  },
+  {
+   "stem": "The meal we take in the middle of the day is called ___",
+   "answer": "lunch",
+   "distractors": [
+    "breakfast",
+    "supper",
+    "tea"
+   ]
+  },
+  {
+   "stem": "Yam, rice, beans and plantain are foods that come from ___",
+   "answer": "plants",
+   "distractors": [
+    "animals",
+    "stones",
+    "water only"
+   ]
+  },
+  {
+   "stem": "Eggs, milk, meat and fish are foods that come from ___",
+   "answer": "animals",
+   "distractors": [
+    "plants",
+    "trees",
+    "rivers only"
+   ]
+  },
+  {
+   "stem": "Living things are things that ___",
+   "answer": "have life in them",
+   "distractors": [
+    "are made in a factory",
+    "cannot grow at all",
+    "never move or feed"
+   ]
+  },
+  {
+   "stem": "Which of these is a non-living thing?",
+   "answer": "a piece of chalk",
+   "distractors": [
+    "a snail",
+    "a mango tree",
+    "a catfish"
+   ]
+  },
+  {
+   "stem": "Which is NOT one of the signs of life?",
+   "answer": "shining brightly in the dark",
+   "distractors": [
+    "moving and growing",
+    "feeding and breathing",
+    "having young ones"
+   ]
+  },
+  {
+   "stem": "A fish breathes inside water with its ___",
+   "answer": "gills",
+   "distractors": [
+    "nose",
+    "ears",
+    "scales"
+   ]
+  },
+  {
+   "stem": "A snail goes back into its shell when you touch it. This shows that living things ___",
+   "answer": "answer what happens around them",
+   "distractors": [
+    "never move at all by themselves",
+    "make their own houses of clay",
+    "do not need any air at all"
+   ]
+  },
+  {
+   "stem": "The young one of a dog is called a ___",
+   "answer": "puppy",
+   "distractors": [
+    "kitten",
+    "calf",
+    "chick"
+   ]
+  },
+  {
+   "stem": "A frog begins its life in water as a ___",
+   "answer": "tadpole",
+   "distractors": [
+    "caterpillar",
+    "puppy",
+    "chrysalis"
+   ]
+  },
+  {
+   "stem": "Between the caterpillar and the butterfly comes the stage called the ___",
+   "answer": "chrysalis",
+   "distractors": [
+    "tadpole",
+    "seedling",
+    "young fowl"
+   ]
+  },
+  {
+   "stem": "A baby animal that takes milk from its mother is called a ___",
+   "answer": "mammal",
+   "distractors": [
+    "reptile",
+    "bird",
+    "fish"
+   ]
+  },
+  {
+   "stem": "The first growth of a seed, when the root comes out, is called ___",
+   "answer": "germination",
+   "distractors": [
+    "pollination",
+    "harvesting",
+    "boiling"
+   ]
+  },
+  {
+   "stem": "The part of a young plant that grows down into the soil is the ___",
+   "answer": "root",
+   "distractors": [
+    "flower",
+    "fruit",
+    "leaf"
+   ]
+  },
+  {
+   "stem": "Which of these is NOT needed for a plant to grow?",
+   "answer": "a basket of sweets",
+   "distractors": [
+    "sunlight",
+    "air",
+    "space to spread"
+   ]
+  },
+  {
+   "stem": "Water that is clean and safe for drinking is ___",
+   "answer": "clear and without bad smell",
+   "distractors": [
+    "thick with red colour",
+    "full of floating dirt",
+    "warm like soup"
+   ]
+  },
+  {
+   "stem": "A canoe and a ferry are means of transport on ___",
+   "answer": "water",
+   "distractors": [
+    "sand",
+    "rail",
+    "road"
+   ]
+  },
+  {
+   "stem": "The thing that keeps a passenger safe inside a moving car is the ___",
+   "answer": "seat belt",
+   "distractors": [
+    "school bag",
+    "sun cap",
+    "big shoe"
+   ]
+  },
+  {
+   "stem": "Our bones give the body ___",
+   "answer": "shape, support and protection",
+   "distractors": [
+    "only a bad hardness",
+    "colour and smell",
+    "nothing at all at all"
+   ]
+  },
+  {
+   "stem": "The bone of the head that protects the brain is called the ___",
+   "answer": "skull",
+   "distractors": [
+    "rib",
+    "spine",
+    "kneecap"
+   ]
+  },
+  {
+   "stem": "The bones of the chest that keep the heart and the lungs safe are the ___",
+   "answer": "ribs",
+   "distractors": [
+    "skulls",
+    "ankles",
+    "fingers"
+   ]
+  },
+  {
+   "stem": "The bone of the back that lets us bend and keeps us upright is the ___",
+   "answer": "spine",
+   "distractors": [
+    "skull",
+    "wrist",
+    "elbow"
+   ]
+  },
+  {
+   "stem": "To keep our bones strong we should take ___",
+   "answer": "milk, eggs, fish and beans",
+   "distractors": [
+    "only cold water",
+    "sweets and chalk",
+    "bread with no butter"
+   ]
+  },
+  {
+   "stem": "Technology means the ___",
+   "answer": "tools and machines people make to work",
+   "distractors": [
+    "things that only grow on the farm",
+    "stories that the elders tell at night",
+    "songs that we sing in the class"
+   ]
+  },
+  {
+   "stem": "A mobile phone is useful in an emergency because it can ___",
+   "answer": "call for help for a sick person",
+   "distractors": [
+    "cook food for the family",
+    "carry a load to the market",
+    "keep our bones straight"
+   ]
+  },
+  {
+   "stem": "Making water that is dirty safe for drinking is called ___",
+   "answer": "purification",
+   "distractors": [
+    "pollution",
+    "germination",
+    "transportation"
+   ]
+  },
+  {
+   "stem": "Boiling water is done mainly to ___",
+   "answer": "kill the germs inside it",
+   "distractors": [
+    "make the water heavier",
+    "add more dirt to it",
+    "cool the kettle down"
+   ]
+  },
+  {
+   "stem": "After water has been boiled it should be ___",
+   "answer": "left to cool in a clean covered cup",
+   "distractors": [
+    "drunk while it is still hot",
+    "poured back in the bucket",
+    "kept open in the sun"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Give three reasons why we eat food. ",
+   "points": [
+    "energy for work",
+    "to grow",
+    "to repair the body"
+   ]
+  },
+  {
+   "stem": "Name the three main meals of the day. ",
+   "points": [
+    "breakfast",
+    "lunch",
+    "dinner"
+   ]
+  },
+  {
+   "stem": "Mention four foods that come from plants and two that come from animals. ",
+   "points": [
+    "yam",
+    "rice",
+    "beans",
+    "plantain",
+    "eggs",
+    "fish"
+   ]
+  },
+  {
+   "stem": "Name the seven signs of life in living things. ",
+   "points": [
+    "move",
+    "grow",
+    "feed",
+    "breathe",
+    "have young ones",
+    "answer what is around them",
+    "get rid of waste"
+   ]
+  },
+  {
+   "stem": "Mention four things animals need in order to grow well. ",
+   "points": [
+    "food",
+    "water",
+    "air",
+    "shelter"
+   ]
+  },
+  {
+   "stem": "Write the stages in the life of a hen in order. ",
+   "points": [
+    "egg",
+    "chick",
+    "young fowl",
+    "adult hen"
+   ]
+  },
+  {
+   "stem": "Write the stages of a plant's life in order. ",
+   "points": [
+    "seed",
+    "germination",
+    "seedling",
+    "young plant",
+    "mature plant",
+    "flowers",
+    "fruits",
+    "seeds"
+   ]
+  },
+  {
+   "stem": "Name the parts of the body described: head bone, chest bones, back bone. ",
+   "points": [
+    "skull",
+    "ribs",
+    "spine"
+   ]
+  },
+  {
+   "stem": "Mention four ways of making water safe to drink. ",
+   "points": [
+    "boiling",
+    "filtration",
+    "adding chemicals",
+    "settling and decanting"
+   ]
+  },
+  {
+   "stem": "Name the sources of water you know. ",
+   "points": [
+    "rain",
+    "river",
+    "stream",
+    "well",
+    "borehole",
+    "tap"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is food? Give four reasons why living things need food.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain the difference between living things and non-living things, and give three examples of each.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe how an animal grows from its young one to adult, using any two animals you know.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is transportation? Name means of transport on land, on water and in the air, and two rules for travelling safely.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why must dirty water be made clean before we drink it? Explain the four ways of doing it.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

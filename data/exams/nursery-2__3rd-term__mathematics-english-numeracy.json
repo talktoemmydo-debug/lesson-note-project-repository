@@ -1,0 +1,385 @@
+{
+ "subject": "Mathematics & English · Numeracy",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "When a cake is shared so that both parts match, each part is a ____",
+   "answer": "half",
+   "distractors": [
+    "quarter",
+    "side",
+    "whole"
+   ]
+  },
+  {
+   "stem": "Two halves of a thing put together make ____",
+   "answer": "the whole",
+   "distractors": [
+    "a quarter",
+    "nothing",
+    "one half"
+   ]
+  },
+  {
+   "stem": "A paper circle folded twice and then cut gives four equal ____",
+   "answer": "quarters",
+   "distractors": [
+    "halves",
+    "edges",
+    "corners"
+   ]
+  },
+  {
+   "stem": "Half of six shells is ____",
+   "answer": "three",
+   "distractors": [
+    "four",
+    "five",
+    "six"
+   ]
+  },
+  {
+   "stem": "The length of a thing is how ____ it is",
+   "answer": "long",
+   "distractors": [
+    "heavy",
+    "wide",
+    "deep"
+   ]
+  },
+  {
+   "stem": "Measuring a desk with your hand span is using a ____ unit",
+   "answer": "body",
+   "distractors": [
+    "paper",
+    "tin",
+    "water"
+   ]
+  },
+  {
+   "stem": "One metre is the same as ____ centimetres",
+   "answer": "100",
+   "distractors": [
+    "10",
+    "50",
+    "1000"
+   ]
+  },
+  {
+   "stem": "Before we measure with a ruler we begin at the line marked ____",
+   "answer": "zero",
+   "distractors": [
+    "seven",
+    "twelve",
+    "thirty"
+   ]
+  },
+  {
+   "stem": "On a balance, the heavier cup ____",
+   "answer": "goes down",
+   "distractors": [
+    "stays up",
+    "turns round",
+    "breaks off"
+   ]
+  },
+  {
+   "stem": "Weight of a thing tells us how ____ it is",
+   "answer": "heavy",
+   "distractors": [
+    "tall",
+    "hot",
+    "loud"
+   ]
+  },
+  {
+   "stem": "A big balloon and a small stone: the lighter one is ____",
+   "answer": "the balloon",
+   "distractors": [
+    "the stone",
+    "neither one",
+    "both alike"
+   ]
+  },
+  {
+   "stem": "A bag of rice is weighed in ____",
+   "answer": "kilogram",
+   "distractors": [
+    "hand span",
+    "centimetre",
+    "litre"
+   ]
+  },
+  {
+   "stem": "The day before today is called ____",
+   "answer": "yesterday",
+   "distractors": [
+    "tomorrow",
+    "midday",
+    "evening"
+   ]
+  },
+  {
+   "stem": "How many days make one week? ____",
+   "answer": "seven",
+   "distractors": [
+    "five",
+    "ten",
+    "twelve"
+   ]
+  },
+  {
+   "stem": "At 9 o'clock the long hand of the clock points at ____",
+   "answer": "12",
+   "distractors": [
+    "9",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "stem": "The short hand of a clock counts the ____",
+   "answer": "hours",
+   "distractors": [
+    "minutes",
+    "days",
+    "months"
+   ]
+  },
+  {
+   "stem": "A ball is shaped like a ____",
+   "answer": "sphere",
+   "distractors": [
+    "cube",
+    "cone",
+    "pyramid"
+   ]
+  },
+  {
+   "stem": "How many flat faces has a cube? ____",
+   "answer": "six",
+   "distractors": [
+    "four",
+    "eight",
+    "ten"
+   ]
+  },
+  {
+   "stem": "A tin of milk is shaped like a ____",
+   "answer": "cylinder",
+   "distractors": [
+    "cone",
+    "sphere",
+    "square"
+   ]
+  },
+  {
+   "stem": "The place where two faces of a box meet is its ____",
+   "answer": "edge",
+   "distractors": [
+    "corner",
+    "middle",
+    "shadow"
+   ]
+  },
+  {
+   "stem": "A triangle has ____ sides.",
+   "answer": "three",
+   "distractors": [
+    "four",
+    "five",
+    "six"
+   ]
+  },
+  {
+   "stem": "Which of these shapes has no corner at all? ____",
+   "answer": "a circle",
+   "distractors": [
+    "a square",
+    "a triangle",
+    "a rectangle"
+   ]
+  },
+  {
+   "stem": "A slate and an exercise book are both shaped like a ____",
+   "answer": "rectangle",
+   "distractors": [
+    "circle",
+    "cone",
+    "sphere"
+   ]
+  },
+  {
+   "stem": "Two triangles placed side by side can make ____",
+   "answer": "a square",
+   "distractors": [
+    "a circle",
+    "an oval",
+    "a cone"
+   ]
+  },
+  {
+   "stem": "In the pattern circle, square, circle, square, the next shape is a ____",
+   "answer": "square",
+   "distractors": [
+    "circle",
+    "triangle",
+    "cube"
+   ]
+  },
+  {
+   "stem": "When a folded paper matches on both sides, the fold is a line of ____",
+   "answer": "symmetry",
+   "distractors": [
+    "weight",
+    "length",
+    "counting"
+   ]
+  },
+  {
+   "stem": "Every face of a cube is shaped like a ____",
+   "answer": "square",
+   "distractors": [
+    "circle",
+    "triangle",
+    "oval"
+   ]
+  },
+  {
+   "stem": "Four strokes with a fifth stroke across them stand for ____",
+   "answer": "five",
+   "distractors": [
+    "four",
+    "three",
+    "eight"
+   ]
+  },
+  {
+   "stem": "In a block chart, a taller tower means ____ children",
+   "answer": "more",
+   "distractors": [
+    "fewer",
+    "no",
+    "the same"
+   ]
+  },
+  {
+   "stem": "Before we count anything, we first ____",
+   "answer": "put one question",
+   "distractors": [
+    "shut our eyes",
+    "go to bed first",
+    "draw a big sun"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Say what a half is and what a quarter is ",
+   "points": [
+    "half is one of two equal parts",
+    "quarter is one of four equal parts"
+   ]
+  },
+  {
+   "stem": "Name three body measures we can measure length with ",
+   "points": [
+    "hand span",
+    "foot",
+    "arm"
+   ]
+  },
+  {
+   "stem": "Mention three things we can measure a desk with instead of a ruler ",
+   "points": [
+    "a pencil",
+    "a stick",
+    "a piece of thread"
+   ]
+  },
+  {
+   "stem": "Say the two units of length we use ",
+   "points": [
+    "centimetre",
+    "metre"
+   ]
+  },
+  {
+   "stem": "Put a stone, a chalk and a balloon in order, heaviest first ",
+   "points": [
+    "stone",
+    "chalk",
+    "balloon"
+   ]
+  },
+  {
+   "stem": "Say four parts of the day in order ",
+   "points": [
+    "morning",
+    "afternoon",
+    "evening",
+    "night"
+   ]
+  },
+  {
+   "stem": "Name the two hands of a clock and what each one counts ",
+   "points": [
+    "the short hand counts hours",
+    "the long hand counts minutes"
+   ]
+  },
+  {
+   "stem": "Say the five shapes you can hold that we learnt this term ",
+   "points": [
+    "cube",
+    "cuboid",
+    "sphere",
+    "cylinder",
+    "cone"
+   ]
+  },
+  {
+   "stem": "Tell how many sides and how many corners a triangle has ",
+   "points": [
+    "three sides",
+    "three corners"
+   ]
+  },
+  {
+   "stem": "Say three things we do to gather answers about the class ",
+   "points": [
+    "ask one question",
+    "take each child's word",
+    "record it with strokes"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Shade half of a square and say how many equal parts you made.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three things you measured with your hand span and say how many spans each one was.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Write two sentences on one big thing that is light and one small thing that is heavy.",
+   "marks": 4,
+   "points": []
+  },
+  {
+   "stem": "Say what the clock looks like at 7 o'clock and what you do at that time.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Ask five friends their favourite colour and record the answers with strokes.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "subject": "Basic Science",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Energy is the power to do ___",
+   "answer": "work",
+   "distractors": [
+    "sleep",
+    "nothing",
+    "harm"
+   ]
+  },
+  {
+   "stem": "The biggest source of energy is the ___",
+   "answer": "sun",
+   "distractors": [
+    "moon",
+    "star",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Food gives our body ___",
+   "answer": "energy",
+   "distractors": [
+    "water",
+    "dust",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "A ___ gives energy to a torch",
+   "answer": "battery",
+   "distractors": [
+    "stone",
+    "leaf",
+    "cloth"
+   ]
+  },
+  {
+   "stem": "A push moves a thing ___ from us",
+   "answer": "away",
+   "distractors": [
+    "towards",
+    "under",
+    "over"
+   ]
+  },
+  {
+   "stem": "A pull moves a thing ___ us",
+   "answer": "towards",
+   "distractors": [
+    "away",
+    "beside",
+    "behind"
+   ]
+  },
+  {
+   "stem": "A push or a pull is a ___",
+   "answer": "force",
+   "distractors": [
+    "song",
+    "colour",
+    "sound"
+   ]
+  },
+  {
+   "stem": "We ___ a door to close it",
+   "answer": "push",
+   "distractors": [
+    "pull",
+    "sing",
+    "hide"
+   ]
+  },
+  {
+   "stem": "A tool that makes work easier is a ___",
+   "answer": "machine",
+   "distractors": [
+    "stone",
+    "song",
+    "game"
+   ]
+  },
+  {
+   "stem": "A ___ helps us to push a thing up",
+   "answer": "ramp",
+   "distractors": [
+    "song",
+    "leaf",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "A ___ helps a thing to roll",
+   "answer": "wheel",
+   "distractors": [
+    "rope",
+    "nail",
+    "stick"
+   ]
+  },
+  {
+   "stem": "A see-saw is a ___",
+   "answer": "lever",
+   "distractors": [
+    "pulley",
+    "knife",
+    "ramp"
+   ]
+  },
+  {
+   "stem": "Living things ___ and change",
+   "answer": "grow",
+   "distractors": [
+    "shrink",
+    "stop",
+    "hide"
+   ]
+  },
+  {
+   "stem": "A seed grows into a ___",
+   "answer": "plant",
+   "distractors": [
+    "stone",
+    "bird",
+    "fish"
+   ]
+  },
+  {
+   "stem": "An egg hatches into a ___",
+   "answer": "chick",
+   "distractors": [
+    "dog",
+    "seed",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Growth needs good food and ___",
+   "answer": "water",
+   "distractors": [
+    "smoke",
+    "dust",
+    "noise"
+   ]
+  },
+  {
+   "stem": "Electricity lights the ___",
+   "answer": "bulb",
+   "distractors": [
+    "stone",
+    "leaf",
+    "cloth"
+   ]
+  },
+  {
+   "stem": "Electricity comes through ___",
+   "answer": "wires",
+   "distractors": [
+    "ropes",
+    "strings",
+    "threads"
+   ]
+  },
+  {
+   "stem": "We do not put our fingers in a ___",
+   "answer": "socket",
+   "distractors": [
+    "cup",
+    "bag",
+    "box"
+   ]
+  },
+  {
+   "stem": "We keep ___ away from electric things",
+   "answer": "water",
+   "distractors": [
+    "air",
+    "light",
+    "sound"
+   ]
+  },
+  {
+   "stem": "A magnet attracts iron and ___",
+   "answer": "steel",
+   "distractors": [
+    "wood",
+    "paper",
+    "plastic"
+   ]
+  },
+  {
+   "stem": "A magnet does not attract ___",
+   "answer": "wood",
+   "distractors": [
+    "iron",
+    "steel",
+    "a pin"
+   ]
+  },
+  {
+   "stem": "The pulling power of a magnet is ___",
+   "answer": "magnetism",
+   "distractors": [
+    "gravity",
+    "force",
+    "light"
+   ]
+  },
+  {
+   "stem": "A magnet has two ends called ___",
+   "answer": "poles",
+   "distractors": [
+    "sides",
+    "corners",
+    "edges"
+   ]
+  },
+  {
+   "stem": "A thing we no longer need is ___",
+   "answer": "waste",
+   "distractors": [
+    "food",
+    "money",
+    "a friend"
+   ]
+  },
+  {
+   "stem": "We put waste in the ___",
+   "answer": "dustbin",
+   "distractors": [
+    "river",
+    "road",
+    "desk"
+   ]
+  },
+  {
+   "stem": "To make waste into new things is to ___",
+   "answer": "recycle",
+   "distractors": [
+    "burn",
+    "hide",
+    "lose"
+   ]
+  },
+  {
+   "stem": "All that is around us is the ___",
+   "answer": "environment",
+   "distractors": [
+    "dream",
+    "song",
+    "noise"
+   ]
+  },
+  {
+   "stem": "We keep the environment clean by not ___",
+   "answer": "littering",
+   "distractors": [
+    "singing",
+    "sleeping",
+    "crying"
+   ]
+  },
+  {
+   "stem": "A dirty environment breeds germs and ___",
+   "answer": "flies",
+   "distractors": [
+    "flowers",
+    "songs",
+    "stars"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two sources of energy ",
+   "points": [
+    "sun",
+    "fire",
+    "battery",
+    "food",
+    "electricity"
+   ]
+  },
+  {
+   "stem": "Name two things you push or pull ",
+   "points": [
+    "door",
+    "trolley",
+    "rope",
+    "chair"
+   ]
+  },
+  {
+   "stem": "Name two simple machines ",
+   "points": [
+    "lever",
+    "ramp",
+    "pulley",
+    "wheel"
+   ]
+  },
+  {
+   "stem": "Name two things that help us grow ",
+   "points": [
+    "food",
+    "water",
+    "rest",
+    "care"
+   ]
+  },
+  {
+   "stem": "Name two things that use electricity ",
+   "points": [
+    "bulb",
+    "fan",
+    "television"
+   ]
+  },
+  {
+   "stem": "Name two things a magnet attracts ",
+   "points": [
+    "iron",
+    "steel",
+    "nail",
+    "pin"
+   ]
+  },
+  {
+   "stem": "Name two things we can recycle ",
+   "points": [
+    "paper",
+    "plastic",
+    "metal"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for the environment ",
+   "points": [
+    "not littering",
+    "planting trees",
+    "not wasting water"
+   ]
+  },
+  {
+   "stem": "Name two parts of the environment ",
+   "points": [
+    "air",
+    "water",
+    "land",
+    "plants",
+    "animals"
+   ]
+  },
+  {
+   "stem": "Name two things a force can do ",
+   "points": [
+    "move a thing",
+    "stop a thing"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is energy? Name two sources.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the difference between a push and a pull?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two simple machines and what each does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What does a magnet attract?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two ways to care for our environment.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

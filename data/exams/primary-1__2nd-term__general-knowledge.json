@@ -1,0 +1,390 @@
+{
+ "subject": "General Knowledge",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A friend is someone I like and ___ with",
+   "answer": "play",
+   "distractors": [
+    "fight",
+    "hide",
+    "lose"
+   ]
+  },
+  {
+   "stem": "A good friend is kind and ___",
+   "answer": "honest",
+   "distractors": [
+    "rude",
+    "lazy",
+    "angry"
+   ]
+  },
+  {
+   "stem": "A good friend shares and ___",
+   "answer": "helps",
+   "distractors": [
+    "hits",
+    "hides",
+    "steals"
+   ]
+  },
+  {
+   "stem": "We play together and take ___",
+   "answer": "turns",
+   "distractors": [
+    "fights",
+    "toys",
+    "blame"
+   ]
+  },
+  {
+   "stem": "There are ___ days in a week",
+   "answer": "seven",
+   "distractors": [
+    "five",
+    "ten",
+    "three"
+   ]
+  },
+  {
+   "stem": "There are ___ months in a year",
+   "answer": "twelve",
+   "distractors": [
+    "seven",
+    "ten",
+    "five"
+   ]
+  },
+  {
+   "stem": "The first month of the year is ___",
+   "answer": "January",
+   "distractors": [
+    "December",
+    "June",
+    "March"
+   ]
+  },
+  {
+   "stem": "The last month of the year is ___",
+   "answer": "December",
+   "distractors": [
+    "January",
+    "April",
+    "July"
+   ]
+  },
+  {
+   "stem": "A clock tells us the ___",
+   "answer": "time",
+   "distractors": [
+    "date",
+    "weather",
+    "name"
+   ]
+  },
+  {
+   "stem": "The short hand of a clock tells the ___",
+   "answer": "hour",
+   "distractors": [
+    "minute",
+    "day",
+    "month"
+   ]
+  },
+  {
+   "stem": "When the short hand is on 7, it is ___ o'clock",
+   "answer": "7",
+   "distractors": [
+    "12",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "stem": "The day has morning, afternoon and ___",
+   "answer": "evening",
+   "distractors": [
+    "night",
+    "dawn",
+    "dusk"
+   ]
+  },
+  {
+   "stem": "How the air is on a day is the ___",
+   "answer": "weather",
+   "distractors": [
+    "season",
+    "water",
+    "soil"
+   ]
+  },
+  {
+   "stem": "On a ___ day the sun shines",
+   "answer": "sunny",
+   "distractors": [
+    "rainy",
+    "cloudy",
+    "windy"
+   ]
+  },
+  {
+   "stem": "Nigeria has the dry season and the ___ season",
+   "answer": "rainy",
+   "distractors": [
+    "cold",
+    "snow",
+    "dark"
+   ]
+  },
+  {
+   "stem": "On a rainy day we use an ___",
+   "answer": "umbrella",
+   "distractors": [
+    "fan",
+    "oven",
+    "ink"
+   ]
+  },
+  {
+   "stem": "Plants grow in the ___",
+   "answer": "soil",
+   "distractors": [
+    "air",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "Plants give us food, shade and ___",
+   "answer": "beauty",
+   "distractors": [
+    "smoke",
+    "noise",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Animals are living things that ___",
+   "answer": "move",
+   "distractors": [
+    "fly",
+    "sleep",
+    "burn"
+   ]
+  },
+  {
+   "stem": "The ___ lives in water",
+   "answer": "fish",
+   "distractors": [
+    "goat",
+    "hen",
+    "dog"
+   ]
+  },
+  {
+   "stem": "We eat food to live and ___",
+   "answer": "grow",
+   "distractors": [
+    "sleep",
+    "hide",
+    "cry"
+   ]
+  },
+  {
+   "stem": "Food gives us ___ to play and work",
+   "answer": "energy",
+   "distractors": [
+    "dust",
+    "noise",
+    "dark"
+   ]
+  },
+  {
+   "stem": "Which is a fruit?",
+   "answer": "mango",
+   "distractors": [
+    "stone",
+    "sand",
+    "wood"
+   ]
+  },
+  {
+   "stem": "We wash our hands before ___",
+   "answer": "eating",
+   "distractors": [
+    "sleeping",
+    "running",
+    "crying"
+   ]
+  },
+  {
+   "stem": "Safety means keeping away from ___",
+   "answer": "harm",
+   "distractors": [
+    "food",
+    "friends",
+    "play"
+   ]
+  },
+  {
+   "stem": "At home we do not play with fire or ___ objects",
+   "answer": "sharp",
+   "distractors": [
+    "soft",
+    "round",
+    "clean"
+   ]
+  },
+  {
+   "stem": "Before crossing we look left and ___",
+   "answer": "right",
+   "distractors": [
+    "up",
+    "down",
+    "back"
+   ]
+  },
+  {
+   "stem": "The red traffic light means ___",
+   "answer": "stop",
+   "distractors": [
+    "go",
+    "run",
+    "sing"
+   ]
+  },
+  {
+   "stem": "A festival is a special time of ___",
+   "answer": "celebration",
+   "distractors": [
+    "sleep",
+    "work",
+    "crying"
+   ]
+  },
+  {
+   "stem": "The ___ festival is celebrated by Christians",
+   "answer": "Christmas",
+   "distractors": [
+    "Eid",
+    "Sallah",
+    "New Yam"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two ways to be a good friend ",
+   "points": [
+    "sharing",
+    "helping",
+    "being kind",
+    "being honest"
+   ]
+  },
+  {
+   "stem": "Name two days of the week ",
+   "points": [
+    "Sunday",
+    "Monday",
+    "Friday"
+   ]
+  },
+  {
+   "stem": "Name two months of the year ",
+   "points": [
+    "January",
+    "June",
+    "December"
+   ]
+  },
+  {
+   "stem": "Name two parts of the day ",
+   "points": [
+    "morning",
+    "afternoon",
+    "evening"
+   ]
+  },
+  {
+   "stem": "Name two types of weather ",
+   "points": [
+    "sunny",
+    "rainy",
+    "cloudy",
+    "windy"
+   ]
+  },
+  {
+   "stem": "Name two plants you see ",
+   "points": [
+    "tree",
+    "flower",
+    "grass",
+    "maize"
+   ]
+  },
+  {
+   "stem": "Name two foods you eat ",
+   "points": [
+    "rice",
+    "yam",
+    "beans",
+    "pap"
+   ]
+  },
+  {
+   "stem": "Name two ways to be safe on the road ",
+   "points": [
+    "look left and right",
+    "use the zebra crossing",
+    "obey the traffic light"
+   ]
+  },
+  {
+   "stem": "Name two festivals in Nigeria ",
+   "points": [
+    "Eid",
+    "Christmas",
+    "New Yam festival"
+   ]
+  },
+  {
+   "stem": "Name two things we must not play with at home ",
+   "points": [
+    "fire",
+    "sharp objects",
+    "electric sockets"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Name two ways to be a good friend.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How many days are in a week? Name two of them.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What does a clock tell us?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two foods you eat and why we eat.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a festival? Name one in Nigeria.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

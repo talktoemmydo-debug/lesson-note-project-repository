@@ -1,0 +1,55 @@
+# Physical and Health Education — Primary 1 · Second Term · term paper
+subject: Physical and Health Education
+class: Primary 1
+term: 2nd Term
+
+[objective]
+Jumping is pushing the body off the ___ || ground || water || tree || wall
+We bend our ___ before we jump || knees || ears || eyes || nose
+We land on the ___ of our feet || balls || heels || sides || toes
+Jumping as far as we can is the ___ jump || long || high || short || slow
+Throwing is sending a ball away with the ___ || hand || foot || head || ear
+Catching is ___ a ball that comes to us || holding || losing || hiding || breaking
+We catch with ___ hands || both || one || no || dirty
+We watch the ball as it ___ || comes || sleeps || burns || hides
+A game played with a ball is a ___ game || ball || card || board || word
+In football we kick the ball with the ___ || foot || hand || head || ear
+We pass the ball to a ___ || friend || stranger || wall || tree
+Each team tries to score a ___ || goal || song || dance || sleep
+Moving the body in skillful ways is ___ || gymnastics || sleeping || eating || reading
+We can ___ on one foot || balance || sleep || eat || cry
+We roll on a ___ to be safe || mat || stone || fire || road
+We ___ our arms up high || stretch || hide || cut || wash
+Rest is taking it easy after work or ___ || play || sleep || eating || crying
+Sleep helps the body to grow and get ___ || strong || weak || dirty || sad
+We sleep ___ and wake early || early || late || never || at noon
+Too little sleep makes us tired and ___ || weak || strong || tall || happy
+Food gives us energy and helps us ___ || grow || sleep || hide || cry
+Good food makes the body ___ || strong || weak || dirty || sad
+A meal with all the food we need is a ___ diet || balanced || broken || small || sweet
+We drink clean ___ every day || water || sand || oil || ink
+We play in a safe place, not on the ___ || road || field || park || yard
+We do not push or ___ our friends || hit || help || share || greet
+We ___ up before we play || warm || sleep || eat || cry
+Exercise is activity that moves the ___ || body || mind || book || chair
+Exercise makes the heart and ___ strong || muscles || clothes || shoes || toys
+Exercise keeps us from ___ || sickness || hunger || joy || friends
+
+[subobjective]
+Name two kinds of jump :: long jump | high jump | one-foot jump
+Name two things we do with a ball :: throw | catch | kick
+Name two ball games :: football | handball | basketball
+Name two gymnastics movements :: roll | balance | stretch | hop
+Name two ways we rest :: sitting down | lying down | sleeping
+Name two foods we eat :: rice | yam | beans | fruits
+Name two ways to play safely :: play in a safe place | do not push | warm up
+Name two good things exercise does :: strong heart | strong muscles | keeps us from sickness
+Name two dangers in play :: sharp objects | rough play | playing on the road
+Name two things we do before exercise :: warm up | stretch
+
+[theory]
+What is jumping, and how do we land safely? || 2
+Name two things we do with a ball. || 2
+What is a ball game? Name one. || 2
+Why do we sleep? || 2
+What is exercise? Name two good things it does. || 2

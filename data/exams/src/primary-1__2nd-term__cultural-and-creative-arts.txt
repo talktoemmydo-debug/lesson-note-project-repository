@@ -1,0 +1,55 @@
+# Cultural and Creative Arts — Primary 1 · Second Term · term paper
+subject: Cultural and Creative Arts
+class: Primary 1
+term: 2nd Term
+
+[objective]
+The primary colours are red, blue and ___ || yellow || green || orange || purple
+Blue + yellow makes ___ || green || orange || purple || brown
+Red + yellow makes ___ || orange || green || purple || black
+Which is a secondary colour? || green || red || blue || yellow
+Drawing is making a picture with ___ || lines || sounds || words || numbers
+We draw with a pencil or ___ || crayon || spoon || stone || leaf
+We colour ___ the lines || inside || outside || over || under
+A ___ drawing is pleasing to see || neat || dirty || torn || dark
+Modelling is making shapes with ___ material || soft || hard || liquid || hot
+We model with clay, plasticine or ___ || sand || water || air || fire
+We can mould a pot, a cup or an ___ || animal || idea || song || smell
+A ___ is the thing we make || model || line || sound || word
+Craft work is making things with our ___ || hands || feet || ears || nose
+We ___ paper or straw to make a mat || weave || burn || hide || lose
+We cut and ___ to make a collage || paste || break || wash || sing
+We use paper, straw, cloth and ___ || leaves || stones || water || smoke
+Music is sound that is pleasing to ___ || hear || see || touch || smell
+A ___ has words we sing || song || picture || stone || line
+We keep ___ or beat when we sing || time || silence || dust || dark
+We can ___ while we sing || clap || sleep || cry || fight
+A thing that makes music is a musical ___ || instrument || animal || food || cloth
+The drum is beaten with a stick or ___ || hand || foot || head || knee
+The ___ is blown || flute || drum || gong || shekere
+The ___ is shaken || shekere || flute || drum || gong
+Dance is moving the body to ___ || music || silence || dust || sleep
+We can clap, jump, turn and ___ || stamp || sleep || cry || hide
+We move to the ___ of the music || beat || colour || smell || taste
+Drama is ___ out a story || acting || singing || drawing || hiding
+A ___ is the part we play || role || song || line || beat
+We ___ to be someone in a story || pretend || refuse || forget || hide
+
+[subobjective]
+Name the three primary colours :: red | blue | yellow
+Name two secondary colours :: green | orange | purple
+Name two things we can draw :: people | animals | trees | houses
+Name two things we can mould :: pot | cup | animal
+Name two crafts we can make :: mat | fan | bead chain | basket
+Name two places we sing :: home | school | church
+Name two local musical instruments :: drum | gong | shekere | flute
+Name two dance movements :: clap | jump | turn | stamp
+Name two things we use in drama :: voice | body | simple dress
+Name two art tools :: pencil | crayon | colour pencil
+
+[theory]
+Name the three primary colours. || 2
+What do blue and yellow make? || 2
+What is modelling? Name two things we can mould. || 2
+Name two local musical instruments and how each is played. || 2
+What is drama? || 2

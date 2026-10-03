@@ -1,0 +1,387 @@
+{
+ "subject": "Mathematics & English · MATHEMATICS",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "How heavy or light a thing is called its ___",
+   "answer": "weight",
+   "distractors": [
+    "colour",
+    "name",
+    "age"
+   ]
+  },
+  {
+   "stem": "A heavy thing has ___ weight",
+   "answer": "more",
+   "distractors": [
+    "less",
+    "no",
+    "zero"
+   ]
+  },
+  {
+   "stem": "We use a ___ to measure weight",
+   "answer": "balance",
+   "distractors": [
+    "ruler",
+    "clock",
+    "cup"
+   ]
+  },
+  {
+   "stem": "A stone is ___ than a feather",
+   "answer": "heavier",
+   "distractors": [
+    "lighter",
+    "smaller",
+    "softer"
+   ]
+  },
+  {
+   "stem": "We measure weight in kilograms and ___",
+   "answer": "grams",
+   "distractors": [
+    "litres",
+    "metres",
+    "seconds"
+   ]
+  },
+  {
+   "stem": "How much a container can hold is its ___",
+   "answer": "capacity",
+   "distractors": [
+    "weight",
+    "colour",
+    "name"
+   ]
+  },
+  {
+   "stem": "A big bucket holds ___ water than a cup",
+   "answer": "more",
+   "distractors": [
+    "less",
+    "no",
+    "zero"
+   ]
+  },
+  {
+   "stem": "We measure liquids like water and ___",
+   "answer": "milk",
+   "distractors": [
+    "stone",
+    "sand",
+    "wood"
+   ]
+  },
+  {
+   "stem": "We measure capacity in litres and ___",
+   "answer": "millilitres",
+   "distractors": [
+    "kilograms",
+    "metres",
+    "grams"
+   ]
+  },
+  {
+   "stem": "A thing that holds liquid is a ___",
+   "answer": "container",
+   "distractors": [
+    "stone",
+    "song",
+    "box"
+   ]
+  },
+  {
+   "stem": "The size of a flat surface is its ___",
+   "answer": "area",
+   "distractors": [
+    "weight",
+    "colour",
+    "name"
+   ]
+  },
+  {
+   "stem": "We measure area with ___ squares",
+   "answer": "unit",
+   "distractors": [
+    "round",
+    "big",
+    "red"
+   ]
+  },
+  {
+   "stem": "We ___ the unit squares to find the area",
+   "answer": "count",
+   "distractors": [
+    "eat",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "A big surface has a ___ area",
+   "answer": "larger",
+   "distractors": [
+    "smaller",
+    "no",
+    "zero"
+   ]
+  },
+  {
+   "stem": "The top or outside of a thing is its ___",
+   "answer": "surface",
+   "distractors": [
+    "weight",
+    "colour",
+    "name"
+   ]
+  },
+  {
+   "stem": "Flat shapes are ___ shapes",
+   "answer": "2-dimensional",
+   "distractors": [
+    "3-dimensional",
+    "round",
+    "heavy"
+   ]
+  },
+  {
+   "stem": "A shape with three sides is a ___",
+   "answer": "triangle",
+   "distractors": [
+    "square",
+    "circle",
+    "cube"
+   ]
+  },
+  {
+   "stem": "A round shape is a ___",
+   "answer": "circle",
+   "distractors": [
+    "square",
+    "rectangle",
+    "triangle"
+   ]
+  },
+  {
+   "stem": "A door is like a ___",
+   "answer": "rectangle",
+   "distractors": [
+    "circle",
+    "triangle",
+    "cube"
+   ]
+  },
+  {
+   "stem": "A shape with four equal sides is a ___",
+   "answer": "square",
+   "distractors": [
+    "circle",
+    "triangle",
+    "cube"
+   ]
+  },
+  {
+   "stem": "Solid shapes are ___ shapes",
+   "answer": "3-dimensional",
+   "distractors": [
+    "2-dimensional",
+    "flat",
+    "light"
+   ]
+  },
+  {
+   "stem": "A shape like a ball is a ___",
+   "answer": "sphere",
+   "distractors": [
+    "cube",
+    "cone",
+    "square"
+   ]
+  },
+  {
+   "stem": "A shape like a box is a ___",
+   "answer": "cube",
+   "distractors": [
+    "sphere",
+    "circle",
+    "triangle"
+   ]
+  },
+  {
+   "stem": "A shape like a drum is a ___",
+   "answer": "cylinder",
+   "distractors": [
+    "cone",
+    "cube",
+    "circle"
+   ]
+  },
+  {
+   "stem": "A shape like an ice-cream cone is a ___",
+   "answer": "cone",
+   "distractors": [
+    "cube",
+    "sphere",
+    "circle"
+   ]
+  },
+  {
+   "stem": "Information we collect is ___",
+   "answer": "data",
+   "distractors": [
+    "noise",
+    "sleep",
+    "food"
+   ]
+  },
+  {
+   "stem": "We collect data by ___ things",
+   "answer": "counting",
+   "distractors": [
+    "eating",
+    "burning",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "We put data in a table or ___",
+   "answer": "chart",
+   "distractors": [
+    "cup",
+    "box",
+    "bag"
+   ]
+  },
+  {
+   "stem": "The study of shapes is ___",
+   "answer": "geometry",
+   "distractors": [
+    "music",
+    "cooking",
+    "running"
+   ]
+  },
+  {
+   "stem": "A maths problem in words is a ___ problem",
+   "answer": "word",
+   "distractors": [
+    "song",
+    "dance",
+    "game"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things we measure by weight ",
+   "points": [
+    "a bag of rice",
+    "a stone",
+    "a person",
+    "a book"
+   ]
+  },
+  {
+   "stem": "Name two containers we use ",
+   "points": [
+    "a cup",
+    "a bucket",
+    "a bottle",
+    "a bowl"
+   ]
+  },
+  {
+   "stem": "Name two surfaces that have an area ",
+   "points": [
+    "a table top",
+    "a floor",
+    "a door"
+   ]
+  },
+  {
+   "stem": "Name three 2-D shapes ",
+   "points": [
+    "circle",
+    "square",
+    "rectangle",
+    "triangle"
+   ]
+  },
+  {
+   "stem": "Name three 3-D shapes ",
+   "points": [
+    "cube",
+    "cylinder",
+    "sphere",
+    "cone"
+   ]
+  },
+  {
+   "stem": "Name two things we can count as data ",
+   "points": [
+    "boys and girls",
+    "books",
+    "pencils"
+   ]
+  },
+  {
+   "stem": "Name two 2-D and two 3-D shapes ",
+   "points": [
+    "circle, square",
+    "cube, sphere"
+   ]
+  },
+  {
+   "stem": "Name two things we use to solve problems ",
+   "points": [
+    "addition",
+    "subtraction",
+    "counting"
+   ]
+  },
+  {
+   "stem": "Name two measures of weight ",
+   "points": [
+    "kilograms",
+    "grams"
+   ]
+  },
+  {
+   "stem": "Name two measures of capacity ",
+   "points": [
+    "litres",
+    "millilitres"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is weight? Name one thing we measure by weight.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is capacity? Name one container.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three 2-D shapes and three 3-D shapes.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is data? How do we collect it?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write one word problem and solve it.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

@@ -1,0 +1,382 @@
+{
+ "subject": "Social and Citizenship Studies",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Waste like paper and peels should be put ____",
+   "answer": "into a covered bin",
+   "distractors": [
+    "on the open ground",
+    "in the long gutter",
+    "under a big leaf"
+   ]
+  },
+  {
+   "stem": "When the gutter is choked with litter, rain water ___",
+   "answer": "has no way out",
+   "distractors": [
+    "dries up at once",
+    "goes away faster",
+    "turns clean again"
+   ]
+  },
+  {
+   "stem": "The weather a place has over many years is its ___",
+   "answer": "climate",
+   "distractors": [
+    "class",
+    "cloth",
+    "chart"
+   ]
+  },
+  {
+   "stem": "A long time without any rain at all is called a ___",
+   "answer": "drought",
+   "distractors": [
+    "flood",
+    "storm",
+    "shower"
+   ]
+  },
+  {
+   "stem": "Animals that live in nature by themselves are ___",
+   "answer": "wildlife",
+   "distractors": [
+    "houseplants",
+    "farm crops",
+    "market goods"
+   ]
+  },
+  {
+   "stem": "A monkey makes its home in ___",
+   "answer": "the trees of the forest",
+   "distractors": [
+    "the long dry grass",
+    "the holes in the path",
+    "the town market shed"
+   ]
+  },
+  {
+   "stem": "Keeping nature and its animals safe is called ___",
+   "answer": "conservation",
+   "distractors": [
+    "pollution",
+    "decoration",
+    "collection"
+   ]
+  },
+  {
+   "stem": "Some animals are nearly gone because their ___",
+   "answer": "homes are cut down",
+   "distractors": [
+    "food is brought in",
+    "names are lost out",
+    "tails grow long"
+   ]
+  },
+  {
+   "stem": "The money of Nigeria is called the ___",
+   "answer": "naira",
+   "distractors": [
+    "pesewa",
+    "cedi",
+    "kobo"
+   ]
+  },
+  {
+   "stem": "Round money made of metal is a ___",
+   "answer": "coin",
+   "distractors": [
+    "note",
+    "cup",
+    "card"
+   ]
+  },
+  {
+   "stem": "Money made of paper is called a ___",
+   "answer": "note",
+   "distractors": [
+    "coin",
+    "plate",
+    "mat"
+   ]
+  },
+  {
+   "stem": "People are paid money because they ___",
+   "answer": "work",
+   "distractors": [
+    "play",
+    "sleep",
+    "wait"
+   ]
+  },
+  {
+   "stem": "Garri, palm oil and a school uniform are things we ___",
+   "answer": "need",
+   "distractors": [
+    "want only",
+    "hide away",
+    "break often"
+   ]
+  },
+  {
+   "stem": "Money that is not ours is ___",
+   "answer": "never taken",
+   "distractors": [
+    "quickly spent",
+    "kept in a pocket",
+    "shared with good friends"
+   ]
+  },
+  {
+   "stem": "If we find money on the floor, we ___",
+   "answer": "give it back",
+   "distractors": [
+    "hide it well",
+    "keep it very quiet",
+    "put it in a pocket"
+   ]
+  },
+  {
+   "stem": "A box with a slit for keeping money for later is a ___ bank",
+   "answer": "piggy",
+   "distractors": [
+    "muddy",
+    "sleepy",
+    "tidy"
+   ]
+  },
+  {
+   "stem": "A person who belongs to a country is a ___",
+   "answer": "citizen",
+   "distractors": [
+    "visitor",
+    "baby",
+    "leader"
+   ]
+  },
+  {
+   "stem": "One right of a child is the right to be ___",
+   "answer": "safe",
+   "distractors": [
+    "last",
+    "loud",
+    "tired"
+   ]
+  },
+  {
+   "stem": "Giving a girl and a boy the same turn is being ___",
+   "answer": "fair",
+   "distractors": [
+    "late",
+    "cold",
+    "cross"
+   ]
+  },
+  {
+   "stem": "When a small child is being bullied, we ___",
+   "answer": "speak up",
+   "distractors": [
+    "look away",
+    "keep very quiet",
+    "laugh out loud"
+   ]
+  },
+  {
+   "stem": "People living and working together in one place are a ___",
+   "answer": "community",
+   "distractors": [
+    "classroom",
+    "market day",
+    "family name"
+   ]
+  },
+  {
+   "stem": "A busy place with many buildings and big markets is a ___",
+   "answer": "town",
+   "distractors": [
+    "village",
+    "farm",
+    "bush"
+   ]
+  },
+  {
+   "stem": "A village sends ___ to the town",
+   "answer": "baskets of food",
+   "distractors": [
+    "street lights",
+    "tall buildings",
+    "long new buses"
+   ]
+  },
+  {
+   "stem": "A good community shares, helps and works ___",
+   "answer": "together",
+   "distractors": [
+    "apart later",
+    "only on Sunday",
+    "quietly alone"
+   ]
+  },
+  {
+   "stem": "A leader is a person who ___ people",
+   "answer": "guides and serves",
+   "distractors": [
+    "runs away from",
+    "looks down on",
+    "hides from"
+   ]
+  },
+  {
+   "stem": "A traditional leader in our land is a ___",
+   "answer": "chief",
+   "distractors": [
+    "driver",
+    "seller",
+    "pupil"
+   ]
+  },
+  {
+   "stem": "One quality of a good leader is being a good ___",
+   "answer": "listener",
+   "distractors": [
+    "runner",
+    "eater",
+    "sleeper"
+   ]
+  },
+  {
+   "stem": "Nigeria has ___ tongues and cultures",
+   "answer": "many",
+   "distractors": [
+    "two",
+    "one",
+    "no"
+   ]
+  },
+  {
+   "stem": "Amala and efo, garri and pounded yam are ___ of our people",
+   "answer": "foods",
+   "distractors": [
+    "tools",
+    "games",
+    "songs"
+   ]
+  },
+  {
+   "stem": "A child in another country ___",
+   "answer": "goes to school and plays",
+   "distractors": [
+    "eats nothing at all",
+    "has no tongue at all",
+    "stays from school"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things we put into a covered bin ",
+   "points": [
+    "paper",
+    "banana peel"
+   ]
+  },
+  {
+   "stem": "Say three kinds of weather you know ",
+   "points": [
+    "sun",
+    "rain",
+    "wind"
+   ]
+  },
+  {
+   "stem": "Mention three animals that live in nature by themselves ",
+   "points": [
+    "monkey",
+    "antelope",
+    "lizard"
+   ]
+  },
+  {
+   "stem": "Say two things we must not do to animals or their homes ",
+   "points": [
+    "burn the bush",
+    "stone a bird"
+   ]
+  },
+  {
+   "stem": "Tell two ways a coin is different from a note ",
+   "points": [
+    "metal and round",
+    "paper and flat"
+   ]
+  },
+  {
+   "stem": "Mention four things money buys for a family ",
+   "points": [
+    "food",
+    "cloth",
+    "school",
+    "a bus ride"
+   ]
+  },
+  {
+   "stem": "Name two places where money kept for later is put ",
+   "points": [
+    "a piggy bank",
+    "the bank"
+   ]
+  },
+  {
+   "stem": "Say two rights of a child ",
+   "points": [
+    "to learn",
+    "to be safe"
+   ]
+  },
+  {
+   "stem": "Name two things a town has that a village has few of ",
+   "points": [
+    "many buildings",
+    "street lights"
+   ]
+  },
+  {
+   "stem": "Mention four kinds of leader in a community ",
+   "points": [
+    "traditional",
+    "religious",
+    "community",
+    "school"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write two sentences on two things you do to keep your place clean.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Mention four animals that live in nature by themselves and say where one of them lives.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Say why money that is not ours must never be taken.",
+   "marks": 4,
+   "points": []
+  },
+  {
+   "stem": "Write two sentences on what a good citizen does in the place where he lives.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Name three leaders in your community and say one thing a good leader is.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

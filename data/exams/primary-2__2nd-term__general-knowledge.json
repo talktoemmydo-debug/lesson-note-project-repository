@@ -1,0 +1,397 @@
+{
+ "subject": "General Knowledge",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "There are ___ continents",
+   "answer": "seven",
+   "distractors": [
+    "five",
+    "ten",
+    "two"
+   ]
+  },
+  {
+   "stem": "Our continent is ___",
+   "answer": "Africa",
+   "distractors": [
+    "Asia",
+    "Europe",
+    "Australia"
+   ]
+  },
+  {
+   "stem": "The biggest continent is ___",
+   "answer": "Asia",
+   "distractors": [
+    "Africa",
+    "Europe",
+    "Australia"
+   ]
+  },
+  {
+   "stem": "___ is very cold and covered with ice",
+   "answer": "Antarctica",
+   "distractors": [
+    "Africa",
+    "Asia",
+    "Europe"
+   ]
+  },
+  {
+   "stem": "There are ___ oceans",
+   "answer": "five",
+   "distractors": [
+    "seven",
+    "ten",
+    "two"
+   ]
+  },
+  {
+   "stem": "The biggest ocean is the ___",
+   "answer": "Pacific",
+   "distractors": [
+    "Atlantic",
+    "Indian",
+    "Arctic"
+   ]
+  },
+  {
+   "stem": "The ocean near Nigeria is the ___",
+   "answer": "Atlantic",
+   "distractors": [
+    "Pacific",
+    "Indian",
+    "Southern"
+   ]
+  },
+  {
+   "stem": "Oceans are ___ — we do not drink their water",
+   "answer": "salty",
+   "distractors": [
+    "sweet",
+    "fresh",
+    "clean"
+   ]
+  },
+  {
+   "stem": "The capital of Nigeria is ___",
+   "answer": "Abuja",
+   "distractors": [
+    "Accra",
+    "Cairo",
+    "Nairobi"
+   ]
+  },
+  {
+   "stem": "The capital of Ghana is ___",
+   "answer": "Accra",
+   "distractors": [
+    "Abuja",
+    "Cairo",
+    "Nairobi"
+   ]
+  },
+  {
+   "stem": "The capital of Egypt is ___",
+   "answer": "Cairo",
+   "distractors": [
+    "Abuja",
+    "Accra",
+    "Nairobi"
+   ]
+  },
+  {
+   "stem": "The capital of Kenya is ___",
+   "answer": "Nairobi",
+   "distractors": [
+    "Abuja",
+    "Accra",
+    "Cairo"
+   ]
+  },
+  {
+   "stem": "The capital of the United Kingdom is ___",
+   "answer": "London",
+   "distractors": [
+    "Paris",
+    "Tokyo",
+    "Beijing"
+   ]
+  },
+  {
+   "stem": "The capital of France is ___",
+   "answer": "Paris",
+   "distractors": [
+    "London",
+    "Tokyo",
+    "Beijing"
+   ]
+  },
+  {
+   "stem": "The capital of China is ___",
+   "answer": "Beijing",
+   "distractors": [
+    "London",
+    "Paris",
+    "Tokyo"
+   ]
+  },
+  {
+   "stem": "The capital of Japan is ___",
+   "answer": "Tokyo",
+   "distractors": [
+    "London",
+    "Paris",
+    "Beijing"
+   ]
+  },
+  {
+   "stem": "The three main languages in Nigeria are Hausa, Yoruba and ___",
+   "answer": "Igbo",
+   "distractors": [
+    "French",
+    "Latin",
+    "Arabic"
+   ]
+  },
+  {
+   "stem": "The official language of Nigeria is ___",
+   "answer": "English",
+   "distractors": [
+    "French",
+    "Arabic",
+    "Latin"
+   ]
+  },
+  {
+   "stem": "The Igbo have the ___ festival",
+   "answer": "New Yam",
+   "distractors": [
+    "durbar",
+    "Egungun",
+    "Osun"
+   ]
+  },
+  {
+   "stem": "Culture is the ___ of life of a people",
+   "answer": "way",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The part of the body we see with is the ___",
+   "answer": "eye",
+   "distractors": [
+    "ear",
+    "nose",
+    "tongue"
+   ]
+  },
+  {
+   "stem": "The part we hear with is the ___",
+   "answer": "ear",
+   "distractors": [
+    "eye",
+    "hand",
+    "leg"
+   ]
+  },
+  {
+   "stem": "We brush our teeth every morning and ___",
+   "answer": "night",
+   "distractors": [
+    "noon",
+    "dawn",
+    "dusk"
+   ]
+  },
+  {
+   "stem": "We wash our hands before ___",
+   "answer": "eating",
+   "distractors": [
+    "sleeping",
+    "running",
+    "singing"
+   ]
+  },
+  {
+   "stem": "Where a plant or animal lives is its ___",
+   "answer": "habitat",
+   "distractors": [
+    "stone",
+    "song",
+    "dream"
+   ]
+  },
+  {
+   "stem": "Fish live in ___",
+   "answer": "water",
+   "distractors": [
+    "trees",
+    "desert",
+    "sky"
+   ]
+  },
+  {
+   "stem": "Birds live in trees and ___",
+   "answer": "nests",
+   "distractors": [
+    "water",
+    "desert",
+    "fire"
+   ]
+  },
+  {
+   "stem": "Camels live in the ___",
+   "answer": "desert",
+   "distractors": [
+    "water",
+    "tree",
+    "sky"
+   ]
+  },
+  {
+   "stem": "The tools and machines we use is ___",
+   "answer": "technology",
+   "distractors": [
+    "sleep",
+    "food",
+    "water"
+   ]
+  },
+  {
+   "stem": "A ___ helps us learn and work",
+   "answer": "computer",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name three continents ",
+   "points": [
+    "Africa",
+    "Asia",
+    "Europe",
+    "North America",
+    "South America",
+    "Australia",
+    "Antarctica"
+   ]
+  },
+  {
+   "stem": "Name three oceans ",
+   "points": [
+    "Atlantic",
+    "Pacific",
+    "Indian",
+    "Southern",
+    "Arctic"
+   ]
+  },
+  {
+   "stem": "Name two African countries and their capitals ",
+   "points": [
+    "Nigeria-Abuja",
+    "Ghana-Accra",
+    "Egypt-Cairo",
+    "Kenya-Nairobi"
+   ]
+  },
+  {
+   "stem": "Name two countries in the world and their capitals ",
+   "points": [
+    "UK-London",
+    "France-Paris",
+    "China-Beijing",
+    "Japan-Tokyo"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian languages ",
+   "points": [
+    "Hausa",
+    "Yoruba",
+    "Igbo",
+    "Ijaw",
+    "Tiv"
+   ]
+  },
+  {
+   "stem": "Name two healthy habits ",
+   "points": [
+    "bathing",
+    "brushing teeth",
+    "washing hands"
+   ]
+  },
+  {
+   "stem": "Name two animals and their habitats ",
+   "points": [
+    "fish-water",
+    "birds-trees",
+    "camels-desert"
+   ]
+  },
+  {
+   "stem": "Name two technologies we use ",
+   "points": [
+    "computer",
+    "phone",
+    "internet",
+    "television"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian festivals ",
+   "points": [
+    "New Yam",
+    "durbar",
+    "Egungun",
+    "Osun"
+   ]
+  },
+  {
+   "stem": "Name two things technology does for us ",
+   "points": [
+    "makes work easy",
+    "helps us find information"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "How many continents are there? Name three.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How many oceans are there? Name the one near Nigeria.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two African countries and their capitals.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the three main languages in Nigeria.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a habitat? Name two animals and their habitats.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

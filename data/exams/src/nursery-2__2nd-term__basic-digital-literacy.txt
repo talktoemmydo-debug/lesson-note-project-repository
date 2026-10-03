@@ -1,0 +1,55 @@
+# Basic Digital Literacy — Nursery 2 · Second Term · term paper
+subject: Basic Digital Literacy
+class: Nursery 2
+term: 2nd Term
+
+[objective]
+The old counting frame with beads on wires is called the ___ || abacus || printer || monitor || keyboard
+Charles Babbage is remembered because he made the ___ || plan of a counting machine || first mobile phone || printing press || steam engine
+The woman who wrote the first steps for a machine was ___ || Ada Lovelace || Funmilayo Ransome-Kuti || Queen Amina || Margaret Ekpo
+As computers changed, they became smaller and ___ || faster || heavier || slower || dearer
+A machine of the fifth generation can learn and answer questions; this is called ___ || artificial intelligence || a paper tape reader || a slow old typewriter || a hand-driven generator
+Hardware means the parts of a computer that we can ___ || touch and see || only dream of || hear but not see || print on paper
+Which of these is software? || a drawing app || the keyboard || the mouse || the power cable
+The brain of the computer is the ___ || CPU || fan || cover || monitor
+The part that keeps our work in the computer until we call it again is the ___ || hard drive || mouse pad || screen glass || power switch
+Work kept in RAM is lost when ___ || the power goes off || we close the file || the fan stops || the desk is swept
+The big board inside the machine that joins all the parts is the ___ || motherboard || keyboard || speaker || lamp
+The keys used for typing on a computer are the ___ || keyboard || printer || scanner || projector
+The order of letters on a keyboard is called the ___ || QWERTY layout || ABC layout || Friday layout || number layout
+The key that moves us to the next line is ___ || Enter || Caps Lock || Esc || Shift
+To make all the letters big we press ___ || Caps Lock || Backspace || the space bar || the wheel
+Clicking once on the mouse is for ___ || choosing something || printing a page || shutting the machine down || cooling the CPU
+To open a folder we usually ___ || double-click it || shake the mouse || pull the cable || press Caps Lock
+Moving an icon by holding the button, moving the mouse and letting go is ___ || drag and drop || scanning || printing || saving
+A device that takes our voice into the computer is the ___ || microphone || printer || monitor || fan
+While speaking into a microphone we should ___ || hold it by the body, not the cable || shout straight into it very close || put it under running water || drop it on the table for fun
+The right sitting position for computer work keeps our ___ || back straight and eyes level || shoes clean and laced up || bag closed on the floor || hands wet with water
+A device that puts a paper drawing into the computer is the ___ || scanner || speaker || mouse || projector
+A small camera on top of the screen that shows our face on a call is the ___ || webcam || printer || keyboard || router
+A device joined to the computer with no wire at all uses ___ || Bluetooth || a nail || glue || a long rope
+A flash drive carries ___ || our work in the pocket || water for the plant || chalk for the board || food for lunch
+A monitor shows us ___ || the work of the computer on a screen || the sound of the machine only || the papers that need cutting || the dust inside the box
+A blurry picture on a screen means the picture has ___ || too few small dots || too many small dots || no colour at all || a bigger box
+The printer that squirts tiny drops of liquid is the ___ || inkjet printer || laser printer || typewriter || scanner
+Too much paper in a printer tray will make the printer ___ || jam || sing || cool down || wake up
+The sound from a headphone is heard by ___ || only the person wearing it || the whole class || everybody in the room || nobody at all
+
+[subobjective]
+Name the three things that kept changing as computers grew older to newer. :: smaller size | faster work | cheaper cost
+Mention the four parts found inside a computer box. :: CPU | RAM | hard drive | motherboard
+Sort these into input and output: keyboard, monitor, mouse, printer, microphone, speakers. :: input: keyboard, mouse, microphone | output: monitor, printer, speakers
+Mention four things we can do with the mouse. :: click | double-click | right-click | scroll | drag and drop
+Name four peripherals that can be joined to a computer. :: printer | scanner | flash drive | webcam | speakers
+Mention four rules of the computer lab. :: walk, do not run | no food or drink | clean dry hands | switch off after use
+Name the parts of a printer we work with. :: paper tray | ink or toner cartridge | cover | output slot
+Mention three ways a monitor can be spoiled. :: water sprayed on it | knocking or pressing the glass | leaving it in bright sun
+Give three rules for caring for headphones. :: do not share them | do not wind the cable tight | keep the holes clean
+Mention four things we must do before printing. :: look at the preview | put paper in flat | check the ink | switch it on
+
+[theory]
+Explain the difference between hardware and software and give two examples of each. || 2
+Describe the keyboard and the mouse and say how we take care of them. || 2
+What is an input device? Write on the microphone, the scanner and the webcam. || 2
+Write on any two output devices: what each one does and how we care for it. || 2
+State four safety rules for using a computer and its power. || 2

@@ -1,0 +1,55 @@
+# General Knowledge — Primary 1 · Second Term · term paper
+subject: General Knowledge
+class: Primary 1
+term: 2nd Term
+
+[objective]
+A friend is someone I like and ___ with || play || fight || hide || lose
+A good friend is kind and ___ || honest || rude || lazy || angry
+A good friend shares and ___ || helps || hits || hides || steals
+We play together and take ___ || turns || fights || toys || blame
+There are ___ days in a week || seven || five || ten || three
+There are ___ months in a year || twelve || seven || ten || five
+The first month of the year is ___ || January || December || June || March
+The last month of the year is ___ || December || January || April || July
+A clock tells us the ___ || time || date || weather || name
+The short hand of a clock tells the ___ || hour || minute || day || month
+When the short hand is on 7, it is ___ o'clock || 7 || 12 || 6 || 3
+The day has morning, afternoon and ___ || evening || night || dawn || dusk
+How the air is on a day is the ___ || weather || season || water || soil
+On a ___ day the sun shines || sunny || rainy || cloudy || windy
+Nigeria has the dry season and the ___ season || rainy || cold || snow || dark
+On a rainy day we use an ___ || umbrella || fan || oven || ink
+Plants grow in the ___ || soil || air || water || fire
+Plants give us food, shade and ___ || beauty || smoke || noise || stone
+Animals are living things that ___ || move || fly || sleep || burn
+The ___ lives in water || fish || goat || hen || dog
+We eat food to live and ___ || grow || sleep || hide || cry
+Food gives us ___ to play and work || energy || dust || noise || dark
+Which is a fruit? || mango || stone || sand || wood
+We wash our hands before ___ || eating || sleeping || running || crying
+Safety means keeping away from ___ || harm || food || friends || play
+At home we do not play with fire or ___ objects || sharp || soft || round || clean
+Before crossing we look left and ___ || right || up || down || back
+The red traffic light means ___ || stop || go || run || sing
+A festival is a special time of ___ || celebration || sleep || work || crying
+The ___ festival is celebrated by Christians || Christmas || Eid || Sallah || New Yam
+
+[subobjective]
+Name two ways to be a good friend :: sharing | helping | being kind | being honest
+Name two days of the week :: Sunday | Monday | Friday
+Name two months of the year :: January | June | December
+Name two parts of the day :: morning | afternoon | evening
+Name two types of weather :: sunny | rainy | cloudy | windy
+Name two plants you see :: tree | flower | grass | maize
+Name two foods you eat :: rice | yam | beans | pap
+Name two ways to be safe on the road :: look left and right | use the zebra crossing | obey the traffic light
+Name two festivals in Nigeria :: Eid | Christmas | New Yam festival
+Name two things we must not play with at home :: fire | sharp objects | electric sockets
+
+[theory]
+Name two ways to be a good friend. || 2
+How many days are in a week? Name two of them. || 2
+What does a clock tell us? || 2
+Name two foods you eat and why we eat. || 2
+What is a festival? Name one in Nigeria. || 2

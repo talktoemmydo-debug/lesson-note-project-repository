@@ -1,0 +1,388 @@
+{
+ "subject": "Physical and Health Education",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "Being safe on the road is ___ safety",
+   "answer": "road",
+   "distractors": [
+    "water",
+    "fire",
+    "air"
+   ]
+  },
+  {
+   "stem": "We cross the road at the ___ crossing",
+   "answer": "zebra",
+   "distractors": [
+    "lion",
+    "dog",
+    "bird"
+   ]
+  },
+  {
+   "stem": "We look left, right and ___ again before crossing",
+   "answer": "left",
+   "distractors": [
+    "up",
+    "down",
+    "back"
+   ]
+  },
+  {
+   "stem": "The ___ traffic light means stop",
+   "answer": "red",
+   "distractors": [
+    "green",
+    "yellow",
+    "blue"
+   ]
+  },
+  {
+   "stem": "Keeping ourselves safe is ___ safety",
+   "answer": "personal",
+   "distractors": [
+    "road",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We do not go with ___",
+   "answer": "strangers",
+   "distractors": [
+    "teachers",
+    "parents",
+    "friends"
+   ]
+  },
+  {
+   "stem": "The emergency number in Nigeria is ___",
+   "answer": "112",
+   "distractors": [
+    "999",
+    "100",
+    "123"
+   ]
+  },
+  {
+   "stem": "We call ___ for help in an emergency",
+   "answer": "112",
+   "distractors": [
+    "100",
+    "123",
+    "999"
+   ]
+  },
+  {
+   "stem": "Learning about the body and movement is ___ education",
+   "answer": "physical",
+   "distractors": [
+    "music",
+    "art",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "In PHE we ___ and play",
+   "answer": "exercise",
+   "distractors": [
+    "sleep",
+    "eat",
+    "cry"
+   ]
+  },
+  {
+   "stem": "PHE keeps the body strong and ___",
+   "answer": "healthy",
+   "distractors": [
+    "weak",
+    "sick",
+    "sad"
+   ]
+  },
+  {
+   "stem": "We ___ up before exercise",
+   "answer": "warm",
+   "distractors": [
+    "cool",
+    "sleep",
+    "eat"
+   ]
+  },
+  {
+   "stem": "We move our arms up and ___",
+   "answer": "down",
+   "distractors": [
+    "in",
+    "out",
+    "off"
+   ]
+  },
+  {
+   "stem": "We ___ our arms and lower them",
+   "answer": "raise",
+   "distractors": [
+    "break",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ with our legs",
+   "answer": "kick",
+   "distractors": [
+    "sing",
+    "sleep",
+    "eat"
+   ]
+  },
+  {
+   "stem": "We ___ our head side to side",
+   "answer": "turn",
+   "distractors": [
+    "break",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ our body down",
+   "answer": "bend",
+   "distractors": [
+    "break",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ our arms and legs",
+   "answer": "stretch",
+   "distractors": [
+    "break",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ on one foot",
+   "answer": "balance",
+   "distractors": [
+    "fall",
+    "sleep",
+    "eat"
+   ]
+  },
+  {
+   "stem": "We ___ on one foot",
+   "answer": "hop",
+   "distractors": [
+    "sleep",
+    "eat",
+    "cry"
+   ]
+  },
+  {
+   "stem": "Sports like running and jumping are ___",
+   "answer": "athletics",
+   "distractors": [
+    "sleeping",
+    "eating",
+    "singing"
+   ]
+  },
+  {
+   "stem": "Moving fast on the feet is ___",
+   "answer": "running",
+   "distractors": [
+    "sitting",
+    "sleeping",
+    "eating"
+   ]
+  },
+  {
+   "stem": "A ___ is to see who is fastest",
+   "answer": "race",
+   "distractors": [
+    "nap",
+    "song",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "We ___ up before running",
+   "answer": "warm",
+   "distractors": [
+    "cool",
+    "sleep",
+    "eat"
+   ]
+  },
+  {
+   "stem": "Pushing off the ground with the feet is ___",
+   "answer": "jumping",
+   "distractors": [
+    "sitting",
+    "sleeping",
+    "eating"
+   ]
+  },
+  {
+   "stem": "Jumping on one foot is ___",
+   "answer": "hopping",
+   "distractors": [
+    "sitting",
+    "sleeping",
+    "lying"
+   ]
+  },
+  {
+   "stem": "A long jump is a ___",
+   "answer": "leap",
+   "distractors": [
+    "nap",
+    "song",
+    "rest"
+   ]
+  },
+  {
+   "stem": "We land on our ___",
+   "answer": "feet",
+   "distractors": [
+    "head",
+    "hands",
+    "back"
+   ]
+  },
+  {
+   "stem": "A game played with a ball is a ___ game",
+   "answer": "ball",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We play ___ with a ball",
+   "answer": "football",
+   "distractors": [
+    "sleeping",
+    "eating",
+    "singing"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two road safety rules ",
+   "points": [
+    "cross at the zebra crossing",
+    "look left, right, left",
+    "obey the traffic light"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep ourselves safe ",
+   "points": [
+    "do not go with strangers",
+    "tell a grown-up",
+    "know the emergency number"
+   ]
+  },
+  {
+   "stem": "Name two things we do in PHE ",
+   "points": [
+    "exercise",
+    "play games",
+    "warm up"
+   ]
+  },
+  {
+   "stem": "Name two ways we move our arms ",
+   "points": [
+    "raise",
+    "lower",
+    "swing"
+   ]
+  },
+  {
+   "stem": "Name two ways we move our body in one place ",
+   "points": [
+    "bend",
+    "stretch",
+    "twist",
+    "balance"
+   ]
+  },
+  {
+   "stem": "Name two types of jumping ",
+   "points": [
+    "hopping",
+    "leaping",
+    "jumping high"
+   ]
+  },
+  {
+   "stem": "Name two ball games ",
+   "points": [
+    "football",
+    "basketball",
+    "volleyball"
+   ]
+  },
+  {
+   "stem": "Name two things we do with the ball ",
+   "points": [
+    "kick",
+    "throw",
+    "catch",
+    "dribble"
+   ]
+  },
+  {
+   "stem": "Name two things we do in running ",
+   "points": [
+    "warm up",
+    "run fast",
+    "run in a race"
+   ]
+  },
+  {
+   "stem": "Name two body parts we move ",
+   "points": [
+    "arms",
+    "legs",
+    "head"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is road safety? Name two road safety rules.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the emergency number in Nigeria? When do we call it?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is physical education? Name two things we do in PHE.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is jumping? Name two types.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a ball game? Name two ball games.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

@@ -1,0 +1,386 @@
+{
+ "subject": "Basic Science",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "A road that is smooth and black is called a ___",
+   "answer": "tarred road",
+   "distractors": [
+    "muddy road",
+    "bush path",
+    "water way"
+   ]
+  },
+  {
+   "stem": "The small road that people use for walking is a ___",
+   "answer": "pathway",
+   "distractors": [
+    "highway",
+    "bridge",
+    "flyover"
+   ]
+  },
+  {
+   "stem": "The traffic light that tells us to stop is ___",
+   "answer": "red",
+   "distractors": [
+    "green",
+    "yellow",
+    "blue"
+   ]
+  },
+  {
+   "stem": "Everything around us at home and at school is the ___",
+   "answer": "environment",
+   "distractors": [
+    "calendar",
+    "notebook",
+    "market"
+   ]
+  },
+  {
+   "stem": "Red, blue and yellow are the ___ colours",
+   "answer": "primary",
+   "distractors": [
+    "secondary",
+    "dark",
+    "pale"
+   ]
+  },
+  {
+   "stem": "A round shape with no corners is a ___",
+   "answer": "circle",
+   "distractors": [
+    "square",
+    "triangle",
+    "rectangle"
+   ]
+  },
+  {
+   "stem": "The shape with three sides and three corners is a ___",
+   "answer": "triangle",
+   "distractors": [
+    "square",
+    "circle",
+    "oval"
+   ]
+  },
+  {
+   "stem": "A shape with four equal sides and four corners is a ___",
+   "answer": "square",
+   "distractors": [
+    "rectangle",
+    "oval",
+    "star"
+   ]
+  },
+  {
+   "stem": "The shape of an egg is an ___",
+   "answer": "oval",
+   "distractors": [
+    "circle",
+    "square",
+    "heart"
+   ]
+  },
+  {
+   "stem": "A tin of milk is the solid shape called a ___",
+   "answer": "cylinder",
+   "distractors": [
+    "cube",
+    "sphere",
+    "cone"
+   ]
+  },
+  {
+   "stem": "A ball is the solid shape called a ___",
+   "answer": "sphere",
+   "distractors": [
+    "cube",
+    "cylinder",
+    "cone"
+   ]
+  },
+  {
+   "stem": "Things that have life like humans, animals and plants are ___ things",
+   "answer": "living",
+   "distractors": [
+    "non-living",
+    "man-made",
+    "stone"
+   ]
+  },
+  {
+   "stem": "A dog, a cat and a goat are ___",
+   "answer": "living things",
+   "distractors": [
+    "non-living things",
+    "toys",
+    "tools"
+   ]
+  },
+  {
+   "stem": "Living things eat, grow, breathe and ___",
+   "answer": "move",
+   "distractors": [
+    "melt",
+    "rust",
+    "break"
+   ]
+  },
+  {
+   "stem": "A plant needs water, air and ___ to grow well",
+   "answer": "sunlight",
+   "distractors": [
+    "shoes",
+    "paper",
+    "money"
+   ]
+  },
+  {
+   "stem": "Things that do not eat, grow or breathe are ___",
+   "answer": "non-living things",
+   "distractors": [
+    "living things",
+    "animals",
+    "plants"
+   ]
+  },
+  {
+   "stem": "A stone, a chair and a book are ___",
+   "answer": "non-living things",
+   "distractors": [
+    "living things",
+    "pets",
+    "crops"
+   ]
+  },
+  {
+   "stem": "Rocks, soil, water and sand are ___ non-living things",
+   "answer": "natural",
+   "distractors": [
+    "man-made",
+    "living",
+    "growing"
+   ]
+  },
+  {
+   "stem": "Cars, houses, chairs and toys are ___ non-living things",
+   "answer": "man-made",
+   "distractors": [
+    "natural",
+    "living",
+    "breathing"
+   ]
+  },
+  {
+   "stem": "Moving air is called ___",
+   "answer": "wind",
+   "distractors": [
+    "rain",
+    "cloud",
+    "sun"
+   ]
+  },
+  {
+   "stem": "We cannot see air but we can ___ it",
+   "answer": "feel",
+   "distractors": [
+    "eat",
+    "wear",
+    "hold"
+   ]
+  },
+  {
+   "stem": "We use air for breathing, drying clothes and ___",
+   "answer": "flying a kite",
+   "distractors": [
+    "reading a book",
+    "writing a letter",
+    "sleeping on a bed"
+   ]
+  },
+  {
+   "stem": "The top part of the ground where plants grow is ___",
+   "answer": "soil",
+   "distractors": [
+    "water",
+    "air",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The soil that is best for growing plants is ___",
+   "answer": "loamy",
+   "distractors": [
+    "rocky",
+    "dry",
+    "hard"
+   ]
+  },
+  {
+   "stem": "A pot for cooking can be made from ___",
+   "answer": "clay",
+   "distractors": [
+    "air",
+    "water",
+    "glass"
+   ]
+  },
+  {
+   "stem": "Soil can be black, brown, red or ___",
+   "answer": "yellow",
+   "distractors": [
+    "blue",
+    "green",
+    "purple"
+   ]
+  },
+  {
+   "stem": "We cross the road at the ___ crossing",
+   "answer": "zebra",
+   "distractors": [
+    "river",
+    "market",
+    "school"
+   ]
+  },
+  {
+   "stem": "Two primary colours mixed together give a ___ colour",
+   "answer": "secondary",
+   "distractors": [
+    "primary",
+    "clear",
+    "white"
+   ]
+  },
+  {
+   "stem": "A house gives living things ___",
+   "answer": "shelter",
+   "distractors": [
+    "noise",
+    "smoke",
+    "dust"
+   ]
+  },
+  {
+   "stem": "We care for the soil by not littering and by ___",
+   "answer": "planting trees",
+   "distractors": [
+    "burning rubbish",
+    "cutting trees",
+    "pouring oil"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the three primary colours ",
+   "points": [
+    "red",
+    "blue",
+    "yellow"
+   ]
+  },
+  {
+   "stem": "Name two things that move on the road ",
+   "points": [
+    "car",
+    "bicycle",
+    "bus"
+   ]
+  },
+  {
+   "stem": "Name two living things on a farm ",
+   "points": [
+    "goat",
+    "hen",
+    "cow"
+   ]
+  },
+  {
+   "stem": "Name two man-made non-living things ",
+   "points": [
+    "chair",
+    "table",
+    "car"
+   ]
+  },
+  {
+   "stem": "Name two natural non-living things ",
+   "points": [
+    "rock",
+    "water",
+    "sand"
+   ]
+  },
+  {
+   "stem": "Name two ways we feel air ",
+   "points": [
+    "blowing",
+    "fanning",
+    "waving"
+   ]
+  },
+  {
+   "stem": "Name two places we find soil ",
+   "points": [
+    "garden",
+    "farm",
+    "pot"
+   ]
+  },
+  {
+   "stem": "Name two basic shapes ",
+   "points": [
+    "circle",
+    "square",
+    "triangle"
+   ]
+  },
+  {
+   "stem": "Name two solid shapes ",
+   "points": [
+    "sphere",
+    "cube",
+    "cylinder"
+   ]
+  },
+  {
+   "stem": "Name two things made from soil ",
+   "points": [
+    "pot",
+    "mud house",
+    "flower pot"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a road and one thing that uses it?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Say what living things need to live.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Tell the difference between living and non-living things.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is wind and one use of air?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the three types of soil.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

@@ -1,0 +1,384 @@
+{
+ "subject": "Mathematics & English · MATHEMATICS",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "Multiplication means adding the same number again and ___",
+   "answer": "again",
+   "distractors": [
+    "once",
+    "never",
+    "twice"
+   ]
+  },
+  {
+   "stem": "The times sign is ___",
+   "answer": "×",
+   "distractors": [
+    "+",
+    "−",
+    "="
+   ]
+  },
+  {
+   "stem": "2 × 3 = ___",
+   "answer": "6",
+   "distractors": [
+    "5",
+    "8",
+    "3"
+   ]
+  },
+  {
+   "stem": "5 × 2 = ___",
+   "answer": "10",
+   "distractors": [
+    "7",
+    "12",
+    "5"
+   ]
+  },
+  {
+   "stem": "4 × 3 = ___",
+   "answer": "12",
+   "distractors": [
+    "7",
+    "9",
+    "15"
+   ]
+  },
+  {
+   "stem": "5 × 5 = ___",
+   "answer": "25",
+   "distractors": [
+    "20",
+    "15",
+    "10"
+   ]
+  },
+  {
+   "stem": "The 2 times table goes 2, 4, 6, 8, ___",
+   "answer": "10",
+   "distractors": [
+    "9",
+    "12",
+    "11"
+   ]
+  },
+  {
+   "stem": "3 × 5 = ___",
+   "answer": "15",
+   "distractors": [
+    "12",
+    "10",
+    "20"
+   ]
+  },
+  {
+   "stem": "An open sentence has a ___ number",
+   "answer": "missing",
+   "distractors": [
+    "wrong",
+    "loud",
+    "dark"
+   ]
+  },
+  {
+   "stem": "In 2 + □ = 5, the missing number is ___",
+   "answer": "3",
+   "distractors": [
+    "2",
+    "5",
+    "7"
+   ]
+  },
+  {
+   "stem": "In □ + 4 = 7, the missing number is ___",
+   "answer": "3",
+   "distractors": [
+    "4",
+    "7",
+    "11"
+   ]
+  },
+  {
+   "stem": "In 6 − □ = 2, the missing number is ___",
+   "answer": "4",
+   "distractors": [
+    "6",
+    "2",
+    "8"
+   ]
+  },
+  {
+   "stem": "We use money to ___ things",
+   "answer": "buy",
+   "distractors": [
+    "lose",
+    "hide",
+    "break"
+   ]
+  },
+  {
+   "stem": "Nigerian money is the naira and ___",
+   "answer": "kobo",
+   "distractors": [
+    "cents",
+    "pounds",
+    "dollars"
+   ]
+  },
+  {
+   "stem": "A note can be 5 naira or ___ naira",
+   "answer": "10",
+   "distractors": [
+    "50 kobo",
+    "1 kobo",
+    "0"
+   ]
+  },
+  {
+   "stem": "We ___ money to know how much we have",
+   "answer": "count",
+   "distractors": [
+    "hide",
+    "burn",
+    "lose"
+   ]
+  },
+  {
+   "stem": "2 naira + 3 naira = ___ naira",
+   "answer": "5",
+   "distractors": [
+    "4",
+    "6",
+    "1"
+   ]
+  },
+  {
+   "stem": "The money given back is ___",
+   "answer": "change",
+   "distractors": [
+    "price",
+    "cost",
+    "gift"
+   ]
+  },
+  {
+   "stem": "If I pay 10 naira for a 6 naira sweet, the change is ___ naira",
+   "answer": "4",
+   "distractors": [
+    "6",
+    "10",
+    "16"
+   ]
+  },
+  {
+   "stem": "We ___ money for later",
+   "answer": "save",
+   "distractors": [
+    "lose",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Length is how ___ a thing is",
+   "answer": "long",
+   "distractors": [
+    "heavy",
+    "wide",
+    "round"
+   ]
+  },
+  {
+   "stem": "We measure length with a ___",
+   "answer": "ruler",
+   "distractors": [
+    "spoon",
+    "cup",
+    "stone"
+   ]
+  },
+  {
+   "stem": "We measure in centimetres and ___",
+   "answer": "metres",
+   "distractors": [
+    "litres",
+    "grams",
+    "seconds"
+   ]
+  },
+  {
+   "stem": "A short thing has a ___ length",
+   "answer": "small",
+   "distractors": [
+    "big",
+    "loud",
+    "dark"
+   ]
+  },
+  {
+   "stem": "A clock tells us the ___",
+   "answer": "time",
+   "distractors": [
+    "date",
+    "weather",
+    "name"
+   ]
+  },
+  {
+   "stem": "The short hand tells the ___",
+   "answer": "hour",
+   "distractors": [
+    "minute",
+    "day",
+    "month"
+   ]
+  },
+  {
+   "stem": "There are ___ days in a week",
+   "answer": "seven",
+   "distractors": [
+    "five",
+    "ten",
+    "three"
+   ]
+  },
+  {
+   "stem": "When the long hand is on 6, it is ___ past",
+   "answer": "half",
+   "distractors": [
+    "quarter",
+    "full",
+    "no"
+   ]
+  },
+  {
+   "stem": "Half past 3 is ___",
+   "answer": "3:30",
+   "distractors": [
+    "3:00",
+    "6:30",
+    "3:15"
+   ]
+  },
+  {
+   "stem": "There are ___ months in a year",
+   "answer": "twelve",
+   "distractors": [
+    "seven",
+    "ten",
+    "five"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two multiplication sums ",
+   "points": [
+    "2 × 3 = 6",
+    "5 × 2 = 10"
+   ]
+  },
+  {
+   "stem": "Name two sums from the 5 times table ",
+   "points": [
+    "5 × 2 = 10",
+    "5 × 5 = 25"
+   ]
+  },
+  {
+   "stem": "Name two open sentences ",
+   "points": [
+    "2 + □ = 5",
+    "6 − □ = 2"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian coins or notes ",
+   "points": [
+    "50 kobo",
+    "1 naira",
+    "5 naira",
+    "10 naira"
+   ]
+  },
+  {
+   "stem": "Name two money sums ",
+   "points": [
+    "2 + 3 = 5 naira",
+    "10 − 6 = 4 naira"
+   ]
+  },
+  {
+   "stem": "Name two things we can measure ",
+   "points": [
+    "pencil",
+    "ruler",
+    "table",
+    "rope"
+   ]
+  },
+  {
+   "stem": "Name two tools for measuring ",
+   "points": [
+    "ruler",
+    "metre rule",
+    "tape"
+   ]
+  },
+  {
+   "stem": "Name two times on the clock ",
+   "points": [
+    "3 o'clock",
+    "6 o'clock",
+    "half past 4"
+   ]
+  },
+  {
+   "stem": "Name two parts of the day ",
+   "points": [
+    "morning",
+    "afternoon",
+    "evening"
+   ]
+  },
+  {
+   "stem": "Name two months of the year ",
+   "points": [
+    "January",
+    "June",
+    "December"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is 2 × 3? Show your work.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the missing number in 4 + □ = 8?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is 5 naira + 5 naira?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What do we measure length with?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is half past 3?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

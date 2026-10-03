@@ -1,0 +1,395 @@
+{
+ "subject": "Mathematics & English · ENGLISH LANGUAGE",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "The first sound in \"cat\" is ___",
+   "answer": "/k/",
+   "distractors": [
+    "/b/",
+    "/s/",
+    "/m/"
+   ]
+  },
+  {
+   "stem": "The first sound in \"ball\" is ___",
+   "answer": "/b/",
+   "distractors": [
+    "/k/",
+    "/t/",
+    "/d/"
+   ]
+  },
+  {
+   "stem": "The first sound in \"sun\" is ___",
+   "answer": "/s/",
+   "distractors": [
+    "/b/",
+    "/k/",
+    "/n/"
+   ]
+  },
+  {
+   "stem": "A word is made of ___",
+   "answer": "sounds",
+   "distractors": [
+    "numbers",
+    "signs",
+    "lines"
+   ]
+  },
+  {
+   "stem": "c-a-t blends to ___",
+   "answer": "cat",
+   "distractors": [
+    "dog",
+    "pen",
+    "sun"
+   ]
+  },
+  {
+   "stem": "d-o-g blends to ___",
+   "answer": "dog",
+   "distractors": [
+    "cat",
+    "man",
+    "hat"
+   ]
+  },
+  {
+   "stem": "To spell a word we say its ___",
+   "answer": "sounds",
+   "distractors": [
+    "colour",
+    "size",
+    "shape"
+   ]
+  },
+  {
+   "stem": "\"pen\" is spelled ___",
+   "answer": "p-e-n",
+   "distractors": [
+    "d-o-g",
+    "c-a-t",
+    "s-u-n"
+   ]
+  },
+  {
+   "stem": "A story has a beginning, a middle and an ___",
+   "answer": "end",
+   "distractors": [
+    "middle",
+    "start",
+    "middle only"
+   ]
+  },
+  {
+   "stem": "Which two words rhyme?",
+   "answer": "cat and hat",
+   "distractors": [
+    "cat and dog",
+    "dog and pen",
+    "sun and man"
+   ]
+  },
+  {
+   "stem": "We listen to a story with ___",
+   "answer": "care",
+   "distractors": [
+    "noise",
+    "sleep",
+    "anger"
+   ]
+  },
+  {
+   "stem": "A rhyme has words that sound the ___ at the end",
+   "answer": "same",
+   "distractors": [
+    "different",
+    "loud",
+    "soft"
+   ]
+  },
+  {
+   "stem": "A describing word is also called an ___",
+   "answer": "adjective",
+   "distractors": [
+    "noun",
+    "verb",
+    "adverb"
+   ]
+  },
+  {
+   "stem": "Which is a describing word?",
+   "answer": "big",
+   "distractors": [
+    "run",
+    "boy",
+    "and"
+   ]
+  },
+  {
+   "stem": "Which is a colour word?",
+   "answer": "red",
+   "distractors": [
+    "jump",
+    "table",
+    "she"
+   ]
+  },
+  {
+   "stem": "The ___ dog barks. Which word fits?",
+   "answer": "big",
+   "distractors": [
+    "runs",
+    "dog",
+    "quickly"
+   ]
+  },
+  {
+   "stem": "A blend is consonants said ___",
+   "answer": "together",
+   "distractors": [
+    "apart",
+    "never",
+    "slowly"
+   ]
+  },
+  {
+   "stem": "A digraph makes ___ new sound",
+   "answer": "one",
+   "distractors": [
+    "two",
+    "three",
+    "no"
+   ]
+  },
+  {
+   "stem": "st is in ___",
+   "answer": "stop",
+   "distractors": [
+    "ship",
+    "chin",
+    "this"
+   ]
+  },
+  {
+   "stem": "sh says /sh/ as in ___",
+   "answer": "ship",
+   "distractors": [
+    "tree",
+    "black",
+    "spin"
+   ]
+  },
+  {
+   "stem": "A question ends with a ___",
+   "answer": "question mark",
+   "distractors": [
+    "full stop",
+    "comma",
+    "letter"
+   ]
+  },
+  {
+   "stem": "Which is a question word?",
+   "answer": "who",
+   "distractors": [
+    "run",
+    "big",
+    "and"
+   ]
+  },
+  {
+   "stem": "\"___ is this?\" Which word fits?",
+   "answer": "What",
+   "distractors": [
+    "Run",
+    "Blue",
+    "She"
+   ]
+  },
+  {
+   "stem": "We answer a question with a full ___",
+   "answer": "sentence",
+   "distractors": [
+    "word only",
+    "letter",
+    "number"
+   ]
+  },
+  {
+   "stem": "Tense tells us ___ an action happens",
+   "answer": "when",
+   "distractors": [
+    "where",
+    "who",
+    "why"
+   ]
+  },
+  {
+   "stem": "The past of \"walk\" is ___",
+   "answer": "walked",
+   "distractors": [
+    "walking",
+    "walks",
+    "walk"
+   ]
+  },
+  {
+   "stem": "The past of \"eat\" is ___",
+   "answer": "ate",
+   "distractors": [
+    "eat",
+    "eating",
+    "eats"
+   ]
+  },
+  {
+   "stem": "The past of \"run\" is ___",
+   "answer": "ran",
+   "distractors": [
+    "run",
+    "running",
+    "runs"
+   ]
+  },
+  {
+   "stem": "A word family is words that end the ___ way",
+   "answer": "same",
+   "distractors": [
+    "different",
+    "loud",
+    "soft"
+   ]
+  },
+  {
+   "stem": "Which is in the -at family?",
+   "answer": "cat",
+   "distractors": [
+    "dog",
+    "pen",
+    "sun"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two words that begin with /b/ ",
+   "points": [
+    "ball",
+    "bat",
+    "bag",
+    "big"
+   ]
+  },
+  {
+   "stem": "Name two three-sound words ",
+   "points": [
+    "cat",
+    "dog",
+    "pen",
+    "man"
+   ]
+  },
+  {
+   "stem": "Name two words that rhyme ",
+   "points": [
+    "cat and hat",
+    "dog and log",
+    "sun and run"
+   ]
+  },
+  {
+   "stem": "Name two describing words ",
+   "points": [
+    "big",
+    "small",
+    "red",
+    "hot"
+   ]
+  },
+  {
+   "stem": "Name two words with blends ",
+   "points": [
+    "stop",
+    "tree",
+    "black",
+    "spin"
+   ]
+  },
+  {
+   "stem": "Name two words with digraphs ",
+   "points": [
+    "ship",
+    "chin",
+    "this",
+    "fish"
+   ]
+  },
+  {
+   "stem": "Name two question words ",
+   "points": [
+    "who",
+    "what",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "stem": "Name two past-tense words ",
+   "points": [
+    "walked",
+    "ate",
+    "ran",
+    "played"
+   ]
+  },
+  {
+   "stem": "Name two words in the -at family ",
+   "points": [
+    "cat",
+    "bat",
+    "hat",
+    "mat"
+   ]
+  },
+  {
+   "stem": "Name two words in the -ig family ",
+   "points": [
+    "big",
+    "dig",
+    "pig",
+    "wig"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is the first sound in \"dog\"?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Spell the word \"man\".",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is an adjective? Give two examples.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the past tense of \"jump\" and \"eat\"?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two words in the -op family.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

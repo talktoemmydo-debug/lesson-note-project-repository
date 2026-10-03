@@ -1,0 +1,396 @@
+{
+ "subject": "Basic Science",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "A thing that has life is a ___ thing",
+   "answer": "living",
+   "distractors": [
+    "non-living",
+    "dead",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Living things ___ and grow",
+   "answer": "breathe",
+   "distractors": [
+    "break",
+    "burn",
+    "melt"
+   ]
+  },
+  {
+   "stem": "Which of these is a living thing?",
+   "answer": "a goat",
+   "distractors": [
+    "a stone",
+    "a table",
+    "a chair"
+   ]
+  },
+  {
+   "stem": "Which of these is a non-living thing?",
+   "answer": "water",
+   "distractors": [
+    "a bird",
+    "a tree",
+    "a boy"
+   ]
+  },
+  {
+   "stem": "The part that holds a plant in the ground is the ___",
+   "answer": "root",
+   "distractors": [
+    "flower",
+    "fruit",
+    "leaf"
+   ]
+  },
+  {
+   "stem": "The part that makes food for the plant is the ___",
+   "answer": "leaf",
+   "distractors": [
+    "root",
+    "stem",
+    "fruit"
+   ]
+  },
+  {
+   "stem": "The ___ turns into fruit",
+   "answer": "flower",
+   "distractors": [
+    "root",
+    "stem",
+    "leaf"
+   ]
+  },
+  {
+   "stem": "Plants give us food, shade and ___",
+   "answer": "air",
+   "distractors": [
+    "stone",
+    "fire",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "An animal that lives at home is a ___ animal",
+   "answer": "domestic",
+   "distractors": [
+    "wild",
+    "fierce",
+    "lost"
+   ]
+  },
+  {
+   "stem": "Which animal lives in water?",
+   "answer": "fish",
+   "distractors": [
+    "goat",
+    "dog",
+    "bird"
+   ]
+  },
+  {
+   "stem": "Which animal can fly?",
+   "answer": "bird",
+   "distractors": [
+    "cow",
+    "goat",
+    "dog"
+   ]
+  },
+  {
+   "stem": "Animals give us food, milk and ___",
+   "answer": "help",
+   "distractors": [
+    "stone",
+    "fire",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "The part of the body we see with is the ___",
+   "answer": "eye",
+   "distractors": [
+    "ear",
+    "nose",
+    "tongue"
+   ]
+  },
+  {
+   "stem": "The part we hear with is the ___",
+   "answer": "ear",
+   "distractors": [
+    "eye",
+    "hand",
+    "leg"
+   ]
+  },
+  {
+   "stem": "The ___ pumps blood",
+   "answer": "heart",
+   "distractors": [
+    "lung",
+    "skin",
+    "tooth"
+   ]
+  },
+  {
+   "stem": "We care for the body by bathing and ___ well",
+   "answer": "eating",
+   "distractors": [
+    "sleeping",
+    "crying",
+    "shouting"
+   ]
+  },
+  {
+   "stem": "We have ___ senses",
+   "answer": "five",
+   "distractors": [
+    "two",
+    "ten",
+    "one"
+   ]
+  },
+  {
+   "stem": "We see with the ___",
+   "answer": "eyes",
+   "distractors": [
+    "ears",
+    "nose",
+    "tongue"
+   ]
+  },
+  {
+   "stem": "We taste with the ___",
+   "answer": "tongue",
+   "distractors": [
+    "skin",
+    "eye",
+    "ear"
+   ]
+  },
+  {
+   "stem": "We feel with the ___",
+   "answer": "skin",
+   "distractors": [
+    "nose",
+    "eye",
+    "tongue"
+   ]
+  },
+  {
+   "stem": "The body being well and not sick is ___",
+   "answer": "health",
+   "distractors": [
+    "sickness",
+    "hunger",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "We brush our teeth every morning and ___",
+   "answer": "night",
+   "distractors": [
+    "noon",
+    "dawn",
+    "dusk"
+   ]
+  },
+  {
+   "stem": "We wash our hands before ___",
+   "answer": "eating",
+   "distractors": [
+    "sleeping",
+    "running",
+    "singing"
+   ]
+  },
+  {
+   "stem": "Germs cause ___",
+   "answer": "sickness",
+   "distractors": [
+    "health",
+    "strength",
+    "joy"
+   ]
+  },
+  {
+   "stem": "We ___ air to live",
+   "answer": "breathe",
+   "distractors": [
+    "eat",
+    "burn",
+    "break"
+   ]
+  },
+  {
+   "stem": "Moving air is called ___",
+   "answer": "wind",
+   "distractors": [
+    "water",
+    "fire",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "We use water to bathe, cook and ___",
+   "answer": "wash",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We keep water ___",
+   "answer": "clean",
+   "distractors": [
+    "dirty",
+    "hot",
+    "dark"
+   ]
+  },
+  {
+   "stem": "How the air is at a time is the ___",
+   "answer": "weather",
+   "distractors": [
+    "season",
+    "water",
+    "food"
+   ]
+  },
+  {
+   "stem": "When water falls from the sky, it is ___",
+   "answer": "rainy",
+   "distractors": [
+    "sunny",
+    "windy",
+    "cloudy"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two living things ",
+   "points": [
+    "a man",
+    "a goat",
+    "a tree",
+    "a bird"
+   ]
+  },
+  {
+   "stem": "Name two non-living things ",
+   "points": [
+    "a stone",
+    "a table",
+    "water",
+    "a chair"
+   ]
+  },
+  {
+   "stem": "Name two parts of a plant ",
+   "points": [
+    "root",
+    "stem",
+    "leaf",
+    "flower",
+    "fruit"
+   ]
+  },
+  {
+   "stem": "Name two animals that live at home ",
+   "points": [
+    "dog",
+    "cat",
+    "goat",
+    "cow"
+   ]
+  },
+  {
+   "stem": "Name two animals that live in water ",
+   "points": [
+    "fish",
+    "crab"
+   ]
+  },
+  {
+   "stem": "Name two parts of the body ",
+   "points": [
+    "head",
+    "hand",
+    "leg",
+    "eye",
+    "ear"
+   ]
+  },
+  {
+   "stem": "Name the five senses ",
+   "points": [
+    "sight",
+    "hearing",
+    "smell",
+    "taste",
+    "touch"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep the body clean ",
+   "points": [
+    "bathing",
+    "brushing teeth",
+    "washing hands"
+   ]
+  },
+  {
+   "stem": "Name two uses of water ",
+   "points": [
+    "drinking",
+    "bathing",
+    "cooking",
+    "washing"
+   ]
+  },
+  {
+   "stem": "Name two types of weather ",
+   "points": [
+    "sunny",
+    "rainy",
+    "windy",
+    "cloudy"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a living thing? Name one.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the parts of a plant.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two animals that live at home and two that live in water.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the five senses.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the two seasons in Nigeria.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

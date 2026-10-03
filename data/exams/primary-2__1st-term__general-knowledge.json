@@ -1,0 +1,395 @@
+{
+ "subject": "General Knowledge",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Nigeria has ___ states and the FCT",
+   "answer": "36",
+   "distractors": [
+    "10",
+    "50",
+    "12"
+   ]
+  },
+  {
+   "stem": "The capital of Benue State is ___",
+   "answer": "Makurdi",
+   "distractors": [
+    "Kano",
+    "Jos",
+    "Lokoja"
+   ]
+  },
+  {
+   "stem": "The capital of Plateau State is ___",
+   "answer": "Jos",
+   "distractors": [
+    "Minna",
+    "Katsina",
+    "Sokoto"
+   ]
+  },
+  {
+   "stem": "Kano is a state in the ___ zone",
+   "answer": "North-West",
+   "distractors": [
+    "South-East",
+    "South-West",
+    "North-Central"
+   ]
+  },
+  {
+   "stem": "The capital of Borno State is ___",
+   "answer": "Maiduguri",
+   "distractors": [
+    "Yola",
+    "Bauchi",
+    "Damaturu"
+   ]
+  },
+  {
+   "stem": "The capital of Rivers State is ___",
+   "answer": "Port Harcourt",
+   "distractors": [
+    "Asaba",
+    "Benin City",
+    "Yenagoa"
+   ]
+  },
+  {
+   "stem": "The capital of Edo State is ___",
+   "answer": "Benin City",
+   "distractors": [
+    "Asaba",
+    "Port Harcourt",
+    "Yenagoa"
+   ]
+  },
+  {
+   "stem": "Adamawa is a state in the ___ zone",
+   "answer": "North-East",
+   "distractors": [
+    "South-South",
+    "North-West",
+    "South-East"
+   ]
+  },
+  {
+   "stem": "The capital of Lagos State is ___",
+   "answer": "Ikeja",
+   "distractors": [
+    "Ibadan",
+    "Abeokuta",
+    "Osogbo"
+   ]
+  },
+  {
+   "stem": "The capital of Oyo State is ___",
+   "answer": "Ibadan",
+   "distractors": [
+    "Ikeja",
+    "Akure",
+    "Ado-Ekiti"
+   ]
+  },
+  {
+   "stem": "The capital of Nigeria is ___",
+   "answer": "Abuja",
+   "distractors": [
+    "Lagos",
+    "Kano",
+    "Enugu"
+   ]
+  },
+  {
+   "stem": "The FCT stands for ___ Capital Territory",
+   "answer": "Federal",
+   "distractors": [
+    "First",
+    "Final",
+    "Full"
+   ]
+  },
+  {
+   "stem": "Nigeria has ___ levels of government",
+   "answer": "three",
+   "distractors": [
+    "two",
+    "five",
+    "ten"
+   ]
+  },
+  {
+   "stem": "The leader of a state is the ___",
+   "answer": "governor",
+   "distractors": [
+    "president",
+    "chairman",
+    "king"
+   ]
+  },
+  {
+   "stem": "The leader of the whole country is the ___",
+   "answer": "president",
+   "distractors": [
+    "governor",
+    "chairman",
+    "chief"
+   ]
+  },
+  {
+   "stem": "The local government is led by a ___",
+   "answer": "chairman",
+   "distractors": [
+    "governor",
+    "president",
+    "king"
+   ]
+  },
+  {
+   "stem": "The person who leads the whole of Nigeria is the ___",
+   "answer": "president",
+   "distractors": [
+    "governor",
+    "chairman",
+    "king"
+   ]
+  },
+  {
+   "stem": "Leaders change from ___ to time",
+   "answer": "time",
+   "distractors": [
+    "stone",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "The Nigerian flag is green, white, ___",
+   "answer": "green",
+   "distractors": [
+    "red",
+    "black",
+    "blue"
+   ]
+  },
+  {
+   "stem": "The white on the flag stands for ___",
+   "answer": "peace",
+   "distractors": [
+    "war",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "The ___ on the coat of arms stands for strength",
+   "answer": "eagle",
+   "distractors": [
+    "fish",
+    "dog",
+    "cat"
+   ]
+  },
+  {
+   "stem": "The money of Nigeria is the ___",
+   "answer": "Naira",
+   "distractors": [
+    "Dollar",
+    "Cedi",
+    "Rand"
+   ]
+  },
+  {
+   "stem": "In the colonial era, ___ ruled Nigeria",
+   "answer": "Britain",
+   "distractors": [
+    "France",
+    "Ghana",
+    "Egypt"
+   ]
+  },
+  {
+   "stem": "Nigeria became independent on 1 October ___",
+   "answer": "1960",
+   "distractors": [
+    "1914",
+    "1970",
+    "1950"
+   ]
+  },
+  {
+   "stem": "Independence means ___ ourselves",
+   "answer": "ruling",
+   "distractors": [
+    "losing",
+    "buying",
+    "selling"
+   ]
+  },
+  {
+   "stem": "The first Prime Minister of Nigeria was ___",
+   "answer": "Abubakar Tafawa Balewa",
+   "distractors": [
+    "Nnamdi Azikiwe",
+    "Obafemi Awolowo",
+    "Ahmadu Bello"
+   ]
+  },
+  {
+   "stem": "A person who did great things for Nigeria is a ___",
+   "answer": "hero",
+   "distractors": [
+    "thief",
+    "stranger",
+    "baby"
+   ]
+  },
+  {
+   "stem": "The first President of Nigeria was ___",
+   "answer": "Nnamdi Azikiwe",
+   "distractors": [
+    "Abubakar Tafawa Balewa",
+    "Obafemi Awolowo",
+    "Ahmadu Bello"
+   ]
+  },
+  {
+   "stem": "___ worked for education and the South-West",
+   "answer": "Obafemi Awolowo",
+   "distractors": [
+    "Ahmadu Bello",
+    "Flora Nwapa",
+    "Nnamdi Azikiwe"
+   ]
+  },
+  {
+   "stem": "Heroes are brave and ___",
+   "answer": "hardworking",
+   "distractors": [
+    "lazy",
+    "rude",
+    "angry"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two states in the North-West ",
+   "points": [
+    "Kano",
+    "Kaduna",
+    "Katsina",
+    "Sokoto"
+   ]
+  },
+  {
+   "stem": "Name two states in the South-South ",
+   "points": [
+    "Rivers",
+    "Delta",
+    "Edo",
+    "Bayelsa"
+   ]
+  },
+  {
+   "stem": "Name two states in the South-West ",
+   "points": [
+    "Lagos",
+    "Ogun",
+    "Oyo",
+    "Osun",
+    "Ondo",
+    "Ekiti"
+   ]
+  },
+  {
+   "stem": "Name the three levels of government ",
+   "points": [
+    "local",
+    "state",
+    "federal"
+   ]
+  },
+  {
+   "stem": "Name two leaders we have ",
+   "points": [
+    "president",
+    "governor",
+    "chairman",
+    "ministers"
+   ]
+  },
+  {
+   "stem": "Name two national symbols ",
+   "points": [
+    "the flag",
+    "the coat of arms",
+    "the National Anthem",
+    "the Naira"
+   ]
+  },
+  {
+   "stem": "Name two things you know about Nigeria's independence ",
+   "points": [
+    "it was on 1 October 1960",
+    "the first Prime Minister was Tafawa Balewa"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian heroes ",
+   "points": [
+    "Nnamdi Azikiwe",
+    "Abubakar Tafawa Balewa",
+    "Obafemi Awolowo",
+    "Ahmadu Bello"
+   ]
+  },
+  {
+   "stem": "Name two zonal groups of states ",
+   "points": [
+    "North-Central",
+    "North-West",
+    "North-East",
+    "South-South",
+    "South-East",
+    "South-West"
+   ]
+  },
+  {
+   "stem": "Name two things the government does ",
+   "points": [
+    "makes laws",
+    "provides services"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "How many states does Nigeria have? Name two and their capitals.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the three levels of government and who leads each.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What does the white on the Nigerian flag stand for?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "When did Nigeria become independent? Who was the first Prime Minister?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two Nigerian heroes and what they did.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

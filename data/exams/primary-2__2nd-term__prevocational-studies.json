@@ -1,0 +1,391 @@
+{
+ "subject": "Prevocational Studies",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "The study of the home and family is ___ economics",
+   "answer": "home",
+   "distractors": [
+    "school",
+    "market",
+    "farm"
+   ]
+  },
+  {
+   "stem": "Home economics teaches us to care for the ___",
+   "answer": "home",
+   "distractors": [
+    "sky",
+    "river",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We learn about food and ___",
+   "answer": "clothing",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "Home economics is useful for boys and ___",
+   "answer": "girls",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "How we prepare and eat food is food and ___",
+   "answer": "nutrition",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "How we care for clothes is clothing and ___",
+   "answer": "textiles",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "How we keep the home is home ___",
+   "answer": "management",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Home economics teaches us to be ___",
+   "answer": "responsible",
+   "distractors": [
+    "lazy",
+    "rude",
+    "angry"
+   ]
+  },
+  {
+   "stem": "Keeping the body clean and neat is ___",
+   "answer": "grooming",
+   "distractors": [
+    "sleeping",
+    "eating",
+    "running"
+   ]
+  },
+  {
+   "stem": "We bathe every day with soap and ___",
+   "answer": "water",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "We brush our teeth every morning and ___",
+   "answer": "night",
+   "distractors": [
+    "noon",
+    "dawn",
+    "dusk"
+   ]
+  },
+  {
+   "stem": "We keep our nails short and ___",
+   "answer": "clean",
+   "distractors": [
+    "long",
+    "dirty",
+    "dark"
+   ]
+  },
+  {
+   "stem": "We care for our hair by combing and ___ it",
+   "answer": "washing",
+   "distractors": [
+    "burning",
+    "breaking",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "We care for our skin by ___",
+   "answer": "bathing",
+   "distractors": [
+    "burning",
+    "breaking",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "We care for our teeth by ___",
+   "answer": "brushing",
+   "distractors": [
+    "burning",
+    "breaking",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "We use a toothbrush and ___",
+   "answer": "toothpaste",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "What we wear on the body is ___",
+   "answer": "clothing",
+   "distractors": [
+    "food",
+    "water",
+    "stone"
+   ]
+  },
+  {
+   "stem": "We wash our clothes with soap and ___",
+   "answer": "water",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "We do not play in the ___ with clean clothes",
+   "answer": "mud",
+   "distractors": [
+    "sun",
+    "air",
+    "light"
+   ]
+  },
+  {
+   "stem": "We change our clothes when they are ___",
+   "answer": "dirty",
+   "distractors": [
+    "clean",
+    "new",
+    "dry"
+   ]
+  },
+  {
+   "stem": "We dry our clothes in the ___",
+   "answer": "sun",
+   "distractors": [
+    "water",
+    "mud",
+    "dark"
+   ]
+  },
+  {
+   "stem": "We ___ our clothes neatly",
+   "answer": "fold",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We keep clothes in a ___ or box",
+   "answer": "wardrobe",
+   "distractors": [
+    "river",
+    "fire",
+    "sky"
+   ]
+  },
+  {
+   "stem": "We ___ clothes to make them neat",
+   "answer": "iron",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "What we eat to live and grow is ___",
+   "answer": "food",
+   "distractors": [
+    "stone",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "The food that gives us energy is ___",
+   "answer": "carbohydrates",
+   "distractors": [
+    "water only",
+    "sand",
+    "stone"
+   ]
+  },
+  {
+   "stem": "The food that builds the body is ___",
+   "answer": "protein",
+   "distractors": [
+    "stone",
+    "sand",
+    "dust"
+   ]
+  },
+  {
+   "stem": "A meal with all the food groups is a ___ diet",
+   "answer": "balanced",
+   "distractors": [
+    "broken",
+    "bad",
+    "bitter"
+   ]
+  },
+  {
+   "stem": "A thing we use to do work is a ___",
+   "answer": "tool",
+   "distractors": [
+    "song",
+    "stone",
+    "dream"
+   ]
+  },
+  {
+   "stem": "We use a ___ to sweep",
+   "answer": "broom",
+   "distractors": [
+    "knife",
+    "pot",
+    "plate"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things we learn in home economics ",
+   "points": [
+    "food",
+    "clothing",
+    "cleaning",
+    "caring for the family"
+   ]
+  },
+  {
+   "stem": "Name two areas of home economics ",
+   "points": [
+    "food and nutrition",
+    "clothing and textiles",
+    "home management"
+   ]
+  },
+  {
+   "stem": "Name two ways we groom ",
+   "points": [
+    "bathing",
+    "brushing teeth",
+    "combing hair"
+   ]
+  },
+  {
+   "stem": "Name two ways we care for our body ",
+   "points": [
+    "washing hair",
+    "bathing",
+    "brushing teeth"
+   ]
+  },
+  {
+   "stem": "Name two things we wear ",
+   "points": [
+    "shirts",
+    "trousers",
+    "dresses",
+    "shoes"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for clothes ",
+   "points": [
+    "wash",
+    "dry",
+    "fold",
+    "iron"
+   ]
+  },
+  {
+   "stem": "Name two food groups ",
+   "points": [
+    "carbohydrates",
+    "proteins",
+    "vitamins",
+    "minerals"
+   ]
+  },
+  {
+   "stem": "Name two home economics tools ",
+   "points": [
+    "broom",
+    "bucket",
+    "pot",
+    "knife",
+    "spoon"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep clothes clean ",
+   "points": [
+    "wash them",
+    "change them when dirty"
+   ]
+  },
+  {
+   "stem": "Name two things a balanced diet has ",
+   "points": [
+    "carbohydrates",
+    "proteins",
+    "vitamins"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is home economics? Name two things we learn in it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is grooming? Name two ways we groom.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is clothing? Name two things we wear.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two ways to care for clothes.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a balanced diet? Name two food groups.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

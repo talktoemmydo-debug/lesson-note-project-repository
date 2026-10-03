@@ -1,0 +1,56 @@
+# Mathematics & English · MATHEMATICS — Primary 1 · Third Term · term paper
+subject: Mathematics & English
+stream: MATHEMATICS
+class: Primary 1
+term: 3rd Term
+
+[objective]
+How heavy or light a thing is called its ___ || weight || colour || name || age
+A heavy thing has ___ weight || more || less || no || zero
+We use a ___ to measure weight || balance || ruler || clock || cup
+A stone is ___ than a feather || heavier || lighter || smaller || softer
+We measure weight in kilograms and ___ || grams || litres || metres || seconds
+How much a container can hold is its ___ || capacity || weight || colour || name
+A big bucket holds ___ water than a cup || more || less || no || zero
+We measure liquids like water and ___ || milk || stone || sand || wood
+We measure capacity in litres and ___ || millilitres || kilograms || metres || grams
+A thing that holds liquid is a ___ || container || stone || song || box
+The size of a flat surface is its ___ || area || weight || colour || name
+We measure area with ___ squares || unit || round || big || red
+We ___ the unit squares to find the area || count || eat || burn || hide
+A big surface has a ___ area || larger || smaller || no || zero
+The top or outside of a thing is its ___ || surface || weight || colour || name
+Flat shapes are ___ shapes || 2-dimensional || 3-dimensional || round || heavy
+A shape with three sides is a ___ || triangle || square || circle || cube
+A round shape is a ___ || circle || square || rectangle || triangle
+A door is like a ___ || rectangle || circle || triangle || cube
+A shape with four equal sides is a ___ || square || circle || triangle || cube
+Solid shapes are ___ shapes || 3-dimensional || 2-dimensional || flat || light
+A shape like a ball is a ___ || sphere || cube || cone || square
+A shape like a box is a ___ || cube || sphere || circle || triangle
+A shape like a drum is a ___ || cylinder || cone || cube || circle
+A shape like an ice-cream cone is a ___ || cone || cube || sphere || circle
+Information we collect is ___ || data || noise || sleep || food
+We collect data by ___ things || counting || eating || burning || hiding
+We put data in a table or ___ || chart || cup || box || bag
+The study of shapes is ___ || geometry || music || cooking || running
+A maths problem in words is a ___ problem || word || song || dance || game
+
+[subobjective]
+Name two things we measure by weight :: a bag of rice | a stone | a person | a book
+Name two containers we use :: a cup | a bucket | a bottle | a bowl
+Name two surfaces that have an area :: a table top | a floor | a door
+Name three 2-D shapes :: circle | square | rectangle | triangle
+Name three 3-D shapes :: cube | cylinder | sphere | cone
+Name two things we can count as data :: boys and girls | books | pencils
+Name two 2-D and two 3-D shapes :: circle, square | cube, sphere
+Name two things we use to solve problems :: addition | subtraction | counting
+Name two measures of weight :: kilograms | grams
+Name two measures of capacity :: litres | millilitres
+
+[theory]
+What is weight? Name one thing we measure by weight. || 2
+What is capacity? Name one container. || 2
+Name three 2-D shapes and three 3-D shapes. || 2
+What is data? How do we collect it? || 2
+Write one word problem and solve it. || 2

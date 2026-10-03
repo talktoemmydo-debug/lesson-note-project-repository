@@ -1,0 +1,387 @@
+{
+ "subject": "Christian Religious Studies",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "God created the heaven and the ___",
+   "answer": "earth",
+   "distractors": [
+    "nothing",
+    "dark",
+    "empty"
+   ]
+  },
+  {
+   "stem": "God created man in His own ___",
+   "answer": "image",
+   "distractors": [
+    "house",
+    "garden",
+    "water"
+   ]
+  },
+  {
+   "stem": "God saw that all He made was ___",
+   "answer": "good",
+   "distractors": [
+    "bad",
+    "sad",
+    "old"
+   ]
+  },
+  {
+   "stem": "God created the world in ___ days",
+   "answer": "six",
+   "distractors": [
+    "two",
+    "ten",
+    "one"
+   ]
+  },
+  {
+   "stem": "God ___ every one of us",
+   "answer": "loves",
+   "distractors": [
+    "hates",
+    "forgets",
+    "scolds"
+   ]
+  },
+  {
+   "stem": "God sent ___ because He loves us",
+   "answer": "Jesus",
+   "distractors": [
+    "a stone",
+    "a tree",
+    "a river"
+   ]
+  },
+  {
+   "stem": "We show God's love by ___ others",
+   "answer": "loving",
+   "distractors": [
+    "hitting",
+    "ignoring",
+    "teasing"
+   ]
+  },
+  {
+   "stem": "We help those in ___",
+   "answer": "need",
+   "distractors": [
+    "anger",
+    "sleep",
+    "noise"
+   ]
+  },
+  {
+   "stem": "The holy book of Christians is the ___",
+   "answer": "Bible",
+   "distractors": [
+    "newspaper",
+    "notebook",
+    "storybook"
+   ]
+  },
+  {
+   "stem": "The Bible is ___ word",
+   "answer": "God's",
+   "distractors": [
+    "man's",
+    "a king's",
+    "a teacher's"
+   ]
+  },
+  {
+   "stem": "The Bible has the Old Testament and the ___ Testament",
+   "answer": "New",
+   "distractors": [
+    "Big",
+    "Small",
+    "Last"
+   ]
+  },
+  {
+   "stem": "We handle the Bible with ___",
+   "answer": "respect",
+   "distractors": [
+    "anger",
+    "force",
+    "noise"
+   ]
+  },
+  {
+   "stem": "Talking to God is ___",
+   "answer": "prayer",
+   "distractors": [
+    "singing",
+    "sleeping",
+    "eating"
+   ]
+  },
+  {
+   "stem": "We pray to thank God, ask God and ___ God",
+   "answer": "praise",
+   "distractors": [
+    "scold",
+    "forget",
+    "tease"
+   ]
+  },
+  {
+   "stem": "God ___ our prayers",
+   "answer": "hears",
+   "distractors": [
+    "ignores",
+    "breaks",
+    "hides"
+   ]
+  },
+  {
+   "stem": "We pray with a ___ heart",
+   "answer": "sincere",
+   "distractors": [
+    "angry",
+    "lazy",
+    "noisy"
+   ]
+  },
+  {
+   "stem": "The first man God created was ___",
+   "answer": "Adam",
+   "distractors": [
+    "Noah",
+    "Moses",
+    "David"
+   ]
+  },
+  {
+   "stem": "The first woman God created was ___",
+   "answer": "Eve",
+   "distractors": [
+    "Mary",
+    "Ruth",
+    "Sarah"
+   ]
+  },
+  {
+   "stem": "God put them in the garden of ___",
+   "answer": "Eden",
+   "distractors": [
+    "Egypt",
+    "Sinai",
+    "Bethel"
+   ]
+  },
+  {
+   "stem": "They ___ God by eating the forbidden fruit",
+   "answer": "disobeyed",
+   "distractors": [
+    "obeyed",
+    "praised",
+    "thanked"
+   ]
+  },
+  {
+   "stem": "The good man who built the ark was ___",
+   "answer": "Noah",
+   "distractors": [
+    "Adam",
+    "Moses",
+    "David"
+   ]
+  },
+  {
+   "stem": "The ark was a large ___",
+   "answer": "boat",
+   "distractors": [
+    "house",
+    "tree",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Rain fell for ___ days and nights",
+   "answer": "forty",
+   "distractors": [
+    "ten",
+    "two",
+    "one"
+   ]
+  },
+  {
+   "stem": "God saved Noah because he ___",
+   "answer": "obeyed",
+   "distractors": [
+    "disobeyed",
+    "fought",
+    "slept"
+   ]
+  },
+  {
+   "stem": "The father of faith is ___",
+   "answer": "Abraham",
+   "distractors": [
+    "Noah",
+    "Moses",
+    "David"
+   ]
+  },
+  {
+   "stem": "God told Abraham to go to a new ___",
+   "answer": "land",
+   "distractors": [
+    "sea",
+    "sky",
+    "fire"
+   ]
+  },
+  {
+   "stem": "Faith means ___ God",
+   "answer": "trusting",
+   "distractors": [
+    "forgetting",
+    "scolding",
+    "teasing"
+   ]
+  },
+  {
+   "stem": "God blessed Abraham because of his ___",
+   "answer": "faith",
+   "distractors": [
+    "anger",
+    "fear",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "The young man who loved God and was sold was ___",
+   "answer": "Joseph",
+   "distractors": [
+    "Adam",
+    "Noah",
+    "Moses"
+   ]
+  },
+  {
+   "stem": "Joseph was taken to ___ as a slave",
+   "answer": "Egypt",
+   "distractors": [
+    "Eden",
+    "Sinai",
+    "Bethel"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things God created ",
+   "points": [
+    "the sun",
+    "the moon",
+    "plants",
+    "animals",
+    "man"
+   ]
+  },
+  {
+   "stem": "Name two ways God shows His love ",
+   "points": [
+    "giving food",
+    "giving family",
+    "sending Jesus"
+   ]
+  },
+  {
+   "stem": "Name two things the Bible tells us ",
+   "points": [
+    "about God",
+    "about Jesus",
+    "how to live"
+   ]
+  },
+  {
+   "stem": "Name two times we pray ",
+   "points": [
+    "in the morning",
+    "at night",
+    "before meals"
+   ]
+  },
+  {
+   "stem": "Name two things God created for Adam and Eve ",
+   "points": [
+    "the garden",
+    "the animals",
+    "the trees"
+   ]
+  },
+  {
+   "stem": "Name two things Noah took into the ark ",
+   "points": [
+    "his family",
+    "two of every animal"
+   ]
+  },
+  {
+   "stem": "Name two things Abraham did ",
+   "points": [
+    "left his home",
+    "trusted God",
+    "obeyed God"
+   ]
+  },
+  {
+   "stem": "Name two things that happened to Joseph ",
+   "points": [
+    "he was sold",
+    "he became a ruler",
+    "he forgave his brothers"
+   ]
+  },
+  {
+   "stem": "Name two ways we show God's love ",
+   "points": [
+    "loving others",
+    "helping those in need",
+    "forgiving"
+   ]
+  },
+  {
+   "stem": "Name two places we pray ",
+   "points": [
+    "home",
+    "school",
+    "church"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Who created the world? Name two things He created.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is the Bible? Name its two parts.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is prayer? Name two times we pray.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What did Adam and Eve do wrong?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is faith? Who is called the father of faith?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

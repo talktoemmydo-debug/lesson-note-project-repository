@@ -1,0 +1,387 @@
+{
+ "subject": "Christian Religious Studies",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "God speaks to us through the ___",
+   "answer": "Bible",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "God spoke to ___ in the Bible",
+   "answer": "Moses",
+   "distractors": [
+    "a stone",
+    "a tree",
+    "a cloud"
+   ]
+  },
+  {
+   "stem": "We ___ when God speaks",
+   "answer": "listen",
+   "distractors": [
+    "sleep",
+    "run",
+    "shout"
+   ]
+  },
+  {
+   "stem": "We ___ what God says",
+   "answer": "obey",
+   "distractors": [
+    "ignore",
+    "break",
+    "forget"
+   ]
+  },
+  {
+   "stem": "The Father of us all is ___",
+   "answer": "God",
+   "distractors": [
+    "a king",
+    "a teacher",
+    "a stone"
+   ]
+  },
+  {
+   "stem": "We are all ___ of God",
+   "answer": "children",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "Because God is our Father, we are brothers and ___",
+   "answer": "sisters",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We ___ and help one another",
+   "answer": "share",
+   "distractors": [
+    "fight",
+    "hide",
+    "break"
+   ]
+  },
+  {
+   "stem": "God ___ us to do His work",
+   "answer": "calls",
+   "distractors": [
+    "forgets",
+    "scolds",
+    "hides"
+   ]
+  },
+  {
+   "stem": "God called ___ to leave his home",
+   "answer": "Abraham",
+   "distractors": [
+    "a stone",
+    "a tree",
+    "a cloud"
+   ]
+  },
+  {
+   "stem": "God called ___ when he was young",
+   "answer": "Samuel",
+   "distractors": [
+    "a stone",
+    "a tree",
+    "a cloud"
+   ]
+  },
+  {
+   "stem": "God has a ___ for each of us",
+   "answer": "purpose",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "God gave His ___ to His people",
+   "answer": "law",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "God gave the Ten Commandments to ___",
+   "answer": "Moses",
+   "distractors": [
+    "a stone",
+    "a tree",
+    "a cloud"
+   ]
+  },
+  {
+   "stem": "We worship ___ alone",
+   "answer": "God",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We do not ___ or lie",
+   "answer": "steal",
+   "distractors": [
+    "sing",
+    "run",
+    "jump"
+   ]
+  },
+  {
+   "stem": "God ___ Himself — He shows us who He is",
+   "answer": "reveals",
+   "distractors": [
+    "hides",
+    "forgets",
+    "loses"
+   ]
+  },
+  {
+   "stem": "God is ___ — He can do all things",
+   "answer": "almighty",
+   "distractors": [
+    "weak",
+    "small",
+    "tired"
+   ]
+  },
+  {
+   "stem": "God is ___",
+   "answer": "love",
+   "distractors": [
+    "anger",
+    "hate",
+    "fear"
+   ]
+  },
+  {
+   "stem": "God is our ___ — He made all things",
+   "answer": "Creator",
+   "distractors": [
+    "enemy",
+    "stranger",
+    "thief"
+   ]
+  },
+  {
+   "stem": "God is our ___ — He keeps us safe",
+   "answer": "Protector",
+   "distractors": [
+    "enemy",
+    "stranger",
+    "thief"
+   ]
+  },
+  {
+   "stem": "God is our ___ — He gives us what we need",
+   "answer": "Provider",
+   "distractors": [
+    "enemy",
+    "stranger",
+    "thief"
+   ]
+  },
+  {
+   "stem": "God is ___ — He keeps His promises",
+   "answer": "faithful",
+   "distractors": [
+    "unfaithful",
+    "angry",
+    "lazy"
+   ]
+  },
+  {
+   "stem": "Doing what is wrong is ___",
+   "answer": "sin",
+   "distractors": [
+    "good",
+    "kind",
+    "true"
+   ]
+  },
+  {
+   "stem": "___ has power to forgive sins",
+   "answer": "Jesus",
+   "distractors": [
+    "a stone",
+    "a tree",
+    "a cloud"
+   ]
+  },
+  {
+   "stem": "To ___ is to be sorry for our sins",
+   "answer": "repent",
+   "distractors": [
+    "sing",
+    "run",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "We ask Jesus to ___ us",
+   "answer": "forgive",
+   "distractors": [
+    "scold",
+    "forget",
+    "hurt"
+   ]
+  },
+  {
+   "stem": "Jesus loves ___ people",
+   "answer": "all",
+   "distractors": [
+    "no",
+    "few",
+    "none"
+   ]
+  },
+  {
+   "stem": "Jesus loved the sick and ___ them",
+   "answer": "healed",
+   "distractors": [
+    "hurt",
+    "forgot",
+    "scolded"
+   ]
+  },
+  {
+   "stem": "Jesus fed the ___",
+   "answer": "hungry",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two ways God speaks to us ",
+   "points": [
+    "the Bible",
+    "parents",
+    "teachers",
+    "preachers"
+   ]
+  },
+  {
+   "stem": "Name two ways we show love as one family ",
+   "points": [
+    "share",
+    "help",
+    "do not fight"
+   ]
+  },
+  {
+   "stem": "Name two people God called ",
+   "points": [
+    "Abraham",
+    "Moses",
+    "Samuel"
+   ]
+  },
+  {
+   "stem": "Name two of God's commandments ",
+   "points": [
+    "worship God alone",
+    "do not steal",
+    "do not lie"
+   ]
+  },
+  {
+   "stem": "Name two ways God reveals Himself ",
+   "points": [
+    "creation",
+    "the Bible",
+    "Jesus"
+   ]
+  },
+  {
+   "stem": "Name two names of God ",
+   "points": [
+    "Creator",
+    "Protector",
+    "Provider",
+    "almighty"
+   ]
+  },
+  {
+   "stem": "Name two ways Jesus showed forgiveness ",
+   "points": [
+    "forgave the sick man",
+    "forgave those who hurt Him"
+   ]
+  },
+  {
+   "stem": "Name two ways Jesus showed love ",
+   "points": [
+    "healed the sick",
+    "fed the hungry",
+    "forgave sinners"
+   ]
+  },
+  {
+   "stem": "Name two things God gives us ",
+   "points": [
+    "food",
+    "family",
+    "life",
+    "protection"
+   ]
+  },
+  {
+   "stem": "Name two ways we answer God's call ",
+   "points": [
+    "do good",
+    "love others"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Name two ways God speaks to us.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who is the Father of us all? How do we live as one family?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two people God called.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is God's law? Name two commandments.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who has power to forgive sins? What do we do to be forgiven?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

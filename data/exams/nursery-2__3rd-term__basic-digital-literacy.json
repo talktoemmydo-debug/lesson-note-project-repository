@@ -1,0 +1,376 @@
+{
+ "subject": "Basic Digital Literacy",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Headphones put sound into our ___",
+   "answer": "ears",
+   "distractors": [
+    "nose",
+    "hair",
+    "shoes"
+   ]
+  },
+  {
+   "stem": "We listen to a machine with ___",
+   "answer": "speakers",
+   "distractors": [
+    "a fan",
+    "a broom",
+    "a key"
+   ]
+  },
+  {
+   "stem": "A keyboard is used to ___",
+   "answer": "type words",
+   "distractors": [
+    "cut paper",
+    "fetch water",
+    "sweep the floor"
+   ]
+  },
+  {
+   "stem": "The part of the computer that thinks is the ___",
+   "answer": "CPU",
+   "distractors": [
+    "water tank",
+    "shoe box",
+    "umbrella"
+   ]
+  },
+  {
+   "stem": "We move the arrow on the screen with a ___",
+   "answer": "mouse",
+   "distractors": [
+    "spoon",
+    "comb",
+    "cap"
+   ]
+  },
+  {
+   "stem": "A microphone takes ___ into the machine",
+   "answer": "sound",
+   "distractors": [
+    "water",
+    "light",
+    "dust"
+   ]
+  },
+  {
+   "stem": "A printer gives us ___ on paper",
+   "answer": "writing",
+   "distractors": [
+    "milk",
+    "music",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "The screen of a computer is called a ___",
+   "answer": "monitor",
+   "distractors": [
+    "mirror",
+    "bucket",
+    "basket"
+   ]
+  },
+  {
+   "stem": "A scanner takes a picture on paper and puts it ___ the machine",
+   "answer": "into",
+   "distractors": [
+    "under",
+    "behind",
+    "above"
+   ]
+  },
+  {
+   "stem": "A webcam shows our ___ on the screen",
+   "answer": "face",
+   "distractors": [
+    "leg",
+    "shoe",
+    "bag"
+   ]
+  },
+  {
+   "stem": "The keeping box of the computer is the ___",
+   "answer": "hard drive",
+   "distractors": [
+    "school cap",
+    "door",
+    "spoon"
+   ]
+  },
+  {
+   "stem": "RAM holds the work we are doing ___",
+   "answer": "just now",
+   "distractors": [
+    "last year",
+    "next week",
+    "yesterday"
+   ]
+  },
+  {
+   "stem": "RAM becomes ___ when the machine is switched off",
+   "answer": "empty",
+   "distractors": [
+    "heavier",
+    "warmer",
+    "bigger"
+   ]
+  },
+  {
+   "stem": "The flat board that joins all the parts is the ___",
+   "answer": "motherboard",
+   "distractors": [
+    "table cloth",
+    "wall clock",
+    "door mat"
+   ]
+  },
+  {
+   "stem": "The part that brings power into the machine is the ___",
+   "answer": "power supply",
+   "distractors": [
+    "water pump",
+    "broom cup",
+    "shoe horn"
+   ]
+  },
+  {
+   "stem": "A cooling fan stops the machine from becoming too ___",
+   "answer": "hot",
+   "distractors": [
+    "cold",
+    "quiet",
+    "dark"
+   ]
+  },
+  {
+   "stem": "A plug goes into the ___ in the wall",
+   "answer": "socket",
+   "distractors": [
+    "window",
+    "shelf",
+    "curtain"
+   ]
+  },
+  {
+   "stem": "The little door on the board where a wire is put in is a ___",
+   "answer": "port",
+   "distractors": [
+    "gate",
+    "pocket",
+    "lid"
+   ]
+  },
+  {
+   "stem": "We wipe a screen with a ___ cloth",
+   "answer": "soft dry",
+   "distractors": [
+    "wet soapy",
+    "rough sand",
+    "oily old"
+   ]
+  },
+  {
+   "stem": "Parts we can see and touch are the ___",
+   "answer": "hardware",
+   "distractors": [
+    "software",
+    "power",
+    "air"
+   ]
+  },
+  {
+   "stem": "The work inside the machine we cannot touch is ___",
+   "answer": "software",
+   "distractors": [
+    "the box",
+    "the cable",
+    "the stand"
+   ]
+  },
+  {
+   "stem": "Anything with a thinking part can be called a machine; which of these has one?",
+   "answer": "a telephone",
+   "distractors": [
+    "a cutlass",
+    "a bucket",
+    "a broom"
+   ]
+  },
+  {
+   "stem": "We switch a machine off by pressing the ___ button",
+   "answer": "power",
+   "distractors": [
+    "bell",
+    "door",
+    "shoe"
+   ]
+  },
+  {
+   "stem": "A bad place to keep a running machine is on a ___",
+   "answer": "soft bed",
+   "distractors": [
+    "hard table",
+    "stone slab",
+    "wooden shelf"
+   ]
+  },
+  {
+   "stem": "During a storm we take the ___ out of the wall",
+   "answer": "plug",
+   "distractors": [
+    "chair",
+    "cloth",
+    "book"
+   ]
+  },
+  {
+   "stem": "Which of these is an input device?",
+   "answer": "the keyboard",
+   "distractors": [
+    "the printer",
+    "the speaker",
+    "the monitor"
+   ]
+  },
+  {
+   "stem": "Which of these is an output device?",
+   "answer": "the printer",
+   "distractors": [
+    "the mouse",
+    "the microphone",
+    "the scanner"
+   ]
+  },
+  {
+   "stem": "When a machine works for long it becomes ___",
+   "answer": "warm",
+   "distractors": [
+    "wet",
+    "black",
+    "light"
+   ]
+  },
+  {
+   "stem": "We must never push a pencil or a finger into a ___",
+   "answer": "socket",
+   "distractors": [
+    "cup",
+    "plate",
+    "shoe"
+   ]
+  },
+  {
+   "stem": "If a machine becomes too hot it ___ itself off",
+   "answer": "switches",
+   "distractors": [
+    "pulls",
+    "paints",
+    "loses"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two input devices ",
+   "points": [
+    "keyboard",
+    "mouse"
+   ]
+  },
+  {
+   "stem": "Name two output devices ",
+   "points": [
+    "printer",
+    "speakers"
+   ]
+  },
+  {
+   "stem": "Mention two things we keep away from a machine ",
+   "points": [
+    "food",
+    "water"
+   ]
+  },
+  {
+   "stem": "Name the thinking part and the keeping part ",
+   "points": [
+    "CPU",
+    "hard drive"
+   ]
+  },
+  {
+   "stem": "Say two things we do to care for headphones ",
+   "points": [
+    "wear them low",
+    "keep the wire free"
+   ]
+  },
+  {
+   "stem": "Mention two parts found inside the big box ",
+   "points": [
+    "RAM",
+    "motherboard"
+   ]
+  },
+  {
+   "stem": "Name the part that joins the parts and the part that feeds them ",
+   "points": [
+    "motherboard",
+    "power supply"
+   ]
+  },
+  {
+   "stem": "Say two things a fan needs to move air in and out ",
+   "points": [
+    "holes",
+    "a clear way"
+   ]
+  },
+  {
+   "stem": "Name the two words for touchable and untouchable parts ",
+   "points": [
+    "hardware",
+    "software"
+   ]
+  },
+  {
+   "stem": "Put the story of one letter in order: type, think, ___, keep ",
+   "points": [
+    "see it on the screen",
+    "read it on the screen"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write two sentences on what you use headphones for.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Mention three parts found inside a computer.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Say what hardware means and give two examples.",
+   "marks": 4,
+   "points": []
+  },
+  {
+   "stem": "Mention three things you do to keep a machine clean and safe.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Write two sentences on how the keyboard, the screen and the printer work together.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

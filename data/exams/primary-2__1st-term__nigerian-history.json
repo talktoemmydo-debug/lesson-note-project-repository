@@ -1,0 +1,392 @@
+{
+ "subject": "Nigerian History",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Our country is ___",
+   "answer": "Nigeria",
+   "distractors": [
+    "Ghana",
+    "Egypt",
+    "Kenya"
+   ]
+  },
+  {
+   "stem": "Nigeria is in ___",
+   "answer": "Africa",
+   "distractors": [
+    "Asia",
+    "Europe",
+    "America"
+   ]
+  },
+  {
+   "stem": "The capital of Nigeria is ___",
+   "answer": "Abuja",
+   "distractors": [
+    "Lagos",
+    "Kano",
+    "Ibadan"
+   ]
+  },
+  {
+   "stem": "The money of Nigeria is the ___",
+   "answer": "Naira",
+   "distractors": [
+    "Dollar",
+    "Cedi",
+    "Rand"
+   ]
+  },
+  {
+   "stem": "The three main tribes in Nigeria are Hausa, Yoruba and ___",
+   "answer": "Igbo",
+   "distractors": [
+    "Zulu",
+    "Kikuyu",
+    "Ashanti"
+   ]
+  },
+  {
+   "stem": "A group of people with the same culture is a ___",
+   "answer": "tribe",
+   "distractors": [
+    "stone",
+    "river",
+    "market"
+   ]
+  },
+  {
+   "stem": "The way of life of a people is ___",
+   "answer": "culture",
+   "distractors": [
+    "noise",
+    "sleep",
+    "rain"
+   ]
+  },
+  {
+   "stem": "The official language of Nigeria is ___",
+   "answer": "English",
+   "distractors": [
+    "French",
+    "Arabic",
+    "Latin"
+   ]
+  },
+  {
+   "stem": "A group of people living together is a ___",
+   "answer": "community",
+   "distractors": [
+    "stone",
+    "river",
+    "tree"
+   ]
+  },
+  {
+   "stem": "The ___ people were known for their clay works",
+   "answer": "Nok",
+   "distractors": [
+    "Zulu",
+    "Kikuyu",
+    "Ashanti"
+   ]
+  },
+  {
+   "stem": "The ___ people were known for bronze and art",
+   "answer": "Ife",
+   "distractors": [
+    "Nok",
+    "Tiv",
+    "Edo"
+   ]
+  },
+  {
+   "stem": "A group of states under one ruler is an ___",
+   "answer": "empire",
+   "distractors": [
+    "ocean",
+    "island",
+    "animal"
+   ]
+  },
+  {
+   "stem": "The chiefs of our people are ___ rulers",
+   "answer": "traditional",
+   "distractors": [
+    "foreign",
+    "new",
+    "lost"
+   ]
+  },
+  {
+   "stem": "The ___ rules among the Yoruba",
+   "answer": "Oba",
+   "distractors": [
+    "Emir",
+    "Obi",
+    "Sultan"
+   ]
+  },
+  {
+   "stem": "The ___ rules among the Igbo",
+   "answer": "Obi",
+   "distractors": [
+    "Oba",
+    "Emir",
+    "Sultan"
+   ]
+  },
+  {
+   "stem": "Traditional rulers keep our culture and ___",
+   "answer": "peace",
+   "distractors": [
+    "war",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "A special day of joy is a ___",
+   "answer": "festival",
+   "distractors": [
+    "stone",
+    "river",
+    "tree"
+   ]
+  },
+  {
+   "stem": "The Igbo have the ___ festival",
+   "answer": "New Yam",
+   "distractors": [
+    "durbar",
+    "Egungun",
+    "Osun"
+   ]
+  },
+  {
+   "stem": "The Hausa have ___ festivals",
+   "answer": "durbar",
+   "distractors": [
+    "New Yam",
+    "Egungun",
+    "Osun"
+   ]
+  },
+  {
+   "stem": "At festivals, people dance, sing and ___",
+   "answer": "feast",
+   "distractors": [
+    "fight",
+    "sleep",
+    "cry"
+   ]
+  },
+  {
+   "stem": "Buying and selling is ___",
+   "answer": "trade",
+   "distractors": [
+    "sleep",
+    "eating",
+    "running"
+   ]
+  },
+  {
+   "stem": "Exchanging goods for goods is ___",
+   "answer": "barter",
+   "distractors": [
+    "stealing",
+    "giving",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "People once used ___ as money",
+   "answer": "cowries",
+   "distractors": [
+    "stones",
+    "leaves",
+    "water"
+   ]
+  },
+  {
+   "stem": "Traders travelled to ___ near and far",
+   "answer": "markets",
+   "distractors": [
+    "rivers only",
+    "trees",
+    "mountains"
+   ]
+  },
+  {
+   "stem": "The time when Britain ruled Nigeria is ___ rule",
+   "answer": "colonial",
+   "distractors": [
+    "local",
+    "state",
+    "federal"
+   ]
+  },
+  {
+   "stem": "At first, the British came to Nigeria to ___",
+   "answer": "trade",
+   "distractors": [
+    "fight",
+    "sleep",
+    "eat"
+   ]
+  },
+  {
+   "stem": "Nigeria became a ___ of Britain",
+   "answer": "colony",
+   "distractors": [
+    "king",
+    "stone",
+    "river"
+   ]
+  },
+  {
+   "stem": "The joining of the regions in 1914 is ___",
+   "answer": "amalgamation",
+   "distractors": [
+    "independence",
+    "festival",
+    "barter"
+   ]
+  },
+  {
+   "stem": "Nigeria became independent on 1 October ___",
+   "answer": "1960",
+   "distractors": [
+    "1914",
+    "1970",
+    "1950"
+   ]
+  },
+  {
+   "stem": "The first Prime Minister of Nigeria was ___",
+   "answer": "Abubakar Tafawa Balewa",
+   "distractors": [
+    "Nnamdi Azikiwe",
+    "Obafemi Awolowo",
+    "Ahmadu Bello"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things you know about Nigeria ",
+   "points": [
+    "it is in Africa",
+    "its capital is Abuja",
+    "it has 36 states"
+   ]
+  },
+  {
+   "stem": "Name two tribes in Nigeria ",
+   "points": [
+    "Hausa",
+    "Yoruba",
+    "Igbo",
+    "Ijaw",
+    "Tiv"
+   ]
+  },
+  {
+   "stem": "Name two early Nigerian communities ",
+   "points": [
+    "Nok",
+    "Ife",
+    "Benin",
+    "Kanem-Borno"
+   ]
+  },
+  {
+   "stem": "Name two traditional rulers ",
+   "points": [
+    "Emir",
+    "Oba",
+    "Obi",
+    "Sultan"
+   ]
+  },
+  {
+   "stem": "Name two festivals in Nigeria ",
+   "points": [
+    "New Yam",
+    "durbar",
+    "Egungun",
+    "Osun"
+   ]
+  },
+  {
+   "stem": "Name two things people traded in the past ",
+   "points": [
+    "salt",
+    "cloth",
+    "food",
+    "tools"
+   ]
+  },
+  {
+   "stem": "Name two things the British built ",
+   "points": [
+    "roads",
+    "schools",
+    "railways"
+   ]
+  },
+  {
+   "stem": "Name two things you know about Nigeria's independence ",
+   "points": [
+    "it was on 1 October 1960",
+    "the first Prime Minister was Tafawa Balewa"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian heroes ",
+   "points": [
+    "Nnamdi Azikiwe",
+    "Abubakar Tafawa Balewa",
+    "Obafemi Awolowo",
+    "Ahmadu Bello"
+   ]
+  },
+  {
+   "stem": "Name two things traditional rulers do ",
+   "points": [
+    "keep culture",
+    "settle disputes",
+    "guide the people"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is the name of our country? Name two things about it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the three main tribes in Nigeria.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two early Nigerian communities and what they were known for.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a festival? Name one in Nigeria.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "When did Nigeria become independent? Who was the first Prime Minister?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

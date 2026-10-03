@@ -1,0 +1,393 @@
+{
+ "subject": "Basic Digital Literacy",
+ "class": "Nursery 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "The old counting frame with beads on wires is called the ___",
+   "answer": "abacus",
+   "distractors": [
+    "printer",
+    "monitor",
+    "keyboard"
+   ]
+  },
+  {
+   "stem": "Charles Babbage is remembered because he made the ___",
+   "answer": "plan of a counting machine",
+   "distractors": [
+    "first mobile phone",
+    "printing press",
+    "steam engine"
+   ]
+  },
+  {
+   "stem": "The woman who wrote the first steps for a machine was ___",
+   "answer": "Ada Lovelace",
+   "distractors": [
+    "Funmilayo Ransome-Kuti",
+    "Queen Amina",
+    "Margaret Ekpo"
+   ]
+  },
+  {
+   "stem": "As computers changed, they became smaller and ___",
+   "answer": "faster",
+   "distractors": [
+    "heavier",
+    "slower",
+    "dearer"
+   ]
+  },
+  {
+   "stem": "A machine of the fifth generation can learn and answer questions; this is called ___",
+   "answer": "artificial intelligence",
+   "distractors": [
+    "a paper tape reader",
+    "a slow old typewriter",
+    "a hand-driven generator"
+   ]
+  },
+  {
+   "stem": "Hardware means the parts of a computer that we can ___",
+   "answer": "touch and see",
+   "distractors": [
+    "only dream of",
+    "hear but not see",
+    "print on paper"
+   ]
+  },
+  {
+   "stem": "Which of these is software?",
+   "answer": "a drawing app",
+   "distractors": [
+    "the keyboard",
+    "the mouse",
+    "the power cable"
+   ]
+  },
+  {
+   "stem": "The brain of the computer is the ___",
+   "answer": "CPU",
+   "distractors": [
+    "fan",
+    "cover",
+    "monitor"
+   ]
+  },
+  {
+   "stem": "The part that keeps our work in the computer until we call it again is the ___",
+   "answer": "hard drive",
+   "distractors": [
+    "mouse pad",
+    "screen glass",
+    "power switch"
+   ]
+  },
+  {
+   "stem": "Work kept in RAM is lost when ___",
+   "answer": "the power goes off",
+   "distractors": [
+    "we close the file",
+    "the fan stops",
+    "the desk is swept"
+   ]
+  },
+  {
+   "stem": "The big board inside the machine that joins all the parts is the ___",
+   "answer": "motherboard",
+   "distractors": [
+    "keyboard",
+    "speaker",
+    "lamp"
+   ]
+  },
+  {
+   "stem": "The keys used for typing on a computer are the ___",
+   "answer": "keyboard",
+   "distractors": [
+    "printer",
+    "scanner",
+    "projector"
+   ]
+  },
+  {
+   "stem": "The order of letters on a keyboard is called the ___",
+   "answer": "QWERTY layout",
+   "distractors": [
+    "ABC layout",
+    "Friday layout",
+    "number layout"
+   ]
+  },
+  {
+   "stem": "The key that moves us to the next line is ___",
+   "answer": "Enter",
+   "distractors": [
+    "Caps Lock",
+    "Esc",
+    "Shift"
+   ]
+  },
+  {
+   "stem": "To make all the letters big we press ___",
+   "answer": "Caps Lock",
+   "distractors": [
+    "Backspace",
+    "the space bar",
+    "the wheel"
+   ]
+  },
+  {
+   "stem": "Clicking once on the mouse is for ___",
+   "answer": "choosing something",
+   "distractors": [
+    "printing a page",
+    "shutting the machine down",
+    "cooling the CPU"
+   ]
+  },
+  {
+   "stem": "To open a folder we usually ___",
+   "answer": "double-click it",
+   "distractors": [
+    "shake the mouse",
+    "pull the cable",
+    "press Caps Lock"
+   ]
+  },
+  {
+   "stem": "Moving an icon by holding the button, moving the mouse and letting go is ___",
+   "answer": "drag and drop",
+   "distractors": [
+    "scanning",
+    "printing",
+    "saving"
+   ]
+  },
+  {
+   "stem": "A device that takes our voice into the computer is the ___",
+   "answer": "microphone",
+   "distractors": [
+    "printer",
+    "monitor",
+    "fan"
+   ]
+  },
+  {
+   "stem": "While speaking into a microphone we should ___",
+   "answer": "hold it by the body, not the cable",
+   "distractors": [
+    "shout straight into it very close",
+    "put it under running water",
+    "drop it on the table for fun"
+   ]
+  },
+  {
+   "stem": "The right sitting position for computer work keeps our ___",
+   "answer": "back straight and eyes level",
+   "distractors": [
+    "shoes clean and laced up",
+    "bag closed on the floor",
+    "hands wet with water"
+   ]
+  },
+  {
+   "stem": "A device that puts a paper drawing into the computer is the ___",
+   "answer": "scanner",
+   "distractors": [
+    "speaker",
+    "mouse",
+    "projector"
+   ]
+  },
+  {
+   "stem": "A small camera on top of the screen that shows our face on a call is the ___",
+   "answer": "webcam",
+   "distractors": [
+    "printer",
+    "keyboard",
+    "router"
+   ]
+  },
+  {
+   "stem": "A device joined to the computer with no wire at all uses ___",
+   "answer": "Bluetooth",
+   "distractors": [
+    "a nail",
+    "glue",
+    "a long rope"
+   ]
+  },
+  {
+   "stem": "A flash drive carries ___",
+   "answer": "our work in the pocket",
+   "distractors": [
+    "water for the plant",
+    "chalk for the board",
+    "food for lunch"
+   ]
+  },
+  {
+   "stem": "A monitor shows us ___",
+   "answer": "the work of the computer on a screen",
+   "distractors": [
+    "the sound of the machine only",
+    "the papers that need cutting",
+    "the dust inside the box"
+   ]
+  },
+  {
+   "stem": "A blurry picture on a screen means the picture has ___",
+   "answer": "too few small dots",
+   "distractors": [
+    "too many small dots",
+    "no colour at all",
+    "a bigger box"
+   ]
+  },
+  {
+   "stem": "The printer that squirts tiny drops of liquid is the ___",
+   "answer": "inkjet printer",
+   "distractors": [
+    "laser printer",
+    "typewriter",
+    "scanner"
+   ]
+  },
+  {
+   "stem": "Too much paper in a printer tray will make the printer ___",
+   "answer": "jam",
+   "distractors": [
+    "sing",
+    "cool down",
+    "wake up"
+   ]
+  },
+  {
+   "stem": "The sound from a headphone is heard by ___",
+   "answer": "only the person wearing it",
+   "distractors": [
+    "the whole class",
+    "everybody in the room",
+    "nobody at all"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the three things that kept changing as computers grew older to newer. ",
+   "points": [
+    "smaller size",
+    "faster work",
+    "cheaper cost"
+   ]
+  },
+  {
+   "stem": "Mention the four parts found inside a computer box. ",
+   "points": [
+    "CPU",
+    "RAM",
+    "hard drive",
+    "motherboard"
+   ]
+  },
+  {
+   "stem": "Sort these into input and output: keyboard, monitor, mouse, printer, microphone, speakers. ",
+   "points": [
+    "input: keyboard, mouse, microphone",
+    "output: monitor, printer, speakers"
+   ]
+  },
+  {
+   "stem": "Mention four things we can do with the mouse. ",
+   "points": [
+    "click",
+    "double-click",
+    "right-click",
+    "scroll",
+    "drag and drop"
+   ]
+  },
+  {
+   "stem": "Name four peripherals that can be joined to a computer. ",
+   "points": [
+    "printer",
+    "scanner",
+    "flash drive",
+    "webcam",
+    "speakers"
+   ]
+  },
+  {
+   "stem": "Mention four rules of the computer lab. ",
+   "points": [
+    "walk, do not run",
+    "no food or drink",
+    "clean dry hands",
+    "switch off after use"
+   ]
+  },
+  {
+   "stem": "Name the parts of a printer we work with. ",
+   "points": [
+    "paper tray",
+    "ink or toner cartridge",
+    "cover",
+    "output slot"
+   ]
+  },
+  {
+   "stem": "Mention three ways a monitor can be spoiled. ",
+   "points": [
+    "water sprayed on it",
+    "knocking or pressing the glass",
+    "leaving it in bright sun"
+   ]
+  },
+  {
+   "stem": "Give three rules for caring for headphones. ",
+   "points": [
+    "do not share them",
+    "do not wind the cable tight",
+    "keep the holes clean"
+   ]
+  },
+  {
+   "stem": "Mention four things we must do before printing. ",
+   "points": [
+    "look at the preview",
+    "put paper in flat",
+    "check the ink",
+    "switch it on"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Explain the difference between hardware and software and give two examples of each.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe the keyboard and the mouse and say how we take care of them.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is an input device? Write on the microphone, the scanner and the webcam.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on any two output devices: what each one does and how we care for it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "State four safety rules for using a computer and its power.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

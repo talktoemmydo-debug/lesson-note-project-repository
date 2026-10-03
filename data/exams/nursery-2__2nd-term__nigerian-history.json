@@ -1,0 +1,393 @@
+{
+ "subject": "Nigerian History",
+ "class": "Nursery 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A hero is a person we ___",
+   "answer": "admire for the way he helps others",
+   "distractors": [
+    "fear because he is very strong",
+    "pay money to come and see",
+    "avoid whenever he is kind"
+   ]
+  },
+  {
+   "stem": "A woman who is a hero is called a ___",
+   "answer": "heroine",
+   "distractors": [
+    "princess only",
+    "queen mother",
+    "market woman"
+   ]
+  },
+  {
+   "stem": "Doing the right thing when your heart is beating fast with fear is ___",
+   "answer": "bravery",
+   "distractors": [
+    "pride",
+    "play",
+    "rest"
+   ]
+  },
+  {
+   "stem": "Selfless service means helping others ___",
+   "answer": "without asking for a reward",
+   "distractors": [
+    "only when you are paid",
+    "once and never again",
+    "for a big prize"
+   ]
+  },
+  {
+   "stem": "Which of these is NOT a quality of a hero?",
+   "answer": "taking things from the weak",
+   "distractors": [
+    "always telling people the truth",
+    "being kind to the sorrowful",
+    "keeping one's own good word"
+   ]
+  },
+  {
+   "stem": "People who keep our class clean and sweep the market before dawn are ___",
+   "answer": "everyday heroes",
+   "distractors": [
+    "strangers to us",
+    "only workmen",
+    "not important"
+   ]
+  },
+  {
+   "stem": "Teachers are heroes in our community because they ___",
+   "answer": "give us knowledge every day",
+   "distractors": [
+    "sell books to us",
+    "close the school gate",
+    "drive us home"
+   ]
+  },
+  {
+   "stem": "The people who run into smoke to put out a fire are ___",
+   "answer": "firefighters",
+   "distractors": [
+    "teachers",
+    "farmers",
+    "traders"
+   ]
+  },
+  {
+   "stem": "A police officer is a hero because he ___",
+   "answer": "keeps us safe from thieves",
+   "distractors": [
+    "cooks for the street",
+    "sweeps the gutter",
+    "sells fuel"
+   ]
+  },
+  {
+   "stem": "An everyday hero at home is ___",
+   "answer": "a father or mother who works for us",
+   "distractors": [
+    "a man we only see on TV",
+    "a stranger at the market gate",
+    "the driver of a big bus"
+   ]
+  },
+  {
+   "stem": "A national hero is a person whose work was for ___",
+   "answer": "the whole country",
+   "distractors": [
+    "one shop only",
+    "his own family",
+    "one market"
+   ]
+  },
+  {
+   "stem": "Herbert Macaulay was born in Lagos in the year ___",
+   "answer": "1864",
+   "distractors": [
+    "1960",
+    "1999",
+    "2006"
+   ]
+  },
+  {
+   "stem": "Herbert Macaulay was trained as a ___",
+   "answer": "surveyor and an engineer",
+   "distractors": [
+    "town doctor and healer",
+    "motor bus driver",
+    "soldier with a gun"
+   ]
+  },
+  {
+   "stem": "Macaulay formed the first political ___ in Nigeria.",
+   "answer": "party",
+   "distractors": [
+    "army",
+    "farm",
+    "school"
+   ]
+  },
+  {
+   "stem": "Macaulay is remembered because he used the newspaper, the court and ___ to fight for the people",
+   "answer": "speaking and protesting",
+   "distractors": [
+    "fighting with guns",
+    "leaving the country",
+    "hiding in the bush"
+   ]
+  },
+  {
+   "stem": "Nnamdi Azikiwe was called Zik of ___",
+   "answer": "Africa",
+   "distractors": [
+    "Lagos",
+    "Europe",
+    "the school"
+   ]
+  },
+  {
+   "stem": "Azikiwe used a newspaper called The West African ___ to teach the people.",
+   "answer": "Pilot",
+   "distractors": [
+    "Pilot Bird",
+    "Press",
+    "Paper"
+   ]
+  },
+  {
+   "stem": "Azikiwe became the first ____ of Nigeria.",
+   "answer": "president",
+   "distractors": [
+    "farmer",
+    "captain",
+    "chief"
+   ]
+  },
+  {
+   "stem": "Azikiwe was born in the year ___",
+   "answer": "1904",
+   "distractors": [
+    "1960",
+    "1999",
+    "2015"
+   ]
+  },
+  {
+   "stem": "Queen Amina ruled the land of ___",
+   "answer": "Zazzau, now Zaria",
+   "distractors": [
+    "Benin only",
+    "Warri",
+    "Kano"
+   ]
+  },
+  {
+   "stem": "Queen Amina is remembered for the ___",
+   "answer": "city walls round the towns",
+   "distractors": [
+    "ships she built",
+    "bridges over the sea",
+    "school she opened"
+   ]
+  },
+  {
+   "stem": "The walls built in Queen Amina's time are called ___",
+   "answer": "ganuwa",
+   "distractors": [
+    "agbada",
+    "gele",
+    "iro"
+   ]
+  },
+  {
+   "stem": "Funmilayo Ransome-Kuti came from the town of ___",
+   "answer": "Abeokuta",
+   "distractors": [
+    "Onitsha",
+    "Sokoto",
+    "Jos"
+   ]
+  },
+  {
+   "stem": "She led the market women against ___",
+   "answer": "an unfair tax",
+   "distractors": [
+    "the price of cloth",
+    "free schooling",
+    "the new road"
+   ]
+  },
+  {
+   "stem": "Margaret Ekpo organised the market women of ___",
+   "answer": "Aba",
+   "distractors": [
+    "Zaria",
+    "Badagry",
+    "Calabar only"
+   ]
+  },
+  {
+   "stem": "Volunteering means ___",
+   "answer": "offering to help before you are asked",
+   "distractors": [
+    "waiting until you are paid",
+    "refusing a duty",
+    "telling another child to work"
+   ]
+  },
+  {
+   "stem": "Which of these is a small act of service at school?",
+   "answer": "carrying a friend's heavy bag",
+   "distractors": [
+    "taking his chalk",
+    "hiding his book",
+    "pushing him in the queue"
+   ]
+  },
+  {
+   "stem": "Cleaning the gutter of the school helps the community because ___",
+   "answer": "the water will flow and sickness falls",
+   "distractors": [
+    "it looks very busy to the visitors",
+    "we can skip our own class today",
+    "nobody will ever see us do it"
+   ]
+  },
+  {
+   "stem": "Keeping our environment clean and helping the old are part of ___",
+   "answer": "being a good citizen",
+   "distractors": [
+    "making a market",
+    "winning a prize",
+    "keeping a secret"
+   ]
+  },
+  {
+   "stem": "A desk in the classroom belongs to everybody, so it is called ___",
+   "answer": "public property",
+   "distractors": [
+    "my own property",
+    "a teacher's bag",
+    "a stranger's good"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Mention the three qualities that make a hero. ",
+   "points": [
+    "bravery",
+    "kindness",
+    "selfless service"
+   ]
+  },
+  {
+   "stem": "Name five heroes of our community and what each does. ",
+   "points": [
+    "teacher",
+    "doctor",
+    "nurse",
+    "police officer",
+    "firefighter"
+   ]
+  },
+  {
+   "stem": "Give four things Herbert Macaulay did for Nigeria. ",
+   "points": [
+    "formed the first party",
+    "started a newspaper",
+    "protested unfair tax",
+    "took cases to court"
+   ]
+  },
+  {
+   "stem": "Mention four lessons we can learn from the life of Azikiwe. ",
+   "points": [
+    "love of reading",
+    "speaking the truth",
+    "hard work",
+    "love of the country"
+   ]
+  },
+  {
+   "stem": "Name three things Queen Amina did for her people. ",
+   "points": [
+    "led her armies",
+    "built city walls",
+    "made trade routes safe"
+   ]
+  },
+  {
+   "stem": "Mention four ways the heroines of this term fought for their people. ",
+   "points": [
+    "marching",
+    "singing",
+    "petitioning",
+    "organizing the women"
+   ]
+  },
+  {
+   "stem": "Give four acts of service we can do at home without being told. ",
+   "points": [
+    "fetch water",
+    "sweep",
+    "wash a plate",
+    "arrange the shoes"
+   ]
+  },
+  {
+   "stem": "Name four things we can do for elderly people. ",
+   "points": [
+    "give a seat",
+    "carry a load",
+    "cross them the road",
+    "listen to their story"
+   ]
+  },
+  {
+   "stem": "Mention four ways of keeping our community clean. ",
+   "points": [
+    "refuse in the bin",
+    "clear the gutter",
+    "sweep the compound",
+    "cover a pit"
+   ]
+  },
+  {
+   "stem": "Name the two cities and the walls: Amina ruled at ____ and her walls are called ____. ",
+   "points": [
+    "Zazzau, now Zaria",
+    "ganuwa"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Who is a hero? Explain the three qualities of a hero with examples.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on the work of Herbert Macaulay and why he is called the father of Nigerian nationalism.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Give an account of Nnamdi Azikiwe: his praise-name, his work and the office he held.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on any two Nigerian heroines and what they did for their people.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is selfless service? Explain four ways we can serve our school and community.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

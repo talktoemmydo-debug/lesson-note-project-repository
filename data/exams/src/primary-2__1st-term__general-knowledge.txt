@@ -1,0 +1,55 @@
+# General Knowledge — Primary 2 · First Term · term paper
+subject: General Knowledge
+class: Primary 2
+term: 1st Term
+
+[objective]
+Nigeria has ___ states and the FCT || 36 || 10 || 50 || 12
+The capital of Benue State is ___ || Makurdi || Kano || Jos || Lokoja
+The capital of Plateau State is ___ || Jos || Minna || Katsina || Sokoto
+Kano is a state in the ___ zone || North-West || South-East || South-West || North-Central
+The capital of Borno State is ___ || Maiduguri || Yola || Bauchi || Damaturu
+The capital of Rivers State is ___ || Port Harcourt || Asaba || Benin City || Yenagoa
+The capital of Edo State is ___ || Benin City || Asaba || Port Harcourt || Yenagoa
+Adamawa is a state in the ___ zone || North-East || South-South || North-West || South-East
+The capital of Lagos State is ___ || Ikeja || Ibadan || Abeokuta || Osogbo
+The capital of Oyo State is ___ || Ibadan || Ikeja || Akure || Ado-Ekiti
+The capital of Nigeria is ___ || Abuja || Lagos || Kano || Enugu
+The FCT stands for ___ Capital Territory || Federal || First || Final || Full
+Nigeria has ___ levels of government || three || two || five || ten
+The leader of a state is the ___ || governor || president || chairman || king
+The leader of the whole country is the ___ || president || governor || chairman || chief
+The local government is led by a ___ || chairman || governor || president || king
+The person who leads the whole of Nigeria is the ___ || president || governor || chairman || king
+Leaders change from ___ to time || time || stone || water || fire
+The Nigerian flag is green, white, ___ || green || red || black || blue
+The white on the flag stands for ___ || peace || war || noise || anger
+The ___ on the coat of arms stands for strength || eagle || fish || dog || cat
+The money of Nigeria is the ___ || Naira || Dollar || Cedi || Rand
+In the colonial era, ___ ruled Nigeria || Britain || France || Ghana || Egypt
+Nigeria became independent on 1 October ___ || 1960 || 1914 || 1970 || 1950
+Independence means ___ ourselves || ruling || losing || buying || selling
+The first Prime Minister of Nigeria was ___ || Abubakar Tafawa Balewa || Nnamdi Azikiwe || Obafemi Awolowo || Ahmadu Bello
+A person who did great things for Nigeria is a ___ || hero || thief || stranger || baby
+The first President of Nigeria was ___ || Nnamdi Azikiwe || Abubakar Tafawa Balewa || Obafemi Awolowo || Ahmadu Bello
+___ worked for education and the South-West || Obafemi Awolowo || Ahmadu Bello || Flora Nwapa || Nnamdi Azikiwe
+Heroes are brave and ___ || hardworking || lazy || rude || angry
+
+[subobjective]
+Name two states in the North-West :: Kano | Kaduna | Katsina | Sokoto
+Name two states in the South-South :: Rivers | Delta | Edo | Bayelsa
+Name two states in the South-West :: Lagos | Ogun | Oyo | Osun | Ondo | Ekiti
+Name the three levels of government :: local | state | federal
+Name two leaders we have :: president | governor | chairman | ministers
+Name two national symbols :: the flag | the coat of arms | the National Anthem | the Naira
+Name two things you know about Nigeria's independence :: it was on 1 October 1960 | the first Prime Minister was Tafawa Balewa
+Name two Nigerian heroes :: Nnamdi Azikiwe | Abubakar Tafawa Balewa | Obafemi Awolowo | Ahmadu Bello
+Name two zonal groups of states :: North-Central | North-West | North-East | South-South | South-East | South-West
+Name two things the government does :: makes laws | provides services
+
+[theory]
+How many states does Nigeria have? Name two and their capitals. || 2
+Name the three levels of government and who leads each. || 2
+What does the white on the Nigerian flag stand for? || 2
+When did Nigeria become independent? Who was the first Prime Minister? || 2
+Name two Nigerian heroes and what they did. || 2

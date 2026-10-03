@@ -1,0 +1,55 @@
+# Basic Science — Primary 2 · Third Term · term paper
+subject: Basic Science
+class: Primary 2
+term: 3rd Term
+
+[objective]
+When something becomes different, that is a ___ || change || stone || tree || cloud
+The day changes into ___ || night || stone || tree || cloud
+The weather changes from sunny to ___ || rainy || dry || hard || dark
+A seed changes into a ___ || plant || stone || cloud || star
+We plant a seed in the ___ || soil || sky || fire || stone
+A small ___ comes out of the seed || shoot || stone || cloud || star
+The plant grows ___ after the shoot || leaves || stones || clouds || stars
+Flowers become ___ || fruit || stones || clouds || stars
+A baby animal is called a ___ || young one || old one || big one || tall one
+A young dog is a ___ || puppy || kitten || kid || calf
+A young cat is a ___ || kitten || puppy || kid || calf
+A young cow is a ___ || calf || puppy || kitten || chick
+Water is in the river, stream and ___ || lake || stone || tree || cloud
+Water falls as ___ || rain || stone || fire || sand
+We get water from the tap and ___ || well || stone || tree || cloud
+We ___ water every day || drink || burn || break || hide
+The ___ helps us eat and speak || mouth || nose || ear || eye
+The ___ chew our food || teeth || lips || gums || tongue
+The ___ tastes our food || tongue || teeth || lips || gums
+The tongue can taste sweet, sour, salt and ___ || bitter || loud || dark || hard
+The first set of teeth are the ___ teeth || milk || adult || old || new
+___ teeth cut our food || Front || Back || Side || Bottom
+___ teeth chew and grind our food || Back || Front || Side || Top
+We use a toothbrush and ___ || toothpaste || sand || oil || ink
+A rock is a ___ thing || non-living || living || growing || eating
+Rocks are ___ and solid || hard || soft || wet || warm
+Rocks do not ___ || grow || stay || sit || wait
+We use rocks to ___ || build || eat || drink || sing
+Living things ___ || grow || stay still || sleep only || do nothing
+Living things ___ and drink || eat || burn || break || hide
+
+[subobjective]
+Name two changes in nature :: day to night | sunny to rainy | seed to plant
+Name two things a plant needs to grow :: water | soil | sunlight
+Name two young animals :: puppy | kitten | kid | calf | chick
+Name two places we find water :: river | stream | lake | sea | well
+Name two uses of water :: drinking | bathing | washing | cooking
+Name two parts of the mouth :: teeth | tongue | lips | gums
+Name two ways to care for the teeth :: brush them | do not eat too many sweets
+Name two things rocks do not do :: grow | eat | breathe
+Name two living things :: plants | animals | people
+Name two non-living things :: rocks | water | chairs
+
+[theory]
+What is change? Name two changes in nature. || 2
+How does a plant change as it grows? || 2
+Name two young animals and their mothers. || 2
+Name two uses of water. Why do we keep water clean? || 2
+What is the difference between living and non-living things? || 2

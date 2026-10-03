@@ -1,0 +1,384 @@
+{
+ "subject": "Mathematics & English · MATHEMATICS",
+ "class": "Primary 1",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "What number comes after 9?",
+   "answer": "10",
+   "distractors": [
+    "8",
+    "11",
+    "5"
+   ]
+  },
+  {
+   "stem": "We count 10, 20, 30, 40, ___",
+   "answer": "50",
+   "distractors": [
+    "45",
+    "60",
+    "15"
+   ]
+  },
+  {
+   "stem": "A number tells us how ___ of a thing",
+   "answer": "many",
+   "distractors": [
+    "few",
+    "long",
+    "far"
+   ]
+  },
+  {
+   "stem": "100 has ___ figures",
+   "answer": "three",
+   "distractors": [
+    "one",
+    "two",
+    "four"
+   ]
+  },
+  {
+   "stem": "What number comes after 100?",
+   "answer": "101",
+   "distractors": [
+    "110",
+    "99",
+    "200"
+   ]
+  },
+  {
+   "stem": "We count 100, 200, 300, ___",
+   "answer": "400",
+   "distractors": [
+    "150",
+    "500",
+    "1000"
+   ]
+  },
+  {
+   "stem": "1,000 is one ___",
+   "answer": "thousand",
+   "distractors": [
+    "hundred",
+    "ten",
+    "million"
+   ]
+  },
+  {
+   "stem": "In 235, the 2 is in the ___ place",
+   "answer": "hundreds",
+   "distractors": [
+    "tens",
+    "units",
+    "thousands"
+   ]
+  },
+  {
+   "stem": "A fraction is a part of a ___",
+   "answer": "whole",
+   "distractors": [
+    "number",
+    "letter",
+    "sound"
+   ]
+  },
+  {
+   "stem": "One of two equal parts is a ___",
+   "answer": "half",
+   "distractors": [
+    "quarter",
+    "whole",
+    "ten"
+   ]
+  },
+  {
+   "stem": "We write a half as ___",
+   "answer": "1/2",
+   "distractors": [
+    "1/4",
+    "2/1",
+    "1/10"
+   ]
+  },
+  {
+   "stem": "A whole shared into 2 equal parts gives ___ halves",
+   "answer": "2",
+   "distractors": [
+    "4",
+    "1",
+    "3"
+   ]
+  },
+  {
+   "stem": "One of four equal parts is a ___",
+   "answer": "quarter",
+   "distractors": [
+    "half",
+    "whole",
+    "tenth"
+   ]
+  },
+  {
+   "stem": "We write a quarter as ___",
+   "answer": "1/4",
+   "distractors": [
+    "1/2",
+    "4/1",
+    "1/10"
+   ]
+  },
+  {
+   "stem": "A whole shared into 4 equal parts gives ___ quarters",
+   "answer": "4",
+   "distractors": [
+    "2",
+    "1",
+    "3"
+   ]
+  },
+  {
+   "stem": "Which is smaller?",
+   "answer": "a quarter",
+   "distractors": [
+    "a half",
+    "a whole",
+    "they are equal"
+   ]
+  },
+  {
+   "stem": "Addition means putting ___",
+   "answer": "together",
+   "distractors": [
+    "apart",
+    "away",
+    "down"
+   ]
+  },
+  {
+   "stem": "The plus sign is ___",
+   "answer": "+",
+   "distractors": [
+    "−",
+    "=",
+    "×"
+   ]
+  },
+  {
+   "stem": "2 + 3 = ___",
+   "answer": "5",
+   "distractors": [
+    "4",
+    "6",
+    "1"
+   ]
+  },
+  {
+   "stem": "5 + 4 = ___",
+   "answer": "9",
+   "distractors": [
+    "8",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "stem": "We add the ___ first",
+   "answer": "units",
+   "distractors": [
+    "tens",
+    "hundreds",
+    "thousands"
+   ]
+  },
+  {
+   "stem": "12 + 5 = ___",
+   "answer": "17",
+   "distractors": [
+    "16",
+    "18",
+    "15"
+   ]
+  },
+  {
+   "stem": "20 + 30 = ___",
+   "answer": "50",
+   "distractors": [
+    "40",
+    "60",
+    "23"
+   ]
+  },
+  {
+   "stem": "When units make 10 we ___ one ten",
+   "answer": "carry",
+   "distractors": [
+    "drop",
+    "hide",
+    "lose"
+   ]
+  },
+  {
+   "stem": "Subtraction means taking ___",
+   "answer": "away",
+   "distractors": [
+    "together",
+    "more",
+    "up"
+   ]
+  },
+  {
+   "stem": "The minus sign is ___",
+   "answer": "−",
+   "distractors": [
+    "+",
+    "=",
+    "×"
+   ]
+  },
+  {
+   "stem": "5 − 2 = ___",
+   "answer": "3",
+   "distractors": [
+    "4",
+    "2",
+    "7"
+   ]
+  },
+  {
+   "stem": "8 − 3 = ___",
+   "answer": "5",
+   "distractors": [
+    "6",
+    "4",
+    "11"
+   ]
+  },
+  {
+   "stem": "19 − 5 = ___",
+   "answer": "14",
+   "distractors": [
+    "15",
+    "13",
+    "24"
+   ]
+  },
+  {
+   "stem": "When we cannot take we ___ one ten",
+   "answer": "borrow",
+   "distractors": [
+    "carry",
+    "hide",
+    "lose"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two numbers between 1 and 100 ",
+   "points": [
+    "5",
+    "20",
+    "50",
+    "99"
+   ]
+  },
+  {
+   "stem": "Name two numbers between 101 and 9000 ",
+   "points": [
+    "200",
+    "500",
+    "1000",
+    "5000"
+   ]
+  },
+  {
+   "stem": "Name two ways to write a fraction ",
+   "points": [
+    "1/2",
+    "1/4"
+   ]
+  },
+  {
+   "stem": "Name two things we can share into halves ",
+   "points": [
+    "orange",
+    "cake",
+    "paper"
+   ]
+  },
+  {
+   "stem": "Name two addition sums ",
+   "points": [
+    "2 + 3 = 5",
+    "12 + 5 = 17"
+   ]
+  },
+  {
+   "stem": "Name two subtraction sums ",
+   "points": [
+    "5 − 2 = 3",
+    "19 − 5 = 14"
+   ]
+  },
+  {
+   "stem": "Name two things we use to count ",
+   "points": [
+    "sticks",
+    "stones",
+    "bottle caps"
+   ]
+  },
+  {
+   "stem": "Name the two signs we use in sums ",
+   "points": [
+    "+ (plus)",
+    "− (minus)"
+   ]
+  },
+  {
+   "stem": "Name two parts of a three-figure number ",
+   "points": [
+    "hundreds",
+    "tens",
+    "units"
+   ]
+  },
+  {
+   "stem": "Name two whole numbers bigger than 1000 ",
+   "points": [
+    "2000",
+    "3000",
+    "5000"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Count from 1 to 20.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is 6 + 3? Show your work.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is 9 − 4? Show your work.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a half? Draw a shape and show one half.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write the numbers 100, 200 and 300 in words.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

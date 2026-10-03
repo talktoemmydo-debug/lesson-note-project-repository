@@ -1,0 +1,401 @@
+{
+ "subject": "Physical and Health Education",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "A game is an organised activity with ___",
+   "answer": "rules, played for fun",
+   "distractors": [
+    "no rule, played for fear",
+    "money, played for food",
+    "books, played for class"
+   ]
+  },
+  {
+   "stem": "Exercise makes the heart and the ___",
+   "answer": "lungs work well",
+   "distractors": [
+    "ears hear better",
+    "teeth grow longer",
+    "hair become thicker"
+   ]
+  },
+  {
+   "stem": "A child who plays and exercises ___",
+   "answer": "sleeps better at night",
+   "distractors": [
+    "cannot sleep at all",
+    "sleeps all day",
+    "stays awake at night"
+   ]
+  },
+  {
+   "stem": "Games teach discipline because I ___",
+   "answer": "wait for my turn and listen for the whistle",
+   "distractors": [
+    "shout at my partner and push in front",
+    "leave the ground before the game ends",
+    "keep my eyes shut while I run"
+   ]
+  },
+  {
+   "stem": "The first thing we do before a game is to ___",
+   "answer": "warm up and stretch",
+   "distractors": [
+    "sit down and rest",
+    "eat a full meal",
+    "tie both shoes together"
+   ]
+  },
+  {
+   "stem": "In the egg and spoon game, if the ball falls we ___",
+   "answer": "pick it up and continue",
+   "distractors": [
+    "leave the ground",
+    "cry and go home",
+    "throw the spoon away"
+   ]
+  },
+  {
+   "stem": "In a sack race the player ___",
+   "answer": "stands inside a sack and jumps to the line",
+   "distractors": [
+    "runs beside a sack full of sand",
+    "carries the sack on the head for a friend",
+    "hides inside a big sack at the line"
+   ]
+  },
+  {
+   "stem": "In the three-legged race, the pair must ___",
+   "answer": "walk as one, with the inside legs tied",
+   "distractors": [
+    "jump over each other's legs twice",
+    "run in opposite directions, fast",
+    "carry one another to the finishing line"
+   ]
+  },
+  {
+   "stem": "Musical chairs and freeze dance are both games of ___",
+   "answer": "movement and stopping on a signal",
+   "distractors": [
+    "eating and drinking quickly",
+    "reading and writing neatly",
+    "counting money on a chair"
+   ]
+  },
+  {
+   "stem": "Freeze dance means we ___",
+   "answer": "dance while the music plays and hold still when it stops",
+   "distractors": [
+    "dance only when the teacher calls out my name",
+    "stand in one place and never move at all",
+    "sit down quietly as the drum begins to sound"
+   ]
+  },
+  {
+   "stem": "Skipping is done with a ___",
+   "answer": "rope, jumping forwards and then backwards",
+   "distractors": [
+    "ball, thrown up to a partner",
+    "sack, jumped inside to the line",
+    "stick, carried slowly across the ground"
+   ]
+  },
+  {
+   "stem": "Leaping is a big jump ___",
+   "answer": "from one foot to the other foot",
+   "distractors": [
+    "from both feet onto one mat",
+    "sideways on the ground only",
+    "backwards over a rope"
+   ]
+  },
+  {
+   "stem": "The safe way to land from a jump is with ___",
+   "answer": "soft, bent knees",
+   "distractors": [
+    "straight, locked knees",
+    "closed eyes",
+    "the head first"
+   ]
+  },
+  {
+   "stem": "Body conditioning means exercises that make the body ___",
+   "answer": "fit and in good control",
+   "distractors": [
+    "heavy and slow",
+    "warm and sleepy",
+    "tall and thin"
+   ]
+  },
+  {
+   "stem": "Balance means staying ___",
+   "answer": "steady without falling",
+   "distractors": [
+    "fast without stopping",
+    "loud without shouting",
+    "soft without moving"
+   ]
+  },
+  {
+   "stem": "While balancing on one leg, a good trick is to ___",
+   "answer": "count slowly to ten",
+   "distractors": [
+    "shout at a friend",
+    "close both ears",
+    "hop three times fast"
+   ]
+  },
+  {
+   "stem": "Walking heel to toe on a line drawn on the floor trains the ___",
+   "answer": "balance of the body",
+   "distractors": [
+    "hearing of the ear",
+    "sight of the eye",
+    "grip of the hand"
+   ]
+  },
+  {
+   "stem": "Kicking, hitting, bouncing and rolling are ___",
+   "answer": "manipulative movements",
+   "distractors": [
+    "balancing exercises",
+    "resting positions",
+    "breathing games"
+   ]
+  },
+  {
+   "stem": "An underhand throw is made with the arm ___",
+   "answer": "swinging from behind and low",
+   "distractors": [
+    "above the head and high",
+    "behind the back",
+    "straight down at the ground"
+   ]
+  },
+  {
+   "stem": "In an overhand throw we ___",
+   "answer": "step with the foot and throw",
+   "distractors": [
+    "sit on the ground and throw",
+    "turn our back and throw",
+    "close both eyes and throw"
+   ]
+  },
+  {
+   "stem": "Catching is done with ___",
+   "answer": "two hands out, eyes on the object all the way to them",
+   "distractors": [
+    "one hand only, with the eyes on the ground",
+    "the head and the two shoulders together",
+    "the knees and the feet of the player"
+   ]
+  },
+  {
+   "stem": "The brain and its wires working with the muscles is called ___",
+   "answer": "neuro-muscular",
+   "distractors": [
+    "bone and joint",
+    "skin and hair",
+    "heart and lung"
+   ]
+  },
+  {
+   "stem": "A dance routine is ___",
+   "answer": "the same order of steps done again and again",
+   "distractors": [
+    "a single jump done only once in the day",
+    "a slow song with no movement at all",
+    "a game played with a ball and a bat"
+   ]
+  },
+  {
+   "stem": "A forward roll is started from a ___",
+   "answer": "squat, with the two hands placed on the mat",
+   "distractors": [
+    "standing jump, with the legs kicked high",
+    "lying down, with the back flat on the floor",
+    "full run, with the arms swinging fast"
+   ]
+  },
+  {
+   "stem": "Before rolling on the mat, the chin is ___",
+   "answer": "tucked to the chest",
+   "distractors": [
+    "lifted to the sky",
+    "turned to the left",
+    "hidden under the arm"
+   ]
+  },
+  {
+   "stem": "Sport develops flexibility, which is the ability to ___",
+   "answer": "bend and stretch easily",
+   "distractors": [
+    "run a long distance",
+    "hear a small sound",
+    "count to two hundred"
+   ]
+  },
+  {
+   "stem": "Agility is the ability to ___",
+   "answer": "move quickly and change direction",
+   "distractors": [
+    "hold a pose for a long time",
+    "lift a heavy bucket",
+    "read a long sentence"
+   ]
+  },
+  {
+   "stem": "Reaction is shown when ___",
+   "answer": "the ear hears the clap and the leg starts to run",
+   "distractors": [
+    "the eye closes slowly at the time for sleep",
+    "the hand holds a pencil on the exercise book",
+    "the mouth tastes the food we eat at home"
+   ]
+  },
+  {
+   "stem": "Strength is built by ___",
+   "answer": "exercise and play",
+   "distractors": [
+    "long sleeping",
+    "eating sweets only",
+    "sitting and watching"
+   ]
+  },
+  {
+   "stem": "At my age sport is for ___",
+   "answer": "learning and growing up fit",
+   "distractors": [
+    "winning money for the family",
+    "only the big silver prizes",
+    "pain and a lot of tiredness"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Mention four things exercise and games do for the body. ",
+   "points": [
+    "strong and healthy body",
+    "growth",
+    "muscles and bones",
+    "heart and lungs",
+    "energy"
+   ]
+  },
+  {
+   "stem": "State four basic games we played in class. ",
+   "points": [
+    "egg and spoon",
+    "sack race",
+    "blindfold and fill a basket",
+    "three-legged race",
+    "musical chairs",
+    "freeze dance"
+   ]
+  },
+  {
+   "stem": "Name four body exercises in the stretching lesson. ",
+   "points": [
+    "stretching",
+    "bending",
+    "raising arms and legs",
+    "skipping",
+    "leaping",
+    "hopping"
+   ]
+  },
+  {
+   "stem": "Give three rules for fair play in a game. ",
+   "points": [
+    "no pushing",
+    "no cheating",
+    "no taking another's place; say \"well played\" to a loser"
+   ]
+  },
+  {
+   "stem": "Mention three ways of walking we learnt. ",
+   "points": [
+    "normal and fast walk",
+    "slow walk",
+    "on tiptoe or on the heels",
+    "walking backwards"
+   ]
+  },
+  {
+   "stem": "State four safety rules for throwing and catching. ",
+   "points": [
+    "soft objects only",
+    "never at a face",
+    "look before throwing",
+    "wait for your partner"
+   ]
+  },
+  {
+   "stem": "Name the two parts that work together in a neuro-muscular skill. ",
+   "points": [
+    "the nerves (brain and its wires)",
+    "the muscles"
+   ]
+  },
+  {
+   "stem": "Give three things needed for a good balance. ",
+   "points": [
+    "steady head",
+    "arms stretched sideways",
+    "eyes open",
+    "practice on a line"
+   ]
+  },
+  {
+   "stem": "Mention four qualities sport develops in a child. ",
+   "points": [
+    "flexibility",
+    "agility",
+    "balance",
+    "coordination",
+    "reaction",
+    "speed",
+    "strength"
+   ]
+  },
+  {
+   "stem": "State three rules we keep in the rolling area. ",
+   "points": [
+    "mat or soft ground only",
+    "chin tucked",
+    "a grown-up watching",
+    "never on a friend"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write on the importance of exercise and games to a child of my age",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe three games we do in class and what each one trains",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain the difference between leaping and hopping, and say how to land safely",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on throwing: name the two throws and give two safety rules",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe how a forward roll is done and state two rules for doing it safely",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

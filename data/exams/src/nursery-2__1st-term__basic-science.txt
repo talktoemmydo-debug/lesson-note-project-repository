@@ -1,0 +1,55 @@
+# Basic Science — term paper (converted from the spec; edit here and re-run spec_from_lines.py)
+subject: Basic Science
+class: Nursery 2
+term: First Term
+
+[objective]
+Our body has a head, a neck, a trunk, and the ___ || arms and legs || tail and wings || ears and nose || knees and sandals
+The part that joins the head to the body is the ___ || neck || waist || chest || ankle
+We use our ___ to hear sounds || ears || nose || elbows || toes
+How many fingers do we have on both hands? || ten || five || eight || twelve
+The part of the trunk at the back of us is the ___ || back || chest || waist || chin
+Which of these is found on the arm? || wrist || knee || ankle || hip
+We brush our teeth ___ a day || twice || once || five times || three times
+Before eating we must ___ || wash our hands || run about the room || sleep on the mat || watch the television
+Our nails should be kept ___ || short and clean || long and full of dirt || painted with chalk || wet with water
+Which one do we use on our hair? || a comb || a spoon || a plaster || a cup
+Every day we should wear ___ clothes || clean || wet || torn || someone else's
+For the body to be strong we must ___ || eat good food and sleep well || eat only sweets every day || never play outside at all || drink only cold soft drinks
+First aid is the ___ help given to a hurt person || first || last || slowest || secret
+Which of these is kept in the first aid box? || plaster || chalk || cutlass || broom
+Which one is NOT a first aid box item? || chewing stick || a roll of cotton wool || a clean bandage || a small thermometer
+A thermometer is used to ___ || tell if the body is hot || cut the bandage in two || wash the school chairs || count the pupils in class
+A bandage is used to ___ || wrap up a wound || cook the family food || brush the school gate || carry books to the office
+Who should use the things in the first aid box? || a grown-up || any pupil || a baby || the class goat
+A wound is an injury that ___ || breaks the skin || cleans the skin || warms the skin || paints the skin
+A blue-black mark from bumping, with the skin not open, is a ___ || bruise || burn || cut || plaster
+Which kind of wound comes from a thorn or a nail going deep into the skin? || Puncture wound || A small blue bruise || A clean dry graze || A soft round bump
+Which one can cause a burn? || a hot pot || a cold fan || a soft pillow || a school bag
+What is the first thing to do before caring for a wound? || wash the hands || blow the dust in || run and shout || put mud on it
+We clean a small wound with ___ || clean water || a cup of dirty water || some kerosene || chalk dust from the board
+On a healing wound there is a scab. We must ___ || leave it alone || pick it every day || cut it with a blade || rub sand on it
+Sickness means the body ___ || is not working properly || is working quite well || is growing too fast || is always clean and neat
+Which one is a sign of sickness? || high temperature || very clean nails || a brand new school shoe || a loud happy laugh
+Malaria is brought to us by the bite of a ___ || mosquito || goat || bird || rat
+A sick person should drink plenty of ___ || water || soda || kerosene || palm oil
+The top layer of the earth where plants grow is called ___ || soil || rock || sand only || water
+
+[subobjective]
+Name the five big parts of the body. :: head | neck | trunk | arms | legs
+Mention four parts found on the head. :: eyes | nose | ears | mouth
+State three daily practices that keep the body clean. :: bathing | brushing teeth twice | washing hands
+Name four things inside a first aid box. :: plasters | bandages | cotton wool | antiseptic
+Give the use of each: (a) plaster (b) thermometer (c) bandage. :: covers a small cut | checks for fever | wraps a wound / supports a sprain
+Mention three things that can cause wounds at home. :: sharp objects | hot pots or fire | falls and scrapes
+Write the steps for caring for a small wound in order. :: wash hands | clean with water | apply antiseptic | cover with plaster
+Name four signs (symptoms) of sickness. :: fever | pain | coughing | vomit
+State three ways of preventing sickness. :: wash hands | eat healthy food and drink clean water | sleep under a mosquito net
+Name the types of soil and mark the one best for plants. :: sandy | clay | loamy — best for plants
+
+[theory]
+Name four parts of your body and say what each one does. || 2
+Why must we keep our body clean? Give three reasons. || 2
+Your friend falls in the compound and his knee is bleeding. What should you do? || 2
+What is sickness? Name four causes and three ways of preventing it. || 2
+What are rocks? Mention three uses of rocks and three types of soil. || 2

@@ -1,0 +1,55 @@
+# Physical and Health Education — Primary 1 · Third Term · term paper
+subject: Physical and Health Education
+class: Primary 1
+term: 3rd Term
+
+[objective]
+Staying steady without falling is ___ || balance || sleep || noise || dust
+Using body parts together is ___ || coordination || anger || hunger || fear
+We can balance on ___ foot || one || no || a hundred || zero
+We coordinate our eyes and ___ when we catch || hands || ears || nose || hair
+We strike a ball with the ___ || hand || ear || nose || hair
+We kick a ball with the ___ || foot || hand || head || ear
+We kick with the ___ of the foot || inside || top || heel || toe
+We ___ the ball as it comes || watch || hide || lose || break
+A race in teams is a ___ race || relay || solo || slow || sleep
+The runner passes a ___ to the next || baton || stone || shoe || bag
+The baton is a small ___ || stick || ball || box || book
+We pass the baton without ___ it || dropping || eating || burning || hiding
+We swim only with a ___ near || grown-up || stranger || pet || baby
+We wear a ___ in a boat || life jacket || hat || shoe || bag
+We do not go near deep water ___ || alone || with friends || with a grown-up || in a group
+We do not ___ near a pool || run || walk || sit || stand
+The first help we give to someone hurt is ___ aid || first || last || no || slow
+For a small cut we wash it and ___ it || cover || hide || burn || cut
+We use a clean ___ or plaster || bandage || stone || leaf || stick
+We call a ___ or a doctor for help || grown-up || stranger || thief || baby
+We brush our teeth every morning and ___ || night || noon || dawn || dusk
+We use a toothbrush and ___ || toothpaste || sand || oil || ink
+We bathe every day to keep the ___ clean || skin || shoes || books || chairs
+We use soap and clean ___ || water || sand || oil || dust
+Some things can ___ our body || harm || help || heal || feed
+We say ___ to harmful things || no || yes || maybe || later
+We do not take medicine without a ___ || grown-up || stranger || thief || baby
+We do not go with ___ || strangers || teachers || parents || friends
+The body being strong and well is ___ || fitness || sickness || hunger || sleep
+Games and ___ keep us fit || exercise || sleep || sitting || crying
+
+[subobjective]
+Name two balance activities :: balancing on one foot | balancing on a line | balancing on a beam
+Name two ball skills :: striking | kicking | controlling | stopping
+Name two things we do in a relay race :: run | pass the baton
+Name two ways to be safe near water :: swim with a grown-up | wear a life jacket | do not run near a pool
+Name two things we do in first aid :: wash a cut | cover it | call a grown-up
+Name two ways to care for our teeth :: brushing | not eating too many sweets
+Name two things that can harm us :: sharp objects | medicine without a grown-up | strangers
+Name two games that keep us fit :: football | tag | local games
+Name two things we use to bathe :: soap | water
+Name two ways to stay safe :: say no to harm | tell a grown-up
+
+[theory]
+What is balance? || 2
+How do we kick a ball? || 2
+What is a relay race, and what do we pass? || 2
+What is first aid? Name one thing we do. || 2
+Name two games that keep us fit. || 2

@@ -1,0 +1,56 @@
+# Mathematics & English · MATHEMATICS — Primary 1 · Second Term · term paper
+subject: Mathematics & English
+stream: MATHEMATICS
+class: Primary 1
+term: 2nd Term
+
+[objective]
+Multiplication means adding the same number again and ___ || again || once || never || twice
+The times sign is ___ || × || + || − || =
+2 × 3 = ___ || 6 || 5 || 8 || 3
+5 × 2 = ___ || 10 || 7 || 12 || 5
+4 × 3 = ___ || 12 || 7 || 9 || 15
+5 × 5 = ___ || 25 || 20 || 15 || 10
+The 2 times table goes 2, 4, 6, 8, ___ || 10 || 9 || 12 || 11
+3 × 5 = ___ || 15 || 12 || 10 || 20
+An open sentence has a ___ number || missing || wrong || loud || dark
+In 2 + □ = 5, the missing number is ___ || 3 || 2 || 5 || 7
+In □ + 4 = 7, the missing number is ___ || 3 || 4 || 7 || 11
+In 6 − □ = 2, the missing number is ___ || 4 || 6 || 2 || 8
+We use money to ___ things || buy || lose || hide || break
+Nigerian money is the naira and ___ || kobo || cents || pounds || dollars
+A note can be 5 naira or ___ naira || 10 || 50 kobo || 1 kobo || 0
+We ___ money to know how much we have || count || hide || burn || lose
+2 naira + 3 naira = ___ naira || 5 || 4 || 6 || 1
+The money given back is ___ || change || price || cost || gift
+If I pay 10 naira for a 6 naira sweet, the change is ___ naira || 4 || 6 || 10 || 16
+We ___ money for later || save || lose || burn || hide
+Length is how ___ a thing is || long || heavy || wide || round
+We measure length with a ___ || ruler || spoon || cup || stone
+We measure in centimetres and ___ || metres || litres || grams || seconds
+A short thing has a ___ length || small || big || loud || dark
+A clock tells us the ___ || time || date || weather || name
+The short hand tells the ___ || hour || minute || day || month
+There are ___ days in a week || seven || five || ten || three
+When the long hand is on 6, it is ___ past || half || quarter || full || no
+Half past 3 is ___ || 3:30 || 3:00 || 6:30 || 3:15
+There are ___ months in a year || twelve || seven || ten || five
+
+[subobjective]
+Name two multiplication sums :: 2 × 3 = 6 | 5 × 2 = 10
+Name two sums from the 5 times table :: 5 × 2 = 10 | 5 × 5 = 25
+Name two open sentences :: 2 + □ = 5 | 6 − □ = 2
+Name two Nigerian coins or notes :: 50 kobo | 1 naira | 5 naira | 10 naira
+Name two money sums :: 2 + 3 = 5 naira | 10 − 6 = 4 naira
+Name two things we can measure :: pencil | ruler | table | rope
+Name two tools for measuring :: ruler | metre rule | tape
+Name two times on the clock :: 3 o'clock | 6 o'clock | half past 4
+Name two parts of the day :: morning | afternoon | evening
+Name two months of the year :: January | June | December
+
+[theory]
+What is 2 × 3? Show your work. || 2
+What is the missing number in 4 + □ = 8? || 2
+What is 5 naira + 5 naira? || 2
+What do we measure length with? || 2
+What is half past 3? || 2

@@ -1,0 +1,384 @@
+{
+ "subject": "Christian Religious Studies",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Jesus taught us to love God and our ___",
+   "answer": "neighbour",
+   "distractors": [
+    "enemies",
+    "toys",
+    "shoes"
+   ]
+  },
+  {
+   "stem": "Love is kind and ___",
+   "answer": "patient",
+   "distractors": [
+    "rude",
+    "angry",
+    "lazy"
+   ]
+  },
+  {
+   "stem": "We show love by helping and ___",
+   "answer": "sharing",
+   "distractors": [
+    "fighting",
+    "hiding",
+    "stealing"
+   ]
+  },
+  {
+   "stem": "Our neighbour is anyone ___ us",
+   "answer": "near",
+   "distractors": [
+    "against",
+    "far from",
+    "afraid of"
+   ]
+  },
+  {
+   "stem": "A story that teaches a lesson is a ___",
+   "answer": "parable",
+   "distractors": [
+    "song",
+    "poem",
+    "dance"
+   ]
+  },
+  {
+   "stem": "The robbers beat the man and left him half ___",
+   "answer": "dead",
+   "distractors": [
+    "asleep",
+    "full",
+    "clean"
+   ]
+  },
+  {
+   "stem": "The ___ passed by and did not help",
+   "answer": "priest",
+   "distractors": [
+    "Samaritan",
+    "doctor",
+    "friend"
+   ]
+  },
+  {
+   "stem": "The ___ helped the injured man",
+   "answer": "Samaritan",
+   "distractors": [
+    "priest",
+    "Levite",
+    "robber"
+   ]
+  },
+  {
+   "stem": "The shepherd had ___ sheep",
+   "answer": "one hundred",
+   "distractors": [
+    "ten",
+    "fifty",
+    "two"
+   ]
+  },
+  {
+   "stem": "One sheep went ___",
+   "answer": "missing",
+   "distractors": [
+    "home",
+    "to sleep",
+    "to market"
+   ]
+  },
+  {
+   "stem": "The shepherd left the ___ to find the one",
+   "answer": "ninety-nine",
+   "distractors": [
+    "ten",
+    "fifty",
+    "hundred"
+   ]
+  },
+  {
+   "stem": "The shepherd was ___ when he found it",
+   "answer": "glad",
+   "distractors": [
+    "sad",
+    "angry",
+    "afraid"
+   ]
+  },
+  {
+   "stem": "Jesus taught his disciples to ___",
+   "answer": "pray",
+   "distractors": [
+    "fight",
+    "hide",
+    "steal"
+   ]
+  },
+  {
+   "stem": "The Lord's Prayer begins, \"Our ___ in heaven\"",
+   "answer": "Father",
+   "distractors": [
+    "mother",
+    "friend",
+    "teacher"
+   ]
+  },
+  {
+   "stem": "\"Give us this day our daily ___\" means we ask for food",
+   "answer": "bread",
+   "distractors": [
+    "water",
+    "money",
+    "stone"
+   ]
+  },
+  {
+   "stem": "\"Forgive us our ___\" means we ask God to forgive us",
+   "answer": "sins",
+   "distractors": [
+    "songs",
+    "games",
+    "toys"
+   ]
+  },
+  {
+   "stem": "Jesus went to the garden of ___ to pray",
+   "answer": "Gethsemane",
+   "distractors": [
+    "Eden",
+    "Cana",
+    "Sinai"
+   ]
+  },
+  {
+   "stem": "___ showed the soldiers Jesus with a kiss",
+   "answer": "Judas",
+   "distractors": [
+    "Peter",
+    "John",
+    "Paul"
+   ]
+  },
+  {
+   "stem": "The soldiers took Jesus ___",
+   "answer": "away",
+   "distractors": [
+    "home",
+    "to school",
+    "to market"
+   ]
+  },
+  {
+   "stem": "The disciples ran away in ___",
+   "answer": "fear",
+   "distractors": [
+    "joy",
+    "sleep",
+    "hunger"
+   ]
+  },
+  {
+   "stem": "Jesus carried his ___ to a hill",
+   "answer": "cross",
+   "distractors": [
+    "stone",
+    "bag",
+    "book"
+   ]
+  },
+  {
+   "stem": "Jesus died for our ___",
+   "answer": "sins",
+   "distractors": [
+    "games",
+    "songs",
+    "toys"
+   ]
+  },
+  {
+   "stem": "Jesus was laid in a ___",
+   "answer": "tomb",
+   "distractors": [
+    "boat",
+    "tent",
+    "market"
+   ]
+  },
+  {
+   "stem": "A big ___ closed the tomb",
+   "answer": "stone",
+   "distractors": [
+    "door",
+    "cloth",
+    "tree"
+   ]
+  },
+  {
+   "stem": "On the ___ day the women went to the tomb",
+   "answer": "third",
+   "distractors": [
+    "first",
+    "second",
+    "seventh"
+   ]
+  },
+  {
+   "stem": "They found the stone rolled away and the tomb ___",
+   "answer": "empty",
+   "distractors": [
+    "full",
+    "locked",
+    "dark"
+   ]
+  },
+  {
+   "stem": "An ___ said, \"Jesus has risen\"",
+   "answer": "angel",
+   "distractors": [
+    "soldier",
+    "robber",
+    "child"
+   ]
+  },
+  {
+   "stem": "Jesus told his disciples to go and make ___ of all nations",
+   "answer": "disciples",
+   "distractors": [
+    "enemies",
+    "strangers",
+    "kings"
+   ]
+  },
+  {
+   "stem": "Jesus promised to be with them ___",
+   "answer": "always",
+   "distractors": [
+    "never",
+    "sometimes",
+    "once"
+   ]
+  },
+  {
+   "stem": "The disciples went out to tell the good ___",
+   "answer": "news",
+   "distractors": [
+    "songs",
+    "games",
+    "stories"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two ways we show love ",
+   "points": [
+    "helping",
+    "sharing",
+    "being kind"
+   ]
+  },
+  {
+   "stem": "Name two people who passed by the injured man ",
+   "points": [
+    "priest",
+    "Levite"
+   ]
+  },
+  {
+   "stem": "Name two things the shepherd did ",
+   "points": [
+    "left the ninety-nine",
+    "searched",
+    "carried the sheep home"
+   ]
+  },
+  {
+   "stem": "Name two things we ask God for in the Lord's Prayer ",
+   "points": [
+    "daily bread",
+    "forgiveness"
+   ]
+  },
+  {
+   "stem": "Name two things that happened when Jesus was arrested ",
+   "points": [
+    "Judas betrayed him",
+    "soldiers took him",
+    "disciples ran"
+   ]
+  },
+  {
+   "stem": "Name two things that happened when Jesus died ",
+   "points": [
+    "carried the cross",
+    "nailed to the cross",
+    "sky grew dark"
+   ]
+  },
+  {
+   "stem": "Name two things the women found at the tomb ",
+   "points": [
+    "stone rolled away",
+    "empty tomb",
+    "an angel"
+   ]
+  },
+  {
+   "stem": "Name two things Jesus told his disciples to do ",
+   "points": [
+    "make disciples",
+    "teach",
+    "baptise"
+   ]
+  },
+  {
+   "stem": "Name two words from the Lord's Prayer ",
+   "points": [
+    "Father",
+    "bread",
+    "forgive"
+   ]
+  },
+  {
+   "stem": "Name two people in the story of Jesus' death ",
+   "points": [
+    "Judas",
+    "Joseph of Arimathea",
+    "the soldiers"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What did Jesus teach about love?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who helped the injured man in the parable?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How does the Lord's Prayer begin?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why did Jesus die?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What did Jesus tell his disciples to do?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

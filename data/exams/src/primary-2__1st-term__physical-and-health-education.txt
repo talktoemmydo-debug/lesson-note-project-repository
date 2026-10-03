@@ -1,0 +1,55 @@
+# Physical and Health Education — Primary 2 · First Term · term paper
+subject: Physical and Health Education
+class: Primary 2
+term: 1st Term
+
+[objective]
+The part that helps us stand, walk and run is the ___ || legs || ears || hair || teeth
+Where two bones meet is a ___ || joint || skin || tooth || nail
+The part that pulls the bones to move is the ___ || muscle || hair || nail || ear
+Movement keeps the body strong and ___ || healthy || weak || sick || sad
+A movement that takes us from place to place is a ___ movement || locomotor || sleeping || sitting || eating
+Moving on the feet fast is ___ || running || sitting || sleeping || eating
+Jumping on one foot is ___ || hopping || sitting || sleeping || lying
+A long jump is a ___ || leap || nap || song || rest
+A movement done in one place is a ___ movement || non-locomotor || running || walking || jumping
+Reaching out the arms or legs is ___ || stretching || sleeping || eating || crying
+Turning the body is ___ || twisting || sleeping || eating || sitting
+Holding the body steady is ___ || balancing || falling || crying || shouting
+An activity we play with rules is a ___ || game || stone || river || tree
+Games have ___ we must follow || rules || stones || trees || clouds
+A group that plays together is a ___ || team || stone || river || cloud
+Games keep us ___ and strong || fit || weak || sick || sad
+Keeping clean to stay well is ___ || hygiene || hunger || sleep || noise
+We bathe every day with soap and ___ || water || sand || oil || ink
+We brush our teeth every morning and ___ || night || noon || dawn || dusk
+We keep our nails short and ___ || clean || long || dirty || dark
+A meal with all the food groups is a ___ diet || balanced || broken || bad || bitter
+The food that gives us energy is ___ || carbohydrates || water only || sand || stone
+The food that builds the body is ___ || protein || stone || sand || dust
+Vitamins and minerals ___ us || protect || hurt || break || burn
+Being free from harm is ___ || safety || danger || anger || noise
+We do not play with ___ or hot things || sharp || soft || round || clean
+The first help we give to someone hurt is ___ aid || first || last || no || slow
+For a small cut we wash it and ___ it || cover || hide || burn || cut
+Taking it easy after work or play is ___ || rest || running || shouting || fighting
+A deep rest at night is ___ || sleep || noise || food || play
+
+[subobjective]
+Name two parts of the body used in movement :: legs | arms | head | trunk
+Name two locomotor movements :: walking | running | jumping | hopping | leaping
+Name two non-locomotor movements :: bending | stretching | twisting | balancing
+Name two games you play :: football | tag | local games
+Name two ways to keep the body clean :: bathing | brushing teeth | washing hands
+Name two food groups :: carbohydrates | proteins | vitamins | minerals
+Name two ways to keep safe :: do not play with sharp things | cross the road with care
+Name two things we do in first aid :: wash a cut | cover it | call a grown-up
+Name two ways to rest well :: sleep at night | rest in the day
+Name two foods that give energy :: rice | yam | beans
+
+[theory]
+What is a locomotor movement? Name two. || 2
+What is a non-locomotor movement? Name two. || 2
+What is hygiene? Name two ways to keep clean. || 2
+What is a balanced diet? Name two food groups. || 2
+What is first aid? Name one thing we do. || 2

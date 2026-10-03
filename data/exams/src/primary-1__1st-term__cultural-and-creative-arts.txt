@@ -1,0 +1,55 @@
+# Cultural and Creative Arts — Primary 1 · First Term · term paper
+subject: Cultural and Creative Arts
+class: Primary 1
+term: 1st Term
+
+[objective]
+A line that lies flat like the ground is ___ || horizontal || vertical || spiral || round
+The edge of a circle is a ___ line || curved || straight || zigzag || sharp
+A line that moves sharply up and down like teeth is ___ || zigzag || flat || thin || short
+A line that stands up like a pole is ___ || vertical || horizontal || wavy || bent
+The shape of an egg is an ___ || oval || square || triangle || star
+A square and a triangle joined together can make a ___ || house || wheel || ball || road
+The basic shape with three sides is a ___ || triangle || circle || oval || rectangle
+How a thing feels when we touch it is its ___ || texture || colour || smell || sound
+Sandpaper feels ___ || rough || smooth || soft || wet
+A feather feels ___ || soft || hard || rough || hot
+We make a rubbing by putting paper over a rough surface and rubbing with a ___ || crayon || scissors || glue || tape
+We cut paper with ___ || scissors || glue || paint || tape
+We stick paper together with ___ || glue || scissors || a ruler || a pen
+A soft earth we use for modelling is ___ || clay || sand || water || stone
+The way of life of a people is their ___ || culture || school || market || road
+The three big ethnic groups are Hausa, Igbo and ___ || Yoruba || French || English || Zulu
+Language, food, dressing and festivals are parts of ___ || culture || weather || money || sport
+A special celebration a people keep is a ___ || ceremony || market || lesson || game
+The ceremony that welcomes a new baby is the ___ ceremony || naming || harvest || school || farm
+A special nut used at some naming ceremonies is the ___ nut || kola || ground || palm || coco
+Making the body look fine in our own way is body ___ || beautification || washing || feeding || resting
+Small coloured things strung to wear are ___ || beads || stones || seeds || coins
+A ring worn on the wrist is a ___ || bangle || cap || shoe || belt
+Designs put on the hands and feet for a celebration are called ___ || henna || paint || ink || chalk
+Arts we show with our body and voice are ___ arts || performing || drawing || painting || carving
+Stories the elders tell are ___ || folktales || newspapers || letters || receipts
+A short song with rhythm is a ___ || rhyme || drum || chair || road
+Moving the body to music is ___ || dancing || sleeping || reading || eating
+A hairstyle made by threading the hair is called ___ || threading || plaiting water || cutting || shaving
+Performing arts entertain us and also ___ us || teach || hurt || tire || bore
+
+[subobjective]
+Name two kinds of lines :: straight | curved | zigzag
+Name two basic shapes :: circle | square | triangle
+Name two things that feel smooth :: glass | leaf | tile
+Name two colouring tools :: crayon | paint | marker
+Name two drawing tools :: pencil | pen | charcoal
+Name the three big ethnic groups :: Hausa | Igbo | Yoruba
+Name two parts of culture :: food | dressing | language
+Name two things used at a naming ceremony :: kola nut | palm wine
+Name two body decorations :: beads | bangles | henna
+Name two performing arts :: singing | dancing | acting
+
+[theory]
+What is a line and one kind of line? || 2
+Say what texture means and give one rough thing. || 2
+What is culture and one part of it? || 2
+What happens at a naming ceremony? || 2
+Name two performing arts and say one way they help us. || 2

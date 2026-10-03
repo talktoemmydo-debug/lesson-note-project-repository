@@ -1,0 +1,55 @@
+# Basic Digital Literacy — Primary 1 · First Term · term paper
+subject: Basic Digital Literacy
+class: Primary 1
+term: 1st Term
+
+[objective]
+Technology is the smart things people make to do work more ___ || easily || slowly || badly || loudly
+A machine that works with electricity and shows things on a screen is a ___ device || digital || wooden || paper || stone
+Which of these is NOT a digital device? || a wooden broom || a tablet || a camera || a smartphone
+The computer that stays on a table is a ___ || desktop || tablet || smart watch || camera
+The computer that opens like a book is a ___ || laptop || desktop || printer || radio
+The part that shows pictures and letters is the ___ || monitor || keyboard || mouse || CPU
+The part we press with our fingers is the ___ || keyboard || monitor || speaker || cable
+The part that moves the arrow on the screen is the ___ || mouse || monitor || printer || CPU
+The brain of the computer is the ___ || CPU || mouse || keyboard || screen
+We clean a screen with a ___ || soft, dry cloth || wet mop || rough stone || sandy rag
+A tablet should be carried ___ || with two hands || by its wire || open in one finger || under a foot
+Water on a device ___ it || spoils || speeds || charges || cleans
+The first tool people used to count is the ___ || abacus || telephone || radio || fan
+Over time computers became smaller, cheaper and ___ || faster || heavier || slower || louder
+A machine that can learn uses artificial ___ || intelligence || water || sand || noise
+The father of the computer is ___ || Charles Babbage || Ada Lovelace || Isaac Newton || Thomas Edison
+The first programmer in the world was ___ || Ada Lovelace || Mary Kingsley || Queen Amina || Flora Shaw
+Babbage's machine plan was called the ___ || Analytical Engine || Steam Boat || Printing Press || Flying Loom
+The parts of a computer we can touch are the ___ || hardware || software || ideas || songs
+A drawing app is ___ || software || hardware || a cable || a chair
+The order of letters on a keyboard is called ___ || QWERTY || ABCDE || FRIDAY || MONDAY
+The key that moves us to the next line is ___ || Enter || Caps Lock || Esc || Shift
+Moving an icon by holding the button and letting go is ___ || drag and drop || scanning || printing || saving
+A device that puts information into the computer is an ___ device || input || output || print || sound
+A device that brings information out of the computer is an ___ device || output || input || power || cool
+The device that puts our work on paper is the ___ || printer || microphone || mouse || keyboard
+We hear sound from the computer through ___ || speakers || printer || mouse || cable
+A microphone takes our ___ into the computer || voice || hair || shoes || food
+The wheel on the mouse is used to ___ || scroll || print || eat || sing
+A wooden broom and a plastic bucket are ___ digital devices || not || always || only || very
+
+[subobjective]
+Name two digital devices you can carry :: tablet | smartphone | smart watch
+Name the four basic parts of a computer :: monitor | keyboard | mouse | CPU
+Name two things we keep away from a device :: water | food
+Name two input devices :: keyboard | mouse | microphone
+Name two output devices :: monitor | printer | speakers
+Name two ways we care for a device :: clean with dry cloth | carry with two hands
+Name the two great inventors of the computer :: Charles Babbage | Ada Lovelace
+Name two devices that became smaller over time :: computer | phone
+Name two lab rules :: walk slowly | no eating
+Name two things hardware and software are like :: body | thoughts
+
+[theory]
+What is technology in one line? || 2
+Name the four basic parts of a computer. || 2
+Say two ways we care for a device. || 2
+Who is the father of the computer and what did he design? || 2
+Tell one input device and one output device. || 2

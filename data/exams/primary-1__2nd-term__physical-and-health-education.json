@@ -1,0 +1,387 @@
+{
+ "subject": "Physical and Health Education",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "Jumping is pushing the body off the ___",
+   "answer": "ground",
+   "distractors": [
+    "water",
+    "tree",
+    "wall"
+   ]
+  },
+  {
+   "stem": "We bend our ___ before we jump",
+   "answer": "knees",
+   "distractors": [
+    "ears",
+    "eyes",
+    "nose"
+   ]
+  },
+  {
+   "stem": "We land on the ___ of our feet",
+   "answer": "balls",
+   "distractors": [
+    "heels",
+    "sides",
+    "toes"
+   ]
+  },
+  {
+   "stem": "Jumping as far as we can is the ___ jump",
+   "answer": "long",
+   "distractors": [
+    "high",
+    "short",
+    "slow"
+   ]
+  },
+  {
+   "stem": "Throwing is sending a ball away with the ___",
+   "answer": "hand",
+   "distractors": [
+    "foot",
+    "head",
+    "ear"
+   ]
+  },
+  {
+   "stem": "Catching is ___ a ball that comes to us",
+   "answer": "holding",
+   "distractors": [
+    "losing",
+    "hiding",
+    "breaking"
+   ]
+  },
+  {
+   "stem": "We catch with ___ hands",
+   "answer": "both",
+   "distractors": [
+    "one",
+    "no",
+    "dirty"
+   ]
+  },
+  {
+   "stem": "We watch the ball as it ___",
+   "answer": "comes",
+   "distractors": [
+    "sleeps",
+    "burns",
+    "hides"
+   ]
+  },
+  {
+   "stem": "A game played with a ball is a ___ game",
+   "answer": "ball",
+   "distractors": [
+    "card",
+    "board",
+    "word"
+   ]
+  },
+  {
+   "stem": "In football we kick the ball with the ___",
+   "answer": "foot",
+   "distractors": [
+    "hand",
+    "head",
+    "ear"
+   ]
+  },
+  {
+   "stem": "We pass the ball to a ___",
+   "answer": "friend",
+   "distractors": [
+    "stranger",
+    "wall",
+    "tree"
+   ]
+  },
+  {
+   "stem": "Each team tries to score a ___",
+   "answer": "goal",
+   "distractors": [
+    "song",
+    "dance",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "Moving the body in skillful ways is ___",
+   "answer": "gymnastics",
+   "distractors": [
+    "sleeping",
+    "eating",
+    "reading"
+   ]
+  },
+  {
+   "stem": "We can ___ on one foot",
+   "answer": "balance",
+   "distractors": [
+    "sleep",
+    "eat",
+    "cry"
+   ]
+  },
+  {
+   "stem": "We roll on a ___ to be safe",
+   "answer": "mat",
+   "distractors": [
+    "stone",
+    "fire",
+    "road"
+   ]
+  },
+  {
+   "stem": "We ___ our arms up high",
+   "answer": "stretch",
+   "distractors": [
+    "hide",
+    "cut",
+    "wash"
+   ]
+  },
+  {
+   "stem": "Rest is taking it easy after work or ___",
+   "answer": "play",
+   "distractors": [
+    "sleep",
+    "eating",
+    "crying"
+   ]
+  },
+  {
+   "stem": "Sleep helps the body to grow and get ___",
+   "answer": "strong",
+   "distractors": [
+    "weak",
+    "dirty",
+    "sad"
+   ]
+  },
+  {
+   "stem": "We sleep ___ and wake early",
+   "answer": "early",
+   "distractors": [
+    "late",
+    "never",
+    "at noon"
+   ]
+  },
+  {
+   "stem": "Too little sleep makes us tired and ___",
+   "answer": "weak",
+   "distractors": [
+    "strong",
+    "tall",
+    "happy"
+   ]
+  },
+  {
+   "stem": "Food gives us energy and helps us ___",
+   "answer": "grow",
+   "distractors": [
+    "sleep",
+    "hide",
+    "cry"
+   ]
+  },
+  {
+   "stem": "Good food makes the body ___",
+   "answer": "strong",
+   "distractors": [
+    "weak",
+    "dirty",
+    "sad"
+   ]
+  },
+  {
+   "stem": "A meal with all the food we need is a ___ diet",
+   "answer": "balanced",
+   "distractors": [
+    "broken",
+    "small",
+    "sweet"
+   ]
+  },
+  {
+   "stem": "We drink clean ___ every day",
+   "answer": "water",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "We play in a safe place, not on the ___",
+   "answer": "road",
+   "distractors": [
+    "field",
+    "park",
+    "yard"
+   ]
+  },
+  {
+   "stem": "We do not push or ___ our friends",
+   "answer": "hit",
+   "distractors": [
+    "help",
+    "share",
+    "greet"
+   ]
+  },
+  {
+   "stem": "We ___ up before we play",
+   "answer": "warm",
+   "distractors": [
+    "sleep",
+    "eat",
+    "cry"
+   ]
+  },
+  {
+   "stem": "Exercise is activity that moves the ___",
+   "answer": "body",
+   "distractors": [
+    "mind",
+    "book",
+    "chair"
+   ]
+  },
+  {
+   "stem": "Exercise makes the heart and ___ strong",
+   "answer": "muscles",
+   "distractors": [
+    "clothes",
+    "shoes",
+    "toys"
+   ]
+  },
+  {
+   "stem": "Exercise keeps us from ___",
+   "answer": "sickness",
+   "distractors": [
+    "hunger",
+    "joy",
+    "friends"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two kinds of jump ",
+   "points": [
+    "long jump",
+    "high jump",
+    "one-foot jump"
+   ]
+  },
+  {
+   "stem": "Name two things we do with a ball ",
+   "points": [
+    "throw",
+    "catch",
+    "kick"
+   ]
+  },
+  {
+   "stem": "Name two ball games ",
+   "points": [
+    "football",
+    "handball",
+    "basketball"
+   ]
+  },
+  {
+   "stem": "Name two gymnastics movements ",
+   "points": [
+    "roll",
+    "balance",
+    "stretch",
+    "hop"
+   ]
+  },
+  {
+   "stem": "Name two ways we rest ",
+   "points": [
+    "sitting down",
+    "lying down",
+    "sleeping"
+   ]
+  },
+  {
+   "stem": "Name two foods we eat ",
+   "points": [
+    "rice",
+    "yam",
+    "beans",
+    "fruits"
+   ]
+  },
+  {
+   "stem": "Name two ways to play safely ",
+   "points": [
+    "play in a safe place",
+    "do not push",
+    "warm up"
+   ]
+  },
+  {
+   "stem": "Name two good things exercise does ",
+   "points": [
+    "strong heart",
+    "strong muscles",
+    "keeps us from sickness"
+   ]
+  },
+  {
+   "stem": "Name two dangers in play ",
+   "points": [
+    "sharp objects",
+    "rough play",
+    "playing on the road"
+   ]
+  },
+  {
+   "stem": "Name two things we do before exercise ",
+   "points": [
+    "warm up",
+    "stretch"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is jumping, and how do we land safely?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two things we do with a ball.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a ball game? Name one.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why do we sleep?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is exercise? Name two good things it does.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

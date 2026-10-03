@@ -1,0 +1,383 @@
+{
+ "subject": "English Language · english-language",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "\"Sh\" says ___ as in \"ship\"",
+   "answer": "/sh/",
+   "distractors": [
+    "/s/",
+    "/h/",
+    "/ch/"
+   ]
+  },
+  {
+   "stem": "\"Ch\" says ___ as in \"chair\"",
+   "answer": "/ch/",
+   "distractors": [
+    "/c/",
+    "/h/",
+    "/sh/"
+   ]
+  },
+  {
+   "stem": "We read words like ___",
+   "answer": "shop",
+   "distractors": [
+    "stone",
+    "star",
+    "stop"
+   ]
+  },
+  {
+   "stem": "Reading helps us learn new ___",
+   "answer": "words",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "A sentence starts with a ___ letter",
+   "answer": "capital",
+   "distractors": [
+    "small",
+    "big",
+    "tiny"
+   ]
+  },
+  {
+   "stem": "A sentence ends with a ___",
+   "answer": "full stop",
+   "distractors": [
+    "question mark",
+    "comma",
+    "dash"
+   ]
+  },
+  {
+   "stem": "We write like \"The cat is ___.\"",
+   "answer": "black",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We speak in full ___",
+   "answer": "sentences",
+   "distractors": [
+    "words",
+    "letters",
+    "sounds"
+   ]
+  },
+  {
+   "stem": "Understanding what we read is ___",
+   "answer": "comprehension",
+   "distractors": [
+    "confusion",
+    "sleeping",
+    "eating"
+   ]
+  },
+  {
+   "stem": "We read a ___ (a short story)",
+   "answer": "passage",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We answer ___ about the passage",
+   "answer": "questions",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We find the answers in the ___",
+   "answer": "passage",
+   "distractors": [
+    "sky",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We say \"I ___\" not \"I is\"",
+   "answer": "am",
+   "distractors": [
+    "is",
+    "are",
+    "was"
+   ]
+  },
+  {
+   "stem": "We say \"He ___\" not \"He are\"",
+   "answer": "is",
+   "distractors": [
+    "am",
+    "are",
+    "was"
+   ]
+  },
+  {
+   "stem": "We say \"They ___\" not \"They is\"",
+   "answer": "are",
+   "distractors": [
+    "am",
+    "is",
+    "was"
+   ]
+  },
+  {
+   "stem": "We ask ___ like \"What is your name?\"",
+   "answer": "questions",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "The words we know is our ___",
+   "answer": "vocabulary",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We learn ___ words every day",
+   "answer": "new",
+   "distractors": [
+    "old",
+    "same",
+    "no"
+   ]
+  },
+  {
+   "stem": "We read to learn new ___",
+   "answer": "words",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We use new words in ___",
+   "answer": "sentences",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "A group of sentences about one thing is a ___",
+   "answer": "paragraph",
+   "distractors": [
+    "word",
+    "letter",
+    "sound"
+   ]
+  },
+  {
+   "stem": "We write paragraphs about ___",
+   "answer": "topics",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We use ___ letters and full stops",
+   "answer": "capital",
+   "distractors": [
+    "small",
+    "big",
+    "tiny"
+   ]
+  },
+  {
+   "stem": "We write ___",
+   "answer": "clearly",
+   "distractors": [
+    "noisily",
+    "slowly",
+    "badly"
+   ]
+  },
+  {
+   "stem": "We ___ carefully when others talk",
+   "answer": "listen",
+   "distractors": [
+    "sleep",
+    "eat",
+    "run"
+   ]
+  },
+  {
+   "stem": "We speak in full ___",
+   "answer": "sentences",
+   "distractors": [
+    "words",
+    "letters",
+    "sounds"
+   ]
+  },
+  {
+   "stem": "We follow ___",
+   "answer": "instructions",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "Listening and speaking help us ___",
+   "answer": "learn",
+   "distractors": [
+    "sleep",
+    "eat",
+    "run"
+   ]
+  },
+  {
+   "stem": "We read ___ (smoothly and clearly)",
+   "answer": "fluently",
+   "distractors": [
+    "slowly",
+    "noisily",
+    "badly"
+   ]
+  },
+  {
+   "stem": "We write ___",
+   "answer": "neatly",
+   "distractors": [
+    "messily",
+    "badly",
+    "noisily"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two words with \"sh\" ",
+   "points": [
+    "ship",
+    "shop",
+    "shine",
+    "short"
+   ]
+  },
+  {
+   "stem": "Name two words with \"ch\" ",
+   "points": [
+    "chair",
+    "chip",
+    "chin",
+    "chat"
+   ]
+  },
+  {
+   "stem": "Write two sentences about your family ",
+   "points": [
+    "My father is tall",
+    "My mother is kind"
+   ]
+  },
+  {
+   "stem": "Ask two questions ",
+   "points": [
+    "What is your name?",
+    "How old are you?"
+   ]
+  },
+  {
+   "stem": "Name two new words you learnt ",
+   "points": [
+    "vocabulary",
+    "comprehension",
+    "phonics"
+   ]
+  },
+  {
+   "stem": "Write one paragraph about your family ",
+   "points": [
+    "My family is small",
+    "We love each other"
+   ]
+  },
+  {
+   "stem": "Follow two instructions ",
+   "points": [
+    "Sit down",
+    "Open your book"
+   ]
+  },
+  {
+   "stem": "Write two words neatly ",
+   "points": [
+    "neatly",
+    "clearly"
+   ]
+  },
+  {
+   "stem": "Name two words with \"th\" ",
+   "points": [
+    "this",
+    "that",
+    "think",
+    "thank"
+   ]
+  },
+  {
+   "stem": "Write what a sentence is ",
+   "points": [
+    "A group of words that makes sense",
+    "A complete thought"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is phonics? Name two words with \"sh\".",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a sentence? Write one sentence.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is comprehension? Where do we find the answers?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is grammar? Write: \"I ___\" or \"He ___\".",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a paragraph? Write one paragraph about your family.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+# Basic Science — Primary 1 · Second Term · term paper
+subject: Basic Science
+class: Primary 1
+term: 2nd Term
+
+[objective]
+The part that holds a plant and takes in water is the ___ || root || leaf || flower || fruit
+The ___ makes food for the plant || leaf || stem || root || seed
+Plants need water, air, sunlight and ___ || soil || stone || plastic || smoke
+The bright part that can become a fruit is the ___ || flower || root || stem || bark
+An animal that lives with us at home is a ___ animal || domestic || wild || water || flying
+The lion is a ___ animal || wild || domestic || pet || farm
+The fish lives in ___ || water || air || sand || tree
+Animals give us meat, eggs and ___ || milk || stone || wood || sand
+We see with our ___ || eyes || ears || nose || tongue
+We hear with our ___ || ears || eyes || skin || nose
+We smell with our ___ || nose || tongue || eyes || ears
+We taste with our ___ || tongue || skin || ears || eyes
+Tiny things that can make us sick are ___ || germs || foods || clothes || toys
+We wash our hands with soap and ___ || water || sand || oil || ink
+We brush our teeth in the morning and at ___ || night || noon || dawn || dusk
+Germs spread through dirty hands, flies and bad ___ || food || air || songs || light
+We get water from the tap, well, river and ___ || rain || stone || fire || sand
+Water has no colour and no ___ || taste || smell || use || shape
+We use water to drink, bathe, cook and ___ || wash || burn || break || hide
+Dirty water can make us ___ || sick || strong || tall || happy
+How the air is on a day is the ___ || weather || season || water || soil
+On a rainy day we use an ___ || umbrella || fan || oven || ink
+Nigeria has the dry season and the ___ season || rainy || hot || cold || dark
+On a ___ day the sun shines || sunny || rainy || cloudy || windy
+The biggest source of light is the ___ || sun || moon || star || lamp
+A ___ gives light || torch || drum || bell || voice
+A drum makes ___ || sound || light || heat || water
+Very loud sound can hurt our ___ || ears || eyes || nose || teeth
+The sun shines in the ___ || day || night || evening || dark
+The ___ shines at night || moon || sun || cloud || rainbow
+
+[subobjective]
+Name two parts of a plant :: root | leaf | stem | flower
+Name two things plants need to grow :: water | sunlight | soil | air
+Name two domestic animals :: dog | cat | goat | hen
+Name two wild animals :: lion | elephant | monkey
+Name two sense organs :: eye | ear | nose | tongue | skin
+Name two ways to keep the body clean :: bathing | washing hands | brushing teeth
+Name two sources of water :: tap | well | river | rain
+Name two types of weather :: sunny | rainy | cloudy | windy
+Name two sources of light :: sun | lamp | torch | candle
+Name two things we see in the sky :: sun | moon | stars | clouds
+
+[theory]
+Name two parts of a plant and what each does. || 2
+What is the difference between a domestic and a wild animal? || 2
+Name the five sense organs. || 2
+Say two ways to keep your body clean. || 2
+Name two sources of water and two uses of water. || 2

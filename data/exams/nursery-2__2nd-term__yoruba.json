@@ -1,0 +1,409 @@
+{
+ "subject": "Yoruba",
+ "class": "Nursery 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "\"Papá ìdárayá\" in our school means the ___",
+   "answer": "playground",
+   "distractors": [
+    "kitchen",
+    "fence",
+    "garden"
+   ]
+  },
+  {
+   "stem": "The Yoruba word for a book is ___",
+   "answer": "ìwé",
+   "distractors": [
+    "tébèèlì",
+    "pátákó",
+    "ọ̀nà"
+   ]
+  },
+  {
+   "stem": "\"Ọ̀giri\" is the ___",
+   "answer": "fence round a place",
+   "distractors": [
+    "roof of a house",
+    "door of a class",
+    "bag of a pupil"
+   ]
+  },
+  {
+   "stem": "The Yoruba for goat is ___",
+   "answer": "ewúrẹ́",
+   "distractors": [
+    "àdìẹ",
+    "màlúù",
+    "agbo"
+   ]
+  },
+  {
+   "stem": "The animal that brings eggs to the house every morning is the ___",
+   "answer": "àdìẹ",
+   "distractors": [
+    "ewúrẹ́",
+    "ọ̀wọ́ọ̀n",
+    "oúnjẹ"
+   ]
+  },
+  {
+   "stem": "The Yoruba for twenty is ___",
+   "answer": "ogún",
+   "distractors": [
+    "ẹ́wọ́",
+    "ọ̀kànlá",
+    "àárún"
+   ]
+  },
+  {
+   "stem": "\"Ọ̀kànlá\" is the number ___",
+   "answer": "eleven",
+   "distractors": [
+    "fifteen",
+    "eighteen",
+    "twelve"
+   ]
+  },
+  {
+   "stem": "The number between 14 and 16 in Yoruba is ___",
+   "answer": "mẹ́rìndínlógún (ẹ̀rìnlá)",
+   "distractors": [
+    "mẹ́tàlá (ẹ̀tálá)",
+    "ọ̀kànlá",
+    "ogún"
+   ]
+  },
+  {
+   "stem": "Which of these letters is NOT used in writing Yoruba?",
+   "answer": "q",
+   "distractors": [
+    "gb",
+    "ṣ",
+    "ń"
+   ]
+  },
+  {
+   "stem": "The letters made by joining two sounds in Yoruba include gb and ___",
+   "answer": "j",
+   "distractors": [
+    "c",
+    "v",
+    "x"
+   ]
+  },
+  {
+   "stem": "The seven vowels of the Yoruba alphabet are a, e, ẹ, i, o, ọ and ___",
+   "answer": "u",
+   "distractors": [
+    "ü",
+    "y only",
+    "w"
+   ]
+  },
+  {
+   "stem": "The Yoruba word for water is ___",
+   "answer": "omi",
+   "distractors": [
+    "inú",
+    "ilé",
+    "ọ̀nà"
+   ]
+  },
+  {
+   "stem": "\"Ìyan\" is food made from ___",
+   "answer": "pounded yam",
+   "distractors": [
+    "roasted maize",
+    "fried beans",
+    "boiled rice"
+   ]
+  },
+  {
+   "stem": "The soup made from melon seed is called ___",
+   "answer": "ègúsí",
+   "distractors": [
+    "ẹ̀fẹ́",
+    "ẹ̀wẹ̀dú",
+    "ógọ́rọ́"
+   ]
+  },
+  {
+   "stem": "\"Ọmọlúàbí\" means a child who is ___",
+   "answer": "well brought up",
+   "distractors": [
+    "very rich",
+    "always last",
+    "never taught"
+   ]
+  },
+  {
+   "stem": "\"Ìwà lẹ́wàá\" teaches that true beauty is in the ___",
+   "answer": "character",
+   "distractors": [
+    "face only",
+    "clothes",
+    "shoes"
+   ]
+  },
+  {
+   "stem": "The Yoruba word for the hand is ___",
+   "answer": "ọwọ́",
+   "distractors": [
+    "ẹsẹ̀",
+    "ojú",
+    "etí"
+   ]
+  },
+  {
+   "stem": "At a gathering, a child greets first the ___",
+   "answer": "eldest person present",
+   "distractors": [
+    "smallest child",
+    "visitor at the gate",
+    "driver outside"
+   ]
+  },
+  {
+   "stem": "When an elder is speaking to the assembly, a child should ___",
+   "answer": "stand or sit quite quiet and listen",
+   "distractors": [
+    "add his own noise to the talk",
+    "walk out and go and play ball",
+    "answer the elder very loudly"
+   ]
+  },
+  {
+   "stem": "The opposite of \"ńlá\" (big) in Yoruba is ___",
+   "answer": "kékeré",
+   "distractors": [
+    "gígùn",
+    "tútù",
+    "òkè"
+   ]
+  },
+  {
+   "stem": "The opposite of \"jìnnà\" (far) is ___",
+   "answer": "súnmọ́",
+   "distractors": [
+    "ọ̀tún",
+    "ẹ̀yìn",
+    "gbígbóná"
+   ]
+  },
+  {
+   "stem": "\"Ọ̀tún\" means the ___",
+   "answer": "right side",
+   "distractors": [
+    "left side",
+    "front only",
+    "back only"
+   ]
+  },
+  {
+   "stem": "The story told for children, with a lesson inside, is called ___",
+   "answer": "àlọ́",
+   "distractors": [
+    "ẹ̀wì",
+    "oríkì",
+    "àkọ́"
+   ]
+  },
+  {
+   "stem": "When the teller says \"Àlọ́!\", the class answers ___",
+   "answer": "\"Àlọ́ ni!\"",
+   "distractors": [
+    "\"Ẹ̀ ṣé!\"",
+    "\"Káàlẹ̀!\"",
+    "\"Ọ́ dàbọ̀!\""
+   ]
+  },
+  {
+   "stem": "A fast rhyme of hard sounds that trains the mouth is called ___",
+   "answer": "àròsọ",
+   "distractors": [
+    "ìkíni",
+    "oúnjẹ",
+    "àṣẹjọ"
+   ]
+  },
+  {
+   "stem": "The animal that keeps the house and barks is called ___",
+   "answer": "ajá",
+   "distractors": [
+    "ologbo",
+    "eku",
+    "ẹyẹ"
+   ]
+  },
+  {
+   "stem": "Things we should never do to a farm animal is to ___",
+   "answer": "tie its leg too tight and beat it badly",
+   "distractors": [
+    "always give it clean water daily",
+    "keep its place neat and clean",
+    "give it food at the set time"
+   ]
+  },
+  {
+   "stem": "The song \"Ọmọ tó mọ ìyá rẹ̀ lójú\" teaches a child to ___",
+   "answer": "know his own family",
+   "distractors": [
+    "run far away",
+    "hide his face",
+    "forget his name"
+   ]
+  },
+  {
+   "stem": "\"Ẹ̀ káàbọ̀\" is said when somebody ___",
+   "answer": "arrives",
+   "distractors": [
+    "leaves",
+    "sleeps",
+    "eats"
+   ]
+  },
+  {
+   "stem": "The word for honour or giving respect in Yoruba is ___",
+   "answer": "ìbọ̀wọ̀",
+   "distractors": [
+    "ìkòkò",
+    "ìdí",
+    "ìjọ̀sùn"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name six things in and around the school, in Yoruba. ",
+   "points": [
+    "ìwé",
+    "tébèlì",
+    "pátákó",
+    "ọ̀gbìn",
+    "ògiri",
+    "pápá ìdárayá"
+   ]
+  },
+  {
+   "stem": "Count from ogún down to ọ̀kan in Yoruba. ",
+   "points": [
+    "ogún",
+    "mọ́kànlá (ẹ̀sánlógún)",
+    "mọ́jọ́",
+    "mọ́rùn-ún",
+    "mọ́rin",
+    "mẹ́ta",
+    "méjì",
+    "ọ̀kan"
+   ]
+  },
+  {
+   "stem": "Name five foods of the Yoruba home and one soup. ",
+   "points": [
+    "ìyan",
+    "àmàlà",
+    "èbà",
+    "ẹ̀kọ́",
+    "túwò",
+    "ẹ̀fẹ́"
+   ]
+  },
+  {
+   "stem": "Say four greetings with the time they are used. ",
+   "points": [
+    "ẹ̀ káàárọ̀, morning",
+    "ẹ̀ káàṣánṣá, afternoon",
+    "ẹ̀ káàlẹ̀, evening",
+    "ọ́ dàbọ̀, night"
+   ]
+  },
+  {
+   "stem": "Mention five animals a Yoruba home keeps. ",
+   "points": [
+    "ewúrẹ́",
+    "àdìẹ",
+    "àgbo",
+    "màlúù",
+    "àyẹ̀yẹ́"
+   ]
+  },
+  {
+   "stem": "Write the seven vowels of the Yoruba alphabet. ",
+   "points": [
+    "a",
+    "e",
+    "ẹ",
+    "i",
+    "o",
+    "ọ",
+    "u"
+   ]
+  },
+  {
+   "stem": "Name four duties of each: father, mother, children and grandparents. ",
+   "points": [
+    "providing and protecting",
+    "cooking and teaching",
+    "obeying and helping",
+    "advising and telling stories"
+   ]
+  },
+  {
+   "stem": "Give six opposite word pairs in Yoruba. ",
+   "points": [
+    "ńlá-kékeré",
+    "gígùn-kúkúrú",
+    "jìnnà-súnmọ́",
+    "òkè-ìsàlẹ̀",
+    "gbígbóná-tútù",
+    "funfun-dúdú"
+   ]
+  },
+  {
+   "stem": "Say the parts of an àlọ́ story in order. ",
+   "points": [
+    "ìbẹ̀rẹ̀",
+    "àárín",
+    "ìparí",
+    "ẹ̀kọ́"
+   ]
+  },
+  {
+   "stem": "Mention three songs of this term and what one of them teaches. ",
+   "points": [
+    "Ọmọ tó mọ ìyá rẹ̀ lójú",
+    "Ọmọ rere",
+    "Ìyá ọwọ́, bàbá ọwọ́ — honour to parents"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Name the things round the school in Yoruba and write two sentences on your classroom.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Count in Yoruba from eleven to twenty, and write the two ways of saying nineteen.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on the food of your home: name five dishes and say how two of them are paired with soup.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain who an ọmọlúàbí is and mention five of his marks.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Tell a short àlọ́ in Yoruba or English with its call, its answer and the lesson it teaches.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

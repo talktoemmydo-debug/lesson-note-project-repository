@@ -1,0 +1,389 @@
+{
+ "subject": "Prevocational Studies",
+ "class": "Primary 1",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A place where we grow plants is a ___",
+   "answer": "garden",
+   "distractors": [
+    "road",
+    "roof",
+    "desk"
+   ]
+  },
+  {
+   "stem": "We put a ___ in the soil to grow a plant",
+   "answer": "seed",
+   "distractors": [
+    "stone",
+    "nail",
+    "cloth"
+   ]
+  },
+  {
+   "stem": "A seed grows into a ___",
+   "answer": "seedling",
+   "distractors": [
+    "stone",
+    "bird",
+    "fish"
+   ]
+  },
+  {
+   "stem": "We water the seed every ___",
+   "answer": "day",
+   "distractors": [
+    "year",
+    "month",
+    "never"
+   ]
+  },
+  {
+   "stem": "A plant that grows where we do not want it is a ___",
+   "answer": "weed",
+   "distractors": [
+    "crop",
+    "tree",
+    "flower"
+   ]
+  },
+  {
+   "stem": "We ___ crops so they do not dry",
+   "answer": "water",
+   "distractors": [
+    "hide",
+    "burn",
+    "cut"
+   ]
+  },
+  {
+   "stem": "Weeds take food and ___ from the crop",
+   "answer": "water",
+   "distractors": [
+    "air",
+    "light",
+    "sound"
+   ]
+  },
+  {
+   "stem": "We harvest crops when they are ___",
+   "answer": "ripe",
+   "distractors": [
+    "green",
+    "dry",
+    "lost"
+   ]
+  },
+  {
+   "stem": "The young of a cow is a ___",
+   "answer": "calf",
+   "distractors": [
+    "kid",
+    "lamb",
+    "puppy"
+   ]
+  },
+  {
+   "stem": "The young of a goat is a ___",
+   "answer": "kid",
+   "distractors": [
+    "calf",
+    "chick",
+    "kitten"
+   ]
+  },
+  {
+   "stem": "The young of a hen is a ___",
+   "answer": "chick",
+   "distractors": [
+    "lamb",
+    "puppy",
+    "calf"
+   ]
+  },
+  {
+   "stem": "The young of a dog is a ___",
+   "answer": "puppy",
+   "distractors": [
+    "kitten",
+    "lamb",
+    "chick"
+   ]
+  },
+  {
+   "stem": "We wash fruits before we ___ them",
+   "answer": "eat",
+   "distractors": [
+    "hide",
+    "throw",
+    "burn"
+   ]
+  },
+  {
+   "stem": "We can peel and ___ a fruit",
+   "answer": "slice",
+   "distractors": [
+    "break",
+    "lose",
+    "hide"
+   ]
+  },
+  {
+   "stem": "A plate of mixed fruits is a fruit ___",
+   "answer": "salad",
+   "distractors": [
+    "stone",
+    "soup",
+    "sand"
+   ]
+  },
+  {
+   "stem": "We wash our ___ before touching food",
+   "answer": "hands",
+   "distractors": [
+    "shoes",
+    "hair",
+    "books"
+   ]
+  },
+  {
+   "stem": "We ___ the classroom floor with a broom",
+   "answer": "sweep",
+   "distractors": [
+    "hide",
+    "break",
+    "lose"
+   ]
+  },
+  {
+   "stem": "We put paper waste in the ___",
+   "answer": "dustbin",
+   "distractors": [
+    "river",
+    "road",
+    "desk"
+   ]
+  },
+  {
+   "stem": "A clean school keeps ___ away",
+   "answer": "germs",
+   "distractors": [
+    "food",
+    "music",
+    "light"
+   ]
+  },
+  {
+   "stem": "A thing we no longer need is ___",
+   "answer": "waste",
+   "distractors": [
+    "food",
+    "money",
+    "a friend"
+   ]
+  },
+  {
+   "stem": "We can reuse a bottle to hold ___",
+   "answer": "water",
+   "distractors": [
+    "fire",
+    "smoke",
+    "stones"
+   ]
+  },
+  {
+   "stem": "Reusing waste keeps the environment ___",
+   "answer": "clean",
+   "distractors": [
+    "dirty",
+    "loud",
+    "dark"
+   ]
+  },
+  {
+   "stem": "Sewing is joining cloth with a needle and ___",
+   "answer": "thread",
+   "distractors": [
+    "water",
+    "glue",
+    "stone"
+   ]
+  },
+  {
+   "stem": "We use a ___ to sew",
+   "answer": "needle",
+   "distractors": [
+    "hammer",
+    "spoon",
+    "fork"
+   ]
+  },
+  {
+   "stem": "We can sew a ___ on a shirt",
+   "answer": "button",
+   "distractors": [
+    "stone",
+    "leaf",
+    "nail"
+   ]
+  },
+  {
+   "stem": "We use the needle with great ___",
+   "answer": "care",
+   "distractors": [
+    "haste",
+    "anger",
+    "noise"
+   ]
+  },
+  {
+   "stem": "The work a person does is a ___",
+   "answer": "job",
+   "distractors": [
+    "game",
+    "song",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "A ___ grows food",
+   "answer": "farmer",
+   "distractors": [
+    "tailor",
+    "driver",
+    "nurse"
+   ]
+  },
+  {
+   "stem": "A ___ sews clothes",
+   "answer": "tailor",
+   "distractors": [
+    "farmer",
+    "doctor",
+    "trader"
+   ]
+  },
+  {
+   "stem": "A ___ cares for the sick",
+   "answer": "nurse",
+   "distractors": [
+    "carpenter",
+    "driver",
+    "farmer"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things we do to plant a seed ",
+   "points": [
+    "dig the soil",
+    "put the seed in",
+    "cover it",
+    "water it"
+   ]
+  },
+  {
+   "stem": "Name two ways we care for crops ",
+   "points": [
+    "watering",
+    "weeding",
+    "protecting from pests"
+   ]
+  },
+  {
+   "stem": "Name two animals and their young ",
+   "points": [
+    "cow and calf",
+    "goat and kid",
+    "hen and chick"
+   ]
+  },
+  {
+   "stem": "Name two fruits we eat ",
+   "points": [
+    "banana",
+    "orange",
+    "mango"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep the school clean ",
+   "points": [
+    "sweeping",
+    "picking up paper",
+    "washing the board"
+   ]
+  },
+  {
+   "stem": "Name two things we can reuse ",
+   "points": [
+    "bottle",
+    "tin",
+    "paper",
+    "old box"
+   ]
+  },
+  {
+   "stem": "Name two things we can sew or mend ",
+   "points": [
+    "a button",
+    "a small tear",
+    "a simple bag"
+   ]
+  },
+  {
+   "stem": "Name two jobs in the community ",
+   "points": [
+    "farming",
+    "teaching",
+    "tailoring",
+    "nursing"
+   ]
+  },
+  {
+   "stem": "Name two tools for sewing ",
+   "points": [
+    "needle",
+    "thread"
+   ]
+  },
+  {
+   "stem": "Name two things animals give us ",
+   "points": [
+    "meat",
+    "milk",
+    "eggs",
+    "wool"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a garden, and what do we plant in it?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two ways we care for crops.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the young of a cow and a hen.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why do we reuse waste?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two jobs in the community and what each does.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

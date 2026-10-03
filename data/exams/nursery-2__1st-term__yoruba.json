@@ -1,0 +1,407 @@
+{
+ "subject": "Yoruba",
+ "class": "Nursery 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "\"Yàrá ìkáwé\" in English is the ___",
+   "answer": "classroom",
+   "distractors": [
+    "dining room",
+    "reading room",
+    "sleeping room"
+   ]
+  },
+  {
+   "stem": "The Yoruba name for the table is ___",
+   "answer": "tébèèlì",
+   "distractors": [
+    "ìgáòkó",
+    "pátákó",
+    "ẹlẹ́dọ̀tí"
+   ]
+  },
+  {
+   "stem": "The board in the class is called ___",
+   "answer": "pátákó",
+   "distractors": [
+    "tébèèlì",
+    "bẹ́ẹ̀dì",
+    "ìwé"
+   ]
+  },
+  {
+   "stem": "\"Ẹlẹ́dọ̀tí\" is the thing we use to ___",
+   "answer": "rub out a mistake",
+   "distractors": [
+    "cut a page",
+    "write a letter",
+    "clean the floor"
+   ]
+  },
+  {
+   "stem": "\"Good morning\" in Yoruba is ___",
+   "answer": "Ẹ̀ káàárọ̀",
+   "distractors": [
+    "Ẹ̀ káàlẹ̀",
+    "Ẹ̀ káàṣánṣá",
+    "Ẹ̀ máàdọ́rùn"
+   ]
+  },
+  {
+   "stem": "\"Good afternoon\" is said as ___",
+   "answer": "Ẹ̀ káàṣánṣá",
+   "distractors": [
+    "Ẹ̀ káàárọ̀",
+    "Ọ́ dàbọ̀",
+    "Ẹ ṣé"
+   ]
+  },
+  {
+   "stem": "We greet an elder at night with ___",
+   "answer": "Ẹ̀ máàdọ́rùn",
+   "distractors": [
+    "Ẹ̀ káàárọ̀",
+    "Ọ́ nàṣẹ́",
+    "Àlàáfíà ni"
+   ]
+  },
+  {
+   "stem": "A boy greets an elder by ___",
+   "answer": "ìdòbì (prostration)",
+   "distractors": [
+    "ìkúnlẹ̀ (kneeling)",
+    "standing and waving",
+    "clapping the hands twice"
+   ]
+  },
+  {
+   "stem": "A girl greets an elder by ___",
+   "answer": "ìkúnlẹ̀ (kneeling)",
+   "distractors": [
+    "ìdòbì (prostration)",
+    "jumping once",
+    "running to the door"
+   ]
+  },
+  {
+   "stem": "The reply to \"Ọ́ dàbọ̀\" is ___",
+   "answer": "\"Ọ́ dábọ̀, ààbọ̀\"",
+   "distractors": [
+    "\"Ẹ ṣé gan-an\"",
+    "\"Bákan náà\"",
+    "\"Ààbọ̀ ni ọla\""
+   ]
+  },
+  {
+   "stem": "Numbers: the Yoruba word for 5 is ___",
+   "answer": "àárún",
+   "distractors": [
+    "ẹ̀fà",
+    "ẹ̀sán",
+    "ẹ̀jọ"
+   ]
+  },
+  {
+   "stem": "\"Ẹ̀wá\" is the number ___",
+   "answer": "ten",
+   "distractors": [
+    "eight",
+    "four",
+    "nine"
+   ]
+  },
+  {
+   "stem": "Counting backwards from ẹ̀wá, the next word is ___",
+   "answer": "ẹ̀sán",
+   "distractors": [
+    "ẹ̀ta",
+    "àárún",
+    "ọ̀kan"
+   ]
+  },
+  {
+   "stem": "\"Mẹ́ta ni mo ní\" means ___",
+   "answer": "I have three",
+   "distractors": [
+    "I am three years old",
+    "I saw three",
+    "I want three"
+   ]
+  },
+  {
+   "stem": "\"Ìwà lẹ́wàá\" teaches that ___",
+   "answer": "good character is the true beauty",
+   "distractors": [
+    "a fine face is everything",
+    "money is the greatest wealth",
+    "speed wins the race"
+   ]
+  },
+  {
+   "stem": "An orin ìkìlọ̀ is a song that ___",
+   "answer": "warns children away from bad things",
+   "distractors": [
+    "welcomes a newborn baby",
+    "praises a chief at his gate",
+    "counts the days of the week"
+   ]
+  },
+  {
+   "stem": "The Yoruba alphabet has letters ___",
+   "answer": "twenty-five in all: 18 consonants and 7 vowels",
+   "distractors": [
+    "twenty-six in all: 20 consonants and 6 vowels",
+    "twenty-four in all: 17 consonants and 7 vowels",
+    "thirty letters in all"
+   ]
+  },
+  {
+   "stem": "The seven vowels of Yoruba are ___",
+   "answer": "a, e, ẹ, i, o, ọ, u",
+   "distractors": [
+    "a, e, i, o, u, w, y",
+    "a, b, c, d, e, f, g",
+    "e, ẹ, i, o, ọ, u, n"
+   ]
+  },
+  {
+   "stem": "Which letter is NOT in the Yoruba alphabet?",
+   "answer": "c",
+   "distractors": [
+    "b",
+    "d",
+    "ń"
+   ]
+  },
+  {
+   "stem": "The two letters that are written as pairs are ___",
+   "answer": "gb and ṣ",
+   "distractors": [
+    "kp and q",
+    "sh and th",
+    "ch and ph"
+   ]
+  },
+  {
+   "stem": "\"Ọjọ́ Àìkú\" is the day we call ___",
+   "answer": "Sunday",
+   "distractors": [
+    "Friday",
+    "Wednesday",
+    "Saturday"
+   ]
+  },
+  {
+   "stem": "Tuesday in Yoruba is ___",
+   "answer": "Ọjọ́ Ìṣẹ́gun",
+   "distractors": [
+    "Ọjọ́ Bọ̀ṣẹ̀",
+    "Ọjọ́ Ẹtì",
+    "Ọjọ́ Ajé"
+   ]
+  },
+  {
+   "stem": "The seven days of the week end with ___",
+   "answer": "Ọjọ́ Àbámẹ́ta",
+   "distractors": [
+    "Ọjọ́-rúkú-ọ̀jọ́",
+    "Ọjọ́ Àìkú",
+    "Ọjọ́ Ìṣẹ́gun"
+   ]
+  },
+  {
+   "stem": "The first eight letters of the Yoruba alphabet, in order, are ___",
+   "answer": "a, b, d, e, ẹ, f, g, gb",
+   "distractors": [
+    "a, b, c, d, e, f, g, h",
+    "a, e, ẹ, i, o, ọ, u, b",
+    "b, d, f, g, gb, h, j, k"
+   ]
+  },
+  {
+   "stem": "Action words: \"jẹ\" means ___",
+   "answer": "eat",
+   "distractors": [
+    "drink",
+    "sleep",
+    "come"
+   ]
+  },
+  {
+   "stem": "Do not mix them up: \"mu\" is used for ___",
+   "answer": "drink",
+   "distractors": [
+    "food",
+    "book",
+    "water only"
+   ]
+  },
+  {
+   "stem": "\"Kí ni o ń ṣe?\" is asked when we want to know",
+   "answer": "what somebody is doing",
+   "distractors": [
+    "where somebody lives",
+    "how old somebody is",
+    "who somebody greeted"
+   ]
+  },
+  {
+   "stem": "The sentence pattern we learnt is ___",
+   "answer": "Mo + action + thing",
+   "distractors": [
+    "Thing + action + Mo",
+    "Action + Mo + thing",
+    "Mo + thing + action"
+   ]
+  },
+  {
+   "stem": "\"Ọ́ nàṣẹ́\" is a greeting for a person who is ___",
+   "answer": "at work",
+   "distractors": [
+    "at rest",
+    "at school",
+    "just born"
+   ]
+  },
+  {
+   "stem": "The Yoruba word for a farmer is ___",
+   "answer": "agbẹ̀",
+   "distractors": [
+    "ọ̀dẹ̀",
+    "akọ́",
+    "alagbe"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name five things in the classroom in Yoruba. ",
+   "points": [
+    "tébèèlì",
+    "ìgáòkó",
+    "pátákó",
+    "ìwé",
+    "ìyàgà",
+    "ẹlẹ́dọ̀tí"
+   ]
+  },
+  {
+   "stem": "Say the three greetings for morning, afternoon and evening. ",
+   "points": [
+    "Ẹ̀ káàárọ̀",
+    "Ẹ̀ káàṣánṣá",
+    "Ẹ̀ káàlẹ̀"
+   ]
+  },
+  {
+   "stem": "Mention four ways we greet at the right time or place. ",
+   "points": [
+    "Ọ́ dàbọ̀ on return",
+    "Ọ́ nàṣẹ́ at work",
+    "Ẹ̀ máàdọ́rùn at night",
+    "Odún rere at a festival"
+   ]
+  },
+  {
+   "stem": "Count from ọ̀kan to ẹ̀wá. ",
+   "points": [
+    "ọ̀kan",
+    "èjì",
+    "ẹ̀ta",
+    "ẹ̀rin",
+    "àárún",
+    "ẹ̀fà",
+    "ẹ̀je",
+    "ẹ̀jọ",
+    "ẹ̀sán",
+    "ẹ̀wá"
+   ]
+  },
+  {
+   "stem": "State three marks of a child of good character. ",
+   "points": [
+    "tells the truth",
+    "is kind and shares",
+    "obeys, does not steal, returns what he borrowed"
+   ]
+  },
+  {
+   "stem": "Name the seven vowels of the Yoruba alphabet. ",
+   "points": [
+    "a",
+    "e",
+    "ẹ",
+    "i",
+    "o",
+    "ọ",
+    "u"
+   ]
+  },
+  {
+   "stem": "Mention the seven days of the week in Yoruba. ",
+   "points": [
+    "Àìkú",
+    "Ajé",
+    "Ìṣẹ́gun",
+    "Ọjọ́-rúkú-ọ̀jọ́",
+    "Bọ̀ṣẹ̀",
+    "Ẹtì",
+    "Àbámẹ́ta"
+   ]
+  },
+  {
+   "stem": "Give four action words and their meanings. ",
+   "points": [
+    "jẹ eat",
+    "mu drink",
+    "lọ go",
+    "wá come",
+    "sùn sleep",
+    "kà read"
+   ]
+  },
+  {
+   "stem": "State the duties of the father and the elder sibling. ",
+   "points": [
+    "father works, provides money, protects the home",
+    "elder looks after the little ones and carries messages"
+   ]
+  },
+  {
+   "stem": "Name two moonlight games and one rule of safety. ",
+   "points": [
+    "Ìṣekúṣe (hide and seek)",
+    "ring game \"Ẹ̀ ṣe é\"",
+    "stay inside the compound, no sharp sticks"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write the names of six things in your classroom in Yoruba and say what each is used for",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Describe how you greet an elder, a friend and a person at work, and give the reply to each",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write on \"Ìwà lẹ́wàá\": say what it teaches and give three things a child of good character does",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the parts of the body or of the house you keep clean and say how you clean them",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Write two sentences with action words and explain the meaning of the ẹ̀wì \"Iṣẹ́, iṣẹ́ ni ọ̀rẹ́ ẹni\"",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

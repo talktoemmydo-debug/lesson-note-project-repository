@@ -1,0 +1,383 @@
+{
+ "subject": "Physical and Health Education",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Staying steady without falling is ___",
+   "answer": "balance",
+   "distractors": [
+    "sleep",
+    "noise",
+    "dust"
+   ]
+  },
+  {
+   "stem": "Using body parts together is ___",
+   "answer": "coordination",
+   "distractors": [
+    "anger",
+    "hunger",
+    "fear"
+   ]
+  },
+  {
+   "stem": "We can balance on ___ foot",
+   "answer": "one",
+   "distractors": [
+    "no",
+    "a hundred",
+    "zero"
+   ]
+  },
+  {
+   "stem": "We coordinate our eyes and ___ when we catch",
+   "answer": "hands",
+   "distractors": [
+    "ears",
+    "nose",
+    "hair"
+   ]
+  },
+  {
+   "stem": "We strike a ball with the ___",
+   "answer": "hand",
+   "distractors": [
+    "ear",
+    "nose",
+    "hair"
+   ]
+  },
+  {
+   "stem": "We kick a ball with the ___",
+   "answer": "foot",
+   "distractors": [
+    "hand",
+    "head",
+    "ear"
+   ]
+  },
+  {
+   "stem": "We kick with the ___ of the foot",
+   "answer": "inside",
+   "distractors": [
+    "top",
+    "heel",
+    "toe"
+   ]
+  },
+  {
+   "stem": "We ___ the ball as it comes",
+   "answer": "watch",
+   "distractors": [
+    "hide",
+    "lose",
+    "break"
+   ]
+  },
+  {
+   "stem": "A race in teams is a ___ race",
+   "answer": "relay",
+   "distractors": [
+    "solo",
+    "slow",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "The runner passes a ___ to the next",
+   "answer": "baton",
+   "distractors": [
+    "stone",
+    "shoe",
+    "bag"
+   ]
+  },
+  {
+   "stem": "The baton is a small ___",
+   "answer": "stick",
+   "distractors": [
+    "ball",
+    "box",
+    "book"
+   ]
+  },
+  {
+   "stem": "We pass the baton without ___ it",
+   "answer": "dropping",
+   "distractors": [
+    "eating",
+    "burning",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "We swim only with a ___ near",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "pet",
+    "baby"
+   ]
+  },
+  {
+   "stem": "We wear a ___ in a boat",
+   "answer": "life jacket",
+   "distractors": [
+    "hat",
+    "shoe",
+    "bag"
+   ]
+  },
+  {
+   "stem": "We do not go near deep water ___",
+   "answer": "alone",
+   "distractors": [
+    "with friends",
+    "with a grown-up",
+    "in a group"
+   ]
+  },
+  {
+   "stem": "We do not ___ near a pool",
+   "answer": "run",
+   "distractors": [
+    "walk",
+    "sit",
+    "stand"
+   ]
+  },
+  {
+   "stem": "The first help we give to someone hurt is ___ aid",
+   "answer": "first",
+   "distractors": [
+    "last",
+    "no",
+    "slow"
+   ]
+  },
+  {
+   "stem": "For a small cut we wash it and ___ it",
+   "answer": "cover",
+   "distractors": [
+    "hide",
+    "burn",
+    "cut"
+   ]
+  },
+  {
+   "stem": "We use a clean ___ or plaster",
+   "answer": "bandage",
+   "distractors": [
+    "stone",
+    "leaf",
+    "stick"
+   ]
+  },
+  {
+   "stem": "We call a ___ or a doctor for help",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "thief",
+    "baby"
+   ]
+  },
+  {
+   "stem": "We brush our teeth every morning and ___",
+   "answer": "night",
+   "distractors": [
+    "noon",
+    "dawn",
+    "dusk"
+   ]
+  },
+  {
+   "stem": "We use a toothbrush and ___",
+   "answer": "toothpaste",
+   "distractors": [
+    "sand",
+    "oil",
+    "ink"
+   ]
+  },
+  {
+   "stem": "We bathe every day to keep the ___ clean",
+   "answer": "skin",
+   "distractors": [
+    "shoes",
+    "books",
+    "chairs"
+   ]
+  },
+  {
+   "stem": "We use soap and clean ___",
+   "answer": "water",
+   "distractors": [
+    "sand",
+    "oil",
+    "dust"
+   ]
+  },
+  {
+   "stem": "Some things can ___ our body",
+   "answer": "harm",
+   "distractors": [
+    "help",
+    "heal",
+    "feed"
+   ]
+  },
+  {
+   "stem": "We say ___ to harmful things",
+   "answer": "no",
+   "distractors": [
+    "yes",
+    "maybe",
+    "later"
+   ]
+  },
+  {
+   "stem": "We do not take medicine without a ___",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "thief",
+    "baby"
+   ]
+  },
+  {
+   "stem": "We do not go with ___",
+   "answer": "strangers",
+   "distractors": [
+    "teachers",
+    "parents",
+    "friends"
+   ]
+  },
+  {
+   "stem": "The body being strong and well is ___",
+   "answer": "fitness",
+   "distractors": [
+    "sickness",
+    "hunger",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "Games and ___ keep us fit",
+   "answer": "exercise",
+   "distractors": [
+    "sleep",
+    "sitting",
+    "crying"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two balance activities ",
+   "points": [
+    "balancing on one foot",
+    "balancing on a line",
+    "balancing on a beam"
+   ]
+  },
+  {
+   "stem": "Name two ball skills ",
+   "points": [
+    "striking",
+    "kicking",
+    "controlling",
+    "stopping"
+   ]
+  },
+  {
+   "stem": "Name two things we do in a relay race ",
+   "points": [
+    "run",
+    "pass the baton"
+   ]
+  },
+  {
+   "stem": "Name two ways to be safe near water ",
+   "points": [
+    "swim with a grown-up",
+    "wear a life jacket",
+    "do not run near a pool"
+   ]
+  },
+  {
+   "stem": "Name two things we do in first aid ",
+   "points": [
+    "wash a cut",
+    "cover it",
+    "call a grown-up"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for our teeth ",
+   "points": [
+    "brushing",
+    "not eating too many sweets"
+   ]
+  },
+  {
+   "stem": "Name two things that can harm us ",
+   "points": [
+    "sharp objects",
+    "medicine without a grown-up",
+    "strangers"
+   ]
+  },
+  {
+   "stem": "Name two games that keep us fit ",
+   "points": [
+    "football",
+    "tag",
+    "local games"
+   ]
+  },
+  {
+   "stem": "Name two things we use to bathe ",
+   "points": [
+    "soap",
+    "water"
+   ]
+  },
+  {
+   "stem": "Name two ways to stay safe ",
+   "points": [
+    "say no to harm",
+    "tell a grown-up"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is balance?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How do we kick a ball?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a relay race, and what do we pass?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is first aid? Name one thing we do.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two games that keep us fit.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

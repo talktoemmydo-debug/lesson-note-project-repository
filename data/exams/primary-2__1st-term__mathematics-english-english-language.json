@@ -1,0 +1,390 @@
+{
+ "subject": "Mathematics & English · ENGLISH LANGUAGE",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "The letters A to Z are the ___",
+   "answer": "alphabet",
+   "distractors": [
+    "numbers",
+    "colours",
+    "shapes"
+   ]
+  },
+  {
+   "stem": "The sounds of letters are ___",
+   "answer": "phonics",
+   "distractors": [
+    "songs",
+    "stones",
+    "sleeps"
+   ]
+  },
+  {
+   "stem": "In Year One we read simple ___",
+   "answer": "words",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We ___ to remember well",
+   "answer": "revise",
+   "distractors": [
+    "forget",
+    "sleep",
+    "run"
+   ]
+  },
+  {
+   "stem": "A word for a person, place or thing is a ___",
+   "answer": "noun",
+   "distractors": [
+    "verb",
+    "stone",
+    "song"
+   ]
+  },
+  {
+   "stem": "Which of these is a noun?",
+   "answer": "school",
+   "distractors": [
+    "run",
+    "jump",
+    "sing"
+   ]
+  },
+  {
+   "stem": "A proper noun names a ___ person or place",
+   "answer": "special",
+   "distractors": [
+    "common",
+    "broken",
+    "lost"
+   ]
+  },
+  {
+   "stem": "We write a proper noun with a ___ letter",
+   "answer": "capital",
+   "distractors": [
+    "small",
+    "round",
+    "dark"
+   ]
+  },
+  {
+   "stem": "A word that shows action is a ___",
+   "answer": "verb",
+   "distractors": [
+    "noun",
+    "stone",
+    "song"
+   ]
+  },
+  {
+   "stem": "Which of these is a verb?",
+   "answer": "run",
+   "distractors": [
+    "school",
+    "book",
+    "Lagos"
+   ]
+  },
+  {
+   "stem": "\"The boy ___.\" — choose the verb",
+   "answer": "runs",
+   "distractors": [
+    "school",
+    "book",
+    "Kano"
+   ]
+  },
+  {
+   "stem": "We speak ___ so others hear us",
+   "answer": "clearly",
+   "distractors": [
+    "softly only",
+    "noisily",
+    "rudely"
+   ]
+  },
+  {
+   "stem": "Understanding what we read is ___",
+   "answer": "comprehension",
+   "distractors": [
+    "anger",
+    "sleep",
+    "noise"
+   ]
+  },
+  {
+   "stem": "A group of sentences is a ___",
+   "answer": "passage",
+   "distractors": [
+    "stone",
+    "song",
+    "box"
+   ]
+  },
+  {
+   "stem": "We answer ___ about the passage",
+   "answer": "questions",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We write our answers in full ___",
+   "answer": "sentences",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "A word that describes a noun is an ___",
+   "answer": "adjective",
+   "distractors": [
+    "verb",
+    "stone",
+    "song"
+   ]
+  },
+  {
+   "stem": "In \"a big ball\", the adjective is ___",
+   "answer": "big",
+   "distractors": [
+    "ball",
+    "a",
+    "is"
+   ]
+  },
+  {
+   "stem": "Adjectives tell size, colour and ___",
+   "answer": "shape",
+   "distractors": [
+    "noise",
+    "sleep",
+    "food"
+   ]
+  },
+  {
+   "stem": "We put the adjective ___ the noun",
+   "answer": "before",
+   "distractors": [
+    "after",
+    "under",
+    "over"
+   ]
+  },
+  {
+   "stem": "A sentence begins with a ___ letter",
+   "answer": "capital",
+   "distractors": [
+    "small",
+    "round",
+    "dark"
+   ]
+  },
+  {
+   "stem": "A sentence ends with a ___",
+   "answer": "full stop",
+   "distractors": [
+    "comma only",
+    "dash",
+    "star"
+   ]
+  },
+  {
+   "stem": "We use capital letters for ___",
+   "answer": "names",
+   "distractors": [
+    "numbers only",
+    "stones",
+    "trees"
+   ]
+  },
+  {
+   "stem": "We leave a ___ between words",
+   "answer": "space",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "A word that takes the place of a noun is a ___",
+   "answer": "pronoun",
+   "distractors": [
+    "verb",
+    "stone",
+    "song"
+   ]
+  },
+  {
+   "stem": "Which of these is a pronoun?",
+   "answer": "she",
+   "distractors": [
+    "school",
+    "run",
+    "big"
+   ]
+  },
+  {
+   "stem": "\"Amina is kind. ___ helps me.\" — choose the pronoun",
+   "answer": "She",
+   "distractors": [
+    "School",
+    "Run",
+    "Big"
+   ]
+  },
+  {
+   "stem": "Pronouns help us not ___ nouns",
+   "answer": "repeat",
+   "distractors": [
+    "eat",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "How we write with a pen or pencil is ___",
+   "answer": "handwriting",
+   "distractors": [
+    "singing",
+    "running",
+    "eating"
+   ]
+  },
+  {
+   "stem": "We write ___ on the line",
+   "answer": "neatly",
+   "distractors": [
+    "badly",
+    "rudely",
+    "noisily"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things we learnt in Year One ",
+   "points": [
+    "the alphabet",
+    "phonics",
+    "simple words"
+   ]
+  },
+  {
+   "stem": "Name three nouns ",
+   "points": [
+    "boy",
+    "school",
+    "book",
+    "Lagos"
+   ]
+  },
+  {
+   "stem": "Name three verbs ",
+   "points": [
+    "run",
+    "jump",
+    "eat",
+    "read"
+   ]
+  },
+  {
+   "stem": "Name three adjectives ",
+   "points": [
+    "big",
+    "red",
+    "tall",
+    "small"
+   ]
+  },
+  {
+   "stem": "Name two things we find in a passage ",
+   "points": [
+    "who",
+    "what",
+    "where",
+    "main idea"
+   ]
+  },
+  {
+   "stem": "Name two rules for writing a sentence ",
+   "points": [
+    "begin with a capital letter",
+    "end with a full stop"
+   ]
+  },
+  {
+   "stem": "Name three pronouns ",
+   "points": [
+    "he",
+    "she",
+    "it",
+    "they",
+    "we"
+   ]
+  },
+  {
+   "stem": "Name two things we write about ",
+   "points": [
+    "family",
+    "school",
+    "friends"
+   ]
+  },
+  {
+   "stem": "Name two measures of capacity ",
+   "points": [
+    "litres",
+    "millilitres"
+   ]
+  },
+  {
+   "stem": "Name two 3-D shapes ",
+   "points": [
+    "cube",
+    "sphere",
+    "cylinder"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a noun? Name three.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a verb? Name three.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is an adjective? Give one example.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "How does a sentence begin and end?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a pronoun? Name three.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

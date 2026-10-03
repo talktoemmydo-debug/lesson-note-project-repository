@@ -1,0 +1,56 @@
+# Mathematics — Primary 2 · Second Term · term paper
+subject: Mathematics
+class: Primary 2
+term: 2nd Term
+stream: mathematics
+
+[objective]
+23 + 14 = ___ || 37 || 36 || 38 || 35
+45 + 26 = ___ || 71 || 70 || 72 || 69
+We add the ___ first || units || tens || hundreds || thousands
+The answer in addition is called the ___ || sum || difference || product || quotient
+123 + 145 = ___ || 268 || 267 || 269 || 266
+234 + 156 = ___ || 390 || 389 || 391 || 388
+When the units add to 10 or more, we ___ || regroup || stop || forget || hide
+We add the units, then the tens, then the ___ || hundreds || thousands || millions || billions
+45 - 23 = ___ || 22 || 21 || 23 || 20
+67 - 34 = ___ || 33 || 32 || 34 || 31
+We subtract the ___ first || units || tens || hundreds || thousands
+The answer in subtraction is called the ___ || difference || sum || product || quotient
+268 - 145 = ___ || 123 || 122 || 124 || 121
+390 - 156 = ___ || 234 || 233 || 235 || 232
+When we cannot subtract, we ___ || borrow || stop || forget || hide
+We subtract the units, then the tens, then the ___ || hundreds || thousands || millions || billions
+2 × 3 = ___ || 6 || 5 || 7 || 8
+3 × 4 = ___ || 12 || 11 || 13 || 10
+5 × 2 = ___ || 10 || 9 || 11 || 8
+The answer in multiplication is called the ___ || product || sum || difference || quotient
+10 × 3 = ___ || 30 || 29 || 31 || 28
+4 × 5 = ___ || 20 || 19 || 21 || 18
+6 × 2 = ___ || 12 || 11 || 13 || 10
+12 × 2 = ___ || 24 || 23 || 25 || 22
+6 ÷ 2 = ___ || 3 || 2 || 4 || 5
+12 ÷ 3 = ___ || 4 || 3 || 5 || 6
+10 ÷ 2 = ___ || 5 || 4 || 6 || 3
+The answer in division is called the ___ || quotient || sum || difference || product
+20 ÷ 4 = ___ || 5 || 4 || 6 || 3
+24 ÷ 6 = ___ || 4 || 3 || 5 || 6
+
+[subobjective]
+Solve: 34 + 25 :: 59 | fifty-nine
+Solve: 56 + 23 :: 79 | seventy-nine
+Solve: 56 - 23 :: 33 | thirty-three
+Solve: 78 - 45 :: 33 | thirty-three
+Solve: 4 × 3 :: 12 | twelve
+Solve: 5 × 4 :: 20 | twenty
+Solve: 15 ÷ 3 :: 5 | five
+Solve: 20 ÷ 4 :: 5 | five
+Solve: 345 + 123 :: 468 | four hundred and sixty-eight
+Solve: 456 - 123 :: 333 | three hundred and thirty-three
+
+[theory]
+What is addition? Solve: 45 + 26. || 2
+What is subtraction? Solve: 67 - 34. || 2
+What is multiplication? Solve: 3 × 4. || 2
+What is division? Solve: 12 ÷ 3. || 2
+Solve: 123 + 145 and 268 - 145. || 2

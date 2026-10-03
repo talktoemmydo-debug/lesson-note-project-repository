@@ -1,0 +1,392 @@
+{
+ "subject": "Cultural and Creative Arts",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "Making pictures and beautiful things is ___",
+   "answer": "art",
+   "distractors": [
+    "work",
+    "sleep",
+    "noise"
+   ]
+  },
+  {
+   "stem": "We draw with a pencil or ___",
+   "answer": "crayon",
+   "distractors": [
+    "spoon",
+    "stone",
+    "water"
+   ]
+  },
+  {
+   "stem": "We paint with colour and a ___",
+   "answer": "brush",
+   "distractors": [
+    "knife",
+    "stick",
+    "leaf"
+   ]
+  },
+  {
+   "stem": "We draw lines, shapes and ___",
+   "answer": "pictures",
+   "distractors": [
+    "songs",
+    "smells",
+    "sounds"
+   ]
+  },
+  {
+   "stem": "The primary colours are red, blue and ___",
+   "answer": "yellow",
+   "distractors": [
+    "green",
+    "orange",
+    "purple"
+   ]
+  },
+  {
+   "stem": "Red + yellow = ___",
+   "answer": "orange",
+   "distractors": [
+    "green",
+    "purple",
+    "black"
+   ]
+  },
+  {
+   "stem": "Blue + yellow = ___",
+   "answer": "green",
+   "distractors": [
+    "orange",
+    "purple",
+    "white"
+   ]
+  },
+  {
+   "stem": "Red + blue = ___",
+   "answer": "purple",
+   "distractors": [
+    "green",
+    "orange",
+    "brown"
+   ]
+  },
+  {
+   "stem": "Something we make with our hands is a ___",
+   "answer": "craft",
+   "distractors": [
+    "song",
+    "dance",
+    "dream"
+   ]
+  },
+  {
+   "stem": "We model with ___ or plasticine",
+   "answer": "clay",
+   "distractors": [
+    "stone",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We can make pots and cups from ___",
+   "answer": "clay",
+   "distractors": [
+    "air",
+    "smoke",
+    "light"
+   ]
+  },
+  {
+   "stem": "We ___ , paste and shape materials",
+   "answer": "cut",
+   "distractors": [
+    "eat",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Sound made with the voice or instruments is ___",
+   "answer": "music",
+   "distractors": [
+    "noise",
+    "sleep",
+    "food"
+   ]
+  },
+  {
+   "stem": "We make music with our voice by ___",
+   "answer": "singing",
+   "distractors": [
+    "sleeping",
+    "eating",
+    "running"
+   ]
+  },
+  {
+   "stem": "Which of these is a musical instrument?",
+   "answer": "drum",
+   "distractors": [
+    "stone",
+    "chair",
+    "book"
+   ]
+  },
+  {
+   "stem": "Music makes us ___",
+   "answer": "happy",
+   "distractors": [
+    "sad",
+    "angry",
+    "sick"
+   ]
+  },
+  {
+   "stem": "Moving the body to music is ___",
+   "answer": "dance",
+   "distractors": [
+    "sleep",
+    "work",
+    "eating"
+   ]
+  },
+  {
+   "stem": "We dance with our hands, legs and ___",
+   "answer": "body",
+   "distractors": [
+    "stone",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We dance at festivals, parties and ___",
+   "answer": "school",
+   "distractors": [
+    "hospital",
+    "market only",
+    "farm"
+   ]
+  },
+  {
+   "stem": "Dance makes us happy and ___",
+   "answer": "strong",
+   "distractors": [
+    "weak",
+    "sick",
+    "sad"
+   ]
+  },
+  {
+   "stem": "Acting out a story is ___",
+   "answer": "drama",
+   "distractors": [
+    "music",
+    "dance",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "The part we play in a story is a ___",
+   "answer": "role",
+   "distractors": [
+    "song",
+    "stone",
+    "dream"
+   ]
+  },
+  {
+   "stem": "We use our voice and ___ to act",
+   "answer": "body",
+   "distractors": [
+    "water",
+    "fire",
+    "food"
+   ]
+  },
+  {
+   "stem": "We can wear ___ for drama",
+   "answer": "costumes",
+   "distractors": [
+    "stones",
+    "books",
+    "chairs"
+   ]
+  },
+  {
+   "stem": "Things our people make are ___ crafts",
+   "answer": "local",
+   "distractors": [
+    "foreign",
+    "broken",
+    "lost"
+   ]
+  },
+  {
+   "stem": "We make baskets from leaves and ___",
+   "answer": "straw",
+   "distractors": [
+    "stone",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We make pots from ___",
+   "answer": "clay",
+   "distractors": [
+    "air",
+    "smoke",
+    "light"
+   ]
+  },
+  {
+   "stem": "We make clothes from woven cloth called ___",
+   "answer": "aso-oke",
+   "distractors": [
+    "paper",
+    "plastic",
+    "glass"
+   ]
+  },
+  {
+   "stem": "The way of life of a people is ___",
+   "answer": "culture",
+   "distractors": [
+    "noise",
+    "sleep",
+    "rain"
+   ]
+  },
+  {
+   "stem": "Our culture includes language, food, dress and ___",
+   "answer": "dance",
+   "distractors": [
+    "anger",
+    "dust",
+    "fire"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two art tools ",
+   "points": [
+    "pencil",
+    "crayon",
+    "brush",
+    "paint"
+   ]
+  },
+  {
+   "stem": "Name the three primary colours ",
+   "points": [
+    "red",
+    "blue",
+    "yellow"
+   ]
+  },
+  {
+   "stem": "Name two crafts we can make ",
+   "points": [
+    "pots",
+    "baskets",
+    "mats",
+    "beads"
+   ]
+  },
+  {
+   "stem": "Name two musical instruments ",
+   "points": [
+    "drum",
+    "guitar",
+    "piano",
+    "flute"
+   ]
+  },
+  {
+   "stem": "Name two places we dance ",
+   "points": [
+    "festivals",
+    "parties",
+    "school"
+   ]
+  },
+  {
+   "stem": "Name two things we use in drama ",
+   "points": [
+    "voice",
+    "body",
+    "costumes"
+   ]
+  },
+  {
+   "stem": "Name two local crafts ",
+   "points": [
+    "baskets",
+    "mats",
+    "pots",
+    "aso-oke"
+   ]
+  },
+  {
+   "stem": "Name two parts of our culture ",
+   "points": [
+    "language",
+    "food",
+    "dress",
+    "dance"
+   ]
+  },
+  {
+   "stem": "Name two secondary colours ",
+   "points": [
+    "orange",
+    "green",
+    "purple"
+   ]
+  },
+  {
+   "stem": "Name two materials we use for crafts ",
+   "points": [
+    "clay",
+    "paper",
+    "leaves",
+    "straw"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is art? Name two art tools.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name the three primary colours.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a craft? Name one you can make.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is music? Name two musical instruments.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is culture? Name two parts of it.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

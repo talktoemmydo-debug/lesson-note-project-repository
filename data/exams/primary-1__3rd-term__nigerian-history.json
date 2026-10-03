@@ -1,0 +1,393 @@
+{
+ "subject": "Nigerian History",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Freedom to rule ourselves is ___",
+   "answer": "independence",
+   "distractors": [
+    "slavery",
+    "hunger",
+    "noise"
+   ]
+  },
+  {
+   "stem": "Nigeria became independent on 1 October ___",
+   "answer": "1960",
+   "distractors": [
+    "1900",
+    "2000",
+    "1914"
+   ]
+  },
+  {
+   "stem": "Before independence, ___ ruled Nigeria",
+   "answer": "Britain",
+   "distractors": [
+    "Ghana",
+    "Egypt",
+    "Kenya"
+   ]
+  },
+  {
+   "stem": "___ fought for Nigeria's freedom",
+   "answer": "Nnamdi Azikiwe",
+   "distractors": [
+    "a stranger",
+    "a robber",
+    "nobody"
+   ]
+  },
+  {
+   "stem": "Nigeria's first President was ___",
+   "answer": "Nnamdi Azikiwe",
+   "distractors": [
+    "a stranger",
+    "a robber",
+    "nobody"
+   ]
+  },
+  {
+   "stem": "Nigeria's first Prime Minister was ___",
+   "answer": "Abubakar Tafawa Balewa",
+   "distractors": [
+    "Nnamdi Azikiwe",
+    "Obafemi Awolowo",
+    "Ahmadu Bello"
+   ]
+  },
+  {
+   "stem": "___ was a great leader of Nigeria",
+   "answer": "Obafemi Awolowo",
+   "distractors": [
+    "a stranger",
+    "a robber",
+    "nobody"
+   ]
+  },
+  {
+   "stem": "The three major ethnic groups are Hausa, Igbo and ___",
+   "answer": "Yoruba",
+   "distractors": [
+    "Egyptian",
+    "Kenyan",
+    "Ghanian"
+   ]
+  },
+  {
+   "stem": "Many groups living as one is unity in ___",
+   "answer": "diversity",
+   "distractors": [
+    "noise",
+    "dust",
+    "fight"
+   ]
+  },
+  {
+   "stem": "Unity makes Nigeria ___",
+   "answer": "strong",
+   "distractors": [
+    "weak",
+    "poor",
+    "sad"
+   ]
+  },
+  {
+   "stem": "The three major languages are Hausa, Igbo and ___",
+   "answer": "Yoruba",
+   "distractors": [
+    "French",
+    "German",
+    "Spanish"
+   ]
+  },
+  {
+   "stem": "Our official language is ___",
+   "answer": "English",
+   "distractors": [
+    "French",
+    "German",
+    "Latin"
+   ]
+  },
+  {
+   "stem": "We learn ___ at school",
+   "answer": "English",
+   "distractors": [
+    "nothing",
+    "play",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "The old way our people worshipped is ___ religion",
+   "answer": "traditional",
+   "distractors": [
+    "new",
+    "foreign",
+    "strange"
+   ]
+  },
+  {
+   "stem": "Our people believed in a ___ Being",
+   "answer": "Supreme",
+   "distractors": [
+    "small",
+    "weak",
+    "false"
+   ]
+  },
+  {
+   "stem": "They worshipped at ___ and groves",
+   "answer": "shrines",
+   "distractors": [
+    "markets",
+    "roads",
+    "schools"
+   ]
+  },
+  {
+   "stem": "Exchanging one thing for another is ___",
+   "answer": "barter",
+   "distractors": [
+    "sleeping",
+    "fighting",
+    "hiding"
+   ]
+  },
+  {
+   "stem": "People traded salt, cloth and ___ nuts",
+   "answer": "kola",
+   "distractors": [
+    "stone",
+    "sand",
+    "fire"
+   ]
+  },
+  {
+   "stem": "They traded across the Sahara by ___",
+   "answer": "camel",
+   "distractors": [
+    "ship",
+    "plane",
+    "train"
+   ]
+  },
+  {
+   "stem": "Nigeria is in ___ Africa",
+   "answer": "West",
+   "distractors": [
+    "East",
+    "North",
+    "South"
+   ]
+  },
+  {
+   "stem": "Nigeria has ___ states",
+   "answer": "36",
+   "distractors": [
+    "10",
+    "50",
+    "12"
+   ]
+  },
+  {
+   "stem": "The capital of Nigeria is ___",
+   "answer": "Abuja",
+   "distractors": [
+    "Lagos",
+    "Kano",
+    "Ibadan"
+   ]
+  },
+  {
+   "stem": "Nigeria has oil, farms and ___",
+   "answer": "rivers",
+   "distractors": [
+    "deserts",
+    "ice",
+    "nothing"
+   ]
+  },
+  {
+   "stem": "A good Nigerian loves his or her ___",
+   "answer": "country",
+   "distractors": [
+    "enemies",
+    "thieves",
+    "nobody"
+   ]
+  },
+  {
+   "stem": "A good Nigerian obeys the ___",
+   "answer": "laws",
+   "distractors": [
+    "thieves",
+    "robbers",
+    "noise"
+   ]
+  },
+  {
+   "stem": "A good Nigerian respects the flag and ___",
+   "answer": "anthem",
+   "distractors": [
+    "dust",
+    "smoke",
+    "fight"
+   ]
+  },
+  {
+   "stem": "A good Nigerian works hard and is ___",
+   "answer": "honest",
+   "distractors": [
+    "lazy",
+    "rude",
+    "dishonest"
+   ]
+  },
+  {
+   "stem": "We celebrate independence every 1 ___",
+   "answer": "October",
+   "distractors": [
+    "January",
+    "June",
+    "March"
+   ]
+  },
+  {
+   "stem": "Each ethnic group has its own language and ___",
+   "answer": "culture",
+   "distractors": [
+    "enemy",
+    "war",
+    "dust"
+   ]
+  },
+  {
+   "stem": "A good Nigerian helps to ___ the country",
+   "answer": "build",
+   "distractors": [
+    "break",
+    "burn",
+    "hide"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two people who fought for independence ",
+   "points": [
+    "Herbert Macaulay",
+    "Nnamdi Azikiwe"
+   ]
+  },
+  {
+   "stem": "Name two of Nigeria's first leaders ",
+   "points": [
+    "Nnamdi Azikiwe",
+    "Abubakar Tafawa Balewa",
+    "Obafemi Awolowo"
+   ]
+  },
+  {
+   "stem": "Name two ethnic groups in Nigeria ",
+   "points": [
+    "Hausa",
+    "Igbo",
+    "Yoruba",
+    "Ijaw",
+    "Tiv"
+   ]
+  },
+  {
+   "stem": "Name two Nigerian languages ",
+   "points": [
+    "Hausa",
+    "Igbo",
+    "Yoruba",
+    "Ijaw"
+   ]
+  },
+  {
+   "stem": "Name two things about traditional religion ",
+   "points": [
+    "belief in a Supreme Being",
+    "worship at shrines",
+    "ancestors"
+   ]
+  },
+  {
+   "stem": "Name two things people traded in the past ",
+   "points": [
+    "salt",
+    "cloth",
+    "kola nuts",
+    "pottery"
+   ]
+  },
+  {
+   "stem": "Name two things Nigeria has ",
+   "points": [
+    "oil",
+    "farms",
+    "rivers",
+    "schools",
+    "hospitals"
+   ]
+  },
+  {
+   "stem": "Name two duties of a good Nigerian ",
+   "points": [
+    "obey the laws",
+    "respect the flag",
+    "work hard",
+    "keep the environment clean"
+   ]
+  },
+  {
+   "stem": "Name two things that show Nigeria is one country ",
+   "points": [
+    "flag",
+    "anthem",
+    "pledge",
+    "capital"
+   ]
+  },
+  {
+   "stem": "Name two ways we show love for our country ",
+   "points": [
+    "obeying laws",
+    "respecting the flag",
+    "working hard"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is independence, and when did Nigeria get it?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Who was Nigeria's first President?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What does unity in diversity mean?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is barter? Name two things people traded.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two duties of a good Nigerian.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

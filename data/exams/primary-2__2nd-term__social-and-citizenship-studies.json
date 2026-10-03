@@ -1,0 +1,389 @@
+{
+ "subject": "Social and Citizenship Studies",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A place that is safe is a ___ environment",
+   "answer": "secure",
+   "distractors": [
+    "dirty",
+    "dark",
+    "loud"
+   ]
+  },
+  {
+   "stem": "We do not play with ___ or hot things",
+   "answer": "fire",
+   "distractors": [
+    "water",
+    "air",
+    "light"
+   ]
+  },
+  {
+   "stem": "We keep the floor ___ so we do not slip",
+   "answer": "dry",
+   "distractors": [
+    "wet",
+    "dirty",
+    "dark"
+   ]
+  },
+  {
+   "stem": "We tell a ___ if we see danger",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "thief",
+    "baby"
+   ]
+  },
+  {
+   "stem": "The animals and plants in nature are ___",
+   "answer": "wildlife",
+   "distractors": [
+    "stones",
+    "clouds",
+    "stars"
+   ]
+  },
+  {
+   "stem": "Protecting wildlife is ___",
+   "answer": "conservation",
+   "distractors": [
+    "destruction",
+    "pollution",
+    "wasting"
+   ]
+  },
+  {
+   "stem": "We do not ___ animals for no reason",
+   "answer": "kill",
+   "distractors": [
+    "feed",
+    "watch",
+    "draw"
+   ]
+  },
+  {
+   "stem": "We do not cut down ___ where animals live",
+   "answer": "trees",
+   "distractors": [
+    "stones",
+    "clouds",
+    "stars"
+   ]
+  },
+  {
+   "stem": "The good things we believe in are national ___",
+   "answer": "values",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "Telling the truth is ___",
+   "answer": "honesty",
+   "distractors": [
+    "anger",
+    "noise",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "Living together as one is ___",
+   "answer": "unity",
+   "distractors": [
+    "fighting",
+    "noise",
+    "anger"
+   ]
+  },
+  {
+   "stem": "National values make our country ___",
+   "answer": "good",
+   "distractors": [
+    "bad",
+    "sad",
+    "weak"
+   ]
+  },
+  {
+   "stem": "Following a leader is ___",
+   "answer": "followership",
+   "distractors": [
+    "leadership",
+    "sleeping",
+    "eating"
+   ]
+  },
+  {
+   "stem": "A ___ guides; a follower follows",
+   "answer": "leader",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We follow our ___ at school",
+   "answer": "teachers",
+   "distractors": [
+    "pets",
+    "toys",
+    "books"
+   ]
+  },
+  {
+   "stem": "A good follower ___ and helps",
+   "answer": "obeys",
+   "distractors": [
+    "fights",
+    "sleeps",
+    "cries"
+   ]
+  },
+  {
+   "stem": "A family that loves and cares is a ___ family",
+   "answer": "healthy",
+   "distractors": [
+    "broken",
+    "sad",
+    "angry"
+   ]
+  },
+  {
+   "stem": "We ___ our parents and elders",
+   "answer": "respect",
+   "distractors": [
+    "fight",
+    "ignore",
+    "shout at"
+   ]
+  },
+  {
+   "stem": "We ___ our things with one another",
+   "answer": "share",
+   "distractors": [
+    "hide",
+    "break",
+    "burn"
+   ]
+  },
+  {
+   "stem": "We do not ___ or quarrel",
+   "answer": "fight",
+   "distractors": [
+    "sing",
+    "run",
+    "jump"
+   ]
+  },
+  {
+   "stem": "What people hold to be true is their ___",
+   "answer": "belief",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The old ways of our people is our ___",
+   "answer": "tradition",
+   "distractors": [
+    "noise",
+    "sleep",
+    "anger"
+   ]
+  },
+  {
+   "stem": "Some people worship in churches; some in ___",
+   "answer": "mosques",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We ___ other people's beliefs",
+   "answer": "respect",
+   "distractors": [
+    "laugh at",
+    "fight",
+    "ignore"
+   ]
+  },
+  {
+   "stem": "Things we do to help our community are ___ activities",
+   "answer": "civic",
+   "distractors": [
+    "lazy",
+    "rude",
+    "angry"
+   ]
+  },
+  {
+   "stem": "We take part in ___ our environment",
+   "answer": "cleaning",
+   "distractors": [
+    "dirtying",
+    "breaking",
+    "burning"
+   ]
+  },
+  {
+   "stem": "We obey the ___ of our community",
+   "answer": "rules",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "Civic activities make our community ___",
+   "answer": "better",
+   "distractors": [
+    "worse",
+    "sad",
+    "weak"
+   ]
+  },
+  {
+   "stem": "Helping without being paid is ___",
+   "answer": "volunteerism",
+   "distractors": [
+    "laziness",
+    "anger",
+    "noise"
+   ]
+  },
+  {
+   "stem": "A ___ helps because they want to",
+   "answer": "volunteer",
+   "distractors": [
+    "thief",
+    "stranger",
+    "baby"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two ways to keep our environment safe ",
+   "points": [
+    "do not play with fire",
+    "keep the floor dry",
+    "tell a grown-up"
+   ]
+  },
+  {
+   "stem": "Name two local wildlife ",
+   "points": [
+    "birds",
+    "snakes",
+    "monkeys",
+    "butterflies"
+   ]
+  },
+  {
+   "stem": "Name two national values ",
+   "points": [
+    "honesty",
+    "respect",
+    "hard work",
+    "unity",
+    "peace"
+   ]
+  },
+  {
+   "stem": "Name two people we follow ",
+   "points": [
+    "parents",
+    "teachers",
+    "good leaders"
+   ]
+  },
+  {
+   "stem": "Name two ways we show love at home ",
+   "points": [
+    "respect parents",
+    "help one another",
+    "share"
+   ]
+  },
+  {
+   "stem": "Name two traditions of our people ",
+   "points": [
+    "festivals",
+    "dress",
+    "food"
+   ]
+  },
+  {
+   "stem": "Name two civic activities ",
+   "points": [
+    "cleaning the environment",
+    "obeying the rules"
+   ]
+  },
+  {
+   "stem": "Name two ways we can volunteer ",
+   "points": [
+    "clean the environment",
+    "help the sick",
+    "teach others"
+   ]
+  },
+  {
+   "stem": "Name two ways to keep our environment secure ",
+   "points": [
+    "do not talk to strangers",
+    "lock the door",
+    "know the emergency number"
+   ]
+  },
+  {
+   "stem": "Name two things a healthy family does ",
+   "points": [
+    "loves",
+    "cares",
+    "respects",
+    "shares"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a secure environment? Name two ways to keep safe.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is wildlife? What is conservation?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What are national values? Name two.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is followership? What does a good follower do?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is volunteerism? Name two ways we can volunteer.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

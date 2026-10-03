@@ -1,0 +1,376 @@
+{
+ "subject": "Mathematics · mathematics",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "23 + 14 = ___",
+   "answer": "37",
+   "distractors": [
+    "36",
+    "38",
+    "35"
+   ]
+  },
+  {
+   "stem": "45 + 26 = ___",
+   "answer": "71",
+   "distractors": [
+    "70",
+    "72",
+    "69"
+   ]
+  },
+  {
+   "stem": "We add the ___ first",
+   "answer": "units",
+   "distractors": [
+    "tens",
+    "hundreds",
+    "thousands"
+   ]
+  },
+  {
+   "stem": "The answer in addition is called the ___",
+   "answer": "sum",
+   "distractors": [
+    "difference",
+    "product",
+    "quotient"
+   ]
+  },
+  {
+   "stem": "123 + 145 = ___",
+   "answer": "268",
+   "distractors": [
+    "267",
+    "269",
+    "266"
+   ]
+  },
+  {
+   "stem": "234 + 156 = ___",
+   "answer": "390",
+   "distractors": [
+    "389",
+    "391",
+    "388"
+   ]
+  },
+  {
+   "stem": "When the units add to 10 or more, we ___",
+   "answer": "regroup",
+   "distractors": [
+    "stop",
+    "forget",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We add the units, then the tens, then the ___",
+   "answer": "hundreds",
+   "distractors": [
+    "thousands",
+    "millions",
+    "billions"
+   ]
+  },
+  {
+   "stem": "45 - 23 = ___",
+   "answer": "22",
+   "distractors": [
+    "21",
+    "23",
+    "20"
+   ]
+  },
+  {
+   "stem": "67 - 34 = ___",
+   "answer": "33",
+   "distractors": [
+    "32",
+    "34",
+    "31"
+   ]
+  },
+  {
+   "stem": "We subtract the ___ first",
+   "answer": "units",
+   "distractors": [
+    "tens",
+    "hundreds",
+    "thousands"
+   ]
+  },
+  {
+   "stem": "The answer in subtraction is called the ___",
+   "answer": "difference",
+   "distractors": [
+    "sum",
+    "product",
+    "quotient"
+   ]
+  },
+  {
+   "stem": "268 - 145 = ___",
+   "answer": "123",
+   "distractors": [
+    "122",
+    "124",
+    "121"
+   ]
+  },
+  {
+   "stem": "390 - 156 = ___",
+   "answer": "234",
+   "distractors": [
+    "233",
+    "235",
+    "232"
+   ]
+  },
+  {
+   "stem": "When we cannot subtract, we ___",
+   "answer": "borrow",
+   "distractors": [
+    "stop",
+    "forget",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We subtract the units, then the tens, then the ___",
+   "answer": "hundreds",
+   "distractors": [
+    "thousands",
+    "millions",
+    "billions"
+   ]
+  },
+  {
+   "stem": "2 × 3 = ___",
+   "answer": "6",
+   "distractors": [
+    "5",
+    "7",
+    "8"
+   ]
+  },
+  {
+   "stem": "3 × 4 = ___",
+   "answer": "12",
+   "distractors": [
+    "11",
+    "13",
+    "10"
+   ]
+  },
+  {
+   "stem": "5 × 2 = ___",
+   "answer": "10",
+   "distractors": [
+    "9",
+    "11",
+    "8"
+   ]
+  },
+  {
+   "stem": "The answer in multiplication is called the ___",
+   "answer": "product",
+   "distractors": [
+    "sum",
+    "difference",
+    "quotient"
+   ]
+  },
+  {
+   "stem": "10 × 3 = ___",
+   "answer": "30",
+   "distractors": [
+    "29",
+    "31",
+    "28"
+   ]
+  },
+  {
+   "stem": "4 × 5 = ___",
+   "answer": "20",
+   "distractors": [
+    "19",
+    "21",
+    "18"
+   ]
+  },
+  {
+   "stem": "6 × 2 = ___",
+   "answer": "12",
+   "distractors": [
+    "11",
+    "13",
+    "10"
+   ]
+  },
+  {
+   "stem": "12 × 2 = ___",
+   "answer": "24",
+   "distractors": [
+    "23",
+    "25",
+    "22"
+   ]
+  },
+  {
+   "stem": "6 ÷ 2 = ___",
+   "answer": "3",
+   "distractors": [
+    "2",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "stem": "12 ÷ 3 = ___",
+   "answer": "4",
+   "distractors": [
+    "3",
+    "5",
+    "6"
+   ]
+  },
+  {
+   "stem": "10 ÷ 2 = ___",
+   "answer": "5",
+   "distractors": [
+    "4",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "stem": "The answer in division is called the ___",
+   "answer": "quotient",
+   "distractors": [
+    "sum",
+    "difference",
+    "product"
+   ]
+  },
+  {
+   "stem": "20 ÷ 4 = ___",
+   "answer": "5",
+   "distractors": [
+    "4",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "stem": "24 ÷ 6 = ___",
+   "answer": "4",
+   "distractors": [
+    "3",
+    "5",
+    "6"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Solve: 34 + 25 ",
+   "points": [
+    "59",
+    "fifty-nine"
+   ]
+  },
+  {
+   "stem": "Solve: 56 + 23 ",
+   "points": [
+    "79",
+    "seventy-nine"
+   ]
+  },
+  {
+   "stem": "Solve: 56 - 23 ",
+   "points": [
+    "33",
+    "thirty-three"
+   ]
+  },
+  {
+   "stem": "Solve: 78 - 45 ",
+   "points": [
+    "33",
+    "thirty-three"
+   ]
+  },
+  {
+   "stem": "Solve: 4 × 3 ",
+   "points": [
+    "12",
+    "twelve"
+   ]
+  },
+  {
+   "stem": "Solve: 5 × 4 ",
+   "points": [
+    "20",
+    "twenty"
+   ]
+  },
+  {
+   "stem": "Solve: 15 ÷ 3 ",
+   "points": [
+    "5",
+    "five"
+   ]
+  },
+  {
+   "stem": "Solve: 20 ÷ 4 ",
+   "points": [
+    "5",
+    "five"
+   ]
+  },
+  {
+   "stem": "Solve: 345 + 123 ",
+   "points": [
+    "468",
+    "four hundred and sixty-eight"
+   ]
+  },
+  {
+   "stem": "Solve: 456 - 123 ",
+   "points": [
+    "333",
+    "three hundred and thirty-three"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is addition? Solve: 45 + 26.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is subtraction? Solve: 67 - 34.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is multiplication? Solve: 3 × 4.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is division? Solve: 12 ÷ 3.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Solve: 123 + 145 and 268 - 145.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

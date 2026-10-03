@@ -1,0 +1,398 @@
+{
+ "subject": "Mathematics & English · LITERACY (Language Domain)",
+ "class": "Nursery 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A capital letter is used at ___",
+   "answer": "the start of a sentence",
+   "distractors": [
+    "the end of a word",
+    "the middle of a name",
+    "before every small letter"
+   ]
+  },
+  {
+   "stem": "A sentence is written correctly when it begins with ___",
+   "answer": "a capital letter and ends with a full stop",
+   "distractors": [
+    "a small letter and ends with a comma",
+    "capitals on every word",
+    "a full stop and no spaces"
+   ]
+  },
+  {
+   "stem": "The word that is always a capital, wherever it stands, is ___",
+   "answer": "I",
+   "distractors": [
+    "a",
+    "the",
+    "and"
+   ]
+  },
+  {
+   "stem": "The first letter of the name of a month must be ___",
+   "answer": "a capital",
+   "distractors": [
+    "a small letter",
+    "a dot",
+    "crossed"
+   ]
+  },
+  {
+   "stem": "A double consonant in a word means ___",
+   "answer": "the same consonant written twice",
+   "distractors": [
+    "two vowels together",
+    "a silent letter",
+    "three letters, one sound"
+   ]
+  },
+  {
+   "stem": "Which word has a double consonant?",
+   "answer": "rabbit",
+   "distractors": [
+    "table",
+    "spoon",
+    "chair"
+   ]
+  },
+  {
+   "stem": "The sound in \"egg\" is written with ___",
+   "answer": "gg",
+   "distractors": [
+    "cc",
+    "ck",
+    "dd"
+   ]
+  },
+  {
+   "stem": "English writes \"comb\" with a b because ___",
+   "answer": "the b was silent, the spelling stayed",
+   "distractors": [
+    "the letter b is sounded twice over",
+    "it came from a Yoruba root word",
+    "b is always written at word end"
+   ]
+  },
+  {
+   "stem": "A silent letter is a letter that is ___",
+   "answer": "written but not spoken",
+   "distractors": [
+    "spoken twice",
+    "always a vowel",
+    "used to begin a sentence"
+   ]
+  },
+  {
+   "stem": "The long a sound in \"rain\" is written ___",
+   "answer": "ai",
+   "distractors": [
+    "ay",
+    "ea",
+    "ee"
+   ]
+  },
+  {
+   "stem": "The long a sound at the end of a word is usually written ___",
+   "answer": "ay",
+   "distractors": [
+    "ai",
+    "ea",
+    "ee"
+   ]
+  },
+  {
+   "stem": "Which spelling is correct?",
+   "answer": "train",
+   "distractors": [
+    "trane",
+    "trayn",
+    "traine"
+   ]
+  },
+  {
+   "stem": "The words \"bee\", \"tree\" and \"see\" use the sound ___",
+   "answer": "long e with ee",
+   "distractors": [
+    "long a with ai",
+    "short i",
+    "silent e"
+   ]
+  },
+  {
+   "stem": "\"Sea\" and \"see\" sound the same but are ___",
+   "answer": "spelled differently",
+   "distractors": [
+    "both numbers",
+    "both names",
+    "rhyming words"
+   ]
+  },
+  {
+   "stem": "The long i sound in \"night\" is written ___",
+   "answer": "igh",
+   "distractors": [
+    "ie",
+    "y",
+    "eye"
+   ]
+  },
+  {
+   "stem": "\"Boy\" and \"toy\" end with the sound written ___",
+   "answer": "oy",
+   "distractors": [
+    "oi",
+    "ou",
+    "ow"
+   ]
+  },
+  {
+   "stem": "The word \"coin\" is spelled with ___",
+   "answer": "oi in the middle",
+   "distractors": [
+    "oy at the end",
+    "igh",
+    "ie"
+   ]
+  },
+  {
+   "stem": "\"Out\", \"shout\" and \"house\" use the sound written ___",
+   "answer": "ou",
+   "distractors": [
+    "ow",
+    "oi",
+    "ai"
+   ]
+  },
+  {
+   "stem": "\"Cow\", \"how\" and \"now\" end with the sound written ___",
+   "answer": "ow",
+   "distractors": [
+    "ou",
+    "oi",
+    "igh"
+   ]
+  },
+  {
+   "stem": "A trigraph is ___",
+   "answer": "three letters making one sound",
+   "distractors": [
+    "two letters making one sound",
+    "three separate sounds",
+    "a silent letter"
+   ]
+  },
+  {
+   "stem": "\"Care\" and \"chair\" show that ___",
+   "answer": "are and air make the same sound",
+   "distractors": [
+    "are is longer than air is",
+    "air has two vowel sounds",
+    "care has a silent letter c"
+   ]
+  },
+  {
+   "stem": "The trigraph tch is written after ___",
+   "answer": "a short vowel",
+   "distractors": [
+    "a long vowel",
+    "a capital",
+    "a full stop"
+   ]
+  },
+  {
+   "stem": "Which word carries the trigraph ure?",
+   "answer": "picture",
+   "distractors": [
+    "proper",
+    "centre",
+    "little"
+   ]
+  },
+  {
+   "stem": "We use \"an\" before a word that begins with ___",
+   "answer": "a vowel sound",
+   "distractors": [
+    "any letter",
+    "a consonant sound",
+    "a capital only"
+   ]
+  },
+  {
+   "stem": "Which phrase is correct?",
+   "answer": "an honest man",
+   "distractors": [
+    "a honest man",
+    "an house of egg",
+    "some honest mans"
+   ]
+  },
+  {
+   "stem": "\"Give me ____ water\" — the correct word is ___",
+   "answer": "some",
+   "distractors": [
+    "an",
+    "a",
+    "one"
+   ]
+  },
+  {
+   "stem": "Which is correct: \"I have ____ (4) pens\"?",
+   "answer": "four",
+   "distractors": [
+    "for",
+    "fore",
+    "four's"
+   ]
+  },
+  {
+   "stem": "\"There\" and \"their\" are different because ___",
+   "answer": "there is a place, their is belonging",
+   "distractors": [
+    "they sound nothing at all alike",
+    "both of them are number words",
+    "their is a place to sit down"
+   ]
+  },
+  {
+   "stem": "The word \"was\" tells us something that ___",
+   "answer": "already happened",
+   "distractors": [
+    "will happen tomorrow",
+    "is a question",
+    "is a colour"
+   ]
+  },
+  {
+   "stem": "\"Like\" and \"hide\" both have ___",
+   "answer": "a long i sound",
+   "distractors": [
+    "a short i sound",
+    "a silent k",
+    "two full stops"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Write your own name, your town and your country, each with the right first letter. ",
+   "points": [
+    "a name like Bola",
+    "a town like Lagos",
+    "the country Nigeria"
+   ]
+  },
+  {
+   "stem": "Write the seven days of the week, each with a capital first letter. ",
+   "points": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+   ]
+  },
+  {
+   "stem": "Find the double consonants in: ladder, summer, buzz, muffin. ",
+   "points": [
+    "dd",
+    "mm",
+    "zz",
+    "ff"
+   ]
+  },
+  {
+   "stem": "Write the four ways the long a sound is spelled, with one word each. ",
+   "points": [
+    "ai (rain)",
+    "ay (day)",
+    "ea (sea)",
+    "ae (aerial)"
+   ]
+  },
+  {
+   "stem": "Write four words with ee and four with ea. ",
+   "points": [
+    "bee, tree, see, feet",
+    "tea, sea, eat, read"
+   ]
+  },
+  {
+   "stem": "Write three words with igh and three with y for the same sound. ",
+   "points": [
+    "night, light, high",
+    "my, fly, cry"
+   ]
+  },
+  {
+   "stem": "Choose a or an: apple, book, egg, orange, pen, hour. ",
+   "points": [
+    "an apple",
+    "a book",
+    "an egg",
+    "an orange",
+    "a pen",
+    "an hour"
+   ]
+  },
+  {
+   "stem": "Use some, a or an: water, boys, one pen, many eggs. ",
+   "points": [
+    "some water",
+    "some boys",
+    "a pen",
+    "some eggs"
+   ]
+  },
+  {
+   "stem": "Write the six sight words of this term. ",
+   "points": [
+    "there",
+    "live",
+    "four",
+    "do",
+    "they",
+    "give"
+   ]
+  },
+  {
+   "stem": "Correct this sentence: \"bola and ada went to abuja on monday.\" ",
+   "points": [
+    "Bola and Ada",
+    "Abuja",
+    "Monday",
+    "a full stop at the end"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write the three rules for using a capital letter and give an example of each.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a silent letter? Explain with \"comb\", \"knee\" and \"write\".",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Explain alternative spellings: write four words for the long a sound and four for the long e sound.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a trigraph? Give words with are, air, tch and ure.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "When do we use a, an and some? Write five examples and explain the one with a silent letter.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

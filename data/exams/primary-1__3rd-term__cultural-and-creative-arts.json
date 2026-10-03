@@ -1,0 +1,389 @@
+{
+ "subject": "Cultural and Creative Arts",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "A design that repeats is a ___",
+   "answer": "pattern",
+   "distractors": [
+    "song",
+    "sound",
+    "smell"
+   ]
+  },
+  {
+   "stem": "We can make a pattern with lines, shapes or ___",
+   "answer": "colours",
+   "distractors": [
+    "stones",
+    "water",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "We see patterns on cloth, walls and ___",
+   "answer": "mats",
+   "distractors": [
+    "sky",
+    "fire",
+    "dust"
+   ]
+  },
+  {
+   "stem": "A ___ is a plan for a picture or pattern",
+   "answer": "design",
+   "distractors": [
+    "noise",
+    "taste",
+    "game"
+   ]
+  },
+  {
+   "stem": "Printmaking is making a picture by ___",
+   "answer": "pressing",
+   "distractors": [
+    "singing",
+    "sleeping",
+    "running"
+   ]
+  },
+  {
+   "stem": "We can print with a leaf, a finger or a ___",
+   "answer": "potato",
+   "distractors": [
+    "stone",
+    "fire",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The mark we make is a ___",
+   "answer": "print",
+   "distractors": [
+    "song",
+    "sound",
+    "taste"
+   ]
+  },
+  {
+   "stem": "We dip an object in ___ and press it on paper",
+   "answer": "paint",
+   "distractors": [
+    "water",
+    "sand",
+    "oil"
+   ]
+  },
+  {
+   "stem": "Weaving is crossing strands over and ___",
+   "answer": "under",
+   "distractors": [
+    "over",
+    "round",
+    "through"
+   ]
+  },
+  {
+   "stem": "We weave with straw, paper or ___",
+   "answer": "cane",
+   "distractors": [
+    "water",
+    "fire",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "We can weave a mat or a ___",
+   "answer": "basket",
+   "distractors": [
+    "song",
+    "stone",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Weaving needs ___",
+   "answer": "patience",
+   "distractors": [
+    "anger",
+    "noise",
+    "haste"
+   ]
+  },
+  {
+   "stem": "Pottery is making things from ___",
+   "answer": "clay",
+   "distractors": [
+    "water",
+    "fire",
+    "sand"
+   ]
+  },
+  {
+   "stem": "We can mould a pot, a cup or a ___",
+   "answer": "bowl",
+   "distractors": [
+    "song",
+    "cloud",
+    "stone"
+   ]
+  },
+  {
+   "stem": "We let the clay dry and it ___",
+   "answer": "hardens",
+   "distractors": [
+    "melts",
+    "burns",
+    "flies"
+   ]
+  },
+  {
+   "stem": "A song of our people is a ___ song",
+   "answer": "folk",
+   "distractors": [
+    "foreign",
+    "new",
+    "strange"
+   ]
+  },
+  {
+   "stem": "Folk songs are old and ___ down",
+   "answer": "passed",
+   "distractors": [
+    "thrown",
+    "lost",
+    "hidden"
+   ]
+  },
+  {
+   "stem": "We sing folk songs at home and ___",
+   "answer": "festivals",
+   "distractors": [
+    "exams",
+    "sleep",
+    "fights"
+   ]
+  },
+  {
+   "stem": "A dance of our people is a ___ dance",
+   "answer": "cultural",
+   "distractors": [
+    "foreign",
+    "strange",
+    "new"
+   ]
+  },
+  {
+   "stem": "The Bata dance is a ___ dance",
+   "answer": "Yoruba",
+   "distractors": [
+    "Hausa",
+    "foreign",
+    "school"
+   ]
+  },
+  {
+   "stem": "We dance to the ___ of the drum",
+   "answer": "beat",
+   "distractors": [
+    "colour",
+    "smell",
+    "taste"
+   ]
+  },
+  {
+   "stem": "A doll we move to act a story is a ___",
+   "answer": "puppet",
+   "distractors": [
+    "stone",
+    "pot",
+    "mat"
+   ]
+  },
+  {
+   "stem": "A masked dancer at a festival is a ___",
+   "answer": "masquerade",
+   "distractors": [
+    "puppet",
+    "drum",
+    "flute"
+   ]
+  },
+  {
+   "stem": "Masquerades wear masks and ___",
+   "answer": "costumes",
+   "distractors": [
+    "shoes",
+    "books",
+    "stones"
+   ]
+  },
+  {
+   "stem": "What our people pass down to us is our cultural ___",
+   "answer": "heritage",
+   "distractors": [
+    "noise",
+    "dust",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "Our heritage includes our language, music and ___",
+   "answer": "dance",
+   "distractors": [
+    "smoke",
+    "fire",
+    "stone"
+   ]
+  },
+  {
+   "stem": "Our heritage includes our crafts, food and ___",
+   "answer": "dress",
+   "distractors": [
+    "cars",
+    "planes",
+    "phones"
+   ]
+  },
+  {
+   "stem": "We learn our heritage from our ___",
+   "answer": "elders",
+   "distractors": [
+    "pets",
+    "toys",
+    "shoes"
+   ]
+  },
+  {
+   "stem": "To hold as important is to ___",
+   "answer": "value",
+   "distractors": [
+    "lose",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Patterns make our art ___",
+   "answer": "beautiful",
+   "distractors": [
+    "ugly",
+    "dark",
+    "loud"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things we can use to make a pattern ",
+   "points": [
+    "lines",
+    "shapes",
+    "colours"
+   ]
+  },
+  {
+   "stem": "Name two things we can print with ",
+   "points": [
+    "leaf",
+    "finger",
+    "potato"
+   ]
+  },
+  {
+   "stem": "Name two things we can weave ",
+   "points": [
+    "mat",
+    "basket"
+   ]
+  },
+  {
+   "stem": "Name two things we can mould from clay ",
+   "points": [
+    "pot",
+    "cup",
+    "bowl"
+   ]
+  },
+  {
+   "stem": "Name two places we sing folk songs ",
+   "points": [
+    "home",
+    "festivals"
+   ]
+  },
+  {
+   "stem": "Name two cultural dances ",
+   "points": [
+    "Bata",
+    "Atilogwu",
+    "Swange"
+   ]
+  },
+  {
+   "stem": "Name two things about masquerades ",
+   "points": [
+    "masked",
+    "dance at festivals",
+    "wear costumes"
+   ]
+  },
+  {
+   "stem": "Name two parts of our cultural heritage ",
+   "points": [
+    "language",
+    "music",
+    "dance",
+    "crafts",
+    "food",
+    "dress"
+   ]
+  },
+  {
+   "stem": "Name two craft materials ",
+   "points": [
+    "straw",
+    "clay",
+    "cane",
+    "paper"
+   ]
+  },
+  {
+   "stem": "Name two things our people make ",
+   "points": [
+    "pots",
+    "mats",
+    "baskets",
+    "cloth"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a pattern?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is printmaking? Name one thing we print with.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is weaving? Name one thing we can weave.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two cultural dances.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is cultural heritage? Name two parts of it.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

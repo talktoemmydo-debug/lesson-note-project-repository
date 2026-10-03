@@ -1,0 +1,55 @@
+# Yoruba — Primary 1 · Second Term · term paper
+subject: Yoruba
+class: Primary 1
+term: 2nd Term
+
+[objective]
+"Mọ́kànlá" means ___ || eleven || twelve || ten || twenty
+"Èjìlá" means ___ || twelve || eleven || thirteen || two
+"Ogún" means ___ || twenty || ten || twelve || two
+"Ẹ̀tàlá" means ___ || thirteen || fourteen || twelve || three
+"Aṣọ" means ___ || clothes || food || house || water
+"Bàtà" means ___ || shoes || cap || trousers || gown
+"Fìlà" means ___ || cap || shoes || wrapper || top
+"Ṣòkòtò" means ___ || trousers || cap || shoes || dress
+"Ilé-ẹ̀kọ́" means ___ || school || house || market || farm
+"Olùkọ́" means ___ || teacher || pupil || book || desk
+"Ìwé" means ___ || book || pencil || chair || door
+"Akẹ́kọ̀ọ́" means ___ || pupil || teacher || school || bag
+"Ọjà" means ___ || market || school || house || farm
+"Owó" means ___ || money || food || water || cloth
+"Ilú" means ___ || town || house || farm || river
+"Ọ̀nà" means ___ || road || roof || door || tree
+"Ilé ìwòsàn" means ___ || hospital || school || market || church
+"Iṣẹ́" means ___ || work || food || house || water
+"Sáré" means to ___ || run || sleep || eat || read
+"Jẹun" means to ___ || eat || drink || jump || walk
+"Kà" means to ___ || read || write || sleep || run
+"Ojú ọjọ́" means ___ || weather || food || house || road
+"Òjò" means ___ || rain || sun || wind || stone
+"Oòrùn" means ___ || sun || rain || wind || moon
+"Èso" means ___ || fruit || food || water || meat
+"Ọ̀gẹ̀dẹ̀" means ___ || banana || orange || mango || guava
+"Ọ̀sàn" means ___ || orange || banana || mango || pineapple
+"Awo" means ___ || plate || cup || pot || knife
+"Ife" means ___ || cup || plate || pot || spoon
+"Ohun èlò ilé" means things we use in the ___ || home || road || farm || bush
+
+[subobjective]
+Name two numbers between 11 and 20 in Yoruba :: mọ́kànlá | èjìlá | ogún
+Name two clothes in Yoruba :: aṣọ | bàtà | fìlà | ṣòkòtò
+Name two things at school in Yoruba :: ilé-ẹ̀kọ́ | olùkọ́ | ìwé
+Name two things we buy at the market :: food | clothes | vegetables | meat
+Name two places in the town in Yoruba :: ọ̀nà | ilé ìwòsàn | ọjà
+Name two actions in Yoruba :: sáré | jẹun | kà | sun
+Name two weather words in Yoruba :: òjò | oòrùn | afẹ́fẹ́
+Name two fruits in Yoruba :: ọ̀gẹ̀dẹ̀ | ọ̀sàn | mángò
+Name two things in the home in Yoruba :: awo | ife | ìkòkò
+Name two seasons in Yoruba :: ìgbà ọ̀gbẹ̀lẹ̀ | ìgbà òjò
+
+[theory]
+Count from 11 to 15 in Yoruba. || 2
+Name two clothes in Yoruba. || 2
+What is the Yoruba word for teacher and for book? || 2
+Name two fruits in Yoruba. || 2
+Name two actions in Yoruba. || 2

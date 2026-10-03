@@ -1,0 +1,394 @@
+{
+ "subject": "Yoruba",
+ "class": "Primary 1",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "Yoruba has ___ tones",
+   "answer": "three",
+   "distractors": [
+    "one",
+    "five",
+    "ten"
+   ]
+  },
+  {
+   "stem": "The low tone is ___",
+   "answer": "dò",
+   "distractors": [
+    "mí",
+    "rè",
+    "kò"
+   ]
+  },
+  {
+   "stem": "The high tone is ___",
+   "answer": "mí",
+   "distractors": [
+    "dò",
+    "rè",
+    "bẹ̀"
+   ]
+  },
+  {
+   "stem": "The tone changes the ___ of a word",
+   "answer": "meaning",
+   "distractors": [
+    "colour",
+    "size",
+    "smell"
+   ]
+  },
+  {
+   "stem": "5 in Yoruba is ___",
+   "answer": "àrún",
+   "distractors": [
+    "ọ̀kan",
+    "èjì",
+    "ẹ̀wá"
+   ]
+  },
+  {
+   "stem": "10 in Yoruba is ___",
+   "answer": "ẹ̀wá",
+   "distractors": [
+    "ogún",
+    "ẹ̀ta",
+    "ẹ̀fà"
+   ]
+  },
+  {
+   "stem": "20 in Yoruba is ___",
+   "answer": "ogún",
+   "distractors": [
+    "ọ̀kan",
+    "àrún",
+    "ẹ̀jọ"
+   ]
+  },
+  {
+   "stem": "100 in Yoruba is ___",
+   "answer": "ọgọ́rùn-ún",
+   "distractors": [
+    "ogún",
+    "ọgbọ̀n",
+    "ẹ̀wá"
+   ]
+  },
+  {
+   "stem": "There are ___ days in a week",
+   "answer": "seven",
+   "distractors": [
+    "five",
+    "ten",
+    "twelve"
+   ]
+  },
+  {
+   "stem": "Monday in Yoruba is ___",
+   "answer": "Ajé",
+   "distractors": [
+    "Ẹtì",
+    "Àìkú",
+    "Ọjọ́rú"
+   ]
+  },
+  {
+   "stem": "Friday in Yoruba is ___",
+   "answer": "Ẹtì",
+   "distractors": [
+    "Ajé",
+    "Ìsẹ́gun",
+    "Àbámẹ́ta"
+   ]
+  },
+  {
+   "stem": "There are ___ months in a year",
+   "answer": "twelve",
+   "distractors": [
+    "seven",
+    "five",
+    "ten"
+   ]
+  },
+  {
+   "stem": "Where we buy and sell is the ___",
+   "answer": "ọjà",
+   "distractors": [
+    "ilé",
+    "ọ̀run",
+    "omi"
+   ]
+  },
+  {
+   "stem": "The person who buys is the ___",
+   "answer": "olùrà",
+   "distractors": [
+    "olóògbà",
+    "ọmọ",
+    "òbí"
+   ]
+  },
+  {
+   "stem": "We use ___ to buy things",
+   "answer": "owó",
+   "distractors": [
+    "omi",
+    "iṣu",
+    "àkàrà"
+   ]
+  },
+  {
+   "stem": "We ___ for a good price",
+   "answer": "ná",
+   "distractors": [
+    "sùn",
+    "jẹ",
+    "gbà"
+   ]
+  },
+  {
+   "stem": "Yam in Yoruba is ___",
+   "answer": "iṣu",
+   "distractors": [
+    "omi",
+    "ẹja",
+    "wàrà"
+   ]
+  },
+  {
+   "stem": "Water in Yoruba is ___",
+   "answer": "omi",
+   "distractors": [
+    "iṣu",
+    "ẹran",
+    "ọkà"
+   ]
+  },
+  {
+   "stem": "Fish in Yoruba is ___",
+   "answer": "ẹja",
+   "distractors": [
+    "ẹ̀wà",
+    "ìrèsí",
+    "ẹ̀fọ́"
+   ]
+  },
+  {
+   "stem": "Good food makes us ___ and healthy",
+   "answer": "strong",
+   "distractors": [
+    "weak",
+    "sick",
+    "sad"
+   ]
+  },
+  {
+   "stem": "Dog in Yoruba is ___",
+   "answer": "ajá",
+   "distractors": [
+    "olóngbò",
+    "erin",
+    "ẹṣin"
+   ]
+  },
+  {
+   "stem": "Cat in Yoruba is ___",
+   "answer": "olóngbò",
+   "distractors": [
+    "ajá",
+    "ehoro",
+    "ewúrẹ́"
+   ]
+  },
+  {
+   "stem": "Elephant in Yoruba is ___",
+   "answer": "erin",
+   "distractors": [
+    "kìnìún",
+    "màlúù",
+    "adìẹ"
+   ]
+  },
+  {
+   "stem": "Chicken in Yoruba is ___",
+   "answer": "adìẹ",
+   "distractors": [
+    "ẹyẹ",
+    "ẹja",
+    "ehoro"
+   ]
+  },
+  {
+   "stem": "A short saying with wisdom is a ___",
+   "answer": "òwe",
+   "distractors": [
+    "orin",
+    "ìtàn",
+    "eré"
+   ]
+  },
+  {
+   "stem": "Proverbs teach us ___ things",
+   "answer": "good",
+   "distractors": [
+    "bad",
+    "rude",
+    "lazy"
+   ]
+  },
+  {
+   "stem": "Words we sing are ___",
+   "answer": "orin",
+   "distractors": [
+    "òwe",
+    "ìtàn",
+    "eré"
+   ]
+  },
+  {
+   "stem": "Songs make us ___",
+   "answer": "happy",
+   "distractors": [
+    "sad",
+    "angry",
+    "sick"
+   ]
+  },
+  {
+   "stem": "A story in Yoruba is ___",
+   "answer": "ìtàn",
+   "distractors": [
+    "orin",
+    "òwe",
+    "eré"
+   ]
+  },
+  {
+   "stem": "Folk stories about animals are ___",
+   "answer": "àlọ́",
+   "distractors": [
+    "orin",
+    "òwe",
+    "ọ̀rọ̀"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the three Yoruba tones ",
+   "points": [
+    "dò",
+    "rè",
+    "mí"
+   ]
+  },
+  {
+   "stem": "Name five numbers in Yoruba ",
+   "points": [
+    "ọ̀kan",
+    "èjì",
+    "ẹ̀ta",
+    "ẹ̀rin",
+    "àrún"
+   ]
+  },
+  {
+   "stem": "Name three days in Yoruba ",
+   "points": [
+    "Àìkú",
+    "Ajé",
+    "Ìsẹ́gun",
+    "Ọjọ́rú",
+    "Ẹtì"
+   ]
+  },
+  {
+   "stem": "Name two things we buy at the market ",
+   "points": [
+    "food",
+    "cloth",
+    "vegetables"
+   ]
+  },
+  {
+   "stem": "Name three foods in Yoruba ",
+   "points": [
+    "iṣu",
+    "ọkà",
+    "ìrèsí",
+    "ẹ̀wà",
+    "ẹja"
+   ]
+  },
+  {
+   "stem": "Name three animals in Yoruba ",
+   "points": [
+    "ajá",
+    "olóngbò",
+    "erin",
+    "adìẹ",
+    "ewúrẹ́"
+   ]
+  },
+  {
+   "stem": "Name two things animals give us ",
+   "points": [
+    "food",
+    "milk",
+    "eggs",
+    "meat"
+   ]
+  },
+  {
+   "stem": "Name two kinds of songs ",
+   "points": [
+    "lullabies",
+    "play songs",
+    "praise songs"
+   ]
+  },
+  {
+   "stem": "Name one proverb in Yoruba ",
+   "points": [
+    "Ọmọ tí a kò kọ́ ni yóò gbé ilé tí a kọ́ tà",
+    "Bí a bá ń lọ a ń bọ̀"
+   ]
+  },
+  {
+   "stem": "Name two things stories teach us ",
+   "points": [
+    "lessons",
+    "wisdom",
+    "culture"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "How many tones does Yoruba have? Name them.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is 20 in Yoruba?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three foods in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a proverb? Say one you know.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three animals in Yoruba.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

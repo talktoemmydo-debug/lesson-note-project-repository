@@ -1,0 +1,390 @@
+{
+ "subject": "Basic Digital Literacy",
+ "class": "Primary 2",
+ "term": "1st Term",
+ "objective": [
+  {
+   "stem": "A machine that takes in information and gives results is a ___",
+   "answer": "computer",
+   "distractors": [
+    "radio",
+    "fan",
+    "stove"
+   ]
+  },
+  {
+   "stem": "The screen of a computer is the ___",
+   "answer": "monitor",
+   "distractors": [
+    "keyboard",
+    "mouse",
+    "speaker"
+   ]
+  },
+  {
+   "stem": "The main box of a computer is the ___",
+   "answer": "system unit",
+   "distractors": [
+    "monitor",
+    "mouse",
+    "printer"
+   ]
+  },
+  {
+   "stem": "A computer needs ___ to work",
+   "answer": "electricity",
+   "distractors": [
+    "water",
+    "fire",
+    "wind"
+   ]
+  },
+  {
+   "stem": "The parts of a computer we can see and touch are ___",
+   "answer": "hardware",
+   "distractors": [
+    "software",
+    "data",
+    "wires"
+   ]
+  },
+  {
+   "stem": "Which of these is an input device?",
+   "answer": "keyboard",
+   "distractors": [
+    "monitor",
+    "printer",
+    "speaker"
+   ]
+  },
+  {
+   "stem": "Which of these is an output device?",
+   "answer": "monitor",
+   "distractors": [
+    "keyboard",
+    "mouse",
+    "scanner"
+   ]
+  },
+  {
+   "stem": "The ___ holds the main working parts",
+   "answer": "system unit",
+   "distractors": [
+    "mouse",
+    "keyboard",
+    "screen"
+   ]
+  },
+  {
+   "stem": "The instructions that tell the computer what to do are ___",
+   "answer": "software",
+   "distractors": [
+    "hardware",
+    "wires",
+    "keys"
+   ]
+  },
+  {
+   "stem": "Can we touch software?",
+   "answer": "no",
+   "distractors": [
+    "yes",
+    "maybe",
+    "sometimes"
+   ]
+  },
+  {
+   "stem": "Software that helps us do work is ___ software",
+   "answer": "application",
+   "distractors": [
+    "system",
+    "hard",
+    "soft"
+   ]
+  },
+  {
+   "stem": "Without software, the hardware ___",
+   "answer": "cannot do anything",
+   "distractors": [
+    "works faster",
+    "sings",
+    "sleeps"
+   ]
+  },
+  {
+   "stem": "At school we use computers to learn and ___",
+   "answer": "type",
+   "distractors": [
+    "cook",
+    "wash",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "In banks, computers keep ___ records",
+   "answer": "money",
+   "distractors": [
+    "food",
+    "water",
+    "cloth"
+   ]
+  },
+  {
+   "stem": "We can draw, write and ___ with a computer",
+   "answer": "calculate",
+   "distractors": [
+    "cook",
+    "bathe",
+    "run"
+   ]
+  },
+  {
+   "stem": "Computers make work fast and ___",
+   "answer": "easy",
+   "distractors": [
+    "hard",
+    "slow",
+    "dirty"
+   ]
+  },
+  {
+   "stem": "The room where we use computers at school is the ___ room",
+   "answer": "computer",
+   "distractors": [
+    "class",
+    "staff",
+    "store"
+   ]
+  },
+  {
+   "stem": "We enter the computer room with ___",
+   "answer": "permission",
+   "distractors": [
+    "noise",
+    "food",
+    "water"
+   ]
+  },
+  {
+   "stem": "We do not ___ in the computer room",
+   "answer": "eat or drink",
+   "distractors": [
+    "sit",
+    "look",
+    "learn"
+   ]
+  },
+  {
+   "stem": "We handle the computers with ___",
+   "answer": "care",
+   "distractors": [
+    "anger",
+    "force",
+    "noise"
+   ]
+  },
+  {
+   "stem": "The input device with keys is the ___",
+   "answer": "keyboard",
+   "distractors": [
+    "mouse",
+    "monitor",
+    "printer"
+   ]
+  },
+  {
+   "stem": "We use the keyboard to ___ into the computer",
+   "answer": "type",
+   "distractors": [
+    "sing",
+    "cook",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "The ___ makes a space between words",
+   "answer": "space bar",
+   "distractors": [
+    "enter key",
+    "shift key",
+    "number key"
+   ]
+  },
+  {
+   "stem": "We press the keys ___",
+   "answer": "gently",
+   "distractors": [
+    "hard",
+    "roughly",
+    "fast"
+   ]
+  },
+  {
+   "stem": "The input device we use to point is the ___",
+   "answer": "mouse",
+   "distractors": [
+    "keyboard",
+    "monitor",
+    "printer"
+   ]
+  },
+  {
+   "stem": "We ___ by pressing a mouse button once",
+   "answer": "click",
+   "distractors": [
+    "type",
+    "sing",
+    "run"
+   ]
+  },
+  {
+   "stem": "The mouse moves the ___ on the screen",
+   "answer": "pointer",
+   "distractors": [
+    "key",
+    "wire",
+    "box"
+   ]
+  },
+  {
+   "stem": "We care for the computer so it ___",
+   "answer": "lasts long",
+   "distractors": [
+    "breaks",
+    "sleeps",
+    "sings"
+   ]
+  },
+  {
+   "stem": "We keep the computer clean and free of ___",
+   "answer": "dust",
+   "distractors": [
+    "water",
+    "food",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We switch it off ___ when we finish",
+   "answer": "properly",
+   "distractors": [
+    "quickly",
+    "roughly",
+    "never"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two parts of a computer ",
+   "points": [
+    "monitor",
+    "keyboard",
+    "mouse",
+    "system unit"
+   ]
+  },
+  {
+   "stem": "Name two hardware parts ",
+   "points": [
+    "monitor",
+    "keyboard",
+    "mouse",
+    "printer"
+   ]
+  },
+  {
+   "stem": "Name two input devices ",
+   "points": [
+    "keyboard",
+    "mouse",
+    "scanner"
+   ]
+  },
+  {
+   "stem": "Name two output devices ",
+   "points": [
+    "monitor",
+    "printer",
+    "speaker"
+   ]
+  },
+  {
+   "stem": "Name two types of software ",
+   "points": [
+    "system software",
+    "application software"
+   ]
+  },
+  {
+   "stem": "Name two uses of computers ",
+   "points": [
+    "learning",
+    "typing",
+    "drawing",
+    "calculating"
+   ]
+  },
+  {
+   "stem": "Name two rules of the computer room ",
+   "points": [
+    "do not eat or drink",
+    "handle with care",
+    "keep it clean"
+   ]
+  },
+  {
+   "stem": "Name two keys on the keyboard ",
+   "points": [
+    "letter keys",
+    "number keys",
+    "space bar",
+    "enter key"
+   ]
+  },
+  {
+   "stem": "Name two things we do with a mouse ",
+   "points": [
+    "point",
+    "click",
+    "drag",
+    "double-click"
+   ]
+  },
+  {
+   "stem": "Name two ways to care for the computer ",
+   "points": [
+    "keep it clean",
+    "do not eat near it",
+    "switch off properly"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a computer? Name one part.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is hardware? Name two hardware parts.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is software? Can we touch it?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two uses of computers.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name two ways to care for the computer.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

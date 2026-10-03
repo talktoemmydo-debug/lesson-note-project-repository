@@ -1,0 +1,55 @@
+# Basic Digital Literacy — Primary 2 · Third Term · term paper
+subject: Basic Digital Literacy
+class: Primary 2
+term: 3rd Term
+
+[objective]
+A trick to steal our information is ___ || phishing || fishing || washing || pushing
+A phishing message may ask for a ___ or money || password || pencil || plate || pillow
+It may say "You have ___ a prize." || won || lost || hidden || broken
+We do not click ___ links || strange || safe || good || kind
+Using a phone or computer to be unkind is ___ || cyberbullying || kindness || sharing || helping
+Cyberbullying makes people feel ___ || sad || happy || glad || proud
+Cyberbullying is ___ || wrong || right || good || kind
+We tell a ___ if someone is unkind to us || grown-up || stranger || thief || baby
+Including everyone is ___ || inclusivity || excluding || hiding || leaving out
+We show people of different ___ || colours || stones || trees || clouds
+We show ___ and girls together || boys || stones || trees || clouds
+We use ___ words about everyone || kind || mean || rude || angry
+Telling a computer what to do is ___ || programming || playing || sleeping || eating
+We give the computer ___ || instructions || stones || trees || clouds
+A list of instructions is called a ___ || program || song || story || game
+Instructions must be in the ___ order || right || wrong || mixed || no
+A place where we make programs is ___ || Scratch || stone || tree || cloud
+In Scratch we use ___ || blocks || stones || trees || clouds
+The ___ is the character we move || sprite || stone || tree || cloud
+We use the ___ flag to start || green || red || black || blue
+We ___ blocks to the work area || drag || burn || break || hide
+We ___ blocks together || snap || burn || break || hide
+"Move 10 steps" makes the sprite ___ || move || sleep || stop || hide
+"Say hello" makes the sprite ___ || talk || sleep || stop || hide
+The "turn 15 degrees" block makes the sprite ___ || turn || sleep || stop || hide
+"Repeat 10" does something ___ times || ten || one || two || three
+We can change the ___ of the sprite || colour || stone || tree || cloud
+We ___ our program often || test || burn || break || hide
+The order of steps is called ___ || sequence || silence || science || story
+We put on our shoes after our ___ || socks || stones || trees || clouds
+
+[subobjective]
+Name two things a phishing message may ask for :: password | money | to click a strange link
+Name two things that are cyberbullying :: mean words | nasty pictures | leaving someone out
+Name two groups we should include :: boys and girls | people of different colours | people who use a wheelchair
+Name two steps in order :: step 1 | step 2
+Name two parts of Scratch :: blocks | sprite | stage
+Name two Scratch blocks :: move 10 steps | say hello | turn 15 degrees | repeat 10
+Name two things we can add to a program :: sound | colour | another sprite
+Name two steps in the right order :: wash hands | eat
+Name two things we do with blocks :: drag | snap
+Name two things a computer cannot do on its own :: think | decide | choose
+
+[theory]
+What is phishing? Name two things we should not do. || 2
+What is cyberbullying? Why is it wrong? || 2
+What does inclusivity mean? Name two groups we should include. || 2
+What is programming? What is an instruction? || 2
+What is sequence? Why must steps be in the right order? || 2

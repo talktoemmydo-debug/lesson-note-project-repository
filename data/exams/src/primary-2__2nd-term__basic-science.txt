@@ -1,0 +1,55 @@
+# Basic Science — Primary 2 · Second Term · term paper
+subject: Basic Science
+class: Primary 2
+term: 2nd Term
+
+[objective]
+Moving air is called ___ || wind || water || stone || fire
+A gentle wind is a ___ || breeze || storm || rain || cloud
+Wind makes leaves and ___ move || flags || stones || water || fire
+A ___ moves air to cool us || fan || stone || pot || book
+Clean water has no colour, no smell and no ___ || taste || stone || fire || smoke
+Clean water is ___ || clear || dark || dirty || thick
+Dirty water can make us ___ || sick || strong || tall || happy
+We ___ or boil water to make it clean || filter || dirty || waste || hide
+We ___ water every day || drink || burn || break || hide
+We use water to bathe and ___ || wash || burn || break || hide
+Plants need water to ___ || grow || burn || break || hide
+We use water to put out ___ || fire || stone || tree || cloud
+The part that holds a plant in the ground is the ___ || root || flower || fruit || leaf
+The part that makes food for the plant is the ___ || leaf || root || stem || fruit
+The ___ turns into fruit || flower || root || stem || leaf
+Plants need water, air and ___ || sunlight || stone || fire || smoke
+A big tall plant is a ___ || tree || herb || stone || cloud
+A small soft plant is an ___ || herb || tree || animal || bird
+Plants grow from ___ || seeds || stones || water || fire
+A seed grows into a ___ first || seedling || tree || fruit || flower
+An animal that lives at home is a ___ animal || domestic || wild || fierce || lost
+Which animal lives in water? || fish || goat || dog || bird
+Which animal can fly? || bird || cow || goat || dog
+Animals give us food, milk and ___ || help || stone || fire || smoke
+The tools and machines we use to do work is ___ || technology || sleep || food || water
+A ___ is a simple technology for sweeping || broom || stone || cloud || tree
+A ___ is a technology for talking || phone || stone || tree || cloud
+Technology makes work easy and ___ || fast || slow || hard || dirty
+___ helps us to see || Light || Stone || Water || Sand
+The ___ is a natural source of light || sun || stone || tree || cloud
+
+[subobjective]
+Name two things wind can do :: move leaves | move flags | cool us | move a boat
+Name two ways to keep water clean :: filter it | boil it | keep it in a clean container
+Name two uses of water :: drinking | bathing | cooking | washing
+Name two parts of a plant :: root | stem | leaf | flower | fruit
+Name two types of plants :: tree | herb | shrub
+Name two animals that live at home :: dog | cat | goat | cow
+Name two simple technologies :: broom | knife | bicycle | phone
+Name two sources of light :: sun | lamp | torch | candle
+Name two things animals give us :: food | milk | help
+Name two things plants need to grow :: water | air | sunlight
+
+[theory]
+What is wind? Name one thing it can do. || 2
+What is clean water? How do we make water clean? || 2
+Name the parts of a plant. || 2
+Name two animals that live at home and two that live in water. || 2
+What is technology? Name two simple technologies. || 2

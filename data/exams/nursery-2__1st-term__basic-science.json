@@ -1,0 +1,392 @@
+{
+ "subject": "Basic Science",
+ "class": "Nursery 2",
+ "term": "First Term",
+ "objective": [
+  {
+   "stem": "Our body has a head, a neck, a trunk, and the ___",
+   "answer": "arms and legs",
+   "distractors": [
+    "tail and wings",
+    "ears and nose",
+    "knees and sandals"
+   ]
+  },
+  {
+   "stem": "The part that joins the head to the body is the ___",
+   "answer": "neck",
+   "distractors": [
+    "waist",
+    "chest",
+    "ankle"
+   ]
+  },
+  {
+   "stem": "We use our ___ to hear sounds",
+   "answer": "ears",
+   "distractors": [
+    "nose",
+    "elbows",
+    "toes"
+   ]
+  },
+  {
+   "stem": "How many fingers do we have on both hands?",
+   "answer": "ten",
+   "distractors": [
+    "five",
+    "eight",
+    "twelve"
+   ]
+  },
+  {
+   "stem": "The part of the trunk at the back of us is the ___",
+   "answer": "back",
+   "distractors": [
+    "chest",
+    "waist",
+    "chin"
+   ]
+  },
+  {
+   "stem": "Which of these is found on the arm?",
+   "answer": "wrist",
+   "distractors": [
+    "knee",
+    "ankle",
+    "hip"
+   ]
+  },
+  {
+   "stem": "We brush our teeth ___ a day",
+   "answer": "twice",
+   "distractors": [
+    "once",
+    "five times",
+    "three times"
+   ]
+  },
+  {
+   "stem": "Before eating we must ___",
+   "answer": "wash our hands",
+   "distractors": [
+    "run about the room",
+    "sleep on the mat",
+    "watch the television"
+   ]
+  },
+  {
+   "stem": "Our nails should be kept ___",
+   "answer": "short and clean",
+   "distractors": [
+    "long and full of dirt",
+    "painted with chalk",
+    "wet with water"
+   ]
+  },
+  {
+   "stem": "Which one do we use on our hair?",
+   "answer": "a comb",
+   "distractors": [
+    "a spoon",
+    "a plaster",
+    "a cup"
+   ]
+  },
+  {
+   "stem": "Every day we should wear ___ clothes",
+   "answer": "clean",
+   "distractors": [
+    "wet",
+    "torn",
+    "someone else's"
+   ]
+  },
+  {
+   "stem": "For the body to be strong we must ___",
+   "answer": "eat good food and sleep well",
+   "distractors": [
+    "eat only sweets every day",
+    "never play outside at all",
+    "drink only cold soft drinks"
+   ]
+  },
+  {
+   "stem": "First aid is the ___ help given to a hurt person",
+   "answer": "first",
+   "distractors": [
+    "last",
+    "slowest",
+    "secret"
+   ]
+  },
+  {
+   "stem": "Which of these is kept in the first aid box?",
+   "answer": "plaster",
+   "distractors": [
+    "chalk",
+    "cutlass",
+    "broom"
+   ]
+  },
+  {
+   "stem": "Which one is NOT a first aid box item?",
+   "answer": "chewing stick",
+   "distractors": [
+    "a roll of cotton wool",
+    "a clean bandage",
+    "a small thermometer"
+   ]
+  },
+  {
+   "stem": "A thermometer is used to ___",
+   "answer": "tell if the body is hot",
+   "distractors": [
+    "cut the bandage in two",
+    "wash the school chairs",
+    "count the pupils in class"
+   ]
+  },
+  {
+   "stem": "A bandage is used to ___",
+   "answer": "wrap up a wound",
+   "distractors": [
+    "cook the family food",
+    "brush the school gate",
+    "carry books to the office"
+   ]
+  },
+  {
+   "stem": "Who should use the things in the first aid box?",
+   "answer": "a grown-up",
+   "distractors": [
+    "any pupil",
+    "a baby",
+    "the class goat"
+   ]
+  },
+  {
+   "stem": "A wound is an injury that ___",
+   "answer": "breaks the skin",
+   "distractors": [
+    "cleans the skin",
+    "warms the skin",
+    "paints the skin"
+   ]
+  },
+  {
+   "stem": "A blue-black mark from bumping, with the skin not open, is a ___",
+   "answer": "bruise",
+   "distractors": [
+    "burn",
+    "cut",
+    "plaster"
+   ]
+  },
+  {
+   "stem": "Which kind of wound comes from a thorn or a nail going deep into the skin?",
+   "answer": "Puncture wound",
+   "distractors": [
+    "A small blue bruise",
+    "A clean dry graze",
+    "A soft round bump"
+   ]
+  },
+  {
+   "stem": "Which one can cause a burn?",
+   "answer": "a hot pot",
+   "distractors": [
+    "a cold fan",
+    "a soft pillow",
+    "a school bag"
+   ]
+  },
+  {
+   "stem": "What is the first thing to do before caring for a wound?",
+   "answer": "wash the hands",
+   "distractors": [
+    "blow the dust in",
+    "run and shout",
+    "put mud on it"
+   ]
+  },
+  {
+   "stem": "We clean a small wound with ___",
+   "answer": "clean water",
+   "distractors": [
+    "a cup of dirty water",
+    "some kerosene",
+    "chalk dust from the board"
+   ]
+  },
+  {
+   "stem": "On a healing wound there is a scab. We must ___",
+   "answer": "leave it alone",
+   "distractors": [
+    "pick it every day",
+    "cut it with a blade",
+    "rub sand on it"
+   ]
+  },
+  {
+   "stem": "Sickness means the body ___",
+   "answer": "is not working properly",
+   "distractors": [
+    "is working quite well",
+    "is growing too fast",
+    "is always clean and neat"
+   ]
+  },
+  {
+   "stem": "Which one is a sign of sickness?",
+   "answer": "high temperature",
+   "distractors": [
+    "very clean nails",
+    "a brand new school shoe",
+    "a loud happy laugh"
+   ]
+  },
+  {
+   "stem": "Malaria is brought to us by the bite of a ___",
+   "answer": "mosquito",
+   "distractors": [
+    "goat",
+    "bird",
+    "rat"
+   ]
+  },
+  {
+   "stem": "A sick person should drink plenty of ___",
+   "answer": "water",
+   "distractors": [
+    "soda",
+    "kerosene",
+    "palm oil"
+   ]
+  },
+  {
+   "stem": "The top layer of the earth where plants grow is called ___",
+   "answer": "soil",
+   "distractors": [
+    "rock",
+    "sand only",
+    "water"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name the five big parts of the body. ",
+   "points": [
+    "head",
+    "neck",
+    "trunk",
+    "arms",
+    "legs"
+   ]
+  },
+  {
+   "stem": "Mention four parts found on the head. ",
+   "points": [
+    "eyes",
+    "nose",
+    "ears",
+    "mouth"
+   ]
+  },
+  {
+   "stem": "State three daily practices that keep the body clean. ",
+   "points": [
+    "bathing",
+    "brushing teeth twice",
+    "washing hands"
+   ]
+  },
+  {
+   "stem": "Name four things inside a first aid box. ",
+   "points": [
+    "plasters",
+    "bandages",
+    "cotton wool",
+    "antiseptic"
+   ]
+  },
+  {
+   "stem": "Give the use of each: (a) plaster (b) thermometer (c) bandage. ",
+   "points": [
+    "covers a small cut",
+    "checks for fever",
+    "wraps a wound / supports a sprain"
+   ]
+  },
+  {
+   "stem": "Mention three things that can cause wounds at home. ",
+   "points": [
+    "sharp objects",
+    "hot pots or fire",
+    "falls and scrapes"
+   ]
+  },
+  {
+   "stem": "Write the steps for caring for a small wound in order. ",
+   "points": [
+    "wash hands",
+    "clean with water",
+    "apply antiseptic",
+    "cover with plaster"
+   ]
+  },
+  {
+   "stem": "Name four signs (symptoms) of sickness. ",
+   "points": [
+    "fever",
+    "pain",
+    "coughing",
+    "vomit"
+   ]
+  },
+  {
+   "stem": "State three ways of preventing sickness. ",
+   "points": [
+    "wash hands",
+    "eat healthy food and drink clean water",
+    "sleep under a mosquito net"
+   ]
+  },
+  {
+   "stem": "Name the types of soil and mark the one best for plants. ",
+   "points": [
+    "sandy",
+    "clay",
+    "loamy — best for plants"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Name four parts of your body and say what each one does.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Why must we keep our body clean? Give three reasons.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Your friend falls in the compound and his knee is bleeding. What should you do?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is sickness? Name four causes and three ways of preventing it.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What are rocks? Mention three uses of rocks and three types of soil.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

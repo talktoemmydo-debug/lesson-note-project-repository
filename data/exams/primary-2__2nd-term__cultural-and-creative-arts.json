@@ -1,0 +1,388 @@
+{
+ "subject": "Cultural and Creative Arts",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "A story we act out is a ___",
+   "answer": "drama",
+   "distractors": [
+    "song",
+    "stone",
+    "dream"
+   ]
+  },
+  {
+   "stem": "We choose a story we ___",
+   "answer": "like",
+   "distractors": [
+    "hate",
+    "lose",
+    "break"
+   ]
+  },
+  {
+   "stem": "Each person plays a ___",
+   "answer": "role",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We ___ the drama before we act",
+   "answer": "practise",
+   "distractors": [
+    "forget",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "Acting out a drama is ___ it",
+   "answer": "staging",
+   "distractors": [
+    "breaking",
+    "hiding",
+    "losing"
+   ]
+  },
+  {
+   "stem": "We use our ___ to speak our lines",
+   "answer": "voice",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We can wear ___ for the drama",
+   "answer": "costumes",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "The people who watch are the ___",
+   "answer": "audience",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "Cloth we use for dresses is ___",
+   "answer": "fabric",
+   "distractors": [
+    "stone",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "Aso-oke is a ___ woven cloth",
+   "answer": "Yoruba",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Akwaete is an ___ woven cloth",
+   "answer": "Igbo",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "Traditional fabrics are made by skilled ___",
+   "answer": "weavers",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "The clothing of our people is ___ dress",
+   "answer": "traditional",
+   "distractors": [
+    "foreign",
+    "torn",
+    "dirty"
+   ]
+  },
+  {
+   "stem": "The Yoruba wear buba and sokoto with a ___",
+   "answer": "gele",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "The Hausa wear babbar riga and a ___",
+   "answer": "cap",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We wear traditional dress on ___ days",
+   "answer": "special",
+   "distractors": [
+    "ordinary",
+    "sad",
+    "rainy"
+   ]
+  },
+  {
+   "stem": "A thing we add to our dress is an ___",
+   "answer": "accessory",
+   "distractors": [
+    "enemy",
+    "error",
+    "exit"
+   ]
+  },
+  {
+   "stem": "___ are worn on the neck and wrist",
+   "answer": "Beads",
+   "distractors": [
+    "Stones",
+    "Trees",
+    "Clouds"
+   ]
+  },
+  {
+   "stem": "A ___ is worn on the head",
+   "answer": "cap",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "A walking stick is held by ___",
+   "answer": "elders",
+   "distractors": [
+    "babies",
+    "stones",
+    "trees"
+   ]
+  },
+  {
+   "stem": "We can make a ___ from beads",
+   "answer": "necklace",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We use beads, thread, cloth and ___",
+   "answer": "paper",
+   "distractors": [
+    "stone",
+    "water",
+    "fire"
+   ]
+  },
+  {
+   "stem": "We ___ the beads to make a necklace",
+   "answer": "thread",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ and sew cloth to make a cap",
+   "answer": "cut",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We can make an ___ from beads",
+   "answer": "earring",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We ___ our work with colours",
+   "answer": "decorate",
+   "distractors": [
+    "break",
+    "burn",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We make our work ___",
+   "answer": "neat",
+   "distractors": [
+    "messy",
+    "dirty",
+    "torn"
+   ]
+  },
+  {
+   "stem": "A special day to show our culture is ___ day",
+   "answer": "cultural",
+   "distractors": [
+    "rainy",
+    "market",
+    "school"
+   ]
+  },
+  {
+   "stem": "We can show our dress, dance and ___",
+   "answer": "food",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We wear our ___ dress on cultural day",
+   "answer": "traditional",
+   "distractors": [
+    "torn",
+    "dirty",
+    "foreign"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things we do to make a drama ",
+   "points": [
+    "choose a story",
+    "find the characters",
+    "plan the roles"
+   ]
+  },
+  {
+   "stem": "Name two things we use to act a drama ",
+   "points": [
+    "voice",
+    "body",
+    "costumes"
+   ]
+  },
+  {
+   "stem": "Name two traditional fabrics ",
+   "points": [
+    "aso-oke",
+    "akwaete",
+    "a'ngbanya"
+   ]
+  },
+  {
+   "stem": "Name two traditional dresses ",
+   "points": [
+    "buba and sokoto",
+    "isiagu",
+    "babbar riga"
+   ]
+  },
+  {
+   "stem": "Name two traditional accessories ",
+   "points": [
+    "beads",
+    "cap",
+    "walking stick",
+    "earrings"
+   ]
+  },
+  {
+   "stem": "Name two accessories we can make ",
+   "points": [
+    "necklace",
+    "bracelet",
+    "cap",
+    "earring"
+   ]
+  },
+  {
+   "stem": "Name two materials we use for accessories ",
+   "points": [
+    "beads",
+    "thread",
+    "cloth",
+    "paper"
+   ]
+  },
+  {
+   "stem": "Name two things we show on cultural day ",
+   "points": [
+    "dress",
+    "dance",
+    "food",
+    "drama"
+   ]
+  },
+  {
+   "stem": "Name two ways we decorate our work ",
+   "points": [
+    "use colours",
+    "make it neat"
+   ]
+  },
+  {
+   "stem": "Name two things we do to prepare for cultural day ",
+   "points": [
+    "plan what to show",
+    "practise the dance"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is a drama? Name two things we do to make one.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a fabric? Name two traditional fabrics.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is traditional dress? Name one.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is an accessory? Name two.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is cultural day? Name two things we show.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

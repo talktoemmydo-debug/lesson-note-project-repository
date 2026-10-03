@@ -1,0 +1,384 @@
+{
+ "subject": "Basic Digital Literacy",
+ "class": "Primary 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "A trick to steal our information is ___",
+   "answer": "phishing",
+   "distractors": [
+    "fishing",
+    "washing",
+    "pushing"
+   ]
+  },
+  {
+   "stem": "A phishing message may ask for a ___ or money",
+   "answer": "password",
+   "distractors": [
+    "pencil",
+    "plate",
+    "pillow"
+   ]
+  },
+  {
+   "stem": "It may say \"You have ___ a prize.\"",
+   "answer": "won",
+   "distractors": [
+    "lost",
+    "hidden",
+    "broken"
+   ]
+  },
+  {
+   "stem": "We do not click ___ links",
+   "answer": "strange",
+   "distractors": [
+    "safe",
+    "good",
+    "kind"
+   ]
+  },
+  {
+   "stem": "Using a phone or computer to be unkind is ___",
+   "answer": "cyberbullying",
+   "distractors": [
+    "kindness",
+    "sharing",
+    "helping"
+   ]
+  },
+  {
+   "stem": "Cyberbullying makes people feel ___",
+   "answer": "sad",
+   "distractors": [
+    "happy",
+    "glad",
+    "proud"
+   ]
+  },
+  {
+   "stem": "Cyberbullying is ___",
+   "answer": "wrong",
+   "distractors": [
+    "right",
+    "good",
+    "kind"
+   ]
+  },
+  {
+   "stem": "We tell a ___ if someone is unkind to us",
+   "answer": "grown-up",
+   "distractors": [
+    "stranger",
+    "thief",
+    "baby"
+   ]
+  },
+  {
+   "stem": "Including everyone is ___",
+   "answer": "inclusivity",
+   "distractors": [
+    "excluding",
+    "hiding",
+    "leaving out"
+   ]
+  },
+  {
+   "stem": "We show people of different ___",
+   "answer": "colours",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We show ___ and girls together",
+   "answer": "boys",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "We use ___ words about everyone",
+   "answer": "kind",
+   "distractors": [
+    "mean",
+    "rude",
+    "angry"
+   ]
+  },
+  {
+   "stem": "Telling a computer what to do is ___",
+   "answer": "programming",
+   "distractors": [
+    "playing",
+    "sleeping",
+    "eating"
+   ]
+  },
+  {
+   "stem": "We give the computer ___",
+   "answer": "instructions",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "A list of instructions is called a ___",
+   "answer": "program",
+   "distractors": [
+    "song",
+    "story",
+    "game"
+   ]
+  },
+  {
+   "stem": "Instructions must be in the ___ order",
+   "answer": "right",
+   "distractors": [
+    "wrong",
+    "mixed",
+    "no"
+   ]
+  },
+  {
+   "stem": "A place where we make programs is ___",
+   "answer": "Scratch",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "In Scratch we use ___",
+   "answer": "blocks",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  },
+  {
+   "stem": "The ___ is the character we move",
+   "answer": "sprite",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We use the ___ flag to start",
+   "answer": "green",
+   "distractors": [
+    "red",
+    "black",
+    "blue"
+   ]
+  },
+  {
+   "stem": "We ___ blocks to the work area",
+   "answer": "drag",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "We ___ blocks together",
+   "answer": "snap",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "\"Move 10 steps\" makes the sprite ___",
+   "answer": "move",
+   "distractors": [
+    "sleep",
+    "stop",
+    "hide"
+   ]
+  },
+  {
+   "stem": "\"Say hello\" makes the sprite ___",
+   "answer": "talk",
+   "distractors": [
+    "sleep",
+    "stop",
+    "hide"
+   ]
+  },
+  {
+   "stem": "The \"turn 15 degrees\" block makes the sprite ___",
+   "answer": "turn",
+   "distractors": [
+    "sleep",
+    "stop",
+    "hide"
+   ]
+  },
+  {
+   "stem": "\"Repeat 10\" does something ___ times",
+   "answer": "ten",
+   "distractors": [
+    "one",
+    "two",
+    "three"
+   ]
+  },
+  {
+   "stem": "We can change the ___ of the sprite",
+   "answer": "colour",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "We ___ our program often",
+   "answer": "test",
+   "distractors": [
+    "burn",
+    "break",
+    "hide"
+   ]
+  },
+  {
+   "stem": "The order of steps is called ___",
+   "answer": "sequence",
+   "distractors": [
+    "silence",
+    "science",
+    "story"
+   ]
+  },
+  {
+   "stem": "We put on our shoes after our ___",
+   "answer": "socks",
+   "distractors": [
+    "stones",
+    "trees",
+    "clouds"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name two things a phishing message may ask for ",
+   "points": [
+    "password",
+    "money",
+    "to click a strange link"
+   ]
+  },
+  {
+   "stem": "Name two things that are cyberbullying ",
+   "points": [
+    "mean words",
+    "nasty pictures",
+    "leaving someone out"
+   ]
+  },
+  {
+   "stem": "Name two groups we should include ",
+   "points": [
+    "boys and girls",
+    "people of different colours",
+    "people who use a wheelchair"
+   ]
+  },
+  {
+   "stem": "Name two steps in order ",
+   "points": [
+    "step 1",
+    "step 2"
+   ]
+  },
+  {
+   "stem": "Name two parts of Scratch ",
+   "points": [
+    "blocks",
+    "sprite",
+    "stage"
+   ]
+  },
+  {
+   "stem": "Name two Scratch blocks ",
+   "points": [
+    "move 10 steps",
+    "say hello",
+    "turn 15 degrees",
+    "repeat 10"
+   ]
+  },
+  {
+   "stem": "Name two things we can add to a program ",
+   "points": [
+    "sound",
+    "colour",
+    "another sprite"
+   ]
+  },
+  {
+   "stem": "Name two steps in the right order ",
+   "points": [
+    "wash hands",
+    "eat"
+   ]
+  },
+  {
+   "stem": "Name two things we do with blocks ",
+   "points": [
+    "drag",
+    "snap"
+   ]
+  },
+  {
+   "stem": "Name two things a computer cannot do on its own ",
+   "points": [
+    "think",
+    "decide",
+    "choose"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "What is phishing? Name two things we should not do.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is cyberbullying? Why is it wrong?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What does inclusivity mean? Name two groups we should include.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is programming? What is an instruction?",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is sequence? Why must steps be in the right order?",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

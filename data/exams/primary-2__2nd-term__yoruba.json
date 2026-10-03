@@ -1,0 +1,390 @@
+{
+ "subject": "Yoruba",
+ "class": "Primary 2",
+ "term": "2nd Term",
+ "objective": [
+  {
+   "stem": "In the morning we say ___",
+   "answer": "Ẹ káàárọ̀",
+   "distractors": [
+    "Ẹ káalẹ́",
+    "Ẹ káàsán",
+    "Ẹ ṣeun"
+   ]
+  },
+  {
+   "stem": "In the evening we say ___",
+   "answer": "Ẹ káalẹ́",
+   "distractors": [
+    "Ẹ káàárọ̀",
+    "Ẹ káàsán",
+    "Ẹ jọ̀wọ́"
+   ]
+  },
+  {
+   "stem": "We say ___ when we ask",
+   "answer": "Ẹ jọ̀wọ́",
+   "distractors": [
+    "Ẹ ṣeun",
+    "Ẹ káàárọ̀",
+    "Ẹ káalẹ́"
+   ]
+  },
+  {
+   "stem": "Greetings show ___",
+   "answer": "respect",
+   "distractors": [
+    "anger",
+    "noise",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "Orange in Yoruba is ___",
+   "answer": "ọ̀sàn",
+   "distractors": [
+    "èdè",
+    "páálí",
+    "mángò"
+   ]
+  },
+  {
+   "stem": "Banana in Yoruba is ___",
+   "answer": "èdè",
+   "distractors": [
+    "ọ̀sàn",
+    "páálí",
+    "mángò"
+   ]
+  },
+  {
+   "stem": "Fruit in Yoruba is ___",
+   "answer": "èso",
+   "distractors": [
+    "ọ̀rọ̀",
+    "omi",
+    "iṣu"
+   ]
+  },
+  {
+   "stem": "We eat fruits to be ___",
+   "answer": "healthy",
+   "distractors": [
+    "weak",
+    "sick",
+    "sad"
+   ]
+  },
+  {
+   "stem": "Song in Yoruba is ___",
+   "answer": "orin",
+   "distractors": [
+    "òwe",
+    "ìtàn",
+    "eré"
+   ]
+  },
+  {
+   "stem": "We sing with a good ___",
+   "answer": "voice",
+   "distractors": [
+    "noise",
+    "shout",
+    "cry"
+   ]
+  },
+  {
+   "stem": "Songs make us ___",
+   "answer": "happy",
+   "distractors": [
+    "sad",
+    "angry",
+    "sick"
+   ]
+  },
+  {
+   "stem": "Songs teach us our ___",
+   "answer": "language",
+   "distractors": [
+    "anger",
+    "noise",
+    "sleep"
+   ]
+  },
+  {
+   "stem": "170 in Yoruba is ___",
+   "answer": "àádọ́rin",
+   "distractors": [
+    "ogún",
+    "ẹ̀wá",
+    "ọgọ́rùn-ún"
+   ]
+  },
+  {
+   "stem": "How we talk with others is ___",
+   "answer": "communication",
+   "distractors": [
+    "sleep",
+    "eating",
+    "running"
+   ]
+  },
+  {
+   "stem": "We communicate by talking and ___",
+   "answer": "writing",
+   "distractors": [
+    "sleeping",
+    "eating",
+    "crying"
+   ]
+  },
+  {
+   "stem": "We communicate by ___",
+   "answer": "phone",
+   "distractors": [
+    "stone",
+    "tree",
+    "cloud"
+   ]
+  },
+  {
+   "stem": "\"Èmi\" in Yoruba means ___",
+   "answer": "I or me",
+   "distractors": [
+    "you",
+    "he",
+    "they"
+   ]
+  },
+  {
+   "stem": "\"Ìwọ\" in Yoruba means ___",
+   "answer": "you",
+   "distractors": [
+    "I",
+    "we",
+    "they"
+   ]
+  },
+  {
+   "stem": "\"Àwa\" in Yoruba means ___",
+   "answer": "we or us",
+   "distractors": [
+    "I",
+    "you",
+    "they"
+   ]
+  },
+  {
+   "stem": "Yoruba heritage work is iṣẹ́ ___",
+   "answer": "ajogúnbá",
+   "distractors": [
+    "ọjà",
+    "ilé",
+    "omi"
+   ]
+  },
+  {
+   "stem": "A short saying with wisdom is a ___",
+   "answer": "òwe",
+   "distractors": [
+    "orin",
+    "ìtàn",
+    "eré"
+   ]
+  },
+  {
+   "stem": "The market in Yoruba is ___",
+   "answer": "ọjà",
+   "distractors": [
+    "ilé",
+    "omi",
+    "ọ̀run"
+   ]
+  },
+  {
+   "stem": "Money in Yoruba is ___",
+   "answer": "owó",
+   "distractors": [
+    "omi",
+    "iṣu",
+    "ẹja"
+   ]
+  },
+  {
+   "stem": "We ___ for a good price",
+   "answer": "ná",
+   "distractors": [
+    "sùn",
+    "jẹ",
+    "gbà"
+   ]
+  },
+  {
+   "stem": "200 in Yoruba is ___",
+   "answer": "igba",
+   "distractors": [
+    "ogún",
+    "ẹ̀wá",
+    "ọgọ́rùn-ún"
+   ]
+  },
+  {
+   "stem": "Chair in Yoruba is ___",
+   "answer": "àga",
+   "distractors": [
+    "tábìlì",
+    "ìkòkò",
+    "èrè"
+   ]
+  },
+  {
+   "stem": "Pot in Yoruba is ___",
+   "answer": "ìkòkò",
+   "distractors": [
+    "àga",
+    "ìfé",
+    "èní"
+   ]
+  },
+  {
+   "stem": "We keep our household items ___",
+   "answer": "clean",
+   "distractors": [
+    "dirty",
+    "broken",
+    "lost"
+   ]
+  },
+  {
+   "stem": "This week we ___ our Yoruba work",
+   "answer": "revise",
+   "distractors": [
+    "forget",
+    "lose",
+    "hide"
+   ]
+  },
+  {
+   "stem": "This week we ___ for the paper",
+   "answer": "prepare",
+   "distractors": [
+    "forget",
+    "lose",
+    "hide"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Name three Yoruba greetings ",
+   "points": [
+    "Ẹ káàárọ̀",
+    "Ẹ káàsán",
+    "Ẹ káalẹ́"
+   ]
+  },
+  {
+   "stem": "Name three fruits in Yoruba ",
+   "points": [
+    "ọ̀sàn",
+    "èdè",
+    "páálí",
+    "mángò"
+   ]
+  },
+  {
+   "stem": "Name two ways we communicate ",
+   "points": [
+    "talking",
+    "writing",
+    "phone",
+    "signs"
+   ]
+  },
+  {
+   "stem": "Name three Yoruba pronouns ",
+   "points": [
+    "èmi",
+    "ìwọ",
+    "òun",
+    "àwa",
+    "ẹ̀yin",
+    "wọ́n"
+   ]
+  },
+  {
+   "stem": "Name two things we buy at the market ",
+   "points": [
+    "food",
+    "cloth",
+    "money"
+   ]
+  },
+  {
+   "stem": "Name three household items in Yoruba ",
+   "points": [
+    "àga",
+    "tábìlì",
+    "ìkòkò",
+    "ìfé"
+   ]
+  },
+  {
+   "stem": "Name two things we revise ",
+   "points": [
+    "greetings",
+    "counting",
+    "pronouns",
+    "proverbs"
+   ]
+  },
+  {
+   "stem": "Name two ways we prepare for the paper ",
+   "points": [
+    "read our notes",
+    "practise words"
+   ]
+  },
+  {
+   "stem": "Name two Yoruba words for permission ",
+   "points": [
+    "ẹ jọ̀wọ́",
+    "àṣẹ"
+   ]
+  },
+  {
+   "stem": "Name two places we sing ",
+   "points": [
+    "home",
+    "school"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Name the three Yoruba greetings and when we use them.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three fruits in Yoruba.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three Yoruba pronouns and what they mean.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "What is a proverb? Say one.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Name three household items in Yoruba.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}

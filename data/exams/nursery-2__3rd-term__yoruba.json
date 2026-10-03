@@ -1,0 +1,394 @@
+{
+ "subject": "Yoruba",
+ "class": "Nursery 2",
+ "term": "3rd Term",
+ "objective": [
+  {
+   "stem": "\"Ẹ jó!\" tells the class to ____",
+   "answer": "sit down",
+   "distractors": [
+    "stand up",
+    "begin reading",
+    "wash the hand"
+   ]
+  },
+  {
+   "stem": "To make a command polite we put in the word ____",
+   "answer": "jọ̀wọ́",
+   "distractors": [
+    "ṣé",
+    "àáṣẹ̀",
+    "ṣeé"
+   ]
+  },
+  {
+   "stem": "\"Ẹ káàlẹ́\" is the greeting said in ____",
+   "answer": "the evening",
+   "distractors": [
+    "the morning",
+    "the market",
+    "the class"
+   ]
+  },
+  {
+   "stem": "When an elder is greeted, a girl ____ and a boy lies full length.",
+   "answer": "kneels",
+   "distractors": [
+    "runs",
+    "jumps",
+    "shouts"
+   ]
+  },
+  {
+   "stem": "\"à-kà-rá\" said together gives the word ____",
+   "answer": "àkàrà",
+   "distractors": [
+    "kàrà",
+    "àrá",
+    "àkà"
+   ]
+  },
+  {
+   "stem": "How many sounds is the word \"bàtà\" made of? ____",
+   "answer": "two",
+   "distractors": [
+    "four",
+    "one",
+    "six"
+   ]
+  },
+  {
+   "stem": "The fruit of the palm that is pressed for red oil is ____",
+   "answer": "ọ̀pẹ̀",
+   "distractors": [
+    "áńbà",
+    "àmùtì",
+    "bílíbilí"
+   ]
+  },
+  {
+   "stem": "An àlọ́ àpamọ́ is the kind of story that ____",
+   "answer": "hides a lesson",
+   "distractors": [
+    "ends in a lie",
+    "is only a song",
+    "counts the days"
+   ]
+  },
+  {
+   "stem": "The call \"Àlọ́ o!\" takes the reply ____",
+   "answer": "Àpamọ́!",
+   "distractors": [
+    "À ń ṣé!",
+    "Báwo ni o!",
+    "Ẹ ṣé gan!"
+   ]
+  },
+  {
+   "stem": "When a child wants to reply to the teacher he says ____",
+   "answer": "Mi ò",
+   "distractors": [
+    "Lọ kúrò",
+    "Ó dára",
+    "Moò ṣé"
+   ]
+  },
+  {
+   "stem": "If a word is too fast for us we say \"Ẹ jọ̀wọ́, ____\"",
+   "answer": "tún un sọ",
+   "distractors": [
+    "lọ kúrò",
+    "wò ó",
+    "fi sí i"
+   ]
+  },
+  {
+   "stem": "The body is washed at òwúrọ̀ and again ____",
+   "answer": "in the evening",
+   "distractors": [
+    "in a month",
+    "on Monday",
+    "twice a year"
+   ]
+  },
+  {
+   "stem": "Hands wash with soap before food and after ____",
+   "answer": "the toilet",
+   "distractors": [
+    "the drum",
+    "the song",
+    "the market gate"
+   ]
+  },
+  {
+   "stem": "Twenty in Yoruba is ____",
+   "answer": "ogún",
+   "distractors": [
+    "ẹ́wàá",
+    "ogótà",
+    "àrún"
+   ]
+  },
+  {
+   "stem": "\"Ogún àti ẹ̀ta\" is the number ____",
+   "answer": "23",
+   "distractors": [
+    "32",
+    "13",
+    "40"
+   ]
+  },
+  {
+   "stem": "Forty is said in Yoruba as ____",
+   "answer": "ogótà",
+   "distractors": [
+    "ọ̀ọ́dúnrún",
+    "ogún mẹ́rin",
+    "ọ̀rúnmọ́lẹ́dógún"
+   ]
+  },
+  {
+   "stem": "Ogún àti ọ̀kan plus ọ̀kan is ____",
+   "answer": "ogún àti èjì",
+   "distractors": [
+    "ogún àti ẹ̀ta",
+    "ogún àti ọ̀kan",
+    "ogún nìkan"
+   ]
+  },
+  {
+   "stem": "The day of thanks and rest is called ____",
+   "answer": "Ọjọ́ Àìkú",
+   "distractors": [
+    "Ọjọ́bọ̀",
+    "Ọjọ́ Ayé",
+    "Ọjọ́rú"
+   ]
+  },
+  {
+   "stem": "On Ọjọ́ Àbámẹ́ta the children ____",
+   "answer": "sweep and play",
+   "distractors": [
+    "sleep all day",
+    "work on the farm",
+    "count the pots"
+   ]
+  },
+  {
+   "stem": "\"Àwọ̀ ewé\" is the colour of ____",
+   "answer": "a leaf",
+   "distractors": [
+    "the sky",
+    "a stone",
+    "new milk"
+   ]
+  },
+  {
+   "stem": "The Yoruba for red is ____",
+   "answer": "púpà",
+   "distractors": [
+    "funfun",
+    "dúdú",
+    "àwọ̀ ilẹ̀"
+   ]
+  },
+  {
+   "stem": "\"Iṣẹ́ ni òògùn ìẹ́\" says the medicine for shame is ____",
+   "answer": "work",
+   "distractors": [
+    "play",
+    "sleep",
+    "wealth"
+   ]
+  },
+  {
+   "stem": "The elder sibling, who leads by the hand, is the ____",
+   "answer": "ẹ̀gbọ́n",
+   "distractors": [
+    "àbúrò",
+    "àgbàlagbà",
+    "ọmọ ìyá"
+   ]
+  },
+  {
+   "stem": "Before she takes a thing, a younger child always ____",
+   "answer": "asks first",
+   "distractors": [
+    "runs off",
+    "hides it",
+    "laughs loud"
+   ]
+  },
+  {
+   "stem": "\"Kí ni n ń fi ọ̀lẹ̀ ṣe?\" is the question inside a ____",
+   "answer": "character song",
+   "distractors": [
+    "number card",
+    "market call",
+    "lullaby"
+   ]
+  },
+  {
+   "stem": "Before the pot goes on the fire the wet flour is pressed so that the ____ goes out.",
+   "answer": "water",
+   "distractors": [
+    "oil",
+    "sand",
+    "smoke"
+   ]
+  },
+  {
+   "stem": "\"Fa kọ́kọ́ yọ\" in the akọ̀sọ̀rọ̀ drill means to ____",
+   "answer": "pull out the knot",
+   "distractors": [
+    "eat the food",
+    "sweep the yard",
+    "fetch the water"
+   ]
+  },
+  {
+   "stem": "\"Ahọ́n\" is the ____",
+   "answer": "tongue",
+   "distractors": [
+    "ear",
+    "nose",
+    "neck"
+   ]
+  },
+  {
+   "stem": "The beaded crown worn by the Òba is his ____",
+   "answer": "àdé",
+   "distractors": [
+    "ìka",
+    "ẹ̀kẹ́",
+    "asọ̀"
+   ]
+  },
+  {
+   "stem": "Over a village, under the Òba, is the ____",
+   "answer": "Baale",
+   "distractors": [
+    "Aláàfin",
+    "Olúbadan",
+    "Ọọni"
+   ]
+  }
+ ],
+ "subobjective": [
+  {
+   "stem": "Say four actions the teacher names in Yoruba ",
+   "points": [
+    "ẹ dú",
+    "ẹ jó",
+    "ẹ ka",
+    "ẹ kọ́"
+   ]
+  },
+  {
+   "stem": "Name three greetings and the time each one belongs to ",
+   "points": [
+    "ẹ káàárọ̀ (morning)",
+    "ẹ ká ọ̀sán (afternoon)",
+    "ẹ káàlẹ́ (evening)"
+   ]
+  },
+  {
+   "stem": "Join the sounds and write the words ",
+   "points": [
+    "à-kà-rá = àkàrà",
+    "bà-tà = bàtà"
+   ]
+  },
+  {
+   "stem": "Mention four fruits of our land ",
+   "points": [
+    "ọ̀gẹ̀dẹ̀",
+    "áńbà",
+    "ọ̀pẹ̀",
+    "bílíbilí"
+   ]
+  },
+  {
+   "stem": "Say the two kinds of àlọ́ and what each one does ",
+   "points": [
+    "àpamọ́ (hides a lesson)",
+    "àpàgbé (carries the evening away)"
+   ]
+  },
+  {
+   "stem": "Write the numbers 21 to 24 in Yoruba ",
+   "points": [
+    "ogún àti ọ̀kan",
+    "ogún àti èjì",
+    "ogún àti ẹ̀ta",
+    "ogún àti ẹ̀rin"
+   ]
+  },
+  {
+   "stem": "Mention six colours in Yoruba ",
+   "points": [
+    "funfun",
+    "dúdú",
+    "púpà",
+    "àwọ̀ ọ̀sàn",
+    "àwọ̀ ewé",
+    "àwọ̀ òfurufú"
+   ]
+  },
+  {
+   "stem": "Say two duties of ẹ̀gbọ́n and two of àbúrò ",
+   "points": [
+    "leading by the hand",
+    "sharing what he has",
+    "listening",
+    "asking before taking"
+   ]
+  },
+  {
+   "stem": "Name the work on ọ̀gẹ̀ in order, four steps ",
+   "points": [
+    "digging",
+    "peeling and washing",
+    "grating and pressing",
+    "sieving and frying"
+   ]
+  },
+  {
+   "stem": "Mention five parts of the body in Yoruba ",
+   "points": [
+    "orí",
+    "ojú",
+    "etí",
+    "ẹnu",
+    "ọwọ́"
+   ]
+  }
+ ],
+ "theory": [
+  {
+   "stem": "Write two sentences on how a play song is sung and what the class does when it stops.",
+   "marks": 2,
+   "points": []
+  },
+  {
+   "stem": "Join the sounds and write the words: à-kà-rá, bà-tà, ọ-kọ́.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Say what \"Iṣẹ́ ni òògùn ìẹ́\" means and write one thing you do at home that proves it.",
+   "marks": 4,
+   "points": []
+  },
+  {
+   "stem": "Write two sentences on the duties of ẹ̀gbọ́n and àbúrò in one house.",
+   "marks": 3,
+   "points": []
+  },
+  {
+   "stem": "Describe the crown of the Òba and say how a man and a woman greet him.",
+   "marks": 2,
+   "points": []
+  }
+ ]
+}
